@@ -366,5 +366,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Оваа анонимна анкета ја спроведува Фондацијата Викимедија. [https://meta.wikimedia.org/wiki/Community_Safety Прочитајте повеќе] или погледајте ја [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement изјавата за лични податоци].",
 	"gadget-curidlink-link-by-id": "Врска по назнака",
 	"gadget-curidlink-link-by-id-desc": "Прикажи ја врската до страницава според нејзината назнака",
-	"gadget-souspages-subpages": "Потстраници"
+	"gadget-souspages-subpages": "Потстраници",
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "За повеќе информации, погледајте ја [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement изјавата за личните податоци] на оваа анкета."
 }
