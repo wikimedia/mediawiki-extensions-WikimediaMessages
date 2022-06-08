@@ -7,7 +7,8 @@
 			"Patriccck",
 			"Patrik L.",
 			"SaldırganSincap",
-			"YjM"
+			"YjM",
+			"Adam N."
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Uživatelé používající vaši IP adresu za poslední den vytvořili už $1 {{PLURAL:$1|účet|účty|účtů}}, což je pro toto období maximum.\nProto není v tuto chvíli dovoleno z této IP adresy zakládat další účty.\n\nPokud se účastníte události, která se zaměřuje na přispívání do projektů Wikimedia, podívejte se na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žádost o dočasné zrušení omezení pro IP adresu]], aby šlo tento problém vyřešit.",
@@ -19,6 +20,7 @@
 	"wikimedia-centralauth-uwbr-intro": "Tato stránka uvádí uživatele registrované na této wiki, kteří budou přejmenováni kvůli [[m:Single User Login finalisation announcement|dokončení Sjednocení přihlašovacích účtů]]. Více informací najdete na stránce [[m:Help:Unified login|sjednoceného přihlašování]]. Uživatelé mohou kdykoli požádat o přejmenování na stránce [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "před 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Uživatelské_jméno",
+	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 globální příspěvky] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} kontroly] • [{{fullurl:Special:Block/$1}} místní blokování] nebo [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 globální blokování] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolokace] • [//ipcheck.toolforge.org/index.php?ip=$1 indikace proxy] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
 	"wikimedia-delete-toobig": "Tato stránka má velkou historii editací, přes $1 {{PLURAL:$1|verzi|verze|verzí}}.\nMazání takových stránek je omezeno, aby se předešlo nechtěnému narušení {{grammar:2sg|{{SITENAME}}}}.\nO smazání této stránky prosíme požádejte [[m:Special:MyLanguage/Stewards|stevardy]] na stránce [[m:Steward requests/Miscellaneous|Žádosti stevardům/Různé na Metě]].",
 	"wikimedia-discussiontools-replywidget-terms-click": "Kliknutím na „$1“ souhlasíte s našimi [https://foundation.wikimedia.org/wiki/Terms_of_Use/cs Podmínkami užití] a souhlasíte s neodvolatelným zveřejněním svého textu za podmínek licencí [https://creativecommons.org/licenses/by-sa/3.0/deed.cs CC&nbsp;BY-SA 3.0] a [https://cs.wikipedia.org/wiki/Wikipedie:GNU_Free_Documentation_License GFDL].",
 	"wikimedia-feedback-termsofuse": "Souhlasím s tím, že budu poskytovat zpětnou vazbu v souladu s <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/cs\" target=\"_blank\">Podmínkami užití</a>.",
