@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jeeputer"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 حساب کاربری «$4» ($5) را در {{GENDER:$8|$6}} ($7) {{GENDER:$2|ادغام کرد}}",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 حساب کاربری «$4» ($5) را {{GENDER:$2|حذف کرد}}",
+	"wikimedia-log-action-filter-usermerge": "نوع عمل:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "ادغام حساب کاربری",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "حذف حساب کاربری",
+	"wikimedia-usermerge-logpage": "سیاههٔ ادغام کاربر",
+	"wikimedia-usermerge-logpagetext": "سیاهه‌ای از عمل‌های ادغام کاربر."
+}

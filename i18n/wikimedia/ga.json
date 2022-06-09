@@ -3,7 +3,8 @@
 		"authors": [
 			"Alison",
 			"MinecraftAustralia",
-			"Tem"
+			"Tem",
+			"Dowlinme"
 		]
 	},
 	"wikimediamessages-desc": "Teachtaireachtaí sainiúil an Viciméid",
@@ -48,5 +49,7 @@
 	"wikibase-sitelinks-wikiquote": "Vicíshliocht",
 	"wikibase-sitelinks-wikisource": "Vicífhoinse",
 	"wikibase-sitelinks-wikivoyage": "Vicíthaisteal",
-	"wikimedia-developers": "Forbróirí"
+	"wikimedia-developers": "Forbróirí",
+	"wikimedia-statslink": "Staitisticí",
+	"wikimedia-cookiestatement": "Ráiteas fianán"
 }

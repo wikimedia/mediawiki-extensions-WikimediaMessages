@@ -8,7 +8,8 @@
 			"Mahdy Saffar",
 			"Nemo bis",
 			"Reza1615",
-			"Rtemis"
+			"Rtemis",
+			"LordProfo"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(کمک برای انتخاب)]]",
@@ -16,7 +17,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|یک حساب درخواست کنید]]",
 	"wikimedia-centralauth-groupname": "بنیاد ویکی‌مدیا",
 	"wikimedia-centralauth-login-error-locked": "<strong>این حساب کاربری [[m:Special:MyLanguage/Global locks|به‌صورت سراسری قفل شده‌است]].</strong>\n{{GENDER:$1|شما}} قادر به ورود به هیچ‌یک از ویکی‌های ویکی‌مدیا نخواهید بود. اگر هرگونه سؤالی {{GENDER:$1|دارید}}، لطفاً [[m:Special:Contact/stewards|با ویکی‌بدها تماس بگیرید]].",
-	"createacct-helpusername-url": "{{ns:Project}}سیاست_نام_کاربری",
+	"createacct-helpusername-url": "{{ns:Project}}:سیاست_نام_کاربری",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 global مشارکت‌ها] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} بازرسی‌ها] • [{{fullurl:Special:Block/$1}} قطع دسترسی محلی] یا [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 قطع دسترسی سراسری] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 بررسی نشانگر پروکسی] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
 	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است، بیش از $1 ویرایش. حذف صفحات دارای تاریخچهٔ پر ویرایش محدود شده‌است تا از به‌هم‌ریختگی اتفاقی {{SITENAME}} جلوگیری شود.\nبرای درخواست حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
 	"wikimedia-discussiontools-replywidget-terms-click": "با کلیک روی «$1»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفادهٔ ما] را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان {{PLURAL:$3|تحت}} $2 موافقت می‌کنید.",

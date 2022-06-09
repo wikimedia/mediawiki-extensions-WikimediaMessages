@@ -31,7 +31,8 @@
 			"ToprakM",
 			"Uncitoyen",
 			"Vito Genovese",
-			"Superyetkin"
+			"Superyetkin",
+			"Victor Trevor"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -172,11 +173,11 @@
 	"grouppage-global-bot": "m:Global bot",
 	"group-global-flow-create": "Küresel Flow oluşturucular",
 	"group-global-flow-create-member": "{{GENDER:$1|Küresel akış oluşturucusu}}",
-	"group-global-ipblock-exempt": "Küresel IP bloğu muafiyeti",
-	"group-global-ipblock-exempt-member": "{{GENDER:$1|küresel IP bloğu muafı}}",
+	"group-global-ipblock-exempt": "Küresel IP engelleme muafiyetleri",
+	"group-global-ipblock-exempt-member": "{{GENDER:$1|küresel IP engelleme muafı}}",
 	"grouppage-global-ipblock-exempt": "m:Global IP block exemptions",
-	"group-global-interface-editor": "Küresel teknisyenler",
-	"group-global-interface-editor-member": "{{GENDER:$1|küresel teknisyen}}",
+	"group-global-interface-editor": "Küresel arayüz yöneticileri",
+	"group-global-interface-editor-member": "{{GENDER:$1|küresel arayüz yöneticisi}}",
 	"grouppage-global-interface-editor": "m:Teknisyenler",
 	"group-global-renamer": "Küresel yeniden adlandırıcılar",
 	"group-global-renamer-member": "{{GENDER:$1|küresel yeniden adlandırıcı}}",
