@@ -8,5 +8,6 @@
 	"grouppage-oversight": "{{ns:project}}:Supraveghetori",
 	"group-oversight": "Supraveghetori",
 	"group-oversight-member": "{{GENDER:$1|supraveghetor|supraveghetoare|supraveghetor}}",
+	"hello": "Bună",
 	"specialinvestigate-feedback": "Lăsați feedback"
 }

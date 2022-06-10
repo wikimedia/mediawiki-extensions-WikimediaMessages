@@ -20,5 +20,6 @@
 	"wikimedia-interfaceadmin-info": "Permisiunile pentru editarea de CSS/JS/JSON global au fost recent restricționate la membrii grupului [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]. Vedeți [[m:Creation of separate user group for editing sitewide CSS/JS]] pentru mai multe informații.",
 	"wikimedia-sitematrix": "Lista proiectelor Wikimedia",
 	"wikimedia-sitematrix-others": "Alte proiecte Wikimedia",
-	"wikimedia-sitematrix-summary": "Această pagină specială listează toate wiki-urile Wikimedia."
+	"wikimedia-sitematrix-summary": "Această pagină specială listează toate wiki-urile Wikimedia.",
+	"wikimedia-ipinfo-preference-use-agreement": "Sunt de acord să utilizez această unealtă în concordanță cu [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines îndrumările uneltei pentru Informații despre IP], exclusiv pentru a investiga sau preveni vandalismul, abuzul sau alte încălcări ale politicilor Fundației Wikimedia sau ale comunității."
 }
