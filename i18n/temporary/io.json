@@ -5,5 +5,6 @@
 		]
 	},
 	"group-oversight": "Kontroleri",
+	"hello": "Saluto",
 	"thank-you": "{{GENDER:$1|Danko.}}"
 }
