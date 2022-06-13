@@ -21,5 +21,6 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "„{{int:flow-topic-action-unlock-topic}}“-ზე დაწკაპუნებით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ka გამოყენების პირობებს] და თქვენი ტექსტის შეუქცევად განთავსებას [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] და [[GNU Free Documentation License|GFDL]] ლიცენზიებით.",
 	"wikimedia-sitematrix": "ვიკიმედიის პროექტების სია",
 	"wikimedia-sitematrix-others": "ვიკიმედიას სხვა პროექტები",
-	"wikimedia-sitematrix-summary": "ეს სპეციალური გვერდი წარმოადგენს ვიკიმედიის ვიკი-პროექტების სიას"
+	"wikimedia-sitematrix-summary": "ეს სპეციალური გვერდი წარმოადგენს ვიკიმედიის ვიკი-პროექტების სიას",
+	"wikimedia-ipinfo-source-geoip2": "თქვენ მიერ ამ ხელსაწყოს მოხმარება განსაზღვრულია [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP-ის ინფორმაციის ხელსაწყოს სახელმძღვანელო წესებით]."
 }

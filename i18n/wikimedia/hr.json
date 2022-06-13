@@ -316,5 +316,6 @@
 	"group-docseditor": "Uređivači dokumentacije",
 	"group-docseditor-member": "{{GENDER:$1|uređivač|uređivačica|uređivač/uređivačica}} dokumentacije",
 	"action-docseditor": "uređivanje dokumentacije",
-	"right-docseditor": "Uređivanje dokumentacije"
+	"right-docseditor": "Uređivanje dokumentacije",
+	"ipinfo-feedback-button-label": "Napišite povratnu informaciju"
 }
