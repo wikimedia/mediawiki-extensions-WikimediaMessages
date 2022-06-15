@@ -9,7 +9,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Visitantes desta wiki com o seu endereço IP criaram {{PLURAL:$1|1 conta|$1 contas}} no último dia, que é o máximo permitido nesse período.\nEm resultado, os visitantes que utilizem este endereço não podem criar mais contas neste momento.\n\nSe estiver num evento onde o foco é a contribuição para projetos da Wikimedia, consulte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Pedir remoção temporária do limite IP]] para ajudar a resolver este problema, por favor.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajudar a escolher)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Pode visitar a sua página de preferências em [[m:Special:CentralAuth/$1|outros projetos da Wikimedia onde contribuiu]] para descarregar os dados da sua conta desses projetos.",
+	"wikimedia-prefs-user-downloaddata-help-message": "Pode visitar a sua página de preferências [[m:Special:CentralAuth/$1|noutros projetos da Wikimedia em que tenha feito edições]] para descarregar os dados da sua conta nesses projetos.",
 	"wikimedia-createacct-imgcaptcha-help": "Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Peça uma conta]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-centralauth-login-error-locked": "<strong>Esta conta está [[m:Special:MyLanguage/Global locks|bloqueada globalmente]].</strong> Não {{GENDER:$1|poderá}} entrar em nenhuma wiki da Wikimedia. Se {{GENDER:$1|tem}} alguma pergunta [[m:Special:Contact/stewards|contacte os ''stewards'']], por favor.",

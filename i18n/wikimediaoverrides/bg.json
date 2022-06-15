@@ -11,6 +11,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощ при избора)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Може да посетите страницата си със Настройки на [[m:Special:CentralAuth/$1|други проекти на Уикимедия, в които имате приноси]], за да изтеглите данните от сметката си в тези проекти.",
 	"wikimedia-createacct-imgcaptcha-help": "Не виждате изображението? [[{{MediaWiki:createacct-captcha-help-url}}|Помолете за разкриване на сметка]]",
 	"wikimedia-centralauth-groupname": "Фондация Уикимедия",
 	"wikimedia-centralauth-login-error-locked": "<strong>Този профил е [[m:Special:MyLanguage/Global locks|глобално заключен]].</strong> {{GENDER:$1|}}Няма да можете да влезете във всяко Уикимедийно уики. [[m:Special:Contact/stewards|Свържете се със стюардите]], ако имате някакви въпроси.",

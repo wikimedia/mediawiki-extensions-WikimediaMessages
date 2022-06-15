@@ -79,7 +79,7 @@
 	"group-abusefilter": "편집 필터 편집자",
 	"group-abusefilter-member": "{{GENDER:$1|편집 필터 편집자}}",
 	"grouppage-abusefilter": "{{ns:project}}:편집 필터 편집자",
-	"group-abusefilter-helper": "편집 필터 편집자",
+	"group-abusefilter-helper": "편집 필터 도우미",
 	"group-abusefilter-helper-member": "{{GENDER:$1|편집 필터 도우미}}",
 	"group-abusefilter-maintainer": "편집 필터 유지보수자",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|편집 필터 유지보수자}}",

@@ -3,12 +3,13 @@
 		"authors": [
 			"Hanberke",
 			"Nemo bis",
-			"Runningfridgesrule"
+			"Runningfridgesrule",
+			"TayfunEt."
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia ýörite habarlaşyklary",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=tk",
-	"sitesupport": "Bagyşlama et",
+	"sitesupport": "Bagyş et",
 	"tooltip-n-sitesupport": "Bizi goldaň",
 	"specialpages-group-contribution": "Goşantlar/Fond ýygnaýjy",
 	"group-image-reviewer": "Şekil gözden geçirijiler",
@@ -95,5 +96,8 @@
 	"wikimedia-copyrightwarning": "Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-ShareAlike License 3.0] we [https://www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [https://foundation.wikimedia.org/wiki/ Ulanyş şertlerine] serediň.",
 	"wikibase-sitelinks-wikinews": "Wikitäzelikler",
 	"wikibase-sitelinks-wikisource": "Wikiçeşme",
-	"wikimedia-developers": "Işläp düzüjiler"
+	"wikibase-sitelinks-wikivoyage": "Wikisyýahat",
+	"wikimedia-developers": "Işläp düzüjiler",
+	"wikimedia-statslink": "Statistika",
+	"wikimedia-cookiestatement": "Gutapjyk beýany"
 }

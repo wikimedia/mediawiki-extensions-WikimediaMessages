@@ -54,7 +54,7 @@
 	"group-arbcom-member": "{{GENDER:$1|члан Арбитражног одбора}}",
 	"grouppage-arbcom": "{{ns:project}}:Чланови Арбитражног одбора",
 	"group-autopatrolled": "Аутоматски патролирани",
-	"group-autopatrolled-member": "{{GENDER:$1|аутоматски патролиран|аутоматски патролирана}}",
+	"group-autopatrolled-member": "{{GENDER:$1|аутопатролер}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Аутоматски патролирани",
 	"group-autoreviewer": "Аутоматски прегледани",
 	"group-autoreviewer-member": "{{GENDER:$1|самооцењивач|самооцењивачица|самооцењивач}}",
@@ -207,7 +207,7 @@
 	"right-editeditorprotected": "уређивање страница под заштитом „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Допуштено само уредницима",
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
-	"protect-level-editextendedsemiprotected": "Дозвољено само аутоматски патролираним корисницима",
+	"protect-level-editextendedsemiprotected": "Дозвољено само аутопатролерима",
 	"eri-rcfilters-tour-intro-welcome-title": "Представљамо побољшано филтрирање скорашњих измена",
 	"eri-rcfilters-tour-intro-welcome-description": "Прегледајте измене ефикасније користећи нове филтере, могућност да сачувате скупове филтера, кориснички дефинисано истицање и моћ машинског учења. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Прегледајте измене ефикасније користећи нове филтере, са могућношћу да сачувате сетове филтера, кориснички дефинисаним истицањем и другим побољшањима. $1",
@@ -229,6 +229,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Да ли се ова страница учитала довољно брзо?",
 	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
 	"querypage-updates-half-monthly": "Страница се ажурира двапут месечно.",
-	"protect-level-editautopatrolprotected": "Дозвољено само аутоматски патролираним корисницима",
+	"protect-level-editautopatrolprotected": "Дозвољено само аутопатролерима",
 	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)"
 }
