@@ -41,5 +41,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "meta.wikimedia.org يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع",
 	"wikimedia-urlshortener-badaccessgroups": "لا يمكن إنشاء الروابط القصيرة إلا عبر صفحة[[:m:Special:UrlShortener|خاص:مقصر المسار]] على meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع meta.wikimedia.org.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سياسة الخصوصية]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سياسة الخصوصية]",
+	"wikimedia-ipinfo-source-geoip2": "يخضع استخدامك لهذه الأداة [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines لإرشادات أداة معلومات بروتوكول الإنترنت]."
 }

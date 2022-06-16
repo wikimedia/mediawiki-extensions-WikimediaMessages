@@ -2,9 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Dr Lotus Black",
-			"Ninjastrikers"
+			"Ninjastrikers",
+			"Phosai"
 		]
 	},
+	"wm-license-attribution-with-author-text": "ဤဖိုင်၏ မူပိုင်ခွင့်ပိုင်ရှင်သည် မည်သူမဆို ၎င်း $1 အား '''မည်သို့ပင် ရည်ရွယ်ချက်ရှိသည်ဖြစ်စေ''' အသုံးပြုခွင့်ပေးကြောင်း မှန်ကန်စွာသတ်မှတ်ထား၏။ ထို့ကြောင့် ၎င်းအရာအား ပြန်လည်ဖြန့်ဖြူးခြင်း၊ ပြုပြင်မွမ်းမံထားသော ဖန်တီးမှုလက်ရာ​၊ စီးပွားဖြစ်အသုံးပြုခြင်းနှင့် အခြားအသုံးပြုမှုအားလုံးကို ခွင့်ပြုထားသည်။",
+	"wm-license-attribution-without-author-text": "ဤဖိုင်၏ မူပိုင်ခွင့်ပိုင်ရှင်သည် မည်သူမဆို ၎င်းအား '''မည်သို့ပင် ရည်ရွယ်ချက်ရှိသည်ဖြစ်စေ''' အသုံးပြုခွင့်ပေးကြောင်း မှန်ကန်စွာသတ်မှတ်ထား၏။ ထို့ကြောင့် ၎င်းအရာအား ပြန်လည်ဖြန့်ဖြူးခြင်း၊ ပြုပြင်မွမ်းမံထားသော ဖန်တီးမှုလက်ရာ​၊ စီးပွားဖြစ်အသုံးပြုခြင်းနှင့် အခြားအသုံးပြုမှုအားလုံးကို ခွင့်ပြုထားသည်။",
+	"wm-license-artwork-artist": "အနုပညာရှင်",
+	"wm-license-artwork-title": "ခေါင်းစဉ်",
+	"wm-license-artwork-medium": "ကြားခံနယ်",
+	"wm-license-artwork-dimensions": "ရှုထောင့်များ",
+	"wm-license-artwork-current-location": "လက်ရှိ တည်နေရာ",
+	"wm-license-artwork-object-history": "အရာဝတ္တုပစ္စည်း သမိုင်းကြောင်း",
+	"wm-license-artwork-credit-line": "အသိအမှတ်ပြုဖော်ပြ စာကြောင်း",
 	"wm-license-artwork-references": "ကိုးကားချက်များ",
 	"wm-license-book-translator": "ဘာသာပြန်သူ",
 	"wm-license-creator-description": "ဖော်ပြချက်",

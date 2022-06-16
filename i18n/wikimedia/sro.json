@@ -1,12 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"F Samaritani"
+			"F Samaritani",
+			"Jaime Sulas"
 		]
 	},
+	"sitesupport": "Fai una dàdiva",
+	"wikimedia-copyright": "Su scritu est a disponimentu asuta sa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licèntzia Atributzioni-Cumpartzi a sa pròpiu manera Creative Commons</a>;\npodint essi aciuntas àteras conditzionis.\nCàstia is <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Conditzionis de imperu</a> po is particularis.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-statslink": "Statisticas"
+	"wikimedia-developers": "Svilupadoris",
+	"wikimedia-statslink": "Statisticas",
+	"wikimedia-cookiestatement": "Decraradura po is cookie de arretza"
 }
