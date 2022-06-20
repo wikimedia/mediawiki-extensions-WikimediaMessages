@@ -312,7 +312,7 @@ class Hooks implements
 				break;
 			case 'mediawiki':
 				// MediaWiki.org has a special licence for the Help: namespace.
-				$lcKey = 'mediawiki.org-copyright';
+				$msg = 'mediawiki.org-copyright';
 				break;
 			case 'commons':
 				// Commons has a special licence for the structured data.
