@@ -120,7 +120,7 @@
 	"eri-rcfilters-tour-confirm-description": "Вы можаце перайсці на <strong>старонку бэта-магчымасцей</strong>, каб пакінуць водгук ці адключыць функцыю.",
 	"eri-wlfilters-tour-intro-welcome-title": "Сардэчна запрашаем у палепшаную фільтрацыю Спісу назірання",
 	"eri-wlfilters-tour-intro-preferences-description": "Перайдзіце на ўкладку «Спіс назірання» ў наладах у любы час, каб адмовіцца ад палепшанага Спісу назірання.",
-	"wikimedia-centralauth-contribs-locked": "Гэты ўліковы глабальна замкнуты.\nГл. [[m:Special:CentralAuth/$1|дадзеныя глабальнага ўліковага запісу]] для атрымання болей падрабязнай інфармацыі.",
+	"wikimedia-centralauth-contribs-locked": "Гэты ўліковы запіс глабальна заблакаваны.\nГл. [[m:Special:CentralAuth/$1|даныя глабальнага ўліковага запісу]] для атрымання болей падрабязнай інфармацыі.",
 	"action-viewdeletedfile": "праглядаць файлы і старонкі, якія выдаляюцца, у прасторах імёнаў {{ns:file}} і {{ns:file_talk}}",
 	"right-viewdeletedfile": "Прагляданне файлаў і старонак, якія выдаляюцца, у прасторах імёнаў {{ns:file}} і {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Выбары ў Раду павераных",
