@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Daud I.F. Argana"
+			"Daud I.F. Argana",
+			"Farras"
 		]
 	},
 	"search-interwiki-results-abwiki": "Menampilkan hasil dari [[:ab:|Wikipedia bahasa Abkhaz]].",
@@ -16,7 +17,9 @@
 	"search-interwiki-results-arzwiki": "Menampilkan hasil dari [[:arz:|Wikipedia bahasa Arab Mesir]].",
 	"search-interwiki-results-astwiki": "Menampilkan hasil dari [[:ast:|Wikipedia bahasa Asturia]].",
 	"search-interwiki-results-aswiki": "Menampilkan hasil dari [[:as:|Wikipedia bahasa Assam]].",
+	"search-interwiki-results-blkwiki": "Menampilkan hasil dari [[:blk:|Wikipedia Bahasa Pa'O]].",
 	"search-interwiki-results-enwiki": "Menampilkan hasil dari [[:en:|Wikipedia bahasa Inggris]].",
 	"search-interwiki-results-frwiki": "Menampilkan hasil dari [[:fr:|Wikipedia bahasa Prancis]].",
-	"search-interwiki-results-idwiki": "Menampilkan hasil dari [[:id:|Wikipedia bahasa Indonesia]]."
+	"search-interwiki-results-idwiki": "Menampilkan hasil dari [[:id:|Wikipedia bahasa Indonesia]].",
+	"search-interwiki-results-pcmwiki": "Menampilkan hasil dari [[:pcm:|Wikipedia Bahasa Pidgin Nigeria]]."
 }

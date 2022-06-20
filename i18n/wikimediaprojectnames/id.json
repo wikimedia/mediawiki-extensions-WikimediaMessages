@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Daud I.F. Argana",
+			"Farras",
 			"Joseagush",
 			"Kenrick95",
 			"Veracious"
@@ -70,6 +71,7 @@
 	"project-localized-name-biwiki": "Wikipedia bahasa Bislama",
 	"project-localized-name-biwikibooks": "Wikibuku bahasa Bislama",
 	"project-localized-name-bjnwiki": "Wikipedia bahasa Banjar",
+	"project-localized-name-blkwiki": "Wikipedia Bahasa Pa'O",
 	"project-localized-name-bmwiki": "Wikipedia bahasa Bambara",
 	"project-localized-name-bmwikibooks": "Wikibuku bahasa Bambara",
 	"project-localized-name-bnwiki": "Wikipedia bahasa Bengali",
@@ -335,6 +337,7 @@
 	"project-localized-name-papwiki": "Wikipedia bahasa Papiamento",
 	"project-localized-name-pawiki": "Wikipedia bahasa Punjab",
 	"project-localized-name-pcdwiki": "Wikipedia bahasa Picardia",
+	"project-localized-name-pcmwiki": "Wikipedia Bahasa Pidgin Nigeria",
 	"project-localized-name-pdcwiki": "Wikipedia bahasa Jerman Pennsylvania",
 	"project-localized-name-piwiki": "Wikipedia bahasa Pali",
 	"project-localized-name-plwiki": "Wikipedia bahasa Polandia",

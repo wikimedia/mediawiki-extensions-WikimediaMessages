@@ -8,6 +8,7 @@
 			"MinecraftAustralia",
 			"Multichill",
 			"Shanmugamp7",
+			"Siddhan",
 			"TRYPPN",
 			"செல்வா",
 			"தமிழ்க்குரிசில்"
@@ -42,10 +43,15 @@
 	"wm-license-cc-by-2.1-es-text": "இந்த கோப்பு  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது. [https://creativecommons.org/licenses/by/2.1/es/deed.ta Attribution 2.1 Spain] உரிமம்.",
 	"wm-license-cc-by-2.1-jp-text": "[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.1/jp/deed.en Attribution 2.1 Japan]  உரிமத்தின் கீழ் இக்கோப்பு உரிமமளிக்கப்படுகிறது.",
 	"wm-license-cc-by-sa-2.0-cl-text": "இந்த கோப்பு [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]ன் கீழ் உரிமப்படுத்தப்பட்டுள்ளது. [https://creativecommons.org/licenses/by/2.0/it/deed.ta Attribution 2.0 Chile] உரிமம்.",
+	"wm-license-cc-by-sa-3.0-text": "இந்த கோப்பு [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] உரிமத்தின் கீழ் உள்ளது.",
 	"wm-license-cc-free": "நீங்கள் சுதந்திரமாக:",
 	"wm-license-cc-free-to-share-header": "பகிர்ந்து கொள்ள",
+	"wm-license-cc-free-to-share-text": "வேலையை நகலெடுக்க, விநியோகிக்க மற்றும் அனுப்ப",
+	"wm-license-cc-free-to-remix-header": "மீண்டும் கலக்க",
 	"wm-license-cc-free-to-remix-text": "வேலைக்கு பழகிக்கொள்ள.",
 	"wm-license-cc-conditions": "கீழ்க்காணும் விதிகளுக்கு ஏற்ப,",
 	"wm-license-cc-conditions-attribution-header": "பண்புக்கூறுகள்",
-	"wm-license-cc-conditions-share_alike-header": "அதேமாதிரி பகிரவும்"
+	"wm-license-cc-conditions-attribution-text": "நீங்கள் பொருத்தமான உரிமையை வழங்க வேண்டும், உரிமத்திற்கான இணைப்பை வழங்க வேண்டும் மற்றும் மாற்றங்கள் செய்யப்பட்டிருந்தால் குறிப்பிட வேண்டும். நீங்கள் ஏற்புடைய எந்த முறையிலும் அவ்வாறு செய்யலாம், ஆனால் எந்த வகையிலும் உரிமதாரர் உங்களை அல்லது உங்கள் பயன்பாட்டிற்கு ஒப்புதல் அளிக்கும் படி பரிந்துரைக்க கூடாது.",
+	"wm-license-cc-conditions-share_alike-header": "அதேமாதிரி பகிரவும்",
+	"wm-license-cc-conditions-share_alike-text": "நீங்கள் ரீமிக்ஸ் செய்தாலோ, உருமாற்றம் செய்தாலோ அல்லது பொருளை உருவாக்கினாலோ, உங்கள் பங்களிப்புகளை [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses அல்லது இணக்கமான உரிமம்] கீழ் அசலாக விநியோகிக்க வேண்டும்."
 }

@@ -231,5 +231,6 @@
 	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
 	"querypage-updates-half-monthly": "Страница се ажурира двапут месечно.",
 	"protect-level-editautopatrolprotected": "Дозвољено само аутопатролерима",
-	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)"
+	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)",
+	"ipinfo-feedback-button-label": "Дајте своје мишљење"
 }
