@@ -41,7 +41,9 @@
 			"Xiplus",
 			"Yfdyh000",
 			"星海",
-			"飞舞回堂前"
+			"飞舞回堂前",
+			"LuciferianThomas",
+			"SunAfterRain"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -110,7 +112,7 @@
 	"grouppage-eventparticipant": "{{ns:project}}:活動參與者",
 	"group-extendedconfirmed": "延伸確認使用者",
 	"group-extendedconfirmed-member": "{{GENDER:$1|延伸確認使用者}}",
-	"grouppage-extendedconfirmed": "{{ns:project}}:進階確認使用者",
+	"grouppage-extendedconfirmed": "{{ns:project}}:延伸確認使用者",
 	"group-extendedmover": "進階移動員",
 	"group-extendedmover-member": "{{GENDER:$1|進階移動員}}",
 	"grouppage-extendedmover": "{{ns:project}}:進階移動員",
