@@ -389,5 +389,6 @@
 	"research-incentive-answer-positive": "Participate",
 	"research-incentive-answer-negative": "Will not participate",
 	"research-incentive-link": "https://airtable.com/shrucwUlzH0ZLEqHH",
-	"research-incentive-privacy": "See our privacy policy and learn more about our research program [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja here]."
+	"research-incentive-privacy": "See our privacy policy and learn more about our research program [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja here].",
+	"research-incentive-confirm-msg": "Thanks! Learn more about our privacy policy and research program [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/en here]."
 }

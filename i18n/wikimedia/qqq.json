@@ -434,5 +434,6 @@
 	"research-incentive-answer-positive": "Positive answer for the Research Incentive survey\n{{Identical|Yes}}",
 	"research-incentive-answer-negative": "Negative answer for the Research Incentive survey\n{{Identical|No}}",
 	"research-incentive-link": "Research Incentive survey external link",
-	"research-incentive-privacy": "Points to Research Incentive survey privacy policy"
+	"research-incentive-privacy": "Points to Research Incentive survey privacy policy",
+	"research-incentive-confirm-msg": "Confirmation acknowledgment for the Research Incentive survey."
 }
