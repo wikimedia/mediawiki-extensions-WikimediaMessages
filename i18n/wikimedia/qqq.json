@@ -429,11 +429,11 @@
 	"gadget-curidlink-link-by-id-desc": "Text of sidebar tooltip added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-souspages-subpages": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-SousPages.js|SousPages]] gadget\n\n{{Identical|Subpage}}",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Legal disclaimer in the feedback survey on [[Special:SimilarEditors]]",
-	"research-incentive-message": "Research Incentive survey question",
-	"research-incentive-description": "Research Incentive survey description",
-	"research-incentive-answer-positive": "Positive answer for the Research Incentive survey\n{{Identical|Yes}}",
-	"research-incentive-answer-negative": "Negative answer for the Research Incentive survey\n{{Identical|No}}",
+	"research-incentive-message": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey question.",
+	"research-incentive-description": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey description.",
+	"research-incentive-answer-positive": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nPositive answer for the Research Incentive survey\n{{Identical|Yes}}",
+	"research-incentive-answer-negative": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nNegative answer for the Research Incentive survey\n{{Identical|No}}",
 	"research-incentive-link": "Research Incentive survey external link",
-	"research-incentive-privacy": "Points to Research Incentive survey privacy policy",
+	"research-incentive-privacy": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nPoints to Research Incentive survey privacy policy.",
 	"research-incentive-confirm-msg": "Confirmation acknowledgment for the Research Incentive survey."
 }

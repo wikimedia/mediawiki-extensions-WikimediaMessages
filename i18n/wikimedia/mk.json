@@ -367,5 +367,10 @@
 	"gadget-curidlink-link-by-id": "Врска по назнака",
 	"gadget-curidlink-link-by-id-desc": "Прикажи ја врската до страницава според нејзината назнака",
 	"gadget-souspages-subpages": "Потстраници",
-	"ext-quicksurveys-similareditors-survey-privacy-policy": "За повеќе информации, погледајте ја [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement изјавата за личните податоци] на оваа анкета."
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "За повеќе информации, погледајте ја [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement изјавата за личните податоци] на оваа анкета.",
+	"research-incentive-message": "Дали би сакале да учествувате во платени кориснички истражувања за Википедија?",
+	"research-incentive-description": "Пополнете го образецот за да се пријавите на списокот на учесници. Ние повремено ќе ви се обраќаме кога ќе имаме платени истражувања на кои можете да учествувате. Можете да се отстраните од списокот во секое време.",
+	"research-incentive-answer-positive": "Учествувајте",
+	"research-incentive-answer-negative": "Нема да учествувам",
+	"research-incentive-privacy": "Погледајте ги нашите правила за личните податоци и дознајте повеќе за нашата истражувачка програма [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja овде]."
 }

@@ -8,6 +8,7 @@
 			"Aotake",
 			"Azeha",
 			"Caliburn",
+			"DDesouza",
 			"Darklanlan",
 			"Delim",
 			"Fievarsty",
@@ -360,7 +361,6 @@
 	"research-incentive-description": "フォームに必要事項を記入し、参加者リストにご登録ください。報酬付きの調査の実施について、定期的にご連絡を差し上げます。登録はご自身でいつでも解除できます。",
 	"research-incentive-answer-positive": "参加する",
 	"research-incentive-answer-negative": "参加しない",
-	"research-incentive-link": "https://airtable.com/shrucwUlzH0ZLEqHH",
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。.",
-	"research-incentive-confirm-msg": "ありがとうございました！プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。"
+	"research-incentive-confirm-msg": "ありがとうございました！"
 }

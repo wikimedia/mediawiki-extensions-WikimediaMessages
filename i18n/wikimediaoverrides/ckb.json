@@ -19,5 +19,6 @@
 	"wikimedia-sitematrix": "پێرستی ویکییەکانی ویکیمیدیا",
 	"wikimedia-sitematrix-others": "پرۆژەکانی دیکەی ویکیمیدیا",
 	"wikimedia-sitematrix-summary": "ئەم پەڕە تایبەتە گشت ویکییەکانی ویکیمیدیای بە ڕیزکردووە.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سیاسەتی تایبەتێتی]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سیاسەتی تایبەتێتی]",
+	"wikimedia-ipinfo-source-geoip2": "کەڵکوەرگرتنت لەم ئامرازە لەڕێگەی [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines ڕێنمایییەکانی ئامرازی زانیاریی ئایپی] بەڕێوەدەبرێت."
 }
