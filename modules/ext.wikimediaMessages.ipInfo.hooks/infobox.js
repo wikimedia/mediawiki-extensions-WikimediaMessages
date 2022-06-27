@@ -17,5 +17,21 @@
 			classes: [ 'ext-ipinfo-feedback-button', 'ext-ipinfo-widget-property' ]
 		} );
 		$info.find( '.ext-ipinfo-widget-property-source' ).before( feedbackButton.$element );
+
+		var contributionsUrl = new URL( mw.config.get( 'wgIPInfoTarget' ), mw.msg( 'ipinfo-global-contributions-url' ) );
+		var xtoolsUrl = new URL( mw.config.get( 'wgIPInfoTarget' ), mw.msg( 'ipinfo-xtools-url' ) );
+
+		$info.find( '[data-property="edits"]' )
+			.append( $( '<a>' )
+				.attr( 'href', contributionsUrl )
+				.attr( 'class', 'ext-ipinfo-contribution-links' )
+				.text( mw.msg( 'ipinfo-global-contributions-url-label' ) ) );
+		$info.find( '[data-property="edits"]' )
+			.append( $( '<a>' )
+				.attr( 'href', xtoolsUrl )
+				.attr( 'class', 'ext-ipinfo-contribution-links' )
+				.text( mw.msg( 'ipinfo-xtools-url-label' ) ) );
+
 	} );
+
 }() );
