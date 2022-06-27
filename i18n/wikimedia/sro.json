@@ -7,11 +7,14 @@
 	},
 	"sitesupport": "Fai una dàdiva",
 	"wikimedia-copyright": "Su scritu est a disponimentu asuta sa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licèntzia Atributzioni-Cumpartzi a sa pròpiu manera Creative Commons</a>;\npodint essi aciuntas àteras conditzionis.\nCàstia is <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Conditzionis de imperu</a> po is particularis.",
+	"wikimedia-copyrightwarning": "Sarvendi is mudàntzias, cuncordas cun is [https://foundation.wikimedia.org/wiki/Terms_of_Use Conditzionis de imperu], e cuncordas po sèmpiri de lassai su contribudu tuu segundu is licèntzias [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Atributzioni-Cumpartzi a sa pròpiu manera 3.0] e [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License Documentatzioni Lìbera GNU].\nCuncordas puru chi un'acàpiu ipertestuali o URL siat un'atributzioni bastanti segundu sa licèntzia Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupadoris",
-	"wikimedia-statslink": "Statisticas",
+	"wikimedia-globalblocking-ipblocked": "'''Ant [[m:Special:MyLanguage/Global blocks|siddau in totu is wikis]] s'indiritzu IP tuu.'''\n\nSa frimada dd'at fata $1 ($2).\nS'arraxoni chi at donau est ''$3''.\n\n* Inghitzu de sa frimada: $4\n* Acabbu de sa frimada: $5\n\nS'indiritzu IP tuu atuali est $6.\nPo praxeri indita totu is particularis chi funt innoi asuba in calisisiat pregonta bollast fai.\n\nChi pensas ca t'ant frimau po una faddina, as a podi agatai àterus informus e inditus in is normas globalis [[m:Special:MyLanguage/No open proxies|Perunu server abertu]].\nO sinuncas, po discuti de sa frimada, po praxeri [[m:Steward requests/Global|intrega una pregonta de averigu in Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Unu o prus server proxy imperaus de sa pregonta tua funt [[m:Special:MyLanguage/Global blocks|siddaus apetotu]].'''\n\nSa frimada dd'at fata $1 ($2).\nS'arraxoni chi at donau est ''$3''.\n\n* Inghitzu de sa frimada: $4\n* Acabbu de sa frimada: $5\n\nS'indiritzu proxy siddau est $6.\nPo praxeri indita totu is particularis chi funt innoi asuba in calisisiat pregonta bollast fai.\n\nChi pensas ca t'ant frimau po una faddina, as a podi agatai àterus informus e inditus in is normas globalis [[m:Special:MyLanguage/No open proxies|Perunu server abertu]].\nO sinuncas, po discuti sa frimada, po praxeri [[m:Steward requests/Global|intrega una pregonta de averigu in Meta-Wiki]].",
+	"wikimedia-statslink": "Statìsticas",
 	"wikimedia-cookiestatement": "Decraradura po is cookie de arretza"
 }

@@ -2,9 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"BRUTE",
-			"Nemo bis"
+			"Nemo bis",
+			"Otogi",
+			"SaldırganSincap",
+			"Გიო ოქრო",
+			"Იო ოქრო"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ შერჩევაში)]]",
-	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]"
+	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy კონფიდენციალურობის პოლიტიკა]"
 }
