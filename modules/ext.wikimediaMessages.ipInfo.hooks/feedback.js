@@ -8,13 +8,7 @@
 		feedbackUrl.searchParams.set( 'action', 'edit' );
 		feedbackUrl.searchParams.set( 'section', 'new' );
 		feedbackUrl.searchParams.set( 'preloadtitle', 'Feedback from ' + mw.user.getName() );
-
-		// Use the English translation rather than the source page, to avoid <translate> tags
-		feedbackUrl.searchParams.set( 'preload',
-			mw.config.get( 'wgPageContentLanguage' ) === 'en' ?
-				'Template:IPInfoFeedback/en' :
-				'Special:MyLanguage/Template:IPInfoFeedback'
-		);
+		feedbackUrl.searchParams.set( 'preload', 'Special:MyLanguage/Template:IPInfoFeedback' );
 
 		var feedbackButton = new OO.ui.ButtonWidget( {
 			href: feedbackUrl.href,
