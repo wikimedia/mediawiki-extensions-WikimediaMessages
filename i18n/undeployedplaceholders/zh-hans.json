@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Lakejason0",
 			"Stang"
 		]
 	},
+	"wikimedia-usermerge-logpage": "用户合并日志",
 	"wikimedia-usermerge-logpagetext": "这是用户合并操作的日志。"
 }
