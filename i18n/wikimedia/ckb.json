@@ -13,7 +13,8 @@
 			"Épine",
 			"ئارام بکر",
 			"رزگار",
-			"Roj im"
+			"Roj im",
+			"Aram"
 		]
 	},
 	"wikimediamessages-desc": "پەیامە تایبەتەکانی ویکیمیدیا",
@@ -106,6 +107,7 @@
 	"wikibase-otherprojects-testwikidata": "ویکیدراوە",
 	"wikibase-otherprojects-mediawiki": "میدیاویکی",
 	"wikibase-otherprojects-meta": "مێتا-ویکی",
+	"wikibase-otherprojects-sources": "ویکیسەرچاوەی فرەزمان",
 	"wikibase-otherprojects-species": "ویکیجۆر",
 	"wikibase-otherprojects-wikidata": "ویکیدراوە",
 	"wikibase-otherprojects-wikinews": "ویکیھەواڵ",
@@ -119,6 +121,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "کۆمنز",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "میدیاویکی",
 	"wikibase-sitelinks-sitename-metawiki": "مێتا-ویکی",
+	"wikibase-sitelinks-sitename-sourceswiki": "ویکیسەرچاوەی فرەزمان",
 	"wikibase-sitelinks-sitename-species": "ویکیجۆر",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ویکیدراوە",
 	"cant-delete-main-page": "ناتوانی پەڕەی دەستپێک بسڕییەوە یان بگوازییەوە.",
@@ -127,6 +130,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''ئەدرەسی IPی تۆ [[m:Special:MyLanguage/Global blocks|بەرگریی لێ کراوە لە گشت ویکییەکاندا]].'''\n\nبەرگری لە لایەن  $1ەوە پێک ھاتووە ($2).\nھۆکارەکەی بە ''$3'' دیاری کراوە.\n\n* دەستپێکردنی بەرگری: $4\n* بەسەرچوونی بەرگری: $5\n\nئەدرەسی IPی ئێستای تۆ ئەمەیە: $6.\nتکایە گشت وردەکارییەکانی سەرەوە لە ھەر گوزارشتێکدا کە دەیدەیت بێنە.\n\nئەگەر پێت وایە کە بە ھەڵە بەرگریت لێ کراوە، دەتوانیت لە سیاسەتی گشتیی [[m:Special:MyLanguage/No open proxies|No open proxies]]دا زانیاری و ڕێنوێنیی زیاتر بخوێنیتەوە.\nدەنا، تکایە بۆ لێدوان لەسەر بەرگری، [[m:Steward requests/Global|داواکارییەک لە Meta-Wikiدا تۆمار بکە]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''یەکێک یان زیاتر لەو ڕاژەکارانەی کە تۆ داوات کردوون [[m:Special:MyLanguage/Global blocks|بەربەستی گشتی کراوە]].'''\n\nبەربەست کراوە لەلایەن $1 ($2)\nلەبەر ھۆکاری '''$3'''.\n\n* دەستپێکردنی بەربەست: $4\n* کۆتایی ھاتنی بەربەست: $5\n\nڕاژەکاری دیاریکراو پێکھاتووە لە $6.\nتکایە ھەموو وردەکارییەکانی سەرەوە لە ھەر گوزارشتێکدا کە پێشکەشی دەکەیت بەکاربھێنە.\n\nئەگەر پێت وایە کە بە ھەڵە بەربەستکراویت، دەتوانیت لە سیاسەتی گشتیی [[m:Special:MyLanguage/No open proxies|ڕاژەکاری کراوە قەدەغەیە]] زانیاری و ڕێنوێنیی زیاتر بخوێنیتەوە.\nدەنا، بۆ لێدوان لەسەر بەربەستکردن  تکایە [[m:Steward requests/Global|داواکارییەک لە مێتاویکی تۆمار بکە بۆ پێداچوونەوە]].",
 	"interlanguage-link-mul": "زمانی زیاتر",
+	"interlanguage-link-sitename-mul": "{{SITENAME}}ی فرەزمان",
 	"interlanguage-link-wikipedia": "ویکیپیدیا",
 	"interlanguage-link-sitename-wikipedia": "ویکیپیدیا، ئینسایکڵۆپیدیای ئازاد",
 	"interlanguage-link-commons": "ویکیمیدیا کۆمنز",
