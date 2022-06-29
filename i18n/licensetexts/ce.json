@@ -46,6 +46,7 @@
 	"wm-license-information-source": "Хьост",
 	"wm-license-information-date": "Терахь",
 	"wm-license-information-author": "Автор",
+	"wm-license-information-author-missing": "'''Авторех''' лаьцна хаам тоьаш бац.",
 	"wm-license-information-permission": "Бакъонаш",
 	"wm-license-information-permission-reusing-text": "Йуха хӀара файл лелор",
 	"wm-license-information-other-versions": "Кхин версеш",
