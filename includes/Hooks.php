@@ -1873,10 +1873,14 @@ class Hooks implements
 			$resourceLoader->register( 'ext.wikimediaMessages.ipInfo.hooks', [
 				'localBasePath' => dirname( __DIR__ ) . '/modules/ext.wikimediaMessages.ipInfo.hooks',
 				'remoteExtPath' => 'WikimediaMessages/modules/ext.wikimediaMessages.ipInfo.hooks',
-				'scripts' => 'feedback.js',
-				'styles' => 'feedback.less',
+				'scripts' => 'infobox.js',
+				'styles' => 'infobox.less',
 				'messages' => [
 					'ipinfo-feedback-button-label',
+					'ipinfo-global-contributions-url-label',
+					'ipinfo-global-contributions-url',
+					'ipinfo-xtools-url-label',
+					'ipinfo-xtools-url',
 				],
 				'dependencies' => [
 					'ext.ipInfo',
