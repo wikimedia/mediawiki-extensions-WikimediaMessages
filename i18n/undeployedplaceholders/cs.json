@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mormegil"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|sloučil|sloučila}} účet „$4“ ($5) do {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|smazal|smazala}} účet „$4“ ($5)",
+	"wikimedia-log-action-filter-usermerge": "Typ akce:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Sloučení uživatelského účtu",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Smazání uživatelského účtu",
+	"wikimedia-usermerge-logpage": "Kniha slučování uživatelů",
+	"wikimedia-usermerge-logpagetext": "Toto je záznam slučování uživatelů."
+}
