@@ -358,5 +358,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Jag är osäker",
 	"gadget-curidlink-link-by-id": "Länk efter ID",
 	"gadget-curidlink-link-by-id-desc": "Visa länk till denna sida efter dess ID",
-	"gadget-souspages-subpages": "Undersidor"
+	"gadget-souspages-subpages": "Undersidor",
+	"ipinfo-global-contributions-url-label": "Globala bidrag"
 }

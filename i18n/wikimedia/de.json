@@ -380,5 +380,6 @@
 	"research-incentive-description": "Fülle das Formular aus, um sich in unsere Teilnehmerliste einzutragen. Du wirst in regelmäßigen Abständen über vergütete Forschungsmöglichkeiten informiert. Du kannst dich jederzeit von der Liste streichen.",
 	"research-incentive-answer-positive": "Teilnehmen",
 	"research-incentive-answer-negative": "Nicht teilnehmen werden",
-	"research-incentive-privacy": "Lies unsere Datenschutzbestimmungen und erfahre mehr über unser [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja Forschungsprogramm]."
+	"research-incentive-privacy": "Lies unsere Datenschutzbestimmungen und erfahre mehr über unser [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja Forschungsprogramm].",
+	"ipinfo-global-contributions-url-label": "Globale Beiträge"
 }

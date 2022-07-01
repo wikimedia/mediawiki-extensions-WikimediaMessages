@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gildo Máquina"
+			"Gildo Máquina",
+			"Tomas Armando Moz"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Mweemereryo wootthuniheriwa otakiherya, okawa ni/wala ovirikanya muhupi ola muhina mwa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 or any later version published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Soohinmwa",
 	"wm-license-information-source": "Onkhumaaya",
 	"wm-license-information-date": "Nihiku",

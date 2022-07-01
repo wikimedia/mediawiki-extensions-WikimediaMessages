@@ -333,5 +333,6 @@
 	"group-docseditor": "Edytorzy dokumentacji",
 	"group-docseditor-member": "{{GENDER:$1|edytor|edytorka}} dokumentacji",
 	"action-docseditor": "edytowania dokumentacji",
-	"right-docseditor": "Edytowanie dokumentacji"
+	"right-docseditor": "Edytowanie dokumentacji",
+	"ipinfo-global-contributions-url-label": "Globalny wkład"
 }

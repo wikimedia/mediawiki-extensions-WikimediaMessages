@@ -362,5 +362,6 @@
 	"research-incentive-answer-positive": "参加する",
 	"research-incentive-answer-negative": "参加しない",
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。.",
-	"research-incentive-confirm-msg": "ありがとうございました！"
+	"research-incentive-confirm-msg": "ありがとうございました！",
+	"ipinfo-global-contributions-url-label": "グローバル投稿記録"
 }
