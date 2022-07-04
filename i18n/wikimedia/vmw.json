@@ -3,10 +3,12 @@
 		"authors": [
 			"Amire80",
 			"Gildo Máquina",
-			"Jacinto Jeque"
+			"Jacinto Jeque",
+			"Tomas Armando Moz"
 		]
 	},
 	"sitesupport": "Mukhaliheryo",
+	"wikimedia-copyright": "Yoolepa Enpwanyaneya vati na <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> soowupuwelia isa -Yowooniheriwa ntoko eLicense</a>;\nmikethelo sikina sokha oweetheliwa.\nMoone <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Mukethelo </a> sa wooniherya.",
 	"wikimedia-copyrightwarning": "Mwasukaka mivirikanino, munnakhulela sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Murumeele ikhalelo sinrumeeliwa] ni woohikhalakhala tho nvaanyihala mulaleye mukhaliheryo sanyu sa iyaakhulelo [https://creativecommons.org/licenses/by-sa/3.0/deed.pt CC BY-SA 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nMunnaakhulela tho wira muttopaanyeryo mmosa nnakhala IRL mmosa mukhalelo omphiyerya woovahiwa variyari mwa eyaakhulelo Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikiihapari",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
@@ -14,6 +16,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Anamaroohela ottayiwene",
 	"wikimedia-globalblocking-ipblocked": "'''Ethoonyeryo-anyu IP yaari [[m:Special:MyLanguage/Global blocks|yoottipihiwa mwa n\"wiki mootheene]].'''\n\nOttipihiwa wenno ovariwe ni $1 ($2).\nMwaha wooniheriwe waari ''$3''.\n\n* Opaceriwa ottipihiwa: $4\n* Omalamala wa okathi woottipihiwa: $5\n\nEthoonyeryo-anyu IP ya naanano ti $6.\nMukhalihe muhina sotheene seiya sa osulu ni mmuhupini munkelaanyu oniveleeliherya, xontte. \n\nMwaakupaliki wira muttipihiwe mwaha woowattattanyiwa, mookhala oophwanyaka ihaali ikina ni ittharihelo omweettiheryoni wa sotheene sooluluwana ni [[m:Special:MyLanguage/No open proxies|okhoottihiwa wa \"proxies\" soohuliwa]].\nWahikhale siiso, woowi nvaanyihane ottipihiwa wenno [[m:Steward requests/Global|muthukule nivekelo nimosa woowi yooniwe ni Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Servitor mmosa wala enli ehereliwa muthinto ni [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nowaleliwe ni $1 ($2).\nMwahaya tiwi ''$3''.\n\n* owaliwe okhuma: $4\n* Onrowa ohuleliwa: $5\n\nMulipa owala onikhla wari $6.\nXonthe mwalakhanye soothene sinvekheli osulu.\n\nwakhala wir owaliwa nno ethiru, monoorowa opwanya sohimwa sikina mwa [[m:Special:MyLanguage/No open proxies|No open proxies]] mikexelo sa elapo yoothene.\nWalaani, muathuna wakhula owaliwa nno xonthe murowe [[m:Steward requests/Global|post a request for review on Meta-Wiki]]",
 	"wikimedia-statslink": "Namaalakela",
 	"wikimedia-cookiestatement": "Olipiheriwa yoolavuliwa"
 }

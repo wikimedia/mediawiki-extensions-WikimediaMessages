@@ -174,7 +174,7 @@
 	"group-global-ipblock-exempt": "Người được miễn cấm IP toàn cục",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1}}người được miễn cấm IP toàn cục",
 	"group-global-interface-editor": "Kỹ thuật viên giao diện toàn cục",
-	"group-global-interface-editor-member": "kỹ thuật viên giao diện toàn cục",
+	"group-global-interface-editor-member": "{{GENDER:$1}}kỹ thuật viên giao diện toàn cục",
 	"grouppage-global-interface-editor": "m:Interface editors/vi",
 	"group-global-renamer": "Người đổi tên toàn cục",
 	"group-global-renamer-member": "{{GENDER:$1}}người đổi tên toàn cục",
@@ -194,7 +194,7 @@
 	"group-oauthadmin-member": "{{GENDER:$1}}người quản lý OAuth",
 	"grouppage-oauthadmin": "{{ns:project}}:Người quản lý OAuth",
 	"group-ombuds": "Thanh tra viên",
-	"group-ombuds-member": "thanh tra viên",
+	"group-ombuds-member": "{{GENDER:1}}thanh tra viên",
 	"group-recursive-export": "Người xuất trang đệ quy",
 	"group-recursive-export-member": "{{GENDER:$1}}người xuất trang đệ quy",
 	"group-staff": "Nhân viên",
@@ -209,7 +209,7 @@
 	"group-wmf-officeit": "CNTT văn phòng WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1}}CNTT văn phòng WMF",
 	"group-wmf-researcher": "Chuyên viên nghiên cứu WMF",
-	"group-wmf-researcher-member": "chuyên viên nghiên cứu WMF",
+	"group-wmf-researcher-member": "{{GENDER:$1}}chuyên viên nghiên cứu WMF",
 	"group-wmf-supportsafety": "Hỗ trợ và An toàn WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1}}Hỗ trợ và An toàn WMF",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Hỗ trợ và An toàn WMF",
@@ -260,7 +260,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''Địa chỉ IP của bạn đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''\n\nNgười cấm là $1 ($2).\nLý do được đưa ra là ''$3''.\n\n* Lúc bắt đầu cấm: $4\n* Thời hạn cấm: $5\n\nĐịa chỉ IP của bạn hiện là $6.\nXin vui lòng bao gồm các chi tiết ở trên khi nào hỏi về vụ cấm này.\n\nNếu bạn biết rằng đây là vụ nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu xem lại tại Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yêu cầu của bạn sử dụng một hay nhiều máy chủ proxy đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''\n\nNgười cấm là $1 ($2).\nLý do là ''$3''.\n\n* Lúc bắt đầu cấm: $4\n* Thời hạn cấm: $5\n\nĐịa chỉ IP của máy chủ proxy bị cấm là $6.\nXin vui lòng bao gồm các chi tiết ở trên khi nào hỏi về vụ cấm này.\n\nNếu bạn tin rằng đây là vụ nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu xem lại tại Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Địa chỉ IP của bạn, <strong>$1</strong>, đã bị xác định là một nút thoát tor.\nSửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm thông tin và hướng dẫn dành cho những người dùng chính đáng trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].",
-	"wikimedia-mobile-frontend-terms-url": "https:https://m.foundation.wikimedia.org/wiki/Terms_of_Use/vi",
+	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/vi?uselang=vi",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]",
 	"grant-checkuser": "Truy cập dữ liệu kiểm định viên",
 	"upload-form-label-own-work-message-commons": "Tôi khẳng định rằng tôi giữ quyền tác giả của tập tin này và đồng ý phát hành, một cách không thể hủy bỏ, tập tin này cho Wikimedia Commons theo giấy phép [https://creativecommons.org/licenses/by-sa/4.0/deed.vi Creative Commons Ghi công–Chia sẻ tương tự 4.0], và tôi chấp nhận các [https://foundation.wikimedia.org/wiki/Terms_of_Use/vi?uselang=vi Điều khoản Sử dụng].",
@@ -315,5 +315,5 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Để tìm hiểu thêm, hãy đọc [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement lời tuyên bố về quyền riêng tư] của cuộc thăm dò ý kiến này.",
 	"wikimedia-switchover-read-only": "Bạn hiện không thể sửa đổi do hệ thống đang được bảo trì. Xin sao lưu nội dung và thử lại sau vài phút.",
 	"protect-level-editautopatrolprotected": "Chỉ cho phép những người tự đánh dấu tuần tra",
-	"right-editautopatrolprotected": "Sửa trang bị khóa ở mức \"{{int:protect-level-editautopatrolprotected}}\""
+	"right-editautopatrolprotected": "Sửa trang bị khóa ở mức “{{int:protect-level-editautopatrolprotected}}”"
 }

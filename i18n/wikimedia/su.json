@@ -54,5 +54,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sérver proksi anu dipénta jang pakéeun Anjeun geus [[m:Special:MyLanguage/Global blocks|dipeungpeuk dina sakabéh wiki]].'''\n\nPameungpeukanna ku $1 ($2).\nAlesan téh cenah ''$3''.\n\n*Mimiti dipeungpeuk: $4\n*Basina nepi: $5\n\n\nKiwari alamat IP Anjeun nyaéta $6.\nPék asupkeun wincikan di luhur kana unggal patanyaan Anjeun.\n\nMun Anjeun yakin yén ieu pameungpeukan mangrupa kasalahan, Anjeun bisa manggihan informasi panambah sarta pituduh na kawijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi kabuka]].\nAtawa mun henteu, sawalakeun ieu perkara di [[m:Steward requests/Global|Méta-Wiki]].",
 	"eri-rcfilters-tour-highlight-title": "Hasil kodeu warna anjeun",
 	"eri-rcfilters-tour-highlight-button": "Okéh, ngarti",
-	"wikimedia-statslink": "Statistik"
+	"wikimedia-statslink": "Statistik",
+	"wikimedia-cookiestatement": "Pernyataan réréméh"
 }
