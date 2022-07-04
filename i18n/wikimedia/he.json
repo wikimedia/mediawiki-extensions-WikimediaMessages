@@ -371,5 +371,6 @@
 	"research-incentive-description": "נא למלא את הטופס כדי להיכנס לרשימת המשתתפים שלנו. ניצור איתך קשר מדי פעם עם הזדמנויות מחקר בתשלום. באפשרותך להסיר את עצמך בכל זמן.",
 	"research-incentive-answer-positive": "אשתתף",
 	"research-incentive-answer-negative": "לא אשתתף",
-	"research-incentive-privacy": "ר' את מדיניות הפרטיות שלך למידע נוסף על תוכניות המחקר שלנו [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja כאן]."
+	"research-incentive-privacy": "ר' את מדיניות הפרטיות שלך למידע נוסף על תוכניות המחקר שלנו [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja כאן].",
+	"ipinfo-global-contributions-url-label": "תרומות גלובליות"
 }

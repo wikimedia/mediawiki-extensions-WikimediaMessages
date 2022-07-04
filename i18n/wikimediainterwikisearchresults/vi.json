@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Minh Nguyen"
+			"Minh Nguyen",
+			"RiceCracker12"
 		]
 	},
 	"search-interwiki-results-abwiki": "Các kết quả từ [[:ab:|Wikipedia tiếng Abkhaz]].",
@@ -15,6 +16,7 @@
 	"search-interwiki-results-anwiki": "Các kết quả từ [[:an:|Wikipedia tiếng Aragon]].",
 	"search-interwiki-results-arcwiki": "Các kết quả từ [[:arc:|Wikipedia tiếng Syriac]].",
 	"search-interwiki-results-arwiki": "Các kết quả từ [[:ar:|Wikipedia tiếng Ả Rập]].",
+	"search-interwiki-results-arywiki": "Đang hiện kết quả từ [[:ary:|Wikipedia tiếng Ả Rập Maroc]].",
 	"search-interwiki-results-arzwiki": "Các kết quả từ [[:arz:|Wikipedia tiếng Ả Rập Ai Cập]].",
 	"search-interwiki-results-astwiki": "Các kết quả từ [[:ast:|Wikipedia tiếng Asturias]].",
 	"search-interwiki-results-aswiki": "Các kết quả từ [[:as:|Wikipedia tiếng Assam]].",

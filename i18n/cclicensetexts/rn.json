@@ -4,6 +4,14 @@
 			"Gilbert Ndihokubwayo"
 		]
 	},
+	"wm-license-cc-free": "Uridegemvya:",
+	"wm-license-cc-free-to-share-header": "gusangiza",
+	"wm-license-cc-free-to-share-text": "mukwimura, kwiragiza wongere utange igikorwa",
+	"wm-license-cc-free-to-remix-header": "guhinyanyura",
+	"wm-license-cc-free-to-remix-text": "kujanisha igikorwa",
+	"wm-license-cc-conditions": "Ku mategeko akurikira:",
 	"wm-license-cc-conditions-attribution-header": "umurimo",
-	"wm-license-cc-conditions-share_alike-header": "Imigabane ingana"
+	"wm-license-cc-conditions-attribution-text": "Utegerezwa gutanga inkuru injanye, tanga umurongo ku ruhushya, kandi erekana ko habaye impinduka. Urashobora kubikora muburyo ubwo aribwo bwose busiguritse, ariko atari mu buryo ubwo aribwo bwose bwerekana ko uwatanze uburenganzira agushigikiye canke ashigikiye ibikoresho vyawe.",
+	"wm-license-cc-conditions-share_alike-header": "Imigabane ingana",
+	"wm-license-cc-conditions-share_alike-text": "Mugihe uhinyanyuye, uhinduye, canke wisunze iki gikorwa, utegerezwa gutanga intererano zawe kuri [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] kumwe n'igikorwa c'inkomoko."
 }

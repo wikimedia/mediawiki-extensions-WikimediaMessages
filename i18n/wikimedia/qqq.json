@@ -433,7 +433,7 @@
 	"research-incentive-description": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey description.",
 	"research-incentive-answer-positive": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nPositive answer for the Research Incentive survey\n{{Identical|Yes}}",
 	"research-incentive-answer-negative": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nNegative answer for the Research Incentive survey\n{{Identical|No}}",
-	"research-incentive-link": "Research Incentive survey external link",
+	"research-incentive-link": "{{Optional}}\n{{Doc-important|Please translate it '''only''' if you are sure that you know a correct link for the language!}}\n\nResearch incentive survey external link.",
 	"research-incentive-privacy": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nPoints to Research Incentive survey privacy policy.",
 	"research-incentive-confirm-msg": "Confirmation acknowledgment for the Research Incentive survey.",
 	"ipinfo-global-contributions-url-label": "Label for Global Contributions URL",
