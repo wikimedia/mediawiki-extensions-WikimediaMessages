@@ -4,7 +4,8 @@
 			"Meno25",
 			"ديفيد",
 			"علاء",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Shbib Al-Subaie"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا مؤقتة محددة",
@@ -14,5 +15,6 @@
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
-	"specialblockfeedback": "التغذية الراجعة"
+	"specialblockfeedback": "التغذية الراجعة",
+	"specialinvestigate-feedback": "شارك ملاحظاتك"
 }
