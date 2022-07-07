@@ -1,10 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Verdy p"
+		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "{{identical|logentry-usermerge-mergeuser}}",
 	"wikimedia-logentry-usermerge-deleteuser": "{{identical|logentry-usermerge-deleteuser}}",
-	"wikimedia-log-action-filter-usermerge": "{{identical|log-action-filter-usermerge}}",
+	"wikimedia-log-action-filter-usermerge": "{{Identical|Type of action}}",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "{{identical|log-action-filter-usermerge-mergeuser}}",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "{{identical|log-action-filter-usermerge-deleteuser}}",
 	"wikimedia-usermerge-logpage": "{{identical|usermerge-logpage}}",
