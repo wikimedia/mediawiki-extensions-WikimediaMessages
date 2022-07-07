@@ -309,6 +309,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Site name that should be included in the title attribute for the site label in the site links section on item pages. See [[:File:Sitelink-title-attribute1.png]] and [[:File:Sitelink-title-attribute2.png]] for examples.",
 	"wikibase-sitelinks-sitename-species": "{{Identical|Wikispecies}}",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Site name that should be included in the title attribute for the site label in the site links section on item pages. See [[:File:Sitelink-title-attribute1.png]] and [[:File:Sitelink-title-attribute2.png]] for examples.\n{{Identical|Wikidata}}",
+	"apihelp-wbsearchentities-paramvalue-profile-language": "{{doc-apihelp-paramvalue|wbsearchentities|profile|language}}",
+	"apihelp-query+wbsearch-paramvalue-profile-language": "{{doc-apihelp-paramvalue|query+wbsearch|profile|language}}",
 	"cant-delete-main-page": "Message shown if user attempts to delete or move the main page.",
 	"wikimedia-translationnotifications-signup-legal": "Legal text about the notifications sent to translators. Replace Privacy_policy in the URL with Special:MyLanguage/Privacy_policy/<your_language>, for example, Special:MyLanguage/Privacy_policy/fr for French.",
 	"upload-more-photos-of-this-monument": "This message is added by the WLM app linking to the upload wizard with the parameters set for a new upload of the same monument.",
