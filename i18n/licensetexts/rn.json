@@ -4,8 +4,12 @@
 			"Gilbert Ndihokubwayo"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Hatanzwe uruhusha rwo kwimura, gukwiragiza canke guhinyanyura ibi vyandiko hakoreshejwe uruhusha rwa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Umuce wa 1.2 canke umuce uwariwo wose washizeho inyuma ya [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ata gice ntahinduka, ata majambo y'urupapuro rw'intango canke rw'iherezo. Kwimuru uruhusha biri mu muce witwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Umwidondoro",
 	"wm-license-information-source": "Inkomoko",
 	"wm-license-information-date": "Igenekerezo",
-	"wm-license-information-author": "Umwanditsi"
+	"wm-license-information-author": "Umwanditsi",
+	"wm-license-information-permission": "Uruhusha",
+	"wm-license-information-permission-reusing-text": "Ikoreshwa rindi ry'iyi dosiye",
+	"wm-license-own-work": "Igikorwa cisangije"
 }
