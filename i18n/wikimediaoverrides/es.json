@@ -16,7 +16,8 @@
 			"DDPAT",
 			"Hasley",
 			"Jakeukalane",
-			"Rodney Araujo"
+			"Rodney Araujo",
+			"Ice bulldog"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Los visitantes a esta wiki que utilizaron su dirección IP han creado {{PLURAL:$1|1 cuenta|$1 cuentas}} en las últimas 24 horas, lo cual es el máximo permitido en ese período de tiempo.\nComo resultado, los visitantes que utilicen esa dirección IP no pueden crear más cuentas de usuario en este momento.\n\nSi estás en un evento cuyo objeto es contribuir a los proyectos Wikimedia, por favor visite [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|esta página]] para resolver el problema.",
@@ -39,7 +40,9 @@
 	"wikimedia-mwoauthserver-invalid-user": "Hubo un problema al iniciar tu sesión global. Si acabas de crear tu cuenta, cierra la sesión y vuelve a iniciarla. Y luego vuelve a autorizar la aplicación. Si no acabas de crear tu cuenta, visita [https://meta.wikimedia.org/ meta.wikimedia.org] y luego vuelve a autorizar la aplicación. (Código de error: E008)",
 	"wikimedia-ipb-confirmhideuser": "Estás a punto de bloquear a un usuario con la opción de ocultamiento activada. Esto ocultará el nombre de usuario bloqueado de todas las listas y entradas de registro de esta wiki. ¿Deseas proceder con esto?\n\nSi el nombre de usuario necesita ser ocultado en todos las wikis de Wikimedia, por favor contacta con los [[m:Special:MyLanguage/Stewards|stewards]] por email [[m:Special:EmailUser/Wikimedia_Stewards|desde la wiki]] o directamente a <kbd>stewards@wikimedia.org</kbd>. Gracias.",
 	"wikimedia-urlshortener-disabled": "Los enlaces cortos solo pueden crearse a través de la página [[:m:Special:UrlShortener|Special:UrlShortener]] de meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-disabled": "Los enlaces cortos solo pueden ser creados desde meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Los enlaces cortos solo pueden ser creados a través de [[:m:Special:UrlShortener|Special:UrlShortener]] en meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "Los enlaces cortos solo pueden ser creados desde meta.wikimedia.org.",
 	"wikimedia-webauthn-ui-login-prompt": "Por favor toca tu dispositivo de verificación o sigue las instrucciones del navegador. Ten en cuenta que necesitarás iniciar sesión desde la misma wiki en la que registraste tu dispositivo de verificación inicialmente.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/es Normativa de privacidad]"
 }
