@@ -59,7 +59,11 @@
 			"Wifidel",
 			"Bruno44101",
 			"Jakeukalane",
-			"McDutchie"
+			"McDutchie",
+			"Danniel07",
+			"DiegoAmbrocio",
+			"Josuert",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -375,6 +379,9 @@
 	"restriction-level-editautopatrolprotected": "autopatrollers protegidos",
 	"right-editautopatrolprotected": "Editar páginas protegidas como «{{int:protect-level-editeditorprotected}}»",
 	"action-editautopatrolprotected": "Editar páginas protegidas como «{{int:protect-level-editeditorprotected}}»",
+	"protect-level-edittrustedprotected": "Permitir solo usuarios de confianza",
+	"right-edittrustedprotected": "Editar páginas protegidas como «{{int:protect-level-edittrustedprotected}}»",
+	"action-edittrustedprotected": "editar páginas protegidas como \"{{int:protect-level-edittrustedprotected}}\"",
 	"group-docseditor": "Editores de documentación",
 	"group-docseditor-member": "{{GENDER:$1|editor de documentación|editora de documentación}}",
 	"action-docseditor": "editar la documentación",

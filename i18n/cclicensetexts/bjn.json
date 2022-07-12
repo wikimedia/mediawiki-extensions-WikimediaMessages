@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
+	"wm-license-cc-by-4.0-text": "Barakas ini dilisénsiakan di bawah lisénsi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/4.0/deed.id Atribusi 4.0 Antarabangsa].",
 	"wm-license-cc-by-sa-3.0-text": "Barakas ngini dilisénsiakan lawan lisénsi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.id Atribusi-BabagiSarupa 3.0 Kadada Adaptasi]",
 	"wm-license-cc-free": "Pian dibulihakan:",
 	"wm-license-cc-free-to-share-header": "gasan babagi",
@@ -14,7 +15,7 @@
 	"wm-license-cc-free-to-remix-text": "gasan mangadaptasi karya ngini",
 	"wm-license-cc-conditions": "Bapandal katantuan nangini:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
-	"wm-license-cc-conditions-attribution-text": "Pian musti mancantumakan pangakuan nang rasuk, mambariakan tautan ka lisénsi, wan mamadahi amun ada paubahan. Pian kawa manggawinya sakahandak Pian, tagal kada manyataakan kalu pambari lisénsi mandukung Pian atawa pamakaian Pian.",
+	"wm-license-cc-conditions-attribution-text": "Pian musti mancantumakan pangakuan nang rasuk, mambariakan tautan ka lisénsi, wan mamadahi amun ada paubahan. Pian kawa manggawinya sakahandak Pian, tagal kada maiihakan kalu pambari lisénsi mandukung Pian atawa pamakaian Pian.",
 	"wm-license-cc-conditions-share_alike-header": "BabagiSarupa",
 	"wm-license-cc-conditions-share_alike-text": "Amun Pian manggubah, maubah, atawa maulah turunan matan matéri ngini, Pian harus manyabarluasakan sumbangan Pian di bawah [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses lisénsi nang sama] lawan matéri asli."
 }
