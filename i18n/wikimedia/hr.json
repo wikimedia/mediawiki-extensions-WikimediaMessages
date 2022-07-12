@@ -44,9 +44,9 @@
 	"group-extended-uploader": "Postavljači s dodatnim pravima",
 	"group-extended-uploader-member": "{{GENDER:$1|postavljač s dodatnim pravima|postavljačica s dodatnim pravima}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Postavljači s dodatnim pravima",
-	"group-otrs-member": "Članovi OTRS-a",
-	"group-otrs-member-member": "{{GENDER:$1|član OTRS-a|članica OTRS-a}}",
-	"grouppage-otrs-member": "{{ns:project}}:Članovi OTRS-a",
+	"group-otrs-member": "Članovi VRT-a",
+	"group-otrs-member-member": "{{GENDER:$1|član VRT-a|članica VRT-a}}",
+	"grouppage-otrs-member": "{{ns:project}}:Članovi VRT-a",
 	"group-abusefilter": "Uređivači filtra zloporaba",
 	"group-abusefilter-member": "{{GENDER:$1|uređivač filtra zloporaba|uređivačica filtra zloporaba}}",
 	"grouppage-abusefilter": "{{ns:project}}:Uređivači filtra zloporaba",
@@ -210,7 +210,7 @@
 	"group-wmf-ops-monitoring-member": "{{GENDER:$1|WMF-ov nadzornik operacija|WMF-ova nadzornica operacija}}",
 	"tag-emoji": "smješci emoji",
 	"tag-emoji-description": "U uporabi: globalni filtar zloporaba 110.",
-	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB": "[https://hr.wikipedia.org/wiki/Wikipedija:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:Iz Wječnika\nb:Iz Wikiknjiga\nn:Iz Wijesti\nq:Iz Wikicitata\ns:Iz Wikizvora\nv:Iz Wikiučilišta\nvoy:Iz Wikiputovanja",
 	"shared-repo-name-shared": "Zajednički poslužitelj",
 	"wikimedia-copyright": "Tekst je dostupan pod licencijom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons: Imenuj autora/Dijeli pod istim uvjetima</a>; mogu se primjenjivati i dodatni uvjeti. Pogledajte <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Uvjete upotrebe</a> za detalje.",
@@ -318,5 +318,6 @@
 	"group-docseditor-member": "{{GENDER:$1|uređivač|uređivačica|uređivač/uređivačica}} dokumentacije",
 	"action-docseditor": "uređivanje dokumentacije",
 	"right-docseditor": "Uređivanje dokumentacije",
-	"ipinfo-feedback-button-label": "Napišite povratnu informaciju"
+	"ipinfo-feedback-button-label": "Napišite povratnu informaciju",
+	"ipinfo-global-contributions-url-label": "Globalni doprinosi"
 }

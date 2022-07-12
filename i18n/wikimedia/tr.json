@@ -355,7 +355,7 @@
 	"passwordpolicies-policy-blockattacker": "Ayrıntıların açıklanmasının azaltmayı engelleyeceği bilinen saldırıların azaltılması için parola politikası",
 	"technical-maintenance-soon": "Teknik bakım yakında yapılacak:",
 	"technical-maintenance-edit": "Bu süre zarfında herhangi bir düzenlemeyi kaydedemeyebilirsiniz.",
-	"group-oathauth-tester": "İki faktörlü kimlik doğrulama test cihazları",
+	"group-oathauth-tester": "İki faktörlü kimlik doğrulamayı etkinleştirebilen kullanıcılar",
 	"group-oathauth-tester-member": "{{GENDER:$1|iki faktörlü kimlik doğrulama test kullanıcısı}}",
 	"querypage-updates-half-monthly": "Bu sayfa için güncellemeler ayda iki kez gerçekleştirilmektedir.",
 	"querypage-updates-monthly": "Bu sayfa için güncellemeler ayda bir kez gerçekleştirilmektedir.",
