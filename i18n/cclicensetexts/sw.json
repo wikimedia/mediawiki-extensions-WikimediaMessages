@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Hussein m mmbaga",
 			"Ikiwaner",
 			"Lloffiwr",
 			"Muddyb",
@@ -10,5 +11,6 @@
 	"wm-license-cc-attribution": "Sifa",
 	"wm-license-cc-by-1.0-text": "Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [https://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].",
 	"wm-license-cc-free": "Uko huru:",
-	"wm-license-cc-conditions-attribution-header": "sifa"
+	"wm-license-cc-conditions-attribution-header": "sifa",
+	"wm-license-cc-conditions-share_alike-header": "\nshiriki sawa"
 }

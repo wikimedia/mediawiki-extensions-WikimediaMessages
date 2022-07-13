@@ -369,5 +369,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "خیر",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "مطمئن نیستم",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "این نظرسنجی ناشناس توسط بنیاد ویکی‌مدیا انجام شده است. [https://meta.wikimedia.org/wiki/Community_Safety بیشتر بخوانید] یا [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement بیانیه حریم خصوصی] را بررسی کنید.",
-	"gadget-souspages-subpages": "زیرصفحه‌ها"
+	"gadget-souspages-subpages": "زیرصفحه‌ها",
+	"ipinfo-global-contributions-url-label": "مشارکت‌های سراسری"
 }
