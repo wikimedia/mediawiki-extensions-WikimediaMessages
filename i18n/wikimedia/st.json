@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gustave London"
+			"Gustave London",
+			"Tšepo"
 		]
 	},
 	"sitesupport": "Dimpho",
 	"tooltip-n-sitesupport": "Re tšehetse",
-	"wikimedia-developers": "Baetsi ba Software"
+	"wikimedia-developers": "Baetsi ba Software",
+	"wikimedia-statslink": "Dipalopalo"
 }

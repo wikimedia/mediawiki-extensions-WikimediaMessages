@@ -5,6 +5,7 @@
 		]
 	},
 	"sitesupport": "Sǩiâŋk",
+	"group-global-bot": "Riâžldõkveiddsõs boott",
 	"search-interwiki-custom": "wikt:Wikisääʹnnǩeeʹrjest\nb:Wikiǩiiʹrjin\nn:Wikiođđsin\nq:Wikisitaattin\ns:Wikiaunstõõzzin\nv:Wikiversiteeʹttest\nvoy:Wikimaaʹtǩin",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Puäʹđ tiõrvân}}, $1!",
 	"wikibase-repo-name": "Wikidata",
@@ -48,5 +49,6 @@
 	"action-editautopatrolprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautopatrolprotected}}\"",
 	"right-edittrustedprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\"",
 	"action-edittrustedprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-edittrustedprotected}}\"",
-	"ipinfo-feedback-button-label": "Uuʹd maacctõõzz"
+	"ipinfo-feedback-button-label": "Uuʹd maacctõõzz",
+	"ipinfo-global-contributions-url-label": "Riâžldõkveiddsõs muttâz"
 }
