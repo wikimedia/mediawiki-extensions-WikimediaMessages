@@ -5,6 +5,7 @@
 		]
 	},
 	"sitesupport": "Sǩiâŋk",
+	"group-global-bot": "Riâžldõkveiddsõs boott",
 	"search-interwiki-custom": "wikt:Wikisääʹnnǩeeʹrjest\nb:Wikiǩiiʹrjin\nn:Wikiođđsin\nq:Wikisitaattin\ns:Wikiaunstõõzzin\nv:Wikiversiteeʹttest\nvoy:Wikimaaʹtǩin",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-sitelinks-wikibooks": "Wikiǩeeʹrj",
@@ -38,6 +39,7 @@
 	"right-editeditorprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editeditorprotected}}\"",
 	"action-editextendedsemiprotected": "muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"right-editextendedsemiprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editextendedsemiprotected}}\"",
+	"eri-rcfilters-tour-help": "Lââʹssteâđ",
 	"wikimedia-statslink": "Statistiikk",
 	"wikimedia-cookiestatement": "Teâđ jeäʹvstõõzzin",
 	"right-editautoreviewprotected": "Muʹtted seeidaid, kook lie suõjjuum tässa \"{{int:protect-level-editautoreviewprotected}}\"",
