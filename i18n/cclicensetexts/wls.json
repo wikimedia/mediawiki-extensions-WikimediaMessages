@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lea.Fakauvea"
+			"Lea.Fakauvea",
+			"Lea.fakauvea"
 		]
 	},
 	"wm-license-cc-attribution": "ne'e fa'u e",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "fetogi te gaue",
 	"wm-license-cc-conditions": "E fakalogo pe ki te 'u tu'utu'uni aeni:",
 	"wm-license-cc-conditions-attribution-header": "ne'e fa'u e",
-	"wm-license-cc-conditions-attribution-text": "E ma'ua ke fakamahino te higoa o ia ae ne'e ina fa'u, tohi mo he laini neti ki te pepa fakagafua pea mo fakahā pe ne'e fetogi te gaue e koe. Tohi fakapotopoto te higoa o te kilisitiano a ia te gaue. Mole ko he fakamo'oni pe tekeni o tau faka'aoga'i o tana gaue e ia.",
+	"wm-license-cc-conditions-attribution-text": "E ma'ua ke tohi te higoa o ia ae ne'e ina fa'u, tohi mo he tāpiki ki te pepa fakagafua pea mo fakahā pe ne'e fetogi te gaue e koe. Tohi fakalelei te higoa o te kilisitiano a ia te gaue. Mole ko he fakamo'oni pe tekeni o tau faka'aoga'i o tana gaue.",
 	"wm-license-cc-conditions-share_alike-header": "Vaevae atu",
 	"wm-license-cc-conditions-share_alike-text": "Ka e ke fio, fetogi pe fa'u aki te gaue aeni hau koga, e ma'ua ke vaevae tau gaue o fakalogo pe ki te 'u tu'utu'uni o te [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] o hage pe ko te 'uluaki gaue ne'e ke faka'aoga."
 }

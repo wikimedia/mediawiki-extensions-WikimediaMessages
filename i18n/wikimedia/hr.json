@@ -218,7 +218,7 @@
 	"group-wmf-ops-monitoring-member": "{{GENDER:$1|WMF-ov nadzornik operacija|WMF-ova nadzornica operacija}}",
 	"tag-emoji": "smješci emoji",
 	"tag-emoji-description": "U uporabi: globalni filtar zloporaba 110.",
-	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
+	"tag-AWB": "[https://hr.wikipedia.org/wiki/Wikipedija:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:Iz Wječnika\nb:Iz Wikiknjiga\nn:Iz Wijesti\nq:Iz Wikicitata\ns:Iz Wikizvora\nv:Iz Wikiučilišta\nvoy:Iz Wikiputovanja",
 	"shared-repo-name-shared": "Zajednički poslužitelj",
 	"wikimedia-copyright": "Tekst je dostupan pod licencijom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons: Imenuj autora/Dijeli pod istim uvjetima</a>; mogu se primjenjivati i dodatni uvjeti. Pogledajte <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Uvjete upotrebe</a> za detalje.",
