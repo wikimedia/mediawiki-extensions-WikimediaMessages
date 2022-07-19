@@ -438,8 +438,8 @@
 	"research-incentive-link": "{{Optional}}\n{{Doc-important|Please translate it '''only''' if you are sure that you know a correct link for the language!}}\n\nResearch incentive survey external link.",
 	"research-incentive-privacy": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nPoints to Research Incentive survey privacy policy.",
 	"research-incentive-confirm-msg": "Confirmation acknowledgment for the Research Incentive survey.",
-	"ipinfo-global-contributions-url-label": "Label for Global Contributions URL",
-	"ipinfo-global-contributions-url": "Link for Global Contributions URL",
-	"ipinfo-xtools-url-label": "Label for Xtools URL",
-	"ipinfo-xtools-url": "Link for Xtools URL"
+	"ipinfo-global-contributions-url-label": "Label for Global Contributions link",
+	"ipinfo-global-contributions-url": "URL for Global Contributions link\n\nParameters:\n* $1 - IP address",
+	"ipinfo-xtools-url-label": "Label for XTools link",
+	"ipinfo-xtools-url": "URL for XTools link\n\nParameters:\n* $1 - IP address\n* $2 - server name of current wiki"
 }

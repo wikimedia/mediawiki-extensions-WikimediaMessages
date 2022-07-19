@@ -394,7 +394,7 @@
 	"research-incentive-privacy": "See our privacy policy and learn more about our research program [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program here].",
 	"research-incentive-confirm-msg": "Thank you!",
 	"ipinfo-global-contributions-url-label": "Global contributions",
-	"ipinfo-global-contributions-url": "https://xtools.wmflabs.org/globalcontribs/",
+	"ipinfo-global-contributions-url": "https://xtools.wmflabs.org/globalcontribs/$1",
 	"ipinfo-xtools-url-label": "XTools",
-	"ipinfo-xtools-url": "https://xtools.wmflabs.org/ec/en.wikipedia.org/"
+	"ipinfo-xtools-url": "https://xtools.wmflabs.org/ec/$2/$1"
 }

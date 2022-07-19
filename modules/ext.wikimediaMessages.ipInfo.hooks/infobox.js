@@ -18,8 +18,8 @@
 		} );
 		$info.find( '.ext-ipinfo-widget-property-source' ).before( feedbackButton.$element );
 
-		var contributionsUrl = new URL( mw.config.get( 'wgIPInfoTarget' ), mw.msg( 'ipinfo-global-contributions-url' ) );
-		var xtoolsUrl = new URL( mw.config.get( 'wgIPInfoTarget' ), mw.msg( 'ipinfo-xtools-url' ) );
+		var contributionsUrl = mw.msg( 'ipinfo-global-contributions-url', mw.config.get( 'wgIPInfoTarget' ) );
+		var xToolsUrl = mw.msg( 'ipinfo-xtools-url', mw.config.get( 'wgIPInfoTarget' ), mw.config.get( 'wgServerName' ) );
 
 		$info.find( '[data-property="edits"]' )
 			.append( $( '<a>' )
@@ -28,7 +28,7 @@
 				.text( mw.msg( 'ipinfo-global-contributions-url-label' ) ) );
 		$info.find( '[data-property="edits"]' )
 			.append( $( '<a>' )
-				.attr( 'href', xtoolsUrl )
+				.attr( 'href', xToolsUrl )
 				.attr( 'class', 'ext-ipinfo-contribution-links' )
 				.text( mw.msg( 'ipinfo-xtools-url-label' ) ) );
 
