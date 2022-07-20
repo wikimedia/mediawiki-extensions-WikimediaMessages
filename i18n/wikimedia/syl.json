@@ -1,14 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"এম আবু সাঈদ"
+			"এম আবু সাঈদ",
+			"ꠢꠣꠍꠘ ꠞꠣꠎꠣ"
 		]
 	},
 	"sitesupport": "ꠖꠣꠘ ꠇꠞꠇꠣ",
 	"tooltip-n-sitesupport": "ꠀꠝꠞꠣꠞꠦ ꠡꠝꠞ꠆ꠕꠘ ꠇꠞꠇꠣ",
 	"wikimedia-copyright": "ꠟꠦꠈꠣ ꠅꠈꠟ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ꠇ꠆ꠞꠤꠄꠐꠤꠜ ꠇꠝꠘ꠆ꠍ ꠄꠐ꠆ꠞꠤꠛꠤꠃꠡꠘ-ꠡꠦꠀꠞ ꠄꠟꠣꠁꠇꠧꠞ ꠀꠅꠔꠣꠜꠥꠇ꠆ꠔ</a>;\nꠟꠉꠦ ꠛꠣꠠꠔꠤ ꠙꠖ ꠙꠎꠥꠎ꠆ꠎ ꠅꠁꠔꠧ ꠙꠣꠞꠦ৷<a  href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ꠛꠦꠛꠢꠣꠞꠧꠞ ꠡꠞ꠆ꠔꠔ ꠙꠥꠞꠣꠙꠥꠞꠤ ꠖꠦꠈꠇꠣ৷</a>",
+	"wikimedia-copyrightwarning": "ꠛꠖꠟꠣꠅꠀꠞꠦ ꠍꠦꠁꠜ ꠈꠞꠤꠀ, ꠀꠚꠘꠦ [https://foundation.wikimedia.org/wiki/Terms_of_Use ꠛꠦꠛꠀꠞꠞ ꠡꠞꠔꠞꠦ] ꠝꠣꠘꠤꠀ ꠘꠤꠞꠣ, ꠀꠞ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ꠟꠣꠁꠍꠦꠘ꠆ꠍꠧꠞ] ꠅ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-ꠅꠞ ꠅꠗꠤꠘꠦ ꠀꠚꠘꠣꠞ ꠟꠦꠈꠣꠞꠦ ꠍꠣꠚꠣꠁꠔꠦ ꠡꠣꠄ ꠖꠤꠞꠣ. \nꠀꠚꠘꠤ ꠡꠝ꠆ꠝꠔ ꠅꠁꠞꠣ ꠎꠦ ꠇ꠆ꠞꠤꠄꠐꠤꠜ ꠇꠝꠘ꠆ꠍ ꠟꠣꠁꠍꠦꠘ꠆ꠍꠞ ꠅꠗꠤꠘꠦ ꠄꠉꠥ ꠢꠣꠁꠙꠣꠞꠟꠤꠋꠇ ꠛꠣ URL ꠎꠕꠦꠡ꠆ꠐ ꠄꠐ꠆ꠞꠤꠛꠤꠃꠡꠘ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welcome}}, $1!",
-	"wikimedia-developers": "ꠒꠦꠜꠦꠟꠣꠙꠣꠞ",
-	"wikimedia-statslink": "ꠚꠞꠤꠡꠂꠋꠇꠣꠘ",
-	"wikimedia-cookiestatement": "ꠇꠥꠇꠤ ꠛꠤꠔ꠆ꠔꠣꠘ꠆ꠔ"
+	"wikibase-sitelinks-wikinews": "ꠃꠁꠇꠤꠈꠛꠞ",
+	"wikibase-sitelinks-wikiquote": "ꠃꠁꠇꠤꠒꠣꠇ",
+	"wikibase-sitelinks-wikisource": "ꠃꠁꠇꠤꠎꠠ",
+	"wikibase-sitelinks-wikivoyage": "ꠃꠁꠇꠤꠎꠣꠔ꠆ꠞꠣ",
+	"wikimedia-developers": "ꠃꠘ꠆ꠘꠔꠤ ꠇꠞ꠆ꠞꠣ",
+	"wikimedia-globalblocking-ipblocked": "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* ꠡꠥꠞꠥ ꠅꠁꠛꠧ: $4\n* ꠡꠦꠡ ꠅꠁꠛꠧ: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''ꠄꠉꠥ or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
+	"wikimedia-statslink": "ꠉꠘꠣ",
+	"wikimedia-cookiestatement": "ꠉꠥꠙꠘ ꠈꠛꠞ ꠘꠤꠛꠣꠞ ꠇꠕꠣ"
 }

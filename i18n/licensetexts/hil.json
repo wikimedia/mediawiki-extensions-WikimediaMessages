@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Pare Mo",
-			"Redhotchili23"
+			"Redhotchili23",
+			"Kai theos en ho logos"
 		]
 	},
 	"wm-license-information-description": "Deskripsiyon",
@@ -10,5 +11,6 @@
 	"wm-license-information-date": "Petsa",
 	"wm-license-information-author": "Tagsulat",
 	"wm-license-information-permission": "Permiso",
+	"wm-license-own-work": "Kaugalingon nga buhat",
 	"wm-license-self-multiple-licenses-select": "Puwede mo pilion ang luyag mong lisensiya."
 }
