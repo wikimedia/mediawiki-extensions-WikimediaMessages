@@ -180,6 +180,7 @@
 	"group-global-bot": "ربات‌های سراسری",
 	"group-global-bot-member": "{{GENDER:$1|ربات سراسری}}",
 	"grouppage-global-bot": "m:Global bot/fa",
+	"group-global-deleter": "حذف‌کنندگان سراسری",
 	"group-global-deleter-member": "{{GENDER:$1|حذف‌کنندهٔ سراسری}}",
 	"group-global-flow-create": "ایجاد کنندگان سراسری فلو",
 	"group-global-flow-create-member": "{{GENDER:$1|ایجاد کنندگان سراسری فلو}}",
