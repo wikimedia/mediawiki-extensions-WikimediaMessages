@@ -11,7 +11,7 @@
 	tour.firstStep( {
 		name: 'Highlight',
 		titlemsg: 'eri-rcfilters-tour-highlight-title',
-		description: mw.message( 'eri-rcfilters-tour-highlight-description' ).text(),
+		description: mw.msg( 'eri-rcfilters-tour-highlight-description' ),
 		autoFocus: true,
 		allowAutomaticOkay: false,
 		attachTo: '.mw-rcfilters-ui-filtersListWidget-hightlightButton',
