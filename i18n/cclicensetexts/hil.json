@@ -1,9 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pare Mo"
+			"Pare Mo",
+			"Kai theos en ho logos"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusyon",
-	"wm-license-cc-conditions-attribution-header": "atribusyon"
+	"wm-license-cc-free": "Ikaw may kahilway:",
+	"wm-license-cc-free-to-share-header": "para i-ambit",
+	"wm-license-cc-free-to-share-text": "para ma-kopya, i-panagtag kag i-pasa ang buhat.",
+	"wm-license-cc-free-to-remix-header": "para i-apid, simpon, ukon impon",
+	"wm-license-cc-free-to-remix-text": "para ipagamit kag ukon ipa-igo ang binuhat",
+	"wm-license-cc-conditions": "Suno sa mga kasugtanan:",
+	"wm-license-cc-conditions-attribution-header": "atribusyon",
+	"wm-license-cc-conditions-attribution-text": "Ikaw dapat nga maghatag nagaka-angot nga pagpasidungog, maghatag kaw-id sa lisensya, kag magbutag sang pagpabalo kung may mga pagbag-o nga ginbuhat. Pwede mo ubrahon ang mga ini sa maskin ano nga tadlong nga pamaagi, pero indi sa maskin ano nga pamaagi nga magapatimaan nga ang lisensor nagahanugot sa imo ukon sang imo pag-gamit.",
+	"wm-license-cc-conditions-share_alike-header": "Ipa-ambit",
+	"wm-license-cc-conditions-share_alike-text": "Kung imo i-apid-apid, bag-uhon, ibalhin, ukon gamiton gikan sa butang, dapat mo i-dihon ang imo mga naamot o nahatag nga mga kontribusyon suno sa [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] isip amo nga orihinal."
 }
