@@ -48,6 +48,7 @@
 	"wikimedia-webauthn-ui-login-prompt": "Будь ласка, торкніться свого пристрою верифікації, або дотримуйтесь браузерних інструкцій. Вам знадобиться увійти до тої самої вікі, де ви зареєстрували пристрій верифікації",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy  Політика приватності]",
 	"wikimedia-notification-body-oathauth-disable-other": "Якщо {{GENDER:$2|ви}} не робили цього запиту, {{GENDER:$2|вам}} варто звернутися до Trust & Safety Фонду Вікімедіа.",
+	"wikimedia-ipinfo-source-geoip2": "Використання вами цього інструменту регулюється [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Настановами щодо інструменту IP-інформації].",
 	"wikimedia-ipinfo-infobox-use-terms": "Інструмент IP-інформації використовує базу даних MaxMind для відображення таких деталей, як місцезнаходження, проксі-сервер і кількість пристроїв, які використовують цю IP-адресу.",
-	"wikimedia-ipinfo-preference-use-agreement": "Я погоджуюсь використовувати цей інструмент відповідно до [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines настанов для інструменту IP-інформації], виключно для розслідування або запобігання вандалізму, зловживань, або інших порушень правил спільноти чи Фонду Вікімедія."
+	"wikimedia-ipinfo-preference-use-agreement": "Я погоджуюсь використовувати цей інструмент відповідно до [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines настанов для інструменту IP-інфо], виключно для розслідування або запобігання вандалізму, зловживань, або інших порушень правил спільноти чи Фонду Вікімедіа."
 }

@@ -3,11 +3,17 @@
 		"authors": [
 			"DCLXVI",
 			"ShockD",
-			"StanProg"
+			"StanProg",
+			"Vlad5250"
 		]
 	},
+	"wikimediamessages-desc": "Временни съобщения, специфични за Уикимедия",
 	"grouppage-oversight": "{{ns:project}}:Ревизори",
 	"group-oversight": "Ревизори",
 	"group-oversight-member": "{{GENDER:$1|ревизор}}",
-	"thank-you": "{{GENDER:$1|Благодаря.}}"
+	"hello": "Здравейте",
+	"please-translate": "Моля, помогнете с превода на вашия език",
+	"thank-you": "{{GENDER:$1|Благодаря.}}",
+	"specialblockfeedback": "Обратна връзка",
+	"specialinvestigate-feedback": "Оставете коментар"
 }
