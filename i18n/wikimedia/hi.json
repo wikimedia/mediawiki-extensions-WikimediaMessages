@@ -165,7 +165,7 @@
 	"upload-form-label-not-own-work-message-commons": "यदि आपके पास इस फ़ाइल का प्रतिकृति अधिकार नहीं है और आप इसे किसी और अधिकार के तहत प्रदर्शित करना चाहते हैं तो आप [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard] का उपयोग करें।",
 	"upload-form-label-not-own-work-local-commons": "यदि आप चाहें तो आप [[Special:Upload|{{SITENAME}} के पृष्ठ]] पर फ़ाइल डाल सकते हैं, यदि यह फ़ाइल वहाँ के नियम के अंतर्गत हो तो।",
 	"right-superprotect": "उच्च सुरक्षा स्तर बदलें",
-	"protect-level-superprotect": "केवल उच्च-सुरक्षा सदस्यों को अनुमति दें।",
+	"protect-level-superprotect": "सिर्फ उच्च-सुरक्षा वाले सदस्यों को अनुमति है",
 	"restriction-level-superprotect": "उच्च सुरक्षा",
 	"eri-rcfilters-tour-help": "और अधिक सीखें",
 	"eri-rcfilters-tour-intro-welcome-button": "हाँ, समझ गया",

@@ -45,7 +45,7 @@
 	"wm-license-book-start-this-book": "Commencer ce livre",
 	"wm-license-book-subtitle": "Sous-titre",
 	"wm-license-book-title": "Titre",
-	"wm-license-book-translator": "Traducteur",
+	"wm-license-book-translator": "Traducteur ou traductrice",
 	"wm-license-book-volume": "Volume",
 	"wm-license-book-year-of-publication": "Année de publication",
 	"wm-license-cecill-text": "Cette œuvre est un [[{{int:wm-license-free-software-wiki-link}}|logiciel libre]] ; elle peut être redistribuée ou modifiée selon les termes de la licence [[{{int:wm-license-cecill-wiki-link}}|CeCILL]].\nLe texte de cette licence est consultable sur [{{int:wm-license-cecill-full-link}} www.cecill.info].",

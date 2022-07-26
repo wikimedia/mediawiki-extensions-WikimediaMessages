@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"StanProg"
+			"StanProg",
+			"Vlad5250"
 		]
 	},
-	"wm-codeofconduct": "Кодекс на поведение"
+	"wm-codeofconduct": "Кодекс на поведение",
+	"wm-techcodeofconduct": "Кодекс на поведение"
 }
