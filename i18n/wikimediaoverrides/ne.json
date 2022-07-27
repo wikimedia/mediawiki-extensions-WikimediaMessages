@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"हिमाल सुबेदी"
+			"हिमाल सुबेदी",
+			"Bada Kaji"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(छान्नमा मलाई सहयाेग गर्नुहाेस्)]]",
 	"wikimedia-createacct-imgcaptcha-help": "तस्वीर देख्न कठिन भइरहेकाे छ? [[{{MediaWiki:createacct-captcha-help-url}}|खाता अनुराेध गर्नुहाेस्]]",
-	"wikimedia-centralauth-groupname": "विकिमिडिया फाउन्डेसन"
+	"wikimedia-centralauth-groupname": "विकिमिडिया फाउन्डेसन",
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\"मा क्लिक गरेर, तपाइँले हाम्रो [https://foundation.wikimedia.org/wiki/Terms_of_Use उपयोग सर्तहरू]मा सहमत हुनुहुन्छ र तपाइँको योगदानहरू $1 {{PLURAL:$2|अन्तर्गत}} रूपमा जारी गर्न सहमत हुनुहुन्छ।",
+	"wikimedia-sitematrix-others": "अन्य विकिमिडिया परियोजनाहरू"
 }

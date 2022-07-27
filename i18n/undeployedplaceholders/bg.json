@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"StanProg"
+			"StanProg",
+			"Vlad5250"
 		]
 	},
-	"wikimedia-usermerge-logpage": "Дневник на сливанията на потребители"
+	"wikimedia-log-action-filter-usermerge": "Вид на действието:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Сливане на потребителска сметка",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Изтриване на потребителска сметка",
+	"wikimedia-usermerge-logpage": "Дневник на сливанията на потребители",
+	"wikimedia-usermerge-logpagetext": "Тази страница съдържа дневник на потребителските сливания."
 }

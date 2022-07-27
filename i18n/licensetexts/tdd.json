@@ -1,16 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"咽頭べさ"
+			"咽頭べさ",
+			"Aey Tai Nuea"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "ᥙᥢᥴᥑᥣᥒᥳ ᥖᥣᥱᥖᥥᥴ ᥗᥧᥖᥱᥟᥝᥴ  ᥚᥦᥲᥖᥪᥢᥰ ᥘᥦᥲ/ᥟᥛᥱᥢᥢᥴ ᥛᥨᥢᥳᥛᥦᥰ ᥢᥬᥰᥘᥤᥐᥲᥢᥭᥳ ᥓᥩᥛᥰᥢᥒᥱ ᥑᥩᥲᥛᥢᥲᥓᥬᥴ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 ᥟᥛᥱᥢᥢᥴ ᥓᥫᥰᥙᥥᥢᥴ ᥛᥣᥭᥴᥟᥩᥐᥱ ᥟᥢᥴᥗᥧᥐᥱᥙᥪᥢᥴᥟᥩᥐᥱ ᥝᥣᥭᥰᥘᥒᥴ ᥢᥒᥱ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ᥟᥢᥴᥟᥛᥱᥛᥤᥰ ᥘᥩᥒᥲᥘᥦᥐᥲᥘᥣᥭᥲ ᥐᥣᥲᥖᥤᥲ ᥖᥩᥢᥲᥐᥢᥴ, ᥘᥤᥐᥲᥓᥫᥰᥛᥤᥰᥖᥤᥲ ᥢᥣᥲᥔᥪᥲᥚᥣᥭᥲᥢᥣᥲ, ᥢᥣᥲᥔᥪᥲᥚᥣᥭᥱᥘᥒᥴ. ᥟᥢᥴᥙᥥᥢᥴ ᥝᥬᥴᥖᥣᥱᥗᥧᥖᥱᥟᥝᥴᥢᥭᥳ ᥛᥢᥰᥖᥥᥴᥑᥝᥲᥙᥣᥰᥝᥭᥳ ᥐᥣᥲᥖᥤᥲ ᥖᥩᥢᥲᥐᥢᥴ ᥟᥢᥴᥛᥤᥰᥞᥨᥝᥴᥑᥩᥲᥝᥣᥲ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' ᥢᥢᥳ.",
-	"wm-license-information-description": "ᥑᥩᥲᥔᥙᥰᥘᥦᥒᥰ",
-	"wm-license-information-source": "ᥒᥫᥢᥲᥒᥝᥲᥖᥪᥢᥰ",
-	"wm-license-information-date": "ᥝᥢᥰᥗᥤᥳ",
-	"wm-license-information-author": "ᥚᥧᥲᥖᥦᥛᥲᥘᥤᥐᥲ",
-	"wm-license-information-permission": "ᥑᥩᥲᥘᥨᥖᥰᥙᥩᥭᥱ",
-	"wm-license-information-permission-reusing-text": "ᥑᥪᥢᥰᥓᥬᥳ ᥜᥣᥭᥱᥟᥢᥴᥢᥭᥳ",
-	"wm-license-own-work": "ᥐᥣᥢᥴᥑᥩᥒᥴᥖᥨᥝᥴ",
-	"wm-license-self-multiple-licenses-select": "ᥓᥝᥲᥐᥝᥱᥗᥧᥐᥱᥘᥫᥐᥲ ᥝᥭᥴᥖᥩᥢᥲᥖᥣᥱ ᥟᥢᥴᥓᥝᥲᥐᥝᥱᥘᥫᥐᥲᥢᥢᥳ."
+	"wm-license-gfdl-1.2-and-later": "ᥙᥢ ᥑᥣᥒᥳ ᥖᥣᥱ ᥖᥥᥴ ᥗᥧᥖᥱ ᥟᥝ  ᥚᥥ ᥖᥪᥢᥰ ᥘᥦᥲ/ᥟᥛᥱ ᥘᥢᥴ ᥛᥨᥢᥳ ᥛᥥᥰ ᥘᥬᥰ ᥘᥤᥐ ᥝᥭᥳ ᥓᥩᥛᥰ ᥘᥒᥱ ᥑᥨᥝᥲ ᥛᥢᥲ ᥓᥬ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 ᥟᥛᥱ ᥘᥢᥴ ᥓᥫᥰ ᥙᥥᥢ ᥛᥣᥭᥴ ᥟᥩᥐᥱ ᥟᥢ ᥗᥧᥐᥱ ᥙᥪᥢ ᥟᥩᥐᥱ ᥝᥣᥭᥰ ᥘᥒᥴ ᥘᥒᥱ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ᥟᥢ ᥟᥛᥱ ᥛᥤᥰ ᥘᥩᥒ ᥘᥦᥐ ᥘᥣᥭ ᥐᥣ ᥖᥤ ᥖᥩᥢᥲ ᥐᥢ, ᥘᥤᥐ ᥓᥫᥰ ᥛᥤᥰ ᥖᥤ ᥘᥣᥲ ᥔᥪ ᥚᥣᥭᥱ ᥘᥣᥲ, ᥘᥣᥲ ᥔᥪ ᥚᥣᥭᥱ ᥘᥒᥴ. ᥟᥢ ᥙᥥᥢ ᥛᥬ ᥖᥣᥱ ᥗᥧᥖᥱ ᥟᥝ ᥘᥭᥳ ᥛᥢᥰ ᥖᥥᥴ ᥑᥝᥲ ᥙᥣᥰ ᥝᥭᥳ ᥐᥣ ᥖᥤ ᥖᥩᥢᥲ ᥐᥢ ᥟᥢ ᥛᥤᥰ ᥞᥨᥝᥴ ᥑᥨᥝᥲ ᥝᥣ ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' ᥘᥢᥳ.",
+	"wm-license-information-description": "ᥑᥨᥝᥲ ᥔᥙᥴ ᥘᥦᥒᥰ",
+	"wm-license-information-source": "ᥒᥫᥢ ᥒᥝᥲ ᥖᥪᥢᥰ",
+	"wm-license-information-date": "ᥝᥢᥰ ᥗᥤᥳ",
+	"wm-license-information-author": "ᥚᥧᥱ ᥖᥦᥛᥲ ᥘᥤᥐ",
+	"wm-license-information-permission": "ᥑᥨᥝᥲ ᥘᥨᥖᥴ ᥙᥩᥭᥱ",
+	"wm-license-information-permission-reusing-text": "ᥑᥪᥢᥰ ᥖᥪᥰ ᥜᥣᥭᥱ ᥟᥢ ᥘᥭᥳ",
+	"wm-license-own-work": "ᥐᥣᥢ ᥑᥩᥒᥴ ᥖᥨᥝᥴ",
+	"wm-license-self-multiple-licenses-select": "ᥓᥝᥲ ᥐᥝᥱ ᥗᥧᥐᥱ ᥘᥫᥐ ᥝᥭᥳ ᥖᥩᥢᥲ ᥖᥣᥱ ᥟᥢ ᥓᥝᥲ ᥐᥝᥱ ᥘᥫᥐ ᥘᥢᥳ."
 }
