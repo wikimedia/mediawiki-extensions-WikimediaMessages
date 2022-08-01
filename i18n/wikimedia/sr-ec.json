@@ -20,7 +20,8 @@
 			"Михајло Анђелковић",
 			"Сербијана",
 			"Kizule",
-			"Srđan"
+			"Srđan",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
@@ -200,13 +201,20 @@
 	"interlanguage-link-sitename-wikipedia": "Википедија, слободна енциклопедија",
 	"interlanguage-link-commons": "Викиостава",
 	"restriction-level-superprotect": "супер заштита",
+	"action-templateeditor": "уређујете заштићене шаблоне",
 	"right-templateeditor": "уређивање заштићених шаблона",
 	"restriction-level-templateeditor": "дозвољено само уређивачима шаблона",
+	"protect-level-templateeditor": "Дозвољено само уредницима шаблона и администраторима",
+	"action-extendedconfirmed": "уређујете ограничене странице",
 	"right-extendedconfirmed": "уређивање ограничених страница",
+	"action-editeditorprotected": "уређујете странице под заштитом „{{int:protect-level-editeditorprotected}}”",
 	"right-editeditorprotected": "уређивање страница под заштитом „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Допуштено само уредницима",
+	"restriction-level-editeditorprotected": "заштићено (уредници)",
+	"action-editextendedsemiprotected": "уређујете странице под заштитом „{{int:protect-level-editextendedsemiprotected}}”",
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Дозвољено само аутопатролерима",
+	"restriction-level-editextendedsemiprotected": "заштићено (аутоматски патролирани)",
 	"eri-rcfilters-tour-intro-welcome-title": "Представљамо побољшано филтрирање скорашњих измена",
 	"eri-rcfilters-tour-intro-welcome-description": "Прегледајте измене ефикасније користећи нове филтере, могућност да сачувате скупове филтера, кориснички дефинисано истицање и моћ машинског учења. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Прегледајте измене ефикасније користећи нове филтере, са могућношћу да сачувате сетове филтера, кориснички дефинисаним истицањем и другим побољшањима. $1",
@@ -222,6 +230,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Представљамо побољшано филтрирање списка надгледања",
 	"eri-wlfilters-tour-intro-preferences-description": "Приступите картици „Списак надгледања” у подешавањима било када да бисте онемогућили побољшану верзију списка надгледања.",
 	"wikimedia-centralauth-contribs-locked": "Овај налог је глобално закључан.\nЗа више информација погледајте [[m:Special:CentralAuth/$1]].",
+	"action-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",
 	"right-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Изјава о колачићима",
@@ -229,5 +238,11 @@
 	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
 	"querypage-updates-half-monthly": "Страница се ажурира двапут месечно.",
 	"protect-level-editautopatrolprotected": "Дозвољено само аутопатролерима",
-	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)"
+	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)",
+	"right-editautopatrolprotected": "уређивање страница под заштитом „{{int:protect-level-editautopatrolprotected}}“",
+	"action-editautopatrolprotected": "уређујете странице под заштитом „{{int:protect-level-editautopatrolprotected}}”",
+	"group-docseditor": "Уредници документације",
+	"group-docseditor-member": "{{GENDER:$1|уредник документације|уредница документације}}",
+	"action-docseditor": "уређујете документацију",
+	"right-docseditor": "уређивање документације"
 }
