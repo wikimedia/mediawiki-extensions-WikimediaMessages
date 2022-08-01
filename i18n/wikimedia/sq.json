@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AT44",
 			"Ammartivari",
 			"Besnik b",
 			"Bjakupi",
@@ -38,7 +39,7 @@
 	"group-abusefilter-member": "abuzoni redaktorët filtër",
 	"grouppage-abusefilter": "{{ns:project}}:Abuzoni redaktorët filtër",
 	"group-accountcreator": "Krijuesit e llogarive",
-	"group-accountcreator-member": "{{GENDER:$1|krijues llogarish|krijuese llogarish}}",
+	"group-accountcreator-member": "{{GENDER:$1|krijues llogarishë|krijuese llogarishë}}",
 	"grouppage-accountcreator": "{{ns:project}}:Krijuesit për llogarit të reja",
 	"group-arbcom": "Anëtarët e komisionit të arbitrazhit",
 	"group-arbcom-member": "anëtar i komisionit të arbitrazhit",

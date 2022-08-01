@@ -4,5 +4,16 @@
 			"Mohammedbama123"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "Genata"
+	"wm-license-cc-attribution": "Genata",
+	"wm-license-cc-by-sa-3.0-text": "This file is licensed under the [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license.",
+	"wm-license-cc-free": "Ran nimin",
+	"wm-license-cc-free-to-share-header": "Yakte wa",
+	"wm-license-cc-free-to-share-text": "Gota, yaktuwa kuru yado wa",
+	"wm-license-cc-free-to-remix-header": "Kalakte",
+	"wm-license-cc-free-to-remix-text": "Chida gota wa",
+	"wm-license-cc-conditions": "Cideya conditions hu be",
+	"wm-license-cc-conditions-attribution-header": "Genata",
+	"wm-license-cc-conditions-attribution-text": "You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.",
+	"wm-license-cc-conditions-share_alike-header": "Jiri fal",
+	"wm-license-cc-conditions-share_alike-text": "Awo yasawuiya banan do suro allan \n[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] as the original."
 }
