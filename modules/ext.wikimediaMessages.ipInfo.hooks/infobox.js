@@ -22,16 +22,17 @@
 		var xToolsUrl = mw.msg( 'ipinfo-xtools-url', mw.config.get( 'wgIPInfoTarget' ), mw.config.get( 'wgServerName' ) );
 
 		$info.find( '[data-property="edits"]' )
-			.append( $( '<a>' )
-				.attr( 'href', contributionsUrl )
-				.attr( 'class', 'ext-ipinfo-contribution-links' )
-				.text( mw.msg( 'ipinfo-global-contributions-url-label' ) ) );
+			.append( $( '<div>' )
+				.addClass( 'ext-ipinfo-contribution-links' )
+				.append( $( '<a>' )
+					.attr( 'href', contributionsUrl )
+					.text( mw.msg( 'ipinfo-global-contributions-url-label' ) ) ) );
 		$info.find( '[data-property="edits"]' )
-			.append( $( '<a>' )
-				.attr( 'href', xToolsUrl )
-				.attr( 'class', 'ext-ipinfo-contribution-links' )
-				.text( mw.msg( 'ipinfo-xtools-url-label' ) ) );
-
+			.append( $( '<div>' )
+				.addClass( 'ext-ipinfo-contribution-links' )
+				.append( $( '<a>' )
+					.attr( 'href', xToolsUrl )
+					.text( mw.msg( 'ipinfo-xtools-url-label' ) ) ) );
 	} );
 
 }() );
