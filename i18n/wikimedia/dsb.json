@@ -7,7 +7,8 @@
 			"Michawiki",
 			"Nemo bis",
 			"Pe7er",
-			"Qualia"
+			"Qualia",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Zdźělenja specifiske za Wikimediju",
@@ -122,5 +123,6 @@
 	"wikimedia-developers": "Wuwijarje",
 	"wikimediashoplink-linktext": "Wikimedia Shop",
 	"wikimediashoplink-link-tooltip": "K Wikimedia Shop woglědaś",
-	"restriction-level-superprotect": "superšćit"
+	"restriction-level-superprotect": "superšćit",
+	"wikimedia-statslink": "Statistika"
 }
