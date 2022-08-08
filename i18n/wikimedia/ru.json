@@ -55,7 +55,8 @@
 			"Александр Сигачёв",
 			"Iluvatar",
 			"Megakott",
-			"WindEwriX"
+			"WindEwriX",
+			"Pacha Tchernof"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -96,6 +97,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Редакторы фильтра злоупотреблений",
 	"group-abusefilter-helper": "Обслуживающие фильтры злоупотреблений",
 	"group-abusefilter-helper-member": "{{GENDER:$1|обслуживающий|обслуживающая}} фильтры злоупотреблений",
+	"group-abusefilter-maintainer": "Обслуживающие фильтры злоупотреблений",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|обслуживающий|обслуживающая}} фильтры злоупотреблений",
 	"group-accountcreator": "Создатели учётных записей",
 	"group-accountcreator-member": "{{GENDER:$1|создатель учётных записей|создательница учётных записей}}",
 	"grouppage-accountcreator": "{{ns:project}}:Создатели учётных записей",
@@ -226,6 +229,8 @@
 	"group-oauthadmin": "Администраторы OAuth",
 	"group-oauthadmin-member": "{{GENDER:$1|Администратор OAuth}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Администраторы OAuth",
+	"group-ombuds": "Омбудсмены",
+	"group-ombuds-member": "{{GENDER:$1|омбудсмен}}",
 	"group-recursive-export": "Рекурсивный экспорт",
 	"group-recursive-export-member": "рекурсивно экспортирующ{{GENDER:$1|ий|ая}}",
 	"group-staff": "Сотрудники",
@@ -358,5 +363,8 @@
 	"group-oathauth-tester": "Тестирующие двухфакторную авторизацию",
 	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
-	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц."
+	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц.",
+	"protect-level-editautopatrolprotected": "Защитить от неавтопатрулируемых участников",
+	"right-editautopatrolprotected": "Правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",
+	"action-editautopatrolprotected": "правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»"
 }
