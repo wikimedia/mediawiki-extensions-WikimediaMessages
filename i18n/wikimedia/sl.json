@@ -171,5 +171,7 @@
 	"protect-level-templateeditor": "dovoli samo urejevalcem predlog in administratorjem",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "O piškotkih",
-	"querypage-updates-half-monthly": "Ta stran se posodablja dvakrat na mesec."
+	"querypage-updates-half-monthly": "Ta stran se posodablja dvakrat na mesec.",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Da",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Ne"
 }
