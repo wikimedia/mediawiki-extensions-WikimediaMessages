@@ -1,19 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Karapananguasú Kururú Teremembé"
+			"Karapananguasú Kururú Teremembé",
+			"Duke of Wikipädia"
 		]
 	},
 	"sitesupport": "E-meẽ piá çui",
-	"wikimedia-copyright": "Kuá pinimaçá uikú imutara mutarawa rekô'etá upé <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR\">Creative Commons - mureçewara - Umuĩ yawé 3.0 Ti adaptawa (CC BY-SA 3.0)</a>;\ntekô mburipíriwara taupurú mburiana.\nKuauçawa píri, e-maã <a href=\"https://foundation.wikimedia.org/wiki/puruçawa_rekô'etá\">puruçawa rekô</a>.",
+	"wikimedia-copyright": "Kuá pinimaçá uikú imutara mutarawa rekô'etá upé <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt_BR\">Creative Commons - mureçewara - Umuĩ yawé 3.0 Ti adaptawa (CC BY-SA 3.0)</a>;\ntekô mburipíriwara taupurú mburiana.\nKuauçawa píri, e-maã <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/pt-br\">puruçawa rekô</a>.",
 	"wikimedia-copyrightwarning": "Ĩdé rewardari sinimuka'etá ramẽ, ĩdé reyaré [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use puruçawa rekô'etá] açui umukatiuru uyuyuriĩma ne pitimũgawa [https://creativecommons.org/licenses/by-sa/3.0/ mutarawa rupí CC-BY-SA 3.0] açui [https://www.gnu.org/copyleft/fdl.html mutarawa GFDL].\nReyaré iwiri yepé hiperyumũdiçawa ã URL i rapé awiana mureçewa çui mutarawa rekô'etá upé Creative Commons çui.",
 	"wikibase-sitelinks-wikinews": "Wikimarãduçawa",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikiwoyage",
-	"wikimedia-developers": "Developçara'etá",
+	"wikimedia-developers": "Developsara-itá",
 	"wikimedia-globalblocking-ipblocked": "'''Ne IP ikurẽdawa uso'ana [[m:Special:MyLanguage/Global blocks|sikĩdawa panhẽ wiki upé]].'''\n\nSikĩdawa munhãgara: $1 ($2).\nĨdé reikú sikĩdawa nhaãçé: ''$3''.\n\n* Sikĩdawa yupirũgawa: $4\n* Sikĩdawa upawa: $5\n\nNe IP ikurẽdawa kuiriwara i $6.\nKatuçawa rupí, e-meẽ panhẽ pukatua'etá ĩdé resó renheẽ yãdé irũ ramẽ.\n\nĨdé remaité ramẽ yawá yepé ganariçawa, repurú rewaçẽmu mbeuçawa açui kuauçawa píri opaĩwara rekô [[m:Special:MyLanguage/No open proxies|''proxies'' sikĩdawa]].\nTiramẽ, unheẽ kuá sikĩdawa reçé, katuçawa rupí [[m:Steward requests/Global|e-munhã yepé amũmaãgawa yururewa]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yepé ã píri miaçuwa proxy taupuru'ana ne yururewa rupí tauso'ana [[m:Special:MyLanguage/Global blocks|sikĩdawa panhẽ wiki upé]].'''\n\nAwata umunhã'ana sikĩdawa: $1 ($2).\nYawá uso'ana sikĩdawa nhaãçé: ''$3''.\n\n* Sikĩdawa yupirũgawa: $4\n* Sikĩdawa upawa: $5\n\nProxy ikurẽdawa sikĩdawa i $6.\nKatuçawa rupí, e-meẽ panhẽ pukatua'etá ĩdé resó ramẽ repurãdu yepé maã yãdé çupé.\n\nĨdé remaité ramẽ yawá yepé ganariçawa, repurú rewaçẽmu kuauçawa'etá mburipíriwara açui mbeuçawa'etá opaĩwara rekô upé [[m:Special:MyLanguage/No open proxies|proxies sikĩdawa]].\nTiramẽ, unheẽ kuá sikĩdawa reçé, [[m:Steward requests/Global|e-munhã amũmaãgawa yururewa Meta-Wiki upé]].",
-	"wikimedia-statslink": "Papaçawa'etá",
+	"wikimedia-statslink": "Papasawa-itá",
 	"wikimedia-cookiestatement": "Cookie rekô"
 }
