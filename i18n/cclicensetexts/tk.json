@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hanberke"
+			"Hanberke",
+			"TayfunEt."
 		]
 	},
 	"wm-license-cc-wiki-link": "w:tk:Creative Commons",
@@ -33,6 +34,7 @@
 	"wm-license-cc-by-2.1-es-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.1/es/ Attribution 2.1 Ispaniýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-2.1-jp-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.1/jp/ Attribution 2.1 Ýaponiýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-2.5-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/ Attribution 2.5 Generic] lisenziýasyna laýyklykda lisenzirlenendir.",
+	"wm-license-cc-by-2.5-ar-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/ar/deed.en Attribution 2.5 Argentina] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-2.5-au-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/au/ Attribution 2.5 Awstraliýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-2.5-bg-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/by/ Attribution 2.5 Bolgariýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-2.5-br-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/2.5/br/ Attribution 2.5 Braziliýa] lisenziýasyna laýyklykda lisenzirlenendir.",
@@ -63,6 +65,7 @@
 	"wm-license-cc-by-3.0-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/ Attribution 3.0 Unported] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-3.0-2.5-2.0-1.0-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [https://creativecommons.org/licenses/by/3.0/ 3.0 Unported], [https://creativecommons.org/licenses/by/2.5/ 2.5 Generic], [https://creativecommons.org/licenses/by/2.0/ 2.0 Generic] and [https://creativecommons.org/licenses/by/1.0/ 1.0 Generic] lisenziýalaryna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-3.0-at-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/at/ Attribution 3.0 Awstriýa] lisenziýasyna laýyklykda lisenzirlenendir.",
+	"wm-license-cc-by-3.0-au-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/au/deed.en Attribution 3.0 Awstraliýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-3.0-cz-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/cz/ Attribution 3.0 Çehiýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-3.0-de-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/de/ Attribution 3.0 Germaniýa] lisenziýasyna laýyklykda lisenzirlenendir.",
 	"wm-license-cc-by-3.0-es-text": "Bu faýl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/es/ Attribution 3.0 Ispaniýa] lisenziýasyna laýyklykda lisenzirlenendir.",
@@ -175,5 +178,6 @@
 	"wm-license-cc-conditions-attribution-header": "salgylanma",
 	"wm-license-cc-conditions-attribution-text": "Esere awtor ýa-da lisenziýa eýesi tarapyndan görkezilen (ýöne sizi ýa-da eseri ulanmaklygyňyzy goldaýandyklaryny öňe sürmeýän) görnüşde salgylanmalydyr.",
 	"wm-license-cc-conditions-share_alike-header": "meňzeş paýlaşma",
-	"wm-license-cc-conditions-share_alike-text": "Bu eseri üýtgeden, öwüren ýa-da bu esere esaslanýan başga bir eser döreden ýagdaýyňyzda, emele gelen eser üçin diňe  şu ýa-da şuňa meňzeş lisenziýany ulanmak arkaly paýlap bilersiňiz."
+	"wm-license-cc-conditions-share_alike-text": "Bu eseri üýtgeden, öwüren ýa-da bu esere esaslanýan başga bir eser döreden ýagdaýyňyzda, emele gelen eser üçin diňe  şu ýa-da şuňa meňzeş lisenziýany ulanmak arkaly paýlap bilersiňiz.",
+	"wm-license-cc-pd-mark-text": "Bu faýl, ähli baglanyşykly we goňşy hukuklary goşmak bilen awtorlyk hukugy kanunlary boýunça belli çäklendirmelerden boşadyldy."
 }

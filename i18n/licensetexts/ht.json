@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tisave"
+			"Tisave",
+			"Amire80"
 		]
 	},
 	"wm-license-information-description": "Deskripsyon",
+	"wm-license-information-source": "Sous",
 	"wm-license-information-date": "Dat",
 	"wm-license-information-author": "Kreyatè",
+	"wm-license-information-permission": "Pèmisyon :",
+	"wm-license-own-work": "Travay pwòp",
 	"wm-license-self-multiple-licenses-select": "Chwazi lisans ou vle a."
 }
