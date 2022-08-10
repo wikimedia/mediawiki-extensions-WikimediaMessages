@@ -50,5 +50,6 @@
 	"wikimedia-oathauth-notifications-disable-helplink": "{{notranslate}}",
 	"wikimedia-ipinfo-source-geoip2": "IPinfobox legal disclaimer",
 	"wikimedia-ipinfo-infobox-use-terms": "IPInfobox use legal terms",
-	"wikimedia-ipinfo-preference-use-agreement": "IPInfo use agreement"
+	"wikimedia-ipinfo-preference-use-agreement": "IPInfo use agreement",
+	"wikimedia-similareditors-error-default": "Error message displayed when no error key is specified"
 }
