@@ -132,7 +132,7 @@
 	"group-curator-member": "{{GENDER:$1|क्यूरेटर}}",
 	"grouppage-curator": "{{ns:project}}:क्यूरेटर",
 	"group-global-bot": "ग्लोबल बॉट्स",
-	"group-global-bot-member": "{{GENDER:$1|ग्लोबल बॉट}}",
+	"group-global-bot-member": "{{GENDER:$1|वैश्विक बॉट}}",
 	"group-global-deleter": "ग्लोबल हटाने वाले",
 	"group-global-deleter-member": "ग्लोबल हटाने {{GENDER:$1|वाला|वाली}}",
 	"group-global-flow-create": "ग्लोबल Flow सृष्टिकार",
