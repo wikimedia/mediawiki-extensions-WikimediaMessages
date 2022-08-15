@@ -283,8 +283,6 @@
 	"upload-form-label-not-own-work-message-commons": "If you do not own the copyright on this file, or you wish to release it under a different license, consider using the [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
 	"upload-form-label-not-own-work-local-commons": "You may also want to try using [[Special:Upload|the upload page on {{SITENAME}}]], if the site allows the upload of this file under their policies.",
 	"wikimedia-upload-nolicenses": "Uploading files to this wiki is not enabled. Please [[commons:Special:UploadWizard|upload to Wikimedia Commons]].\n\nTo be able to use this special page to upload to this wiki, an administrator needs to add one or more license options to the page [[MediaWiki:Licenses]].\n\nUse the following format: <code>* Template name|Label</code>. Use any text to enable uploading without license options.",
-	"wikimediashoplink-linktext": "Wikipedia store",
-	"wikimediashoplink-link-tooltip": "Visit the Wikipedia store",
 	"interlanguage-link-mul": "More languages",
 	"interlanguage-link-sitename-mul": "Multilingual {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",
