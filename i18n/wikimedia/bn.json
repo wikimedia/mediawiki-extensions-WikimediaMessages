@@ -20,6 +20,7 @@
 			"Wikitanvir",
 			"Yahya",
 			"Zaheen",
+			"আজিজ",
 			"আফতাবুজ্জামান",
 			"মোঃ মারুফ হাসান24"
 		]
@@ -236,6 +237,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "বহুভাষিক উইকিসংকলন",
 	"wikibase-sitelinks-sitename-species": "উইকিপ্রজাতি",
 	"wikibase-sitelinks-sitename-wikidatawiki": "উইকিউপাত্ত",
+	"apihelp-wbsearchentities-paramvalue-profile-language": "প্রাকৃতিক ভাষা সম্পর্কিত আইটেম সন্ধান করার জন্য একটি প্রোফাইল।",
+	"apihelp-query+wbsearch-paramvalue-profile-language": "প্রাকৃতিক ভাষা সম্পর্কে আইটেম সন্ধান করার জন্য একটি প্রোফাইল।",
 	"cant-delete-main-page": "আপনি প্রধান পাতা অপসারণ বা স্থানান্তর করতে পারবেন না।",
 	"upload-more-photos-of-this-monument": "এই স্মৃতিস্তম্ভের আরও চিত্র আপলোড করুন",
 	"createacct-captcha-help-url": "{{ns:Project}}:অ্যাকাউন্টের জন্য অনুরোধ",
