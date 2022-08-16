@@ -76,7 +76,7 @@
 	"group-interface-editor": "Aozerien an etrefas",
 	"group-interface-editor-member": "{{GENDER:$1|aozer|aozerez}} an etrefas",
 	"grouppage-interface-editor": "{{ns:project}}:Aozerien an etrefas",
-	"group-ipblock-exempt": "Nemedennoù bloc'hadoù IP",
+	"group-ipblock-exempt": "Na sell ket ar stankadennoù IP outo",
 	"group-ipblock-exempt-member": "{{GENDER:$1|na sell ket ar stankañ IPoù outañ}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Nemedenn bloc'had IP",
 	"group-patroller": "Patrouilherien",
