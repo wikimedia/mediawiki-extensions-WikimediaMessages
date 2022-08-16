@@ -17,7 +17,10 @@
 			"Patriccck",
 			"Patrik L.",
 			"Ragimiri",
-			"YjM"
+			"YjM",
+			"Adam N.",
+			"Stang",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "Hlášení specifická pro projekty nadace Wikimedia",
@@ -104,7 +107,7 @@
 	"grouppage-flood": "{{ns:project}}:Pseudoboti",
 	"group-founder": "Zakladatelé",
 	"group-founder-member": "{{GENDER:$1|zakladatel|zakladatelka|zakladatel}}",
-	"grouppage-founder": "m:Founder/cs",
+	"grouppage-founder": "{{ns:project}}:Founders",
 	"group-import": "Importéři",
 	"group-import-member": "{{GENDER:$1|importér|importérka|importér}}",
 	"grouppage-import": "{{ns:project}}:Importéři",
@@ -269,9 +272,11 @@
 	"restriction-level-templateeditor": "zamčeno pro editory šablon",
 	"protect-level-templateeditor": "Povolit jen správcům a editorům šablon",
 	"right-extendedconfirmed": "Rozšíření potvrzení uživatelé",
+	"action-editeditorprotected": "editovat stránky zamčené jako „{{int:protect-level-editeditorprotected}}“",
 	"right-editeditorprotected": "Editace stránek zamčených na „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Povolit jen editorům",
 	"restriction-level-editeditorprotected": "pouze editoři",
+	"action-editextendedsemiprotected": "editovat stránky zamčené jako „{{int:protect-level-editextendedsemiprotected}}“",
 	"right-editextendedsemiprotected": "Editace stránek zamčených na „{{int:protect-level-editextendedsemiprotected}}“",
 	"protect-level-editextendedsemiprotected": "Povolit jen automatickým strážcům",
 	"eri-rcfilters-tour-intro-welcome-title": "Vítejte ve vylepšených filtrech posledních změn",
@@ -302,5 +307,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} dvoufaktorové autentizace",
 	"querypage-updates-half-monthly": "Aktualizace této stránky probíhají dvakrát za měsíc.",
 	"querypage-updates-monthly": "Aktualizace této stránky probíhají jednou za měsíc.",
-	"protect-level-editautopatrolprotected": "Povolit jen uživatelům s automaticky prověřenými editacemi"
+	"protect-level-editautopatrolprotected": "Povolit jen uživatelům s automaticky prověřenými editacemi",
+	"right-editautopatrolprotected": "Editace stránek zamčených jako „{{int:protect-level-editautopatrolprotected}}“",
+	"action-editautopatrolprotected": "editovat stránky zamčené jako „{{int:protect-level-editautopatrolprotected}}“"
 }
