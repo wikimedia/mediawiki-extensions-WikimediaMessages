@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Amankel'dy",
-			"Hedeyohu22"
+			"Hedeyohu22",
+			"СеніңШешең"
 		]
 	},
-	"wm-license-cc-attribution": "Атрибуция (авторын және/немесе құқық иеленуші көрсету)",
+	"wm-license-cc-attribution": "Атрибуция",
 	"wm-license-cc-by-1.0-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] лицензиясы бойынша қолжетімді.",
 	"wm-license-cc-by-1.0-fi-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland] лицензиясы бойынша қолжетімді.",
 	"wm-license-cc-by-1.0-il-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel] лицензиясы бойынша қолжетімді.",
@@ -203,15 +204,15 @@
 	"wm-license-cc-sa-2.0-jp-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.en Share Alike 2.0 Japan] лицензиясы бойынша қолжетімді.",
 	"wm-license-cc-zero-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication] шарттарының аясында қолжетімді.",
 	"wm-license-cc-zero-explanation": "Бұл туындының істелуіне қатысты тұлғалар осы туындыны әлем бойынша барлық заң шеңберінде авторлық құқықтардан (сондай-ақ байланысқан және сабақтас құқықтардан) бас тартып, [[{{int:wm-license-pd-wiki-link}}|қоғамдық қазына]] өткізуді шешкен. Сіз бұл туындының көшірмесін алуға, оны таратуға, кез-келген мақсатта қолдануыңызға болады. Сондай-ақ автордың рұқсатынсыз коммерциялық мақсатта да қолдана аласыз.",
-	"wm-license-cc-free": "Сіз еркін түрде:",
-	"wm-license-cc-free-to-share-header": "туындымен бөлісуіңізге",
-	"wm-license-cc-free-to-share-text": "осы туындыны таратып, басқаларға беруңізге және көшірмесін жасауыңызға",
-	"wm-license-cc-free-to-remix-header": "басқа туындыларын бастауыңызға",
-	"wm-license-cc-free-to-remix-text": "осы туындыны өзгертуіңізге болады",
-	"wm-license-cc-conditions": "Тек келесі ережелерді сақтауыңыз тиіс:",
+	"wm-license-cc-free": "Сіз келесі әрекеттерге еркінсіз:",
+	"wm-license-cc-free-to-share-header": "бөлісу",
+	"wm-license-cc-free-to-share-text": "туындыны көшіру, тарату және тапсыру",
+	"wm-license-cc-free-to-remix-header": "мазмұнын өзгерту",
+	"wm-license-cc-free-to-remix-text": "туындыны бейімдеу",
+	"wm-license-cc-conditions": "Келесі ережелерді сақтағанда:",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
-	"wm-license-cc-conditions-attribution-text": "Сәйкес несие беруіңіз, лицензияға сілтеме беруіңіз және өзгертулер енгізілгенін көрсетуіңіз керек. Сіз мұны кез келген ақылға қонымды жолмен жасай аласыз, бірақ лицензиар сізді немесе пайдалануыңызды мақұлдайтындай емес.",
-	"wm-license-cc-conditions-share_alike-header": "тура сол шарттар бойынша таратылу",
+	"wm-license-cc-conditions-attribution-text": "Авторлықты белгілеп, лицензияға сілтеме беріп, өзгеріс жасалғанын анықтауыңыз керек. Сіз мұны кез келген орынды жолмен істей аласыз, бірақ лицензиар сізді немесе қолдануыңызды мақұлдайтындай емес.",
+	"wm-license-cc-conditions-share_alike-header": "бірдей шарттарда тарату",
 	"wm-license-cc-conditions-share_alike-text": "Материалды араластырсаңыз, түрлендірсеңіз немесе құрастырсаңыз, үлестеріңізді түпнұсқамен бірдей [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses бірдей немесе үйлесімді лицензия] бойынша таратуыңыз керек.",
 	"wm-license-cc-pd-mark-text": "Бұл файл белгілі авторлық құқықтардан, сондай-ақ байланысқан және сабақтас құқықтардан еркін болып анықталған"
 }

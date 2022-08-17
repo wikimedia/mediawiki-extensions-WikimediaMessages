@@ -4,6 +4,7 @@
 			"Avjoska",
 			"Cumbril",
 			"KalmerE.",
+			"Kareyac",
 			"Ker",
 			"Nemo bis",
 			"Oop",
@@ -248,5 +249,6 @@
 	"action-edittrustedprotected": "muuta lehekülgi kaitsetasemega \"{{int:protect-level-edittrustedprotected}}\"",
 	"right-edit-legal": "Muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
 	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
-	"ipinfo-feedback-button-label": "Jäta tagasisidet"
+	"ipinfo-feedback-button-label": "Jäta tagasisidet",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Jah"
 }
