@@ -123,7 +123,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|tagapangasiwa ng salinwika}}",
 	"grouppage-translationadmin": "{{ns:project}}:Mga tagapangasiwa ng salinwika",
 	"shared-repo-name-shared": "Wikimedia Commons",
-	"wikimedia-copyright": "Magagamit ang teksto sa ilalim ng <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lisensiyang Creative Commons Attribution-ShareAlike</a>; maaaring malapat ang karagdagang termino.\nTingnan ang <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> para sa detalye.",
+	"wikimedia-copyright": "Magagamit ang teksto sa ilalim ng <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Lisensiyang Creative Commons Attribution-Sharealike</a>;\nposibleng may mga karagdagang tuntunin pang mailalapat.\nTingnan ang <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Kasunduan sa Paggamit</a> para sa mga detalye.",
 	"wikimedia-copyrightwarning": "Sa paglathala sa mga pagbabago, sumasang-ayon ka sa [https://foundation.wikimedia.org/wiki/Terms_of_Use Mga Kasunduan sa Paggamit], at sumasang-ayon ka rin na walang bawiang ilabas ang mga pagbabago mo sa ilalim ng [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisensiyang CC BY-SA 3.0] at sa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nSumasang-ayon ka rin na sapat na ang isang hyperlink o URL para sa atribusyon sa ilalim ng lisensyang Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Kamusta, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
