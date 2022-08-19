@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Andria",
+			"L2212",
 			"Taxandru"
 		]
 	},
@@ -168,6 +169,12 @@
 	"wm-license-cc-sa-2.0-jp-text": "Custu documentu est litzentziadu in base a is tèrmines de sa litzèntzia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.en Cumpartzi a sa pròpria manera 2.0 Giapone].",
 	"wm-license-cc-free": "Tue ses lìberu:",
 	"wm-license-cc-free-to-share-header": "de cundivìder",
+	"wm-license-cc-free-to-share-text": "de copiare, ispainare e trasmìtere s'òpera",
+	"wm-license-cc-free-to-remix-header": "de mudare",
+	"wm-license-cc-free-to-remix-text": "de adatare s'òpera",
+	"wm-license-cc-conditions": "Suta de sas cunditziones chi sighint:",
 	"wm-license-cc-conditions-attribution-header": "atributzione",
-	"wm-license-cc-conditions-share_alike-header": "cumpartzi a sa pròpria manera"
+	"wm-license-cc-conditions-attribution-text": "Depes indicare s'autore comente si tocat, frunire unu ligàmene a sa litzèntzia e indicare si sunt istadas fatas modìficas. Lu podes fàghere in cale si siat manera chi tèngiat sensu, ma no in cale si siat manera chi diat s'idea chi su titulare de sa litzèntzia suportet a tie o a s'impreu tuo.",
+	"wm-license-cc-conditions-share_alike-header": "cumpartzi a sa pròpria manera",
+	"wm-license-cc-conditions-share_alike-text": "Si modìficas, trasformas, o isvilupas su materiale as a dèpere distribuire sos contributos tuos suta de [https://creativecommons.org/share-your-work/licensing-considerations/cumpatìbile-licenses sa matessi litzèntzia de s'originale o una cumpatìbile]."
 }
