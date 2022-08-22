@@ -6,11 +6,12 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(തിരഞ്ഞെടുക്കാൻ സഹായിക്കുക)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|താങ്കൾ സംഭാവന ചെയ്തിട്ടുള്ള മറ്റ് വിക്കിമീഡിയ പദ്ധതികളിലെ]] ക്രമീകരണങ്ങൾ താൾ സന്ദർശിച്ച് അവിടെ നിന്നും ആ പദ്ധതികളിലെ അംഗത്വവിവരങ്ങൾ താങ്കൾക്ക് എടുക്കാവുന്നതാണ്.",
 	"wikimedia-createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]",
 	"wikimedia-centralauth-groupname": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ",
 	"createacct-helpusername-url": "{{ns:Project}}:ഉപയോക്തൃനാമനയം",
 	"wikimedia-sitematrix": "വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക",
-	"wikimedia-sitematrix-others": "വിക്കിമീഡിയയുടെ മറ്റു സം‌രംഭങ്ങൾ",
-	"wikimedia-sitematrix-summary": "ഈ താൾ വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക പ്രദർശിപ്പിക്കുന്നു.",
+	"wikimedia-sitematrix-others": "മറ്റ് വിക്കിമീഡിയ പദ്ധതികൾ",
+	"wikimedia-sitematrix-summary": "ഈ പ്രത്യേക താൾ വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക പ്രദർശിപ്പിക്കുന്നു.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy സ്വകാര്യതാനയം]"
 }
