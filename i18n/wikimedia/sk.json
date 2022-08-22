@@ -37,6 +37,9 @@
 	"group-Image-reviewer": "Kontrolóri obrázkov",
 	"group-Image-reviewer-member": "kontrolór obrázkov",
 	"grouppage-Image-reviewer": "{{ns:project}}:Kontrolóri obrázkov",
+	"group-extended-uploader": "Rozšírené nahrávače",
+	"group-extended-uploader-member": "{{GENDER:$1|rozšírený nahrávač}}",
+	"grouppage-extended-uploader": "{{ns:project}}:Rozšírené nahrávače",
 	"group-otrs-member": "Členovia OTRS",
 	"group-otrs-member-member": "{{GENDER:$1|člen OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Členovia OTRS",
@@ -138,7 +141,9 @@
 	"interlanguage-link-wikipedia": "Wikipédia",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia",
 	"protect-level-superprotect": "Povoliť iba používateľov superprotect",
+	"action-editeditorprotected": "upravovať stránky zamknuté ako „{{int:protect-level-editeditorprotected}}“",
 	"right-editeditorprotected": "Upravovať stránky zamknuté ako „{{int:protect-level-editeditorprotected}}“",
+	"action-editextendedsemiprotected": "upravovať stránky zamknuté ako „{{int:protect-level-editextendedsemiprotected}}“",
 	"right-editextendedsemiprotected": "Upravovať stránky zamknuté ako „{{int:protect-level-editextendedsemiprotected}}“",
 	"eri-rcfilters-tour-intro-welcome-title": "Vitajte vo vylepšených filtroch posledných úprav",
 	"eri-rcfilters-tour-intro-welcome-description": "Kontrolujte úpravy efektívnejšie pomocou nových filtrov, možnosti ukladať sady filtrov, používateľom definovaného zvýrazňovania a sily strojového učenia. $1",
@@ -155,5 +160,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Vitajte vo vylepšenom filtrovaní sledovaných stránok",
 	"eri-wlfilters-tour-intro-preferences-description": "Vylepšenú verziu sledovaných stránok vypnete kedykoľvek vo svojich nastaveniach na záložke Sledované stránky.",
 	"wikimedia-statslink": "Štatistiky",
-	"wikimedia-cookiestatement": "Vyhlásenie o cookies"
+	"wikimedia-cookiestatement": "Vyhlásenie o cookies",
+	"right-editautopatrolprotected": "Upravovať stránky zamknuté ako „{{int:protect-level-editautopatrolprotected}}“",
+	"action-editautopatrolprotected": "upravovať stránky zamknuté ako „{{int:protect-level-editautopatrolprotected}}“"
 }

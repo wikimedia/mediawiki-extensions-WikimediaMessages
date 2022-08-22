@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Amankel'dy",
-			"Arystanbek"
+			"Arystanbek",
+			"СеніңШешең"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Бұл файлдың авторлық құқықтарының иесі - $1 файлды авторлық құқық иесі туралы ақпаратты '''сақтаған жағдайда, кез-келген мақсаттарда''' кез-келген адамның қолдануына рұқсат береді. Бұл файлдың негізінде басқа туындыларды шығаруға, коммерциялық мақсатта қолдануға да рұқсат беріледі.",
@@ -49,14 +50,14 @@
 	"wm-license-gfdl-1.2-only-header": "тек 1.2&nbsp;",
 	"wm-license-information-description": "Сипаттамасы",
 	"wm-license-information-description-missing": "Бұл файлдың '''сипаттамасы''' жоқ және басқа мәліметтері жеткіліксіз болуы мүмкін.",
-	"wm-license-information-source": "Қайнары",
+	"wm-license-information-source": "Көзі",
 	"wm-license-information-source-missing": "Бұл файлдың '''қайнары''' жеткіліксіз",
 	"wm-license-information-source-missing-request": "Бұл файлдың сипаттамасын және қайнарын қамтамасыз ету үшін өңдеңіз.",
-	"wm-license-information-date": "Күн-айы",
+	"wm-license-information-date": "Күні",
 	"wm-license-information-author": "Авторы",
 	"wm-license-information-author-missing": "Бұл файлдың '''авторы''' жеткіліксіз.",
-	"wm-license-information-permission": "Рұқсаты:",
-	"wm-license-information-permission-reusing-text": "Бұл файлдың қайталай пайдаланылуы",
+	"wm-license-information-permission": "Рұқсат",
+	"wm-license-information-permission-reusing-text": "Бұл файлды қайта қолдану",
 	"wm-license-information-permission-see-below": "Төменде қараңыз.",
 	"wm-license-information-other-versions": "Басқа нұсқалары",
 	"wm-license-licensing-update-text": "Лицензияландырудың бұл қасиеті осы файлға GFDL [[{{int:wm-license-licensing-update-wiki-link}}|лицензиясының жаңартылуының]] бір бөлігі ретінде енгізілген.",
