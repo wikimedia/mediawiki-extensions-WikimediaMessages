@@ -278,7 +278,7 @@
 	"restriction-level-editeditorprotected": "pouze editoři",
 	"action-editextendedsemiprotected": "editovat stránky zamčené jako „{{int:protect-level-editextendedsemiprotected}}“",
 	"right-editextendedsemiprotected": "Editace stránek zamčených na „{{int:protect-level-editextendedsemiprotected}}“",
-	"protect-level-editextendedsemiprotected": "Povolit jen automatickým strážcům",
+	"protect-level-editextendedsemiprotected": "Povolit jen uživatelům s automaticky prověřenými editacemi",
 	"eri-rcfilters-tour-intro-welcome-title": "Vítejte ve vylepšených filtrech posledních změn",
 	"eri-rcfilters-tour-intro-welcome-description": "Kontrolujte editace efektivněji pomocí nových filtrů, možnosti uložení sady filtrů, uživatelem definovaného zvýrazňování a síly strojového učení. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Kontrolujte editace efektivněji pomocí nových filtrů, možnosti uložení sady filtrů, uživatelem definovaného zvýrazňování a dalších vylepšení. $1",

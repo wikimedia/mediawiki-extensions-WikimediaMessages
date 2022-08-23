@@ -1,9 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Ерней"
+		]
 	},
 	"wikimedia-centralauth-groupname": "Викимедиа Фонды",
-	"wikimedia-sitematrix": "Викимедиа проектлары исемлеге",
+	"wikimedia-sitematrix": "Викимедиа вики-проектлары исемлеге",
 	"wikimedia-sitematrix-others": "Башка Викимедиа проектлары",
 	"wikimedia-sitematrix-summary": "Бу махсус бит барлык Викимедиа проектларын күрсәтә."
 }
