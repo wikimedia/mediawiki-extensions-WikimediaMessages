@@ -17,7 +17,8 @@
 			"Rachmat04",
 			"Raynasution",
 			"Rex",
-			"William Surya Permana"
+			"William Surya Permana",
+			"Veracious"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan spesifik Wikimedia",
@@ -215,11 +216,11 @@
 	"wikibase-page-schema-author-name": "Kontributor dari proyek Wikimedia.",
 	"wikibase-statementsection-constraints": "Pewatas",
 	"wikibase-sitelinks-wikibooks": "Wikibuku",
-	"wikibase-sitelinks-wikinews": "Wikinews",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikinews": "Wikiberita",
+	"wikibase-sitelinks-wikiquote": "Wikikutip",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
 	"wikibase-sitelinks-wikiversity": "Wikiversitas",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-wikivoyage": "Wikiwisata",
 	"wikibase-sitelinks-wiktionary": "Wikikamus",
 	"wikibase-otherprojects-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
