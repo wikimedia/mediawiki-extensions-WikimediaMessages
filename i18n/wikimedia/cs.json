@@ -254,8 +254,6 @@
 	"upload-form-label-not-own-work-message-commons": "Pokud nejste držiteli autorských práv k tomuto souboru nebo si ho přejete zveřejnit pod jinou licencí, zvažte použití [https://commons.wikimedia.org/wiki/Special:UploadWizard Průvodce načítáním souborů na Commons].",
 	"upload-form-label-not-own-work-local-commons": "Také můžete zkusit [[Special:Upload|stránku pro načítání souborů na {{grammar:6sg|{{SITENAME}}}}]], pokud tamní pravidla načtení tohoto souboru dovolují.",
 	"wikimedia-upload-nolicenses": "Načítání souborů na tuto wiki je vypnuto. [[commons:Special:UploadWizard|Načtěte na Wikimedia Commons]].\n\nAby bylo možno tuto stránku používat k načítání souborů na tuto wiki, musí správce přidat jednu nebo více možných licencí na stránku [[MediaWiki:Licenses]].\n\nPoužijte následující formát: <code>* Název šablony|Titulek</code>. Pro umožnění načítání bez výběru licence zadejte libovolný text.",
-	"wikimediashoplink-linktext": "Obchod Wikipedie",
-	"wikimediashoplink-link-tooltip": "Navštívit obchod Wikipedie",
 	"interlanguage-link-mul": "Další jazyky",
 	"interlanguage-link-sitename-mul": "Mnohojazyčná verze {{grammar:2sg|{{SITENAME}}}}",
 	"interlanguage-link-wikipedia": "Wikipedie",

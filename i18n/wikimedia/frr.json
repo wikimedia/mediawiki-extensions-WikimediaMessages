@@ -171,8 +171,6 @@
 	"wikimedia-torblock-blocked": "Din IP-addres, <strong>$1</strong>, as käänd wurden üs en ''Tor-exit-node''.\nDet bewerkin mä ''Tor'' as ei tuläät, am masbrük tu ferhanrin.\nDü fanjst muar informatsioon an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".",
 	"grant-checkuser": "Üüb Checkuser-dooten tugrip",
 	"wikimedia-upload-nolicenses": "Üüb detheer Wiki kön nian datein huuchsjüürd wurd. Wees so gud an sjüür jo tu [[commons:Special:UploadWizard|Wikimedia Commons]].\n\nAm detheer spezial-sidj för't huuchsjüüren tu brüken, skal en administraator det sidj [[MediaWiki:Licenses]] mä lisensen apfal.\n\nBrük det formaat: <code>* Nööm faan't föörlaag|Betiaknang</code>. Brük irgent en tekst, am det huuchsjüüren saner lisensföörslacher mögelk tu maagin.",
-	"wikimediashoplink-linktext": "Wikipedia-looden",
-	"wikimediashoplink-link-tooltip": "Wikipedia-looden beschük",
 	"interlanguage-link-mul": "Muar spriaken",
 	"interlanguage-link-sitename-mul": "Muarspriakag {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",

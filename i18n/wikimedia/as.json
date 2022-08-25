@@ -245,8 +245,6 @@
 	"upload-form-label-not-own-work-message-commons": "যদি আপোনাৰ এই ফাইলৰ স্বত্বাধিকাৰ নাই, বা আপুনি ইয়াক বেলেগ অনুজ্ঞাপত্ৰৰ অধীনত মুকলি কৰিব বিচাৰে, [https://commons.wikimedia.org/wiki/Special:UploadWizard কমন্স আপল'ড ৱিজাৰ্ড] ব্যৱহাৰ কৰি আপল'ড কৰাৰ কথা বিবেচনা কৰক।",
 	"upload-form-label-not-own-work-local-commons": "ইয়াৰ সলনি আপুনি [[Special:Upload|{{SITENAME}}ৰ আপল'ড পৃষ্ঠাটো]] ব্যৱহাৰ কৰি চাব পাৰে, যদিহে ছাইটটোৱে তেওঁলোকৰ নীতিৰ অধীনত এই ফাইলটো আপল'ড কৰাৰ অনুমতি দিয়ে।",
 	"wikimedia-upload-nolicenses": "এই ৱিকিত ফাইল আপল'ড কৰাটো সক্ষম নহয়। অনুগ্ৰহ কৰি [[commons:Special:UploadWizard|ৱিকিমিডিয়া কমন্সত আপল'ড]] কৰক।\n\nএই ৱিকিত আপল'ড কৰিবলৈ এই বিশেষ পৃষ্ঠাটোৰ ব্যৱহাৰ সক্ষম কৰিবৰ বাবে কোনো প্ৰশাসকে [[MediaWiki:Licenses]] পৃষ্ঠাত এক বা একাধিক অনুজ্ঞাপত্ৰ বিকল্প যোগ কৰিব লাগিব।\n\nএই বিন্যাসটো ব্যৱহাৰ কৰক: <code>* সাঁচৰ নাম|লেবেল</code>। অনুজ্ঞাপত্ৰ বিকল্প অবিহনে আপল'ড কৰিবলৈ যিকোনো পাঠ্য ব্যৱহাৰ কৰক।",
-	"wikimediashoplink-linktext": "ৱিকিপিডিয়া দোকান",
-	"wikimediashoplink-link-tooltip": "ৱিকিপিডিয়াৰ দোকানলৈ যাওক",
 	"interlanguage-link-mul": "অধিক ভাষা",
 	"interlanguage-link-sitename-mul": "বহুভাষিক {{SITENAME}}",
 	"interlanguage-link-wikipedia": "ৱিকিপিডিয়া",

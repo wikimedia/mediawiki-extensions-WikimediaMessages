@@ -172,8 +172,6 @@
 	"upload-form-label-own-work-message-commons": "Eg stadfester at eg har opphavsretten til denne fila, at eg samtykkjer til å sleppa fila til Wikimedia Commons under lisensen [https://creativecommons.org/licenses/by-sa/4.0/deed.no Creative Commons Namngjeving-DelPåSameVilkåra 4.0] for godt, og eg samtykkjer til [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkåra].",
 	"upload-form-label-not-own-work-message-commons": "Om du ikkje har opphavsretten til fila, eller ynskjer å gje henne ut under ein annan lisens, prøv [https://commons.wikimedia.org/wiki/Special:UploadWizard Opplastingsvegvisaren på Commons].",
 	"upload-form-label-not-own-work-local-commons": "Du kan eventuelt freista [[Special:Upload|opplastingssida på {{SITENAME}}]], om fila kan lastast opp på den nettstaden under retningslinene som gjeld der.",
-	"wikimediashoplink-linktext": "Wikipedia-butikken",
-	"wikimediashoplink-link-tooltip": "Vitj Wikipedia-butikken",
 	"interlanguage-link-mul": "Fleire språk",
 	"interlanguage-link-sitename-mul": "Fleirspråklege {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",

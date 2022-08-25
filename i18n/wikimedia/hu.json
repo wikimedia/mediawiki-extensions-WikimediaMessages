@@ -199,8 +199,6 @@
 	"upload-form-label-not-own-work-message-commons": "Ha nem birtoklod a fájl szerzői jogait vagy más licenc alatt szeretnéd közzétenni, fontold meg a [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Feltöltésvarázslójának] használatát.",
 	"upload-form-label-not-own-work-local-commons": "Megpróbálhatod használni [[Special:Upload|a(z) {{SITENAME}} feltöltési lapját]] is, ha ezt a fájlt fel lehet tölteni az itteni irányelvek szerint.",
 	"wikimedia-upload-nolicenses": "A fájlfeltöltés ezen a wikin nem engedélyezett. Az itt használandó fájlokat a [[commons:Special:UploadWizard|Wikimédia Commonsra]] lehet feltölteni.\n\nAhhoz, hogy ezen a speciális lapon is lehessen feltölteni erre a wikire, egy adminisztrátornak hozzá kell adnia egy vagy több licencopciót a [[MediaWiki:Licenses]] laphoz a következő formátumban: <code>* Sablon neve|Címke</code>. Bármilyen egyéb szöveg hozzáadásával engedélyezhető a feltöltés licencopciók nélkül.",
-	"wikimediashoplink-linktext": "Wikipédia-bolt",
-	"wikimediashoplink-link-tooltip": "Látogasd meg a Wikipédia-boltot!",
 	"interlanguage-link-mul": "További nyelvek",
 	"interlanguage-link-sitename-mul": "Többnyelvű {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipédia",

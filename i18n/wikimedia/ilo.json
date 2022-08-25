@@ -163,8 +163,6 @@
 	"wikimedia-torblock-blocked": "Ti IP a pagtaengam, <strong>$1</strong>, ket automatiko a nailasin a kas nodo ti iruruar ti Tor.\nT panagurnos babaen ti Tor ket naserraan tapno mapawilan ti panagabuso.\nPara iti adu pay a pakaammo ken pagsursuruan dagiti lehitimado nga agar-aramat, kitaen ti global nga annuroten ti [[m:Special:MyLanguage/No open proxies|Awan dagiti nawaya a pannakbagi]].",
 	"grant-checkuser": "Serrekan ti datos ti agkitkita nga agararamat",
 	"wikimedia-upload-nolicenses": "Ti panangikarga kadagiti papeles iti daytoy a wiki ket saan a napakabaelan. Pangngaasi nga [[commons:Special:UploadWizard|agikarga idiay Wikimedia Commons]].\n\nTapno mabalin ti agusar iti daytoy nga espesial a panid tapno agikarga iti daytoy a wiki, nasken nga aginayon ti administrador iti maysa wenno ad-adu kadagiti pagpilian ti lisensia iti panid ti [[MediaWiki:Licenses]].\n\nUsaren ti sumaganad a pormat: <code>* Nagan ti plantilia|Etiketa</code>. Usaren ti ania man a teksto tapno mapakabaelan iti agikarga nga awan kadagiti pagpilian ti lisensia.",
-	"wikimediashoplink-linktext": "Tiendaan ti Wikipedia",
-	"wikimediashoplink-link-tooltip": "Bisitaen ti Tiendaan ti Wikipedia",
 	"interlanguage-link-mul": "Dagiti adu pay a pagsasao",
 	"interlanguage-link-sitename-mul": "Multilingual {{SITENAME}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, ti nawaya nga ensiklopedia",

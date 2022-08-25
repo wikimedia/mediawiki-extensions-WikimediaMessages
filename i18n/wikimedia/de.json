@@ -287,8 +287,6 @@
 	"upload-form-label-not-own-work-message-commons": "Falls du nicht das Urheberrecht für diese Datei besitzt oder du diese Datei unter einer anderen Lizenz veröffentlichen möchtest, ziehe [https://commons.wikimedia.org/wiki/Special:UploadWizard den Hochladeassistenten auf Wikimedia Commons] in Erwägung.",
 	"upload-form-label-not-own-work-local-commons": "Du kannst auch [[Special:Upload|die Hochladeseite auf {{SITENAME}}]] ausprobieren, falls die Website das Hochladen dieser Datei unter ihren Richtlinien erlaubt.",
 	"wikimedia-upload-nolicenses": "Das Hochladen von Dateien auf dieses Wiki ist nicht aktiviert. Bitte [[commons:Special:UploadWizard|lade sie auf Wikimedia Commons hoch]].\n\nUm diese Spezialseite zum Hochladen auf dieses Wiki verwenden zu können, muss ein Administrator eine oder mehrere Lizenzoptionen der Seite [[MediaWiki:Licenses]] hinzufügen.\n\nBenutze das folgende Format: <code>* Name der Vorlage|Bezeichnung</code>. Verwende einen beliebigen Text, um das Hochladen ohne Lizenzoptionen zu aktivieren.",
-	"wikimediashoplink-linktext": "Wikipedia-Laden",
-	"wikimediashoplink-link-tooltip": "Besuch den Wikipedia-Laden",
 	"interlanguage-link-mul": "Weitere Sprachen",
 	"interlanguage-link-sitename-mul": "Mehrsprachiges {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",

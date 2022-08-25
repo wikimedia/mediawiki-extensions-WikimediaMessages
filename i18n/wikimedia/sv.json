@@ -273,8 +273,6 @@
 	"upload-form-label-not-own-work-message-commons": "Om du inte äger upphovsrätten för denna fil eller om du önskar att släppa den under en annan licens bör du överväga att använda [https://commons.wikimedia.org/wiki/Special:UploadWizard uppladdningsguiden på Commons].",
 	"upload-form-label-not-own-work-local-commons": "Du kanske skulle vilja prova att använda [[Special:Upload|uppladdningssidan på {{SITENAME}}]] om webbplatsens policys tillåter att denna fil laddas upp.",
 	"wikimedia-upload-nolicenses": "Uppladdning av filer till denna wiki är inte aktiverad. Vänligen [[commons:Special:UploadWizard|ladda up till Wikimedia Commons]].\n\nFör att kunna använda denna specialsida för att ladda upp till wikin måste en administratör lägga till en eller flera licensalternativ till sidan [[MediaWiki:Licenses]].\n\nAnvänd följande format: <code>* Mallnamn|Etikett</code>. Använd vilken text som helst för att aktivera uppladdning utan licensalternativ.",
-	"wikimediashoplink-linktext": "Wikipedia-butiken",
-	"wikimediashoplink-link-tooltip": "Besök Wikipedia-butiken",
 	"interlanguage-link-mul": "Fler språk",
 	"interlanguage-link-sitename-mul": "Flerspråkig {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",

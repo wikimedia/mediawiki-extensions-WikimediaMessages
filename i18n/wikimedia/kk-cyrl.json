@@ -171,8 +171,6 @@
 	"upload-form-label-not-own-work-message-commons": "Егер сіз осы файлдың авторы өзіңіз болмасаңыз немесе оны сіз басқа лицензия аясында жариялағыңыз келсе [https://commons.wikimedia.org/wiki/Special:UploadWizard Ортаққор Жүктеу шеберін] қолданыңыз.",
 	"upload-form-label-not-own-work-local-commons": "Егер сайт бұл файлды жүктеуге өзінің ережелері аясында рұқсат беретін болса, сіз сондай-ақ [[Special:Upload|{{SITENAME}} жобасындағы жүктеу бетін]] қолданып көргіңіз келетін шығар.",
 	"wikimedia-upload-nolicenses": "Бұл уикиде файлдарды жүктеу іске қосылмаған. [[commons:Special:UploadWizard|Ортаққорға жүктеңіз]].\n\nБұл арнайы бет арқылы бұл уикиге жүктеуді қолдану үшін администратор [[MediaWiki:Licenses]] бетіне бір не бірнеше лицензия параметрлерін қосуды қажет етеді.\n\nКелесі пішінді қолданыңыз: <code>* Үлгі атауы|Сипаттамасы</code>. Лицензия параметрлерінсіз жүктеуді іске қосу үшін қандай бір мәтін қолданыңыз.",
-	"wikimediashoplink-linktext": "Уикимедиа дүкені",
-	"wikimediashoplink-link-tooltip": "Уикимедиа дүкеніне барып қайту",
 	"interlanguage-link-mul": "Басқа тілдер",
 	"interlanguage-link-sitename-mul": "Көптілді {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Уикипедия",

@@ -259,8 +259,6 @@
 	"upload-form-label-own-work-message-commons": "Potvrđujem da posjedujem autorska prava ove datoteke i slažem se da je nepozivo postavljam na Zajednički poslužitelj pod licencijom  [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0], i pristajem na [https://foundation.wikimedia.org/wiki/Terms_of_Use Uvjete uporabe].",
 	"upload-form-label-not-own-work-message-commons": "Ako ne posjedujete autorska prava za ovu datoteku, ili je želite objaviti pod drugom licencijom, razmislite o uporabi [https://commons.wikimedia.org/wiki/Special:UploadWizard Čarobnjaka za postavljanje] na Zajedničkom poslužitelju.",
 	"upload-form-label-not-own-work-local-commons": "Možete pokušati [[Special:Upload|postaviti datoteku na projektu {{SITENAME}}]], pod uvjetom da je dopušteno postavljanje ove datoteke, sukladno pravilima projekta.",
-	"wikimediashoplink-linktext": "Wikipedijina prodavaonica",
-	"wikimediashoplink-link-tooltip": "Posjetite Wikipedijinu prodavaonicu",
 	"interlanguage-link-mul": "više jezičnih inačica",
 	"interlanguage-link-sitename-mul": "Višejezični projekt {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedija",

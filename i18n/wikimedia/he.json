@@ -273,8 +273,6 @@
 	"upload-form-label-not-own-work-message-commons": "אם זכויות היוצרים על הקובץ הזה אינן בבעלותך, או שברצונך לשחרר אותו תחת רישיון אחר, באפשרותך להשתמש ב[https://commons.wikimedia.org/wiki/Special:UploadWizard אשף ההעלאה לוויקישיתוף].",
 	"upload-form-label-not-own-work-local-commons": "באפשרותך לנסות להשתמש ב[[Special:Upload|דף העלאת הקבצים באתר {{SITENAME}}]], אם ניתן להעלות את הקובץ הזה לשם לפי מדיניות האתר.",
 	"wikimedia-upload-nolicenses": "העלאת קבצים לוויקי הזה כבויה. נא [[commons:Special:UploadWizard|להעלות לוויקישיתוף]].\n\nכדי לאפשר שימוש בדף המיוחד הזה להעלאה לוויקי הזה, מפעיל מערכת צריך להוסיף אפשרות אחת או יותר לדף [[MediaWiki:Licenses]].\n\nיש להשתמש בקוד הבא: <code>* שם התבנית|תווית</code>. יש להשתמש בטקסט כלשהו להפעלת העלאה ללא אפשרויות רישיון.",
-	"wikimediashoplink-linktext": "חנות ויקיפדיה",
-	"wikimediashoplink-link-tooltip": "לבקר בחנות ויקיפדיה",
 	"interlanguage-link-mul": "שפות נוספות",
 	"interlanguage-link-sitename-mul": "אתר {{SITENAME}} רב־לשוני",
 	"interlanguage-link-wikipedia": "ויקיפדיה",

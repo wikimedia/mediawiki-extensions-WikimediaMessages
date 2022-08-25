@@ -216,8 +216,6 @@
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Политика за поверителност]",
 	"grant-checkuser": "Достъп до данните на проверяващ",
 	"wikimedia-upload-nolicenses": "Качването на това уики не е активирано. Затова, [[commons:Special:UploadWizard|качвайте в Общомедия]].\n\nЗа да можете да качвате на уикито през тази специална страница, трябва да помолите администратора да добави една или повече опции за лиценз на страницата [[MediaWiki:Licenses]].\n\nИзползвайте следния формат: <code>* Име на шаблона|Надпис</code>. Използвайте който и да е текст, за да активирате качването без опции за лиценз.",
-	"wikimediashoplink-linktext": "Магазинът на Уикипедия",
-	"wikimediashoplink-link-tooltip": "Посетете магазина на Уикипедия",
 	"interlanguage-link-mul": "Още езици",
 	"interlanguage-link-wikipedia": "Уикипедия",
 	"interlanguage-link-sitename-wikipedia": "Уикипедия, свободната енциклопедия",

@@ -257,8 +257,6 @@
 	"upload-form-label-not-own-work-message-commons": "Nếu bạn không giữ quyền tác giả của tập tin hoặc muốn phát hành nó theo một giấy phép khác, xin nghĩ đến việc sử dụng [https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=vi trình hướng dẫn tải lên tại Commons].",
 	"upload-form-label-not-own-work-local-commons": "Bạn cũng có thể muốn thử [[Special:Upload|trang tải lên tại {{SITENAME}}]] nếu trang đó cho phép tải lên tập tin này theo các quy định của họ.",
 	"wikimedia-upload-nolicenses": "Wiki này không cho phép tải lên tập tin. Xin hãy [[commons:Special:UploadWizard|tải tập tin lên Wikimedia Commons]].\n\nĐể tải tập tin lên wiki này qua trang đặc biệt này, một bảo quản viên cần phải thêm những tùy chọn giấy phép vào trang [[MediaWiki:Licenses]].\n\nTrang đó sử dụng định dạng sau: <code>* Tên bản mẫu|Tên giấy phép</code>. Nhập bất cứ văn bản nào đó vào trang đó để cho phép tải lên tập tin mà không hiển thị tùy chọn giấy phép nào.",
-	"wikimediashoplink-linktext": "Cửa hàng Wikimedia",
-	"wikimediashoplink-link-tooltip": "Ghé cửa hàng Wikimedia",
 	"interlanguage-link-mul": "Thêm ngôn ngữ",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} đã ngôn ngữ",
 	"interlanguage-link-wikipedia": "Wikipedia",

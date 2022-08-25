@@ -251,8 +251,6 @@
 	"wikimedia-oauth-privacy-link": "[https://meta.wikimedia.org/wiki/Privacy_policy/th นโยบายความเป็นส่วนตัว]",
 	"grant-checkuser": "เข้าถึงข้อมูลผู้ตรวจสอบผู้ใช้",
 	"upload-form-label-not-own-work-local-commons": "คุณอาจต้องการใช้[[Special:Upload|หน้าอัปโหลดไฟล์บน {{SITENAME}}]] ซึ่งอาจอนุญาตการอัปโหลดไฟล์ภายใต้สัญญาอนุญาตเสรีตามนโยบายของวิกิ",
-	"wikimediashoplink-linktext": "ร้านค้าวิกิพีเดีย",
-	"wikimediashoplink-link-tooltip": "เยี่ยมชมร้านค้าวิกิพีเดีย",
 	"interlanguage-link-mul": "ภาษาเพิ่มเติม",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} พหุภาษา",
 	"interlanguage-link-wikipedia": "วิกิพีเดีย",

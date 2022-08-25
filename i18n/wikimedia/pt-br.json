@@ -297,8 +297,6 @@
 	"upload-form-label-not-own-work-message-commons": "Se você não possui os direitos autorais sobre este arquivo, ou deseja liberá-lo sob uma licença diferente, considere usar o [https://commons.wikimedia.org/wiki/Special:UploadWizard Assistente de Envios Common].",
 	"upload-form-label-not-own-work-local-commons": "Você também pode tentar usar [[Special:Upload|a página de upload em {{SITENAME}}]], se o site permitir o carregamento deste arquivo sob suas políticas.",
 	"wikimedia-upload-nolicenses": "Carregar arquivos para esta wiki não está habilitado. Por favor, [[commons:Special:UploadWizard||envie para o Wikimedia Commons]].\n\nPara poder usar esta página especial para realizar uploads nesta wiki, um administrador precisa adicionar uma ou mais opções de licença à página [[MediaWiki:Licenses]].\n\nUse o seguinte formato: <code>* Template name|Label</code>. Use qualquer texto para ativar o upload sem opções de licença.",
-	"wikimediashoplink-linktext": "Loja da Wikipédia",
-	"wikimediashoplink-link-tooltip": "Visite a loja da Wikipédia",
 	"interlanguage-link-mul": "Mais idiomas",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilingue",
 	"interlanguage-link-wikipedia": "Wikipédia",

@@ -296,8 +296,6 @@
 	"upload-form-label-not-own-work-message-commons": "Bu dosyadaki telif hakkına sahip değilseniz veya farklı bir lisans altında yayınlamak istiyorsanız [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Yükleme Sihirbazı] seçeneğini kullanın.",
 	"upload-form-label-not-own-work-local-commons": "Site, bu dosyanın politikalarına göre yüklenmesine izin veriyorsa [[Special:Upload|yükleme sayfasını {{SITENAME}}]] üzerinden kullanmayı da deneyebilirsiniz.",
 	"wikimedia-upload-nolicenses": "Bu viki'de dosya yükleme etkinleştirilmemiştir. Lütfen [[commons:Special:UploadWizard|Wikimedia Commons'a yükleyin]].\n\nBu sayfaları kullanarak dosya yüklemek için bir hizmetli, [[MediaWiki:Licenses|ilgili sayfaya]] bir veya daha fazla telif hakkı seçeneği eklemelidir. Bunu, yaparken şu biçimi kullanabilirsiniz: <code>* Şablon adı|Görüntülenecek isim</code>.",
-	"wikimediashoplink-linktext": "Wikimedia dükkânı",
-	"wikimediashoplink-link-tooltip": "Vikipedi mağazasını ziyaret et",
 	"interlanguage-link-mul": "Daha fazla dil",
 	"interlanguage-link-sitename-mul": "Çokdilli {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Vikipedi",

@@ -54,8 +54,6 @@
 	"wikimedia-developers": "Kehittäjät",
 	"wikimedia-globalblocking-ipblocked": "'''IP-osoitteesi on [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston oon antanu $1 ($2).\nAnnettu syy oon ''$3''.\n\n* Eston alkamisaika: $4\n* Eston päättymisaika: $5\n\nNykyinen IP-osoitteesi on $6.\nLiitä kaikki yllä olevat failit mahdollisiin kyselyihisi.\n\nJos uskot, ette sinut oon estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]].\nMuutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varte Meta-Wikhiin]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yksi tai useampia käyttämäsi välityspalvelin oon [[m:Special:MyLanguage/Global blocks|estetty kaikissa wikeissä]].'''\n\nEston antoi $1 ($2).\nEston syy oli ''$3''.\n\n* Eston alkamisajankohta: $4\n* Eston päättymisajankohta: $5\n\nEstetyn välityspalvelimen atressi oli $6.\nLiitä kaikki yllä olevat tieot mahollisiin kyselyihisi.\n\nJos uskot, ette sinut oon estetty vahingossa, voit löytää lisätietoa ja ohjeita järjestelmänlaajuisesta käytännöstä [[m:Special:MyLanguage/No open proxies|Ei avoimia välityspalvelimia]]. Muutoin, keskustellaksesi estosta, [[m:Steward requests/Global|jätä viesti arviointia varten Meta-Wikhiin]].",
-	"wikimediashoplink-linktext": "Wikipeetia-kauppa",
-	"wikimediashoplink-link-tooltip": "Vieraile Wikipeetia-kaupassa",
 	"interlanguage-link-mul": "Lissää kieliä",
 	"interlanguage-link-wikipedia": "Wikipeetia",
 	"interlanguage-link-sitename-wikipedia": "Wikipeetia, vapaa tietosanakirja",

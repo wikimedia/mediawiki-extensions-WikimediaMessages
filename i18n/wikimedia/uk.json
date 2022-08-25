@@ -297,8 +297,6 @@
 	"upload-form-label-not-own-work-message-commons": "Якщо ви не є власником авторських прав на цей файл або ви хочете розповсюджувати його на умовах іншої ліцензії, рекомендуємо використати [https://commons.wikimedia.org/wiki/Special:UploadWizard Майстер завантажень на Вікісховищі].",
 	"upload-form-label-not-own-work-local-commons": "Ви також можете спробувати використати [[Special:Upload|сторінку завантаження на {{GRAMMAR:locative|{{SITENAME}}}}]], якщо цей файл може бути завантажений на цей сайт згідно з його правилами.",
 	"wikimedia-upload-nolicenses": "Завантаження файлів на цю вікі не дозволене. Будь ласка, [[commons:Special:UploadWizard|завантажуйте на Вікісховище]].\n\nЩоб мати змогу використовувати цю спеціальну сторінку для завантаження у цю вікі, адміністратор має додати один чи декілька варіантів ліцензій на сторінку [[MediaWiki:Licenses]].\n\nВикористовуйте такий формат: <code>* Назва шаблону|Мітка</code>. Використовуйте будь-який текст, щоб дозволити завантаження без вибору ліцензії.",
-	"wikimediashoplink-linktext": "Магазин Вікіпедії",
-	"wikimediashoplink-link-tooltip": "Відвідайте Магазин Вікіпедії",
 	"interlanguage-link-mul": "Додаткові мови",
 	"interlanguage-link-sitename-mul": "Багатомовний сайт {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Вікіпедія",

@@ -223,8 +223,6 @@
 	"upload-form-label-not-own-work-message-commons": "Αν δεν σας ανήκουν τα πνευματικά δικαιώματα για αυτό το αρχείο, ή επιθυμείτε να το δημοσιεύσετε υπό μια διαφορετική άδεια χρήσης, μπορείτε να χρησιμοποιήσετε τον [https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=el Οδηγό Ανεβάσματος των Commons].",
 	"upload-form-label-not-own-work-local-commons": "Επίσης, μπορεί να θέλετε να δοκιμάσετε να χρησιμοποιήσετε [[Special:Upload|τη σελίδα ανεβάσματος για το {{SITENAME}}]], αν αυτό το αρχείο μπορεί να φορτωθεί σύμφωνα με τις πολιτικές του.",
 	"wikimedia-upload-nolicenses": "Το ανέβασμα αρχείων σε αυτό το wiki δεν είναι ενεργοποιημένη. Παρακαλούμε  [[commons:Special:UploadWizard|ανεβάστε στο Wikimedia Commons]].\n\nΓια να μπορέσετε να χρησιμοποιήσετε αυτήν την ειδική σελίδα για να μεταφορτώσετε σε αυτό το wiki, ένας διαχειριστής πρέπει να προσθέσει μία ή περισσότερες επιλογές άδειας στη σελίδα [[MediaWiki:Licenses]].\n\nΧρησιμοποιήστε την ακόλουθη μορφή: <code>* Όνομα προτύπου|Ετικέτα</code>. Χρησιμοποιήστε οποιοδήποτε κείμενο για να ενεργοποιήσετε τη μεταφόρτωση χωρίς επιλογές άδειας.",
-	"wikimediashoplink-linktext": "Κατάστημα Wikipedia",
-	"wikimediashoplink-link-tooltip": "Επισκεφθείτε το κατάστημα Wikipedia",
 	"interlanguage-link-mul": "Περισσότερες γλώσσες",
 	"interlanguage-link-sitename-mul": "Πολύγλωσσο {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Βικιπαίδεια",

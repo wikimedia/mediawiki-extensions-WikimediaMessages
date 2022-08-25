@@ -241,8 +241,6 @@
 	"upload-form-label-not-own-work-message-commons": "Ce non ge tìne le deritte d'autore sus a stu file, o ce 'u vuè ccu relasce cu 'na licenze diverse, ause 'u [https://commons.wikimedia.org/wiki/Special:UploadWizard carecamende guidate de Commons].",
 	"upload-form-label-not-own-work-local-commons": "Puè pure pruvà a ausà 'a [[Special:Upload|pàgene de carecamende sus a {{SITENAME}}]], ce 'u site dèje ìa possibbeletà de carecamende de stu file in base a le politeche sue.",
 	"wikimedia-upload-nolicenses": "'U carecamende d'u file sus a sta uicchi non ge se pò ffà. Pe piacere,[[commons:Special:UploadWizard|caricale sus a Uicchimedia Commons]].\n\nPe putè ausà sta pàgena speciale e carecà sus a stu uicchi, 'n'amministratore adda aggiungere une o cchiù opziune de licenze jndr'à pàgene [[MediaWiki:Licenses]].\n\nAuse stu formate: <code>* Nome template|Etichette</code>. Ause 'u teste ca vuè pe conzendìe 'u carecamende senze opziune de licenze.",
-	"wikimediashoplink-linktext": "Putèje de Uicchipèdie",
-	"wikimediashoplink-link-tooltip": "Visite 'a Putèje de Uicchipèdie",
 	"interlanguage-link-mul": "Cchiù lènghe",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} multilènghe",
 	"interlanguage-link-wikipedia": "Uicchipèdie",

@@ -175,8 +175,6 @@
 	"wikimedia-developers": "Raverberdoği",
 	"wikimedia-globalblocking-ipblocked": "'''Adresê IP'ya şıma [[m:Special:MyLanguage/Global blocks| wikiyanê pêroyinan dê bloqe biya]] '''\n\nBloqe (proceyê $2 de) terefê  $1 ra  biyo. Sebebê bloqey: ''$3''\n\n* Sernayışê bloqey: $4\n* Qediyayışê bloqey: $5\n\nAdresê IP'ya şıma: $6\nWexteyo ke şıma yew waştış talebi kenê se, melumatê coriya piya bırışê. \n\n\nEger ke xeta yana xırabin esta se global politikayan de [[m:Special:MyLanguage/No open proxies|wekil proksiyê akerdey]] bloqi xo vira mekerê.Ca weziyet esto se [[m:Steward requests/Global|Meta-Wiki de waştışê tenkiti şıma şenê bıwazê]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Çiyo ke şımayê sero guriyenê  proksiya cı [[m:Special:MyLanguage/Global blocks| wikiyanê pêroyinan de bloqe biya]]. '''\n\nBloqe (proceyê $2 de) terefê  $1 ra  biyo. Sebebê bloqey: ''$3''\n\n* Sernayışê bloqey: $4\n* Qediyayışê bloqey: $5\n\nAdresê IP'ya şıma: $6\nWexteyo ke şıma yew waştış talebi kenê se, melumatê coriya piya bırışê. \n\n\nEger ke xeta yana xırabin esta se global politikayan de [[m:Special:MyLanguage/No open proxies|wekil proksiyê akerdey]] bloqi xo vira mekerê.Ca weziyet esto se [[m:Steward requests/Global|Meta-Wiki de waştışê tenkiti şıma şenê bıwazê]].",
-	"wikimediashoplink-linktext": "Wikipedia dukan",
-	"wikimediashoplink-link-tooltip": "Wikipedia dukani ziyaret ke",
 	"interlanguage-link-mul": "Zewbi zıwani",
 	"interlanguage-link-sitename-mul": "Multizıwan {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipediya",

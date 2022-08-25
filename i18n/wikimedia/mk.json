@@ -273,8 +273,6 @@
 	"upload-form-label-not-own-work-message-commons": "Доколку вие не сте праводржец на податотекава, или пак сакате да ја објавите под поинаква лиценца, веројатно ќе треба да се послужите со [https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=mk Помошникот за подигање].",
 	"upload-form-label-not-own-work-local-commons": "Можете да се обидете и на [[Special:Upload|страницата за подигање на {{SITENAME}}]], доколку податотеката може да се подигне под тамошните правила.",
 	"wikimedia-upload-nolicenses": "Подигањето на ова вики не е овозможено. Затоа, [[commons:Special:UploadWizard|подигајте на Ризницата]].\n\nЗа да можете да подигате на викиво преку оваа службена страница, ќе треба да побарате администратор да додаде една или повеќе лиценцни можности на страницата [[MediaWiki:Licenses]].\n\nКористејќи го следниов формат: <code>* Име на предлошката|Натпис</code>. Користете каков било текст за да овозможите подигање без лиценцни можности.",
-	"wikimediashoplink-linktext": "Википедиина продавница",
-	"wikimediashoplink-link-tooltip": "Посетете ја Википедиината продавница",
 	"interlanguage-link-mul": "Повеќе јазици",
 	"interlanguage-link-sitename-mul": "Повеќејазична верзија на {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Википедија",
