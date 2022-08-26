@@ -267,6 +267,7 @@
 	"restriction-level-templateeditor": "zamčeno pro editory šablon",
 	"protect-level-templateeditor": "Povolit jen správcům a editorům šablon",
 	"right-extendedconfirmed": "Rozšíření potvrzení uživatelé",
+	"protect-level-extendedconfirmed": "Povolit jen zavedeným uživatelům a správcům",
 	"action-editeditorprotected": "editovat stránky zamčené jako „{{int:protect-level-editeditorprotected}}“",
 	"right-editeditorprotected": "Editace stránek zamčených na „{{int:protect-level-editeditorprotected}}“",
 	"protect-level-editeditorprotected": "Povolit jen editorům",
