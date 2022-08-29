@@ -3,7 +3,8 @@
 		"authors": [
 			"Amire80",
 			"Ibrahima",
-			"Ibrahima Malal Sarr"
+			"Ibrahima Malal Sarr",
+			"Musaddam Idriss"
 		]
 	},
 	"sitesupport": "Dokkal",
@@ -14,5 +15,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikijubbannde",
 	"wikibase-sitelinks-wikisource": "Wikisewnde",
 	"wikibase-sitelinks-wikivoyage": "Wikiɗanle",
-	"wikimedia-developers": "Topotooɓe"
+	"wikimedia-developers": "Topotooɓe",
+	"wikimedia-statslink": "Limude",
+	"wikimedia-cookiestatement": "Ƴewtal Cookie"
 }

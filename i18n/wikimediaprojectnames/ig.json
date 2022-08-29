@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Izuchi Onyeike"
+			"Izuchi Onyeike",
+			"Obuezie"
 		]
 	},
+	"project-localized-name-bclwikiquote": "Central Bikol Wikiquote",
 	"project-localized-name-guwwiki": "egbe wikipedia"
 }

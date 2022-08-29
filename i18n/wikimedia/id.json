@@ -6,6 +6,7 @@
 			"Beeyan",
 			"Bennylin",
 			"Caliburn",
+			"DDesouza",
 			"Daud I.F. Argana",
 			"Farras",
 			"Ilham151096",
@@ -345,5 +346,10 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Survei anonim ini dilakukan oleh Wikimedia Foundation.[https://meta.wikimedia.org/wiki/Community_Safety Baca lebih lanjut] atau periksa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement pernyataan privasi].",
 	"gadget-curidlink-link-by-id": "Pranala berdasarkan ID",
 	"gadget-curidlink-link-by-id-desc": "Tampilkan pranala ke halaman ini berdasarkan ID-nya",
-	"gadget-souspages-subpages": "Subhalaman"
+	"gadget-souspages-subpages": "Subhalaman",
+	"research-incentive-message": "Apakah Anda bersedia berpartisipasi dalam penelitian pengguna untuk Wikipedia dengan imbalan?",
+	"research-incentive-description": "Lengkapi formulir untuk didaftarkan ke daftar peserta kami. Anda akan dihubungi secara berkala dengan kesempatan untuk berpartisipasi dalam studi penelitian bagi Wikipedia. Anda dapat mengundurkan diri dari daftar kapan saja.",
+	"research-incentive-link": "https://airtable.com/shrZkM215lfHn7mjO",
+	"research-incentive-privacy": "Lihat kebijakan privasi kami dan pelajari lebih lanjut tentang program penelitian kami [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/id di sini].",
+	"research-incentive-confirm-msg": "Terima kasih!"
 }

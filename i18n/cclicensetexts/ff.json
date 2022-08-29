@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ibrahima",
-			"Ibrahima Malal Sarr"
+			"Ibrahima Malal Sarr",
+			"Musaddam Idriss"
 		]
 	},
 	"wm-license-cc-free": "Aɗa wellitii:",
@@ -11,5 +12,6 @@
 	"wm-license-cc-free-to-remix-header": "e muultaade",
 	"wm-license-cc-free-to-remix-text": "e jaaɓtinde",
 	"wm-license-cc-conditions": "E ɗii-ɗoo sarɗiiji:",
+	"wm-license-cc-conditions-attribution-header": "fe'inana",
 	"wm-license-cc-conditions-share_alike-header": "lollin nannduɗe"
 }
