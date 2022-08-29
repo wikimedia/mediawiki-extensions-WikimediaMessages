@@ -28,9 +28,9 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisorgent",
 	"wikibase-sitelinks-wikivoyage": "Wikiviagg",
-	"wikimedia-developers": "Sviluppador",
+	"wikimedia-developers": "Svilupador",
 	"wikimedia-globalblocking-ipblocked": "'' 'El tò adress IP l'è stad [[m:Special:MyLanguage/Global blocks|blocad in tucc i wiki]].' ''\nEl bloch l'è stad efetuad de $1 ($2).\nLa reson dada l'è \"$3\".\n\n* Prenzipi del bloch: $4\n* Fin del bloch: $5\n\nEl to adress IP atual IP a l'è $6.\nPer piaser met denter tucc i detali scrivud chi dessoravia in quasiasi domanda che te fee.\n\nSe te penset de vesser stad blocad per eror, te podet trovà di alter informazzion e istruzzion in la politega global de avegh [[m:Special:MyLanguage/No open proxies|nissun proxi avert]].\nDiversament, per mett in esam el bloch, per pieser [[m:Steward requests/Global| mett foeura ona domanda re revision in su Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "\n'' Vun o diversi server proxy doperad de la toa ciamada inn [[m:Special:MyLanguage/Global blocks| globalment blocad]].' ''\n\nEl bloch l'è stad efetuad del/della $1 ($2).\nLa reson dada l'è \"$3\".\n\n* Prenzipi del bloch: $4\n* Fin del bloch: $5\n\nL'adress proxy blocad l'era $6.\nPer pieser mett denter tucc i dettali in qualsiasi domanda che te fee. \n\nSe te penset de vesser stad blocad per eror, te podet trovà di alter informazzion e istruzzion in la politega global che la voeur che ghe sien minga di [[m:Special:MyLanguage/No open proxies|proxy avert]].\nDiversament, per mett sota esamm el bloch, per pieser [[m:Steward requests/Global| mett foeura ona domanda de revisin in su Meta-Wiki]].",
 	"wikimedia-statslink": "Statistiche",
-	"wikimedia-cookiestatement": "Dichiarazzion sora i cooki"
+	"wikimedia-cookiestatement": "Dichiarazzion sora i cochi"
 }

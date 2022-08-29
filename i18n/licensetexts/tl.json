@@ -54,7 +54,7 @@
 	"wm-license-fal-full-link": "http://artlibre.org/lal/en",
 	"wm-license-fsf-wiki-link": "w:tl:Pundasyon ng Malayang Sopwer",
 	"wm-license-free-software-wiki-link": "w:tl:Malayang sopwer",
-	"wm-license-gfdl-1.2-and-later": "Pinapayagan ang pagkopya, pamamahagi, at/o pagbabago sa dokumentong ito sa ilalim ng mga termino ng '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersyon 1.2 o kahit anong mas bagong bersyong nalathala ng [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; na walang pabago-bagong bahagi, walang teksto sa front-cover, at walang teksto sa back-cover. May nakalagay na kopya ng lisensiya sa bahaging pinamagatang ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.2-and-later": "Pinapayagan ang pagkopya, pamamahagi, at/o pagbabago sa dokumentong ito sa ilalim ng mga nakasaad sa '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Bersyon 1.2 o kahit anong mas bagong bersyong nilathala ng [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; nang walang pabago-bagong bahagi, walang teksto sa front-cover, at walang teksto sa back-cover. May nakalagay na kopya ng lisensiya sa bahaging pinamagatang ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.2-only": "Ipinagkaloob ang pahintulot na kopyahin, ipamahagi at/o baguhin ang kasulatang ito sa ilalim ng mga patakaran ng '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensya ng Malayang Dokumentasyon ng GNU]]''', Bersyong 1.2 ayon lamang sa pagkakalathala ng [[{{int:wm-license-fsf-wiki-link}}|Pundasyon ng Malayang Sopwer]]; na walang Mga Seksyong Hindi Nagbabago, walang mga Teksto ng Pangharap na Pabalat, at walang Mga Teksto ng Panglikod na Pabalat.  Kasama ang isang sipi ng lisensya sa seksyong pinamagatang ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensya ng Malayang Dokumentasyon ng GNU]]''.",
 	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;lamang",
 	"wm-license-gfdl-1.3-and-later": "Ipinagkaloob ang pahintulot na kopyahin, ipamahagi at/o baguhin ang kasulatang ito sa ilalim ng mga patakaran ng '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensya ng Malayang Dokumentasyon ng GNU]]''', Bersyong 1.3 o alin mang kasunod na bersyong nilathala ng [[{{int:wm-license-fsf-wiki-link}}|Pundasyon ng Malayang Sopwer]]; na walang Mga Seksyong Hindi Nagbabago, walang mga Teksto ng Pangharap na Pabalat, at walang Mga Teksto ng Panglikod na Pabalat.  Kasama ang isang sipi ng lisensya sa seksyong pinamagatang ''[[{{int:wm-license-gfdl-full-1.3-link}}|Lisensya ng Malayang Dokumentasyon ng GNU]]''.",
@@ -72,7 +72,7 @@
 	"wm-license-information-date": "Petsa",
 	"wm-license-information-author": "May-akda",
 	"wm-license-information-author-missing": "Kulang ng kabatiran ng '''may-akda''' ang talaksang ito.",
-	"wm-license-information-permission": "Pahintulot",
+	"wm-license-information-permission": "Permiso",
 	"wm-license-information-permission-reusing-link": "c:Commons:Muling paggamit na nilalaman sa labas ng Wikimedia",
 	"wm-license-information-permission-reusing-text": "Muling paggamit sa file",
 	"wm-license-information-permission-see-below": "Tingnan sa ibaba.",
@@ -108,5 +108,5 @@
 	"wm-license-self-one-license-with-author": "Si $1, na may karapatang-ari ng akdang ito, ang naglalathala nito alinsunod sa ilalim ng sumusunod na lisensya:",
 	"wm-license-self-multiple-licenses": "Ako, na may karapatang-ari ng akdang ito, ang naglalathala nito alinsunod sa ilalim ng sumusunod na mga lisensya:",
 	"wm-license-self-multiple-licenses-with-author": "Si $1, na may karapatang-ari ng akdang ito, ang naglalathala nito alinsunod sa ilalim ng sumusunod na mga lisensya:",
-	"wm-license-self-multiple-licenses-select": "Maaari kang makapili ng lisensiya mo."
+	"wm-license-self-multiple-licenses-select": "Makakapili ka ng lisensiyang gusto mo."
 }
