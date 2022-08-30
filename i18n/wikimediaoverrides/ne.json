@@ -9,5 +9,6 @@
 	"wikimedia-createacct-imgcaptcha-help": "तस्वीर देख्न कठिन भइरहेकाे छ? [[{{MediaWiki:createacct-captcha-help-url}}|खाता अनुराेध गर्नुहाेस्]]",
 	"wikimedia-centralauth-groupname": "विकिमिडिया फाउन्डेसन",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< सन् २००६",
+	"createacct-helpusername-url": "{{ns:Project}}:प्रयोगकर्ता नाम नीति",
 	"wikimedia-sitematrix-others": "अन्य विकिमिडिया परियोजनाहरू"
 }
