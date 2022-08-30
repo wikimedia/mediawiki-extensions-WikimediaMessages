@@ -176,7 +176,6 @@
 	"group-global-interface-editor-member": "{{GENDER:$1|global gränssnittsredigerare}}",
 	"group-global-renamer": "Globala namnbytare",
 	"group-global-renamer-member": "{{GENDER:$1|global namnbytare}}",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Globala tillbakarullare",
 	"group-global-rollbacker-member": "{{GENDER:$1|global tillbakarullare}}",
 	"grouppage-global-rollbacker": "m:Global rollback/nb",

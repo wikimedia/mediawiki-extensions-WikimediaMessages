@@ -110,7 +110,6 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|глобалан IP-блоктохаран йукъарадаккхар}}",
 	"group-global-renamer": "Глобально цӀе хуьйцург",
 	"group-global-renamer-member": "{{GENDER:$1|глобально цӀе хуьйцург|глобально цӀе хуьйцурш}}",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Глобалан йухадохург",
 	"group-global-rollbacker-member": "{{GENDER:$1|глобалан ⁠⁠йухадакхархо}}",
 	"group-global-sysop": "Глобалан администраторш",

@@ -179,7 +179,6 @@
 	"grouppage-global-interface-editor": "m:Editores de interface",
 	"group-global-renamer": "Alteradores globais de nomes",
 	"group-global-renamer-member": "{{GENDER:$1|alterador|alteradora}} global de nomes",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Reversores globais",
 	"group-global-rollbacker-member": "{{GENDER:$1|reversor|reversora}} global",
 	"group-global-sysop": "Administradores globais",

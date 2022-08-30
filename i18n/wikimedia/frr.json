@@ -120,7 +120,6 @@
 	"grouppage-global-interface-editor": "m:Interface-bewerkern",
 	"group-global-renamer": "Globaal amnäämern",
 	"group-global-renamer-member": "{{GENDER:$1|Globaal amnäämer}}",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Globaal turagdreiern",
 	"group-global-rollbacker-member": "{{GENDER:$1|Globaal turagdreier}}",
 	"group-global-sysop": "Globaal administratooren",

@@ -109,7 +109,6 @@
 	"group-captcha-exempt-member": "{{GENDER:$1|ouni CAPTCHA}}",
 	"group-global-bot": "Global Botten",
 	"group-global-bot-member": "{{GENDER:$1|Globale Bot}}",
-	"grouppage-global-bot": "m:Global bot",
 	"group-global-ipblock-exempt": "Ausname vu globalen IP-Spären",
 	"group-global-interface-editor": "Global Editeure vum Interface",
 	"group-global-renamer": "Global Ëmbenenner",

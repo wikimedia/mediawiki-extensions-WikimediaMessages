@@ -157,7 +157,6 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|esente dal blocco IP globale}}",
 	"group-global-renamer": "Rinominatori globali",
 	"group-global-renamer-member": "{{GENDER:$1|rinominatore globale}}",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Rollbacker globali",
 	"group-global-rollbacker-member": "{{GENDER:$1|rollbacker globale}}",
 	"grouppage-global-rollbacker": "m:Global rollback/it",

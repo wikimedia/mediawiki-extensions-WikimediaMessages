@@ -167,7 +167,6 @@
 	"group-global-interface-editor-member": "{{GENDER:$1|globalni uređivač sučelja|globalna uređivačica sučelja}}",
 	"group-global-renamer": "Globalni promjenitelji suradničkih imena",
 	"group-global-renamer-member": "{{GENDER:$1|globalni promjenitelj suradničkih imena|globalna promjeniteljica suradničkih imena}}",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Globalni uklonitelji",
 	"group-global-rollbacker-member": "{{GENDER:$1|globalni uklonitelj|globalna ukloniteljica}}",
 	"grouppage-global-rollbacker": "m:Global rollbackers",

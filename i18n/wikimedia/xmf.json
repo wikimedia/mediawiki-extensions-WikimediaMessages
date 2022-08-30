@@ -150,7 +150,6 @@
 	"group-global-interface-editor-member": "{{GENDER:$1|ინტერფეისიშ გლობალური რედაქტორი}}",
 	"group-global-renamer": "გლობალური ჯოხომათირალეფი",
 	"group-global-renamer-member": "{{GENDER:$1|გლობალური ჯოხომათირალი}}",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "გლობალური გჷმაუქვაფალეფი",
 	"group-global-rollbacker-member": "{{GENDER:$1|გლობალური გჷმაუქვაფალი}}",
 	"group-global-sysop": "გლობალური ადმინისტრატორეფი",

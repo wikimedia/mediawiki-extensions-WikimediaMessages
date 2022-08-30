@@ -91,7 +91,6 @@
 	"grouppage-trusted": "{{ns:project}}:Pambina",
 	"group-apihighlimits-requestor": "API high limit requestor",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|API high limit requestor}}",
-	"grouppage-apihighlimits-requestor": "m:API high limit requestors",
 	"group-centralnoticeadmin": "Admin pusek pangumuman",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|Admin pusek pangumuman}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Admin pusek pangumuman",

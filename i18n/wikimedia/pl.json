@@ -176,7 +176,6 @@
 	"group-global-interface-editor-member": "{{GENDER:$1|globalny redaktor|globalna redaktorka}} interfejsu",
 	"group-global-renamer": "Globalnie zmieniający nazwy",
 	"group-global-renamer-member": "globalnie {{GENDER:$1|zmieniający|zmieniająca}} nazwy",
-	"grouppage-global-renamer": "m:Global renamers",
 	"group-global-rollbacker": "Globalnie uprawnieni do wycofywania edycji",
 	"group-global-rollbacker-member": "globalnie {{GENDER:$1|uprawniony|uprawniona}} do wycofywania edycji",
 	"group-global-sysop": "Globalni administratorzy",
