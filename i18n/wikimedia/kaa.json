@@ -7,9 +7,12 @@
 			"Nurlan"
 		]
 	},
-	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=kaa",
+	"wikimediamessages-desc": "Wikipediya arnawlı xabarları",
+	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=en",
 	"sitesupport": "Joybarǵa járdem",
 	"tooltip-n-sitesupport": "Bizge járdem beriń",
+	"nstab-creator": "Avtor",
+	"group-steward": "Styuardlar",
 	"wikimedia-copyright": "Tekst <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike licenziyası</a> boyınsha ommalashtirilmoqda, qosımsha shártler qollanıwı múmkin (<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">qollanıw shártleri</a>).",
 	"wikimedia-copyrightwarning": "Ózgerislerdi saqlaw arqalı siz [https://foundation.wikimedia.org/wiki/Terms_of_Use Paydalanıw shártleri]ne razılıq bildiresiz hám siz óz úlesńizdi [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] hám [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Silteme yamasa URL Creative Commons litsenziyası boyınsha jetkilikli atribut bolıwına razılıq bildiresiz.",
 	"wikibase-repo-name": "Wikiderek",
