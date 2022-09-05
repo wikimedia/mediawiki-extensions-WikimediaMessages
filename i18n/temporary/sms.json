@@ -4,6 +4,7 @@
 			"Yupik"
 		]
 	},
+	"hello": "Tiõrv!",
 	"thank-you": "{{GENDER:$1|Späʹsseb.}}",
 	"specialblockfeedback": "Maacctõs"
 }

@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"हिमाल सुबेदी"
+			"हिमाल सुबेदी",
+			"Bada Kaji"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(छान्नमा मलाई सहयाेग गर्नुहाेस्)]]",
 	"wikimedia-createacct-imgcaptcha-help": "तस्वीर देख्न कठिन भइरहेकाे छ? [[{{MediaWiki:createacct-captcha-help-url}}|खाता अनुराेध गर्नुहाेस्]]",
-	"wikimedia-centralauth-uwbr-registration-nodate": "< सन् २००६"
+	"wikimedia-centralauth-uwbr-registration-nodate": "< सन् २००६",
+	"createacct-helpusername-url": "{{ns:Project}}:प्रयोगकर्ता नाम नीति"
 }
