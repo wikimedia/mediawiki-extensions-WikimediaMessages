@@ -2,14 +2,30 @@
 	"@metadata": {
 		"authors": [
 			"Nirajan pant",
-			"हिमाल सुबेदी"
+			"हिमाल सुबेदी",
+			"बडा काजी"
 		]
 	},
+	"project-localized-name-aawiki": "अफार विकिपिडिया",
+	"project-localized-name-aawiktionary": "अफार विक्सनरी",
+	"project-localized-name-abwiki": "अब्खाजियन विकिपिडिया",
+	"project-localized-name-angwiki": "पुरानो अंग्रेजी विकिपिडिया",
+	"project-localized-name-betawikiversity": "परीक्षण विकिविश्वविद्यालय",
+	"project-localized-name-bhwiki": "भोजपुरी विकिपिडिया",
+	"project-localized-name-bowiki": "तिब्बती विकिपिडिया",
+	"project-localized-name-commonswiki": "विकिमिडिया कमन्स",
 	"project-localized-name-hifwiktionary": "फिजी हिन्दी विक्सनरी",
 	"project-localized-name-hiwikiversity": "हिन्दी विकिभर्सिटि",
+	"project-localized-name-hiwiktionary": "हिन्दी विक्सनरी",
 	"project-localized-name-maiwiki": "मैथिली विकिपिडिया",
 	"project-localized-name-maiwikimedia": "मैथिली विकिमिडिया प्रयाेगकर्ता समूह",
+	"project-localized-name-metawiki": "मेटा-विकी",
 	"project-localized-name-newiki": "नेपाली विकिपिडिया",
 	"project-localized-name-newikibooks": "नेपाली विकिपुस्तक",
-	"project-localized-name-newiktionary": "नेपाली विक्सनरी"
+	"project-localized-name-newiktionary": "नेपाली विक्सनरी",
+	"project-localized-name-newwiki": "नेवारी विकिपिडिया",
+	"project-localized-name-piwiki": "पाली विकिपिडिया",
+	"project-localized-name-piwiktionary": "पाली विक्सनरी",
+	"project-localized-name-specieswiki": "विकिप्रजाति",
+	"project-localized-name-wikidatawiki": "विकिडेटा"
 }
