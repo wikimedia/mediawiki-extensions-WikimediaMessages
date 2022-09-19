@@ -43,5 +43,6 @@
 	"wikimedia-apierror-urlshortener-permissiondenied": "Links curtos só podem ser criados com uma chamada para a wiki meta.wikimedia.org.",
 	"wikimedia-webauthn-module-description": "WebAuthn (Authenticação de Web) é um padrão de web publicado pela World Wide Web Consortium (W3C). WebAuthn é um componente essencial do Projeto FIDO2 sob a orientação da FIDO Alliance. O objetivo do projeto é padronizar uma interface para autenticar usuários para aplicações baseadas na web e serviços usando criptografia de público-chave. [https://en.wikipedia.org/wiki/WebAuthn Ler mais]. Observe que você precisará entrar na mesma wiki onde registrou originalmente o seu dispositivo de verificação.",
 	"wikimedia-webauthn-ui-login-prompt": "Por favor toque no seu dispositivo de verificação ou siga as instruções do navegador. Observe que você precisará fazer login no mesmo wiki em que registrou originalmente seu dispositivo de verificação",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de privacidade]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de privacidade]",
+	"wikimedia-ipinfo-preference-use-agreement": "Concordo em usar esta ferramenta de acordo com as [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines diretrizes da ferramenta de informações de IP], exclusivamente para a investigação ou prevenção de vandalismo, abuso ou outras violações da Wikimedia Foundation ou das políticas da comunidade."
 }
