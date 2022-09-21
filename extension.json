@@ -66,6 +66,9 @@
 				"MainConfig",
 				"UserOptionsManager"
 			]
+		},
+		"WikimediaMessagesCampaignEventsHooks": {
+			"class": "MediaWiki\\Extension\\WikimediaMessages\\WikimediaMessagesCampaignEventsHooks"
 		}
 	},
 	"Hooks": {
@@ -108,7 +111,10 @@
 		"SpecialContributionsBeforeMainOutput": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"CheckUserSubtitleLinks": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onCheckUserSubtitleLinks"
+		"CheckUserSubtitleLinks": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onCheckUserSubtitleLinks",
+		"CampaignEventsGetPolicyMessage": {
+			"handler": "WikimediaMessagesCampaignEventsHooks"
+		}
 	},
 	"DefaultUserOptions": {
 		"rcenhancedfilters-seen-highlight-button-counter": 0
