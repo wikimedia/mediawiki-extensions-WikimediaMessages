@@ -373,6 +373,7 @@
 	"gadget-curidlink-link-by-id": "Verknüpfung nach ID",
 	"gadget-curidlink-link-by-id-desc": "Link zu dieser Seite anhand ihrer ID anzeigen",
 	"gadget-souspages-subpages": "Unterseiten",
+	"ext-campaignevents-register-policy": "Durch die Anmeldung stimmst du den [https://foundation.wikimedia.org/wiki/Terms_of_Use/de Nutzungsbedingungen] und der [https://foundation.wikimedia.org/wiki/Privacy_policy/de Datenschutzrichtlinie] zu.",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement Datenschutzerklärung] für diese Umfrage.",
 	"research-incentive-message": "Würdest du gerne an einer vergüteten Benutzerforschung für Wikipedia teilnehmen?",
 	"research-incentive-description": "Fülle das Formular aus, um sich in unsere Teilnehmerliste einzutragen. Du wirst in regelmäßigen Abständen über vergütete Forschungsmöglichkeiten informiert. Du kannst dich jederzeit von der Liste streichen.",

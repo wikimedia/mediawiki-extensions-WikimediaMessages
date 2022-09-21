@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"wikimedia-log-action-filter-usermerge": "Vrsta dejanja:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Spojitev uporabniških računov",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Izbris uporabniškega računa",
+	"wikimedia-usermerge-logpage": "Dnevnik spajanja uporabnikov"
+}

@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"LesVisages",
 			"Robin van der Vliet"
 		]
 	},
-	"wm-license-book-language": "toki"
+	"wm-license-book-language": "toki",
+	"wm-license-information-date": "nanpa tenpo"
 }
