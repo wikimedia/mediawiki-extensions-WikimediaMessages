@@ -3,12 +3,13 @@
 		"authors": [
 			"Abbas dhothar",
 			"Khalid Mahmood",
-			"Nemo bis"
+			"Nemo bis",
+			"Bgo eiu"
 		]
 	},
 	"wikimediamessages-desc": "وکیمیڈیا دے خاص سنیعے",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pnb",
-	"sitesupport": "عطیہ دیو",
+	"sitesupport": "دان کرو",
 	"tooltip-n-sitesupport": "ساڈے نال ہتھ ونڈاؤ",
 	"specialpages-group-contribution": "ہتھ ونڈائی/فنڈ کٹھے کرن والا",
 	"nstab-creator": "بنان والا",
@@ -102,7 +103,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|بولی وٹاندرا مکھیا}}",
 	"grouppage-translationadmin": "{{ns:project}}:بولی وٹاندرا مکھیا",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
-	"wikimedia-copyright": "لکھت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">کریئیٹیو کامنز انتساب/ اکوجہے-شراکت لائسنس</a> دے ہیٹھ دستیاب اے، ہور شرطاں وی لاگو ہوسکدیاں نیں۔ ویروے لئی <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ورتن شرطاں</a> دیکھو۔ ویکیپیڈیا® اک غیر منافع بخش تنظیم  <a href=\"https://wikimediafoundation.org\">ویکیمیڈیا فاؤنڈیشن انکارپوریشن</a>  دا تجارتی مارکہ اے۔",
+	"wikimedia-copyright": "لکھت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">کریئیٹیو کامنز انتساب/ اکوجہے-شراکت لائسنس</a> دے ہیٹھ دستیاب اے، ہور شرطاں وی لاگو ہوسکدیاں نیں۔ ویروے لئی <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ورتن شرطاں</a> دیکھو۔",
 	"wikimedia-copyrightwarning": "اپنی لکھت نوں محفوظ کردیاں ہوئیاں تسیں اس [https://creativecommons.org/licenses/by-sa/3.0/  کریئیٹیو کامنز انتساب-یکساں شراکت لائسنس   3.0] تے [https://www.gnu.org/copyleft/fdl.html جی این یو آزاد مسوداتی لائسنس]  نوں مندے او تے اپنا حصہ ساریاں اگے رکھدے او. تسیں متفقہ طور اُتے دوبارہ استعمال کرنے والےآں دے ذریعہ اس صفحے اُتے ہائپر لنک یا یو آر ایل دے ذریعہ اسنوں ساڈے ناویں کیتے جانے اُتے متفق او۔ تفصیل لئی [https://foundation.wikimedia.org/wiki/Terms_of_Use ورتن شرطاں ] دیکھو ۔\nواضح رہے کہ تواڈی لکھی اس لکھت وچ ہور ورتنوالے وی کسی ہائپر لنک یا یو آر ایل دے ذریعہ ترمیم ک‏ر سکدے نيں۔",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] and [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|جی آیاں نوں}}، $1!",

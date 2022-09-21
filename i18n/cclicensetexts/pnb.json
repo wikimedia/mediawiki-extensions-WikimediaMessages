@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Abbas dhothar",
-			"Khalid Mahmood"
+			"Khalid Mahmood",
+			"Bgo eiu"
 		]
 	},
 	"wm-license-cc-attribution": "کس دے ناں",
@@ -183,14 +184,14 @@
 	"wm-license-cc-sa-2.0-jp-text": "ایس فائل نوں [[{{int:wm-license-cc-wiki-link}}|کریٹو کامنز]] [https://creativecommons.org/licenses/by/1.0/jp/deed.en Attribution 1.0 جپان] لائسنس دتا گیا.",
 	"wm-license-cc-zero-text": "ایس فائل نوں ایہ لسنس [[{{int:wm-license-cc-wiki-link}}|کریٹو کامنز]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 یونیورسل پبلک ڈومین ڈیڈیکیشن] دتا گیا اے۔",
 	"wm-license-cc-zero-explanation": "اوہ بندا جینے اے کم کیتا اے اونے اے کم [[{{int:wm-license-pd-wiki-link}}|public domain]] دے ناں لایا اے تے سارے حقاں نوں چھڈ دتا اے۔ تسیں اینو کاروبار کم لئی ورت سکدے اے یا بدل سکدے او بنا کسے اجازت دے۔",
-	"wm-license-cc-free": "تسی ازاد او",
+	"wm-license-cc-free": "تہانوں کھلھ ہے:",
 	"wm-license-cc-free-to-share-header": "حصہ کرنا",
 	"wm-license-cc-free-to-share-text": "کاپی، ونڈنا تے کم بھیجنا",
 	"wm-license-cc-free-to-remix-header": "فیر رلانا",
 	"wm-license-cc-free-to-remix-text": "کم نوں فٹ کرنا",
 	"wm-license-cc-conditions": "تھلے دتیاں شرطاں نال:",
 	"wm-license-cc-conditions-attribution-header": "کس دے ناں",
-	"wm-license-cc-conditions-attribution-text": "تسیں لازمی ایس کم دے بناں والے بارے دسو جنج اونے آکھیا اے یا جنج لسنس چ آکھیا گیا اے ۔",
+	"wm-license-cc-conditions-attribution-text": "تسیں لازمی ایس کم دے بناں والے بارے دسو جنج اونے آکھیا اے یا جنج لسنس چ آکھیا گیا ہے۔",
 	"wm-license-cc-conditions-share_alike-header": "اکو جہا شئیر کرو۔",
 	"wm-license-cc-conditions-share_alike-text": "اگر تسیں بدلدے یا ایس کم تے بناندے  تے بنن والے کم نوں اینج دے لسنس نال ای ونڈو گے۔",
 	"wm-license-cc-pd-mark-text": "ایہ فائل دے بارے چ دس اے جے اے کاپی حف دیاں روکاں توں کھلی اے تے نالدے رلدے حقاں توں وی۔"

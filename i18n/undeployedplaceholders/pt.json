@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Hamilton Abreu"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|fundiu}} a conta de utilizador \"$4\" ($5) com {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|eliminou}} a conta de utilizador \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Tipo de operação:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusão de conta de utilizador",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Eliminação de conta de utilizador",
+	"wikimedia-usermerge-logpage": "Registo de fusão de utilizadores",
+	"wikimedia-usermerge-logpagetext": "Este registo é de operações de fusão de utilizadores."
+}
