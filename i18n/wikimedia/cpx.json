@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChoiChong"
+			"ChoiChong",
+			"Kahin He"
 		]
 	},
+	"sitesupport": "提供",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|歡迎}}, $1!",
 	"wikibase-sitelinks-wikivoyage": "維基導遊",
 	"wikimedia-developers": "開發者",

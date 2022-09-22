@@ -428,7 +428,7 @@
 	"gadget-curidlink-link-by-id": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-curidlink-link-by-id-desc": "Text of sidebar tooltip added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-souspages-subpages": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-SousPages.js|SousPages]] gadget\n\n{{Identical|Subpage}}",
-	"ext-campaignevents-register-policy": "Legal disclaimer shown when a user tries to register for an event.",
+	"ext-campaignevents-register-policy": "Legal disclaimer shown when a user tries to register for an event. The word for \"Registration\" should be consistent with the word used in the messages for the Campaign Events extension, for example {{msg-mw|Campaignevents-register-confirmation-top}}.",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Legal disclaimer in the feedback survey on [[Special:SimilarEditors]]",
 	"research-incentive-message": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey question.",
 	"research-incentive-description": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey description.",

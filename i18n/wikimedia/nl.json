@@ -328,5 +328,6 @@
 	"right-editautopatrolprotected": "Pagina's bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "pagina's te bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-docseditor": "documentatie te bewerken",
-	"right-docseditor": "Documentatie bewerken"
+	"right-docseditor": "Documentatie bewerken",
+	"ext-campaignevents-register-policy": "Door u te in te schrijven gaat u akkoord met de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use gebruiksvoorwaarden] en met het [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy privacybeleid]."
 }
