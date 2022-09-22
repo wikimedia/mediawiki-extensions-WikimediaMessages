@@ -238,7 +238,7 @@
 	"right-superprotect": "Muuttaa supersuojauksen tasoja",
 	"protect-level-superprotect": "Vain supersuojaus-tason käyttäjät",
 	"restriction-level-superprotect": "super-suojaus",
-	"right-templateeditor": "Muokkaa suojattuja mallineita",
+	"right-templateeditor": "Muokata suojattuja mallineita",
 	"right-extendedconfirmed": "Muokata rajoitettuja sivuja",
 	"right-editeditorprotected": "Muokata sivuja, jotka on suojattu tasolle ”{{int:protect-level-editeditorprotected}}”",
 	"protect-level-editeditorprotected": "Salli vain seulojat",

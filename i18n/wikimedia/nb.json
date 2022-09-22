@@ -323,8 +323,8 @@
 	"passwordpolicies-policy-blockattacker": "Passordregler for forhindring av kjente angrep der avsløring av detaljer ville skade forhindringen.",
 	"technical-maintenance-soon": "Teknisk vedlikehold blir utført snart:",
 	"technical-maintenance-edit": "I denne perioden vil du kanskje ikke være i stand til å lagre endringer.",
-	"group-oathauth-tester": "Testere av totrinns pålogging",
-	"group-oathauth-tester-member": "{{GENDER:$1|tester av totrinns pålogging}}",
+	"group-oathauth-tester": "Testere av tofaktorautentisering",
+	"group-oathauth-tester-member": "{{GENDER:$1|tester av tofaktorautentisering}}",
 	"querypage-updates-half-monthly": "Oppdateringer for denne siden kjøres to ganger i måneden.",
 	"querypage-updates-monthly": "Oppdateringer for denne siden kjøres to ganger i måneden.",
 	"right-editautoreviewprotected": "Redigere sider beskyttet som «{{int:protect-level-editautoreviewprotected}}»",
@@ -351,5 +351,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ja",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nei",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Jeg er ikke sikker",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Denne anonyme spørreundersøkelsen utføres av Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Les mer] eller sjekk [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement personvernserklæringen]."
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Denne anonyme spørreundersøkelsen utføres av Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Les mer] eller sjekk [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement personvernserklæringen].",
+	"gadget-souspages-subpages": "Undersider",
+	"ipinfo-global-contributions-url-label": "Bidrag globalt"
 }

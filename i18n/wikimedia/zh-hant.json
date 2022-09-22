@@ -290,7 +290,7 @@
 	"wikimedia-globalblocking-ipblocked-range": "'''您的 IP 位址已被 [[m:Special:MyLanguage/Global blocks|所有維基媒體基金會的 Wiki 封鎖]]。'''\n\n由 $1 ($2) 封鎖。\n原因為：''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n您目前的 IP 位址為 $6，被封鎖的範圍是 $7。\n請在您進行的查詢裡包含以上詳情。\n\n如果您認為您可能被誤判封鎖，您可於[[m:Special:MyLanguage/No open proxies|禁止使用開放代理]]全域方針查看進一步資訊與指示。\n或者，請於[[m:Steward requests/Global|元維基請求審查]]討論封鎖原因，或將以上詳情包含在電子郵件發送到 <kbd>stewards@wikimedia.org</kbd> 給[[m:Special:MyLanguage/Stewards|監管員]] [[m:Special:MyLanguage/VRT|VRT團隊]]查詢。",
 	"wikimedia-globalblocking-ipblocked-xff": "'''您的請求使用了一個或多個代理伺服器，己被 [[m:Special:MyLanguage/Global blocks|全域封鎖]]。'''\n\n由 $1（$2）封鎖。\n原因為：''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n您目前的 IP 位址為 $6。\n不論您做任何的請求，請檢閱上述訊息。\n\n如果您認為您可能被誤判封鎖，您可於[[m:Special:MyLanguage/No open proxies|禁止使用開放代理]]查看進一步資訊與指示。\n或者，請於 [[m:Steward requests/Global|Meta-Wiki 請求審查]]討論封鎖原因。",
 	"wikimedia-torblock-blocked": "您的 IP 位址 <strong>$1</strong>，己被自動識別為 Tor 節點之一。\n已禁止任何以透過 Tor 節點的編輯以防止濫用。\n有關合法使用者的更多資訊與說明請參考[[m:Special:MyLanguage/No open proxies|禁止使用開放代理]]全域政策。",
-	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy 私隱政策]",
+	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy 隱私權政策]",
 	"grant-checkuser": "存取使用者查核資料",
 	"upload-form-label-own-work-message-commons": "我保証我擁有此檔案的版權，並且不反悔同意使用 [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] 授權條款發佈此檔案到維基媒體共享資源，並且我同意 [https://foundation.wikimedia.org/wiki/Terms_of_Use 使用條款]。",
 	"upload-form-label-not-own-work-message-commons": "若您並未擁有此檔案的版權，或者您希望使用其他的授權條款發佈此檔案，請考慮使用[https://commons.wikimedia.org/wiki/Special:UploadWizard 通用上傳精靈]。",

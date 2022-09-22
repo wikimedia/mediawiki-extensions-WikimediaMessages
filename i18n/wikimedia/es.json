@@ -63,7 +63,8 @@
 			"VegaDark",
 			"Vivaelcelta",
 			"Vogone",
-			"Wifidel"
+			"Wifidel",
+			"DDesouza"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -383,5 +384,10 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Esta encuesta anónima la realiza la Fundación Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Lee más] o mira [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement la declaración de privacidad].",
 	"gadget-curidlink-link-by-id": "enlace por ID",
 	"gadget-curidlink-link-by-id-desc": "Mostrar enlace a esta página por su ID",
-	"gadget-souspages-subpages": "Subpáginas"
+	"gadget-souspages-subpages": "Subpáginas",
+	"research-incentive-message": "¿Le gustaría participar en una búsqueda remunerada de usuarios para Wikipedia?",
+	"research-incentive-description": "Rellene el formulario para inscribirse en nuestra lista de participantes. Nos comunicaremos con usted periódicamente para ofrecerle oportunidades de participar en estudios de investigación para Wikipedia. Puede darse de baja de la lista en cualquier momento.",
+	"research-incentive-link": "https://airtable.com/shrPH2InVb6NPMZat",
+	"research-incentive-privacy": "Consulte nuestra política de privacidad y obtenga más información sobre nuestro programa de investigación [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/es aquí].",
+	"research-incentive-confirm-msg": "¡Gracias!"
 }

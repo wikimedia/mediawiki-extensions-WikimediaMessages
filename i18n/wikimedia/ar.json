@@ -33,7 +33,8 @@
 			"ديفيد",
 			"زكريا",
 			"علاء",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"DDesouza"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -355,5 +356,10 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "نعم",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "لا",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "أنا لست متأكدًا",
-	"ext-quicksurveys-similareditors-survey-privacy-policy": "للمزيد من المعلومات، انظر إلى هذا الاستطلاع [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement privacy statement]."
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "للمزيد من المعلومات، انظر إلى هذا الاستطلاع [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement privacy statement].",
+	"research-incentive-message": "هل ترغب في المشاركة في دراسات ويكيبيديا مقابل مكافأة؟",
+	"research-incentive-description": "أكمل النموذج لتسجّل في قائمة المشتركين لدينا. سنتواصل معك بشكل دوري لإبلاغك بفرص المشاركة في الدراسات البحثية لويكيبيديا. يمكنك الانسحاب من القائمة في أي وقت.",
+	"research-incentive-link": "https://airtable.com/shrZDtCvzHlhfDnuN",
+	"research-incentive-privacy": "اطلع على سياسة الخصوصية الخاصة بنا وتعرف على المزيد حول برنامج البحث [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ar هنا]",
+	"research-incentive-confirm-msg": "شكرًا!"
 }
