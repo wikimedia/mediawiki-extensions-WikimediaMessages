@@ -1784,7 +1784,6 @@ class Hooks implements
 		// MediaWiki\IPInfo\HookHandler\InfoboxHandler
 		if (
 			!$permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
-			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-enable' ) ||
 			$isBetaFeaturesLoaded &&
 			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' )
 		) {
