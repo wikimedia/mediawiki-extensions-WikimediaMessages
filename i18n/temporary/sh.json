@@ -9,7 +9,10 @@
 	"wikimediamessages-desc": "Privremene poruke specifične za Wikimediju",
 	"grouppage-oversight": "{{ns:project}}:Revizori",
 	"group-oversight": "Revizori",
-	"group-oversight-member": "revizor",
+	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
 	"hello": "Pozdrav",
-	"specialblockfeedback": "Povratna informacija"
+	"please-translate": "Pomozite pri prevođenju na Vaš jezik",
+	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
+	"specialblockfeedback": "Povratna informacija",
+	"specialinvestigate-feedback": "Napišite povratnu informaciju"
 }
