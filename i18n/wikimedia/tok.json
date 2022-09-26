@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Robin van der Vliet",
-			"שוקו מוקה"
+			"שוקו מוקה",
+			"LesVisages"
 		]
 	},
 	"sitesupport": "o pana e mani",
@@ -12,5 +13,6 @@
 	"wikibase-otherprojects-wikipedia": "Wikipesija",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikitata",
 	"wikimedia-developers": "jan pi pali ilo",
-	"interlanguage-link-wikipedia": "Wikipesija"
+	"interlanguage-link-wikipedia": "Wikipesija",
+	"wikimedia-statslink": "nanpa"
 }
