@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Abbas dhothar",
-			"Khalid Mahmood"
+			"Khalid Mahmood",
+			"Bgo eiu"
 		]
 	},
 	"wm-license-attribution-with-author-text": "ایس فائل دے کاپی حق رکھن والا $1 ہر اک نوں اجازت دیندا اے  جے اوہ اینوں ورتے کسے وی کم ل‏ئ پر پر کاپی حق رکھن والے دا ناں لازمی دسے۔",
@@ -55,7 +56,7 @@
 	"wm-license-information-description": "تفصیل",
 	"wm-license-information-description-missing": "ایس فائل  ایدے بارے کوئی جانکاری نئیں دتی گئی تے لکدا اے جے ہور دساں وی پوریاں نئیں۔",
 	"wm-license-information-description-missing-request": "مہربنی کرکے ایس فائل بارے ٹھیک تے سمج چ آن والی جانکاری دیو۔",
-	"wm-license-information-source": "ذریعہ",
+	"wm-license-information-source": "سروت",
 	"wm-license-information-source-missing": "اس فائل چ اس دے '''لکھاری''' دے بارے چ نئیں دسیا۔",
 	"wm-license-information-source-missing-request": "مہربانی کر کے اس فائل دے صفحے دی گل بات چ اس دے وارے چ لکھ دیو تے اے لکھو کے کدروں آئی اے۔",
 	"wm-license-information-date": "تریخ",
@@ -68,7 +69,7 @@
 	"wm-license-lgpl-text": "ایہ لائیبریری اک [[{{int:wm-license-free-software-wiki-link}}|مفت سوفٹویر]] اے۔ تسیں اینوں فیر ونڈ سکدے اویا بدل سکدے او ایناں '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' نال جیہڑیاں اینح چھپیاں [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] نیں یا 2۔1 ورین لسنس دا یا تواڈی مرضی تے کوئی فیر دا ورین۔ ایہ لائیبریری ایس آس تے ونڈی جارئی اے جے ایہ فیدےمند ہووےگی پر ایدی کوئی وارنٹی نئیں۔ ویکھو [{{int:wm-license-lgpl-2.1-full-link}} version 2.1] and [{{int:wm-license-lgpl-3-full-link}} version 3 of the GNU Lesser General Public License] ہور کلاں لئی۔",
 	"wm-license-licensing-update-text": "اس لائسنس دا ٹیگ GFDL دے مطابق اس فائل چ پایا گیا اے [[{{int:wm-license-licensing-update-wiki-link}}|licensing update]]۔",
 	"wm-license-original-upload-log": "پہلا اپلوڈ دا ریکارڈ",
-	"wm-license-own-work": "اپنا کم",
+	"wm-license-own-work": "اپݨا کم",
 	"wm-license-pd-author-self-text": "میں، اس کم دے کاپیرائٹ دا مالک، اس کم نوں '''[[{{int:wm-license-pd-wiki-link}}|لوکاں واسطے]]''' دیندا واں۔ اے سارے جگ واسطے لاگو اے۔",
 	"wm-license-pd-author-with-author-text": "اس کم نوں '''[[{{int:wm-license-pd-wiki-link}}|لوکاں لئی]]''' ایدے لکھاری'''$1''' نے دے دتا اے، اے سارے جگ واسطے لاگو اے۔",
 	"wm-license-pd-author-not-legally-possible": "کج ملکاں چ قانونی طور تے اے ممکن نئیں اے؛ اگر انج ای اے ے:",

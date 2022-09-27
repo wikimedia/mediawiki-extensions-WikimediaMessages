@@ -33,7 +33,8 @@
 			"Vitorvicentevalente",
 			"Waldir",
 			"Yanguas",
-			555
+			555,
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -218,6 +219,9 @@
 	"group-translationadmin": "Administradores de traduções",
 	"group-translationadmin-member": "{{GENDER:$1|administrador|administradora}} de traduções",
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de traduções",
+	"group-vrt-permissions": "Agentes de permissões da VRT",
+	"group-vrt-permissions-member": "agente de permissões da VRT{{GENDER:$1|}}",
+	"grouppage-vrt-permissions": "{{ns:project}}:Agentes de permissões da VRT",
 	"group-wmf-officeit": "Informáticos do escritório da WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1|informático|informática}} do escritório da WMF",
 	"group-wmf-researcher": "Investigadores da WMF",
@@ -277,6 +281,7 @@
 	"wikimedia-globalblocking-ipblocked-range": "'''O seu endereço IP pertence a uma gama que foi [[m:Special:MyLanguage/Global blocks|bloqueada em todas as wikis da Wikimedia Foundation]].'''\n\nO bloqueio foi efetuado por $1 ($2). \nO motivo apresentado foi ''$3''. \n\n* Início do bloqueio: $4 \n* Expiração do bloqueio: $5 \n\nO seu endereço IP atual é $6 e a gama de IP bloqueada é $7. \nInclua todos os detalhes acima em quaisquer mensagens que nos enviar, por favor.\n\nSe acredita que foi bloqueado por engano, pode encontrar informações adicionais e instruções na política global sobre a [[m:Special:MyLanguage/No open proxies|proibição de ''proxies'' abertos]]. \nCaso contrário, para discutir o bloqueio [[m:Steward requests/Global|abra um pedido para revisão no Meta-Wiki]] ou envie uma mensagem por correio eletrónico para a fila [[m:Special:MyLanguage/OTRS|OTRS]] dos [[m:Special:MyLanguage/Stewards|stewards]] em <kbd>stewards@wikimedia.org</kbd> incluindo todos os detalhes acima.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Um servidor ''proxy'', ou mais, usado a seu pedido foi [[m:Special:MyLanguage/Global blocks|bloqueado globalmente]].'''\n\nO bloqueio foi efetuado por $1 ($2). \nA razão dada foi a seguinte: '''$3'''. \n\n* Início do bloqueio: $4 \n* Expira a : $5 \n\nO endereço de ''proxy'' bloqueado foi $6. \nInclua todos os detalhes acima em quaisquer mensagens que nos envie, por favor.\n\nSe acredita que foi bloqueado por engano, pode encontrar informações adicionais e instruções na política global sobre a [[m:Special:MyLanguage/No open proxies|proibição de ''proxies'' abertos]]. \nCaso contrário, para discutir o bloqueio, [[m:Steward requests/Global|abra um pedido para revisão no Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "O seu endereço IP, <strong>$1</strong>, foi identificado automaticamente como um nó de saída do Tor.\nPara informação adicional e instruções para utilizadores legítimos, consulte a norma global [[m:Special:MyLanguage/No open proxies|Proxies abertos são proibidos]].",
+	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de Privacidade]",
 	"grant-checkuser": "Aceder a dados de verificação de utilizadores",
 	"upload-form-label-own-work-message-commons": "Confirmo que sou o proprietário dos direitos de autor deste ficheiro, e aceito publicar irrevogavelmente este ficheiro na wiki Wikimedia Commons com a licença [https://creativecommons.org/licenses/by-sa/4.0/deed.pt Creative Commons Atribuição-CompartilhaIgual 4.0], e concordo com as [https://foundation.wikimedia.org/wiki/Terms_of_Use Condições de Uso].",
 	"upload-form-label-not-own-work-message-commons": "Se não é o proprietário dos direitos de autor deste ficheiro, ou deseja publicá-lo com uma licença diferente, considere utilizar o [https://commons.wikimedia.org/wiki/Special:UploadWizard Assistente de Envio de Ficheiros da wiki Commons].",
@@ -350,6 +355,10 @@
 	"restriction-level-editautopatrolprotected": "protegida para autopatrulhadores",
 	"right-editautopatrolprotected": "Editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "editar páginas protegidas com \"{{int:protect-level-editautopatrolprotected}}\"",
+	"protect-level-edittrustedprotected": "Permitir apenas utilizadores de confiança",
+	"restriction-level-edittrustedprotected": "editável por utilizadores de confiança",
+	"right-edittrustedprotected": "Editar páginas protegidas com \"{{int:protect-level-edittrustedprotected}}\"",
+	"action-edittrustedprotected": "editar páginas protegidas com \"{{int:protect-level-edittrustedprotected}}\"",
 	"group-docseditor": "Editores de documentação",
 	"group-docseditor-member": "{{GENDER:$1|editor de documentação|editora de documentação}}",
 	"action-docseditor": "editar documentação",
