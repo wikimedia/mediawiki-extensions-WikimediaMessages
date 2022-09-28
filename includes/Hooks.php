@@ -1714,15 +1714,13 @@ class Hooks implements
 	}
 
 	/**
-	 * Hook handler.
-	 *
 	 * - Prepare guided tours relevant to ChangesListSpecialPage.
 	 *   In MediaWiki core: RecentChanges, RecentChangesLinked, and Watchlist (depending
 	 *   on the current user's preferences).
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ChangesListSpecialPageStructuredFilters
 	 *
-	 * @param ChangesListSpecialPage $special Special page
+	 * @param ChangesListSpecialPage $special
 	 */
 	public function onChangesListSpecialPageStructuredFilters( $special ) {
 		if ( !$this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
@@ -1895,8 +1893,8 @@ class Hooks implements
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetPreferences
 	 *
-	 * @param User $user User object
-	 * @param array &$preferences Preferences object
+	 * @param User $user
+	 * @param array &$preferences
 	 */
 	public function onGetPreferences( $user, &$preferences ) {
 		$preferences['rcenhancedfilters-seen-tour'] = [
