@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChoiChong"
+			"ChoiChong",
+			"Kahin He"
 		]
 	},
-	"wm-license-cc-free": "汝可以自由:"
+	"wm-license-cc-free": "汝可以自由:",
+	"wm-license-cc-free-to-share-header": "分享"
 }

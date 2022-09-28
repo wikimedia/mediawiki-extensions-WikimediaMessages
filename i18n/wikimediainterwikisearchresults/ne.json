@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"हिमाल सुबेदी"
+			"हिमाल सुबेदी",
+			"बडा काजी"
 		]
 	},
-	"search-interwiki-results-maiwiki": "[[:mai:|मैथिली विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै",
-	"search-interwiki-results-newiki": "[[:ne:|नेपाली विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै"
+	"search-interwiki-results-abwiki": "[[:ab:|अब्खाज विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-acewiki": "[[:ace:|अचीनी विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-adywiki": "[[:ady:|अदिघे विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-afwiki": "[[:af:|अफ्रिकान्स विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-akwiki": "[[:ak:|अकान विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-alswiki": "[[:als:|एलेमानिक विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-altwiki": "[[:alt:|अल्ताई विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-amiwiki": "[[:ami:|अमिस विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-maiwiki": "[[:mai:|मैथिली विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।",
+	"search-interwiki-results-newiki": "[[:ne:|नेपाली विकिपिडिया]]बाट नतिजाहरू प्रदर्शन गर्दै।"
 }

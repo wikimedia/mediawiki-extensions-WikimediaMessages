@@ -40,5 +40,5 @@
 	"wikimedia-webauthn-module-description": "O WebAuthn (Web Authentication, autenticação na internet) é um padrão da internet publicado pelo consórcio World Wide Web Consortium (W3C). O WebAuthn é um componente central do Projeto FIDO2, sob orientação da Aliança FIDO. O objetivo do projeto é padronizar uma interface para a autenticação de utilizadores em aplicações e serviços baseados na internet usando criptografia de chave pública. [https://en.wikipedia.org/wiki/WebAuthn Ler mais]. Note, por favor, que terá de iniciar uma sessão na mesma wiki onde registou originalmente o seu dispositivo de verificação.",
 	"wikimedia-webauthn-ui-login-prompt": "Toque, por favor, no dispositivo de verificação ou siga as instruções do browser. Note que terá de iniciar uma sessão na mesma wiki onde registou originalmente o seu dispositivo de verificação.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Política de privacidade]",
-	"wikimedia-notification-body-oathauth-disable-other": "Se não pediu isto deve contactar a equipa de \"Confiança e segurança\" da WMF (WMF Trust & Safety){{GENDER:$2|you}}"
+	"wikimedia-notification-body-oathauth-disable-other": "Se não pediu isto deve contactar a equipa de \"Confiança e segurança\" da WMF (WMF Trust & Safety).{{GENDER:$2|}}"
 }
