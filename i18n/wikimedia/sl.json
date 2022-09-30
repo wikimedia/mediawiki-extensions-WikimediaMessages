@@ -93,7 +93,7 @@
 	"group-rollbacker": "Vračalci urejanj",
 	"group-rollbacker-member": "{{GENDER:$1|vračalec|vračalka}} urejanj",
 	"grouppage-rollbacker": "{{ns:project}}:Vračalci urejanj",
-	"group-transwiki": "Transwiki uvozniki",
+	"group-transwiki": "Transviki uvozniki",
 	"group-transwiki-member": "transwiki {{GENDER:$1|uvoznik|uvoznica}}",
 	"grouppage-transwiki": "{{ns:project}}:Transwiki uvozniki",
 	"group-templateeditor": "Urejevalci predlog",
