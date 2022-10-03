@@ -158,6 +158,7 @@
 	"wikibase-otherprojects-commons": "Commons",
 	"wikibase-otherprojects-testwikidata": "Vikiandmed",
 	"wikibase-otherprojects-meta": "Metaviki",
+	"wikibase-otherprojects-sources": "Mitmekeelsed Vikitekstid",
 	"wikibase-otherprojects-wikibooks": "Vikiõpikud",
 	"wikibase-otherprojects-wikidata": "Vikiandmed",
 	"wikibase-otherprojects-wikinews": "Vikiuudised",
@@ -168,6 +169,7 @@
 	"wikibase-otherprojects-wikivoyage": "Vikireisid",
 	"wikibase-otherprojects-wiktionary": "Vikisõnastik",
 	"wikibase-sitelinks-sitename-metawiki": "Metaviki",
+	"wikibase-sitelinks-sitename-sourceswiki": "Mitmekeelsed Vikitekstid",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiandmed",
 	"cant-delete-main-page": "Sa ei saa esilehte kustutada ega teisaldada.",
 	"wikimedia-translationnotifications-signup-legal": "Nõustud, et nende andmete Wikimedia Foundationile saatmise järel võime sinuga ühendust võtta seoses tõlgetega või muusse Wikimedia liikumisse puutuvaga, mis meie arvates sulle huvi võib pakkuda. Nõustud, et sinu andmeid tohib Ameerika Ühendriikides alles hoida ja et neid kasutatakse vastavalt meie [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy andmekaitsereeglitele].",
@@ -248,5 +250,6 @@
 	"right-edit-legal": "Muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
 	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
 	"ipinfo-feedback-button-label": "Jäta tagasisidet",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Jah"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Jah",
+	"ipinfo-global-contributions-url-label": "Globaalne kaastöö"
 }

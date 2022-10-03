@@ -7,6 +7,7 @@
 	},
 	"sitesupport": "提供",
 	"wikimedia-copyright": "者个网站兮全部文字内容都是用<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">CC BY-SA 3.0</a>保护兮；附加兮条款可能亦起作用。更多信息请看<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">使用条款</a>。",
+	"wikimedia-copyrightwarning": "保存改變就說明汝同意[https://foundation.wikimedia.org/wiki/Terms_of_Use/cpx 使用條款]，複袂撤銷兮同意使用[https://cpx.wikipedia.org/wiki/Wikipedia:CC_BY-SA_3.0協機文本 CC BY-SA 3.0許可協機]合[https://cpx.wikipedia.org/wiki/Wikipedia:GNU自由文檔許可證文本 GFDL]去發表汝貢獻兮內容。者亦說明汝同意佇知識共享許可協機下，用標註超鏈接或者URL兮方式署名是盡篤合理兮。",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|歡迎}}, $1!",
 	"wikibase-sitelinks-wikinews": "维基新闻",
 	"wikibase-sitelinks-wikiquote": "维基语录",
