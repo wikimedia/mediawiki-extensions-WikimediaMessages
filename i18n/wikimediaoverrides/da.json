@@ -4,10 +4,12 @@
 			"HenrikKbh",
 			"MuratTheTurkish",
 			"Nemo bis",
-			"Weblars"
+			"Weblars",
+			"Dipsacus fullonum"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Du kan besøge din indstillingsside på [[m:Special:CentralAuth/$1|andre Wikimedia-projekter du har bidraget til]] for at downloade dine kontodata fra disse projekter.",
 	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"createacct-helpusername-url": "{{ns:Project}}:Brugernavnsregler",

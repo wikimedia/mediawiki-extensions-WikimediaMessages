@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"ChoiChong"
+			"ChoiChong",
+			"Kahin He"
 		]
 	},
 	"wm-license-information-description": "描述",
+	"wm-license-information-source": "代码",
 	"wm-license-information-date": "日期",
 	"wm-license-information-author": "作者",
+	"wm-license-information-permission": "授權許可",
+	"wm-license-information-permission-reusing-text": "重用者個文件",
 	"wm-license-own-work": "我兮作品"
 }

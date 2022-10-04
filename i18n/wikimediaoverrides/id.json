@@ -8,14 +8,15 @@
 			"Iwan Novirion",
 			"Kenrick95",
 			"Mnam23",
-			"Nemo bis"
+			"Nemo bis",
+			"Veracious"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Pengunjung wiki ini telah membuat {{PLURAL:$1|1 akun|$1 akun}} menggunakan alamat IP Anda selama 24 jam terakhir, yang merupakan banyak pembuatan maksimum yang diperbolehkan selama periode waktu ini. Akibatnya, pengunjung yang menggunakan alamat IP ini tidak bisa membuat lebih banyak akun pada saat ini.\n\nJika Anda berada di acara yang berfokus pada berkontribusi ke proyek Wikimedia, tolong lihat [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Meminta penangguhan sementara batas IP]] untuk membantu menyelesaikan masalah ini.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|('''baca kebijakan nama pengguna''' untuk menghindari pembuatan nama terlarang)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Anda bisa mengunjungi halaman Preferensi Anda pada [[m:Special:CentralAuth/$1|proyek Wikimedia lain dimana Anda pernah berkontribusi]] untuk mengunduh data akun Anda dari proyek-proyek tersebut.",
 	"wikimedia-createacct-imgcaptcha-help": "Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]",
-	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
+	"wikimedia-centralauth-groupname": "Yayasan Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>Akun ini [[m:Special:MyLanguage/Global locks|diblokir secara global]].</strong> {{GENDER:$1|Anda}} tidak akan bisa masuk log ke wiki Wikimedia mana pun. Tolong [[m:Special:Contact/stewards|hubungi steward]] apabila {{GENDER:$1|Anda}} punya pertanyaan.",
 	"wikimedia-centralauth-uwbr-intro": "Halaman ini berisikan daftar pengguna yang mendaftar dengan wiki ini yang akan diubah namanya dikarenakan [[m:Single User Login finalisation announcement|finalisasi log masuk pengguna tunggal]]. Informasi lebih lanjut ada di [[m:Help:Unified login|penyatuan log masuk]]. Pengguna bisa meminta perubahan nama kapan saja menggunakan [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",

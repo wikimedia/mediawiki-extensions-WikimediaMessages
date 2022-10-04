@@ -65,5 +65,14 @@
 	"contactpage-movecom-signup-display-name": "Nome",
 	"contactpage-movecom-signup-display-username": "Nome de utilizador",
 	"contactpage-movecom-signup-display-nameusername": "Nome e nome de utilizador",
-	"contactpage-movecom-signup-terms-label": "Li a descrição do [[Movement communications group|grupo de comunicações do movimento]] e concordo em comportar-me de acordo com as [[Foundation:Friendly space policy|normas para espaços amistosos da Wikimedia Foundation]] durante a minha participação neste grupo. Entendo que o não cumprimento destas normas resultará na remoção do grupo."
+	"contactpage-movecom-signup-terms-label": "Li a descrição do [[Movement communications group|grupo de comunicações do movimento]] e concordo em comportar-me de acordo com as [[Foundation:Friendly space policy|normas para espaços amistosos da Wikimedia Foundation]] durante a minha participação neste grupo. Entendo que o não cumprimento destas normas resultará na remoção do grupo.",
+	"contactpage-title-ombudscommission": "Entre em contacto com o Comité de Provedorias",
+	"contactpage-ombudscommission-case-explanation": "Explique o que aconteceu:",
+	"contactpage-ombudscommission-relevant-links": "Forneça os URL para as operações ou páginas da wiki:",
+	"contactpage-ombudscommission-violation-type": "De forma sucinta, explique que regra da wiki foi violada:",
+	"contactpage-ombudscommission-involved-users": "De quais utilizadores está a reclamar? Forneça os respetivos nomes de utilizador na wiki:",
+	"contactpage-ombudscommission-affected-accounts": "Que contas são afetadas por esta reclamação? Se mais ninguém além de si foi afetado, pode saltar este campo.",
+	"contactpage-ombudscommission-proposed-solution": "Que solução proporia? Quais são as suas expectativas do comité?",
+	"contactpage-ombudscommission-additional-information": "Acrescente qualquer outra informação que acredita ser relevante para compreender este caso.",
+	"contactpage-ombudscommission-disclaimer-label": "Exoneração de responsabilidade: todas as informações que incluir neste formulário são enviadas, processadas e respondidas por membros voluntários da comunidade (especificamente, por membros do [[Special:MyLanguage/Ombuds commission|Comité de Provedores]]), não pela Wikimedia Foundation. Não inclua nenhuma informação que não possa ser partilhada com os voluntários da Wikimedia, por favor. As respostas e qualquer outra correspondência relacionada com o processamento da informação enviada não são consideradas declarações oficiais da Wikimedia Foundation. Para correspondência oficial, contacte a Wikimedia Foundation empregando um dos métodos listados em https://wikimediafoundation.org/about/contact/, por favor."
 }
