@@ -117,6 +117,7 @@
 	"group-global-interface-editor-member": "{{GENDER:$1|globalni urejevalec vmesnika|globalna urejevalka vmesnika|globalni/a urejevalec/ka vmesnika}}",
 	"group-global-rollbacker": "Globalni vračalci urejanj",
 	"group-global-rollbacker-member": "{{GENDER:$1|globalni vračalec|globalna vračalka}} urejanj",
+	"grouppage-global-rollbacker": "m:Global rollback",
 	"group-global-sysop": "Globalni administratorji",
 	"group-global-sysop-member": "{{GENDER:$1|globalni administrator|globalna administratorka}}",
 	"group-new-wikis-importer": "Uvozniki novih vikijev",
