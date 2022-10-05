@@ -5,6 +5,16 @@
 			"Kahin He"
 		]
 	},
+	"wm-license-cc-attribution": "署名",
+	"wm-license-cc-by-sa-3.0-text": "者蜀個文件使用[[{{int:wm-license-cc-wiki-link}}|知識共享]][https://creativecommons.org/licenses/by-sa/3.0/deed.zh 署名-相同方式共享 3.0 未本地化版本]許可協機授權。",
 	"wm-license-cc-free": "汝可以自由:",
-	"wm-license-cc-free-to-share-header": "分享"
+	"wm-license-cc-free-to-share-header": "分享",
+	"wm-license-cc-free-to-share-text": "复制、发布合传播者项作品",
+	"wm-license-cc-free-to-remix-header": "重新修改",
+	"wm-license-cc-free-to-remix-text": "改编者项作品",
+	"wm-license-cc-conditions": "必須遵守以下條件：",
+	"wm-license-cc-conditions-attribution-header": "署名",
+	"wm-license-cc-conditions-attribution-text": "汝着乞作品署名，提供授權條款兮鏈接，合說明汝有修改原來兮內容無。汝可以用任何合理兮方式去署名，但是不可以用任何方式表明許可人認可汝或者汝兮使用。",
+	"wm-license-cc-conditions-share_alike-header": "相同方式分享",
+	"wm-license-cc-conditions-share_alike-text": "那卜汝對者個素材進行再混合、轉換或者用者個素材進行創作，汝必須用合原來兮許可協機[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses 相同或者相兼容兮許可協機]來發佈汝供獻兮作品。"
 }

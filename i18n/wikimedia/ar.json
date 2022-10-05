@@ -31,7 +31,11 @@
 			"علاء",
 			"محمد أحمد عبد الفتاح",
 			"FiberAhmed",
-			"أَحمد"
+			"أَحمد",
+			"Asma",
+			"DDesouza",
+			"Shbib Al-Subaie",
+			"Vlad5250"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -338,6 +342,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين",
 	"querypage-updates-half-monthly": "يتم تشغيل تحديثات هذه الصفحة مرتين في الشهر.",
 	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر.",
+	"protect-level-editautoreviewprotected": "السماح للمستخدمين المراجعين تلقائيا فقط",
 	"restriction-level-editautoreviewprotected": "حماية جزئية - السماح للمراجعين تلقائيًا",
 	"right-editautoreviewprotected": "تعديل الصفحات المحمية على مستوى \"{{int:protect-level-editautoreviewprotected}}\"",
 	"action-editautoreviewprotected": "تعديل الصفحات المحمية على مستوى \"{{int:protect-level-editautoreviewprotected}}\"",

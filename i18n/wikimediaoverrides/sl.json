@@ -5,7 +5,7 @@
 			"Eleassar"
 		]
 	},
-	"wikimedia-prefs-user-downloaddata-help-message": "Obiščete lahko stran za nastavitve v [[m:Special:CentralAuth/$1|drugih projektih Wikimedije, v katerih ste prispevali]], da iz teh projektov prenesete podatke o svojem računu.",
+	"wikimedia-prefs-user-downloaddata-help-message": "Obiščete lahko stran za nastavitve v [[m:Special:CentralAuth/$1|drugih projektih Wikimedie, v katerih ste prispevali]], da iz teh projektov prenesete podatke o svojem računu.",
 	"wikimedia-centralauth-groupname": "Wikimedie",
 	"createacct-helpusername-url": "{{ns:Project}}:Pravilnik_o_uporabniških_imenih",
 	"wikimedia-discussiontools-replywidget-terms-click": "S klikom možnosti »$1« privoljujete v naše [https://foundation.wikimedia.org/wiki/Terms_of_Use pogoje uporabe] in se strinjate z nepreklicno objavo svojega besedila pod pogoji {{PLURAL:$3|licence|licenc}} $2.",
@@ -17,7 +17,7 @@
 	"wikimedia-flow-terms-of-use-lock-topic": "S klikom možnosti »{{int:flow-topic-action-lock-topic}}« privoljujete v naše [https://foundation.wikimedia.org/wiki/Terms_of_Use pogoje uporabe] in se strinjate z nepreklicno objavo svojega besedila pod pogoji {{PLURAL:$2|licence|licenc}} $1.",
 	"wikimedia-flow-terms-of-use-unlock-topic": "S klikom možnosti »{{int:flow-topic-unlock-topic}}« privoljujete v naše [https://foundation.wikimedia.org/wiki/Terms_of_Use pogoje uporabe] in se strinjate z nepreklicno objavo svojega besedila pod pogoji {{PLURAL:$2|licence|licenc}} $1.",
 	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletnega mesta je omejeno na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
-	"wikimedia-sitematrix": "Seznam Wikimedijinih wikijev",
-	"wikimedia-sitematrix-others": "Drugi projekti Wikimedije",
-	"wikimedia-sitematrix-summary": "Ta posebna stran navaja vse Wikimedijine wikije."
+	"wikimedia-sitematrix": "Seznam vikijev Wikimedie",
+	"wikimedia-sitematrix-others": "Drugi projekti Wikimedie",
+	"wikimedia-sitematrix-summary": "Na tej posebni strani so navedeni vsi vikiji Wikimedie."
 }
