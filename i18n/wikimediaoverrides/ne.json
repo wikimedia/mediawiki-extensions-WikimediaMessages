@@ -7,10 +7,12 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(छान्नमा मलाई सहयाेग गर्नुहाेस्)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "तपाईंले ती परियोजनाहरूबाट आफ्नो खाता डाटा डाउनलोड गर्नका लागि [[m:Special:CentralAuth/$1|योगदान गर्नुभएको अन्य विकिमिडिया परियोजनाहरूमा]] आफ्नो प्राथमिकता पृष्ठमा जान सक्नुहुन्छ।",
 	"wikimedia-createacct-imgcaptcha-help": "तस्वीर देख्न कठिन भइरहेकाे छ? [[{{MediaWiki:createacct-captcha-help-url}}|खाता अनुराेध गर्नुहाेस्]]",
 	"wikimedia-centralauth-groupname": "विकिमिडिया फाउन्डेसन",
 	"createacct-helpusername-url": "{{ns:Project}}:प्रयोगकर्ता नाम नीति",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\"मा क्लिक गरेर, तपाईं हाम्रो [https://foundation.wikimedia.org/wiki/Terms_of_Use प्रयोगका सर्तहरूसँग] सहमत हुनुहुन्छ र $2 {{PLURAL:$3|अन्तर्गत}} तपाईंको पाठ अपरिवर्तनीय रूपमा जारी गर्न सहमत हुनुहुन्छ।",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\"मा क्लिक गरेर, तपाइँले हाम्रो [https://foundation.wikimedia.org/wiki/Terms_of_Use उपयोग सर्तहरू]मा सहमत हुनुहुन्छ र तपाइँको योगदानहरू $1 {{PLURAL:$2|अन्तर्गत}} रूपमा जारी गर्न सहमत हुनुहुन्छ।",
-	"wikimedia-sitematrix-others": "अन्य विकिमिडिया परियोजनाहरू"
+	"wikimedia-sitematrix-others": "अन्य विकिमिडिया परियोजनाहरू",
+	"wikimedia-ipinfo-preference-use-agreement": "विकिमिडिया फाउन्डेसन वा सामुदायिक नीतिहरूको भण्डाफोर, दुर्व्यवहार, वा अन्य उल्लङ्घनहरूको अनुसन्धान वा रोकथामको लागि मात्र [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines आईपी सूचना उपकरण] दिशानिर्देशहरू अनुसार यो उपकरण प्रयोग गर्न म सहमत छु।"
 }

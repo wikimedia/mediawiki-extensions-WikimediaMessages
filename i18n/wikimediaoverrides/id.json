@@ -16,7 +16,7 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|('''baca kebijakan nama pengguna''' untuk menghindari pembuatan nama terlarang)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Anda bisa mengunjungi halaman Preferensi Anda pada [[m:Special:CentralAuth/$1|proyek Wikimedia lain dimana Anda pernah berkontribusi]] untuk mengunduh data akun Anda dari proyek-proyek tersebut.",
 	"wikimedia-createacct-imgcaptcha-help": "Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]",
-	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
+	"wikimedia-centralauth-groupname": "Yayasan Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>Akun ini [[m:Special:MyLanguage/Global locks|diblokir secara global]].</strong> {{GENDER:$1|Anda}} tidak akan bisa masuk log ke wiki Wikimedia mana pun. Tolong [[m:Special:Contact/stewards|hubungi steward]] apabila {{GENDER:$1|Anda}} punya pertanyaan.",
 	"createacct-helpusername-url": "{{ns:Project}}:Kebijakan_nama_pengguna",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 kontribusi global] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} periksa] • [{{fullurl:Special:Block/$1}} Blokir lokal] atau [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 Blokir global] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 periksa indikator proksi] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
@@ -46,5 +46,6 @@
 	"wikimedia-webauthn-ui-login-prompt": "Tolong sentuh perangkat verifikasi Anda atau ikuti instruksi dari peramban. Tolong perhatikan bahwa Anda akan perlu masuk log ke wiki yang sama dengan tempat Anda awalnya mendaftarkan perangkat verifikasi Anda.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Kebijakan Privasi]",
 	"wikimedia-notification-body-oathauth-disable-other": "Jika {{GENDER:$2|Anda}} tidak meminta ini, {{GENDER:$2|Anda}} sebaiknya menghubungi WMF Trust & Safety.",
+	"wikimedia-ipinfo-source-geoip2": "Penggunaan alat ini oleh Anda telah diatur menurut [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pedoman alat Informasi IP].",
 	"wikimedia-similareditors-error-default": "Ada yang tidak beres, kami sedang menyelidikinya. Jika masalah berlanjut, hubungi kami [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors di sini]."
 }
