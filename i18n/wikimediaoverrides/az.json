@@ -12,5 +12,6 @@
 	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
 	"wikimedia-centralauth-groupname": "Vikimediya Fondu",
 	"createacct-helpusername-url": "{{ns:Project}}:İstifadəçi_adları",
-	"wikimedia-interfaceadmin-info": "Sayt daxilində CSS/JS/JSON fayllarını yalnız [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] qrupunun üzvləri redaktə edə bilərlər."
+	"wikimedia-interfaceadmin-info": "Sayt daxilində CSS/JS/JSON fayllarını yalnız [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] qrupunun üzvləri redaktə edə bilərlər.",
+	"wikimedia-ipinfo-preference-use-agreement": "Mən bu alətdən [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP-ünvanı məlumatı aləti təlimatlarına uyğun olaraq] yalnız vandalizm, sui-istifadə, eləcə də Vikimedia Fondunun və ya icma siyasətlərinin digər pozuntularının araşdırılması və ya qarşısının alınması üçün istifadə etməyə razıyam."
 }

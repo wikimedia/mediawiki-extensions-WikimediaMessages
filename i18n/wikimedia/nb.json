@@ -162,7 +162,7 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|global IP-blokk unntatt}}",
 	"group-global-interface-editor": "Globale grensesnittredigerere",
 	"group-global-interface-editor-member": "{{GENDER:$1|global grensesnittredigerer}}",
-	"group-global-renamer": "Globale navneendrere",
+	"group-global-renamer": "Globale omdøpere",
 	"group-global-renamer-member": "{{GENDER:$1|globale navneendrer}}",
 	"grouppage-global-renamer": "m:Globale navneendrere",
 	"group-global-rollbacker": "Globale tilbakestillere",
