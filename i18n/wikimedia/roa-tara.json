@@ -4,7 +4,8 @@
 			"Joetaras",
 			"Matma Rex",
 			"Nemo bis",
-			"Reder"
+			"Reder",
+			"S4b1nuz E.656"
 		]
 	},
 	"wikimediamessages-desc": "Messàgge specifiche de Uicchimedie",
@@ -95,8 +96,8 @@
 	"group-interface-editor": "Cangiature de inderfacce",
 	"group-interface-editor-member": "{{GENDER:$1|cangiatore de inderfacce}}",
 	"grouppage-interface-editor": "{{ns:project}}:Cangiature de l'inderfacce",
-	"group-ipblock-exempt": "IP escluse da 'u blocche",
-	"group-ipblock-exempt-member": "{{GENDER:$1|IP senza blocche}}",
+	"group-ipblock-exempt": "Escluse da 'u blocche IP",
+	"group-ipblock-exempt-member": "{{GENDER:$1|Escluse da 'u blocche IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP senza blocche",
 	"group-noratelimit": "Cunde senza limite",
 	"group-noratelimit-member": "{{GENDER:$1|cunde senza limite}}",
