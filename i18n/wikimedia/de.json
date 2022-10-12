@@ -31,7 +31,9 @@
 			"ToBeFree",
 			"Umherirrender",
 			"Vogone",
-			"Απεργός"
+			"Απεργός",
+			"Brettchenweber",
+			"Lucas Werkmeister"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -226,7 +228,7 @@
 	"wikimedia-copyrightwarning": "Mit dem Speichern von Änderungen erklärst du dich mit den [https://foundation.wikimedia.org/wiki/Terms_of_Use/de Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Namensnennung – Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].\nDu stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung gemäß der ''Creative-Commons''-Lizenz ausreichend ist.",
 	"wikimedia-copyrightwarning-ccbysa30only": "Mit dem Speichern von Änderungen erklärst du dich mit den [https://foundation.wikimedia.org/wiki/Terms_of_Use/de Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Namensnennung – Weitergabe unter gleichen Bedingungen 3.0“].\nDu stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung gemäß der Creative-Commons-Lizenz ausreichend ist.",
 	"wikimedia-license-links": "die [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Lizenz] und [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA 3.0] und [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.de CC BY-SA 3.0] und [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Willkommen}}, $1!",
 	"wikibase-page-schema-author-name": "Autoren der Wikimedia-Projekte",
 	"wikibase-statementsection-constraints": "Beschränkungen",

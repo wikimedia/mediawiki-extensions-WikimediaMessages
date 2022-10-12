@@ -6,7 +6,8 @@
 			"Joseph",
 			"Karduelis",
 			"MuratTheTurkish",
-			"Vito Genovese"
+			"Vito Genovese",
+			"ToprakM"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü geçici iletiler",
@@ -15,7 +16,7 @@
 	"group-oversight-member": "{{GENDER:$1|gözetmen}}",
 	"hello": "Merhaba",
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
-	"thank-you": "{{GENDER:$1|Teşekkür ederiz.}}",
+	"thank-you": "{{GENDER:$1|Teşekkürler.}}",
 	"specialblockfeedback": "Geri bildirim",
 	"specialinvestigate-feedback": "Geri Bildirim Bırak"
 }
