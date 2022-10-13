@@ -19,5 +19,6 @@
 	"wikimedia-interfaceadmin-info": "Urejanje datotek CSS/JS/JSON spletnega mesta je omejeno na člane skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
 	"wikimedia-sitematrix": "Seznam vikijev Wikimedie",
 	"wikimedia-sitematrix-others": "Drugi projekti Wikimedie",
-	"wikimedia-sitematrix-summary": "Na tej posebni strani so navedeni vsi vikiji Wikimedie."
+	"wikimedia-sitematrix-summary": "Na tej posebni strani so navedeni vsi vikiji Wikimedie.",
+	"wikimedia-ipinfo-preference-use-agreement": "Strinjam se, da bom to orodje uporabljal/a v skladu s [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Smernicami za orodje Podatki o IP-ju] zgolj za preiskavo ali preprečevanje vandalizma, zlorabe ali druge kršitve pravil fundacije Wikimedia ali pravil skupnosti."
 }

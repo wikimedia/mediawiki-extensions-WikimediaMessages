@@ -32,7 +32,8 @@
 			"ToBeFree",
 			"Umherirrender",
 			"Vogone",
-			"Απεργός"
+			"Απεργός",
+			"Lucas Werkmeister"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -230,7 +231,7 @@
 	"wikimedia-copyrightwarning": "Mit dem Speichern von Änderungen erklärst du dich mit den [https://foundation.wikimedia.org/wiki/Terms_of_Use/de Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Namensnennung – Weitergabe unter gleichen Bedingungen 3.0“] und der [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].\nDu stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung gemäß der ''Creative-Commons''-Lizenz ausreichend ist.",
 	"wikimedia-copyrightwarning-ccbysa30only": "Mit dem Speichern von Änderungen erklärst du dich mit den [https://foundation.wikimedia.org/wiki/Terms_of_Use/de Nutzungsbedingungen] einverstanden und lizenzierst deine Bearbeitung unwiderruflich unter der Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Namensnennung – Weitergabe unter gleichen Bedingungen 3.0“].\nDu stimmst zu, dass ein Hyperlink oder eine URL zur Seite für die notwendige Zuschreibung gemäß der Creative-Commons-Lizenz ausreichend ist.",
 	"wikimedia-license-links": "die [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Lizenz] und [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.de CC-BY-SA 3.0] und [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.de CC BY-SA 3.0] und [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikifunctions-site-footer-copyright": "Alle Funktionsdefinitionen, Bezeichnungen und Dokumentationen im Hauptnamensraum stehen unter der <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Lizenz Creative Commons CC0</a>. Alle Codefragmente und Implementierungen im Hauptnamensraum stehen unter der <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition der Apache 2.0 Lizenz\">Lizenz Apache 2.0</a>. Text in anderen Namensräumen steht unter der <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition der Lizenz Creative Commons Namensnennung/Weitergabe unter gleichen Bedingungen\">Lizenz Creative Commons Namensnennung/Weitergabe unter gleichen Bedingungen</a>; zusätzliche Bedingungen können gelten. Durch die Nutzung dieser Website erklärst du dich mit den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> und der <a href=\"//meta.wikimedia.org/wiki/Privacy_policy/de\">Datenschutzrichtlinie</a> einverstanden.",
 	"wikifunctions-edit-copyrightwarning-function": "Durch Klicken auf „Veröffentlichen“ stimmst du den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> zu und stimmst unwiderruflich der Freigabe deiner Beiträge unter der <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition der Creative Commons CC0-Lizenz\">Creative-Commons-CC0-Lizenz</a> zu.",
 	"wikifunctions-edit-copyrightwarning-implementation": "Durch Klicken auf „Veröffentlichen“ stimmst du den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> zu und stimmst unwiderruflich der Freigabe deiner Beiträge unter der <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition der Apache 2.0 Lizenz\">Apache-2.0-Lizenz</a> zu.",
