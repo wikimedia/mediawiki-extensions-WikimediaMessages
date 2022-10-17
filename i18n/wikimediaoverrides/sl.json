@@ -20,5 +20,6 @@
 	"wikimedia-sitematrix": "Seznam vikijev Wikimedie",
 	"wikimedia-sitematrix-others": "Drugi projekti Wikimedie",
 	"wikimedia-sitematrix-summary": "Na tej posebni strani so navedeni vsi vikiji Wikimedie.",
-	"wikimedia-ipinfo-preference-use-agreement": "Strinjam se, da bom to orodje uporabljal/a v skladu s [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Smernicami za orodje Podatki o IP-ju] zgolj za preiskavo ali preprečevanje vandalizma, zlorabe ali druge kršitve pravil fundacije Wikimedia ali pravil skupnosti."
+	"wikimedia-ipinfo-infobox-use-terms": "Orodje Podatki o IP-ju uporablja podatkovne zbirke MaxMind za prikaz podatkov, kot so približna lokacija, posredniški strežnik in število naprav, ki si delijo ta IP-naslov. Preden ga omogočite, preglejte [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines smernice za orodje Podatki o IP-ju].",
+	"wikimedia-ipinfo-preference-use-agreement": "Strinjam se, da bom to orodje uporabljal/a v skladu s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines Smernicami za orodje Podatki o IP-ju] zgolj za preiskavo ali preprečevanje vandalizma, zlorabe ali druge kršitve pravil fundacije Wikimedia ali pravil skupnosti."
 }

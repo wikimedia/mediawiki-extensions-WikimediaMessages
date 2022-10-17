@@ -1,8 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cakkaparla"
+			"Boke",
+			"Cakkaparla",
+			"Nay Thu Rin",
+			"Tejoebāsa"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "ထည့်ပနာတွက်ပါ"
+	"wm-license-cc-attribution": "ထည့်တွက်ပါ",
+	"wm-license-cc-by-sa-3.0-text": "ဒေဖိုင်ကို [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en ရည်ညွှန်းချက်-  Alike 3.0 Unported] လိုင်စင်ကို မျှဝီပါ။",
+	"wm-license-cc-free": "မင်းကအလားကားဖြစ်ရေ",
+	"wm-license-cc-free-to-share-header": "မျှ၀ီကတ်ပါ",
+	"wm-license-cc-free-to-share-text": "အလုပ်ကိုကူးယူဖြန့်၀ီစွာနန့်ပီးပို့ပါရေ",
+	"wm-license-cc-free-to-remix-header": "remixလုပ်ကတ်ပါဖို့",
+	"wm-license-cc-free-to-remix-text": "လိုက်လျောတူညီအောင်လုပ်ကတ်ပါ",
+	"wm-license-cc-conditions": "အောက်ပါအခြီအနီအများကြီးအောက်တွင်",
+	"wm-license-cc-conditions-attribution-header": "ထည့်ပနာတွက်ပါ",
+	"wm-license-cc-conditions-attribution-text": "သင်သည် သင့်လျော်သော ခရက်ဒစ်ကို ပီးရဖို့၊ လိုင်စင်ယင်းသို့မဟုတ် လင့်ခ်တစ်ခု ပီးပြီးကေ အပြောင်းအလဲများ ပြုလုပ်ထားခြင်း ဟိမ့်မဟိမ့် ညွှန်ပြရပါဖို့။  ကျိုးကြောင်းဆီလျော်ရေနည်းလမ်းနင့် သင်ပြုလုပ်နိုင်ကေလေ့ လိုင်စင်ဟိမ့်သူက သင့်အား ထောက်ခံကြောင်း ယင်းသို့မဟုတ် သင့်အသုံးပြုမှုကို ညွှန်ပြရေ ဇာနည်းနင့်မဆို ပြုလုပ်နိုင်ပါသည်။",
+	"wm-license-cc-conditions-share_alike-header": "တတူမျှဝီပါ",
+	"wm-license-cc-conditions-share_alike-text": "ယကေလေ့ သင်သည် ပစ္စည်းကို ပေါင်းစပ်၊ အသွင်ပြောင်း ယင်းသို့မဟုတ် တည်ဆောက်ပါက၊ သင်၏ပံ့ပိုးမှုတိကို [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses တူညီရေ ယင်းသို့မဟုတ် ကိုက်ညီ‌ရေလိုင်စင်] အောက်တွင် သင်ဧ့ပံ့ပိုးမှုတိကို ဖြန့်ဝေရပါဖို့။"
 }
