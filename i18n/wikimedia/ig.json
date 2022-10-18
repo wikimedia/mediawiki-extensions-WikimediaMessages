@@ -41,6 +41,7 @@
 	"wikibase-sitelinks-wikiquote": "Wịkịkwotu",
 	"wikibase-sitelinks-wikisource": "Wịkịsọsụ",
 	"wikibase-sitelinks-wikivoyage": "Wịkịvọyejị",
+	"wikibase-otherprojects-wikiquote": "Wikikwuótu",
 	"wikimedia-developers": "Ndị ọrụnkwalite",
 	"wikimedia-globalblocking-ipblocked": "'''Akpọchiela adreesị IP gị [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nOnye kpọchiri ya bụ $1 ($2).\nIhe esi kpọchie ya bụ ''($3)''.\n\n* Mbido mkpọchi: $4\n* Ngwụcha mkpọchi: $5\n\nAdreesị IP gị ugbu a bụ $6. \nBiko tinye nkọwa niile dị n'elu n'ajụjụ ọbụla ị na -eme.\n\nỌ bụrụ na ị kwenyere na e mechiri gị n'amaghị ama, ị nwere ike ịchọta ozi na ntuziaka ndị ọzọ n'ime [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nMa ọ bụghị, iji kparịta mkpọchi a biko [[m:Steward requests/Global|deputa ọchịchọ gị maka nyocha na Mata-Wiki]]",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Akpọchiela otu maọbụ proxy server niile iji eme ọchịchọ \n[[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nOnye kpọchiri ya bụ $1 ($2).\nIhe kpatara ya bụ ''($3)''.\n\n* Mbido mkpọchi: $4\n* Ngwụcha mkpọchi: $5\n\nAdreesị proxy akpọchiri bụ $6. \nBiko tinye nkọwa niile dị n'elu n'ajụjụ ọbụla ị na -eme.\n\nỌ bụrụ na ị kwenyere na e mechiri gị n'amaghị ama, ị nwere ike ịchọta ozi na ntuziaka ndị ọzọ n'ime [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nMa ọ bụghị, iji kparịta mkpọchi a biko [[m:Steward requests/Global|deputa ọchịchọ gị maka nyocha na Mata-Wiki]]",
