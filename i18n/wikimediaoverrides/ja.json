@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adom",
 			"Foomin10",
 			"Fryed-peach",
 			"Kkairri",
@@ -41,6 +42,6 @@
 	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成できます。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]",
 	"wikimedia-ipinfo-source-geoip2": "このツールは[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP情報ツールのガイドライン]に基づいて使用する必要があります。",
-	"wikimedia-ipinfo-infobox-use-terms": "IP情報ツールはMaxMindのデータベースを利用しておおよその位置情報、プロクシかどうか、IPアドレスを共有しているデバイスの数などを表示します。機能を有効にする前に[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP情報ツールのガイドライン]をご覧ください。",
-	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP情報ツールのガイドライン]に従い、荒らしやその他ウィキメディア財団またはコミュニティの方針に対する違反行為の阻止または調査のためにのみ、このツールを使用することに同意します。"
+	"wikimedia-ipinfo-infobox-use-terms": "IP 情報ツールは、MaxMind データベースを使用して、おおよその位置、プロキシ、およびこの IP アドレスを共有しているデバイスの数などの詳細を表示します。有効にする前に、[https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP 情報ツールのガイドライン] を確認してください。",
+	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP 情報ツールのガイドライン] に従って、荒らし、悪用、その他のウィキメディア違反の調査または防止のみを目的として、このツールを使用することに同意します。財団またはコミュニティのポリシー。"
 }

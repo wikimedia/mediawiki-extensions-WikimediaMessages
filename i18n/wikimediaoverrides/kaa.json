@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ajiniyaz Nurniyazov",
 			"Nurlan"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(paydalanıwshı atın saylawda járdem)]]",
 	"wikimedia-sitematrix": "Wikimedia wikileri dizimi",
-	"wikimedia-sitematrix-others": "Basqa Wikimedia proektleri"
+	"wikimedia-sitematrix-others": "Basqa Wikimedia proektleri",
+	"wikimedia-ipinfo-preference-use-agreement": "Men bul quraldan tekǵana vandalizm, ózimshillik penen talan-taraj etiw yamasa Wikimedia Fondınıń yamasa jámiyetlik siyasatınıń basqa qaǵıydabuzarlıqların tekseriw yamasa aldın alıw ushın [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP Information tool guidelines IP-informaciya quralı boyınsha qollanbaǵa] muwapıq paydalanıwǵa razıman."
 }
