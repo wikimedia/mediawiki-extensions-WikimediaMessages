@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Boke",
+			"Cakkaparla",
+			"YaThaWinTha"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "ဒေစာတမ်းကို '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', ဗားရှင်း ၁.၂ မဟုတ်ကေ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] မှ ဖြန့်ချီထားရေ ဇာအရင် ဗားရှင်းတစ်ခုခုအောက်မှာ Invariant Sections, Front-Cover Texts နန့် Back-Cover Texts မျတိမပါဝင်ဘဲ ကူးယူခြင်း၊ ဖြန့်ချီခြင်း နန့်/ယင်းပိုင်မဟုတ်ကေ ပြင်ဆင်ပြောင်းလဲနိုင်ဖို့  ခွင့်ပြုရေ။ လိုင်စင်မူပွားကို ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' ခေါင်းစဉ်အောက်မှာ ထည့်သွင်းထားရေ။",
+	"wm-license-information-description": "ဖော်ပြစွာ",
+	"wm-license-information-source": "အရင်းအမြစ်",
+	"wm-license-information-date": "ရက်မှတ်",
+	"wm-license-information-author": "စာရွီးသူ",
+	"wm-license-information-permission": "ခွင်ပြုစာ",
+	"wm-license-information-permission-reusing-text": "ဒေဖိုင်ကိုပြန်လို့အသုံးပြုစာ",
+	"wm-license-own-work": "ကိုယ်ပိုင်ဆိုင်ရေအလုပ်",
+	"wm-license-self-multiple-licenses-select": "ကိုယ်ကြိုက်စာ လိုင်စင်ကို ရွီးချယ်နိုင်ပါရေ။"
+}

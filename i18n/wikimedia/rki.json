@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cakkaparla",
+			"Nay Thu Rin",
+			"ReyLon Mrat",
+			"YaThaWinTha"
+		]
+	},
+	"sitesupport": "ပီးလှူပါ",
+	"wikimedia-copyright": "စာသားတိကို <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike လိုင်စင်</a>ဖြင့် ရဟိနိုင်ပြီး နောက်ထပ် သတ်မှတ်ချက်တိ ဟိနိုင်ရေ။\nအသေးစိတ်ကို <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">အသုံးပြုခြင်းဆိုင်ရာ သတ်မှတ်ချက်တိ</a>မာ ကြေ့ပါ။",
+	"wikimedia-copyrightwarning": "အပြောင်းအလဲတိကို သိမ်းထားပြီးကေ၊[https://အုပ်မြစ်ချခြင်း.ဝီကီမီဒီယာ.org/wiki/Terms_of_Use Terms of Use] ကို သင်သဘောတူပြီးကေ[https://en.wikipedia.org/wiki/ အောက်မှာမင်းအလှူဖေသာကို ဖျက်ဖို့ဆိုကေသဘောတူလိုက်ပါရေ။  Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 လိုင်စင်] နှင့် [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\n ဟိုက်ပါလင့်ခ် မဟုတ်ကေ URL သည် Creative Commons လိုင်စင်အောက်တွင် လုံလောက်သော ရည်မှန်းချက်ဖြစ်ကြောင်း သင်သဘောတူပါသည်။",
+	"wikibase-sitelinks-wikinews": "၀ီကီ",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "၀ီကီအချက်အချာ",
+	"wikibase-sitelinks-wikivoyage": "ယူကရိန်း",
+	"wikimedia-developers": "တီထွင်ဖန်တီးရေလူတိ",
+	"wikimedia-globalblocking-ipblocked": "'''မင်း  အိုင်ပီလိပ်စာကို [[m:Special:MyLanguage/Global blocks|ဝီကီအားလုံးမှာ ပိတ်ပင်လိုက်ရေ]]။'''\nပိတ်ပင်မှုကို $1 ($2) က လုပ်ဆောင်ခရေ။\nအကြောင်းပြချက်မှာ ''$3'' ဖြစ်ရေ။\n*ပိတ်ပင်မှု စတင်ချိန်: $4\n*ပိတ်ပင်မှု ပြီးဆုံးချိန်: $5\nမင်း လက်ဟိ အိုင်ပီလိပ်စာမှာ $6 ဖြစ်ရေ။\nတကယ့်လို့ မင်းကို မှားယွင်းနာ ပိတ်ပင်ခံရေရေ  ယုံကြေပါက၊ နောက်ထပ် သတင်းအချက်အလက်တိနန့် ညွှန်ကြားချက်တိကို [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy မှာတွေ့နိုင်ပါရေ။\nအခြားနည်းတိနန့် ပိတ်ပင်မှုကို ဆွေးနွိးနိုင်ရန် [[m:Steward requests/Global|post a request for review on Meta-Wikiမှာ သုံးသပ်မှုတောင်းဆိုဖို့ စာစုတင်]]ပီးပါ။",
+	"wikimedia-globalblocking-ipblocked-xff": "''' မင်းတောင်းဆိုထားရေ ပရောက်ဆီဆာဗာ တစ်ခုသို့ ယင်းထက်ပိုယေ ဆာဗာတိအား [[m:Special:MyLanguage/Global blocks|အားလုံးတိကိုပိတ်ပင်ထားရေ]]။'''\nပိတ်ပင်မှုကို $1 ($2) က လုပ်ဆောင်ခရေ။\nအကြောင်းပြချက်မှာ ''$3'' ဖြစ်ရေ။\n*ပိတ်ပင်မှု စတင်ချိန်: $4\n*ပိတ်ပင်မှု ပြီးဆုံးချိန်: $5\nမင်း လက်ရှိ ပရောက်ဆီလိပ်စာမှာ $6 ဖြစ်ရေ။\nမဟုတ်ကေ မင်းစော် မှားနာ ပိတ်ပင်ခံရလေို့ ယုံကြေလို့ဟိကေ၊ နောက်ထပ် သတင်းအချက်အလက်တိနန့် ညွှန်ကြားချက်တိကို [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy မှာ တွေ့ရှိနိုင်ပါရေ။\nတခြားနည်းလမ်းတိနန့် ပိတ်ပင်မှုကို ဆွေးနွေးနိုင်ဖို့ [[m:Steward requests/Global|post a request for review on Meta-Wiki တွင် သုံးသပ်မှုတောင်းဆိုရန် စာစုတင်]]ပီးပါ။",
+	"wikimedia-statslink": "စာရင်းအင်း",
+	"wikimedia-cookiestatement": "ကွတ်ကီး ထုတ်ပြန်ချက်"
+}
