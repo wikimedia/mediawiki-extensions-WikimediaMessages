@@ -48,5 +48,6 @@
 	"wikimedia-apierror-urlshortener-permissiondenied": "短链接只能通过调用meta.wikimedia.org wiki来创建。",
 	"wikimedia-webauthn-module-description": "WebAuthn（Web Authentication）是万维网联盟（W3C）发布的一个网络标准。WebAuthn是FIDO联盟领导下FIDO2项目的核心部件。该项目旨在使用公钥加密来标准化用户向基于网络的应用或服务验证身份时的界面。[https://zh.wikipedia.org/wiki/WebAuthn 了解更多]。请注意，您需要登录到您最初注册验证设备时所在的同一个wiki。",
 	"wikimedia-webauthn-ui-login-prompt": "请触摸您的验证设备或按照浏览器中的说明进行操作。请注意，您需要登录到您最初注册验证设备的同一个wiki",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]",
+	"wikimedia-ipinfo-source-geoip2": "您对本工具的使用受[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP信息工具指引]的约束。"
 }
