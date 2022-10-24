@@ -5,11 +5,13 @@
 			"Kahin He"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "汝兮授權了可以複製、發佈合修改者個文件，根據[[{{int:wm-license-fsf-wiki-link}}|自由軟件基金會]]發佈兮無固定段落合封面封底文字（Invariant Sections, Front-Cover Texts, and Back-Cover Texts）兮'''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件許可協議]]'''第1.2版或者以後兮版本。授權協議兮副本請看“[[{{int:wm-license-gfdl-full-1.2-link}}|GNU 自由文件授權協議]]”。",
 	"wm-license-information-description": "描述",
 	"wm-license-information-source": "代码",
 	"wm-license-information-date": "日期",
 	"wm-license-information-author": "作者",
 	"wm-license-information-permission": "授權許可",
 	"wm-license-information-permission-reusing-text": "重用者個文件",
-	"wm-license-own-work": "我兮作品"
+	"wm-license-own-work": "我兮作品",
+	"wm-license-self-multiple-licenses-select": "汝可以選擇汝需要兮許可協議。"
 }

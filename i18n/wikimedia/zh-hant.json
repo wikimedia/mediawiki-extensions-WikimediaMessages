@@ -367,7 +367,7 @@
 	"action-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"protect-level-editautopatrolprotected": "僅允許自動巡查員",
 	"restriction-level-editautopatrolprotected": "自動巡查員已保護",
-	"right-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
+	"right-editautopatrolprotected": "編輯保護層級為「{{int:protect-level-editautopatrolprotected}}」的頁面",
 	"action-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
 	"group-docseditor": "文件編輯者",
 	"group-docseditor-member": "{{GENDER:$1|文件編輯者}}",
