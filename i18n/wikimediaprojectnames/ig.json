@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Izuchi Onyeike",
-			"Obuezie"
+			"Obuezie",
+			"Okenwa"
 		]
 	},
 	"project-localized-name-bclwikiquote": "Central Bikol Wikiquote",
-	"project-localized-name-guwwiki": "egbe wikipedia"
+	"project-localized-name-guwwiki": "egbe wikipedia",
+	"project-localized-name-guwwikiquote": "Égbè wikiquote"
 }

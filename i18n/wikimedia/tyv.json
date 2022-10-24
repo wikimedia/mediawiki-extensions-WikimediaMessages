@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Agilight",
+			"Amire80",
 			"Riverman",
 			"Көпек",
 			"Монгуш Салим"
@@ -11,7 +12,7 @@
 	"tooltip-n-sitesupport": "Бисти деткиңер",
 	"wikimedia-copyright": "Сөзүглел болза <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike лисензи</a> йозугаар чедингир, немелде дүрүмнер кирип болур.\nОон хөйнү билип алырда <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Ажыглал дүрүмнерин</a> көрүңер.",
 	"wikimedia-copyrightwarning": "Өскерлиишкиннерни арттырып тура, силер [https://foundation.wikimedia.org/wiki/], ол ышкаш [https://ru.wikipedia.org/wiki/Википедия:Шынзылганың_сөзүглели_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] база [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-биле чөпшээрежип турарыңар ол. Чогуур арынче азы ооң URL-адрезинче гипершөлүлгелерни айтып тура,Creative Commons-туң шынзылгазының негелделери күүсеттинип турар деп чөпшээрежип турарыңар ол.",
-	"wikimedia-mobile-mainpage-title-loggedin": "Кирип моорлаңар, %s!",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Кирип моорлаңар}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викимедээлер",
 	"wikibase-sitelinks-wikiquote": "Викицитата",
 	"wikibase-sitelinks-wikisource": "Викидөс",

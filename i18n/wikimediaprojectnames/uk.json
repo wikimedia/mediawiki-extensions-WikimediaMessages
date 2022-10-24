@@ -8,7 +8,8 @@
 			"Movses",
 			"Piramidion",
 			"Vlad5250",
-			"Ата"
+			"Ата",
+			"Пан Хаунд"
 		]
 	},
 	"project-localized-name-aawiki": "Афарська Вікіпедія",
@@ -67,6 +68,7 @@
 	"project-localized-name-astwiktionary": "Астурійський Вікісловник",
 	"project-localized-name-aswiki": "Асамська Вікіпедія",
 	"project-localized-name-aswikibooks": "Асамський Вікіпідручник",
+	"project-localized-name-aswikiquote": "Асамські Вікіцитати",
 	"project-localized-name-aswikisource": "Асамські Вікіджерела",
 	"project-localized-name-aswiktionary": "Асамський Вікісловник",
 	"project-localized-name-atjwiki": "Атикамецька Вікіпедія",
@@ -334,6 +336,7 @@
 	"project-localized-name-guwikisource": "Вікіджерела мовою гуджараті",
 	"project-localized-name-guwiktionary": "Вікісловник мовою гуджараті",
 	"project-localized-name-guwwiki": "Гунська Вікіпедія",
+	"project-localized-name-guwwikiquote": "Вікіцитати Гунгбе",
 	"project-localized-name-gvwiki": "Менська Вікіпедія",
 	"project-localized-name-gvwiktionary": "Менський Вікісловник",
 	"project-localized-name-hakwiki": "Хаккаська Вікіпедія",
@@ -751,6 +754,7 @@
 	"project-localized-name-sgwiktionary": "Вікісловник мовою санго",
 	"project-localized-name-shiwiki": "Тахелхіт Вікіпедія",
 	"project-localized-name-shnwiki": "Шанська Вікіпедія",
+	"project-localized-name-shnwikibooks": "Вікіпідручники Shan",
 	"project-localized-name-shnwikivoyage": "Шанські Вікімандри",
 	"project-localized-name-shnwiktionary": "Шанський Вікісловник",
 	"project-localized-name-shwiki": "Сербохорватська Вікіпедія",

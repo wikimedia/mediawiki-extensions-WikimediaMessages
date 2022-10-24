@@ -8,6 +8,7 @@
 			"Liuxinyu970226",
 			"SaldırganSincap",
 			"Simon Shek",
+			"Stang",
 			"Tranve",
 			"WhitePhosphorus",
 			"Winston Sung",
@@ -47,5 +48,5 @@
 	"wikimedia-webauthn-module-description": "WebAuthn（Web Authentication）是由全球資訊網協會（World Wide Web Consortium、W3C）發布的網路標準。WebAuthn 是在 FIDO 聯盟指引下的 FIDO2 專案之核心內容。該專案目的是要標準化基於網路應用程式且採用公鑰加密服務來驗證使用者的介面。[https://en.wikipedia.org/wiki/WebAuthn 了解更多]。請注意您需要在原先註冊的驗證設備裡，登入到相同的 wiki 上。",
 	"wikimedia-webauthn-ui-login-prompt": "請輕觸您的驗證設備或是依照瀏覽器的說明進行。請注意您需要在原先註冊的驗證設備裡，登入到相同的 wiki 上",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy 隱私權政策]",
-	"wikimedia-ipinfo-preference-use-agreement": "我同意根據[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP資訊工具指引]來使用此工具，僅用於調查或防止破壞、濫用或其他違反維基媒體基金會或社群方針的行為。"
+	"wikimedia-ipinfo-preference-use-agreement": "我同意根據[https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP資訊工具指引]來使用此工具，僅用於調查或防止破壞、濫用或其他違反維基媒體基金會或社群方針的行為。"
 }
