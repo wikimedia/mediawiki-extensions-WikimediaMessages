@@ -116,7 +116,7 @@
 	"wm-license-pd-usgov-noaa-text": "Ce fichier est l’œuvre d’un employé de l’[[{{int:wm-license-pd-usgov-noaa-wiki-link}}|administration U.S. National Oceanic and Atmospheric]], entrepris ou réalisé dans le cadre de ses fonctions officielles. En tant que [[{{int:wm-license-pd-usgov-work-wiki-link}}|travail]] du [[{{int:wm-license-pd-usgov-wiki-link}}|gouvernement fédéral des États-Unis]], le fichier est dans le '''[[{{int:wm-license-pd-wiki-link}}|domaine public]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:fr:National Oceanic and Atmospheric Administration",
 	"wm-license-pd-wiki-link": "w:fr:Domaine public (propriété intellectuelle)",
-	"wm-license-self": "Moi, détenteur du droit d’auteur sur ce travail, le publie par la présente sous {{PLURAL:$1|la licence suivante|les licences suivantes}} :",
+	"wm-license-self": "Moi, en tant que détenteur du droit d’auteur, je publie cette œuvre par la présente sous {{PLURAL:$1|la licence suivante|les licences suivantes}} :",
 	"wm-license-self-with-author": "$1, détenteur du droit d’auteur de ce travail, le publie par la présente sous {{PLURAL:$2|la licence suivante|les licences suivantes}} :",
 	"wm-license-self-one-license": "En tant que détenteur du droit d’auteur, je publie cette œuvre sous la licence suivante :",
 	"wm-license-self-one-license-with-author": "$1, le détenteur des droits sur cette œuvre, la publie sous la licence suivante :",

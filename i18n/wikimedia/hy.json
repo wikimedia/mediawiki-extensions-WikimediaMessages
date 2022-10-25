@@ -11,7 +11,8 @@
 			"Vahe Gharakhanyan",
 			"Xelgen",
 			"Դավիթ Սարոյան",
-			"Սահակ"
+			"Սահակ",
+			"Սերգեյ Սաֆարյան"
 		]
 	},
 	"sitesupport": "Նվիրաբերել",
@@ -64,5 +65,7 @@
 	"interlanguage-link-sitename-wikipedia": "Վիքիպեդիա, ազատ հանրագիտարան",
 	"interlanguage-link-commons": "Վիքիպահեստ",
 	"wikimedia-statslink": "Վիճակագրություն",
-	"wikimedia-cookiestatement": "ծոոկիե հայտարարություն"
+	"wikimedia-cookiestatement": "ծոոկիե հայտարարություն",
+	"action-docseditor": "խմբագրել փաստաթղթերը",
+	"right-docseditor": "Փաստաթղթերի խմբագրում"
 }
