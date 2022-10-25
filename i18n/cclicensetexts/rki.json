@@ -10,14 +10,14 @@
 	},
 	"wm-license-cc-attribution": "ထည့်ပနာတွက်ပါ",
 	"wm-license-cc-by-sa-3.0-text": "ဒေဖိုင်ကို [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en ရည်ညွှန်းချက်-  Alike 3.0 Unported] လိုင်စင် နန့်သတ်မှတ်ထားရေ။",
-	"wm-license-cc-free": "မင်းစွာ လွတ်လပ်ပနာ:",
+	"wm-license-cc-free": "မင်းစွာ အခမဲ့ဖြစ်ရေ",
 	"wm-license-cc-free-to-share-header": "မျှ၀ီကတ်ပါ",
 	"wm-license-cc-free-to-share-text": "ဖန်တီးမှုတိကို ကူးယူရန်၊ ဖြန့်ဖြူးရန် နန့်ထုတ်လွှင့်ရန်",
 	"wm-license-cc-free-to-remix-header": "remixလုပ်ကတ်ပါဖို့",
-	"wm-license-cc-free-to-remix-text": "ဖန်တီးမှုကို ပြင်ဆင်ညှိနှိုင်းပါ",
-	"wm-license-cc-conditions": "အောက်ပါအခြီအနီအများကြီးအောက်မှာ:",
+	"wm-license-cc-free-to-remix-text": "လိုက်လျောညီထွေမှုဖြစ်အောင်လုပ်ရဖို့",
+	"wm-license-cc-conditions": "အောက်ပါအခြီအနီတိအောက်မှာ-",
 	"wm-license-cc-conditions-attribution-header": "ထည့်ပနာတွက်ပါ",
-	"wm-license-cc-conditions-attribution-text": "ပြောင်းလဲမှုတိ ပြုလုပ်ရေခါ ဖန်တီးလူ မဟုတ်ကေ လိုင်စင်ယှိလူ သတ်မှတ်ရေ အမျိုးအစားကို လိုက်နာရပါဖို့ (ဆိုလိုစာက မင်းအား မဟုတ်ကေ မင်းဖန်တီးမှုမှာ အသုံးပြုခြင်းကို ထောက်ခံချက်ပီးရေဟု မဆိုလိုပါ)။",
+	"wm-license-cc-conditions-attribution-text": "ပြောင်းလဲမှုတိ ပြုလုပ်ရေခါ ဖန်တီးလူ မဟုတ်ကေ လိုင်စင်ဟိန့်လူ သတ်မှတ်ရေ အမျိုးအစားကို လိုက်နာရပါဖို့ (ဆိုလိုစာက မင်းအား မဟုတ်ကေ မင်းဖန်တီးမှုမှာ အသုံးပြုခြင်းကို ထောက်ခံချက်ပီးရေဟု မဆိုလိုပါ)။",
 	"wm-license-cc-conditions-share_alike-header": "တတူမျှဝီပါ",
 	"wm-license-cc-conditions-share_alike-text": "ယကေလေ့ မင်းစာပစ္စည်းတိကို ပေါင်းစပ်၊ အသွင်ပြောင်း မဟုတ်ကေ တည်ဆောက်လို့ဟိမ့်ကေ၊ မင့်ပံ့ပိုးမှုတိကို [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses တူညီရေ မဟုတ်ကေ ကိုက်ညီ‌ရေလိုင်စင်] အောက်တွင် မင်း၏ပံ့ပိုးမှုတိကို ဖြန့်ဝေရပါဖို့။"
 }
