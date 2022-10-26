@@ -21,10 +21,13 @@
 	"group-steward": "Үйлчлэгчид",
 	"group-steward-member": "үйлчлэгч",
 	"grouppage-steward": "m:Stewards/mn",
+	"wikimedia-copyright": "Тус хуудасны текстийг <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike лицензийн</a> дагуу ашиглах боломжтой; нэмэлт мэдээллийг <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Хэрэглэх нөхцөл</a> хуудаснаас авна уу",
 	"wikibase-sitelinks-wikinews": "Вики мэдээ",
 	"wikibase-sitelinks-wikivoyage": "Викиаялал",
-	"wikimedia-developers": "Хөгжүүлэгчид",
+	"wikimedia-developers": "Хөгжүүлэгчдэд",
 	"right-superprotect": "Super protection төвшинг өөрчлөх",
 	"protect-level-superprotect": "Superprotect -тэй хэрэглэгчидыг зөвшөөрөх",
-	"restriction-level-superprotect": "super protect хийх"
+	"restriction-level-superprotect": "super protect хийх",
+	"wikimedia-statslink": "Статистик",
+	"wikimedia-cookiestatement": "Күүкиний талаарх мэдээлэл"
 }

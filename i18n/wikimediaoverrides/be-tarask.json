@@ -12,8 +12,17 @@
 	"wikimedia-centralauth-groupname": "Фундацыі «Вікімэдыя»",
 	"wikimedia-centralauth-login-error-locked": "<strong>Гэты ўліковы запіс [[m:Special:MyLanguage/Global locks|заблякаваны глябальна]].</strong> {{GENDER:$1|You}} ня зможаце ўвайсьці ні ў якую вікі Вікімэдыі. Калі маеце якія пытаньні, калі ласка, [[m:Special:Contact/stewards|зьвяжыцеся з ст’юардамі]].",
 	"createacct-helpusername-url": "{{ns:Project}}:Правілы_найменьня_ўдзельнікаў",
+	"wikimedia-discussiontools-replywidget-terms-click": "Націскаючы „$1“, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$3|ліцэнзіяй|ліцэнзіямі}} $2.",
+	"wikimedia-flow-terms-of-use-new-topic": "Націскаючы „{{int:flow-newtopic-save}}“, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$2|ліцэнзіяй|ліцэнзіямі}} $1.",
+	"wikimedia-flow-terms-of-use-reply": "Націскаючы „{{int:flow-reply-link}}“, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$2|ліцэнзіяй|ліцэнзіямі}} $1.",
+	"wikimedia-flow-terms-of-use-edit": "Захоўваючы зьмены, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$2|ліцэнзіяй|ліцэнзіямі}} $1.",
+	"wikimedia-flow-terms-of-use-summarize": "Націскаючы „{{int:flow-topic-action-update-topic-summary}}“, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$2|ліцэнзіяй|ліцэнзіямі}} $1.",
+	"wikimedia-flow-terms-of-use-lock-topic": "Націскаючы „{{int:flow-topic-action-lock-topic}}“, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$2|ліцэнзіяй|ліцэнзіямі}} $1.",
+	"wikimedia-flow-terms-of-use-unlock-topic": "Націскаючы „{{int:flow-topic-action-unlock-topic}}“, вы пагаджаецеся з нашымі [https://foundation.wikimedia.org/wiki/Terms_of_Use Ўмовамі выкарыстаньня] і пагаджаецеся апублікаваць ваш тэкст беззваротна пад {{PLURAL:$2|ліцэнзіяй|ліцэнзіямі}} $1.",
 	"wikimedia-interfaceadmin-info": "Рэдагаваньне агульнасайтавых CSS/JS/JSON-файлаў абмежаванае ўдзельнікамі групы [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
 	"wikimedia-sitematrix": "Сьпіс усіх праектаў Вікімэдыі",
 	"wikimedia-sitematrix-others": "Іншыя праекты Вікімэдыі",
-	"wikimedia-sitematrix-summary": "Гэтая спэцыяльная старонка ўтрымлівае сьпіс усіх вікі Вікімэдыі."
+	"wikimedia-sitematrix-summary": "Гэтая спэцыяльная старонка ўтрымлівае сьпіс усіх вікі Вікімэдыі.",
+	"wikimedia-webauthn-module-description": "WebAuthn (вэб-аўтэнтыфікацыя) — гэта вэб-стандарт, выдадзены Кансорцыюмам сусьветнага павуціньня (W3C). WebAuthn — ключавы складнік праекту FIDO2 пад кіраўніцтвам Альянсу FIDO. Мэтай праекту — стандартызацыя інтэрфэйсу аўтэфікацыі карыстальнікаў вэб-праграмаў і службаў з дапамогай шыфраваньня адкрытымі ключамі. [https://en.wikipedia.org/wiki/WebAuthn Даведацца болей]. Зьвярніце ўвагу, што вам трэба будзе ўвайсьці ў той самы вікіпраект, дзе вы першапачаткова зарэгістравалі сваю прыладу праверкі.",
+	"wikimedia-notification-body-oathauth-disable-other": "Калі {{GENDER:$2|вы}} гэтага не запытвалі, то мусіце зьвязацца з „Даверам і бясьпекай“ ФВМ."
 }

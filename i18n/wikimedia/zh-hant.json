@@ -363,7 +363,7 @@
 	"action-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"protect-level-editautopatrolprotected": "僅允許自動巡查員",
 	"restriction-level-editautopatrolprotected": "自動巡查員已保護",
-	"right-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
+	"right-editautopatrolprotected": "編輯保護層級為「{{int:protect-level-editautopatrolprotected}}」的頁面",
 	"action-editautopatrolprotected": "編輯頁面已保護為「{{int:protect-level-editautopatrolprotected}}」",
 	"protect-level-edittrustedprotected": "只允許受信任的用戶",
 	"restriction-level-edittrustedprotected": "受信任的用戶受到保護",

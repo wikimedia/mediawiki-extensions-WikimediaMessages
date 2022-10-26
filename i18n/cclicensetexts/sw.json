@@ -5,12 +5,19 @@
 			"Lloffiwr",
 			"Muddyb",
 			"Muddyb Blast Producer",
-			"Hussein m mmbaga"
+			"Hussein m mmbaga",
+			"Wangombe"
 		]
 	},
 	"wm-license-cc-attribution": "Sifa",
 	"wm-license-cc-by-1.0-text": "Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [https://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].",
 	"wm-license-cc-free": "Uko huru:",
+	"wm-license-cc-free-to-share-header": "kushiriki",
+	"wm-license-cc-free-to-share-text": "kunakili na kusambaza kazi hiyo",
+	"wm-license-cc-free-to-remix-header": "kwa remix",
+	"wm-license-cc-free-to-remix-text": "kurekebisha kazi",
+	"wm-license-cc-conditions": "Chini ya masharti yafuatayo:",
 	"wm-license-cc-conditions-attribution-header": "sifa",
+	"wm-license-cc-conditions-attribution-text": "Ni lazima utoe mkopo unaofaa, utoe kiungo cha leseni, na uonyeshe ikiwa mabadiliko yalifanywa. Unaweza kufanya hivyo kwa njia yoyote inayofaa, lakini si kwa njia yoyote inayopendekeza mtoa leseni akuidhinishe wewe au matumizi yako.",
 	"wm-license-cc-conditions-share_alike-header": "\nshiriki sawa"
 }
