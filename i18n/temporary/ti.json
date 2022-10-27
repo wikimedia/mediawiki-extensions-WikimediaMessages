@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joanmp17"
+		]
+	},
+	"hello": "ሰላም",
+	"please-translate": "በጃኻ ናብ ቋንቋኻ ንምትርጓም ሓግዝ",
+	"thank-you": "{{GENDER:$1|የቕንየለይ።}}"
+}
