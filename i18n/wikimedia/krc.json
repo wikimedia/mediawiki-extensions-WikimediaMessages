@@ -3,7 +3,8 @@
 		"authors": [
 			"Ernác",
 			"Iltever",
-			"Nemo bis"
+			"Nemo bis",
+			"Къарачайлы"
 		]
 	},
 	"wikimediamessages-desc": "Викимедианы энчи билдириулери",
@@ -64,5 +65,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Сизни сорууугъузда болгъан прокси-серверледен бири неда бир талайы  [[m:Special:MyLanguage/Global blocks|глобал халда блок]] этилгендиле.'''\n\nБлок болууну этилгенди $1 ($2).\nБелгиленнген чурум: ''$3''.\n\n* блок болууну башланыуу: $4 \n* блок болууну бошалыуу: $5 \n\nБлок этилген прокси-адрес — $6.\nБютеу бу информацияны сорууларыгъызгъа къошугъуз.\n\nДжангылыб блок этилгеннге санай эсегиз, глобал джорукъланы ''[[m:Special:MyLanguage/No open proxies|Ачыкъ прокси-серверлени хайырландырыуну джарамауу]]'' бетинде къошакъ информация эмда инструкцияланы табаргъа боллукъсуз.\nАлай тюл эсе, блок болууну сюзер ючюн [[m:Steward requests/Global|Мета-викиге джангыдан къарау бла соруу джазыгъыз]].",
 	"interlanguage-link-commons": "Викигёзен",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Cookie'ни юсюнден келишиу"
+	"wikimedia-cookiestatement": "Cookie'ни юсюнден келишиу",
+	"ext-campaignevents-register-policy": "Регистрация этген заманда [https://foundation.wikimedia.org/wiki/Terms_of_Use Хайырланыуну шартлары бла], [https://foundation.wikimedia.org/wiki/Privacy_policy Энчи ташалыкъны политикасы бла], [https://foundation .wikimedia.org/wiki/Universal_Code_of_Conduct Кесинги джюрюуню универсал кодекси бла] разы боласыз, эмда Шох юслени джерли политикалыр бла, эмда ала бардыргъан мероприятияла бла да разы боласыз."
 }
