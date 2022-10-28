@@ -361,6 +361,8 @@
 	"gadget-souspages-subpages": "Podstrani",
 	"ext-campaignevents-register-policy": "Z registracijo izražate strinjate s [https://foundation.wikimedia.org/wiki/Terms_of_Use Pogoji uporabe], [https://foundation.wikimedia.org/wiki/Privacy_policy Pravilnikom o zasebnosti] [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Univerzalnim kodeksom ravnanja] in vsemi lokalnimi pravili prijateljskega ravnanja, ki so jih sprejeli organizatorji dogodka.",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Za več informacij glejte [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement izjavo o zasebnosti] za to anketo.",
+	"readinglists-import-app": "Za dodajanje predmetov na ta bralni seznam prenesite in uporabljajte aplikacijo.",
+	"readinglists-list-empty-message": "Ta seznam lahko uvozite tako, da namestite aplikacijo Wikipedia.",
 	"research-incentive-message": "Bi želeli sodelovati v plačanih raziskavah mnenja uporabnikov Wikipedije?",
 	"research-incentive-description": "Za prijavo na naš seznam udeležencev izpolnite obrazec. Občasno vas bomo kontaktirali glede priložnosti za plačane raziskave. S seznama se lahko kadar koli odstranite.",
 	"research-incentive-answer-positive": "Da",
