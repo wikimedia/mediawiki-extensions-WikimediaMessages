@@ -379,7 +379,9 @@
 	"gadget-curidlink-link-by-id": "Hiperligação por identificador",
 	"gadget-curidlink-link-by-id-desc": "Mostrar hiperligação para esta página pelo seu identificador",
 	"gadget-souspages-subpages": "Subpáginas",
-	"ext-campaignevents-register-policy": "Ao registar-se, concorda com as [https://foundation.wikimedia.org/wiki/Terms_of_Use condições de utilização] e a [https://foundation.wikimedia.org/wiki/Privacy_policy política de privacidade].",
+	"ext-campaignevents-register-policy": "Ao registar-se, concorda com as [https://foundation.wikimedia.org/wiki/Terms_of_Use condições de utilização], a [https://foundation.wikimedia.org/wiki/Privacy_policy política de privacidade], o [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct código de conduta universal] e qualquer norma local para criar um espaço amigável fornecida pelos organizadores do evento.",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement declaração de privacidade] deste inquérito.",
+	"readinglists-import-app": "Para importar esta lista de leitura, instale a versão mais recente da aplicação da Wikipédia e depois prima a hiperligação original que foi partilhada consigo.",
+	"readinglists-list-empty-message": "Pode importar esta lista instalando a aplicação da Wikipédia.",
 	"ipinfo-global-contributions-url-label": "Contribuições globais"
 }
