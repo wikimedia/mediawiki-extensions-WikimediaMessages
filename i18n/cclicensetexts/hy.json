@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kareyac",
 			"Vadgt",
 			"Vahe Gharakhanyan",
 			"Xelgen",
@@ -8,7 +9,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Հղում",
-	"wm-license-cc-by-3.0-ch-text": "Այս ֆայլը լիցենզավորվել է [[{{int:wm-license-cc-wiki-link}}|Քրեատիվ Քոմմուսի]] կողմից [https://creativecommons.org/licenses/by/3.0/ch/deed.en Attribution 3.0 Switzerland] լիցենզիայով:",
+	"wm-license-cc-by-3.0-ch-text": "Այս նիշքը լիցենզավորվել է [[{{int:wm-license-cc-wiki-link}}|Քրեատիվ Քոմմուսի]] կողմից [https://creativecommons.org/licenses/by/3.0/ch/deed.en Attribution 3.0 Switzerland] լիցենզիայով:",
 	"wm-license-cc-by-sa-3.0-text": "Այս նիշքը հասանելի է [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] արտոնագրի ներքո:",
 	"wm-license-cc-free": "Դուք ազատ եք՝",
 	"wm-license-cc-free-to-share-header": "կիսվել ստեղծագործությամբ",

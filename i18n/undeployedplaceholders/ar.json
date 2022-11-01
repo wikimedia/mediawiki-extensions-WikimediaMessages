@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Meno25",
 			"محمد أحمد عبد الفتاح"
 		]
 	},
-	"wikimedia-usermerge-logpage": "سجل دمج المستخدمين"
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2| دمج}} حساب المستخدم \" $4 \" ( $5 ) في {{GENDER:$8| $6 }} ( $7 )",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2| حذف}} حساب المستخدم \" $4 \" ( $5 )",
+	"wikimedia-log-action-filter-usermerge": "نوع الإجراء:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "دمج حساب المستخدم",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "حذف حساب المستخدم",
+	"wikimedia-usermerge-logpage": "سجل دمج المستخدمين",
+	"wikimedia-usermerge-logpagetext": "هذا هو سجل إجراءات دمج المستخدم."
 }
