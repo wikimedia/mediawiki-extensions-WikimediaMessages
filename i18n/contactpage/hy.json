@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kareyac"
+			"Kareyac",
+			"Սերգեյ Սաֆարյան"
 		]
 	},
+	"contactpage-license-request-username": "Օգտանուն",
 	"contactpage-license-request-use-print": "Տպել",
 	"contactpage-wikimedia-trademark-wikiquote": "Վիքիքաղվածք",
 	"contactpage-wikimedia-trademark-wikibooks": "Վիքիգրքեր",

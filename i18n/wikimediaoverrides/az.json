@@ -12,6 +12,6 @@
 	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
 	"wikimedia-centralauth-groupname": "Vikimediya Fondu",
 	"createacct-helpusername-url": "{{ns:Project}}:İstifadəçi_adları",
-	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" düyməsinə basarkən, siz [https://foundation.wikimedia.org/wiki/Terms_of_Use İstifadə Şərtlərimizi] qəbul edirsiniz və dəyişikliklərinizin $2 {{PLURAL:$3|əsasında }} geri qaytarılmadan paylaşılmasına razılıq verirsiniz.",
+	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" düyməsinə klikləməklə siz [https://foundation.wikimedia.org/wiki/Terms_of_Use istifadə şərtlərimizi] qəbul edir və dəyişikliklərinizin $2 {{PLURAL:$3|əsasında }} geri qaytarılmadan yayımlanmasına razılıq verirsiniz.",
 	"wikimedia-interfaceadmin-info": "Sayt daxilində CSS/JS/JSON fayllarını yalnız [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] qrupunun üzvləri redaktə edə bilərlər."
 }
