@@ -72,7 +72,8 @@
 			"Yekrats",
 			"Zetud",
 			"Zolo",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"DDesouza"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -443,7 +444,7 @@
 	"research-incentive-description": "Complétez le formulaire pour vous inscrire à notre liste de liste de participants. Vous serez contacté{{GENDER:||e}} périodiquement lors des opportunités de recherches rémunérées. Vous pouvez vous retirer de la liste à tout moment.",
 	"research-incentive-answer-positive": "Oui",
 	"research-incentive-answer-negative": "Non",
-	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
+	"research-incentive-link": "https://airtable.com/shrm8jEOIDTt2Qn8M",
 	"research-incentive-privacy": "Vous pouvez consulter notre politique de confidentialité et en apprendre plus sur notre programme de recherche [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja ici].",
 	"research-incentive-confirm-msg": "Merci !",
 	"ipinfo-global-contributions-url-label": "Contributions globales"
