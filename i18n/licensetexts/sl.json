@@ -74,7 +74,7 @@
 	"wm-license-information-other-versions": "Druge različice",
 	"wm-license-lgpl-text": "Ta knjižnica je [[{{int:wm-license-free-software-wiki-link}}|prosto programje]]; lahko jo razširjate in/ali spreminjate pod pogoji '''[[{{int:wm-license-lgpl-wiki-link}}|Manjša splošna javna licenca GNU]]''', kot jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bodisi različice 2.1 ali (po vaši izbiri) katere koli poznejše različice. Ta knjižnica se razširja v upanju, da bo uporabna, vendar '''brez vsakršnega jamstva'''; tudi brez implicitnega jamstva '''cenovne vrednosti''' ali '''primernosti za določen namen'''. Podrovnosti so navedene v besedilu [{{int:wm-license-lgpl-2.1-full-link}} različice 2.1] in [{{int:wm-license-lgpl-3-full-link}} različice 3 Manjše splošne javne licence GNU].",
 	"wm-license-licensing-update-text": "Ta oznaka dovoljenja je bila datoteki dodana kot del [[{{int:wm-license-licensing-update-wiki-link}}|posodobitve licence]] GFDL.",
-	"wm-license-original-upload-log": "Izvirni dnevnik nalaganja",
+	"wm-license-original-upload-log": "Izvorni dnevniški zapis naložitve",
 	"wm-license-own-work": "Lastno delo",
 	"wm-license-pd-author-self-text": "Jaz, imetnik avtorskih pravic na tem delu, dajem delo v '''[[{{int:wm-license-pd-wiki-link}}|javno last]]'''. To velja po vsem svetu.",
 	"wm-license-pd-author-with-author-text": "To delo je dal v '''[[{{int:wm-license-pd-wiki-link}}|javno last]]''' njegov avtor '''$1'''. To velja po vsem svetu.",
