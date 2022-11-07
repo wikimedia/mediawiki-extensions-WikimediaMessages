@@ -3,6 +3,7 @@
 		"authors": [
 			"Aefgh39622",
 			"Bebiezaza",
+			"Lookruk",
 			"Tuinui"
 		]
 	},
@@ -13,5 +14,8 @@
 	"group-staff": "ພະນັກງານ",
 	"group-staff-member": "ພະນັກງານ",
 	"wikimedia-copyright": "ອະນຸຍາດໃຫ້ໃຊ້ເນື້ອໃນພາຍໃຕ້<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ສັນຍາອະນຸຍາດຂອງ Creative Commons Attribution-ShareAlike</a>;\nແລະອາດມີເງື່ອນໄຂອື່ນໆໃນການໃຊ້ງານອີກນຳດ້ວຍ.\nເບິ່ງ<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ເງື່ອນໄຂການໃຊ້ງານ</a>ສຳລັບລາຍລະອຽດເພີ່ມເຕີມ.",
-	"wikimedia-developers": "ຜູ້ພັດທະນາ"
+	"wikibase-sitelinks-wikinews": "ວິກິຂ່າວ",
+	"wikimedia-developers": "ຜູ້ພັດທະນາ",
+	"wikimedia-statslink": "ສະຖິຕິ",
+	"wikimedia-cookiestatement": "ຄໍາຖະແຫຼງຄຸກກີ"
 }
