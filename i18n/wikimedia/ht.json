@@ -3,6 +3,7 @@
 		"authors": [
 			"Amire80",
 			"Bugoslav",
+			"Kitanago",
 			"Masterches",
 			"Tisave"
 		]
@@ -10,7 +11,7 @@
 	"sitesupport": "Fè yon don",
 	"tooltip-n-sitesupport": "Soutni pwojè a",
 	"wikimedia-copyright": "Teks sa a disponib selon lisans <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>; lòt kondisyon gen dwa aplikab. Li <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Kondisyon itilizasyon</a> pou plis detay.",
-	"wikimedia-copyrightwarning": "Lè w anrejistre modifikasyon, ou dakò ak [https://foundation.wikimedia.org/wiki/Terms_of_Use Kondisyon itilizasyon], epi w dakò lage kontribisyon ou san posiblite pou revoke li selon lisans [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] ak lisans [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nOu dakò ke yon ipèlyen oswa yon lyen entènèt ase kòm rekonesans selon lisans Creative Commons.",
+	"wikimedia-copyrightwarning": "Lè w anrejistre modifikasyon, ou dakò ak [https://foundation.wikimedia.org/wiki/Terms_of_Use/ht Kondisyon itilizasyon yo], epi w dakò lage kontribisyon ou san posiblite pou revoke li selon lisans [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] ak lisans [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nOu dakò ke yon ipèlyen oswa yon lyen entènèt  (URL) ase kòm rekonesans selon lisans Creative Commons.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 Lisans CC BY-SA 3.0] ak [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
@@ -18,5 +19,8 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-otherprojects-testwikidata": "Wikipodatci",
 	"wikimedia-developers": "Reyalizatè",
-	"wikimedia-statslink": "Estatistik"
+	"wikimedia-globalblocking-ipblocked": "'''Adrès IP ou te [[m:Special:MyLanguage/Global blocks|bloke sou tout wiki yo]].'''\n\nBlòk la fèt pa $1 .\nRezon yo bay la se ' ' $2 ''.\n\n* Kòmansman blòk: $8 \n* Ekspirasyon blòk: $6 \n\nAdrès IP ou ye kounye a se $3 .\nTanpri mete tout detay ki anwo yo nan nenpòt demand ou fè.\n\nSi ou kwè ke ou te bloke pa yon erè, ou ka jwenn plis enfòmasyon ak enstriksyon nan [[m:Special:MyLanguage/No open proxies|Pa gen okenn proksi louvri]] politik mondyal la.\n Sinon, pou diskite sou blòk la tanpri [[m:Steward requests/Global|poste yon demand pou revizyon sou Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Youn oswa plizyè sèvè proxy demand ou an itilize [[m:Special:MyLanguage/Global blocks|globalman bloke]].'''\n\nBlòk la te fèt pa $1 .\nRezon ki fè la yo bay se '' $2 ''.\n\n* Kòmansman blòk: $8 \n* Ekspirasyon blòk: $6 \n\nAdrès proxy ki bloke a te $6 .\nTanpri mete tout detay ki anwo yo. nan nenpòt kesyon ou fè.\n\nSi ou kwè ke ou te bloke pa yon erè, ou ka jwenn plis enfòmasyon ak enstriksyon nan [[m:Special:MyLanguage/No open proxies|Pa gen okenn proksi ki louvri]]. \nOtreman, pou diskite sou blòk la tanpri [[m:Steward requests/Global|poste yon demand pou revizyon sou Meta-Wiki]].",
+	"wikimedia-statslink": "Estatistik",
+	"wikimedia-cookiestatement": "Deklarasyon sou temwen (cookies) yo"
 }
