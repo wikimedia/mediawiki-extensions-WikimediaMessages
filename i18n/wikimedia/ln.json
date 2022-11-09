@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Moyogo"
+			"Moyogo",
+			"BamLifa"
 		]
 	},
-	"sitesupport": "Lisungi na misɔlɔ"
+	"sitesupport": "Lisungi na misɔlɔ",
+	"wikimedia-developers": "Ba développeurs"
 }

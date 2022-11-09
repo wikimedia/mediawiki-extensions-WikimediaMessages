@@ -2,14 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Malikxan",
-			"Sociologist"
+			"Sociologist",
+			"Zafar Shamsiddinov"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Ushbu hujjatdan nusxa ko‘chirish, tarqatish va/yoki o‘zgartirish uchun '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Erkin guvohnoma litsenziyasi (GNU Free Documentation License)]]''', 1.2 va har qanday keyingi versiyalar shartlariga muvofiq ruxsat berilgan yoki [[{{int:wm-license-fsf-wiki-link}}|Ochiq kodli dasturlar jamiyati (Free Software Foundation)]] tomonidan chop etilgan; oʻzgarmas boʻlimlarsiz, oldingi muqova matnlari va orqa muqova matnlarisiz. Litsenziya nusxasi ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Erkin guvohnoma litsenziyasi (GNU Free Documentation License)]]'' boʻlimiga kiritilgan.",
 	"wm-license-information-description": "Taʼrif",
 	"wm-license-information-source": "Manba",
 	"wm-license-information-date": "Sanasi",
 	"wm-license-information-author": "Muallif",
 	"wm-license-information-permission": "Ruxsat",
 	"wm-license-information-permission-reusing-text": "Bu faylning takror foydalanilishi",
-	"wm-license-own-work": "Oʻzimning ishim"
+	"wm-license-own-work": "Oʻzimning ishim",
+	"wm-license-self-multiple-licenses-select": "Siz oʻzingiz xohlagan litsenziyani tanlashingiz mumkin."
 }
