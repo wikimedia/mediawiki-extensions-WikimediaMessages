@@ -106,7 +106,7 @@
 	"group-noratelimit-member": "{{GENDER:$1|račun z neomejeno pogostostjo dejanj}}",
 	"grouppage-noratelimit": "{{ns:project}}:Računi z neomejeno pogostostjo dejanj",
 	"group-patroller": "Obhodniki",
-	"group-patroller-member": "{{GENDER:$1|obhodnik|obhodnica}}",
+	"group-patroller-member": "{{GENDER:$1|pregledovalec|pregledovalka|pregledovalec/ka}}",
 	"grouppage-patroller": "{{ns:project}}:Obhodniki",
 	"group-propertycreator": "Ustvarjalci lastnosti",
 	"group-propertycreator-member": "{{GENDER:$1|ustvarjalec lastnosti|ustvarjalka lastnosti|ustvarjalec/ka lastnosti}}",
