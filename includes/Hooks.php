@@ -130,6 +130,9 @@ class Hooks implements
 			// T139797
 			'delete-toobig',
 			'feedback-termsofuse',
+			'globalblocking-blockedtext-ip',
+			'globalblocking-blockedtext-range',
+			'globalblocking-blockedtext-xff',
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
 			'interfaceadmin-info',
