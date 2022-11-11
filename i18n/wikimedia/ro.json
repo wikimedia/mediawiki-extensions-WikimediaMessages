@@ -19,6 +19,7 @@
 			"Rsocol",
 			"Stelistcristi",
 			"Strainu",
+			"Vlad5250",
 			"WebSourceContentRO",
 			"Wintereu",
 			"XXN"
@@ -186,6 +187,8 @@
 	"upload-form-label-not-own-work-local-commons": "Poate doriți să încercați [[Special:Upload|pagina de încărcare de la {{SITENAME}}]], în cazul în care acest site permite încărcarea acestui fișier în conformitate cu politicile sale.",
 	"interlanguage-link-mul": "Mai multe limbi",
 	"right-templateeditor": "Modifică formate protejate",
+	"restriction-level-templateeditor": "protejat ca format",
+	"protect-level-templateeditor": "Numai editorii de formate și administratorii",
 	"right-extendedconfirmed": "Modifică pagini restricționate",
 	"restriction-level-extendedconfirmed": "protejată sporit",
 	"protect-level-extendedconfirmed": "Numai editorii cu grad sporit (confirmare extinsă) și administratorii",

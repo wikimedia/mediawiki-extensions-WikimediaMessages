@@ -77,7 +77,7 @@
 	"wm-license-information-permission": "Dovoljenje",
 	"wm-license-information-permission-reusing-link": "c:Commons:Reusing content outside Wikimedia",
 	"wm-license-information-permission-reusing-text": "Ponovna uporaba datoteke",
-	"wm-license-information-permission-see-below": "glej spodaj",
+	"wm-license-information-permission-see-below": "Glej spodaj.",
 	"wm-license-information-other-versions": "Druge različice",
 	"wm-license-lgpl-text": "Ta knjižnica je [[{{int:wm-license-free-software-wiki-link}}|prosto programje]]; lahko jo razširjate in/ali spreminjate pod pogoji '''[[{{int:wm-license-lgpl-wiki-link}}|Manjša splošna javna licenca GNU]]''', kot jo je objavila ustanova [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bodisi različice 2.1 ali (po vaši izbiri) katere koli poznejše različice. Ta knjižnica se razširja v upanju, da bo uporabna, vendar '''brez vsakršnega jamstva'''; tudi brez implicitnega jamstva '''cenovne vrednosti''' ali '''primernosti za določen namen'''. Podrovnosti so navedene v besedilu [{{int:wm-license-lgpl-2.1-full-link}} različice 2.1] in [{{int:wm-license-lgpl-3-full-link}} različice 3 Manjše splošne javne licence GNU].",
 	"wm-license-lgpl-wiki-link": "w:sl:Dovoljenje GNU za rabo proste dokumentacije",
