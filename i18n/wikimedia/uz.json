@@ -4,7 +4,8 @@
 			"CoderSI",
 			"Nemo bis",
 			"Sociologist",
-			"Malikxan"
+			"Malikxan",
+			"Zafar Shamsiddinov"
 		]
 	},
 	"wikimediamessages-desc": "Vikipediya maxsus xabarlari",
@@ -143,6 +144,8 @@
 	"cant-delete-main-page": "Siz bosh sahifani oʻchirishingiz yoki nomini oʻzgartirishingiz mumkin emas.",
 	"upload-more-photos-of-this-monument": "Ushbu obyektning yana boshqa suratlarini yuklash",
 	"wikimedia-developers": "Dasturchilar",
+	"wikimedia-globalblocking-ipblocked": "'''Sizning IP manzilingiz [[m:Special:MyLanguage/Global blocks|barcha vikilarda bloklangan]].'''\n\n* Bloklovchi: $1 ($2).\n* Bloklash sababi: ''$3''.\n\n* Bloklangan vaqt: $4 \n* Bloklashning tugash muddati: $5 \n\nJoriy IP manzilingiz: $6.\nHar qanday soʻrovnoma berishda yuqoridagi barcha maʼlumotlarni koʻrsatib oʻting.\n\nAgar adashib bloklangan deb hisoblasangiz, qoʻshimcha maʼlumot va koʻrsatmalarni [[m:Special:MyLanguage/No open proxies|Ochiq boʻlmagan proksi-serverlar]] global boshqaruvidan topishingiz mumkin. \nAks holda, blokni muhokama qilish uchun [[m:Steward requests/Global|Meta-Wikiʼda koʻrib chiqish uchun soʻrov yuborish]] orqali amalga oshiring.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Soʻrovingiz boʻyicha foydalaniladigan bir yoki bir nechta proksi-serverlar [[m:Special:MyLanguage/Global blocks|butunlay bloklangan]].'''\n\nBloklovchi: $1 ($2).\nSababi: ''$3''.\n\n* Bloklangan vaqti: $4 \n* Bloklashning tugash muddati: $5 \n\nBloklangan proksi-manzil $6.\nHar qanday soʻrovingizda yuqoridagilarni koʻrsatib oʻting.\n\nAgar Siz adashib bloklangan deb hisoblasangiz, qoʻshimcha maʼlumot va koʻrsatmalarni [[m:Special:MyLanguage/No open proxies|Mavjud boʻlmagan ochiq proksi-serverlar]] global siyosat sahifasidan topishingiz mumkin.\nAks holda, blokirovkani muhokama qilish uchun [[m:Steward requests/Global|Meta-Wikiʼda koʻrib chiqish uchun soʻrov yuboring]].",
 	"upload-form-label-own-work-message-commons": "Men ushbu faylning mualliflik huquqi egasi ekanligimni, uni Vikiomborda [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] litsenziyasi ostida qaytarishsiz eʼlon qilinishiga hamda [https://foundation.wikimedia.org/wiki/Terms_of_Use foydalanish shartlariga] rozi ekanligimni tasdiqlayman.",
 	"upload-form-label-not-own-work-message-commons": "Agar ushbu fayl uchun mualliflik huquqiga ega boʻlmasangiz yoki uni boshqa litsenziya ostida eʼlon qilmoqchi boʻlsangiz, [https://commons.wikimedia.org/wiki/Special:UploadWizard Vikiombordagi fayl yuklash ustaxonasidan] foydalanishingiz mumkin.",
 	"upload-form-label-not-own-work-local-commons": "Shuningdek, ushbu faylni {{SITENAME}} qoidalariga binoan yuklashning iloji boʻlsa, [[Special:Upload|mana bu maxsus sahifa]]dan foydalanishingiz mumkin.",

@@ -36,6 +36,8 @@
 	"group-eliminator": "हटाउनेहरु",
 	"group-filemover": "फाइल सार्नेहरु",
 	"group-flood": "समीक्षक बोटहरू",
+	"group-flood-member": "{{GENDER:$1|समीक्षक बोट}}",
+	"grouppage-flood": "{{ns:project}}:समीक्षक बोटहरू",
 	"group-founder": "संस्थापकहरु",
 	"group-import": "आयातकर्ताहरू",
 	"group-interface-editor": "अन्तरमोहडा सम्पादकहरू",

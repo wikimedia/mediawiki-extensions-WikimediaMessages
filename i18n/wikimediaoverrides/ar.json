@@ -9,7 +9,9 @@
 			"Michel Bakni",
 			"NEHAOUA",
 			"SaldırganSincap",
-			"Shbib Al-Subaie"
+			"Shbib Al-Subaie",
+			"FShbib",
+			"Ideophagous"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في اليوم الأخير، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
@@ -38,5 +40,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "meta.wikimedia.org يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع",
 	"wikimedia-urlshortener-badaccessgroups": "لا يمكن إنشاء الروابط القصيرة إلا عبر صفحة[[:m:Special:UrlShortener|خاص:مقصر المسار]] على meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع meta.wikimedia.org.",
+	"wikimedia-webauthn-ui-login-prompt": "يرجى لمس جهاز التحقق الخاص بك أو اتباع التعليمات من المتصفح. يرجى ملاحظة أنك ستحتاج إلى تسجيل الدخول إلى نفس الويكي حيث قمت بتسجيل جهاز التحقق الخاص بك في الأصل",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سياسة الخصوصية]"
 }
