@@ -192,6 +192,7 @@
 	"grouppage-curator": "{{ns:project}}:Кураторы",
 	"group-global-bot": "Глобальные боты",
 	"group-global-bot-member": "{{GENDER:$1|глобальный бот}}",
+	"group-global-deleter": "Глобальные удаляющие",
 	"group-global-flow-create": "Глобальные создатели Flow",
 	"group-global-flow-create-member": "{{GENDER:$1|Глобальный создатель Flow}}",
 	"group-global-ipblock-exempt": "Исключения из глобальных IP-блокировок",
@@ -237,7 +238,7 @@
 	"group-wmf-supportsafety": "Служба поддержки WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Служба поддержки WMF}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Служба поддержки WMF",
-	"tag-emoji": "Смайлы",
+	"tag-emoji": "Эмодзи",
 	"tag-emoji-description": "Используется глобальным фильтром злоупотребления 110.",
 	"tag-AWB": "[[:w:ru:Википедия:AutoWikiBrowser|AutoWikiBrowser]]",
 	"tag-AWB-description": "Правки, сделанные через [[:w:ru:Википедия:AutoWikiBrowser|AutoWikiBrowser]]",
@@ -366,5 +367,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Я не знаю",
 	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
-	"gadget-souspages-subpages": "Подстраницы"
+	"gadget-souspages-subpages": "Подстраницы",
+	"ipinfo-global-contributions-url-label": "Глобальный вклад"
 }

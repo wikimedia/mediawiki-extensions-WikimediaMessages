@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"EdoAug",
 			"Jon Harald Søby"
 		]
 	},
@@ -33,8 +34,8 @@
 	"search-interwiki-results-bat_smgwiki": "Viser resultater fra [[:bat-smg:|Wikipedia på samogitisk]].",
 	"search-interwiki-results-bawiki": "Viser resultater fra [[:ba:|Wikipedia på basjkirsk]].",
 	"search-interwiki-results-bclwiki": "Viser resultater fra [[:bcl:|Wikipedia på bikolsk]].",
-	"search-interwiki-results-be_taraskwiki": "Viser resultater fra [[:be-tarask:|Wikipedia på hviterussisk (taraškievica)]].",
-	"search-interwiki-results-bewiki": "Viser resultater fra [[:be:|Wikipedia på hviterussisk]].",
+	"search-interwiki-results-be_taraskwiki": "Viser resultater fra [[:be-tarask:|Wikipedia på belarusisk (taraškievica)]].",
+	"search-interwiki-results-bewiki": "Viser resultater fra [[:be:|Wikipedia på belarusisk]].",
 	"search-interwiki-results-bgwiki": "Viser resultater fra [[:bg:|Wikipedia på bulgarsk]].",
 	"search-interwiki-results-bhwiki": "Viser resultater fra [[:bh:|Wikipedia på bhojpuri]].",
 	"search-interwiki-results-biwiki": "Viser resultater fra [[:bi:|Wikipedia på bislama]].",
