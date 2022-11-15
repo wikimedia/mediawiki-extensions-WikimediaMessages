@@ -8,7 +8,10 @@
 			"Snævar",
 			"Spacebirdy",
 			"Sveinn í Felli",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Danniel07",
+			"LoveIceLang",
+			"Steinninn"
 		]
 	},
 	"wikimediamessages-desc": "Sérstök Wikimedia skilaboð",
@@ -78,7 +81,7 @@
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use",
 	"upload-form-label-own-work-message-commons": "Ég staðfesti að ég eigi höfundarréttinn að þessari skrá og samþykki óafturkræft að gefa þessa skrá til Wikimedia Commons undir  [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] leyfi. Ég samþykki [https://foundation.wikimedia.org/wiki/Terms_of_Use notendaskilmálana].",
 	"upload-form-label-not-own-work-message-commons": "Ef þú átt ekki höfundarréttinn að þessari skrá, eða þú vilt gefa það út undir öðru leyfi, prófaðu  [https://commons.wikimedia.org/wiki/Special:UploadWizard Innsendingaálfinn á Commons].",
-	"upload-form-label-not-own-work-local-commons": "Þú gætir einnig prófað að nota [[Special:Upload|innhleðslusíðuna á {{SITENAME}}]], ef það má hlaða þessari skrá inn samkvæmt reglum þeirra.",
+	"upload-form-label-not-own-work-local-commons": "Þú gætir einnig prófað að nota [[Wikipedia:Hlaða inn skrá|innhleðslusíðuna á {{SITENAME}}]], ef það má hlaða þessari skrá inn samkvæmt reglum þeirra.",
 	"interlanguage-link-mul": "Fleiri tungumál",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, frjálsa alfræðiritið",

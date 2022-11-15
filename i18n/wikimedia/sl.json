@@ -285,7 +285,7 @@
 	"protect-level-editeditorprotected": "dovoli samo urejevalcem",
 	"restriction-level-editeditorprotected": "zaščita urejevalcev",
 	"action-editextendedsemiprotected": "urejanje strani, zaščitenih kot »{{int:protect-level-editextendedsemiprotected}}«",
-	"right-editextendedsemiprotected": "Urejanje strani, zaščitenih kot  »{{int:protect-level-editextendedsemiprotected}}«",
+	"right-editextendedsemiprotected": "Urejanje strani, zaščitenih kot »{{int:protect-level-editextendedsemiprotected}}«",
 	"protect-level-editextendedsemiprotected": "Dovoli samo samodejnim obhodnikom",
 	"restriction-level-editextendedsemiprotected": "zaščita samodejnih obhodnikov",
 	"action-banner-protect": "zaščito prevedljivih sporočil, ki jih uporablja razširitev Prevajalnik in so vključena v pasice CentralNotice",

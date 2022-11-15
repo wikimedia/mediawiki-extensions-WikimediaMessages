@@ -254,7 +254,7 @@
 	"group-wmf-supportsafety": "Служба поддержки WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Служба поддержки WMF}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Служба поддержки WMF",
-	"tag-emoji": "Смайлы",
+	"tag-emoji": "Эмодзи",
 	"tag-emoji-description": "Используется глобальным фильтром злоупотребления 110.",
 	"tag-AWB": "[[:w:ru:Википедия:AutoWikiBrowser|AutoWikiBrowser]]",
 	"tag-AWB-description": "Правки, сделанные через [[:w:ru:Википедия:AutoWikiBrowser|AutoWikiBrowser]]",

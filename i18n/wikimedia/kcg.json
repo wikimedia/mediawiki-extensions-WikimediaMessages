@@ -9,13 +9,13 @@
 	"tooltip-n-sitesupport": "Beang nzi̱t",
 	"wikimedia-copyright": "A̱ sa̱u lyuut hu a̱tafa <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Kwaa̱mbwat A̱ka̱wat Creative Commons Attribution-ShareAlike</a> hu hwa;\nnka̱nda̱n nta̱m jhyang bye shyia̱.\nNwuan <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Nka̱nda̱n Nyian Ta̱m</a> a li a̱kyokyuat nkhang wu.",
 	"wikimedia-copyrightwarning": "Mi̱ di̱ sak a̱ka̱shai na, ku fa da̱ a shim [https://foundation.wikimedia.org/wiki/Terms_of_Use Nka̱nda̱n Nyian Ta̱m] na, a̱wot a si̱si̱, di̱ mi̱n shyak fwuo á̱zanson, shim a na sa̱u nwuat ang hu ca̱caat ma̱ng [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Kwaa̱mbwat a̱ka̱wat CC BY-SA 3.0] hu ma̱ng si̱ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] hu.\nA shim hyperlink ku URL nyiung maai yong a̱pyia̱ nggu nang a̱di̱dam kaswuo a̱tafa kwaa̱mbwat a̱ka̱wat Creative Commons hu.",
-	"wikibase-sitelinks-wikinews": "Nkhangwuki",
-	"wikibase-sitelinks-wikiquote": "Tyanwuki",
+	"wikibase-sitelinks-wikinews": "Wukinkhang",
+	"wikibase-sitelinks-wikiquote": "Wukintyan",
 	"wikibase-sitelinks-wikisource": "A̱tyinwuki",
-	"wikibase-sitelinks-wikivoyage": "A̱cyetwuki",
+	"wikibase-sitelinks-wikivoyage": "Wukia̱ka̱cyet",
 	"wikimedia-developers": "Á̱nietnok",
 	"wikimedia-globalblocking-ipblocked": "'''Á̱ [[m:Special:MyLanguage/Global blocks|ku fwun ma̱ a̱mgba̱m a̱yaawuki]], a̱vwuonswat IP ang ka.'''\n\nA̱tyu a̱ fwun wu wa yet $1 ($2).\nJat ji nang gu ku nwuak a̱ni ja yet ''$3''.\n\n* Jen tsa fwun ji: $4\n* Jen tyiai fwun ji: $5\n\nA̱vwuonswat IP ang kya yet $6.\nMa̱sa̱kut mbeang a̱mgba̱m a̱kyokyuat nkhang tazwa wu mami a̱mgba̱m lyip hu nang a lyip a̱ni.\n\nKa̱ a nwuak a̱cucuk nyia̱ á̱ ku fwun ang mi̱ di̱n ghyuap hwa, da̱ a maai nshyia̱ nkhang jhyang ma̱ng tyiet mami kwai-nfwuo-á̱niet [[m:Special:MyLanguage/No open proxies|Á̱gang a̱yaawukili nshyia̱ bah]] si̱ a̱mgba̱m swanta hu.\nKalak, ka̱ a cat a bwuo a̱lyiat tazwa fwun hu, da̱ ma̱sa̱kut [[m:Steward requests/Global|ta̱m ma̱ng kyang hu a cat a̱ni á̱ bu nwuan ang dyo mi̱ Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sava wukili a̱nyiung ku a̱yaasava wukili ma̱ a̱di̱di̱t nang a ku nyia̱ ta̱m ma̱ng di̱ catkyang ang hu ku san [[m:Special:MyLanguage/Global blocks|fwun si̱ a̱mgba̱m swanta]] hu.'''\n\nA̱tyu a̱ nyia̱ fwun wu wa yet $1 ($2).\nJat ji nang gu ku nwuak a̱ni ja yet ''$3''.\n\n* Tsa fwun hu: $4\n* Tyiai fwun hu: $5\n\nA̱vwuonswat wukili nang á̱ fwun kya ku yet $6.\nMa̱sa̱kut mbeang a̱mgba̱m a̱kyokyuat nkhang tazwa wu mami a̱mgba̱m lyip hu nang a lyip a̱ni.\n\nKa̱ a nwuak a̱cucuk nyia̱ á̱ ku fwun ang mi̱ di̱n ghyuap hwa, da̱ a maai a shyia̱ nkhang jhyang ma̱ng tyiet di̱ kwai-fwuo-á̱niet [[m:Special:MyLanguage/No open proxies|Á̱gang a̱yaawukili nshyia̱ bah]] si̱ a̱mgba̱m swanta hu.\nKalak, ka̱ a cat a bwuo a̱lyiat tazwa fwun hu, da̱ ma̱sa̱kut [[m:Steward requests/Global|ta̱m ma̱ng kyang hu a cat a̱ni mat á̱ bu nwuan ang dyo mi̱ Meta-Wiki]].",
 	"wikimedia-statslink": "Lung lulung",
-	"wikimedia-cookiestatement": "Shei a̱lyiat kuki"
+	"wikimedia-cookiestatement": "Shei a̱lyiat kuki na"
 }
