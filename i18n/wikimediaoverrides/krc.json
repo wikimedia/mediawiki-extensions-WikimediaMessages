@@ -1,8 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Къарачайлы"
+		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(сайлауда болуш)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Суратны кёрелмеймисе? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтха соруу бер]]",
-	"wikimedia-centralauth-groupname": "Викимедиа фонда"
+	"wikimedia-centralauth-groupname": "Викимедиа фонда",
+	"wikimedia-globalblocking-blockedtext-xff": "'''Сизни сорууугъузда болгъан прокси-серверледен бири неда бир талайы  [[m:Special:MyLanguage/Global blocks|глобал халда блок]] этилгендиле.'''\n\nБлок болууну этилгенди $1\nБелгиленнген чурум: ''$2''.\n\n* блок болууну башланыуу: $8 \n* блок болууну бошалыуу: $6 \n\nБлок этилген прокси-адрес — $7.\nБютеу бу информацияны сорууларыгъызгъа къошугъуз.\n\nДжангылыб блок этилгеннге санай эсегиз, глобал джорукъланы ''[[m:Special:MyLanguage/No open proxies|Ачыкъ прокси-серверлени хайырландырыуну джарамауу]]'' бетинде къошакъ информация эмда инструкцияланы табаргъа боллукъсуз.\nАлай тюл эсе, блок болууну сюзер ючюн [[m:Steward requests/Global|Мета-викиге джангыдан къарау бла соруу джазыгъыз]]."
 }
