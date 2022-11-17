@@ -10,7 +10,8 @@
 			"Yasen igra",
 			"לערי ריינהארט",
 			"Wangombe",
-			"MaryMunyoki"
+			"MaryMunyoki",
+			"DDesouza"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalum za Wikimedia",
@@ -56,5 +57,10 @@
 	"wikimedia-globalblocking-ipblocked": "'''Anwani yako ya IP [[m:Special:MyLanguage/Global blocks|imezuiwa kwenye wikis zote]].'''\n\nUtaratibu ulifanywa na $1 ($2).\nSababu uliyopewa ni ''$3''.\n\n* Mwanzo wa kizuizi: $4 \n* Muda wa mwisho wa kizuizi: $5 \n\nAnwani yako ya sasa ya IP ni $6.\nTafadhali jumuisha maelezo yote hapo juu katika hoja zozote utakazouliza.\n\nIkiwa unaamini kuwa ulizuiwa kimakosa, unaweza kupata maelezo na maagizo ya ziada katika sera ya kimataifa ya [[m:Special:MyLanguage/No open proxies|No open proxies]]. \nLa sivyo, ili kujadili kizuizi tafadhali [[m:Steward requests/Global|chapisha ombi la ukaguzi kwenye Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Seva mbadala moja au zaidi zinazotumiwa na ombi lako ni [[m:Special:MyLanguage/Global blocks|zimezuiwa kimataifa]].'''\n\nKizuizi kilitengenezwa na $1 ( $2 ).\nSababu iliyotolewa ni '' $3 ''.\n\n* Mwanzo wa block: $4 \n* Muda wa mwisho wa block: $5 \n\nAnwani ya proksi iliyozuiwa ilikuwa $6 .\nTafadhali jumuisha maelezo yote hapo juu katika hoja zozote utakazouliza.\n\nIkiwa unaamini kuwa ulizuiwa kimakosa, unaweza kupata maelezo ya ziada na maagizo katika [[m:Special:MyLanguage/No open proxies|Hakuna proksi zilizofunguliwa]] sera ya kimataifa.\nLa sivyo, ili kujadili kizuizi tafadhali [[m:Steward requests/Global|chapisha ombi la ukaguzi kwenye Meta-Wiki]].",
 	"wikimedia-statslink": "takwimu",
-	"wikimedia-cookiestatement": "Maelezo ya kuki"
+	"wikimedia-cookiestatement": "Maelezo ya kuki",
+	"research-incentive-message": "Je, ungependa kushiriki katika utafiti unaolipiwa wa watumiaji wa Wikipedia?",
+	"research-incentive-description": "Jaza fomu ili kuandikishwa katika orodha yetu ya washiriki. Utatumiwa habari mara kwa mara kuhusu nafasi za kushiriki katika utafiti wa Wikipedia. Unaweza kujiondoa kwenye orodha hiyo wakati wowote.",
+	"research-incentive-link": "https://airtable.com/shrcLVxFGHIJipQoZ",
+	"research-incentive-privacy": "Tazama sera yetu ya faragha na upate maelezo zaidi kuhusu mpango wetu wa utafiti [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/sw hapa].",
+	"research-incentive-confirm-msg": "Asante!"
 }
