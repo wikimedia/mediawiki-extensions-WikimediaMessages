@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Balyozxane",
 			"Bikarhêner"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(alîkariya hilbijartinê bike)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nikarî wêne bibînî? [[{{MediaWiki:createacct-captcha-help-url}}|Hesabekî bixwaze]]",
+	"wikimedia-discussiontools-replywidget-terms-click": "Bi tikandina bişkoka \"$1\", tu [https://foundation.wikimedia.org/wiki/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina nivîsa xwe {{PLURAL:$3|di bin}} $2 de dipejirînî.",
+	"wikimedia-flow-terms-of-use-edit": "Bi tomarkirina guhartinên xwe, tu [https://foundation.wikimedia.org/wiki/Terms_of_Use Mercên bikaranînê] dipejirînî, û tu bi awayekî bêveger parvekirina nivîsa xwe {{PLURAL:$2|di bin}} $1 de dipejirînî.",
 	"wikimedia-sitematrix-others": "Projeyên din ên Wîkîmedyayê"
 }

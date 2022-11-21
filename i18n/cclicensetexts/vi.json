@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"CactiStaccingCrane",
 			"Minh Nguyen",
 			"Multichill",
 			"Trần Nguyễn Minh Huy",
@@ -160,7 +161,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Tập tin này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/si/deed.vi Ghi công–Chia sẻ tương tự 2.5 Slovenia].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Tập tin này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/tw/deed.vi Ghi công–Chia sẻ tương tự 2.5 Đài Loan].",
 	"wm-license-cc-by-sa-2.5-za-text": "Tập tin này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/za/deed.vi Ghi công–Chia sẻ tương tự 2.5 Nam Phi].",
-	"wm-license-cc-by-sa-3.0-text": "Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Ghi công–Chia sẻ tương tự 3.0 Chưa chuyển đổi]",
+	"wm-license-cc-by-sa-3.0-text": "Tập tin này được phát hành theo Giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Ghi công - Chia sẻ tương tự 3.0 Unported]",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Tác phẩm này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Ghi công–Chia sẻ tương tự, các phiên bản [https://creativecommons.org/licenses/by-sa/3.0/deed.vi 3.0 Chưa chuyển đổi], [https://creativecommons.org/licenses/by-sa/2.5/deed.vi 2.5 Chung], [https://creativecommons.org/licenses/by-sa/2.0/deed.vi 2.0 Chung], và [https://creativecommons.org/licenses/by-sa/1.0/deed.vi 1.0 Chung].",
 	"wm-license-cc-by-sa-3.0-at-text": "Tập tin này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.vi Ghi công–Chia sẻ tương tự 3.0 Áo].",
 	"wm-license-cc-by-sa-3.0-au-text": "Tập tin này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/au/deed.vi Ghi công–Chia sẻ tương tự 3.0 Úc].",
@@ -206,14 +207,14 @@
 	"wm-license-cc-sa-2.0-jp-text": "Tập tin này được phát hành theo giấy phép [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.vi Chia sẻ tương tự 2.0 Nhật Bản].",
 	"wm-license-cc-zero-text": "Tập tin này được phân phối theo [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.vi Hiến tặng vào Phạm vi Công cộng Toàn thế giới CC0].",
 	"wm-license-cc-zero-explanation": "Người nào gán tài liệu này với tác phẩm nghĩa là đã hiến tác phẩm cho [[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]] bằng cách từ bỏ mọi quyền lợi của người đó đối với tác phẩm theo quy định của luật bản quyền, có hiệu lực trên toàn thế giới và các quyền lợi pháp lý phụ mà người đó có được trong tác phẩm, đến mức độ mà luật pháp cho phép. Bạn được tự do sao chép, phân phối, và biểu diễn tác phẩm này, tất cả đều không bắt buộc ghi công.",
-	"wm-license-cc-free": "Bạn được tự do:",
+	"wm-license-cc-free": "Bạn được phép:",
 	"wm-license-cc-free-to-share-header": "chia sẻ",
 	"wm-license-cc-free-to-share-text": "sao chép, phân phối và chuyển giao tác phẩm",
 	"wm-license-cc-free-to-remix-header": "pha trộn",
 	"wm-license-cc-free-to-remix-text": "để chuyển thể tác phẩm",
 	"wm-license-cc-conditions": "Theo các điều kiện sau:",
 	"wm-license-cc-conditions-attribution-header": "ghi công",
-	"wm-license-cc-conditions-attribution-text": "Bạn phải ghi công tương ứng, cung cấp một liên kết đến giấy phép, và cho thấy các thay đổi có được thực hiện hay không. Bạn có thể làm điều đó bằng bất ký cách nào hợp lý, nhưng không phải bằng các cách gợi ý rằng người cho phép ủng hộ bạn hay việc sử dụng của bạn.",
+	"wm-license-cc-conditions-attribution-text": "Bạn phải ghi lại tác giả và nguồn, liên kết đến giấy phép, và các thay đổi đã được thực hiện, nếu có. Bạn có thể làm các điều trên bằng bất kỳ cách hợp lý nào, miễn sao không ám chỉ rằng người cho phép ủng hộ bạn hay việc sử dụng của bạn.",
 	"wm-license-cc-conditions-share_alike-header": "chia sẻ tương tự",
 	"wm-license-cc-conditions-share_alike-text": "Nếu bạn thay thế, biến đổi, hoặc làm tác phẩm khác dựa trên tác phẩm này, bạn chỉ được phân phối tác phẩm mới tạo ra với [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses một giấy phép y hệt, tương tự hoặc tương thích] với tác phẩm gốc.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.vi",

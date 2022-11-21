@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"CactiStaccingCrane",
 			"Minh Nguyen",
 			"Multichill",
 			"NguoiDungKhongDinhDanh",
@@ -103,5 +104,5 @@
 	"wm-license-self-one-license-with-author": "$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:",
 	"wm-license-self-multiple-licenses": "Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:",
 	"wm-license-self-multiple-licenses-with-author": "$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:",
-	"wm-license-self-multiple-licenses-select": "Bạn có thể tùy ý lựa chọn giấy phép."
+	"wm-license-self-multiple-licenses-select": "Bạn có thể chọn giấy phép mà bạn muốn."
 }

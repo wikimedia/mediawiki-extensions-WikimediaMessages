@@ -266,5 +266,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Ei",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "En ole varma",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Tämä on Wikimedia Foundationin suorittama anonyymi kyselytutkimus. Voit [https://meta.wikimedia.org/wiki/Community_Safety lukea lisää] tai tarkistaa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement tietosuojalausunnon].",
+	"readinglists-import-app": "Tuo tämä lukulista asentamalla Wikipedia-sovelluksen uusin versio ja painamalla alla olevaa \"Tuo\"-nappia.",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset"
 }
