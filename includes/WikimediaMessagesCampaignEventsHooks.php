@@ -2,14 +2,14 @@
 
 namespace MediaWiki\Extension\WikimediaMessages;
 
-use MediaWiki\Extension\CampaignEvents\Hooks\CampaignEventsGetPolicyMessageHook;
+use MediaWiki\Extension\CampaignEvents\Hooks\CampaignEventsGetPolicyMessageForRegistrationHook;
 
-class WikimediaMessagesCampaignEventsHooks implements CampaignEventsGetPolicyMessageHook {
+class WikimediaMessagesCampaignEventsHooks implements CampaignEventsGetPolicyMessageForRegistrationHook {
 
 	/**
 	 * @inheritDoc
 	 */
-	public function onCampaignEventsGetPolicyMessage( ?string &$message ) {
+	public function onCampaignEventsGetPolicyMessageForRegistration( ?string &$message ) {
 		$message = 'ext-campaignevents-register-policy';
 	}
 }

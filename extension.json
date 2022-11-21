@@ -112,7 +112,7 @@
 			"handler": "WikimediaMessagesHooks"
 		},
 		"CheckUserSubtitleLinks": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onCheckUserSubtitleLinks",
-		"CampaignEventsGetPolicyMessage": {
+		"CampaignEventsGetPolicyMessageForRegistration": {
 			"handler": "WikimediaMessagesCampaignEventsHooks"
 		}
 	},
