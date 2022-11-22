@@ -431,7 +431,7 @@
 	"ext-campaignevents-register-policy": "Legal disclaimer shown when a user tries to register for an event. The word for \"Registration\" should be consistent with the word used in the messages for the Campaign Events extension, for example {{msg-mw|Campaignevents-register-confirmation-top}}.",
 	"ext-campaignevents-registration-form-policy": "Policy message shown in the footer of the registrtion form at [[Special:EnableEventRegistration]] and [[Special:EditEventRegistration]].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Legal disclaimer in the feedback survey on [[Special:SimilarEditors]]",
-	"readinglists-import-app": "Prompt user to download app to import reading list.",
+	"readinglists-import-app": "Prompt user to download app to import reading list.\n\n\"Import\" is {{msg-mw|Readinglists-import-button-label}}",
 	"readinglists-list-empty-message": "Prompt user that they can populate their list with the app.",
 	"research-incentive-message": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey question.",
 	"research-incentive-description": "{{Optional}}\n\n'''At the moment, this is an experiment that is intended only to Japanese-language users.'''\n\nResearch Incentive survey description.",
