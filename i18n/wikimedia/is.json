@@ -86,9 +86,12 @@
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, frjálsa alfræðiritið",
 	"interlanguage-link-commons": "Wikimedia Commons",
+	"eri-rcfilters-tour-intro-welcome-title": "Velkomin í bætta síun á nýlegum breytingum",
+	"eri-rcfilters-tour-intro-welcome-description": "Skoðaðu breytingar á skilvirkari hátt með því að nota nýjar síur, hæfileikann til að vista sett af síum, notendaskilgreinda áherslulitun og nýttu þér kosti oflugs vélnáms. $1",
 	"eri-rcfilters-tour-help": "Vita meira",
 	"eri-rcfilters-tour-intro-welcome-button": "Fínt, ég náði því",
 	"eri-rcfilters-tour-highlight-button": "Fínt, ég náði því",
+	"eri-wlfilters-tour-intro-welcome-title": "Velkomin í bætta vaktlistasíun",
 	"wikimedia-statslink": "Tölfræði",
 	"wikimedia-cookiestatement": "Yfirlýsing vegna vefkakna"
 }

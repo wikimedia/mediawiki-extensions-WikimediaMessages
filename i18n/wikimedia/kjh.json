@@ -2,12 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"AlexandrL714",
-			"Андрей Саг."
+			"Андрей Саг.",
+			"Amire80"
 		]
 	},
 	"sitesupport": "Сыйыхха пирерге",
 	"tooltip-n-sitesupport": "Писке полызығ кирек",
 	"wikimedia-copyright": "Текст пӧлікті азых <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; хоза варианттар тузаланарға чарир. Толдыразынаң іскіріг хостыра  <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> кӧренір.",
+	"wikibase-sitelinks-wikinews": "Викихабарлар",
+	"wikibase-sitelinks-wikiquote": "Викицитаталар",
+	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikimedia-developers": "Тӧстегҷілер",
-	"wikimedia-statslink": "Статистиказы"
+	"wikimedia-statslink": "Статистиказы",
+	"wikimedia-cookiestatement": "Куки файллардаңар заявление"
 }
