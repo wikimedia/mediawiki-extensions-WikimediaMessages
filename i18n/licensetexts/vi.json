@@ -6,7 +6,8 @@
 			"NguoiDungKhongDinhDanh",
 			"Thienhau2003",
 			"Trần Nguyễn Minh Huy",
-			"Vinhtantran"
+			"Vinhtantran",
+			"CactiStaccingCrane"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Người giữ bản quyền tập tin này, $1, cho phép mọi người dùng nó cho '''mọi mục đích, miễn là''' phải ghi công hợp lý cho người giữ bản quyền. Được phép tái phân phối, tạo ra tác phẩm phái sinh, sử dụng cho mục đích thương mại, và tất cả các hình thức sử dụng khác.",
@@ -78,7 +79,7 @@
 	"wm-license-licensing-update-text": "Thẻ quyền này được thêm vào tập tin trong khi [[{{int:wm-license-licensing-update-wiki-link}}|cập nhật giấy phép]] GFDL.",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/vi",
 	"wm-license-original-upload-log": "Nhật trình tải lên đầu tiên",
-	"wm-license-own-work": "Tác phẩm do chính người tải lên tạo ra",
+	"wm-license-own-work": "Tác phẩm được tạo bởi người tải lên",
 	"wm-license-pd-author-self-text": "Tôi, người giữ bản quyền của tác phẩm này, chuyển tác phẩm này vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''. Điều này có giá trị trên toàn thế giới.",
 	"wm-license-pd-author-with-author-text": "Tác phẩm này đã được tác giả của nó, '''$1''', phát hành vào '''[[{{int:wm-license-pd-wiki-link}}|phạm vi công cộng]]'''. Điều này có hiệu lực trên toàn thế giới.",
 	"wm-license-pd-author-not-legally-possible": "Tại một quốc gia mà luật pháp không cho phép điều này, thì:",
@@ -103,5 +104,5 @@
 	"wm-license-self-one-license-with-author": "$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo giấy phép sau:",
 	"wm-license-self-multiple-licenses": "Tôi, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:",
 	"wm-license-self-multiple-licenses-with-author": "$1, người giữ bản quyền tác phẩm này, từ đây phát hành nó theo các giấy phép sau:",
-	"wm-license-self-multiple-licenses-select": "Bạn có thể tùy ý lựa chọn giấy phép."
+	"wm-license-self-multiple-licenses-select": "Bạn có thể chọn giấy phép mà bạn muốn."
 }

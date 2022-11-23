@@ -3,11 +3,13 @@
 		"authors": [
 			"Dbc334",
 			"Janezdrilc",
-			"NegativeTwelveDollars"
+			"NegativeTwelveDollars",
+			"Eleassar"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Nadzornik",
 	"group-oversight": "Nadzorniki",
 	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica}}",
-	"hello": "Pozdravljeni"
+	"hello": "Pozdravljeni",
+	"thank-you": "{{GENDER:$1|Hvala.}}"
 }

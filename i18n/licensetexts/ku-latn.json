@@ -5,7 +5,8 @@
 			"George Animal",
 			"Ghybu",
 			"Gomada",
-			"Guherto"
+			"Guherto",
+			"Balyozxane"
 		]
 	},
 	"wm-license-artwork-title": "Sernav",
@@ -18,7 +19,7 @@
 	"wm-license-book-translator": "Wergêr",
 	"wm-license-book-volume": "Deng",
 	"wm-license-creator-description": "Danasîn",
-	"wm-license-gfdl-1.2-and-later": "Ev dosye di bin '''[[{{int:wm-license-gfdl-wiki-link}}|Lîsansa Belgekirina Azad a GNU]]''' hate barkirin.\nKopîkirin, belavkirin û guhertin di bin qebûlkirinên lîsansa GNU de ye, versiyona 1.2 versiyoneke kevintirîn a belavkirinê ya ji bo [[{{int:wm-license-fsf-wiki-link}}|Weqfa Nivîsbara Azad]], tê qebûlkirin. \nKopyeyek lîsanse di beşa bi sernavê ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lîsansa Belgekirina Azad a GNU]]''de cî digre.",
+	"wm-license-gfdl-1.2-and-later": "Ev dosye di bin '''[[{{int:wm-license-gfdl-wiki-link}}|Lîsansa Belgekirina Azad a GNU]]''' hate barkirin.\nKopîkirin, belavkirin û guhartin di bin qebûlkirinên lîsansa GNU de ye, versiyona 1.2 versiyoneke kevintirîn a belavkirinê ya ji bo [[{{int:wm-license-fsf-wiki-link}}|Weqfa Nivîsbara Azad]], tê qebûlkirin. \nKopyeyek lîsanse di beşa bi sernavê ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lîsansa Belgekirina Azad a GNU]]''de cî digre.",
 	"wm-license-information-description": "Danasîn",
 	"wm-license-information-source": "Çavkanî",
 	"wm-license-information-source-missing": "Agahiya '''çavkaniya''' vê pelê kêm e.",
@@ -28,7 +29,7 @@
 	"wm-license-information-permission": "Destûr",
 	"wm-license-information-permission-reusing-text": "Dîsa bikaranînê vê dosyeye",
 	"wm-license-information-permission-see-below": "Li jêr binêre.",
-	"wm-license-information-other-versions": "Guhertoyên din",
+	"wm-license-information-other-versions": "Guhartoyên din",
 	"wm-license-own-work": "Min çêkir",
 	"wm-license-self-multiple-licenses-select": "Tu dikarî lîsansa ku tu dixwazî hilbijêrî."
 }

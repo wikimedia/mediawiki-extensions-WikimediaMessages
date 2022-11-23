@@ -4,8 +4,10 @@
 			"TayfunEt."
 		]
 	},
+	"wm-license-information-description": "Тасвир",
 	"wm-license-information-source": "Излев",
 	"wm-license-information-date": "Вакыт",
 	"wm-license-information-author": "Автор",
-	"wm-license-own-work": "Оьзи еткен"
+	"wm-license-own-work": "Оьзи еткен",
+	"wm-license-self-multiple-licenses-select": "Истеген рухсатыны сайлап билесинъиз."
 }
