@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"RonaldPanaligan"
+			"RonaldPanaligan",
+			"Pare Mo"
 		]
 	},
-	"sitesupport": "Donasyon"
+	"sitesupport": "Donasyon",
+	"wikimedia-developers": "Manga manugdëvelop",
+	"wikimedia-statslink": "Estadistika"
 }
