@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Андрей Саг."
+			"Андрей Саг.",
+			"AlexandrL714"
 		]
 	},
-	"wm-license-information-author": "Автор"
+	"wm-license-information-date": "Кӱн",
+	"wm-license-information-author": "Автор",
+	"wm-license-own-work": "Позының тоғызы"
 }

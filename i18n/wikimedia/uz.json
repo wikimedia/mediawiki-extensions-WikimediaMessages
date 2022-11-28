@@ -5,7 +5,8 @@
 			"Nemo bis",
 			"Sociologist",
 			"Malikxan",
-			"Zafar Shamsiddinov"
+			"Zafar Shamsiddinov",
+			"Nataev"
 		]
 	},
 	"wikimediamessages-desc": "Vikipediya maxsus xabarlari",
@@ -111,7 +112,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Tarjima maʼmurlari",
 	"shared-repo-name-shared": "Vikiombor",
 	"wikimedia-copyright": "Matn <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike litsenziyasi</a> boʻyicha ommalashtirilmoqda, alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin (<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">batafsil</a>).",
-	"wikimedia-copyrightwarning": "Oʻzgarishlarni saqlash orqali siz [https://foundation.wikimedia.org/wiki/Terms_of_Use foydalanish shartlariga] rozi ekanligingizni bildirasiz, jumladan kiritgan maʼlumotlaringiz [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari ostida qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek, „Creative Commons“ shartlari bajarilishi uchun ushbu sahifa yoki uning URL-manziliga havola koʻrsatish kifoya ekanligini tushunib turibsiz.",
+	"wikimedia-copyrightwarning": "Oʻzgarishlarni saqlash orqali siz [https://foundation.wikimedia.org/wiki/Terms_of_Use foydalanish shartlariga] hamda kiritgan maʼlumotlaringiz [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari ostida qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek, „Creative Commons“ shartlari bajarilishi uchun ushbu sahifa yoki uning URL-manziliga havola koʻrsatish kifoya ekanligiga rozi boʻlasiz.",
 	"wikibase-repo-name": "Vikimaʼlumotlar",
 	"wikibase-page-schema-publisher-name": "Wikimedia Foundation, Inc.",
 	"wikibase-sitelinks-wikibooks": "Vikikitob",
