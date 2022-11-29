@@ -5,6 +5,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(helpez me selektar)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Vu povas vizitar pagini pri vua preferaji che [[m:Special:CentralAuth/$1|altra projeti de Wikimedia qui recevis vua kontributaji]] por kopiar datumi de vua konto de ca altra projeti.",
 	"wikimedia-createacct-imgcaptcha-help": "Ka vu ne povas vidar l'imajo? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez konto]]",
 	"wikimedia-centralauth-groupname": "la fonduro Wikimedia",
 	"wikimedia-sitematrix": "Listo di wiki-i Wikimedia",

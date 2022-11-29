@@ -10,6 +10,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "A wiki látogatói ezt az IP-címet használva {{PLURAL:$1|1 fiókot|$1 fiókot}} hoztak létre az elmúlt egy napban. Ez a megengedett maximum ezen időtartam alatt, így az erről a címről látogatók jelenleg nem hozhatnak létre újabb fiókokat.\n\nHa épp egy Wikimédiás témájú eseményen veszel részt, a megoldásért kérlek olvasd el az [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP-korlátozás ideiglenes emelése]] útmutatót.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(segítség)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Meglátogathatod a beállításaidat [[m:Special:CentralAuth/$1|más Wikimédia-projekteken, ahol közreműködtél]] az adott projektekből származó adatok letöltéséhez.",
 	"wikimedia-createacct-imgcaptcha-help": "Nem látod a képet? [[{{MediaWiki:createacct-captcha-help-url}}|Fiók igénylése]]",
 	"wikimedia-centralauth-groupname": "a Wikimédia Alapítvány",
 	"wikimedia-centralauth-login-error-locked": "<strong>A {{GENDER:$1|fiókodat}} [[m:Special:MyLanguage/Global locks|globálisan zárolták]],</strong> ezért nem jelentkezhetsz be egyetlen Wikimédia-wikibe sem. Ha kérdésed van, [[m:Special:Contact/stewards|vedd fel a kapcsolatot az intézőkkel]].",

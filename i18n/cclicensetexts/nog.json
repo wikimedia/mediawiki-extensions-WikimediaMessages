@@ -5,5 +5,9 @@
 		]
 	},
 	"wm-license-cc-by-sa-3.0-text": "Бул файл лицензияланган\n[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]",
-	"wm-license-cc-free": "Сиз азатсынъыз:"
+	"wm-license-cc-free": "Сиз азатсынъыз:",
+	"wm-license-cc-free-to-share-header": "тышка актарув",
+	"wm-license-cc-free-to-share-text": "копялув ве файлды баскаларга илетуьв",
+	"wm-license-cc-free-to-remix-header": "ремикс етуьв",
+	"wm-license-cc-free-to-remix-text": "денъиштируьв"
 }
