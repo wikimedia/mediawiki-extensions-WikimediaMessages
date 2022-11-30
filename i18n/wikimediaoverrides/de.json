@@ -9,7 +9,8 @@
 			"TMg",
 			"Talex42",
 			"Tobi 406",
-			"Umherirrender"
+			"Umherirrender",
+			"Wnme"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besucher dieses Wikis, die deine IP-Adresse benutzen, haben während des letzten Tages {{PLURAL:$1|ein Benutzerkonto|$1 Benutzerkonten}} erstellt. Dies ist die maximal erlaubte Anzahl in diesem Zeitraum.\nDaher können Besucher, die diese IP-Adresse benutzen, derzeit keine weiteren Benutzerkonten erstellen.\n\nFalls du dich auf einer Veranstaltung befindest, die sich auf die Mitwirkung bei Wikimedia-Projekten fokussiert, beantrage bitte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|eine temporäre Aufhebung der IP-Sperre]], um bei der Lösung dieses Problems zu helfen.",
@@ -49,7 +50,7 @@
 	"wikimedia-webauthn-ui-login-prompt": "Bitte berühre dein Verifizierungsgerät oder folge den Anweisungen des Browsers. Beachte, dass du dich im selben Wiki anmelden musst, in dem du dein Verifizierungsgerät ursprünglich registriert hast.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Datenschutzrichtlinie]",
 	"wikimedia-notification-body-oathauth-disable-other": "Wenn {{GENDER:$2|du}} dies nicht beantragt hast, solltest {{GENDER:$2|du}} WMF Trust & Safety kontaktieren.",
-	"wikimedia-ipinfo-source-geoip2": "Die Nutzung dieses Tools unterliegt den [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool].",
+	"wikimedia-ipinfo-source-geoip2": "Die Nutzung dieses Tools unterliegt den [https://foundation.wikimedia.org/wiki/Special:Mylanguage/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool].",
 	"wikimedia-ipinfo-infobox-use-terms": "Das IP-Informationstool verwendet die MaxMind-Datenbanken, um Details wie den ungefähren Standort, den Proxy und die Anzahl der Geräte anzuzeigen, die sich diese IP-Adresse teilen. Bitte lies die [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool], bevor du es aktivierst.",
 	"wikimedia-ipinfo-preference-use-agreement": "Ich stimme zu, dieses Werkzeug in Übereinstimmung mit den [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool] ausschließlich zur Untersuchung oder Verhinderung von Vandalismus, Missbrauch oder anderen Verstößen gegen die Richtlinien der Wikimedia Foundation oder der Gemeinschaft zu verwenden.",
 	"wikimedia-similareditors-error-default": "Etwas ist schiefgelaufen, wir untersuchen es. Wenn das Problem weiterhin besteht, wende dich bitte [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors an uns]."
