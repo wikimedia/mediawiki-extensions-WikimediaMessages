@@ -35,7 +35,9 @@
 			"علاء",
 			"محمد أحمد عبد الفتاح",
 			"DDesouza",
-			"Vlad5250"
+			"Vlad5250",
+			"FShbib",
+			"Ideophagous"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -230,6 +232,7 @@
 	"wikimedia-commons-copyright": "الملفَّات مُتاحة حسب التَّراخيص المُحدَّدة في صفحة وصفها. البيانات المُهيكَلة في نِطاقي الملفَّات والخواص مُرخَّصة <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">رخصة المشاع الإبداعي CC0</a>. النصوص غير المُهيكَلة تحت <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">رخصة المشاع الإبداعيِّ المُلزِمة بنَّسب العمل للمؤلِّف ومشاركة الأعمال المُشتقّة تحت رُخص الأَصل نفِسها</a>;\nقد تنطبق شروط إضافية.\nعند استخدامك لهذا الموقع، فأنت تُوافِق على <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\"> شروط الاستخدام</a> و<a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\" title=\"Wikimedia Foundation Privacy Policy\">سياسة الخصوصية</a>.",
 	"wikidata-copyright": "البيانات المُهيكلة مِن النِّطاق الرَّئِيس ونطاقات الخواص والمُفردات المُعجميَّة ومُخطط الكِيان مُرخَّصة تحت <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">رخصة المشاع الإبداعيِّ CC0 License</a>. النُّصوص  في النِّطاقات الأُخرى مُرخَّصة تحت <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">رخصة المشاع الإبداعيِّ المُلزِمة بنَّسب العمل للمؤلِّف ومشاركة الأعمال المُشتقّة تحت رُخص الأَصل نفِسها</a>;، وقد تسري شروط إضافية أخرى أيضاً. عند استخدامك لهذا الموقع، فأنت تُوافِق على <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\">شروط الاستخدام</a> و<a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">سياسة الخصوصية.</a>",
 	"wikimedia-copyrightwarning": "بالضغط على زر «{{int:savearticle}}»، فإنك توافق على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
+	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 رخصة المشاع الإبداعي المُلزِمة بنسب العمل للمؤلِّف وبترخيص المشتقات بالمثل 3.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/licenses/fdl.html رخصة جنو للوثائق الحرة]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|أهلاً بك}}، $1!",
 	"wikibase-repo-name": "ويكي بيانات",
