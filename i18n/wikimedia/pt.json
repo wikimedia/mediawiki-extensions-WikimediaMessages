@@ -29,6 +29,7 @@
 			"Raylton P. Sousa",
 			"Ruila",
 			"SandroHc",
+			"Scblr",
 			"Sir Lestaty de Lioncourt",
 			"TAndic (WMF)",
 			"Vitorvicentevalente",
@@ -382,7 +383,7 @@
 	"ext-campaignevents-register-policy": "Ao registar-se, concorda com as [https://foundation.wikimedia.org/wiki/Terms_of_Use condições de utilização], a [https://foundation.wikimedia.org/wiki/Privacy_policy política de privacidade], o [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct código de conduta universal] e qualquer norma local para criar um espaço amigável fornecida pelos organizadores do evento.",
 	"ext-campaignevents-registration-form-policy": "Os eventos de que a Wikimedia Foundation é anfitriã ou financiadora são obrigados a aderir a todas as normas da Wikimedia Foundation, incluindo a [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy segurança de jovens].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement declaração de privacidade] deste inquérito.",
-	"readinglists-import-app": "Para importar esta lista de leitura, instale a versão mais recente da aplicação móvel da Wikipédia e depois prima o botão \"Importar\" abaixo.",
+	"readinglists-import-app": "Para importar esta lista de leitura, instale a versão mais recente do aplicativo da Wikipedia:",
 	"readinglists-list-empty-message": "Pode importar esta lista instalando a aplicação da Wikipédia.",
 	"ipinfo-global-contributions-url-label": "Contribuições globais"
 }
