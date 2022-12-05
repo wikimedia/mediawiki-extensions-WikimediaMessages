@@ -5,6 +5,7 @@
 			"Iohanen"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Es is erlaabd, die Datei unner de Bedingunge fun de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-Lizenz fer freie Dokumentazion]]''', Vërsion 1.2 odder fun ener spederer Vërsion, publikeerd fun de ''[[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]'', zu kopieere, zu ferbreide un/odder zu ennre; es gebbd keen unferennerliche Abschnidd, keen ferrerster un keen hinnerster Umschlaaghtext. Das ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' Kapitel schliesd en Copia fun de Lizenz in.",
 	"wm-license-information-description": "Beschreibung",
 	"wm-license-information-source": "Quell",
 	"wm-license-information-date": "Datum",
@@ -12,5 +13,5 @@
 	"wm-license-information-permission": "Permizion",
 	"wm-license-information-permission-reusing-text": "Weidernutzung die Datei",
 	"wm-license-own-work": "Eichnes Werrek",
-	"wm-license-self-multiple-licenses-select": "Du derfst es unner ener fon de owiche Lizenze fon deiner Waal ferwenne."
+	"wm-license-self-multiple-licenses-select": "Du derfst es unner ener fun de owiche Lizenze fun deiner Waal ferwenne."
 }

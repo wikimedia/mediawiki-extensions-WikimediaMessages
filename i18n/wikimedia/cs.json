@@ -52,8 +52,10 @@
 	"group-abusefilter": "Správci filtrů zneužití",
 	"group-abusefilter-member": "{{GENDER:$1|správce|správkyně|správce}} filtrů zneužití",
 	"grouppage-abusefilter": "{{ns:project}}:Správci filtrů zneužití",
-	"group-abusefilter-helper": "Správci filtrů zneužití",
+	"group-abusefilter-helper": "Pomocníci pro filtry zneužití",
 	"group-abusefilter-helper-member": "{{GENDER:$1|pomocník|pomocnice}} pro filtry zneužití",
+	"group-abusefilter-maintainer": "Správci filtrů zneužití",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|správce|správkyně|správce}} filtrů zneužití",
 	"group-accountcreator": "Zakladatelé účtů",
 	"group-accountcreator-member": "{{GENDER:$1|zakladatel|zakladatelka|zakladatel}} účtů",
 	"grouppage-accountcreator": "{{ns:project}}:Zakladatelé účtů",
@@ -309,5 +311,9 @@
 	"querypage-updates-monthly": "Aktualizace této stránky probíhají jednou za měsíc.",
 	"protect-level-editautopatrolprotected": "Povolit jen uživatelům s automaticky prověřenými editacemi",
 	"right-editautopatrolprotected": "Editace stránek zamčených jako „{{int:protect-level-editautopatrolprotected}}“",
-	"action-editautopatrolprotected": "editovat stránky zamčené jako „{{int:protect-level-editautopatrolprotected}}“"
+	"action-editautopatrolprotected": "editovat stránky zamčené jako „{{int:protect-level-editautopatrolprotected}}“",
+	"group-docseditor": "Editoři dokumentace",
+	"group-docseditor-member": "{{GENDER:$1|editor|editorka}} dokumentace",
+	"action-docseditor": "editovat dokumentaci",
+	"right-docseditor": "Editace dokumentace"
 }
