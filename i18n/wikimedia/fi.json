@@ -166,7 +166,6 @@
 	"group-staff-member": "{{GENDER:$1|henkilökunta}}",
 	"group-steward": "ylivalvojat",
 	"group-steward-member": "{{GENDER:$1|ylivalvoja}}",
-	"grouppage-steward": "m:Stewards/fi",
 	"group-sysadmin": "palvelinjärjestelmän ylläpitäjät",
 	"group-sysadmin-member": "{{GENDER:$1|palvelinjärjestelmän ylläpitäjä}}",
 	"group-translationadmin": "käännösylläpitäjät",

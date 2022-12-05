@@ -53,7 +53,6 @@
 	"group-staff-member": "staflid",
 	"group-steward": "rechtenbeheyrders",
 	"group-steward-member": "{{GENDER:$1|rechtenbeheyrder}}",
-	"grouppage-steward": "{{ns:project}}:Rechtenbeheyrder",
 	"group-sysadmin": "systeembeheerder",
 	"group-sysadmin-member": "{{GENDER:$1|systeembeheerder}}",
 	"tag-emoji-description": "Gebruked döär et globale misbruukfilter 110.",

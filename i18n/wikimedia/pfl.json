@@ -10,7 +10,6 @@
 	"group-otrs-member": "OTRS-Midglieda",
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
-	"grouppage-steward": "{{ns:project}}:Steward",
 	"wikimedia-copyright": "De Tegschd isch unnade G'nemischung <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">''Creative Commons'' „Noamensnennung – Waidagawb unna glaische Bedingunge“</a> vafieschba. Oannare Bedingunge kennden a gelde.\nÄnzlhaide finschd inde <a href=\"https://foundation.wikimedia.org/wiki/Nutzungsbedingungen\">Nutzungsbedingungen</a>.",
 	"wikimedia-copyrightwarning": "Middm Schbaischare vun Ännarunge gibschd doi Oivaschdendnis midde [https://foundation.wikimedia.org/wiki/Terms_of_Use/de Nudzungsschdimmunge] unn lizensiaschd doi Eawede fa imma unnade Bwillischung [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Noamensnennung – Waidagawb unna glaische Bedingunge 3.0“] unnde [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].\nDu schdimmschd zu, dass än Haibaling'g oddan URL uff die Said fadie wischdisch Zudeelung nochde ''Creative-Commons''-Lizenz g'nieschd.",
 	"wikibase-sitelinks-wikinews": "Wikinews",

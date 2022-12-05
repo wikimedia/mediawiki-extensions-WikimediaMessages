@@ -67,7 +67,6 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|IP globale libera de blokusi}}",
 	"group-global-rollbacker": "Globala renverseri",
 	"group-global-rollbacker-member": "{{GENDER:$1|globala renversero}}",
-	"grouppage-global-rollbacker": "m:Globala renversero",
 	"group-steward": "Super-administreri",
 	"group-steward-member": "{{GENDER:$1|Supera administrero (steward)}}",
 	"group-sysadmin": "Sistemo-administreri",

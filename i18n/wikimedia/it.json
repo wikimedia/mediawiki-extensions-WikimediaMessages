@@ -159,7 +159,6 @@
 	"group-global-renamer-member": "{{GENDER:$1|rinominatore globale}}",
 	"group-global-rollbacker": "Rollbacker globali",
 	"group-global-rollbacker-member": "{{GENDER:$1|rollbacker globale}}",
-	"grouppage-global-rollbacker": "m:Global rollback/it",
 	"group-global-sysop": "Amministratori globali",
 	"group-global-sysop-member": "{{GENDER:$1|amministratore globale|amministratrice globale|amministratore/trice globale}}",
 	"group-massmessage-sender": "Mittenti messaggi massivi",
@@ -176,7 +175,6 @@
 	"group-staff-member": "{{GENDER:$1|staff}}",
 	"group-steward": "Steward",
 	"group-steward-member": "{{GENDER:$1|steward}}",
-	"grouppage-steward": "m:Stewards/it",
 	"group-sysadmin": "Amministratori di sistema",
 	"group-sysadmin-member": "{{GENDER:$1|amministratore|amministratrice|amministratore/trice}} di sistema",
 	"group-translationadmin": "Amministratori delle traduzioni",
@@ -277,5 +275,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
+	"readinglists-import-app": "Per importare questo elenco di lettura, installa l'ultima versione dell'app Wikipedia:"
 }

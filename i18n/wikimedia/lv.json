@@ -70,7 +70,6 @@
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth administratori",
 	"group-staff": "Personāls",
 	"group-steward": "Sistēmas pārvaldnieki",
-	"grouppage-steward": "{{ns:project}}:Sistēmas pārvaldnieki",
 	"group-sysadmin": "Sistēmas administratori",
 	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"tag-AWB-description": "Labojumi, kas veikti ar [[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",

@@ -149,7 +149,6 @@
 	"group-global-interface-editor-member": "{{GENDER:$1|cangiatore globbale de inderfacce}}",
 	"group-global-renamer": "Renominature globbale",
 	"group-global-renamer-member": "{{GENDER:$1|renominatore globbale}}",
-	"grouppage-global-renamer": "m:Renominature globbale",
 	"group-global-rollbacker": "Annullature globale",
 	"group-global-rollbacker-member": "{{GENDER:$1|annullatore globbale}}",
 	"group-global-sysop": "Sysop globbale",

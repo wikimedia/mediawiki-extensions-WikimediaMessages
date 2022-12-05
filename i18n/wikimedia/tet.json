@@ -7,6 +7,5 @@
 	"sitesupport": "Fó donativu ida",
 	"tooltip-n-sitesupport": "Tulun ami",
 	"group-steward": "Steward sira",
-	"group-steward-member": "{{GENDER:$1|Steward}}",
-	"grouppage-steward": "{{ns:project}}:Steward sira"
+	"group-steward-member": "{{GENDER:$1|Steward}}"
 }

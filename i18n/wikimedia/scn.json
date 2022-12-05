@@ -51,7 +51,6 @@
 	"group-staff-member": "Cumpunenti dû staff",
 	"group-steward": "Stiùwart",
 	"group-steward-member": "{{GENDER:$1|steward}}",
-	"grouppage-steward": "m:Stewards/scn",
 	"group-sysadmin": "Amministratura di sistema",
 	"group-sysadmin-member": "{{GENDER:$1|amministraturi di sistema|amministratrici di sistema|amministraturi o amministratrici di sistema}}",
 	"tag-emoji": "Emoji",

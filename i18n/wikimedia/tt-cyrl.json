@@ -98,7 +98,6 @@
 	"grouppage-curator": "{{ns:project}}:Кураторлар",
 	"group-global-bot": "Гомуми ботлар",
 	"group-global-bot-member": "{{GENDER:$1|гомуми бот}}",
-	"grouppage-global-bot": "m:Глобаль бот",
 	"group-global-rollbacker": "Гомуми кире кайтаручылар",
 	"group-global-rollbacker-member": "{{GENDER:$1|гомуми кире кайтаручы}}",
 	"group-global-sysop": "Гомуми идарәчеләр",

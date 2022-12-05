@@ -117,7 +117,6 @@
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|Faan globaal IP speren ütjnimenen}}",
 	"group-global-interface-editor": "Globaal interface-bewerkern",
 	"group-global-interface-editor-member": "{{GENDER:$1|Globaal interface-bewerker}}",
-	"grouppage-global-interface-editor": "m:Interface-bewerkern",
 	"group-global-renamer": "Globaal amnäämern",
 	"group-global-renamer-member": "{{GENDER:$1|Globaal amnäämer}}",
 	"group-global-rollbacker": "Globaal turagdreiern",

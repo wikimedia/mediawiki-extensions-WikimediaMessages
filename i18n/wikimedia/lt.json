@@ -103,7 +103,6 @@
 	"group-global-bot-member": "{{GENDER:$1|visuotinis botas}}",
 	"group-global-renamer": "Visuotiniai pervadintojai",
 	"group-global-renamer-member": "{{GENDER:$1|visuotinis pervadintojas|visuotinė pervadintoja}}",
-	"grouppage-global-renamer": "m:Visuotiniai pervadintojai",
 	"group-global-rollbacker": "Visuotiniai atmetėjai",
 	"group-global-rollbacker-member": "{{GENDER:$1|visuotinis atmetėjas|visuotinė atmetėja}}",
 	"group-global-sysop": "Visuotiniai administrotoriai",

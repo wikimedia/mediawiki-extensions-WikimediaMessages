@@ -116,7 +116,6 @@
 	"group-global-sysop-member": "{{GENDER:$1|ĝenerala administranto}}",
 	"group-ombuds": "Ombudoj",
 	"group-ombuds-member": "{{GENDER:$1|ombudo}}",
-	"grouppage-ombuds": "m:Ombuds commission/eo",
 	"group-staff": "Dungitaro",
 	"group-staff-member": "dungito",
 	"group-steward": "Stevardoj",

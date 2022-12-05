@@ -144,7 +144,6 @@
 	"group-staff-member": "{{GENDER:$1|WMF-alkalmazott}}",
 	"group-steward": "intézők",
 	"group-steward-member": "{{GENDER:$1|intéző}}",
-	"grouppage-steward": "{{ns:project}}:Intézők",
 	"group-sysadmin": "rendszeradminisztrátorok",
 	"group-sysadmin-member": "rendszeradminisztrátor",
 	"group-translationadmin": "fordítási adminisztrátorok",

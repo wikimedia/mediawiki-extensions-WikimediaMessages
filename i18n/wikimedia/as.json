@@ -139,7 +139,6 @@
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|এপিআই উচ্চ সীমা অনুৰোধকাৰী}}",
 	"group-captcha-exempt": "CAPTCHA ৰহিত",
 	"group-captcha-exempt-member": "{{GENDER:$1|CAPTCHA ৰহিত}}",
-	"grouppage-captcha-exempt": "m:CAPTCHA ৰহিত",
 	"group-centralnoticeadmin": "কেন্দ্ৰীয় জাননী প্ৰশাসক",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|কেন্দ্ৰীয় জাননী প্ৰশাসক}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:কেন্দ্ৰীয় জাননী প্ৰশাসক",
