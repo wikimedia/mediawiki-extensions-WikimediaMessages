@@ -54,8 +54,8 @@
 	"group-extended-uploader-member": "{{GENDER:$1|zaawansowany przesyłający pliki|zaawansowana przesyłająca pliki}}",
 	"grouppage-extended-uploader": "{{ns:project}}:Zaawansowani przesyłający pliki",
 	"group-otrs-member": "Członkowie VRT",
-	"group-otrs-member-member": "{{GENDER:$1|operator|operatorka}} OTRS",
-	"grouppage-otrs-member": "{{ns:project}}:Operatorzy OTRS",
+	"group-otrs-member-member": "{{GENDER:$1|operator|operatorka}} VRT",
+	"grouppage-otrs-member": "{{ns:project}}:Operatorzy VRT",
 	"group-abusefilter": "Operatorzy filtru nadużyć",
 	"group-abusefilter-member": "{{GENDER:$1|operator|operatorka}} filtru nadużyć",
 	"grouppage-abusefilter": "{{ns:project}}:Operatorzy filtru nadużyć",
@@ -331,5 +331,11 @@
 	"group-docseditor-member": "{{GENDER:$1|edytor|edytorka}} dokumentacji",
 	"action-docseditor": "edytowania dokumentacji",
 	"right-docseditor": "Edytowanie dokumentacji",
+	"ipinfo-feedback-button-label": "Zostaw opinię",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Tak",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nie",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Tak",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nie",
+	"gadget-souspages-subpages": "Podstrony",
 	"ipinfo-global-contributions-url-label": "Globalny wkład"
 }
