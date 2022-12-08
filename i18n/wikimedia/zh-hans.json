@@ -22,6 +22,7 @@
 			"Kuailong",
 			"LaMagiaaa",
 			"Lakejason0",
+			"Lantianjialiang",
 			"Liangent",
 			"Liuxinyu970226",
 			"Looong",
@@ -369,5 +370,6 @@
 	"group-docseditor-member": "{{GENDER:$1|文档编辑}}",
 	"action-docseditor": "编辑文档",
 	"right-docseditor": "编辑文档",
-	"ipinfo-feedback-button-label": "留下反馈"
+	"ipinfo-feedback-button-label": "留下反馈",
+	"readinglists-import-app": "要导入此阅读列表，请安装最新版本的维基百科应用程序："
 }
