@@ -11,5 +11,6 @@
 	"group-oversight": "Nadzorniki",
 	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica}}",
 	"hello": "Pozdravljeni",
-	"thank-you": "{{GENDER:$1|Hvala.}}"
+	"thank-you": "{{GENDER:$1|Hvala.}}",
+	"specialblockfeedback": "Povratne informacije"
 }

@@ -30,7 +30,9 @@
 			"Varusmies",
 			"Veikk0.ma",
 			"VezonThunder",
-			"Zache"
+			"Zache",
+			"Jack Phoenix",
+			"Valtlai"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -244,7 +246,11 @@
 	"protect-level-editeditorprotected": "Salli vain seulojat",
 	"right-editextendedsemiprotected": "Muokata sivuja, jotka on suojattu tasolle ”{{int:protect-level-editextendedsemiprotected}}”",
 	"protect-level-editextendedsemiprotected": "Salli vain autopatrollerit",
+	"eri-rcfilters-tour-intro-welcome-title": "Tervetuloa paranneltuun tuoreiden muutosten suodatukseen",
+	"eri-rcfilters-tour-intro-welcome-description": "Tarkista muokkauksia tehokkaammin käyttäen uusia suodattimia, kykyä tallentaa muokkaussuodatinsarjoja, käyttäjän määrittelemiä korostuksia sekä koneoppimisen voimaa käyttäen. $1",
+	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Tarkista muokkauksia tehokkaammin käyttäen uusia suodattimia, kykyä tallentaa muokkaussuodatinsarjoja, käyttäjän määrittelemiä korostuksia sekä muita parannuksia. $1",
 	"eri-rcfilters-tour-help": "Lue lisää",
+	"eri-rcfilters-tour-intro-preferences-description": "Voit milloin vain poistaa käytöstä tuoreiden muutosten parannellun version asetustesi Tuoreet muutokset -välilehden kautta.",
 	"eri-rcfilters-tour-intro-welcome-button": "OK, selvä",
 	"eri-rcfilters-tour-intro-disable-button": "En halua käyttää tätä",
 	"eri-rcfilters-tour-highlight-title": "Väritä tuloksesi",
