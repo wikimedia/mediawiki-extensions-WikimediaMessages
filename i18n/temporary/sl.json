@@ -7,9 +7,12 @@
 			"Eleassar"
 		]
 	},
+	"wikimediamessages-desc": "Začasna sporočila, specifična za Wikimedio",
 	"grouppage-oversight": "{{ns:project}}:Nadzornik",
 	"group-oversight": "Nadzorniki",
-	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica}}",
+	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica|nadzornik_ca}}",
 	"hello": "Pozdravljeni",
-	"thank-you": "{{GENDER:$1|Hvala.}}"
+	"please-translate": "Pomagajte nam jih prevesti v vaš jezik",
+	"thank-you": "{{GENDER:$1|Hvala.}}",
+	"specialblockfeedback": "Povratne informacije"
 }

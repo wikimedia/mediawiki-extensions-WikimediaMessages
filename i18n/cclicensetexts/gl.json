@@ -159,7 +159,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/si/deed.gl recoñecemento compartir igual 2.5 Eslovenia].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/tw/deed.gl recoñecemento compartir igual 2.5 Taiwán].",
 	"wm-license-cc-by-sa-2.5-za-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/za/deed.gl recoñecemento compartir igual 2.5 Sudáfrica].",
-	"wm-license-cc-by-sa-3.0-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.gl recoñecemento compartir igual 3.0 Unported].",
+	"wm-license-cc-by-sa-3.0-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.gl recoñecemento compartir igual 3.0 sen adaptar].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Este ficheiro está licenciado baixo as licenzas [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.gl recoñecemento compartir igual 3.0 Unported], [https://creativecommons.org/licenses/by-sa/2.5/deed.gl recoñecemento compartir igual xenérico 2.5], [https://creativecommons.org/licenses/by-sa/2.0/deed.gl recoñecemento compartir igual xenérico 2.0] e [https://creativecommons.org/licenses/by-sa/1.0/deed.gl recoñecemento compartir igual xenérico 1.0].",
 	"wm-license-cc-by-sa-3.0-at-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.gl recoñecemento compartir igual 3.0 Austria].",
 	"wm-license-cc-by-sa-3.0-au-text": "Este ficheiro está licenciado baixo a licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/au/deed.gl recoñecemento compartir igual 3.0 Australia].",
@@ -212,9 +212,9 @@
 	"wm-license-cc-free-to-remix-text": "adaptar a obra",
 	"wm-license-cc-conditions": "Baixo as seguintes condicións:",
 	"wm-license-cc-conditions-attribution-header": "recoñecemento",
-	"wm-license-cc-conditions-attribution-text": "Debe indicar a debida atribución de autoría, fornecer unha ligazón á licenza, e indicar se se realizaron cambios. Pode facer isto de calquera forma razonable, mais non nunha forma que indique que quen posúe a licenza apoia ou subscribe o seu uso da obra.",
+	"wm-license-cc-conditions-attribution-text": "Debe indicar a debida atribución de autoría, fornecer unha ligazón á licenza e indicar se se realizaron cambios. Pode facer isto de calquera forma razoable, mais non nunha forma que indique que quen posúe a licenza apoia ou subscribe o seu uso da obra.",
 	"wm-license-cc-conditions-share_alike-header": "compartir igual",
-	"wm-license-cc-conditions-share_alike-text": "Se altera, transforma amplía este contido, debe publicar as súas contribucións baixo  [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses a mesma licenza ou outra compatible] á orixinal.",
+	"wm-license-cc-conditions-share_alike-text": "Se altera, transforma ou amplía este contido, debe publicar as súas contribucións baixo  [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses a mesma licenza ou outra compatible] á orixinal.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.gl",
 	"wm-license-cc-pd-mark-text": "Este ficheiro foi identificado como libre de restricións baixo as leis de dereitos de autor, incluídos todos os dereitos relacionados."
 }
