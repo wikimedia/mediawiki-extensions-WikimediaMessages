@@ -18,7 +18,8 @@
 			"බිඟුවා",
 			"ශ්වෙත",
 			"හරිත",
-			1100100
+			1100100,
+			"Pols12"
 		]
 	},
 	"wikimediamessages-desc": "විකිමාධ්‍ය විශේෂී පණිවුඩයන්",
@@ -136,6 +137,17 @@
 	"wikibase-sitelinks-wikiquote": "විකිඋධෘත",
 	"wikibase-sitelinks-wikisource": "විකිමූලාශ්‍ර",
 	"wikibase-sitelinks-wikivoyage": "විකිවොයේජ්",
+	"wikibase-otherprojects-commons": "විකිමාධ්‍ය කොමන්ස්",
+	"wikibase-otherprojects-species": "ජීවවිශේෂවිකි",
+	"wikibase-otherprojects-wikibooks": "විකිපොත්",
+	"wikibase-otherprojects-wikidata": "විකිදත්ත",
+	"wikibase-otherprojects-wikinews": "විකිපුවත්",
+	"wikibase-otherprojects-wikiquote": "විකිකියමන්",
+	"wikibase-otherprojects-wikipedia": "විකිපීඩියා",
+	"wikibase-otherprojects-wikisource": "විකිමූලාශ්‍",
+	"wikibase-otherprojects-wikiversity": "විකිසරසවිය",
+	"wikibase-otherprojects-wikivoyage": "විකිචාරිකා",
+	"wikibase-otherprojects-wiktionary": "වික්ෂනරි",
 	"wikibase-sitelinks-sitename-wikidatawiki": "විකිදත්ත",
 	"cant-delete-main-page": "මුල් පිටුව මැකීමට හෝ ගෙනයාමට ඔබට නොහැක.",
 	"upload-more-photos-of-this-monument": "මෙම සිහිවටනයේ තවත් ඡායාරූප උඩුගත කරන්න",
