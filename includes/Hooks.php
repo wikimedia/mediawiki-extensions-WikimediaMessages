@@ -1762,39 +1762,6 @@ class Hooks implements
 	}
 
 	/**
-	 * @inheritDoc
-	 */
-	public function onSpecialContributionsBeforeMainOutput( $id, $user, $sp ): void {
-		$out = $sp->getOutput();
-		if ( !( $out->getTitle() && $out->getTitle()->isSpecial( 'Contributions' ) ) ) {
-			return;
-		}
-
-		// Return if target is not an IP address
-		if ( !IPUtils::isValid( $user->getName() ) ) {
-			return;
-		}
-
-		$accessingUser = $out->getUser();
-		$isBetaFeaturesLoaded = $this->extensionRegistry->isLoaded( 'BetaFeatures' );
-		$services = MediaWikiServices::getInstance();
-		$permissionManager = $services->getPermissionManager();
-		$userOptionsLookup = $services->getUserOptionsLookup();
-
-		// Check the same permissions and preferences as
-		// MediaWiki\IPInfo\HookHandler\InfoboxHandler
-		if (
-			!$permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
-			$isBetaFeaturesLoaded &&
-			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' )
-		) {
-			return;
-		}
-
-		$out->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
-	}
-
-	/**
 	 * This hook is called when a new user account is (auto-)created.
 	 *
 	 * It is used to prevent new users from seeing RCFilters guided tours
@@ -1924,6 +1891,14 @@ class Hooks implements
 	 * @param string|null $subPage
 	 */
 	public function onSpecialPageBeforeExecute( $special, $subPage ) {
+		$this->addBlockFeedbackLink( $special );
+		$this->addIPInfoLinks( $special, $subPage );
+	}
+
+	/**
+	 * @param SpecialPage $special
+	 */
+	private function addBlockFeedbackLink( $special ) {
 		if (
 			$special->getName() !== 'Block' ||
 			!$special->userCanExecute( $special->getUser() )
@@ -1957,6 +1932,46 @@ class Hooks implements
 		$output->setIndicators(
 			[ 'mw-feedbacklink' => $link ]
 		);
+	}
+
+	/**
+	 * @param SpecialPage $special
+	 * @param string|null $subPage
+	 */
+	private function addIPInfoLinks( $special, $subPage ): void {
+		$out = $special->getOutput();
+		if (
+			!$out->getTitle() ||
+			(
+				!$out->getTitle()->isSpecial( 'Contributions' ) &&
+				!$out->getTitle()->isSpecial( 'DeletedContributions' )
+			)
+		) {
+			return;
+		}
+
+		// Return if target is not an IP address
+		if ( !IPUtils::isValid( $subPage ) ) {
+			return;
+		}
+
+		$accessingUser = $out->getUser();
+		$isBetaFeaturesLoaded = $this->extensionRegistry->isLoaded( 'BetaFeatures' );
+		$services = MediaWikiServices::getInstance();
+		$permissionManager = $services->getPermissionManager();
+		$userOptionsLookup = $services->getUserOptionsLookup();
+
+		// Check the same permissions and preferences as
+		// MediaWiki\IPInfo\HookHandler\InfoboxHandler
+		if (
+			!$permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
+			$isBetaFeaturesLoaded &&
+			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' )
+		) {
+			return;
+		}
+
+		$out->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
 	}
 
 	/**
