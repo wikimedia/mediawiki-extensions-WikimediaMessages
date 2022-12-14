@@ -188,7 +188,7 @@
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Koristi se od strane globalnog filtra zloporaba 110.",
 	"wikimedia-copyright": "Tekst je dostupan pod licencom <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\nmogu se primijeniti i dodatni uslovi.\nZa više informacija pogledajte <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Uslove upotrebe</a>.",
-	"wikimedia-copyrightwarning": "Čuvanjem izmjena prihvatate [https://foundation.wikimedia.org/wiki/Terms_of_Use Uslove upotrebe] i neopozivo objavljivanje svog doprinosa pod licencama [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nSaglasni ste da su link ili URL dovoljni za priznanje autorstva pod licencom Creative Commons.",
+	"wikimedia-copyrightwarning": "Čuvanjem izmjena prihvatate [https://foundation.wikimedia.org/wiki/Terms_of_Use Uslove upotrebe] i neopozivo objavljivanje vašeg doprinosa pod licencama [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nSaglasni ste da je za priznanje autorstva pod licencom Creative Commons dovoljan link ili URL.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Dobro došli}}, $1!",
 	"wikibase-page-schema-author-name": "Doprinositelji Wikimedijinim projektima",
 	"wikibase-statementsection-constraints": "Uvjeti",

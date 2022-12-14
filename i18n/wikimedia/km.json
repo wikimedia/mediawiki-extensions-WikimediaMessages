@@ -8,7 +8,8 @@
 			"Sovichet",
 			"Thearith",
 			"គីមស៊្រុន",
-			"វ័ណថារិទ្ធ"
+			"វ័ណថារិទ្ធ",
+			"Pols12"
 		]
 	},
 	"wikimediamessages-desc": "សារយថាប្រភេទរបស់វិគីមេឌា",
@@ -78,8 +79,13 @@
 	"wikibase-sitelinks-wikiquote": "វិគីពាក្យពេចន៍",
 	"wikibase-sitelinks-wikisource": "វិគីបណ្ណាល័យ",
 	"wikibase-sitelinks-wikivoyage": "វិគីទេសចរណ៍",
+	"wikibase-otherprojects-species": "វិគីជីវសាស្ត្រ",
 	"wikibase-otherprojects-wikibooks": "វិគីសៀវភៅ",
+	"wikibase-otherprojects-wikipedia": "វិគីភីឌា",
 	"wikibase-otherprojects-wikisource": "វិគីបណ្ណាល័យ",
+	"wikibase-otherprojects-wikiversity": "វិគីសាកលវិទ្យាល័យ",
+	"wikibase-otherprojects-wikivoyage": "វិគីទេសចរណ៍",
+	"wikibase-otherprojects-wiktionary": "​វិគីនានុក្រម",
 	"cant-delete-main-page": "អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។",
 	"wikimedia-developers": "អ្នកសរសេរកូដ",
 	"wikimedia-statslink": "ស្ថិតិ"
