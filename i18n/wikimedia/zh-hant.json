@@ -42,6 +42,7 @@
 			"Wwycheuk",
 			"Xiplus",
 			"Yfdyh000",
+			"捍粵者",
 			"星海",
 			"飞舞回堂前"
 		]
@@ -369,6 +370,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "是",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "否",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "我不確定",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "這項匿名調查由維基媒體基金會進行。[https://meta.wikimedia.org/wiki/Community_Safety 閱讀更多]或查看[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 隱私聲明]。",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "這項匿名調查由維基媒體基金會舉辦。[https://meta.wikimedia.org/wiki/Community_Safety 閱讀更多]或瀏覽[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 隱私聲明]。",
 	"gadget-souspages-subpages": "子頁面"
 }
