@@ -3,6 +3,7 @@
 		"authors": [
 			"CERminator",
 			"Diebuche",
+			"Eleassar",
 			"Multichill",
 			"Obsuser",
 			"Palapa"
@@ -26,7 +27,7 @@
 	"wm-license-book-volume": "Svezak",
 	"wm-license-book-year-of-publication": "Godina izdavanja",
 	"wm-license-cecill-text": "Ovaj rad je [[{{int:wm-license-free-software-wiki-link}}|slobodni softver]]; možete ga redistribuirati ili mijenjati pod uslovima [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Uslovi licence CeCILL su dostupni na [{{int:wm-license-cecill-full-link}} www.cecill.info].",
-	"wm-license-creator-alternative-names": "Druga imena",
+	"wm-license-creator-alternative-names": "Alternativna imena",
 	"wm-license-creator-description": "Opis",
 	"wm-license-creator-date-of-birth": "Datum rođenja",
 	"wm-license-creator-date-of-birth-and-death": "Datum rođenja/smrti",
