@@ -281,7 +281,7 @@
 	"restriction-level-superprotect": "nadzaščita",
 	"action-templateeditor": "urejanje zaščitenih predlog",
 	"right-templateeditor": "Urejanje zaščitenih predlog",
-	"restriction-level-templateeditor": "zaščita urejevalcev predlog",
+	"restriction-level-templateeditor": "zaščitena za urejevalce predlog",
 	"protect-level-templateeditor": "dovoli samo urejevalcem predlog in administratorjem",
 	"action-extendedconfirmed": "urejanje zaščitenih strani",
 	"right-extendedconfirmed": "Urejanje zaščitenih strani",
