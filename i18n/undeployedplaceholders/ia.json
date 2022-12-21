@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|fusionava}} le conto de usator \"$4\" ($5) in {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|deleva}} le conto de usator \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Typo de action:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusion de contos de usator",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Deletion del conto de usator",
+	"wikimedia-usermerge-logpage": "Registro de fusiones de usatores",
+	"wikimedia-usermerge-logpagetext": "Isto es un registro de actiones de fusion de usatores."
+}

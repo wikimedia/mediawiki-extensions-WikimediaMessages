@@ -31,7 +31,7 @@
 	"group-Image-reviewer": "Pengulas imej",
 	"group-Image-reviewer-member": "{{GENDER:$1|pengulas imej}}",
 	"grouppage-Image-reviewer": "{{ns:project}}:Pengulas imej",
-	"group-otrs-member": "Ahli OTRS",
+	"group-otrs-member": "Ahli VRT",
 	"group-otrs-member-member": "{{GENDER:$1|ahli OTRS}}",
 	"grouppage-otrs-member": "{{ns:project}}:Ahli OTRS",
 	"group-abusefilter": "Penyunting penapis salah laku",

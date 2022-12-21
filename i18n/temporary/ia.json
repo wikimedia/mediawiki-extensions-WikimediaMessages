@@ -10,5 +10,7 @@
 	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
 	"hello": "Salute",
 	"please-translate": "Per favor, adjuta a traducer in tu lingua",
-	"thank-you": "{{GENDER:$1|Gratias.}}"
+	"thank-you": "{{GENDER:$1|Gratias.}}",
+	"specialblockfeedback": "Commentario",
+	"specialinvestigate-feedback": "Dar nos tu opinion"
 }
