@@ -6,7 +6,12 @@
 			"Сербијана"
 		]
 	},
+	"wikimediamessages-desc": "Vikimedijske specifične privremene poruke",
 	"grouppage-oversight": "{{ns:project}}:Brisači izmena",
 	"group-oversight": "Brisači izmena",
-	"group-oversight-member": "brisač izmena"
+	"group-oversight-member": "{{GENDER:$1|brisač izmena}}",
+	"hello": "Zdravo",
+	"please-translate": "Pomozite u prevođenju na svoj jezik",
+	"thank-you": "{{GENDER:$1|Hvala.}}",
+	"specialblockfeedback": "Povratne informacije"
 }
