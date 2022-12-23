@@ -13,6 +13,7 @@
 			"Nemo bis",
 			"Nghiemtrongdai VN",
 			"NguoiDungKhongDinhDanh",
+			"Nguyenphutrong2",
 			"Nguyên Lê",
 			"NhacNy2412",
 			"Prenn",
@@ -302,5 +303,6 @@
 	"right-editautopatrolprotected": "Sửa trang bị khóa ở mức “{{int:protect-level-editautopatrolprotected}}”",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Có",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Không",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tôi không chắc"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tôi không chắc",
+	"readinglists-import-app": "Để nhập danh sách đọc này, hãy cài đặt phiên bản mới nhất của ứng dụng Wikipedia:"
 }
