@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Milicevic01",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Kizule"
 		]
 	},
-	"wm-license-cc-wiki-link": "w:sr:Кријејтив комонс",
+	"wm-license-cc-wiki-link": "w:sr:Krijejtiv komons",
 	"wm-license-cc-attribution": "Autorstvo",
 	"wm-license-cc-by-1.0-text": "Ova datoteka je dostupna pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.sr Autorstvo 1.0 Generička licenca]",
 	"wm-license-cc-by-1.0-fi-text": "Ova datoteka je dostupna pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.sr Autorstvo 1.0 Finska].",
@@ -213,7 +214,7 @@
 	"wm-license-cc-conditions-attribution-header": "autorstvo",
 	"wm-license-cc-conditions-attribution-text": "Morate da date odgovarajuće zasluge, obezbedite vezu ka licenci i naznačite da li su izmene napravljene. Možete to uraditi na bilo koji razuman manir, ali ne na način koji predlaže da licencator odobrava vas ili vaše korišćenje.",
 	"wm-license-cc-conditions-share_alike-header": "deliti pod istim uslovima",
-	"wm-license-cc-conditions-share_alike-text": "Ako izmenite, preobrazite ili dogradite ovo delo, morate ga objaviti samo pod istom ili sličnom licencom.",
+	"wm-license-cc-conditions-share_alike-text": "Ako izmenite, preobrazite ili dogradite ovaj materijal, morate podeliti svoje doprinose pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses istom ili kompatibilnom licencom] kao original.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.sr",
 	"wm-license-cc-pd-mark-text": "Utvrđeno je da ova datoteka nije ograničena u pogledu autorskih prava, uključujući i sva srodna i susedna prava."
 }

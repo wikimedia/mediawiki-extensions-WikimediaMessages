@@ -35,7 +35,10 @@
 			"FiberAhmed",
 			"Shbib Al-Subaie",
 			"Vlad5250",
-			"أَحمد"
+			"أَحمد",
+			"FShbib",
+			"Ideophagous",
+			"Scblr"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -85,8 +88,8 @@
 	"grouppage-arbcom": "{{ns:project}}:أعضاء لجنة التحكيم",
 	"group-autopatrolled": "المراجعون التلقائيون",
 	"group-autopatrolled-member": "{{GENDER:$1|مراجع تلقائي|مراجعة تلقائية}}",
-	"grouppage-autopatrolled": "{{ns:project}}:مراجعون تلقائيون",
-	"group-autoreviewer": "مراجعون تلقائيون",
+	"grouppage-autopatrolled": "{{ns:project}}:مراجعون تلقائيًا",
+	"group-autoreviewer": "مراجعون تلقائيًا",
 	"group-autoreviewer-member": "{{GENDER:$1|مراجع تلقائي}}",
 	"grouppage-autoreviewer": "{{ns:project}}:مراجع تلقائي",
 	"group-bigexport": "مصدرون كبار",
