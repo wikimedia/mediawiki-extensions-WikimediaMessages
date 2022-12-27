@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|objedinio|objedinila}} je korisnički nalog „$4” ($5) u {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 je {{GENDER:$2|izbrisao|izbrisala}} korisnički nalog „$4” ($5)",
+	"wikimedia-log-action-filter-usermerge": "Vrsta radnje:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "spajanje naloga",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "brisanje naloga",
+	"wikimedia-usermerge-logpage": "Dnevnik spajanja korisnika",
+	"wikimedia-usermerge-logpagetext": "Ovo je dnevnik objedinjavanja naloga."
+}
