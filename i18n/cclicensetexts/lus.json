@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"RMizo"
+			"RMizo",
+			"Jokomarel"
 		]
 	},
 	"wm-license-cc-attribution": "Insawilanna",
@@ -34,6 +35,7 @@
 	"wm-license-cc-by-sa-2.0-de-text": "Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.0/de/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Zermanram] phalphung hmanga tlángzarh a ni.",
 	"wm-license-cc-by-sa-2.0-es-text": "Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.0/es/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Sipeinram] phalphung hmanga tlángzarh a ni.",
 	"wm-license-cc-by-sa-2.0-fr-text": "Hë taksa hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 Ferênram] phalphung hmanga tlángzarh a ni.",
+	"wm-license-cc-by-sa-3.0-text": "Hë file hi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.0/deed.en Insawilanna- Anpuia chhuahchhàwnna 2.0 tlángláwn] phalphung hmanga tlángzarh a ni.",
 	"wm-license-cc-free": "Hê'ngte hi ti tùrin zalenna i nei:",
 	"wm-license-cc-free-to-share-header": "ṭawmpui",
 	"wm-license-cc-free-to-share-text": "hë kutchhuak lâkchhàwn, thehdarh leh thawn kual",
@@ -41,8 +43,8 @@
 	"wm-license-cc-free-to-remix-text": "hë kutchhuak her danglam",
 	"wm-license-cc-conditions": "Hêng dànte zàwm hian:",
 	"wm-license-cc-conditions-attribution-header": "insawilanna",
-	"wm-license-cc-conditions-attribution-text": "Hë kutchhuak buatsaihtu emaw tlángzarhtuina a phût ang thlapa amah sawilan (i hnathawh emaw nangmah emaw an pawmpuiin an thláwp che ti zawnga ngaih theih hauh lohvin a ni thung tùr a ni)",
+	"wm-license-cc-conditions-attribution-text": "Hë kutchhuak buatsaihtu emaw tlángzarhtuina a phût ang thlapa amah sawilan (i hnathawh emaw nangmah emaw an pawmpuiin an thláwp che ti zawnga ngaih theih hauh lohvin a ni thung tùr a ni).",
 	"wm-license-cc-conditions-share_alike-header": "anpuia chhuahchhàwn",
-	"wm-license-cc-conditions-share_alike-text": "Hë kutchhuak hi i tidanglam emaw, thlâk danglam emaw, amah ringa kutchhuak dang i buatsaih ve emaw a nih chuan hë kutchhuak tlángzarh phalphung ang chiah hian i kutchhuak chu i tlángzarh chhäwng ve tùr a ni.",
+	"wm-license-cc-conditions-share_alike-text": "Hë kutchhuak hi i tidanglam emaw, thlâk danglam emaw, amah ringa kutchhuak dang i buatsaih ve emaw a nih chuan hë kutchhuak [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] hnuaia i kutchhuak chu i tlángzarh chhäwng ve tùr a ni.",
 	"wm-license-cc-pd-mark-text": "Hë taksa hi chhuahchhàwnna phalphung leh khuahkhirhna dàn dang rëng rëng lakah a fihlïm nia hriat a ni."
 }

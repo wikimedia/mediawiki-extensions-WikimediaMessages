@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"RMizo"
+			"RMizo",
+			"Jokomarel"
 		]
 	},
 	"wikimediamessages-desc": "Wikipedia thuthawn bîkte",
@@ -13,5 +14,16 @@
 	"nstab-institution": "Páwl",
 	"nstab-sequence": "Inzuidàn",
 	"nstab-timedtext": "TimedText",
-	"group-translationadmin": "Lehlinna roreltute"
+	"group-translationadmin": "Lehlinna roreltute",
+	"wikimedia-copyright": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> nen hian text chu i nei thei a; thuthlung dang pawh a awm thei bawk.\nA chipchiar zawkna chu <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Hman dan tur thuthlung</a>a en rawh.",
+	"wikimedia-copyrightwarning": "Inthalk danglamnate vawngṭhana hian [https://foundation.wikimedia.org/wiki/Terms_of_Use hman dan tur thuthlung] chu i pawm a, i thawhhlawk chu tihchhuah chu [Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] leh [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] hnuaiah tihdanglam theih lohvin i pawm bawk. \nAttribution hnuaia hyperlink emaw URL emaw chu a tawk tih i pawm Creative Commons hmanga phalna pek a ni.",
+	"wikibase-sitelinks-wikinews": "Wikichanchinthar",
+	"wikibase-sitelinks-wikiquote": "Wikithusawi",
+	"wikibase-sitelinks-wikisource": "Wikihnar",
+	"wikibase-sitelinks-wikivoyage": "Wikizin",
+	"wikimedia-developers": "Software tihmasawntute",
+	"wikimedia-globalblocking-ipblocked": "'''I IP chenna hmun chu [[m:Special:MyLanguage/Global blocks|wiki zawng zawngah a titawp a ni tawh]].'''\n\nTitawpna chu $1 ( $2 ) in siam a ni.\nA chhan chu'' $3 ''.\n\n* Titawpna ṭanna: $4 \n* Titawpna tawpna: $5 \n\nI IP chenna hmun hman mek chu $6 a ni .\nZawhna i neih apiangah i chunga chipchiar zawng zawng hi dah tel vek ang che\n\nThil tihsual avanga titawp i nih i rin chuan [[m:Special:MyLanguage/No open proxies|No open proxies]] khawvêl policy ah hian thu belhchian dawl zawk leh thupek i hmu thei ang. \nChuti a nih loh chuan, block chungchang sawiho tur chuan khawngaihin [[m:Steward requests/Global|Meta-Wiki-ah review dilna post rawh]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''I IP chenna hmun chu [[m:Special:MyLanguage/Global blocks|wiki zawng zawngah a titawp a ni tawh]].'''\n\nTitawpna chu $1 ( $2 ) in siam a ni.\nA chhan chu'' $3 ''.\n\n* Titawpna ṭanna: $4 \n* Titawpna tawpna: $5 \n\nI IP chenna hmun hman mek chu $6 a ni .\nZawhna i neih apiangah i chunga chipchiar zawng zawng hi dah tel vek ang che\n\nThil tihsual avanga titawp i nih i rin chuan [[m:Special:MyLanguage/No open proxies|No open proxies]] khawvêl policy ah hian thu belhchian dawl zawk leh thupek i hmu thei ang. \nChuti a nih loh chuan, block chungchang sawiho tur chuan khawngaihin [[m:Steward requests/Global|Meta-Wiki-ah review dilna post rawh]].",
+	"wikimedia-statslink": "Statistics",
+	"wikimedia-cookiestatement": "Cookie thuchhuah"
 }

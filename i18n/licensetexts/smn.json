@@ -2,11 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Trondtr",
-			"Yupik"
+			"Yupik",
+			"Kimberli Mäkäräinen (WMNO)"
 		]
 	},
+	"wm-license-artwork-references": "Käldeeh",
 	"wm-license-book-language": "Kielâ",
 	"wm-license-book-translator": "Jurgâleijee",
+	"wm-license-creator-description": "Kuvvim",
+	"wm-license-creator-date-of-birth": "Riegádanbeaivi",
+	"wm-license-creator-date-of-birth-and-death": "Riegádan-/jápminbeaivi",
+	"wm-license-creator-location-of-birth-and-death": "Riegádan-/jápminbáiki",
 	"wm-license-gfdl-1.2-and-later": "Puávtáh kopijistiđ, levâttiđ já/teikâ mutteđ taan äššikirje  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' -liiseens versio 1.2 tai majemui iävtui vyelni, moh láá almostittum [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] peeleest; ij kuoskâ muttuuhánnáá soojijd, ij ovdâlohe teevstâid ige kirjelohe teevstâid. Kopio taan lisensist lii finniimist saajeest ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Kuvvim",
 	"wm-license-information-source": "Käldee",

@@ -4,7 +4,8 @@
 			"Diebuche",
 			"Lloffiwr",
 			"Pwyll",
-			"Robin Owain"
+			"Robin Owain",
+			"Afalau"
 		]
 	},
 	"wm-license-cc-attribution": "Cydnabyddiaeth",
@@ -206,7 +207,7 @@
 	"wm-license-cc-zero-text": "Trwyddedir y ffeil hon yn ôl termau'r drwydded [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/ CC0 1.0 Universal Public Domain Dedication].",
 	"wm-license-cc-zero-explanation": "Wrth gysylltu rhyw waith â'r weithred gyfreithiol hon, mae'r person a'i gysylltodd wedi ei gyflwyno i'r [[{{int:wm-license-pd-wiki-link}}|parth cyhoeddus]] gan ildio pob hawl cyfraith hawlfraint arno yn fydeang, gan gynnwys pob hawl perthynol a chyfagos, hyd eithaf y gyfraith. Gallwch gopïo, addasu, dosbarthu a pherfformio'r gwaith, hyd yn oed at bwrpas masnachol, a hynny oll heb ofyn caniatad.",
 	"wm-license-cc-free": "Mae'n rhydd i chi:",
-	"wm-license-cc-free-to-share-header": "ledaenu",
+	"wm-license-cc-free-to-share-header": "rhannu",
 	"wm-license-cc-free-to-share-text": "gallwch gopïo, dosbarthu a throsglwyddo'r gwaith",
 	"wm-license-cc-free-to-remix-header": "ailwampio",
 	"wm-license-cc-free-to-remix-text": "gallwch addasu'r gwaith",

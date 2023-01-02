@@ -12,7 +12,7 @@
 	"group-oversight": "Nadzorniki",
 	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica|nadzornik_ca}}",
 	"hello": "Pozdravljeni",
-	"please-translate": "Pomagajte nam jih prevesti v vaš jezik",
+	"please-translate": "Pomagajte prevesti v vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala.}}",
 	"specialblockfeedback": "Povratne informacije"
 }
