@@ -4,8 +4,11 @@
 			"Eleassar"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 je {{GENDER:$2|spojil|spojila|spojil_a}} uporabniški račun »$4« ($5) v {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 je {{GENDER:$2|izbrisal|izbrisala|izbrisal_a}} uporabniški račun »$4« ($5)",
 	"wikimedia-log-action-filter-usermerge": "Vrsta dejanja:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Spojitev uporabniških računov",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Izbris uporabniškega računa",
-	"wikimedia-usermerge-logpage": "Dnevnik spajanja uporabnikov"
+	"wikimedia-usermerge-logpage": "Dnevnik spajanja uporabnikov",
+	"wikimedia-usermerge-logpagetext": "To je dnevnik dejanj spajanja uporabnikov."
 }

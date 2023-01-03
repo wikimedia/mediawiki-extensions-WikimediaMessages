@@ -19,7 +19,7 @@
 	"nstab-creator": "Ustvarjalec",
 	"nstab-institution": "Ustanova",
 	"nstab-sequence": "Zaporedje",
-	"nstab-timedtext": "ČasovnoBesedilo",
+	"nstab-timedtext": "Podnapisi",
 	"group-image-reviewer": "Pregledovalci slik",
 	"group-image-reviewer-member": "{{GENDER:$1|pregledovalec|pregledovalka|pregledovalec_ka}} slik",
 	"grouppage-image-reviewer": "{{ns:project}}:Pregledovalci slik",
