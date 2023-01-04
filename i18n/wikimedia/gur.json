@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Akakiiri",
 			"Amire80",
 			"Amoramah",
 			"Ayire Adongo",
@@ -8,7 +9,7 @@
 			"Uprising Man"
 		]
 	},
-	"sitesupport": "Bɔ",
+	"sitesupport": "Dikɛ bɔ",
 	"wikimedia-copyright": "Gulesegɔ wa boe la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nwara siseto ta’am kelum bɔna mɛ ti fu wan doose.\nBisɛ <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Dikɛ tum wara</a> nyɛ ku yɛla za’a.",
 	"wikimedia-copyrightwarning": "Fu san sakɛ demesego wa, fun nam mɛ tii bɔ [https://foundation.wikimedia.org/wiki/Terms_of_Use anam bɔ ti ba dikɛ tum], gee fu nam mɛ la fu suure za’a tii ba ta’am dikɛ fu putɛ lagesegɔ bɔ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Fu mɛ nam bɔ tii tu’uŋo la bii URL la seke ma’a ti la dɛna fu farabua Creative Commons license wara la puam.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Zaarɛ}}, $1!",
