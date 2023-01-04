@@ -9,7 +9,8 @@
 			"Nemo bis",
 			"Robin Owain",
 			"Troswr",
-			"Xxglennxx"
+			"Xxglennxx",
+			"Afalau"
 		]
 	},
 	"wikimediamessages-desc": "Negeseuon neilltuol Wikimedia",
@@ -96,6 +97,8 @@
 	"group-uploader": "Uwchlwythwyr",
 	"group-uploader-member": "{{GENDER:$1|uwchlwythwr}}",
 	"grouppage-uploader": "{{ns:project}}:Uwchlwythwyr",
+	"group-wikidata-staff": "Staff Wicidata",
+	"group-wikidata-staff-member": "{{GENDER:$1|Staff Wicidata}}",
 	"group-centralnoticeadmin": "Gweinyddwyr yr hysbysiadau canolog",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|gweinyddwr yr hysbysiadau canolog}}",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Gweinyddwyr yr hysbysiadau canolog",
@@ -118,6 +121,7 @@
 	"group-translationadmin": "Gweinyddwyr y cyfieithiadau",
 	"group-translationadmin-member": "{{GENDER:$1|gweinyddwr y cyfieithiadau}}",
 	"grouppage-translationadmin": "{{ns:project}}:Gweinyddwyr y cyfieithiadau",
+	"tag-emoji": "Emoji",
 	"wikimedia-copyright": "Mae testun y dudalen ar gael dan drwydded <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a>;\ngall fod telerau ychwanegol perthnasol.\nGweler <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Telerau Defnyddio'r Drwydded</a> am fanylion pellach.",
 	"wikimedia-commons-copyright": "Darperir ffeiliau dan delerau trwyddedau a nodir ar eu tudalennau disgrifiad. Darperir yr holl ddata strwythuredig o’r gofodau enwau ffeil a nodwedd dan delerau <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Diffiniad Trwydded CC0 Creative Commons\">Drwydded CC0 Creative Commons</a>; darperir yr holl destun anstrwythuredig dan delerau <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Diffiniad Trwydded Attribution/Share-Alike Creative Commons\">Trwydded Attribution-ShareAlike Creative Commons</a>; efallai bydd telerau ychwanegol yn berthnasol. Trwy ddefnyddio’r wefan, rydych chi’n derbyn y <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Telerau Defnydd y Wikimedia Foundation\">Telerau Defnydd</a> a’r <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\" title=\"Polisi Preifatwydd y Wikimedia Foundation\">Polisi Preifatrwydd</a>.",
 	"wikidata-copyright": "Mae'r holl data strwythuredig yn y prif barth a'r parth nodwedd ar gael yn ôl termau'r drwydded <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Deffiniad y Drwydded Creative Commons CC0\">Creative Commons CC0</a>;\nmae testun yn y parthau eraill ar gael yn ôl termau'r drwydded <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Diffiniad y Drwydded Creative Commons Attribution-ShareAlike\">Creative Commons Attribution-ShareAlike</a>;\ngall termau ychwanegol fod yn weithredol.\nGweler y <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Termau Defnyddio Sefydliad Wikimedia\">Termau Defnyddio</a> am fanylion.",
@@ -138,7 +142,10 @@
 	"upload-form-label-own-work-message-commons": "Cadarnhaf mai fi yw perchennog hawlfraint y ffeil hon, a chytunaf  yn ddi-droi'n ôl i ryddhau'r ffeil hon i Gomin Wicimedia dan drwydded [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0], a chytunaf gyda'r[https://foundation.wikimedia.org/wiki/Terms_of_Use Amodau Defnyddio].",
 	"wikimediashoplink-linktext": "Siop Wikimedia",
 	"wikimediashoplink-link-tooltip": "Ewch am dro i siop Wikimedia",
+	"interlanguage-link-sitename-mul": "{{SITENAME}} amlieithog",
 	"eri-rcfilters-tour-intro-welcome-description": "Defnyddiwch y system ffiltro ddiweddaraf er mwyn rhoi trefn ar eich golygiadau. Gallwch hyd yn oed eu cadw mewn set taclus, a'u huwcholeuo yn ôl eich dewis. $1",
+	"eri-rcfilters-tour-intro-welcome-button": "Iawn",
+	"eri-rcfilters-tour-highlight-button": "Iawn",
 	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio",
 	"wikimedia-statslink": "Ystadegau",
 	"wikimedia-cookiestatement": "Datganiad cwcis"

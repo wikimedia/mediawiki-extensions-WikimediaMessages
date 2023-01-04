@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Yupik"
+			"Yupik",
+			"Kimberli Mäkäräinen (WMNO)"
 		]
 	},
+	"thank-you": "{{GENDER:$1|Giitu.}}",
+	"specialblockfeedback": "Máhcahat",
 	"specialinvestigate-feedback": "Atte máhcahaga"
 }
