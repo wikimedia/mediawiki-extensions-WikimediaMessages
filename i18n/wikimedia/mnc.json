@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"ChoiChong",
 			"Chulsu463",
 			"Foavi33",
@@ -8,18 +9,18 @@
 			"Араси"
 		]
 	},
-	"sitesupport": "mende tusa arambi (ᡝᠨᡩᡝ ᡨᡠᠰᠠ ᠠᡵᠠᠮᠪᡳ)",
-	"tooltip-n-sitesupport": "mende aisilambi",
-	"wikimedia-copyright": "dangse tuwarangge fejergi de muterembi <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">uheri gūnin buhengge-uheri gese urušehe temgetu</a>;\nnonggihe gisun ainci mutere. <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">baitalara gisun</a> de tuwa",
-	"wikimedia-copyrightwarning": "kvbulin be hibcara de [https://foundation.wikimedia.org/wiki/Terms_of_Use baitalan i fafun] de urulefi [https://mnc.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] geli [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL](GFDL) be dahame nonggire be selgiyere de enteheme urulere be gvnifi, geli Creative Commons license be dahame hobobungge asu eici URL ejebun i baitalara de urulere be gvnimbi.",
-	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|urgunjeme okdombi}}, $1!",
-	"wikibase-sitelinks-wikinews": "wiki mede",
-	"wikibase-sitelinks-wikiquote": "wiki gisuren",
-	"wikibase-sitelinks-wikisource": "wiki bithe i boo",
-	"wikibase-sitelinks-wikivoyage": "wiki saraxan",
-	"wikimedia-developers": "ilibusisa",
-	"wikimedia-globalblocking-ipblocked": "'''sini IP tere ba [[m:Special:MyLanguage/Global blocks|gemu wiki ci horihe]] oho.'''\n\nhorihe baitalasi oci $1 ($2)inu.\njalin oci ''$3''.\n\n* horihe erin: $4\n* horire erin: $5\n\nte sini IP tere ba oci $6.\nhorire de fonjin bici ninggu i medege be kamcirao.\n\nsi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nhorire de fudaraci [[m:Steward requests/Global|metawiki de horire be jai fonjimbi]]be unggi.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''sini baitalaha daiselara agvra [[m:Special:MyLanguage/Global blocks|yooni horihe]] oho.'''\n\nhorihe baitalasi oci $1 ($2)inu.\njalin oci ''$3''.\n\n* horihe erin: $4\n* horire erin: $5\n\nte sini IP tere ba oci $6.\nhorire de fonjin bici ninggu i medege be kamcirao.\n\nsi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nhorire de fudaraci [[m:Steward requests/Global|metawiki de horire be jai fonjimbi]]be unggi.",
-	"wikimedia-statslink": "geren ton",
-	"wikimedia-cookiestatement": "g'oki jonombi"
+	"sitesupport": "Mende tusa arambi (ᡝᠨᡩᡝ ᡨᡠᠰᠠ ᠠᡵᠠᠮᠪᡳ)",
+	"tooltip-n-sitesupport": "Mende aisilambi",
+	"wikimedia-copyright": "Dangse tuwarangge fejergi de muterembi <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">uheri gūnin buhengge-uheri gese urušehe temgetu</a>;\nnonggihe gisun ainci mutere. <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">baitalara gisun</a> de tuwa",
+	"wikimedia-copyrightwarning": "Kvbulin be hibcara de [https://foundation.wikimedia.org/wiki/Terms_of_Use baitalan i fafun] de urulefi [https://mnc.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] geli [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL](GFDL) be dahame nonggire be selgiyere de enteheme urulere be gvnifi, geli Creative Commons license be dahame hobobungge asu eici URL ejebun i baitalara de urulere be gvnimbi.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Urgunjeme okdombi}}, $1!",
+	"wikibase-sitelinks-wikinews": "Wiki mede",
+	"wikibase-sitelinks-wikiquote": "Wiki gisuren",
+	"wikibase-sitelinks-wikisource": "Wiki bithe i boo",
+	"wikibase-sitelinks-wikivoyage": "Wiki saraxan",
+	"wikimedia-developers": "Ilibusisa",
+	"wikimedia-globalblocking-ipblocked": "'''Sini IP tere ba [[m:Special:MyLanguage/Global blocks|gemu wiki ci horihe]] oho.'''\n\nHorihe baitalasi oci $1 ($2)inu.\nJalin oci ''$3''.\n\n* Horihe erin: $4\n* Horire erin: $5\n\nTe sini IP tere ba oci $6.\nHorire de fonjin bici ninggu i medege be kamcirao.\n\nSi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nHorire de fudaraci [[m:Steward requests/Global|Metawiki de horire be jai fonjimbi]]be unggi.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Sini baitalaha daiselara agvra [[m:Special:MyLanguage/Global blocks|yooni horihe]] oho.'''\n\nHorihe baitalasi oci $1 ($2)inu.\nJalin oci ''$3''.\n\n* Horihe erin: $4\n* Horire erin: $5\n\nTe sini IP tere ba oci $6.\nHorire de fonjin bici ninggu i medege be kamcirao.\n\nSi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nHorire de fudaraci [[m:Steward requests/Global|Metawiki de horire be jai fonjimbi]]be unggi.s",
+	"wikimedia-statslink": "Geren ton",
+	"wikimedia-cookiestatement": "G'oki jonombi"
 }
