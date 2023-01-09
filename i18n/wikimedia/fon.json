@@ -13,6 +13,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Nulɛnmɔzɔwatɔ lɛ",
+	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|É ɖo alɔ té nu]] mɛsɔxlɛ wekwin mitɔn IP tɔn ɔ ɖo wiki lɛ bi ji.\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n\n$6 wɛ nyi mɛsɔxlɛ wekwin mitɔn.\nMi sɔ do nukambiɔ mitɔn lɛ bi mɛ.\n\nE nyi mi mɔ mɛ ɔ wa nu yi ɖo bo do ɖo alɔ té nu mi ɔ, mi na mɔ nuxixa gégé ɖo [[m:Special:MyLanguage/No open proxies|Proxies ma nɔ gbawunjo mɛ o]] sɛn ji.\n\n\nBo na do kɛ nu ɖo alɔɖoté énɛ ɔ wu ɔ, [[m:Steward requests/Global|mi hɛn ɔ mi na blo ɖo Meta-Wiki ji]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''[[m:Special:MyLanguage/Global blocks|É ɖo alɔ té nu]] mɛsɔxlɛ wekwin mitɔn IP mitɔn tɔn ɖo wiki lɛ bi ji.\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n\n$6 wɛ nyi mɛsɔxlɛ wekwin mitɔn.\nMi sɔ do nukambiɔ mitɔn lɛ bi mɛ.\n\nE nyi mi mɔ mɛ ɔ wa nu yi ɖo bo do ɖo alɔ té nu mi ɔ, mi na mɔ nuxixa gégé ɖo [[m:Special:MyLanguage/No open proxies|Proxies ma nɔ gbawunjo mɛ o]] sɛn ji.\n\n\nBo na do kɛ nu ɖo alɔɖoté énɛ ɔ wu ɔ, [[m:Steward requests/Global|mi hɛn ɔ mi na blo ɖo Meta-Wiki ji]].",
 	"wikimedia-statslink": "Nu lilɛn lɛ",
 	"wikimedia-cookiestatement": "Nu é kan kooki lɛ é"
 }

@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Afalau"
+		]
+	},
+	"hello": "Helo",
+	"please-translate": "Cyfieithu i'ch iaith chi",
+	"thank-you": "{{GENDER:$1|Diolch.}}",
+	"specialblockfeedback": "Adborth"
+}
