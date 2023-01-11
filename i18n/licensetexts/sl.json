@@ -10,7 +10,7 @@
 		]
 	},
 	"wm-license-attribution-with-author-text": "Imetnik avtorskih pravic na tej datoteki, $1, dovoljuje vsem, da jo uporabljajo''' v kateri koli namen, pod pogojem''', da je imetnik avtorskih pravic pravilno naveden. Dovoljeni so razširjanje, izpeljana dela, pridobitna uporaba in vsaka druga uporaba.",
-	"wm-license-attribution-without-author-text": "Imetnik avtorskih pravic na tej datoteki dovoljuje vsem, da jo uporabljajo '''v kateri koli namen, pod pogojem''', da je imetnik avtorskih pravic pravilno naveden. Dovoljeni so razširjanje, izpeljana dela, pridobitna uporaba in vsaka druga uporaba.",
+	"wm-license-attribution-without-author-text": "Imetnik avtorskih pravic na tej datoteki dovoljuje vsem, da jo uporabljajo '''v kateri koli namen, pod pogojem''', da je imetnik avtorskih pravic pravilno naveden. Dovoljeni so razširjanje, izpeljana dela, gospodarska uporaba in vsaka druga uporaba.",
 	"wm-license-artwork-artist": "Umetnik/izdelovalec",
 	"wm-license-artwork-title": "Naslov",
 	"wm-license-artwork-medium": "Medij",
@@ -85,7 +85,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update",
 	"wm-license-original-upload-log": "Izvorni dnevniški zapis naložitve",
 	"wm-license-own-work": "Lastno delo",
-	"wm-license-pd-author-self-text": "Jaz, imetnik avtorskih pravic na tem delu, dajem delo v '''[[{{int:wm-license-pd-wiki-link}}|javno last]]'''. To velja po vsem svetu.",
+	"wm-license-pd-author-self-text": "Jaz, imetnik avtorskih pravic na tem delu, dajem to delo v '''[[{{int:wm-license-pd-wiki-link}}|javno domeno]]'''. To velja po vsem svetu.",
 	"wm-license-pd-author-with-author-text": "To delo je dal v '''[[{{int:wm-license-pd-wiki-link}}|javno last]]''' njegov avtor '''$1'''. To velja po vsem svetu.",
 	"wm-license-pd-author-not-legally-possible": "V nekaterih državah to pravno morda ni mogoče. Če je tako,",
 	"wm-license-pd-author-self-any-purpose": "Vsakomur dajem (v okviru zakonskih omejitev) brezpogojno pravico, da gradivo uporablja '''v kateri koli namen'''.",
@@ -106,11 +106,11 @@
 	"wm-license-pd-usgov-noaa-text": "Datoteka je delo zaposlenega v [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Ameriški Nacionalni upravi za oceane in ozračje]]. Morda je bila ustvarjena v sklopu uradnih dolžnosti te osebe. Kot [[{{int:wm-license-pd-usgov-work-wiki-link}}|delo]] [[{{int:wm-license-pd-usgov-wiki-link}}|ameriške zvezne vlade]] je v '''[[{{int:wm-license-pd-wiki-link}}|javni lasti]]'''.",
 	"wm-license-pd-usgov-noaa-wiki-link": "w:en:National Oceanic and Atmospheric Administration",
 	"wm-license-pd-wiki-link": "w:sl:Javna last",
-	"wm-license-self": "Jaz, nosilec avtorskih pravic na tem delu, ga s tem izdajam pod {{PLURAL:$1|naslednjo licenco|naslednjima licencama|naslednjimi licencami}}:",
-	"wm-license-self-with-author": "$1, nosilec avtorskih pravic na tem delu, ga s tem izdaja pod {{PLURAL:$2|naslednjo licenco|naslednjima licencama|naslednjimi licencami}}:",
+	"wm-license-self": "Jaz, imetnik avtorskih pravic na tem delu, ga s tem objavljam pod {{PLURAL:$1|naslednjo licenco|naslednjima licencama|naslednjimi licencami}}:",
+	"wm-license-self-with-author": "$1, imetnik avtorskih pravic na tem delu, ga s tem izdaja pod {{PLURAL:$2|naslednjo licenco|naslednjima licencama|naslednjimi licencami}}:",
 	"wm-license-self-one-license": "Jaz, imetnik avtorskih pravic na tem delu, ga objavljam pod naslednjo licenco:",
-	"wm-license-self-one-license-with-author": "$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja z naslednjo licenco:",
-	"wm-license-self-multiple-licenses": "Jaz, nosilec avtorskih pravic na tem delu, ga s tem izdajam pod naslednjimi licencami:",
+	"wm-license-self-one-license-with-author": "$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja pod naslednjo licenco:",
+	"wm-license-self-multiple-licenses": "Jaz, imetnik avtorskih pravic na tem delu, ga s tem objavljam pod naslednjimi licencami:",
 	"wm-license-self-multiple-licenses-with-author": "$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja pod naslednjimi licencami:",
 	"wm-license-self-multiple-licenses-select": "Izberete lahko licenco po svoji izbiri."
 }
