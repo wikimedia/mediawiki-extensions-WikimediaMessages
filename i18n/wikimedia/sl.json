@@ -46,7 +46,7 @@
 	"group-arbcom-member": "{{GENDER:$1|član|članica|član_ica}} arbitražnega odbora",
 	"grouppage-arbcom": "{{ns:project}}:Člani arbitražnega odbora",
 	"group-autopatrolled": "Samodejno nadzorovani",
-	"group-autopatrolled-member": "{{GENDER:$1|samodejni nadzornik|samodejna nadzornica|samodejni_a nadzornik_ca}}",
+	"group-autopatrolled-member": "{{GENDER:$1|samodejni pregledovalec|samodejna pregledovalka|samodejni_a pregledovalec_ka}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Samodejni nadzorniki",
 	"group-autoreviewer": "Samodejni pregledovalci",
 	"group-autoreviewer-member": "{{GENDER:$1|samodejni pregledovalec|samodejna pregledovalka|samodejni_a pregledovalec_ka}}",
