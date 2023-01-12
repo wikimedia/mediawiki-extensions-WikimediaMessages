@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"AgnesAbah"
+			"AgnesAbah",
+			"Amire80"
 		]
 	},
-	"sitesupport": "déwn",
-	"wikimedia-copyright": "Éwn mako í dé ofá <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nOda ómuné naka manyu.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
+	"sitesupport": "Déwn",
+	"wikimedia-copyright": "Éwn mako í dé ogane<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\noda ómuné néké manyu.\nGó <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\"></a> <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> todù amenwu ómuné ké téné.",
 	"wikimedia-copyrightwarning": "Chéwn ké féwn ma kpaílo dú maja, é jé kpaí [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use],é nwu jé kakínì ewn ké kò é du dúfu élà gbadabiñ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] kpaí [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. \nEjé ka kiní URL ché Ló lá bójo ófé ewñmànyí Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
-	"wikibase-sitelinks-wikiquote": "wikiquote",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Abó úkólo",
