@@ -1951,7 +1951,7 @@ class Hooks implements
 		}
 
 		// Return if target is not an IP address
-		if ( !IPUtils::isValid( $subPage ) ) {
+		if ( $subPage === null || !IPUtils::isValid( $subPage ) ) {
 			return;
 		}
 
