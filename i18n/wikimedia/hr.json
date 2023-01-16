@@ -202,8 +202,6 @@
 	"group-wmf-supportsafety": "Članovi tima za podršku i sigurnost Zaklade Wikimedija",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|član tima za podršku i sigurnost Zaklade Wikimedija|članica tima za podršku i sigurnost Zaklade Wikimedija}}",
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Služba za podršku i sigurnost Zaklade Wikimedija",
-	"group-wmf-ops-monitoring": "WMF-ovi nadzornici operacija",
-	"group-wmf-ops-monitoring-member": "{{GENDER:$1|WMF-ov nadzornik operacija|WMF-ova nadzornica operacija}}",
 	"tag-emoji": "smješci emoji",
 	"tag-emoji-description": "U uporabi: globalni filtar zloporaba 110.",
 	"tag-AWB": "[https://hr.wikipedia.org/wiki/Wikipedija:AutoWikiBrowser AutoWikiBrowser]",

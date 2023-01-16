@@ -224,7 +224,6 @@
 	"grouppage-vrt-permissions": "{{ns:project}}:VRT許諾エージェント",
 	"group-wmf-researcher": "WMF調査員",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF調査員}}",
-	"group-wmf-ops-monitoring": "WMF運用監視員",
 	"tag-emoji": "絵文字",
 	"tag-emoji-description": "グローバル不正利用フィルター 110 によって使用されます。",
 	"tag-AWB": "[https://ja.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
