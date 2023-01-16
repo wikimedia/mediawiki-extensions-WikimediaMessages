@@ -4,9 +4,13 @@
 			"AgnesAbah"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Ma dí óda wé ké kò, ké kpé kpaí ké ché nyo amenwu yí Emmy da la bí ódayi under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', é ma ché  1.2 bakí é ma ché igbele ma du dúfu  [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ma kpaíl ugbo duñ, má ké endu tí ogba uwn, má la kó tí ubi nwu. ma kí óda ewn oné tí ojí ugbo ka ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Àjiwè",
 	"wm-license-information-source": "Été",
 	"wm-license-information-date": "Iko",
 	"wm-license-information-author": "Enẹ kikotakada",
-	"wm-license-own-work": "Ukóló áwé"
+	"wm-license-information-permission": "Ábóda",
+	"wm-license-information-permission-reusing-text": "Á dabi dí fáílú cheku",
+	"wm-license-own-work": "Ukóló áwé",
+	"wm-license-self-multiple-licenses-select": "É néké tú enwu óda oné ké téné"
 }

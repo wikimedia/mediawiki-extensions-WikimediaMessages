@@ -3,19 +3,20 @@
 		"authors": [
 			"ChoiChong",
 			"Chulsu463",
-			"Foavi33"
+			"Foavi33",
+			"Amire80"
 		]
 	},
-	"wm-license-cc-attribution": "gebu arara",
-	"wm-license-cc-by-sa-3.0-text": "ere dangse [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] de temgetulehe [https://creativecommons.org/licenses/by-sa/3.0/deed.mnc gebu arara-adali be kvbulire be aljambi 3.0 boolarakū] temgetu.",
-	"wm-license-cc-free": "si ombi;",
+	"wm-license-cc-attribution": "Gebu arara",
+	"wm-license-cc-by-sa-3.0-text": "Ere dangse [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] de temgetulehe [https://creativecommons.org/licenses/by-sa/3.0/deed.mnc gebu arara-adali be kvbulire be aljambi 3.0 boolarakū] temgetu.",
+	"wm-license-cc-free": "Si ombi:",
 	"wm-license-cc-free-to-share-header": "uheri",
 	"wm-license-cc-free-to-share-text": "sarkiyambi, baita be selgiyeme unggimbi",
 	"wm-license-cc-free-to-remix-header": "tuwamgiyambi",
 	"wm-license-cc-free-to-remix-text": "baita de acanambi",
-	"wm-license-cc-conditions": "arbun de dahame:",
+	"wm-license-cc-conditions": "Arbun de dahame:",
 	"wm-license-cc-conditions-attribution-header": "gebu arara",
-	"wm-license-cc-conditions-attribution-text": "si urunakū lak sere arahangge be bufi, temgetu i holbobungge be bufi, kūbulin bihe de tucibu. si giyan i tucibure mutere, damu temgetu i aljabure niyalma sini baitalan de urulere be yooni arga muterakū.",
+	"wm-license-cc-conditions-attribution-text": "Si urunakū lak sere arahangge be bufi, temgetu i holbobungge be bufi, kūbulin bihe de tucibu. Si giyan i tucibure mutere, damu temgetu i aljabure niyalma sini baitalan de urulere be yooni arga muterakū.",
 	"wm-license-cc-conditions-share_alike-header": "adali be kvbulire be aljambi",
-	"wm-license-cc-conditions-share_alike-text": "si tere justan be suwaliyame, guribume eici ilibuci, si urunakū [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses] de sinde buhe be araki."
+	"wm-license-cc-conditions-share_alike-text": "Si tere justan be suwaliyame, guribume eici ilibuci, si urunakū [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses] de sinde buhe be araki."
 }

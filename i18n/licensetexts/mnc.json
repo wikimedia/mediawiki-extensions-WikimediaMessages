@@ -3,16 +3,17 @@
 		"authors": [
 			"ChoiChong",
 			"Chulsu463",
-			"Foavi33"
+			"Foavi33",
+			"Amire80"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU sulfan bithe baitalan aljangga]]''' 1.2 durun [[{{int:wm-license-fsf-wiki-link}}|sulfan software gungli]] de selgiyehe manggi durun i fafun be dahame ere fiyelen be sarkiyarangge, jai ararangge geli selgiyerengge mutembi. ere fiyelen de kvbulire muterakv ba akv, nenden amaga i ilgabun inu akv. ere i baitalan aljangga i yooni baktambun [[{{int:wm-license-gfdl-full-1.2-link}}|GNU sulfan bithe baitalan aljangga]] de baktabume bi.",
-	"wm-license-information-description": "gisurembi",
-	"wm-license-information-source": "sekiyen",
-	"wm-license-information-date": "bilgan",
-	"wm-license-information-author": "arasi",
-	"wm-license-information-permission": "aljambi",
-	"wm-license-information-permission-reusing-text": "ere dangse be jai baitalambi",
-	"wm-license-own-work": "beyei baita",
-	"wm-license-self-multiple-licenses-select": "si sini sonjohon de temgetu sonjome muterembi."
+	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU sulfan bithe baitalan aljangga]]''' 1.2 durun [[{{int:wm-license-fsf-wiki-link}}|sulfan software gungli]] de selgiyehe manggi durun i fafun be dahame ere fiyelen be sarkiyarangge, jai ararangge geli selgiyerengge mutembi. Ere fiyelen de kvbulire muterakv ba akv, nenden amaga i ilgabun inu akv. Ere i baitalan aljangga i yooni baktambun [[{{int:wm-license-gfdl-full-1.2-link}}|GNU sulfan bithe baitalan aljangga]] de baktabume bi.",
+	"wm-license-information-description": "Gisurembi",
+	"wm-license-information-source": "Sekiyen",
+	"wm-license-information-date": "Bilgan",
+	"wm-license-information-author": "Arasi",
+	"wm-license-information-permission": "Aljambi",
+	"wm-license-information-permission-reusing-text": "Ere dangse be jai baitalambi",
+	"wm-license-own-work": "Beyei baita",
+	"wm-license-self-multiple-licenses-select": "Si sini sonjohon de temgetu sonjome muterembi."
 }

@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Lyzzy",
-			"Metalhead64"
+			"Metalhead64",
+			"Brettchenweber"
 		]
 	},
 	"contactpage-title-requestlicense": "Formular zum Anfordern einer Lizenz",
@@ -49,7 +50,7 @@
 	"contactpage-affcom-user-group-logo-affiliate": "Logo einer Wikimedia-Organisation",
 	"contactpage-title-stewards": "Stewards kontaktieren",
 	"contactpage-stewards-disclaimer-label": "Haftungsausschluss: Alle in dieses Formular eingegebenen Informationen werden von freiwilligen Mitgliedern der Gemeinschaft (speziell [[Special:MyLanguage/Stewards|Stewards]]) und nicht von der Wikimedia Foundation verarbeitet und beantwortet. Schließe bitte keine Informationen ein, die du nicht mit Wikimedia-Freiwilligen teilen möchtest. Antworten und anderer Schriftverkehr betreffend der Verarbeitung deiner übermittelten Informationen sind keine offiziellen Aussagen der Wikimedia Foundation. Für offizielle Korrespondenz kontaktiere die Wikimedia Foundation mithilfe der Methoden, die auf https://wikimediafoundation.org/about/contact/ gelistet sind.",
-	"contactpage-title-movecomsignup": "Trete der Mailingliste der Bewegungs-Kommunikationsgruppe bei",
+	"contactpage-title-movecomsignup": "Tritt der Mailingliste der Bewegungs-Kommunikationsgruppe bei",
 	"contactpage-pagetext-movecomsignup": "Benutze bitte das unten stehende Formular, um dich für die Mailingliste [[Movement communications group]] zu registrieren.",
 	"contactpage-subject-movecomsignup": "Registrierung für die Bewegungs-Kommunikationsgruppe",
 	"contactpage-movecom-signup-username-label": "Dein(e) Benutzername(n)",
