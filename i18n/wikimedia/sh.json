@@ -141,6 +141,8 @@
 	"grouppage-curator": "{{ns:project}}:Pomnjici",
 	"group-global-bot": "Globalni botovi",
 	"group-global-bot-member": "{{GENDER:$1|globalni bot}}",
+	"group-global-deleter": "Globalni brisači",
+	"group-global-deleter-member": "{{GENDER:$1|globalni brisač}}",
 	"group-global-flow-create": "Stvaraoci Globalnog protoka",
 	"group-global-flow-create-member": "{{GENDER:$1|stvaralac Globalnog protoka|stvarateljica Globalnog protoka}}",
 	"group-global-ipblock-exempt": "Iznimke od globalnih IP blokova",

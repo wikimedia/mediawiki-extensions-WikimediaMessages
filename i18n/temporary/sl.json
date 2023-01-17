@@ -8,9 +8,9 @@
 		]
 	},
 	"wikimediamessages-desc": "Začasna sporočila, specifična za Wikimedio",
-	"grouppage-oversight": "{{ns:project}}:Nadzornik",
-	"group-oversight": "Nadzorniki",
-	"group-oversight-member": "{{GENDER:$1|nadzornik|nadzornica|nadzornik_ca}}",
+	"grouppage-oversight": "{{ns:project}}:Moderator",
+	"group-oversight": "Moderatorji",
+	"group-oversight-member": "{{GENDER:$1|moderator|moderatorka|moderator_ka}}",
 	"hello": "Pozdravljeni",
 	"please-translate": "Pomagajte prevesti v vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala.}}",
