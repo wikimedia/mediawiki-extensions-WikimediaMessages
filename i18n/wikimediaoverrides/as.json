@@ -10,6 +10,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]",
 	"wikimedia-centralauth-groupname": "ৱিকিমিডিয়া ফাউণ্ডেশ্যন",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ক্লিক কৰি আপুনি আমাৰ [https://foundation.wikimedia.org/wiki/Terms_of_Use ব্যৱহাৰৰ চৰ্তসমূহত] সন্মতি প্ৰদান কৰিছে আৰু আপোনাৰ অৱদান $2-ৰ {{PLURAL:$3|অধিনত}} অপৰিৱৰ্তনীয়ভাৱে প্ৰকাশ কৰাত সন্মত হৈছে।",
 	"wikimedia-sitematrix": "ৱিকিমিডিয়া ৱিকিসমূহৰ তালিকা",
 	"wikimedia-sitematrix-others": "আন ৱিকিমিডিয়া প্ৰকল্পসমূহ",
 	"wikimedia-sitematrix-summary": "এই বিশেষ পৃষ্ঠাত সকলো ৱিকিমিডিয়া ৱিকিৰ তালিকা আছে।"

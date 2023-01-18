@@ -5,15 +5,16 @@
 			"Amire80"
 		]
 	},
+	"wm-license-cc-attribution": "ewn ki lola",
 	"wm-license-cc-by-sa-3.0-text": "Fáílú kí de yí ma ché dó óda enekiné ófé [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] óda ekekiné.",
-	"wm-license-cc-free": "ẹ́  chè  na èko",
+	"wm-license-cc-free": "Ẹ́ chè  na èko:",
 	"wm-license-cc-free-to-share-header": "kpe",
 	"wm-license-cc-free-to-share-text": "É kó, kpé kpaí ekpé wéwé úkólò",
-	"wm-license-cc-free-to-remix-header": "Dà bí chómuné lólàwñ",
-	"wm-license-cc-free-to-remix-text": "Ì mú úkólò gba",
-	"wm-license-cc-conditions": "Améwn kí dofà ewn ka kaì",
+	"wm-license-cc-free-to-remix-header": "dà bí chómuné lólàwñ",
+	"wm-license-cc-free-to-remix-text": "ì mú úkólò gba",
+	"wm-license-cc-conditions": "Améwn kí dofà ewn ka kaì:",
 	"wm-license-cc-conditions-attribution-header": "ewn ki lola",
-	"wm-license-cc-conditions-attribution-text": "É jénwu éné kí chéwn abí ké dúbé jénwu, é kà otilà chéwn kí é nwu dú kpaílo, é ká da bé é né kí ní ibé,é mú dà kà dabì éné kí nó óda ewn ka ké dú chékuñ.",
-	"wm-license-cc-conditions-share_alike-header": "Kpé éwnkibíola",
+	"wm-license-cc-conditions-attribution-text": "É jénwu éné kí chéwn abí ké dúbé jénwu, é kà otilà chéwn kí é nwu dú kpaílo, é ká da bé é né kí ní ibé, é mú dà kà dabì éné kí nó óda ewn ka ké dú chékuñ.",
+	"wm-license-cc-conditions-share_alike-header": "kpé éwnkibíola",
 	"wm-license-cc-conditions-share_alike-text": "Ché ké dabì kò, ké dabì ché nyo bàkí é kòñwu ojí ewn, otílà égbé ewn ké kò ofà [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] ewñ ogbogaga."
 }

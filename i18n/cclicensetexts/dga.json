@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zakaria Tunsung"
+			"Zakaria Tunsung",
+			"Yirkang"
 		]
 	},
+	"wm-license-cc-free": "Fo ba erɛ boŋ zaa",
+	"wm-license-cc-free-to-share-header": "A pɔŋ",
+	"wm-license-cc-free-to-remix-header": "A laŋtaa",
+	"wm-license-cc-free-to-remix-text": "A de/sage a toma",
 	"wm-license-cc-conditions-attribution-header": "De manneneŋ",
 	"wm-license-cc-conditions-share_alike-header": "Tɔreko ayitaaloŋ mine"
 }
