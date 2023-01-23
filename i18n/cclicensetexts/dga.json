@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zakaria Tunsung"
+			"Zakaria Tunsung",
+			"Linus Konkor",
+			"Yirkang"
 		]
 	},
+	"wm-license-cc-free": "Fo ba erɛ boŋ zaa",
+	"wm-license-cc-free-to-share-header": "A pɔŋ",
+	"wm-license-cc-free-to-share-text": "Ka fo naŋ tɔgele, ŋmɛyaare ane toɔle a toma.",
+	"wm-license-cc-free-to-remix-header": "A laŋtaa",
+	"wm-license-cc-free-to-remix-text": "A de/sage a toma",
+	"wm-license-cc-conditions": "A yi a sobie ama yuoŋ :",
 	"wm-license-cc-conditions-attribution-header": "De manneneŋ",
+	"wm-license-cc-conditions-attribution-text": " Aseŋ ka fo tere emmuo naŋ senne,a wanne  sase-miri naŋ wullo o sobuo ane ka tɛgere kaŋ eɛ. Fo na baŋ eɛ lɛ yi lɛ na zaa fõõ naŋ boɔrɔ, kyɛ ka a ta e ŋa o soba la ko fo sori bee fo de tonne.",
 	"wm-license-cc-conditions-share_alike-header": "Tɔreko ayitaaloŋ mine"
 }

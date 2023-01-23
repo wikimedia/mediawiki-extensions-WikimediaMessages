@@ -7,7 +7,8 @@
 			"Vinhtantran",
 			"Thienhau2003",
 			"NguoiDungKhongDinhDanh",
-			"CactiStaccingCrane"
+			"CactiStaccingCrane",
+			"Tryvix1509"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Người giữ bản quyền tập tin này, $1, cho phép mọi người dùng nó cho '''mọi mục đích, miễn là''' phải ghi công hợp lý cho người giữ bản quyền. Được phép tái phân phối, tạo ra tác phẩm phái sinh, sử dụng cho mục đích thương mại, và tất cả các hình thức sử dụng khác.",
@@ -49,7 +50,7 @@
 	"wm-license-creator-work-period": "Giai đoạn sáng tác",
 	"wm-license-creator-work-location": "Nơi sáng tác",
 	"wm-license-creator-linkback": "Liên kết đến bản mẫu hộp thông tin Creator",
-	"wm-license-fal-text": "Copyleft: Công trình nghệ thuật này là miễn phí; bạn được tự do tái phân phối và/hoặc sửa đổi nó dưới những điều kiện của '''[[{{int:wm-license-fal-wiki-link}}|Giấy phép Nghệ thuật Tự do]]'''. Có thể đọc nguyên văn giấy phép này tại [{{int:wm-license-fal-full-link}} trang Copyleft Attitude] và [{{int:wm-license-fal-full-link-commons}} những trang khác].",
+	"wm-license-fal-text": "Copyleft: Công trình nghệ thuật này là tác phẩm tự do; bạn được tự do tái phân phối và/hoặc sửa đổi nó dưới những điều kiện của '''[[{{int:wm-license-fal-wiki-link}}|Giấy phép Nghệ thuật Tự do]]'''. Có thể đọc nguyên văn giấy phép này tại [{{int:wm-license-fal-full-link}} trang Copyleft Attitude] và [{{int:wm-license-fal-full-link-commons}} những trang khác].",
 	"wm-license-fsf-wiki-link": "w:vi:Quỹ Phần mềm Tự do",
 	"wm-license-free-software-wiki-link": "w:vi:Phần mềm tự do",
 	"wm-license-gfdl-1.2-and-later": "Bạn có quyền sao chép, phân phối và/hoặc sửa đổi tài liệu này theo những điều khoản được quy định trong '''[[{{int:wm-license-gfdl-wiki-link}}|Giấy phép Tài liệu Tự do GNU]]''', phiên bản 1.2 hoặc các phiên bản mới hơn được [[{{int:wm-license-fsf-wiki-link}}|Quỹ Phần mềm Tự do]]; quy định; ngoại trừ những phần không được sửa đổi, bìa trước và bìa sau. Bạn có thể xem giấy phép nói trên ở phần ''[[{{int:wm-license-gfdl-full-1.2-link}}|Giấy phép Tài liệu Tự do GNU]]''.",
