@@ -12,5 +12,6 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwau_defnyddiwr",
 	"wikimedia-sitematrix": "Rhestr holl wiciau Wikimedia",
 	"wikimedia-sitematrix-others": "Prosiectau eraill Wikimedia",
-	"wikimedia-sitematrix-summary": "Rhestr holl wicïau Wikimedia sydd ar y dudalen arbennig hon."
+	"wikimedia-sitematrix-summary": "Rhestr holl wicïau Wikimedia sydd ar y dudalen arbennig hon.",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Polisi Preifatrwydd]"
 }

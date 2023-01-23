@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Afalau",
 			"Diebuche",
 			"Lloffiwr",
 			"Pwyll"
@@ -45,7 +46,7 @@
 	"wm-license-creator-work-period": "Cyfnod y bu'n gweithio",
 	"wm-license-creator-work-location": "Man y bu'n gweithio",
 	"wm-license-creator-linkback": "Cyswllt yn ôl at nodyn gwybodlen y Gwneuthurwr",
-	"wm-license-fal-text": "Haelfraint: Mae'r gwaith hwn o gelfyddyd yn rhydd; gallwch ei ailddosbarthu neu ei addasu yn ôl termau'r drwydded '''[[{{int:wm-license-fal-wiki-link}}|Free Art]]'''. Gallwch weld enghraifft o'r drwydded hon ar wefan [{{int:wm-license-fal-full-link}} Copyleft Attitude] ac hefyd  [{{int:wm-license-fal-full-link-commons}} ar wefannau eraill.",
+	"wm-license-fal-text": "Haelfraint: Mae'r gwaith hwn o gelfyddyd yn rhydd; gallwch ei ailddosbarthu neu ei addasu yn ôl termau'r '''[[{{int:wm-license-fal-wiki-link}}|drwydded Free Art]]'''. Gallwch weld enghraifft o'r drwydded hon ar [{{int:wm-license-fal-full-link}} wefan Copyleft Attitude] ac hefyd [{{int:wm-license-fal-full-link-commons}} ar wefannau eraill].",
 	"wm-license-fsf-wiki-link": "w:cy:Free Software Foundation",
 	"wm-license-gfdl-1.2-and-later": "Caniateir copïo, dosbarthu a/neu golygu'r ddogfen hon yn ôl telerau'r '''[[{{int:wm-license-gfdl-wiki-link}}|Drwydded Ddogfennaeth Rydd GNU]]''', Fersiwn 1.2 neu unrhyw fersiwn diweddarach a gyhoeddwyd gan y [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; yn cynnwys dim Adrannau Di-syfl, dim Testunau Clawr Blaen, a dim Testunau Clawr Cefn. Cynhwysir copi o'r drwydded hon yn yr adran ''[[{{int:wm-license-gfdl-full-1.2-link}}|Trwydded Ddogfennaeth Rydd GNU]]\".",
 	"wm-license-gfdl-1.2-only": "Caniateir copïo, rhyddhau ac/neu addasu'r ddogfen hon yn ôl termau'r drwydded  '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation]]''', Fersiwn 1.2 yn unig fel ag a gyhoeddwyd gan y [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; heb ddim Adrannau Di-syfl, dim Testunau Clawr Blaen, a dim Testunau Clawr Cefn. Cynhwysir copi o'r drwydded hon yn yr adran ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
@@ -84,6 +85,8 @@
 	"wm-license-pd-usgov-military-army-wiki-link": "w:cy:Byddin yr Unol Daleithiau",
 	"wm-license-pd-usgov-military-navy-text": "Gwneuthpwyd y ffeil hon gan forwr neu gyflogai o [[{{int:wm-license-pd-usgov-military-navy-wiki-link}}|Lynges yr UDA]], a'i wnaeth yn ystod ei waith swyddogol. Yn sgil bod yn [[{{int:wm-license-pd-usgov-work-wiki-link}}|waith]] [[{{int:wm-license-pd-usgov-wiki-link}}|llywodraeth ffederal yr UDA]], mae'r ffeil hon ym '''[[{{int:wm-license-pd-wiki-link}}|mharth y cyhoedd]]'''.",
 	"wm-license-pd-usgov-noaa-text": "Gwneuthpwyd y ffeil hon gan gyflogai o [[{{int:wm-license-pd-usgov-noaa-wiki-link}}|Weinyddiaeth Genedlaethol Môr ac Awyr yr UDA]], a'i wnaeth yn ystod ei waith swyddogol. Yn sgil bod yn [[{{int:wm-license-pd-usgov-work-wiki-link}}|waith]] [[{{int:wm-license-pd-usgov-wiki-link}}|llywodraeth ffederal yr UDA]], mae'r ffeil hon ym '''[[{{int:wm-license-pd-wiki-link}}|mharth y cyhoedd]]'''.",
+	"wm-license-self": "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi o dan y {{PLURAL:$1|drwydded a ganlyn|trwyddedau a ganlyn}}:",
+	"wm-license-self-with-author": "Mae $1, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi o dan y {{PLURAL:$2|drwydded a ganlyn|trwyddedau a ganlyn}}:",
 	"wm-license-self-one-license": "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
 	"wm-license-self-one-license-with-author": "Mae $1, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r drwydded a ganlyn:",
 	"wm-license-self-multiple-licenses": "Yr wyf fi, deiliad yr hawlfraint ar y gwaith hwn, yn ei gyhoeddi yn ôl termau'r trwyddedau a ganlyn:",
