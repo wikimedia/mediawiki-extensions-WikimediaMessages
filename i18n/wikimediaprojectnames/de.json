@@ -11,7 +11,8 @@
 			"Symposiarch",
 			"ToBeFree",
 			"Umlaut",
-			"Zabe"
+			"Zabe",
+			"ThisCarthing"
 		]
 	},
 	"project-localized-name-aawiki": "Afar Wikipedia",
@@ -225,6 +226,7 @@
 	"project-localized-name-eowikinews": "Esperantosprachiges Wikinews",
 	"project-localized-name-eowikiquote": "Esperantosprachiges Wikiquote",
 	"project-localized-name-eowikisource": "Esperantosprachiges Wikisource",
+	"project-localized-name-eowikivoyage": "Esperantosprachige Wikivoyage",
 	"project-localized-name-eowiktionary": "Esperantosprachiges Wiktionary",
 	"project-localized-name-eswiki": "Spanischsprachige Wikipedia",
 	"project-localized-name-eswikibooks": "Spanischsprachige Wikibooks",
