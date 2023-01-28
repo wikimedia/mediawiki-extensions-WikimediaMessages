@@ -15,7 +15,7 @@ use HtmlArmor;
 use IContextSource;
 use Linker;
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
-use MediaWiki\Cache\Hook\MessageCache__getHook;
+use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Extension\GuidedTour\GuidedTourLauncher;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
@@ -30,6 +30,7 @@ use MediaWiki\ResourceLoader\ResourceLoader;
 use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\User\UserOptionsManager;
+use MessageCache;
 use MessageLocalizer;
 use OOUI\IconWidget;
 use OOUI\Tag;
@@ -52,7 +53,7 @@ class Hooks implements
 	EditPageCopyrightWarningHook,
 	GetPreferencesHook,
 	LocalUserCreatedHook,
-	MessageCache__getHook,
+	MessageCacheFetchOverridesHook,
 	ResourceLoaderRegisterModulesHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
@@ -101,6 +102,7 @@ class Hooks implements
 					'ForceUIMsgAsContentMsg',
 					'WikimediaMessagesLicensing',
 					'LanguageCode',
+					'RightsText',
 				],
 				$mainConfig
 			),
@@ -111,13 +113,13 @@ class Hooks implements
 	/**
 	 * When core requests certain messages, change the key to a Wikimedia version.
 	 *
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/MessageCache::get
-	 * @param string &$lcKey message key to check and possibly convert
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/MessageCacheFetchOverrides
+	 * @param string[] &$keys
 	 */
-	public function onMessageCache__get( &$lcKey ) {
+	public function onMessageCacheFetchOverrides( array &$keys ): void {
 		global $wmgRealm;
 
-		static $keys = [
+		static $keysToOverride = [
 			'acct_creation_throttle_hit',
 			'centralauth-contribs-locked',
 			// T216347
@@ -181,22 +183,23 @@ class Hooks implements
 			'urlshortener-disabled',
 		];
 
-		if ( $wmgRealm === 'labs' && $lcKey === 'privacypage' ) {
-			$lcKey = 'wikimedia-privacypage-labs';
-		} elseif ( $lcKey === 'grouppage-suppress' ) {
-			// Temporarily override grouppage-suppress to grouppage-oversight,
-			// to avoid breaking links. See T112147.
-			$transformedKey = 'grouppage-oversight';
-		} elseif ( in_array( $lcKey, $keys, true ) ||
-			( $this->options->get( 'DBname' ) !== 'metawiki' && in_array( $lcKey, $allbutmetawikikeys, true ) )
-		) {
-			$transformedKey = "wikimedia-$lcKey";
+		// Temporarily override grouppage-suppress to grouppage-oversight,
+		// to avoid breaking links. See T112147.
+		$keys['grouppage-suppress'] = 'grouppage-oversight';
+
+		if ( $wmgRealm === 'labs' ) {
+			$keys['privacypage'] = 'wikimedia-privacypage-labs';
+		}
+
+		$languageCode = $this->options->get( 'LanguageCode' );
+
+		$transformationCallback = static function ( string $key, MessageCache $cache ) use ( $languageCode ): string {
+			$transformedKey = "wikimedia-$key";
 
 			// MessageCache uses ucfirst if ord( key ) is < 128, which is true of all
 			// of the above.  Revisit if non-ASCII keys are used.
-			$ucKey = ucfirst( $lcKey );
+			$ucKey = ucfirst( $key );
 
-			$cache = MediaWikiServices::getInstance()->getMessageCache();
 			if (
 				/*
 				 * Override order:
@@ -209,48 +212,60 @@ class Hooks implements
 				 * 2. Otherwise, use the prefixed key with normal fallback order
 				 * (including MediaWiki pages if they exist).
 				 */
-				$cache->getMsgFromNamespace( $ucKey, $this->options->get( 'LanguageCode' ) ) === false
+				$cache->getMsgFromNamespace( $ucKey, $languageCode ) === false
 			) {
-				$lcKey = $transformedKey;
+				return $transformedKey;
 			}
+
+			return $key;
+		};
+
+		foreach ( $keysToOverride as $key ) {
+			$keys[$key] = $transformationCallback;
 		}
-		// Set license for mobile editor and talk overlays.
-		if ( $lcKey === 'mobile-frontend-license-links' ) {
-			$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
-			switch ( $licensing ) {
-				case 'mediawiki':
-					$lcKey = 'mediawiki.org-mobile-license-links';
-					break;
-				case 'wikidata':
-					$lcKey = 'wikidata-mobile-license-links';
-					break;
-				case 'wikifunctions':
-					$lcKey = 'wikifunctions-mobile-license-links';
-					break;
-				case 'commons':
-				case 'standard':
-					$lcKey = 'wikimedia-mobile-license-links';
-					break;
-				case 'wikinews':
-					// This is necessary because MobileFrontend doesn't always display the license based on
-					// config settings (T296791)
-					$lcKey = 'wikinews-mobile-license-links';
-					$config = MediaWikiServices::getInstance()->getConfigFactory()->makeConfig( 'wikimedia-messages' );
-					if ( $config->get( 'RightsText' ) === 'Creative Commons Attribution 3.0' ) {
-						$lcKey = 'wikinews-mobile-license-links-ccby30';
-					}
-					break;
-				default:
-					throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
+
+		if ( $this->options->get( 'DBname' ) !== 'metawiki' ) {
+			foreach ( $allbutmetawikikeys as $key ) {
+				$keys[$key] = $transformationCallback;
 			}
 		}
 
-		if ( $lcKey === 'mainpage-title-loggedin' && ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
-			$services = MediaWikiServices::getInstance();
-			$context = $services->getService( 'MobileFrontend.Context' );
-			if ( $context->shouldDisplayMobileView() ) {
-				$lcKey = 'wikimedia-mobile-mainpage-title-loggedin';
-			}
+		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
+		$rightsText = $this->options->get( 'RightsText' );
+
+		switch ( $licensing ) {
+			case 'mediawiki':
+				$keys['mobile-frontend-license-links'] = 'mediawiki.org-mobile-license-links';
+				break;
+			case 'wikidata':
+				$keys['mobile-frontend-license-links'] = 'wikidata-mobile-license-links';
+				break;
+			case 'wikifunctions':
+				$keys['mobile-frontend-license-links'] = 'wikifunctions-mobile-license-links';
+				break;
+			case 'commons':
+			case 'standard':
+				$keys['mobile-frontend-license-links'] = 'wikimedia-mobile-license-links';
+				break;
+			case 'wikinews':
+				// This is necessary because MobileFrontend doesn't always display the license based on
+				// config settings (T296791)
+				if ( $rightsText === 'Creative Commons Attribution 3.0' ) {
+					$keys['mobile-frontend-license-links'] = 'wikinews-mobile-license-links-ccby30';
+				} else {
+					$keys['mobile-frontend-license-links'] = 'wikinews-mobile-license-links';
+				}
+				break;
+			default:
+				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
+		}
+
+		if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+			$keys['mainpage-title-loggedin'] = static function ( string $key ): string {
+				$context = MediaWikiServices::getInstance()->getService( 'MobileFrontend.Context' );
+
+				return $context->shouldDisplayMobileView() ? 'wikimedia-mobile-mainpage-title-loggedin' : $key;
+			};
 		}
 	}
 
@@ -1989,5 +2004,4 @@ class Hooks implements
 				. 'Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/CheckUser_Improvements',
 		] );
 	}
-
 }
