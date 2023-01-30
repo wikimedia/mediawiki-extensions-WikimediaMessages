@@ -8,5 +8,6 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(cymorth wrth ddewis enw)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwau_defnyddiwr"
+	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwau_defnyddiwr",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Polisi Preifatrwydd]"
 }
