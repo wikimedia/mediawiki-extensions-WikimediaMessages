@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adumbrativus",
 			"Autokrator",
 			"Caliburn",
 			"Demetrius Talpa",
@@ -37,6 +38,7 @@
 	"wikibase-otherprojects-wikipedia": "Vicipaedia",
 	"wikibase-otherprojects-wikisource": "Vicifons",
 	"wikibase-otherprojects-wikivoyage": "Vicivia",
+	"wikibase-otherprojects-wiktionary": "Victionarium",
 	"wikimedia-developers": "Elaboratores",
 	"wikimedia-statslink": "Statistica"
 }
