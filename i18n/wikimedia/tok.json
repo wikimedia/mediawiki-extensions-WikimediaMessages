@@ -3,16 +3,17 @@
 		"authors": [
 			"Robin van der Vliet",
 			"שוקו מוקה",
-			"LesVisages"
+			"LesVisages",
+			"Tbodt"
 		]
 	},
 	"sitesupport": "o pana e mani",
-	"wikibase-repo-name": "Wikitata",
-	"wikibase-otherprojects-testwikidata": "Wikitata",
-	"wikibase-otherprojects-wikidata": "Wikitata",
-	"wikibase-otherprojects-wikipedia": "Wikipesija",
-	"wikibase-sitelinks-sitename-wikidatawiki": "Wikitata",
+	"wikibase-repo-name": "lipu Wikitata",
+	"wikibase-otherprojects-testwikidata": "lipu Wikitata",
+	"wikibase-otherprojects-wikidata": "lipu Wikitata",
+	"wikibase-otherprojects-wikipedia": "lipu Wikipesija",
+	"wikibase-sitelinks-sitename-wikidatawiki": "lipu Wikitata",
 	"wikimedia-developers": "jan pi pali ilo",
-	"interlanguage-link-wikipedia": "Wikipesija",
+	"interlanguage-link-wikipedia": "lipu Wikipesija",
 	"wikimedia-statslink": "nanpa"
 }
