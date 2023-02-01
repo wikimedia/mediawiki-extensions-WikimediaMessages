@@ -4,8 +4,12 @@
 			"Bugirbiig"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Suor bɛ ka fʋ nɔk sɔb nwa ka li nwɛnɛ fʋ dinɛ  ka fʋ tu'e tɔdi li ka/bɛɛ ti'asi li ka li dɔlis zi'ela dinɛ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU zaalim laasin gbana ni la]]''', Version 1.2 bɛɛ gbauŋ paal ka ba yis din nya'aŋ na published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ka li pʋ mɔr ti'asa zin'isieba bɛɛ Tuon-Gbauŋ Sɔb nɛ Nya'aŋ-Gbauŋ Sɔpɔ. Laasin la tiraan paas ya'ar kanɛ zugu an ye ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Awiesi pa'al",
 	"wm-license-information-source": "Tuŋ",
 	"wm-license-information-date": "Dabsir",
-	"wm-license-information-author": "Sɔb-sɔbid"
+	"wm-license-information-author": "Sɔb-sɔbid",
+	"wm-license-information-permission": "Suor tisib",
+	"wm-license-information-permission-reusing-text": "Alɛn nɔ faali tʋm",
+	"wm-license-own-work": "M mɛŋ-mɛŋ tʋʋma"
 }

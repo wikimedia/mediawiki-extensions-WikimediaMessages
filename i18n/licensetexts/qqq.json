@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Dj",
 			"EugeneZelenko",
 			"Fryed-peach",
@@ -92,7 +93,7 @@
 	"wm-license-information-description": "{{Identical|Description}}",
 	"wm-license-information-description-missing": "This message is used on Wikimedia Commons, on [[:commons:Template:Description missing]]",
 	"wm-license-information-description-missing-request": "Used from the [[commons:Template:Information|Commons Template \"Information\"]].",
-	"wm-license-information-source": "{{Identical|Source}}",
+	"wm-license-information-source": "'''This doesn't refer to \"source code\" or \"wikitext\".'''\n\nThis refers to the origin of a file, such as a photo, a video, or a PDF, that is uploaded to a wiki. This can be another website, a library, etc.\n\n{{Identical|Source}}",
 	"wm-license-information-source-missing": "Used from the [[commons:Template:Information|Commons Template \"Information\"]].",
 	"wm-license-information-source-missing-request": "Used from the [[commons:Template:Information|Commons Template \"Information\"]].",
 	"wm-license-information-date": "{{Identical|Date}}",
