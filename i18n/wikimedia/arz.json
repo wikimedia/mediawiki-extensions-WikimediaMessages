@@ -5,7 +5,8 @@
 			"HitomiAkane",
 			"Meno25",
 			"Nemo bis",
-			"Ramsis II"
+			"Ramsis II",
+			"Karim185.3"
 		]
 	},
 	"wikimediamessages-desc": "رسايل خاصه بويكيميديا",
@@ -21,7 +22,7 @@
 	"grouppage-accountcreator": "{{ns:project}}:منشئين الحسابات",
 	"group-autopatrolled": "مراجعين أوتوماتيكى",
 	"group-autopatrolled-member": "{{GENDER:$1|اوتوباترولار}}",
-	"grouppage-autopatrolled": "{{ns:project}}:اوتوباترولارز",
+	"grouppage-autopatrolled": "{{ns:project}}:اوتوپاترولد",
 	"group-autoreviewer": "اوتوريفيورات",
 	"group-autoreviewer-member": "{{GENDER:$1|مراجع اوتوماتيكى}}",
 	"grouppage-autoreviewer": "{{ns:project}}:مراجعين اوتوماتيكيين",
