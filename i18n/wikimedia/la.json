@@ -8,7 +8,8 @@
 			"Nemo bis",
 			"UV",
 			"לערי ריינהארט",
-			"Demetrius Talpa"
+			"Demetrius Talpa",
+			"Adumbrativus"
 		]
 	},
 	"sitesupport": "Donationes",
@@ -36,6 +37,7 @@
 	"wikibase-otherprojects-wikipedia": "Vicipaedia",
 	"wikibase-otherprojects-wikisource": "Vicifons",
 	"wikibase-otherprojects-wikivoyage": "Vicivia",
+	"wikibase-otherprojects-wiktionary": "Victionarium",
 	"wikimedia-developers": "Elaboratores",
 	"wikimedia-statslink": "Statistica"
 }

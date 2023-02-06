@@ -6,10 +6,13 @@
 	},
 	"sitesupport": "Tisim piini",
 	"wikimedia-copyright": "Sɔb nwa bɛnɛ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nwada sieba mɛ tun'e bɛ naar ye fʋ dɔlis.\nGɔsim<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Wada banɛ nar ye fʋ dɔlis</a> paamɛ li wʋsa",
+	"wikimedia-copyrightwarning": "Fʋ ya'a kpɛn'ɛs linɛ wʋsa ti'as la, li pa'al ye fʋ siak [https://foundation.wikimedia.org/wiki/Terms_of_Use nɛ zi'el kanɛ ka ba mɔri tʋm la], ka mɛ siak nɛ fʋ sʋʋnr wʋsa ye ba tun'e zaŋ fʋn sɔb si'el la wʋsa tʋmtʋʋma ka li dɔl nɛ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] nɛ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nFʋ siak ya ye hyperlink bɛɛ URL anɛ sida bʋn zaŋi ken  Creative Commons license dimin.",
 	"wikibase-sitelinks-wikinews": "Wikilabaar",
 	"wikibase-sitelinks-wikiquote": "Wikikot",
 	"wikibase-sitelinks-wikisource": "Wikisɔɔs",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Banɛ maal",
+	"wikimedia-globalblocking-ipblocked": "'''Fʋ IP adɛris la ba [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nBanɛ gu' li la anɛ $1 ($2).\nLinɛ zug ka ba gu' li la anɛ ''$3''.\n\n* Gu'ub la pin'ilʋg: $4\n* Gu'ub la naar: $5\n\nNannanna nwa, fʋ IP adɛris anɛ $6.\nFa', fʋ ya'a mɔr bu'osa wʋsa, fʋn paasim yɛl banɛ bɛ zugin nwa.\n\nFʋ ya'a mi' viki ye ba zi'inɛ ka gu'uf, fʋ tun'e ia labaar nɛ suobanɛ ka fʋ na dɔlis [[m:Special:MyLanguage/No open proxies|No open proxies]] dunia wʋsa si'elkpana ni.\nYa'a ka alaa, fʋ ya'a bɔɔdi sɔns ban gu'uf la zug, fʋn [[m:Steward requests/Global|sɔm tis Meta-Wiki ye ba maligim gɔsi li yɛla]].",
 	"wikimedia-statslink": "Kaalʋg",
 	"wikimedia-cookiestatement": "Kuki yɛla"
 }

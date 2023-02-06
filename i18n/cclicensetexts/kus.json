@@ -4,8 +4,16 @@
 			"Bugirbiig"
 		]
 	},
+	"wm-license-cc-attribution": "Apa'al onɛ su'oe",
+	"wm-license-cc-by-sa-3.0-text": "Faal nwa kasɛta gbauŋ zi'enɛ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] kasɛta gbauŋ.",
 	"wm-license-cc-free": "Fʋ mɔr suor",
 	"wm-license-cc-free-to-share-header": "anɔki pʋdig",
+	"wm-license-cc-free-to-share-text": "Maalimɛ li taaba ka zaŋi pʋdig ka tʋʋma la yʋ'ʋn tɔlis",
+	"wm-license-cc-free-to-remix-header": "Maligim gɛndig",
+	"wm-license-cc-free-to-remix-text": "zaŋim tʋʋma tʋm",
+	"wm-license-cc-conditions": "Din nar ye fʋ dɔlis suosieba nwa:",
 	"wm-license-cc-conditions-attribution-header": "pʋ'ʋsim",
-	"wm-license-cc-conditions-share_alike-header": "Pʋdigimi ka li zɛm taaba"
+	"wm-license-cc-conditions-attribution-text": "Di nar ye fʋ faas bɛɛ pa'al ye fʋ nif tigya ka mɛ pa'al fʋn paam laasin la si'el nɛ ti'as banɛ ka fʋ ti'as la. Fʋ na tun'e dɔlis suoya kɔn'ɔb-kɔn'ɔbi maal ala, amaa da niŋ ka li nwɛnɛ onɛ sʋ'oe laasin la tisif suorɛ.",
+	"wm-license-cc-conditions-share_alike-header": "Pʋdigimi ka li zɛm taaba",
+	"wm-license-cc-conditions-share_alike-text": "Fʋ ya'a maligim sɔb nɛ bɛɛ ti'asi li nɛ, bɛɛ fʋ sɔbnɛ niŋ sɔb kʋdir la ni, li sʋ'ʋm ye fʋ pʋdig fʋn paas si'el la ka li dɔl nɛ [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] di nannanŋin."
 }
