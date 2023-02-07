@@ -12,7 +12,8 @@
 			"SwornToTranslate29",
 			"ToprakM",
 			"Uncitoyen",
-			"Victor Trevor"
+			"Victor Trevor",
+			"Rapsar"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bu viki ziyaretçisini IP adresinizi kullanarak, geçen gün {{PLURAL:$1|1 hesap|$1 hesap}} oluşturmuş ve bu süre içinde izin verilen maksimum tutardır.\nSonuç olarak, bu IP adresini kullanan ziyaretçiler şu anda daha fazla hesap oluşturamaz.\n\nWikimedia projelerine katkıda bulunmanın odak olduğu bir etkinlikte bulunuyorsanız, bu sorunun çözülmesine yardımcı olmak için lütfen [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP kapağının geçici olarak kaldırılması istenmesine]] bakın.",
@@ -23,7 +24,7 @@
 	"wikimedia-centralauth-login-error-locked": "<strong>Bu hesap [[m:Special:MyLanguage/Global locks|küresel olarak kilitlendi]].</strong> Herhangi bir Wikimedia vikisine oturum açamayacaksınız. Lütfen herhangi bir {{GENDER:$1|sorunuz}} varsa [[m:Special:Contact/stewards|kahyalar ile iletişime]] geçin.",
 	"createacct-helpusername-url": "{{ns:Project}}:Kullanıcı_politikası",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 küresel katkıları] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} checks] • [{{fullurl:Special:Block/$1}} Yerel engel] veya [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 Küresel engel] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 coğrafi konum] • [//ipcheck.toolforge.org/index.php?ip=$1 proxy göstergesi kontrolü] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
-	"wikimedia-delete-toobig": "Bu sayfa $1 revizyon büyük bir düzenleme geçmişine sahip.\nÇok büyük düzenleme geçmişlerine sahip sayfaların silinmesi, {{SITENAME}} sitesinin kazayla bozulmasını önlemek için sınırlandırılmıştır.\nLütfen bu sayfanın silinmesini istemek için [[m:Steward requests/Miscellaneous|Kahya istekleri/Çeşitli Seçenekler]] sayfasından [[m:Special:MyLanguage/Stewards|kahyalar]] ile iletişime geçin.",
+	"wikimedia-delete-toobig": "Bu sayfa $1 revizyon büyük bir değişiklik geçmişine sahip.\nÇok büyük değişiklik geçmişlerine sahip sayfaların silinmesi, {{SITENAME}} sitesinin kazayla bozulmasını önlemek için sınırlandırılmıştır.\nLütfen bu sayfanın silinmesini istemek için [[m:Steward requests/Miscellaneous|Kahya istekleri/Çeşitli Seçenekler]] sayfasından [[m:Special:MyLanguage/Stewards|kahyalar]] ile iletişime geçin.",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" düğmesine tıklayarak, [https://meta.wikimedia.org/wiki/Terms_of_use/tr Kullanım Şartlarımızı] kabul etmiş ve değişikliklerinizin $2 {{PLURAL:$3|kapsamında}} geri döndürülemez bir şekilde yayımlanmasını kabul etmiş olursunuz.",
 	"wikimedia-feedback-termsofuse": "<a href=\"https://meta.wikimedia.org/wiki/Terms_of_use/tr\" target=\"_blank\">Kullanım Şartları</a>'na uygun geri bildirim sağlamayı kabul ediyorum.",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" düğmesine tıklayarak, [https://meta.wikimedia.org/wiki/Terms_of_use/tr Kullanım Şartlarımızı] kabul etmiş ve metninizin $1 {{PLURAL:$2|kapsamında}} geri döndürülemez bir şekilde yayımlanmasını kabul etmiş olursunuz.",
