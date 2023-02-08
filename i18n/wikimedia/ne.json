@@ -16,6 +16,7 @@
 			"बडा काजी"
 		]
 	},
+	"wikimediamessages-desc": "विकिमीडिया विशिष्ट सन्देशहरू",
 	"sitesupport": "चन्दा",
 	"tooltip-n-sitesupport": "हामीलाई समर्थन गर्नुहोस्",
 	"nstab-creator": "सर्जक",
@@ -40,6 +41,7 @@
 	"group-interface-editor": "अन्तरमोहडा सम्पादकहरू",
 	"group-ipblock-exempt": "आइपी रोक माफीहरू",
 	"group-patroller": "गस्तीगर्ने प्रयोगकर्ताहरू",
+	"group-patroller-member": "{{GENDER:$1|गस्तीगर्ने प्रयोगकर्ता}}",
 	"group-propertycreator": "विशेषता सर्जकहरू",
 	"grouppage-propertycreator": "{{ns:project}}:विशेषता सर्जकहरू",
 	"group-researcher": "खोजकर्ताहरु",
