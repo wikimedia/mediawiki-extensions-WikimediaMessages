@@ -5,11 +5,13 @@
 		]
 	},
 	"sitesupport": "Тыхь хуэщӀын",
+	"wikimedia-copyright": "Тхыгъэр бгъуэтынущ мы  <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">лицензиемкӀэ Creative Commons Attribution-ShareAlike</a>, языныкъуэ Ӏуэхугъуэхэм  гуэдзэ зэгурыӀуэныгъэ хэтынкӀэ хъунущ. Нэхъ кууэ еплъ <a href=\"https://foundation.wikimedia.org/wiki/КъэгъэсэбэпыкӀэм къигъэув Ӏуэхугъэуэхэр\">КъэгъэсэбэпыкӀэм къигъэув Ӏуэхугъэуэхэр</a>.",
 	"wikibase-sitelinks-wikinews": "ВикихъыбарыщӀэхэр",
 	"wikibase-sitelinks-wikiquote": "Викицитатник",
 	"wikibase-sitelinks-wikisource": "Викитекэ",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Программэр зэхэзылъхьахэр",
+	"wikimedia-globalblocking-ipblocked": "'''Уи IP-адресыр [[m:Special:MyLanguage/Global blocks| уики-проект псоми гъэбыда щыхъуащ]].''' Гъэбыда щыхъуар $1 ($2). Ар къызыхэкӀар мыращ: ''$3''. * гъэбыдэныгъэр щыщӀидзар: $4 * гъэбыдэныгъэр щиухыр: $5 Уи иджырей IP-адресыр - $6. КхъыӀэ мыхэр псори  укъыщытхуэтхэкӀэ уи тхыгъэм хэтхэ. ЩыуэгъэкӀэ гъэбыда ухъуауэ къыпщыхъумэ мыбдеж [[m:Special:MyLanguage/No open proxies| абы теухуауэ информацэрэ инструкцэрэ къыщыбгъуэт хъунущ. Прокси-сервер къызэӀухахэр къэбгъэщхьэпэ хъунукъым]] куэд къызэщӀиубыдэфыу файлхэр . НэгъуэщӀу мыхъумэ гъэбыдэныгъэм утепсэлъыхьын папщӀэ кхъыӀэ, [[m:Steward requests/Global| Мета-вики зыхуэгъазэ]].",
 	"wikimedia-statslink": "Бжыгъэхэр къэзыгъэлъагъуэ",
 	"wikimedia-cookiestatement": "Куким теухуа заявленэ"
 }

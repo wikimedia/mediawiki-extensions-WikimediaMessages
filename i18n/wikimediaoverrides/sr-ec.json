@@ -22,7 +22,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "Кликом на „{{int:flow-topic-action-unlock-topic}}” прихватате [https://foundation.wikimedia.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да свој допринос објавите под {{PLURAL:$2|лиценцом|лиценцама}} $1.",
 	"wikimedia-globalblocking-blockedtext-ip": "'''Ваша IP адреса је [[m:Special:MyLanguage/Global blocks|блокирана на свим викијима]].'''\n\nБлокирао/-ла Вас је $1.\nРазлог: ''$2''.\n\n* Почетак блокаде: $8\n* Крај блокаде: $6\n\nВаша тренутна IP адреса је $3.\nНапишите све горње податке при захтеву за деблокаду.\n\nАко сматрате да сте блокирани грешком, можете да пронађете више информација и упутства на страници [[m:Special:MyLanguage/No open proxies|Без отворених посредника]] — глобално правило.\nУ супротном, како бисте разговарали о блокади, [[m:Steward requests/Global|поднесите захтев на Метавикију]].",
 	"wikimedia-globalrenamequeue-email-body-approved": "Тражено преименовање „{{GENDER:$1|$1}}“ у „{{GENDER:$1|$2}}“ је одобрено. Пошто буде извршено пријављиваћете се са вашим новим корисничким именом и старом лозинком. Хвала што сте део Викимедијиних пројекта.",
-	"wikimedia-sitematrix": "Листа викија Викимедије",
+	"wikimedia-sitematrix": "Списак свих Викимедијиних викија",
 	"wikimedia-sitematrix-others": "Остали Викимедијини пројекти",
 	"wikimedia-sitematrix-summary": "Ова посебна страница наводи све викије Викимедије.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy/sr Политика приватности]",

@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуцэ",
+	"wm-license-cc-by-sa-3.0-text": "Мы файлыр лицензиекӀэ уогъуэт [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]",
 	"wm-license-cc-free": "Ухуитщ пщӀыну:",
 	"wm-license-cc-free-to-share-header": "дэгуэшын",
 	"wm-license-cc-free-to-share-text": "Мы лэжьыгъэр тещӀыкӀын, хэӀущІыІу щӀын, зыӀэпыхын",
@@ -12,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "лэжьыгъэр щӀэрыщӀэу щӀыжын",
 	"wm-license-cc-conditions": "Мы Ӏуэхугъуэхэр бгъэзащӀэмэ:",
 	"wm-license-cc-conditions-attribution-header": "атрибуцэ",
-	"wm-license-cc-conditions-share_alike-header": "А Ӏуэхугъуэ дыдэхэмкІэ зегъэубгъуныгъэ"
+	"wm-license-cc-conditions-attribution-text": "ТхакӀуэм и цӀэр,лицензиер, тхакӀуэм зэхъуэкӀыныгъэ хилъхьахэр къэбгъэлъэгъуэн хуейщ. Ар сыт хуэдэ къызэрыгуэкӀ Ӏуэхугъуэк1и пщ1ы хъунущ, ауэ лицениер зейм уэ удэщӀу е уэ укъигъэсэбэпу фэ къытеуэн хуейкъым.",
+	"wm-license-cc-conditions-share_alike-header": "А Ӏуэхугъуэ дыдэхэмкІэ зегъэубгъуныгъэ",
+	"wm-license-cc-conditions-share_alike-text": "Фэ зэфхъуэкӀымэ, зэвгъэзахуэмэ е мыр и лабжьэу нэгъуэщӀ лэжьыгъэ гуэр буухуэмэ оригиналым и лицензиер къэбгъэсэбэбын хуейщ Ӏэмал имыӀэу е [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses е оригиналым езэгъ лицензие]."
 }
