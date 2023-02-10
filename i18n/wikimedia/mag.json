@@ -4,16 +4,16 @@
 			"ऐक्टिवेटेड्"
 		]
 	},
-	"sitesupport": "दान कर",
-	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के अन्तर्गत उपलब्ध हई; बेसी सर्तो लागू हो सक हई ।\nआउ जानकारीला <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोगके सर्त</a> देख ।",
+	"sitesupport": "दान करी",
+	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रियेटिव् कॉमन्स् ऐट्रिब्यूसन्/सेयर्-अलाइक् लाइसेन्स्</a> के अन्तर्गत उपलब्ध हई; बेसी सर्तो लागू हो सकहई ।\nआउ जानकारीला <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">उपयोगके सर्त</a> देखी ।",
 	"wikimedia-copyrightwarning": "परिबर्तन सहेजे पर आपने [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use उपयोगके सर्त] मानेके बाध्ध होवही, आउ अपने अपन जोगदान [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेन्स्] आउ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अन्तर्गत अपरिवर्तनीयरूप से जारी करेला स्वीकार करही।\nअपने इहो स्बीकार करही कि एगो हाइपरलिङ्क् या URL क्रिएटिब् कॉमन्स् लाइसेन्स्के तहत पर्याप्त श्रेय हई।",
 	"wikibase-sitelinks-wikinews": "बिकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "बिकिसूक्ति",
 	"wikibase-sitelinks-wikisource": "बिकिस्रोत",
 	"wikibase-sitelinks-wikivoyage": "बिकिजतरा",
 	"wikimedia-developers": "बिकासक",
-	"wikimedia-globalblocking-ipblocked": "'''तोर आईपी पता [[m:Special:MyLanguage/Global blocks|सबबिकि पर प्रतिबन्धित]] करल् गेलीहे।'''\n\nइ प्रतिबन्ध $1 ($2) द्वारा करल् गेलीहे।\nप्रतिबन्ध करेके कारन: '$3'।\n\n* प्रतिबन्धके सुरुआत: $4\n* प्रतिबन्धके अन्त: $5\n\nतोर प्रस्तुत आईपी पता $6 हब।\nकृपया उपरे देल् बात अपन पूछ्ताछमे सामिल करिह।\n\nयदि अपने मानहकि इ प्रतिबन्ध किइयो गलती से होलीहे त अधिक जानकारी आउ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|नो ओपन् प्राॅक्सिज्]] बैस्बिक नीति पर पढ़ सकह। याफिर इ प्रतिबन्धके चर्चाला [[m:Steward requests/Global|मेटा-बिकि पर एगो नया चर्चा सुरूकर]]।",
-	"wikimedia-globalblocking-ipblocked-xff": "'''अपनेके आईपी पताद्वारा उपयुक्त एक या एकसे बेसी प्रॉक्सी सर्वरके [[m:Special:MyLanguage/Global blocks|बैस्विकरूप से प्रतिबन्धित]] करल् गेली हे।'''\n\nइ प्रतिबन्ध $1 ($2) द्वारा करल् गेलीहे।\nप्रतिबन्ध करेके कारन: '$3'।\n\n* प्रतिबन्धके सुरुआत:$4\n* प्रतिबन्धके अन्त: $5\n\nप्रतिबन्धित करल् गेल् प्रॉक्सी पता $6 हई।\nकृपया उपरे देल् बात अपन पूछ्ताछमे सामिल करिह।\n\nयदि अपने मानहकि इ प्रतिबन्ध किइयो गलती से होलीहे त अधिक जानकारी आउ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|नो ओपन् प्राॅक्सिज्]] बैस्बिक नीति पर पढ़ सकह। याफिर इ प्रतिबन्धके चर्चाला [[m:Steward requests/Global|मेटा-बिकि पर एगो नया चर्चा सुरूकर]]।",
+	"wikimedia-globalblocking-ipblocked": "'''तोर आईपी पता [[m:Special:MyLanguage/Global blocks|सबबिकि पर प्रतिबन्धित]] करल् गेलीहे।'''\n\nइ प्रतिबन्ध $1 ($2) द्वारा करल् गेलीहे।\nप्रतिबन्ध करेके कारण: '$3'।\n\n* प्रतिबन्धके आरम्भ: $4\n* प्रतिबन्धके अन्त: $5\n\nतोर प्रस्तुत आईपी पता $6 हब।\nकृपया उपरे देल् बात अपन पूछ्ताछमे सामिल करिह।\n\nयदि अपने मानहकि इ प्रतिबन्ध कोइयो गलती से होलीहे त अधिक जानकारी आउ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|नो ओपन् प्राॅक्सिज्]] बैस्बिक नीति पर पढ़ सकही। याफिर इ प्रतिबन्धके चर्चाला [[m:Steward requests/Global|मेटा-बिकिपर एगो नया चर्चा आरम्भ करी]]।",
+	"wikimedia-globalblocking-ipblocked-xff": "'''अपनेके आईपी पताद्वारा उपयुक्त एक या एकसे बेसी प्रॉक्सी सर्वरके [[m:Special:MyLanguage/Global blocks|बैस्विकरूप से प्रतिबन्धित]] करल् गेलीहे।'''\n\nइ प्रतिबन्ध $1 ($2) द्वारा करल् गेलीहे।\nप्रतिबन्ध करेके कारन: '$3'।\n\n* प्रतिबन्धके आरम्भ:$4\n* प्रतिबन्धके अन्त: $5\n\nप्रतिबन्धित करल् गेल् प्रॉक्सी पता $6 हई।\nकृपया उपरे देल् बात अपन पूछ्ताछमे सामिल करिह।\n\nयदि अपने मानहकि इ प्रतिबन्ध किइयो गलती से होलीहे त अधिक जानकारी आउ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|नो ओपन् प्राॅक्सिज्]] बैस्बिक नीति पर पढ़ सकही। याफिर इ प्रतिबन्धके चर्चाला [[m:Steward requests/Global|मेटा-बिकिपर एगो नया चर्चा सुरूकरी]]।",
 	"wikimedia-statslink": "आङ्कड़ा",
 	"wikimedia-cookiestatement": "कुकीके बर्नन"
 }
