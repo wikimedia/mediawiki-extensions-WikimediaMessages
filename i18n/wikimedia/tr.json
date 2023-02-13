@@ -367,6 +367,6 @@
 	"action-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" olarak korunan sayfaları düzenle",
 	"group-docseditor": "Belge editörleri",
 	"group-docseditor-member": "{{GENDER:$1|belge editörü}}",
-	"action-docseditor": "belgeyi düzenle",
-	"right-docseditor": "Belgeyi düzenle"
+	"action-docseditor": "belgeyi değiştir",
+	"right-docseditor": "Belgeyi değiştir"
 }
