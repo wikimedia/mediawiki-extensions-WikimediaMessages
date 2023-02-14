@@ -3,14 +3,15 @@
 		"authors": [
 			"Jayprakash12345",
 			"Kaustubh",
-			"Shypoetess"
+			"Shypoetess",
+			"Saurmandal"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया विशिष्ट अस्थायी संदेश",
 	"grouppage-oversight": "{{ns:project}}:ओवरसाईट",
 	"group-oversight": "ओवरसाईट अधिकारी",
 	"group-oversight-member": "{{GENDER:$1|ओवरसाईट}}",
-	"hello": "नमस्ते!",
+	"hello": "नमस्ते",
 	"please-translate": "कृपया अपनी भाषा में अनुवाद करने में सहायता करें",
 	"thank-you": "{{GENDER:$1|धन्यवाद।}}",
 	"specialblockfeedback": "प्रतिक्रिया"
