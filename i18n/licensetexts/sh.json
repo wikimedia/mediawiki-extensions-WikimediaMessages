@@ -1,17 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"BadDog",
 			"OC Ripper",
 			"Vlad5250"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Dozvoljeno je kopirati, distribuirati i/ili mijenjati ovaj članak pod uslovima navedenim u '''[[{{int:wm-license-gfdl-wiki-link}}|GNU licenci za slobodnu dokumentaciju]]''', verzija 1.2 ili kasnijom verzijom izdatom od [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez nepromjenljivih dijelova, te bez sadržaja na naslovnoj i zadnjoj strani. Kopija licence se nalazi pod poglavljem ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.2-and-later": "Dopušteno je umnožavanje, dijeljenje i mijenjanje ovog dokumenta pod uslovima '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-ove licence za slobodnu dokumentaciju]]''', verzije 1.2 ili bilo koje novije koju objavi [[{{int:wm-license-fsf-wiki-link}}|Fondacija za slobodni softver]]; bez nepromjenljivih odjeljaka i bez tekstova na naslovnoj i zadnjoj strani. Tekst licence možete pročitati [[{{int:wm-license-gfdl-full-1.2-link}}|ovdje]].",
 	"wm-license-information-description": "Opis",
 	"wm-license-information-source": "Izvor",
 	"wm-license-information-date": "Datum",
 	"wm-license-information-author": "Autor",
 	"wm-license-information-permission": "Dopuštenje",
-	"wm-license-information-permission-reusing-text": "Naknadno korištenje ove datoteke",
+	"wm-license-information-permission-reusing-text": "Ponovna upotreba ove datoteke",
 	"wm-license-information-permission-see-below": "Vidi ispod.",
 	"wm-license-information-other-versions": "Ostale verzije",
 	"wm-license-original-upload-log": "Izvorna evidencija postavljanja",
