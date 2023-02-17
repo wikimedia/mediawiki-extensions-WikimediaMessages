@@ -16,9 +16,13 @@
 	"wikimedia-flow-terms-of-use-summarize": "کرتەکردن لەسەر دوگمەی «{{int:flow-topic-action-update-topic-summary}}» واتای ئەوە دەدات کە ملکەچی [https://foundation.wikimedia.org/wiki/Terms_of_Use مەرجەکانی بەکارهێنانی] بوویت و ڕازیت کە بەشدارییەکانت هەموو لەژێر [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 مۆڵەتنامە] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]دا بڵاوببنەوە.",
 	"wikimedia-flow-terms-of-use-lock-topic": "بە کرتەکردن لەسەر «{{int:flow-topic-action-lock-topic}}»، [https://foundation.wikimedia.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان]  قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە دەستکارییەکانت لەژێر مۆڵەتنامەی [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] و  [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]دا بڵاو ببنەوە.",
 	"wikimedia-flow-terms-of-use-unlock-topic": "بە کرتەکردن لەسەر «{{int:flow-topic-action-unlock-topic}}»، [https://foundation.wikimedia.org/wiki/Terms_of_Use مەرجەکانی بەکارھێنان]  قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە دەستکارییەکانت لەژێر مۆڵەتنامەی [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] و  [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]دا بڵاو ببنەوە.",
-	"wikimedia-sitematrix": "پێرستی ویکییەکانی ویکیمیدیا",
-	"wikimedia-sitematrix-others": "پرۆژەکانی دیکەی ویکیمیدیا",
-	"wikimedia-sitematrix-summary": "ئەم پەڕە تایبەتە گشت ویکییەکانی ویکیمیدیای بە ڕیزکردووە.",
+	"wikimedia-sitematrix": "پێڕستی ویکییەکانی ویکیمیدیا",
+	"wikimedia-sitematrix-others": "پرۆژەکانی تری ویکیمیدیا",
+	"wikimedia-sitematrix-summary": "ئەم پەڕە تایبەتە گشت ویکییەکانی ویکیمیدیای پێڕست دەکات.",
+	"wikimedia-urlshortener-disabled": "بەستەرە کورتەکان تەنیا دەتوانرێت لەڕێگەی پەڕەی [[:m:Special:UrlShortener|Special:UrlShortener]] لە meta.wikimedia.org دروست بکرێن.",
+	"wikimedia-apierror-urlshortener-disabled": "بەستەرە کورتەکان تەنیا دەتوانرێت لەڕێگەی پەیوەندیکردن بە ویکیی meta.wikimedia.org دروست بکرێن.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "بەستەرە کورتەکان تەنیا دەتوانرێت لەڕێگەی پەیوەندیکردن بە ویکیی meta.wikimedia.org دروست بکرێن.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy سیاسەتی تایبەتێتی]",
-	"wikimedia-ipinfo-source-geoip2": "کەڵکوەرگرتنت لەم ئامرازە لەڕێگەی [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines ڕێنمایییەکانی ئامرازی زانیاریی ئایپی] بەڕێوەدەبرێت."
+	"wikimedia-ipinfo-source-geoip2": "کەڵکوەرگرتنت لەم ئامرازە لەڕێگەی [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines ڕێنمایییەکانی ئامرازی زانیاریی ئایپی] بەڕێوەدەبرێت.",
+	"wikimedia-ipinfo-preference-use-agreement": "من ڕازیم ئەم ئامرازە بەپێی [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines پەیڕەوی ئامرازی زانیاریی ئایپی] بەکاربێنم، تەنیا بە مەبەستی لێکۆڵینەوە یان ڕێگریکردن لە خراپکاری، کردەوەی خراپ یان سەرپێچییەکانی تری سیاسەتی دامەزراوەی ویکیمیدیا یان کۆمەڵگە."
 }
