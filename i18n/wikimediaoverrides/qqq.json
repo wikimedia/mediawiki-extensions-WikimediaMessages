@@ -54,5 +54,18 @@
 	"wikimedia-ipinfo-source-geoip2": "IPinfobox legal disclaimer",
 	"wikimedia-ipinfo-infobox-use-terms": "IPInfobox use legal terms",
 	"wikimedia-ipinfo-preference-use-agreement": "IPInfo use agreement",
-	"wikimedia-similareditors-error-default": "Error message displayed when no error key is specified"
+	"wikimedia-similareditors-error-default": "Error message displayed when no error key is specified",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-on-range": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-made-by": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-reason": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-start-time": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-expiration-time": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-current-ip": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-ip-range": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-proxy": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-details-queries": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-mistake": "Used as a component of a global block message.",
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Used as a component of a global block message."
 }
