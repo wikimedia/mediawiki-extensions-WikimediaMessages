@@ -6,6 +6,7 @@
 			"Nemo bis",
 			"Robby",
 			"Soued031",
+			"Volvox",
 			"לערי ריינהארט"
 		]
 	},
@@ -135,7 +136,7 @@
 	"tag-AWB-description": "Ännerungen déi mam [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] gemaach goufen",
 	"search-interwiki-custom": "wikt:Aus dem Wictionnaire\nb:Aus Wikibooks\nn:Aus de Wikinews\nq:Aus Wikiquote\ns:Aus Wikisource\nv:Aus Wikiversity\nvoy:Aus Wikivoyage",
 	"wikimedia-copyright": "Den Text ass disponibel ënner der <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.\nKuckt <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Benotzungsbedingunge</a> fir méi Detailer.",
-	"wikimedia-copyrightwarning": "Wann Dir Ännerunge späichert, sidd Dir mat de [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribution-ShareAlike Lizenz 3.0] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] fräizeginn.\nDir sidd averstanen datt en Hyperlink oder eng URL duergeet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.",
+	"wikimedia-copyrightwarning": "Wann Dir Ännerunge späichert, sidd Dir mat de [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribution-ShareAlike Lizenz 3.0] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] fräizeginn.\nDir sidd averstanen, datt en Hyperlink oder eng URL duergeet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Wëllkomm}} $1!",
 	"wikibase-statementsection-constraints": "Limitatiounen",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",
