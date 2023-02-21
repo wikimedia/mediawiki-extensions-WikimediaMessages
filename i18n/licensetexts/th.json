@@ -12,7 +12,8 @@
 			"Passawuth",
 			"Patsagorn Y.",
 			"TMo3289",
-			"YURi"
+			"YURi",
+			"Bebiezaza"
 		]
 	},
 	"wm-license-attribution-with-author-text": "$1 ซึ่งเป็นผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไปใช้'''",
@@ -36,7 +37,7 @@
 	"wm-license-book-page-overview": "คำอธิบายหน้าโดยย่อ",
 	"wm-license-book-place-of-publication": "สถานที่จัดพิมพ์",
 	"wm-license-book-printer": "โรงพิมพ์",
-	"wm-license-book-publisher": "ผู้พิมพ์โฆษณา",
+	"wm-license-book-publisher": "ผู้เผยแพร่",
 	"wm-license-book-series-title": "ชื่อชุด",
 	"wm-license-book-start-this-book": "หน้าเริ่มต้นหนังสือเล่มนี้",
 	"wm-license-book-subtitle": "ชื่อเรื่องรอง",
