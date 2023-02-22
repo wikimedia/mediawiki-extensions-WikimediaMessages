@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cuman"
+			"Cuman",
+			"TayfunEt."
 		]
 	},
 	"sitesupport": "Baaşişlär",
-	"tooltip-n-sitesupport": "Material destek"
+	"tooltip-n-sitesupport": "Material destek",
+	"wikimedia-statslink": "İstatistikalar"
 }
