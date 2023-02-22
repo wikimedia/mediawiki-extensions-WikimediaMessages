@@ -6,6 +6,7 @@
 			"Huñvreüs"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(sikourit ac’hanon da zibab)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Gallout a rit mont d’ho pajenn Penndibaboù e [[m:Special:CentralAuth/$1|raktresoù Wikimedia all ho peus graet degasadennoù enno]] evit pellgargañ roadennoù ho kont evit ar raktresoù-se.",
 	"wikimedia-createacct-imgcaptcha-help": "Ne c’hellit ket gwelout ar skeudenn ? [[{{MediaWiki:createacct-captcha-help-url}}|Goulennit krouiñ ur gont]]",
 	"wikimedia-centralauth-groupname": "Diazezadur Wikimedia",

@@ -29,6 +29,7 @@
 			"Sarah Bernabei",
 			"Statix64",
 			"Stefano-c",
+			"Superpes15",
 			"Una giornata uggiosa '94",
 			"Valerio Bozzolan"
 		]
@@ -269,7 +270,7 @@
 	"querypage-updates-half-monthly": "Questa pagina viene aggiornata due volte al mese.",
 	"querypage-updates-monthly": "Questa pagina viene aggiornata mensilmente.",
 	"protect-level-editautopatrolprotected": "Consentito solo agli autoverificati",
-	"restriction-level-editautopatrolprotected": "autoverificato protetto",
+	"restriction-level-editautopatrolprotected": "protetto solo autoverificati",
 	"right-editautopatrolprotected": "Modifica pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "modificare pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",

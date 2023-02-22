@@ -184,7 +184,7 @@
 	"group-staff": "Staf",
 	"group-staff-member": "{{GENDER:$1|staf}}",
 	"group-steward": "Steward",
-	"group-steward-member": "{{GENDER:$1|steward}}",
+	"group-steward-member": "{{GENDER:$1|penatalayan}}",
 	"group-sysadmin": "Administrator sistem",
 	"group-sysadmin-member": "{{GENDER:$1|administrator sistem}}",
 	"group-translationadmin": "Pengurus terjemahan",
