@@ -59,18 +59,5 @@
 	"wikimedia-ipinfo-source-geoip2": "Votre utilisation de cet outil est régie selon les [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines lignes directrices de l’outil d’informations sur une adresse IP]",
 	"wikimedia-ipinfo-infobox-use-terms": "L’outil d’informations sur une adresse IP utilise les bases de données de MaxMind pour afficher des détails comme la localisation approximative, la présence d’un serveur mandataire et combien d’appareils partagent cette adresse IP. Veuillez passer en revue les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines lignes directrices de l’outil d’informations sur une adresse IP] avant de l’activer.",
 	"wikimedia-ipinfo-preference-use-agreement": "J’accepte d’utiliser cet outil en accord avec les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines lignes directrices de l’outil d’informations sur une adresse IP], uniquement pour l’investigation ou la prévention du vandalisme, des abus ou des autres violations des politiques de la Fondation Wikimedia ou de la communauté.",
-	"wikimedia-similareditors-error-default": "Quelque chose s’est mal passé, nous examinons la situation. Si le problème persiste, veuillez [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors nous contacter ici].",
-	"wikimedia-globalblocking-blockedtext-all-wikis": "Votre adresse IP a été [[m:Special:MyLanguage/Global blocks|bloquée sur tous les wikis]].",
-	"wikimedia-globalblocking-blockedtext-on-range": "Votre adresse IP fait partie d’une plage qui a été [[m:Special:MyLanguage/Global blocks|bloquée sur tous les wikis de la Fondation Wikimédia]].",
-	"wikimedia-globalblocking-blockedtext-on-proxy": "Au moins un des serveurs mandataires utilisés par votre requête est [[m:Special:MyLanguage/Global blocks|bloqué globalement]].",
-	"wikimedia-globalblocking-blockedtext-made-by": "Le blocage a été effectué par",
-	"wikimedia-globalblocking-blockedtext-reason": "Le motif fourni est",
-	"wikimedia-globalblocking-blockedtext-start-time": "* Début du blocage :",
-	"wikimedia-globalblocking-blockedtext-expiration-time": "* Expiration du blocage :",
-	"wikimedia-globalblocking-blockedtext-current-ip": "Votre adresse IP actuelle est",
-	"wikimedia-globalblocking-blockedtext-ip-range": "et la plage bloquée est",
-	"wikimedia-globalblocking-blockedtext-proxy": "L’adresse du mandataire bloqué est",
-	"wikimedia-globalblocking-blockedtext-details-queries": "Veuillez inclure tous les détails ci-dessus dans toute demande que vous ferez.",
-	"wikimedia-globalblocking-blockedtext-mistake": "Si vous pensez avoir été bloqué par erreur, vous pouvez trouver pus d’information et d’instructions dans la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].\nSinon, pour discuter du blocage, veuillez [[m:Steward requests/Global|poster une demande de révision sur Meta-Wiki]]",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "ou envoyer un courriel à la file des [[m:Special:MyLanguage/Stewards|coordinateurs]] [[m:Special:MyLanguage/VRT|VRT]] à <kbd>stewards@wikimedia.org</kbd>, incluant tous les détails ci-dessus."
+	"wikimedia-similareditors-error-default": "Quelque chose s’est mal passé, nous examinons la situation. Si le problème persiste, veuillez [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors nous contacter ici]."
 }

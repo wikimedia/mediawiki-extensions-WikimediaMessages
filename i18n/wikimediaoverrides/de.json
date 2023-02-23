@@ -53,18 +53,5 @@
 	"wikimedia-ipinfo-source-geoip2": "Die Nutzung dieses Tools unterliegt den [https://foundation.wikimedia.org/wiki/Special:Mylanguage/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool].",
 	"wikimedia-ipinfo-infobox-use-terms": "Das IP-Informationstool verwendet die MaxMind-Datenbanken, um Details wie den ungefähren Standort, den Proxy und die Anzahl der Geräte anzuzeigen, die sich diese IP-Adresse teilen. Bitte lies die [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool], bevor du es aktivierst.",
 	"wikimedia-ipinfo-preference-use-agreement": "Ich stimme zu, dieses Werkzeug in Übereinstimmung mit den [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines Richtlinien für das IP-Informationstool] ausschließlich zur Untersuchung oder Verhinderung von Vandalismus, Missbrauch oder anderen Verstößen gegen die Richtlinien der Wikimedia Foundation oder der Gemeinschaft zu verwenden.",
-	"wikimedia-similareditors-error-default": "Etwas ist schiefgelaufen, wir untersuchen es. Wenn das Problem weiterhin besteht, wende dich bitte [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors an uns].",
-	"wikimedia-globalblocking-blockedtext-all-wikis": "Deine IP-Adresse wurde [[m:Special:MyLanguage/Global blocks|auf allen Wikis gesperrt]]",
-	"wikimedia-globalblocking-blockedtext-on-range": "Deine IP-Adresse befindet sich in einem Bereich, der [[m:Special:MyLanguage/Global blocks|in allen Wikimedia Foundation-Wikis]] gesperrt ist.",
-	"wikimedia-globalblocking-blockedtext-on-proxy": "Einer oder mehrere Proxy-Server, die von deiner Anfrage verwendet werden, sind [[m:Special:MyLanguage/Global blocks|global gesperrt]].",
-	"wikimedia-globalblocking-blockedtext-made-by": "Die Sperre wurde durchgeführt von",
-	"wikimedia-globalblocking-blockedtext-reason": "Der angegebene Grund ist",
-	"wikimedia-globalblocking-blockedtext-start-time": "* Beginn der Sperre",
-	"wikimedia-globalblocking-blockedtext-expiration-time": "* Ablauf der Sperre",
-	"wikimedia-globalblocking-blockedtext-current-ip": "Deine aktuelle IP-Adresse ist",
-	"wikimedia-globalblocking-blockedtext-ip-range": "und der gesperrte Bereich ist",
-	"wikimedia-globalblocking-blockedtext-proxy": "Die gesperrte Proxyadresse war",
-	"wikimedia-globalblocking-blockedtext-details-queries": "Bitte gib alle obigen Details in allen gemachten Anfragen an.",
-	"wikimedia-globalblocking-blockedtext-mistake": "Wenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Hilfestellungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Anfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "oder sende eine E-Mail an die [[m:Special:MyLanguage/Stewards|Steward]]-[[m:Special:MyLanguage/VRT|VRT]]-Queue per <kbd>stewards@wikimedia.org</kbd> inklusive aller obigen Details."
+	"wikimedia-similareditors-error-default": "Etwas ist schiefgelaufen, wir untersuchen es. Wenn das Problem weiterhin besteht, wende dich bitte [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors an uns]."
 }

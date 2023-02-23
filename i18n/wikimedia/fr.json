@@ -433,18 +433,5 @@
 	"research-incentive-link": "https://airtable.com/shrm8jEOIDTt2Qn8M",
 	"research-incentive-privacy": "Vous pouvez consulter notre politique de confidentialité et en apprendre plus concernant notre programme de recherche [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/fr ici].",
 	"research-incentive-confirm-msg": "Merci !",
-	"ipinfo-global-contributions-url-label": "Contributions globales",
-	"wikimedia-globalblocking-blockedtext-all-wikis": "Votre adresse IP a été [[m:Special:MyLanguage/Global blocks|bloquée sur tous les wikis]].",
-	"wikimedia-globalblocking-blockedtext-on-range": "Votre adresse IP fait partie d’une plage qui a été [[m:Special:MyLanguage/Global blocks|bloquée sur tous les wikis de la Fondation Wikimédia]].",
-	"wikimedia-globalblocking-blockedtext-on-proxy": "Au moins un des serveurs mandataires utilisés par votre requête est [[m:Special:MyLanguage/Global blocks|bloqué globalement]].",
-	"wikimedia-globalblocking-blockedtext-made-by": "Le blocage a été effectué par",
-	"wikimedia-globalblocking-blockedtext-reason": "Le motif fourni est",
-	"wikimedia-globalblocking-blockedtext-start-time": "* Début du blocage :",
-	"wikimedia-globalblocking-blockedtext-expiration-time": "* Expiration du blocage :",
-	"wikimedia-globalblocking-blockedtext-current-ip": "Votre adresse IP actuelle est",
-	"wikimedia-globalblocking-blockedtext-ip-range": "et la plage bloquée est",
-	"wikimedia-globalblocking-blockedtext-proxy": "L’adresse du mandataire bloqué est",
-	"wikimedia-globalblocking-blockedtext-details-queries": "Veuillez inclure tous les détails ci-dessus dans toute demande que vous ferez.",
-	"wikimedia-globalblocking-blockedtext-mistake": "Si vous pensez avoir été bloqué par erreur, vous pouvez trouver pus d’information et d’instructions dans la politique globale [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].\nSinon, pour discuter du blocage, veuillez [[m:Steward requests/Global|poster une demande de révision sur Meta-Wiki]]",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "ou envoyer un courriel à la file des [[m:Special:MyLanguage/Stewards|coordinateurs]] [[m:Special:MyLanguage/VRT|VRT]] à <kbd>stewards@wikimedia.org</kbd>, incluant tous les détails ci-dessus."
+	"ipinfo-global-contributions-url-label": "Contributions globales"
 }
