@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zakaria Tunsung"
+			"Zakaria Tunsung",
+			"Linus Konkor"
 		]
 	},
 	"sitesupport": "Iri fo kyeɛo naŋ ta lɛ",
@@ -12,6 +13,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Nimmitɔɔre gaabo maaleba",
+	"wikimedia-globalblocking-ipblocked": "''' Fo saseɛ miri youri[[m:Special:MyLanguage/Global blocks|pɔgʋ la a wikis nuuri zaa poɔ]].'''\n\nBone naŋ e ko page la $1 ($2).\nKa ananso la ''$3''.\n\n* A pagebo piili la $4\n* O baaroo la $5\n\nFo pampana saseɛ miri youri la $6.\nSɔroo paali a ama zaa a yel-peɛrɛ fo naŋ na e.\n\nKa fõõ sage di ka ba da page fo la a yi babambo, fo na baŋ bo la yɛlɛ ane sobi-tuuree yi [[m:Special:MyLanguage/No open proxies|No open proxies]] donɛɛ zaa yelnyɔgeraa.\nKa lɛ naaŋ, ka fõõ na di dɛmɛ kyaare a pagebo sɔroo [[m:Steward requests/Global|eŋ leɛ kaabo noɔre a Meta-Wiki]].",
 	"wikimedia-statslink": "Gyɛre mannetaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"
 }

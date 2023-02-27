@@ -18,7 +18,10 @@
 			"William Surya Permana",
 			"Daud I.F. Argana",
 			"Rachmat04",
-			"Veracious"
+			"Veracious",
+			"Agam Riyandana",
+			"DARMAS BUDI SANTOSO",
+			"DDesouza"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan spesifik Wikimedia",
@@ -183,7 +186,7 @@
 	"group-staff": "Staf",
 	"group-staff-member": "{{GENDER:$1|staf}}",
 	"group-steward": "Steward",
-	"group-steward-member": "{{GENDER:$1|steward}}",
+	"group-steward-member": "{{GENDER:$1|penatalayan}}",
 	"grouppage-steward": "m:Stewards/id",
 	"group-sysadmin": "Administrator sistem",
 	"group-sysadmin-member": "{{GENDER:$1|administrator sistem}}",

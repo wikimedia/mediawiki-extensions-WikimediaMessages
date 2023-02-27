@@ -59,7 +59,13 @@
 			"Bruno44101",
 			"Jakeukalane",
 			"McDutchie",
-			"Rodney Araujo"
+			"Rodney Araujo",
+			"DDesouza",
+			"Danniel07",
+			"DiegoAmbrocio",
+			"Josuert",
+			"Scblr",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -296,9 +302,9 @@
 	"upload-more-photos-of-this-monument": "Subir más fotos de este monumento",
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicitar una cuenta",
 	"wikimedia-developers": "Desarrolladores",
-	"wikimedia-globalblocking-ipblocked": "'''Se ha [[m:Special:MyLanguage/Global blocks|bloqueado tu dirección IP en todas las wikis]].'''\n\n$1 ($2) realizó el bloqueo.\nEl motivo proporcionado es ''$3''.\n\n* Inicio del bloqueo: $4\n* Caducidad del bloqueo: $5\n\nTu dirección IP actual es $6.\nPor favor incluye todos los detalles anteriores en cualquier consulta que realices sobre el tema.\n\nSi crees que esta dirección se bloqueó por error, consulta la normativa global de [[m:Special:MyLanguage/No open proxies|prohibición de proxies abiertos]] para obtener más información e instrucciones.\nSi no es tu caso, puedes [[m:Steward requests/Global|publicar una solicitud de revisión en Meta-Wiki]] para debatir el bloqueo.",
+	"wikimedia-globalblocking-ipblocked": "'''Tu dirección IP está [[m:Special:MyLanguage/Global blocks|bloqueada en todas las wikis gestionadas por la Fundación Wikimedia]].'''\n\nEl bloqueo ha sido efectuado por $1 ($2).\nEl motivo es ''$3''.\n\n* Inicio del bloqueo: $4\n* Caducidad del bloqueo: $5\n\nTu dirección IP es $6.\nPor favor incluye todos estos datos en cualquier consulta que realices.\n\nSi consideras que este bloqueo es un error puedes encontrar más información e instrucciones en la política global de [[m:Special:MyLanguage/No open proxies|prohibición de los proxies abiertos]]. Para apelar este bloqueo puedes [[m:Steward requests/Global|hacer una petición de desbloqueo en Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-range": "'''Tu dirección IP se encuentra dentro de un rango que se encuentra [[m:Special:MyLanguage/Global blocks|bloqueado en todas las wikis gestionadas por la Fundación Wikimedia]].'''\n\nEl bloqueo ha sido efectuado por $1 ($2).\nLa razón dada es ''$3''.\n\n* Inicio del bloqueo: $4\n* Caducidad del bloqueo: $5\n\nTu dirección IP es $6 y el rango de direcciones bloqueado es $7.\nPor favor incluye todos estos datos en cualquier consulta que realices.\n\nSi consideras que este bloqueo es un error puedes encontrar más información e instrucciones en la política global de [[m:Special:MyLanguage/No open proxies|prohibición de los proxies abiertos]]. En cualquier caso, para apelar este bloqueo por favor [[m:Steward requests/Global|haz una petición de desbloqueo en Meta-Wiki]] o envía un correo electrónico a la cola de [[m:Special:MyLanguage/OTRS|OTRS]] de los [[m:Special:MyLanguage/Stewards|stewards]] a <kbd>stewards@wikimedia.org</kbd> incluyendo todos los detalles mencionados anteriormente.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Uno o más de los servidores proxy que has utilizado con tu solicitud está [[m:Special:MyLanguage/Global blocks|bloqueado globalmente]].'''\n\n$1 ($2) realizó el bloqueo.\nEl motivo proporcionado es ''$3''.\n\n* Inicio del bloqueo: $4\n* Caducidad del bloqueo: $5\n\nLa dirección proxy bloqueada es $6.\nPor favor incluye todos los detalles anteriores en cualquier consulta que realices sobre el tema.\n\nSi crees que tu bloqueo fue por error, consulta la normativa global de [[m:Special:MyLanguage/No open proxies|prohibición de proxies abiertos]] para obtener más información e instrucciones.\nSi no es tu caso, puedes [[m:Steward requests/Global|publicar una solicitud de revisión en Meta-Wiki]] para debatir el bloqueo.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Uno o más servidores proxy usados para efectuar esta solicitud se encuentran [[m:Special:MyLanguage/Global blocks|bloqueados en todas las wikis gestionadas por la Fundación Wikimedia]].'''\n\nEl bloqueo fue efectuado por $1 ($2).\nEl motivo es ''$3''.\n\n* Inicio del bloqueo: $4\n* Caducidad del bloqueo: $5\n\nLa dirección del proxy bloqueado es $6.\nPor favor incluye todos los detalles indicados anteriormente en cualquier consulta que realices.\n\nSi consideras que este bloqueo es un error puedes encontrar más información e instrucciones en la política global de [[m:Special:MyLanguage/No open proxies|prohibición de los proxies abiertos]]. Para apelar este bloqueo [[m:Steward requests/Global|haz una petición de desbloqueo en Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Tu dirección IP, <strong>$1</strong>, se identificó automáticamente como un nodo de salida de Tor.\nLa edición por medio de Tor está bloqueada para prevenir abusos.\nPara información adicional e instrucciones para usuarios legítimos, consulta la normativa global de [[m:Special:MyLanguage/No open proxies|prohibición de proxies abiertos]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/es",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/es Normativa de privacidad]",

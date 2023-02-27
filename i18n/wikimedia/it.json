@@ -30,7 +30,8 @@
 			"Stefano-c",
 			"Una giornata uggiosa '94",
 			"Ajeje Brazorf",
-			"Valerio Bozzolan"
+			"Valerio Bozzolan",
+			"Superpes15"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -235,8 +236,8 @@
 	"upload-more-photos-of-this-monument": "Carica altre foto di questo monumento",
 	"createacct-captcha-help-url": "{{ns:Project}}:Richieste di utenze",
 	"wikimedia-developers": "Sviluppatori",
-	"wikimedia-globalblocking-ipblocked": "'''Il tuo indirizzo IP è stato [[m:Special:MyLanguage/Global blocks|bloccato globalmente]].'''\n\nIl blocco è stato eseguito da $1 ($2).\nLa motivazione fornita è ''$3''.\n\n* Inizio del blocco: $4\n* Fine del blocco: $5\n\nIl tuo indirizzo IP attuale è $6.\nIncludi tutti i dettagli sopra riportati in tutte le domande che fai.\n\nSe pensi di essere stato bloccato per errore, puoi trovare altre informazioni nella policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].\nAltrimenti, per discutere del blocco [[m:Steward requests/Global|inserire una richiesta di riesame su Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Uno o più server proxy usati dalla tua richiesta sono stati [[m:Special:MyLanguage/Global blocks|bloccati globalmente]].'''\n\nIl blocco è stato eseguito da $1 ($2).\nLa motivazione fornita è ''$3''.\n\n* Inizio del blocco: $4\n* Fine del blocco: $5\n\nL'indirizzo proxy bloccato è $6.\nIncludi tutti i dettagli sopra riportati in tutte le domande che fai.\n\nSe pensi di essere stato bloccato per errore, puoi trovare altre informazioni nella policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].\nAltrimenti, per discutere del blocco [[m:Steward requests/Global|inserire una richiesta di riesame su Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n{{int:wikimedia-globalblocking-blockedtext-made-by}} $1 ($2).\n{{int:wikimedia-globalblocking-blockedtext-reason}} ''$3''.\n\n{{int:wikimedia-globalblocking-blockedtext-start-time}} $4\n{{int:wikimedia-globalblocking-blockedtext-expiration-time}} $5\n\n{{int:wikimedia-globalblocking-blockedtext-current-ip}} $6.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n{{int:wikimedia-globalblocking-blockedtext-made-by}} $1 ($2).\n{{int:wikimedia-globalblocking-blockedtext-reason}} ''$3''.\n\n{{int:wikimedia-globalblocking-blockedtext-start-time}} $4\n{{int:wikimedia-globalblocking-blockedtext-expiration-time}} $5\n\n{{int:wikimedia-globalblocking-blockedtext-current-ip}} $6.\n{{int:wikimedia-globalblocking-blockedtext-proxy}} $7.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}.",
 	"wikimedia-torblock-blocked": "Il tuo indirizzo IP, <strong>$1</strong>, è stato automaticamente identificato come un exit node tor.\nLa possibilità di editare utilizzando tor è bloccata per impedire abusi.\nPer ulteriori informazioni e le istruzioni per gli utenti legittimi, vedi la policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/it",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/it Informativa sulla privacy]",

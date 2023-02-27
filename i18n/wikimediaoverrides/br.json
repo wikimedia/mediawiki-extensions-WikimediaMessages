@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Fulup",
-			"Huñvreüs"
+			"Huñvreüs",
+			"Adriendelucca"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(sikourit ac’hanon da zibab)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ne c’hellit ket gwelout ar skeudenn ? [[{{MediaWiki:createacct-captcha-help-url}}|Goulennit krouiñ ur gont]]",
 	"wikimedia-discussiontools-replywidget-terms-click": "En ur glikañ war \"$1\", e savit a-du gant hor [https://foundation.wikimedia.org/wiki/Terms_of_Use Reolennoù implijout] hag ec'h asantit embann ho testenn din dan an aotreoù [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] ha [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] da viken.",
 	"wikimedia-flow-terms-of-use-new-topic": "En ur glikañ war \"{{int:flow-newtopic-savet}}\", e savit a-du gant hor [https://foundation.wikimedia.org/wiki/Terms_of_Use Reolennoù implijout] hag ec'h ansantit da embann ho testenn dindan an aotreoù [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] ha [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] da viken.",

@@ -6,7 +6,8 @@
 			"Nemo bis",
 			"Robby",
 			"Soued031",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Volvox"
 		]
 	},
 	"wikimediamessages-desc": "Spezifesch Systemmessagë fir Wikimedia",
@@ -145,7 +146,7 @@
 	"tag-AWB-description": "Ännerungen déi mam [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] gemaach goufen",
 	"search-interwiki-custom": "wikt:Aus dem Wictionnaire\nb:Aus Wikibooks\nn:Aus de Wikinews\nq:Aus Wikiquote\ns:Aus Wikisource\nv:Aus Wikiversity\nvoy:Aus Wikivoyage",
 	"wikimedia-copyright": "Den Text ass disponibel ënner der <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike Lizenz</a>; zousätzlech Bedingunge kënnen applicabel sinn.\nKuckt <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Benotzungsbedingunge</a> fir méi Detailer.",
-	"wikimedia-copyrightwarning": "Wann Dir Ännerunge späichert, sidd Dir mat de [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribution-ShareAlike Lizenz 3.0] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] fräizeginn.\nDir sidd averstanen datt en Hyperlink oder eng URL duergeet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.",
+	"wikimedia-copyrightwarning": "Wann Dir Ännerunge späichert, sidd Dir mat de [https://foundation.wikimedia.org/wiki/Terms_of_Use Benotzungsbedingungen] averstanen an Dir sidd och onwidderrufflech averstane fir Äre Beitrag ënner der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Creative Commons Attribution-ShareAlike Lizenz 3.0] an der [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] fräizeginn.\nDir sidd averstanen, datt en Hyperlink oder eng URL duergeet fir Äert Matschaffen ënner der Creative Commons Lizenz ze honoréieren.",
 	"wikibase-statementsection-constraints": "Limitatiounen",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",
 	"wikibase-sitelinks-wikinews": "Wikinews",
@@ -166,7 +167,7 @@
 	"upload-more-photos-of-this-monument": "Méi Fotoe fir dëst Monument eroplueden",
 	"createacct-captcha-help-url": "{{ns:Project}}:E Benotzerkont ufroen",
 	"wikimedia-developers": "Entwéckler",
-	"wikimedia-globalblocking-ipblocked": "'''Är IP-Adress gouf [[m:Special:MyLanguage/Global blocks|op alle Wikie gespaart]].'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\nÄr aktuell IP-Adress ass $6.\nGitt wgl. all d'Detailer hei driwwer an allen Ufroen un déi Dir maacht.\n\nWann Dir mengt d'Spär wier net berechtegt da fannt Dir zousätzlech Informatiounen an Hëllef an der globaler Richtlinn \"[[m:Special:MyLanguage/No open proxies|Keng oppe Proxyen]]\".\nSoss stell wgl. [[m:Steward requests/Global|eng Ufro op Meta-Wiki]], fir d'Spär ze diskutéieren.",
+	"wikimedia-globalblocking-ipblocked": "'''Är IP-Adress gouf [[m:Special:MyLanguage/Global blocks|op alle Wikie gespaart]].'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\nÄr aktuell IP-Adress ass $6.\nGitt wgl. all d'Detailer hei driwwer an allen Ufroen un, déi Dir maacht.\n\nWann Dir mengt, d'Spär wier net berechtegt, da fannt Dir zousätzlech Informatiounen an Hëllef an der globaler Richtlinn \"[[m:Special:MyLanguage/No open proxies|Keng oppe Proxyen]]\".\nSoss stellt wgl. [[m:Steward requests/Global|eng Ufro op Meta-Wiki]] fir d'Spär ze diskutéieren.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Een oder méi Proxy-Server gouf[[m:Special:MyLanguage/Global blocks|op alle Wikie gespaart]].'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\nDéi gespaart Proxy-Adress war $6.\nGitt wgl. all d'Detailer hei driwwer an allen Ufroen un déi Dir maacht.\n\nWann Dir mengt d'Spär wier net berechtegt da fann Dir zousätzlech Informatiounen an Hëllefstellungen an der globaler Richtlinn \"[[m:Special:MyLanguage/No open proxies|Keng oppe Proxyen]]\".\nSoss stell wgl. [[m:Steward requests/Global|eng Ufro op Meta-Wiki]], fir d'Spär ze diskutéieren.",
 	"grant-checkuser": "Zougang op Checkuser-Donnéeën",
 	"wikimediashoplink-linktext": "Wikipedia-Shop",
