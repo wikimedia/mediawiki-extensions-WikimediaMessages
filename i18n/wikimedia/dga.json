@@ -14,6 +14,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Nimmitɔɔre gaabo maaleba",
 	"wikimedia-globalblocking-ipblocked": "''' Fo saseɛ miri youri[[m:Special:MyLanguage/Global blocks|pɔgʋ la a wikis nuuri zaa poɔ]].'''\n\nBone naŋ e ko page la $1 ($2).\nKa ananso la ''$3''.\n\n* A pagebo piili la $4\n* O baaroo la $5\n\nFo pampana saseɛ miri youri la $6.\nSɔroo paali a ama zaa a yel-peɛrɛ fo naŋ na e.\n\nKa fõõ sage di ka ba da page fo la a yi babambo, fo na baŋ bo la yɛlɛ ane sobi-tuuree yi [[m:Special:MyLanguage/No open proxies|No open proxies]] donɛɛ zaa yelnyɔgeraa.\nKa lɛ naaŋ, ka fõõ na di dɛmɛ kyaare a pagebo sɔroo [[m:Steward requests/Global|eŋ leɛ kaabo noɔre a Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Yelle ayi na soŋ a fo tomboɔlo la [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nNeɛ naŋ na maale a sɛgre $1 ($2).\nBa teɛroo wala''$3''.\n\n* piili sɛgrɛ: $4\n* O baaroŋ bibiri: $5\n\nA sɛgre yeli nyɔgeraa wa la$6.\nKyɛ naŋ eŋ yɛlɛ naŋ zaa a see ka fo eŋ\n\nKa foŋ sage ka a da ba taa sore kɔɔ iri fo bare sɛ ka fo duoro mine bee sommo mine ayi a[[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nAgaŋ a zaa, fo naŋ na yɛlɛ yɛlɛ kyaare neŋ a sɛhebo [[m:Steward requests/Global|be emmo kaŋa kyɛ leɛ kaa a Meta-Wiki]].",
 	"wikimedia-statslink": "Gyɛre mannetaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"
 }
