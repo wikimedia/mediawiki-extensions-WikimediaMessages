@@ -185,7 +185,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|ricercatore|ricercatrice|ricercatore/trice}} WMF",
 	"group-wmf-supportsafety": "Supporto e sicurezza WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Supporto e sicurezza WMF}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Supporto e sicurezza WMF",
 	"tag-emoji-description": "Usata dal filtro anti abusi globale 110.",
 	"tag-AWB": "[https://it.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Modifica fatta con [https://it.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",

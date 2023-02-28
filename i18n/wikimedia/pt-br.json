@@ -222,7 +222,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|Investigador|Investigadora}} WMF",
 	"group-wmf-supportsafety": "Suporte e Segurança WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Suporte e segurança WMF}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}: Suporte e Segurança WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usado pelo filtro de abuso global 110.",
 	"tag-AWB": "[https://pt.wikipedia.org/wiki/Wikipédia:AutoWikiBrowser AutoWikiBrowser]",

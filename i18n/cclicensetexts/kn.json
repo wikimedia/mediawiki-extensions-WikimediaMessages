@@ -1,14 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Omshivaprakash"
+			"Omshivaprakash",
+			"~aanzx"
 		]
 	},
+	"wm-license-cc-attribution": "ವೈಶಿಷ್ಟ್ಯ",
+	"wm-license-cc-by-sa-3.0-text": "ಈ ಕಡತ [[{{int:wm-license-cc-wiki-link}}|ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution\n-Share Alike 3.0 Unported] ಪರವಾನಗಿ ಹೊಂದಿದೆ.",
 	"wm-license-cc-free": "ನೀವು ಮುಕ್ತ:",
 	"wm-license-cc-free-to-share-header": "ಹಂಚಿಕೆಗೆ",
 	"wm-license-cc-free-to-share-text": "ಕೆಲಸವನ್ನು ನಕಲು ಮಾಡಲು, ವಿತರಣೆ ಮತ್ತು  ಸಾಗಿಸಲು",
 	"wm-license-cc-free-to-remix-header": "ರೀಮಿಕ್ಸ್ ಮಾಡಲು",
 	"wm-license-cc-free-to-remix-text": "ಕೆಲಸವನ್ನು ಬಳಸಿಕೊಳ್ಳಲು",
 	"wm-license-cc-conditions": "ಈ ಕೆಳಗಿನ ಷರತ್ತುಗಳಲ್ಲಿ:",
-	"wm-license-cc-conditions-share_alike-header": "ಇರುವುದರಂತೆಯೇ ಹಂಚು"
+	"wm-license-cc-conditions-attribution-header": "ವೈಶಿಷ್ಟ್ಯ",
+	"wm-license-cc-conditions-attribution-text": "ನೀವು ಸೂಕ್ತವಾದ ಕ್ರೆಡಿಟ್ ನೀಡಬೇಕು, ಪರವಾನಗಿಗೆ ಲಿಂಕ್ ಅನ್ನು ಒದಗಿಸಬೇಕು ಮತ್ತು ಯಾವುದೇ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿದ್ದರೆ ಸೂಚಿಸಬೇಕು. ನೀವು ಯಾವುದೇ ಸಮಂಜಸವಾದ ರೀತಿಯಲ್ಲಿ ಮಾಡಬಹುದು, ಆದರೆ ಪರವಾನಗಿದಾರರು ನಿಮ್ಮನ್ನು ಅಥವಾ ನಿಮ್ಮ ಯಾವುದೇ ಬಳಕೆಯನ್ನು ಅನುಮೋದಿಸಿದಂತೆ ರೀತಿಯಲ್ಲಿ ಉಪಯೋಗಿಸಬಾರದು.",
+	"wm-license-cc-conditions-share_alike-header": "ಇರುವುದರಂತೆಯೇ ಹಂಚು",
+	"wm-license-cc-conditions-share_alike-text": "ನೀವು ರೀಮಿಕ್ಸ್ ಮಾಡಿದರೆ, ರೂಪಾಂತರಗೊಳಿಸಿದರೆ ಅಥವಾ ವಸ್ತುವಿನ ಮೇಲೆ ನಿರ್ಮಿಸಿದರೆ, ನಿಮ್ಮ ಕೊಡುಗೆಗಳನ್ನು ನೀವು ಮೂಲದಂತೆ [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ಅದೇ ಅಥವಾ ಹೊಂದಾಣಿಕೆಯ ಪರವಾನಗಿ] ಅಡಿಯಲ್ಲಿ ವಿತರಿಸಬೇಕು."
 }

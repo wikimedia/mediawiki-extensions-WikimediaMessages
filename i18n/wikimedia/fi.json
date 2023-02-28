@@ -174,7 +174,6 @@
 	"grouppage-translationadmin": "{{ns:project}}:Käännösylläpitäjät",
 	"group-wmf-supportsafety": "WMF:n Tuki ja Turva",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF:n Tuki ja Turva}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF:n Tuki ja Turva",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Tämä tulee globaalista väärinkäyttösuodattimesta numero 110.",
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",

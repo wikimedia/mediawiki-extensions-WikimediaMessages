@@ -159,7 +159,6 @@
 	"grouppage-translationadmin": "{{ns:project}}: administradors de traducció",
 	"group-wmf-supportsafety": "Assistència i seguretat de la WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Assistència i seguretat de la WMF}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Assistència i seguretat de la WMF",
 	"tag-emoji": "Emojis",
 	"wikimedia-copyright": "Text disponible sota la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ca\">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.\nVegeu les <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ca\">condicions d'ús</a> per a més informació.",
 	"wikimedia-copyrightwarning": "En desar els canvis esteu acceptant les [https://foundation.wikimedia.org/wiki/Terms_of_Use condicions d'ús] i esteu acceptant, de manera irrevocable, que la vostra contribució s'alliberi sota la [https://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Text_de_la_llic%C3%A8ncia_de_Creative_Commons_Reconeixement-Compartir_Igual_3.0_No_adaptada llicència CC BY-SA 3.0] i la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. També \naccepteu que un hiperenllaç o URL és atribució d'autoria suficient sota la llicència Creative Commons.",

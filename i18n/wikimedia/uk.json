@@ -217,7 +217,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|дослідник|дослідниця}} ФВМ",
 	"group-wmf-supportsafety": "Підтримка і безпека ФВМ",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|підтримка і безпека ФВМ}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Підтримка і безпека ФВМ",
 	"tag-emoji": "Смайлики",
 	"tag-emoji-description": "Використовується глобальним фільтром зловживань 110.",
 	"tag-AWB": "[https://uk.wikipedia.org/wiki/Вікіпедія:AutoWikiBrowser AutoWikiBrowser]",

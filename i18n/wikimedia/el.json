@@ -164,7 +164,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|ερευνητής|ερευνήτρια}}",
 	"group-wmf-supportsafety": "WMF Υποστήριξη και Ασφάλεια",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Υποστήριξη και Ασφάλεια}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Υποστήριξη και Ασφάλεια",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Χρησιμοποιείται από το καθολικό φίλτρο καταχρήσεων 110.",
 	"tag-AWB": "[https://el.wikipedia.org/wiki/Βικιπαίδεια:AutoWikiBrowser AutoWikiBrowser]",

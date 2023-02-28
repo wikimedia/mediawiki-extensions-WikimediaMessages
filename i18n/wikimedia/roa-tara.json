@@ -183,7 +183,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|Recercatore de WMF}}",
 	"group-wmf-supportsafety": "Suppore e securezze WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Supporte e Securezze}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Supporte e Securezze",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Ausate da 'u filtre de le abbuse globbale 110.",
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",

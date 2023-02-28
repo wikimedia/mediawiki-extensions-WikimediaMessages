@@ -235,7 +235,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|Исследователь WMF}}",
 	"group-wmf-supportsafety": "Служба поддержки WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Служба поддержки WMF}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Служба поддержки WMF",
 	"tag-emoji": "Эмодзи",
 	"tag-emoji-description": "Используется глобальным фильтром злоупотребления 110.",
 	"tag-AWB": "[[:w:ru:Википедия:AutoWikiBrowser|AutoWikiBrowser]]",

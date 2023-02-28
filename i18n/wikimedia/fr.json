@@ -253,7 +253,6 @@
 	"group-wmf-researcher-member": "chercheu{{GENDER:$1|r|se}} de la WMF",
 	"group-wmf-supportsafety": "Assistance et sécurité de la WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|}}membre d’assistance et sécurité de la WMF",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Assistance et sécurité de la WMF",
 	"tag-emoji": "Émoji",
 	"tag-emoji-description": "Utilisé par le filtre d’abus global 110.",
 	"tag-AWB": "[https://fr.wikipedia.org/wiki/Wikipédia:AutoWikiBrowser AutoWikiBrowser]",

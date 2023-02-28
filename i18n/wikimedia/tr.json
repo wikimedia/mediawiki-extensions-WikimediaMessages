@@ -213,7 +213,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF araştırmacı}}",
 	"group-wmf-supportsafety": "WMF Destek ve Güvenlik",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Destek ve Güvenlik}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Destek ve Güvenlik",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Küresel kötüye kullanım filtresi 110 tarafından kullanılır.",
 	"tag-AWB": "[https://tr.wikipedia.org/wiki/Vikipedi:AutoWikiBrowser AutoWikiBrowser]",

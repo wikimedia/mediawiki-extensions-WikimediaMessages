@@ -224,7 +224,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF 研究人員}}",
 	"group-wmf-supportsafety": "基金會支持和安全組成員",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|基金會支援與安全組}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Support and Safety/zh",
 	"tag-emoji": "繪文字",
 	"tag-emoji-description": "由全域防濫用過濾器110所使用。",
 	"tag-AWB": "[https://zh.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",

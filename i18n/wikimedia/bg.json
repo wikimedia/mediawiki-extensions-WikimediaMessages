@@ -166,7 +166,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|Изследовател на WMF|Изследователка на WMF}}",
 	"group-wmf-supportsafety": "Поддръжка и сигурност на ФУМ",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Поддръжка и сигурност на ФУМ}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Поддръжка и сигурност на ФУМ",
 	"tag-emoji": "Емоджи",
 	"tag-emoji-description": "Използван от глобалния филтър на злоупотреби 110.",
 	"shared-repo-name-shared": "Общомедия",

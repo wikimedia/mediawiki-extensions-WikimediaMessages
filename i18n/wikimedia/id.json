@@ -199,7 +199,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|peneliti WMF}}",
 	"group-wmf-supportsafety": "Bantuan dan Perlindungan WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Bantuan dan Perlindungan WMF}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Bantuan dan Perlindungan WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Digunakan oleh filter penyalahgunaan global 110.",
 	"tag-AWB": "[https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",

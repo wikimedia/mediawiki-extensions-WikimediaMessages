@@ -187,7 +187,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|Истражувач на WMF}}",
 	"group-wmf-supportsafety": "Поддршка и безбедност на ФВМ",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Поддршка и безбедост на ФВМ}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Поддршка и безбедност на ФВМ",
 	"tag-emoji": "Емоџи",
 	"tag-emoji-description": "Се користи од глобалниот филтер на злоупотреби 110.",
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser Прелистувач „Автовики“]",

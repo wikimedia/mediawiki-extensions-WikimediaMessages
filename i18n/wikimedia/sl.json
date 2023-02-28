@@ -188,7 +188,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|raziskovalec WMF|raziskovalka WMF|raziskovalec_ka WMF}}",
 	"group-wmf-supportsafety": "Podpora in varnost WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|podpora in varnost WMF}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Podpora in varnost WMF",
 	"tag-emoji": "emodži",
 	"tag-emoji-description": "Oznako uporablja globalni filter zlorab 110.",
 	"tag-AWB": "[https://sl.wikipedia.org/wiki/Wikipedija:Orodja#AutoWikiBrowser AutoWikiBrowser]",

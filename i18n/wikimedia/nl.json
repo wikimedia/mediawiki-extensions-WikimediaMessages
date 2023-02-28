@@ -203,7 +203,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-onderzoeker}}",
 	"group-wmf-supportsafety": "WMF Ondersteuning en Veiligheid",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Ondersteuning en Veiligheid}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF Ondersteuning en Veiligheid",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Gebruikt door het globale misbruikfilter 110.",
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",

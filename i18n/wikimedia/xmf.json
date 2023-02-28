@@ -184,7 +184,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF მარკვიალი}}",
 	"group-wmf-supportsafety": "WMF აზარაშ ნინალა",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF აზარაშ ნინალა}}",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:WMF აზარაშ ნინალა",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "გჷმირინუაფუ უბადოთ გჷმორინაფაშ გლობალური ტკიბირიშით 110",
 	"tag-AWB": "[[:w:xmf:ვიკიპედია:AutoWikiBrowser|AutoWikiBrowser]]",

@@ -201,7 +201,6 @@
 	"group-wmf-researcher-member": "{{GENDER:$1}}chuyên viên nghiên cứu WMF",
 	"group-wmf-supportsafety": "Hỗ trợ và An toàn WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1}}Hỗ trợ và An toàn WMF",
-	"grouppage-wmf-supportsafety": "{{ns:project}}:Hỗ trợ và An toàn WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Sử dụng bởi bộ lọc lạm dụng toàn cục 110.",
 	"tag-AWB": "[https://vi.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
