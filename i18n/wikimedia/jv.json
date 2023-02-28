@@ -10,7 +10,8 @@
 			"Nemo bis",
 			"NoiX180",
 			"Pras",
-			"Sumbukompor"
+			"Sumbukompor",
+			"Bennylin"
 		]
 	},
 	"wikimediamessages-desc": "Layang rinci Wikimédia",
@@ -152,7 +153,7 @@
 	"group-staff": "Staf",
 	"group-staff-member": "staf",
 	"group-steward": "Steward",
-	"group-steward-member": "{{GENDER:$1|pramugara}}",
+	"group-steward-member": "{{GENDER:$1|pramugara|pramugari}}",
 	"group-sysadmin": "Administrator sistem",
 	"group-sysadmin-member": "{{GENDER:$1|panata sistem}}",
 	"group-translationadmin": "Panata pertalan",

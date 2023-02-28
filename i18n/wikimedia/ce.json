@@ -95,7 +95,7 @@
 	"group-transwiki-member": "{{GENDER:$1|википедийн йукъехь-импорт йериг}}",
 	"grouppage-transwiki": "{{ns:project}}:Викийукъахь-импортхой",
 	"group-uploader": "Чуйахархой",
-	"group-uploader-member": "{{GENDER:$1|чуйахархой}}",
+	"group-uploader-member": "{{GENDER:$1|чуйахархо}}",
 	"grouppage-uploader": "{{ns:project}}:Чуйахархой",
 	"group-wikidata-staff": "Викихаамийн декъашхой",
 	"group-captcha-exempt": "CAPTCHA тӀехь йоцурш",
