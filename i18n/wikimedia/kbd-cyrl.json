@@ -6,12 +6,14 @@
 	},
 	"sitesupport": "Тыхь хуэщӀын",
 	"wikimedia-copyright": "Тхыгъэр бгъуэтынущ мы  <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">лицензиемкӀэ Creative Commons Attribution-ShareAlike</a>, языныкъуэ Ӏуэхугъуэхэм  гуэдзэ зэгурыӀуэныгъэ хэтынкӀэ хъунущ. Нэхъ кууэ еплъ <a href=\"https://foundation.wikimedia.org/wiki/КъэгъэсэбэпыкӀэм къигъэув Ӏуэхугъэуэхэр\">КъэгъэсэбэпыкӀэм къигъэув Ӏуэхугъэуэхэр</a>.",
+	"wikimedia-copyrightwarning": "Сохраняя изменения, вы соглашаетесь с [https://foundation.wikimedia.org/wiki/Terms_of_Use/ru условиями использования], а также соглашаетесь на безотзывную публикацию по лицензиям [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Вы также соглашаетесь с тем, что для атрибуции согласно условиям лицензии Creative Commons достаточно будет указать гиперссылку или URL страницы.",
 	"wikibase-sitelinks-wikinews": "ВикихъыбарыщӀэхэр",
 	"wikibase-sitelinks-wikiquote": "Викицитатник",
 	"wikibase-sitelinks-wikisource": "Викитекэ",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Программэр зэхэзылъхьахэр",
 	"wikimedia-globalblocking-ipblocked": "'''Уи IP-адресыр [[m:Special:MyLanguage/Global blocks| уики-проект псоми гъэбыда щыхъуащ]].''' Гъэбыда щыхъуар $1 ($2). Ар къызыхэкӀар мыращ: ''$3''. * гъэбыдэныгъэр щыщӀидзар: $4 * гъэбыдэныгъэр щиухыр: $5 Уи иджырей IP-адресыр - $6. КхъыӀэ мыхэр псори  укъыщытхуэтхэкӀэ уи тхыгъэм хэтхэ. ЩыуэгъэкӀэ гъэбыда ухъуауэ къыпщыхъумэ мыбдеж [[m:Special:MyLanguage/No open proxies| абы теухуауэ информацэрэ инструкцэрэ къыщыбгъуэт хъунущ. Прокси-сервер къызэӀухахэр къэбгъэщхьэпэ хъунукъым]] куэд къызэщӀиубыдэфыу файлхэр . НэгъуэщӀу мыхъумэ гъэбыдэныгъэм утепсэлъыхьын папщӀэ кхъыӀэ, [[m:Steward requests/Global| Мета-вики зыхуэгъазэ]].",
+	"wikimedia-globalblocking-ipblocked-xff": "‎'''Один или несколько прокси-серверов, использованных в вашем запросе, [[m:Special:MyLanguage/Global blocks|глобально заблокированы]].''' Блокировка была сделана $1 ($2). Указанная причина: ''$3''. * начало блокировки: $4 * окончание блокировки: $5 Заблокированным прокси-адресом был $6. Пожалуйста, включайте все эти подробности в свои обращения. Если вы считаете, что были заблокированы по ошибке, то можете найти дополнительную информацию и инструкции на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил. В противном случае, чтобы обсудить блокировку, пожалуйста, [[m:Steward requests/Global|обратитесь с запросом о пересмотре на Мета-вики]].",
 	"wikimedia-statslink": "Бжыгъэхэр къэзыгъэлъагъуэ",
 	"wikimedia-cookiestatement": "Куким теухуа заявленэ"
 }
