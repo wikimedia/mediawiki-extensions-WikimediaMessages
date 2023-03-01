@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"CoderSI"
+			"CoderSI",
+			"Malikxan"
 		]
 	},
-	"group-oversight": "Revizorlar"
+	"group-oversight": "Revizorlar",
+	"specialblockfeedback": "Fikr-mulohaza"
 }
