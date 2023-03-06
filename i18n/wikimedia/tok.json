@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Keenan Pepper",
 			"LesVisages",
 			"Robin van der Vliet",
 			"Tbodt",
@@ -15,5 +16,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "lipu Wikitata",
 	"wikimedia-developers": "jan pi pali ilo",
 	"interlanguage-link-wikipedia": "lipu Wikipesija",
-	"wikimedia-statslink": "nanpa"
+	"wikimedia-statslink": "nanpa",
+	"wikimedia-cookiestatement": "lipu lawa pi ilo nanpa Kuki"
 }
