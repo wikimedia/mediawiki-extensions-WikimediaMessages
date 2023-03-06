@@ -10,7 +10,8 @@
 			"לערי ריינהארט",
 			"Kipala",
 			"Wangombe",
-			"MaryMunyoki"
+			"MaryMunyoki",
+			"DDesouza"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalum za Wikimedia",
@@ -53,7 +54,7 @@
 	"wikibase-sitelinks-wikisource": "Wikichanzo",
 	"wikibase-sitelinks-wikivoyage": "Wikisafari",
 	"wikimedia-developers": "Waunzi programu",
-	"wikimedia-globalblocking-ipblocked": "'''Anwani yako ya IP [[m:Special:MyLanguage/Global blocks|imezuiwa kwenye wikis zote]].'''\n\nUtaratibu ulifanywa na $1 ($2).\nSababu uliyopewa ni ''$3''.\n\n* Mwanzo wa kizuizi: $4 \n* Muda wa mwisho wa kizuizi: $5 \n\nAnwani yako ya sasa ya IP ni $6.\nTafadhali jumuisha maelezo yote hapo juu katika hoja zozote utakazouliza.\n\nIkiwa unaamini kuwa ulizuiwa kimakosa, unaweza kupata maelezo na maagizo ya ziada katika sera ya kimataifa ya [[m:Special:MyLanguage/No open proxies|No open proxies]]. \nLa sivyo, ili kujadili kizuizi tafadhali [[m:Steward requests/Global|chapisha ombi la ukaguzi kwenye Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''Anwani yako ya IP imekuwa [[m:Special:MyLanguage/Global blocks|imezuiwa kwenye wikis zote]].'''\n\nUtaratibu ulifanywa na $1 ( $2 ).\nSababu uliyopewa ni '' $3 ''.\n\n* Mwanzo wa kizuizi: $4 \n* Muda wa mwisho wa kizuizi: $5 \n\nAnwani yako ya sasa ya IP ni $6 .\nTafadhali jumuisha maelezo yote hapo juu katika hoja zozote utakazouliza.\n\nIkiwa unaamini kuwa ulizuiwa kimakosa, unaweza kupata maelezo na maagizo ya ziada katika sera ya kimataifa ya [[m:Special:MyLanguage/No open proxies|No open proxies]]. \nLa sivyo, ili kujadili kizuizi tafadhali [[m:Steward requests/Global|chapisha ombi la ukaguzi kwenye Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Seva mbadala moja au zaidi zinazotumiwa na ombi lako ni [[m:Special:MyLanguage/Global blocks|zimezuiwa kimataifa]].'''\n\nKizuizi kilitengenezwa na $1 ( $2 ).\nSababu iliyotolewa ni '' $3 ''.\n\n* Mwanzo wa block: $4 \n* Muda wa mwisho wa block: $5 \n\nAnwani ya proksi iliyozuiwa ilikuwa $6 .\nTafadhali jumuisha maelezo yote hapo juu katika hoja zozote utakazouliza.\n\nIkiwa unaamini kuwa ulizuiwa kimakosa, unaweza kupata maelezo ya ziada na maagizo katika [[m:Special:MyLanguage/No open proxies|Hakuna proksi zilizofunguliwa]] sera ya kimataifa.\nLa sivyo, ili kujadili kizuizi tafadhali [[m:Steward requests/Global|chapisha ombi la ukaguzi kwenye Meta-Wiki]].",
 	"wikimediashoplink-linktext": "Duka la Wikimedia",
 	"wikimediashoplink-link-tooltip": "Tembelea duka la Wikimedia",

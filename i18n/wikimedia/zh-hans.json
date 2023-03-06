@@ -57,7 +57,8 @@
 			"Lakejason0",
 			"SunAfterRain",
 			"Hehua",
-			"Lantianjialiang"
+			"Lantianjialiang",
+			"Jbyccc"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -306,7 +307,7 @@
 	"wikimedia-developers": "开发者",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n{{int:wikimedia-globalblocking-blockedtext-made-by}} $1 ($2).\n{{int:wikimedia-globalblocking-blockedtext-reason}} ''$3''.\n\n{{int:wikimedia-globalblocking-blockedtext-start-time}} $4\n{{int:wikimedia-globalblocking-blockedtext-expiration-time}} $5\n\n{{int:wikimedia-globalblocking-blockedtext-current-ip}} $6.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}.",
 	"wikimedia-globalblocking-ipblocked-range": "'''您的 IP 段已[[m:Special:MyLanguage/Global blocks|在所有维基媒体基金会的站点遭到封禁]]。'''\n\n封禁由 $1 ($2) 作出。\n给出的原因是“$3”。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n您当前的 IP 地址是 $6，受封禁的 IP 段是 $7。\n请在求助时提供以上全部信息。\n\n如果您认为这个封禁是错误的，您可以在[[m:Special:MyLanguage/No open proxies|禁止使用开放代理]]全域方针获取更多信息和指示。\n否则，您也可以[[m:Steward requests/Global|在元维基请求复核]]，或者将以上全部信息发送电子邮件到[[m:Special:MyLanguage/Stewards|监管员]]的[[m:Special:MyLanguage/OTRS|OTRS]]队列求助：<kbd>stewards@wikimedia.org</kbd>。",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n{{int:wikimedia-globalblocking-blockedtext-made-by}} $1 ($2).\n{{int:wikimedia-globalblocking-blockedtext-reason}} ''$3''.\n\n{{int:wikimedia-globalblocking-blockedtext-start-time}} $4\n{{int:wikimedia-globalblocking-blockedtext-expiration-time}} $5\n\n{{int:wikimedia-globalblocking-blockedtext-current-ip}} $6.\n{{int:wikimedia-globalblocking-blockedtext-proxy}} $7.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''您的请求使用的一个或多个代理服务器是 [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\n该块由$1 ( $2 ).!N !The reason given is '' $3 ''.\n\n* 封禁开始： $4 \n* 封禁到期： $5 \n\n被封禁的代理地址是$6 .\n请包在您提出的任何查询中包含以上所有详细信息。\n\n如果您认为自己被错误封禁，您可以在 [[m:Special:MyLanguage/No open proxies|No open proxies]] 中找到更多信息和说明全域政策。\n否则，请[[m:Steward requests/Global|在 Meta-Wiki 上发布审查请求]]讨论该区块。",
 	"wikimedia-torblock-blocked": "您的IP地址<strong>$1</strong>已被自动识别为Tor出口节点。通过Tor的编辑被封禁以防止滥用。对正常使用用户的更多信息和指导，请见[[m:Special:MyLanguage/No open proxies|不要使用开放代理]]全域方针。",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy 隐私政策]",

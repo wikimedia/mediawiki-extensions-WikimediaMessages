@@ -29,7 +29,12 @@
 			"Umherirrender",
 			"Vogone",
 			"Απεργός",
-			"Ameisenigel"
+			"Ameisenigel",
+			"Brettchenweber",
+			"ElBe",
+			"Lucas Werkmeister",
+			"Scblr",
+			"Stang"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -268,7 +273,7 @@
 	"wikimedia-developers": "Entwickler",
 	"wikimedia-globalblocking-ipblocked": "'''Deine IP-Adresse wurde [[m:Special:MyLanguage/Global blocks|auf allen Wikis gesperrt]].'''\n\nDie Sperre wurde durchgeführt von $1 ($2).\nDie angegebene Begründung ist ''$3''.\n\n* Beginn der Sperre: $4\n* Ablauf der Sperre: $5\n\nDeine aktuelle IP-Adresse ist $6.\nBitte gib alle obigen Details in allen gemachten Anfragen an.\n\nWenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Hilfestellungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Anfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
 	"wikimedia-globalblocking-ipblocked-range": "'''Deine IP-Adresse befindet sich in einem Bereich, der auf [[m:Special:MyLanguage/Global blocks|allen Wikis der Wikimedia Foundation gesperrt]] ist.'''\n\nDie Sperre wurde durchgeführt von $1 ($2).\nDer angegebene Grund ist ''$3''.\n\n* Beginn der Sperre: $4\n* Ablauf der Sperre: $5\n\nDeine aktuelle IP-Adresse ist $6 und der gesperrte Bereich ist $7.\nBitte beziehe alle obigen Einzelheiten in all deinen Anfragen ein.\n\nWenn du glaubst, dass du versehentlich gesperrt wurdest, findest du zusätzliche Informationen und Anweisungen in der globalen Richtlinie [[m:Special:MyLanguage/No open proxies|keine offenen Proxies]].\nAndernfalls diskutiere die Sperre bitte [[m:Steward requests/Global|durch eine Anfrage zur Überprüfung im Meta-Wiki]] oder sende eine E-Mail an die [[m:Special:MyLanguage/Stewards|Steward]]-[[m:Special:MyLanguage/OTRS|OTRS]]-Queue per <kbd>stewards@wikimedia.org</kbd> inklusive aller obigen Details.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Ein oder mehrere Proxyserver, die von deiner Anfrage verwendet werden, ist [[m:Special:MyLanguage/Global blocks|global gesperrt]].'''\n\nDie Sperre wurde durchgeführt von $1 ($2).\nDie angegebene Begründung ist ''$3''.\n\n* Beginn der Sperre: $4\n* Ablauf der Sperre: $5\n\nDie gesperrte Proxyadresse war $6.\nBitte gib alle obigen Details in allen gemachten Anfragen an.\n\nWenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Anweisungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''Ein oder mehrere Proxyserver, die von deiner Anfrage verwendet werden, sind [[m:Special:MyLanguage/Global blocks|global gesperrt]].'''\n\nDie Sperre wurde durchgeführt von $1 ($2).\nDie angegebene Begründung ist ''$3''.\n\n* Beginn der Sperre: $4\n* Ablauf der Sperre: $5\n\nDie gesperrte Proxyadresse war $6.\nBitte gib alle obigen Details in allen gemachten Anfragen an.\n\nWenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Anweisungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Prüfanfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
 	"wikimedia-torblock-blocked": "Deine IP-Adresse <strong>$1</strong> wurde automatisch als Tor-Ausgangsknoten identifiziert.\nDas Bearbeiten über Tor ist gesperrt, um Missbrauch zu vermeiden.\nFür zusätzliche Informationen und Anweisungen für berechtigte Benutzer, siehe die globale Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“.",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/de",
 	"wikimedia-oauth-privacy-link": "[https://de.wikipedia.org/wiki/Wikipedia:Datenschutz Datenschutzrichtlinie]",

@@ -313,7 +313,7 @@
 	"wikimedia-switchover-read-only": "Zdaj ne morete urejati. Razlog je vzdrževanje. Besedilo skopirajte in shranite ter poskusite znova čez nekaj minut.",
 	"passwordpolicies-policy-blockattacker": "Pravilo o geslih za preprečevanje znanih napadov, pri katerih bi razkritje podrobnosti oviralo preprečevanje napadov",
 	"technical-maintenance-soon": "Kmalu bo opravljeno tehnično vzdrževanje:",
-	"technical-maintenance-edit": "V tem času morda ne boste mogli shraniti nobenih sprememb.",
+	"technical-maintenance-edit": "V tem času mogoče ne boste mogli shraniti nobenih sprememb.",
 	"group-oathauth-tester": "Preizkuševalci dvofaktorske avtentikacije",
 	"group-oathauth-tester-member": "{{GENDER:$1|preizkuševalec dvofaktorske avtentikacije|preizkuševalka dvofaktorske avtentikacije|preizkuševalec_ka dvofaktorske avtentikacije}}",
 	"querypage-updates-half-monthly": "Ta stran se posodablja dvakrat na mesec.",
