@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Iflaq",
-			"Rishabhbhat"
+			"Rishabhbhat",
+			"Tajamul9"
 		]
 	},
 	"wm-license-information-description": "تَفصیٖل",
@@ -10,5 +11,6 @@
 	"wm-license-information-date": "تٲریٖخ",
 	"wm-license-information-author": "مُصَنِف",
 	"wm-license-information-permission": "اِجازَت",
+	"wm-license-information-permission-reusing-text": "دۄبارٕ یہِ فیل استعمال کرٕنی",
 	"wm-license-own-work": " پَنٕنؠ کأم"
 }
