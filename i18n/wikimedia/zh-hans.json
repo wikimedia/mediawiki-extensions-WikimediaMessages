@@ -58,7 +58,8 @@
 			"Lakejason0",
 			"Hehua",
 			"Jbyccc",
-			"Lantianjialiang"
+			"Lantianjialiang",
+			"星海"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -332,7 +333,7 @@
 	"restriction-level-templateeditor": "模板保护",
 	"protect-level-templateeditor": "仅允许模板编辑者和管理员",
 	"action-extendedconfirmed": "编辑受限制页面",
-	"right-extendedconfirmed": "编辑受限制页面",
+	"right-extendedconfirmed": "编辑受延伸确认保护的页面",
 	"restriction-level-extendedconfirmed": "正式编辑者保护",
 	"protect-level-extendedconfirmed": "仅允许正式编辑者和管理员",
 	"action-editeditorprotected": "编辑保护级别为“{{int:protect-level-editeditorprotected}}”的页面",
