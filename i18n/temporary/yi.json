@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Pacha Tchernof",
 			"פוילישער"
 		]
 	},
 	"wikimediamessages-desc": "וויקימעדיע־ספעציפֿישע צייטווייליגע מעלדונגען",
 	"group-oversight": "אויפֿזעער",
-	"group-oversight-member": "אויפזיכטער",
-	"please-translate": "זייט אזוי גוט איבערזעצן דעם בלאַט"
+	"group-oversight-member": "{{GENDER:$1|אויפזיכטער}}",
+	"hello": "העלאָ",
+	"please-translate": "זייט אזוי גוט איבערזעצן דעם בלאַט",
+	"thank-you": "{{GENDER:$1|אַ דאַנק.}}",
+	"specialblockfeedback": "פֿידבעק"
 }

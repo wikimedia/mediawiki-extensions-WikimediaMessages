@@ -4,11 +4,15 @@
 			"Ella Lachow"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "Ha fayilee hagaan [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]eenotaa immiis.",
 	"wm-license-cc-free": "Neeni la'a",
 	"wm-license-cc-free-to-share-header": "Gattanaassi",
 	"wm-license-cc-free-to-share-text": "duuqqanaassi, oosuwaa harasaa gattanne pintta",
 	"wm-license-cc-free-to-remix-header": "Zaari walakkanaassi",
 	"wm-license-cc-free-to-remix-text": "Oosuwaa takettanaassi",
 	"wm-license-cc-conditions": "Ha kaalliyaa hanotatun:",
-	"wm-license-cc-conditions-share_alike-header": "Malatiyaageeta shaakka"
+	"wm-license-cc-conditions-attribution-header": "eeshshaa",
+	"wm-license-cc-conditions-attribution-text": "Bessiyaa kireediitiyaa immanawu, eenotaassi gattiyaagaa shiishshanne laameti oosettogaadan bessa. Ne hagaa ayi gaasoy de'iyoo hanotan oottana danddayaasa, yohuwaan qassi eenotaa immiyaagee nena woykko ne go'etuwaa kaafiyaadan bessiyaa ayi ogiyaankka gidoppo.",
+	"wm-license-cc-conditions-share_alike-header": "Malatiyaageeta shaakka",
+	"wm-license-cc-conditions-share_alike-text": "Neeni walakkiyoode, laammiyoode, woykko ayi buquratu bollan gujjikko, neeni ne xaafi shiishota hagan [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] koyroogaadan gattanawu bessees."
 }
