@@ -5,8 +5,8 @@
 		]
 	},
 	"sitesupport": "Donate",
-	"wikimedia-copyright": "Text be available <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> under;\nadditional terms go apply.\nSpy <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> for details.",
-	"wikimedia-copyrightwarning": "As you dey save changes, you dey agree to de [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], wey you sa dey irrevocably agree say you dey release your contribution under de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] den de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou dey agree say a hyperlink or URL is sufficient attribution under de Creative Commons license.",
+	"wikimedia-copyright": "Text be available <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> under;\nadditional terms go apply.\nSpy <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyrightwarning": "As you dey save changes, you dey agree to de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], wey you sa dey irrevocably agree say you dey release your contribution under de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] den de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou dey agree say a hyperlink or URL is sufficient attribution under de Creative Commons license.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welcome}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

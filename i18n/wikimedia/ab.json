@@ -6,7 +6,7 @@
 		]
 	},
 	"sitesupport": "Ацхыраара зылшо",
-	"wikimedia-copyright": "Атекст ахьыманшәалоу <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike алицензиала</a>  иҟоуп; ахарҭәааратә ԥҟарақәа рылша рныруеит.\nШәахә. Инарҭбааны шәахә. убас <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Ахархәаразы аԥҟарақәа</a>.",
+	"wikimedia-copyright": "Атекст ахьыманшәалоу <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike алицензиала</a>  иҟоуп; ахарҭәааратә ԥҟарақәа рылша рныруеит.\nШәахә. Инарҭбааны шәахә. убас <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ахархәаразы аԥҟарақәа</a>.",
 	"wikimedia-developers": "Аҭҵааҩцәа",
 	"wikimedia-globalblocking-ipblocked": "'''Шәара IP-адрес [[m:Special:MyLanguage/Global blocks|иаанкылоу иҟаз зегь авики-проектқәа рҟны]].'''\n\nАанкылара ииҭан: $1 ($2).\nИарбоу амзыз: \"$3\"\n\n* Аанкылара алагамҭа: $4\n* Аанкылара алгамҭа: $5\n\nШәара изаамҭанытәуи IP-адрес: $6\nПожалуйста, включайте все эти подробности в свои обращения.\n\nЕсли вы считаете, что были заблокированы по ошибке, то можете найти дополнительную информацию и инструкции на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.\nВ противном случае, чтобы обсудить блокировку, пожалуйста, [[m:Steward requests/Global|обратитесь с запросом о пересмотре на Мета-вики]].",
 	"wikimedia-statslink": "Астатистика",

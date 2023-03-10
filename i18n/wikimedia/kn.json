@@ -91,7 +91,7 @@
 	"group-staff-member": "ಸಿಬ್ಬಂದಿ",
 	"group-steward": "ಕಾರಭಾರಿಗಳು",
 	"group-steward-member": "{{GENDER:$1|ಕಾರಭಾರಿ}}",
-	"wikimedia-copyright": "ಪಠ್ಯವು <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> ನಡಿ ಲಭ್ಯವಿದೆ;\nಮತ್ತಷ್ಟು ಷರತ್ತುಗಳು ಅನ್ವಯಿಸಬಹುದು.\nಹೆಚ್ಚಿನ ವಿವರಗಳಿಗೆ <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ಬಳಕೆಯ ಷರತ್ತುಗಳು</a> ನೋಡಿ.",
+	"wikimedia-copyright": "ಪಠ್ಯವು <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a> ನಡಿ ಲಭ್ಯವಿದೆ;\nಮತ್ತಷ್ಟು ಷರತ್ತುಗಳು ಅನ್ವಯಿಸಬಹುದು.\nಹೆಚ್ಚಿನ ವಿವರಗಳಿಗೆ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ಬಳಕೆಯ ಷರತ್ತುಗಳು</a> ನೋಡಿ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ಸುಸ್ವಾಗತ}}, $1!",
 	"wikibase-sitelinks-wikinews": "ವಿಕಿನ್ಯೂಸ್",
 	"wikibase-sitelinks-wikiquote": "ವಿಕಿಕೋಟ್",

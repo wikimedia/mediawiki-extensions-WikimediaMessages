@@ -24,8 +24,8 @@
 	"group-transwiki-member": "{{GENDER:$1|wikiaralıq importlawshılar}}",
 	"grouppage-transwiki": "{{ns:project}}:Wikiaralıq importlawshılar",
 	"group-steward": "Styuardlar",
-	"wikimedia-copyright": "Tekst <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike licenziyası</a> boyınsha ǵalabalastırılmaqta, qosımsha shártler qollanıwı múmkin (<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">qollanıw shártleri</a>).",
-	"wikimedia-copyrightwarning": "Ózgerislerdi saqlaw arqalı siz [https://foundation.wikimedia.org/wiki/Terms_of_Use Paydalanıw shártleri]ne razılıq bildiresiz hám siz óz úlesińizdi [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] hám [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] muwapıq járiyalawǵa biykarlap bolmaytuǵın dárejede razılıq bildiresiz. Siz silteme yamasa URL-adres Creative Commons licenziyası boyınsha jetkilikli atribut bolıwına razılıq bildiresiz.",
+	"wikimedia-copyright": "Tekst <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike licenziyası</a> boyınsha ǵalabalastırılmaqta, qosımsha shártler qollanıwı múmkin (<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">qollanıw shártleri</a>).",
+	"wikimedia-copyrightwarning": "Ózgerislerdi saqlaw arqalı siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Paydalanıw shártleri]ne razılıq bildiresiz hám siz óz úlesińizdi [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] hám [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] muwapıq járiyalawǵa biykarlap bolmaytuǵın dárejede razılıq bildiresiz. Siz silteme yamasa URL-adres Creative Commons licenziyası boyınsha jetkilikli atribut bolıwına razılıq bildiresiz.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Xosh keldińiz}}, $1!",
 	"wikibase-repo-name": "Wikimaǵlıwmat",
 	"wikibase-sitelinks-wikinews": "Wikijańalıq",
@@ -42,5 +42,5 @@
 	"interlanguage-link-commons": "Wikiqoyma",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Cookie bayanatı",
-	"ext-campaignevents-register-policy": "Dizimnen ótiw arqalı siz [https://foundation.wikimedia.org/wiki/Terms_of_Use Paydalanıw shártleri], [https://foundation.wikimedia.org/wiki/Privacy_policy Jasırınlıq siyasatı], [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universal minez-qulıq kodeksi] hám ilaj shólkemlestiriwshileri tárepinen usınıs etilgen hár qanday Jergilikli doslıq aymaǵı siyasatına razılıq bildiresiz."
+	"ext-campaignevents-register-policy": "Dizimnen ótiw arqalı siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Paydalanıw shártleri], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Jasırınlıq siyasatı], [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universal minez-qulıq kodeksi] hám ilaj shólkemlestiriwshileri tárepinen usınıs etilgen hár qanday Jergilikli doslıq aymaǵı siyasatına razılıq bildiresiz."
 }
