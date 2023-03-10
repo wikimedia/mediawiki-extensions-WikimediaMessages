@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Eitvys200",
+			"Hugo.arg",
 			"Manvydasz",
 			"Tomasdd"
 		]
@@ -10,6 +11,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "Nematote paveikslėlio? [[{{MediaWiki:createacct-captcha-help-url}}|Prašykite paskyros]]",
 	"wikimedia-centralauth-groupname": "Vikimedijos fondas",
 	"createacct-helpusername-url": "{{ns:Project}}:Naudotojo vardo_politika",
+	"wikimedia-discussiontools-replywidget-terms-click": "Paspausdami \"$1\", jūs sutinkate su mūsų [https://foundation.wikimedia.org/wiki/Terms_of_Use naudojimo sąlygomis] ir negrįžtamai sutinkate savo įvestą tekstą platinti {{PLURAL:$3|su licencija|su licencijomis}} $2.",
 	"wikimedia-sitematrix": "Vikimedijos viki projektų sąrašas",
 	"wikimedia-sitematrix-others": "Kiti Vikimedijos projektai",
 	"wikimedia-sitematrix-summary": "Šis specialus puslapis rodo Vikimedijos viki sąrašą.",
