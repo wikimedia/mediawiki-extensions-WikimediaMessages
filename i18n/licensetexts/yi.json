@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Alefbeis",
-			"פוילישער"
+			"פוילישער",
+			"Pacha Tchernof"
 		]
 	},
 	"wm-license-attribution-with-author-text": "דער וואס האלט די קאפירעכט פון דער טעקע, $1, גיט רשות יעדעם איינעם צו ניצן זי '''פאר נאר וועלכן צוועק, בתנאי''' אז מען גיט דעם קאפירעכט האלטער דעם געהעריגן קרעדיט. ווידערפארשפרייטן, דעריוואטע ארבעט, קאמערציעלע ניצונג, און אלע אנדערע ניצונגען זענען דערלויבט.",
@@ -11,7 +12,7 @@
 	"wm-license-book-edition": "אויפֿלאַגע",
 	"wm-license-book-editor": "רעדאַקטאָר",
 	"wm-license-book-illustrator": "אילוסטרירער",
-	"wm-license-book-language": "שפראַך",
+	"wm-license-book-language": "שפּראַך",
 	"wm-license-book-page-overview": "בלאַט איבערבליק",
 	"wm-license-book-place-of-publication": "אָרט פון דערשײַנען",
 	"wm-license-book-printer": "דרוקער",

@@ -5,6 +5,10 @@
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуциязы",
+	"wm-license-cc-free": "Сірер пос полчазар:",
 	"wm-license-cc-free-to-share-header": "ӱлирге",
-	"wm-license-cc-conditions-attribution-header": "аттрибуциязы"
+	"wm-license-cc-free-to-remix-header": "собырарға",
+	"wm-license-cc-conditions": "Пу условиелерні тутса:",
+	"wm-license-cc-conditions-attribution-header": "аттрибуциязы",
+	"wm-license-cc-conditions-share_alike-header": "Олох условиелернең алғытханы"
 }
