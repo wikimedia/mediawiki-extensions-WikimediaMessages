@@ -11,8 +11,9 @@
 	"tooltip-n-sitesupport": "Untastitz ins",
 	"group-interface-editor": "Nutzaobaflechnbeoabata",
 	"group-interface-editor-member": "{{GENDER:$1|Nutzaobaflechnbeoabata|Nutzaobaflechnbeoabatarin}}",
-	"wikimedia-copyright": "En Text gibts unta da Lizenz <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">„Creative Commons Attribution-ShareAlike“</a>; Es ko dazua aa no weidane Bedingunga gem.\nSchaug <a href=\"https://foundation.wikimedia.org/wiki/Nutzungsbedingungen\">Nutzungsbedingungen</a> fia Oanzlheitn.",
+	"wikimedia-copyright": "Da Text is unter da Lizenz <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">Creative Commons Nåmansnénnung – Weidergob unter gleiche Bedingungan</a> vafiagbor. Zuasétzliche Bedingungan kennan gëten.\nOahzelheiden san in dé <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/de\">Nutzungsbedingungan</a> bschrim.",
 	"wikimedia-copyrightwarning": "Midm Speichan vo Endarunga, stimmst dena [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/de Nutzungsbedingunga] zua und bist eihvastandn, dass dei Beidrog unta da Lizenz [https://creativecommons.org/licenses/by-sa/3.0/deed.de ''Creative-Commons'' „Namasnennung – Weidagob unta gleichn Bedingunga 3.0“] und da [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL] unwidaruafli vaendad wead.\nDu stimmst aa zua, dass a Link oda URL ois Attribution una da Creative Commons Lizenz langt.",
 	"wikimedia-developers": "Entwickla",
-	"wikimedia-statslink": "Statistiken"
+	"wikimedia-statslink": "Statistiken",
+	"wikimedia-cookiestatement": "Stellungsnåm zua dé Cookies"
 }

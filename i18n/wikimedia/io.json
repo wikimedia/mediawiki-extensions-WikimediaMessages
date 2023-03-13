@@ -122,5 +122,6 @@
 	"right-docseditor": "Redaktar dokumentigo",
 	"ext-quicksurveys-tst-internal-survey-question": "Ka vu sentis su nesekura o senkomforta kande vu kontributis kun {{SITENAME}} dum la pasinta 30 dii?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Yes",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "No"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Yes"
 }
