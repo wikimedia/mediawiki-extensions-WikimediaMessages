@@ -384,6 +384,7 @@
 	"ext-campaignevents-registration-form-policy": "Events hosted or funded by the Wikimedia Foundation are required to adhere to all Wikimedia Foundation policies, including on [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy Youth Safety].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "For more information, see this survey's [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement privacy statement].",
 	"readinglists-import-app": "To import this reading list, install the latest version of the Wikipedia app:",
+	"readinglists-import-app-with-link": "<a href=\"$1\">Download</a> and install the latest version of the Wikipedia app:",
 	"readinglists-list-empty-message": "You can import this list by installing the Wikipedia app.",
 	"research-incentive-message": "Would you like to participate in remunerated user research for Wikipedia?",
 	"research-incentive-description": "Complete the form to be registered into our participant list. You will be contacted periodically with remunerated research opportunities. You may remove yourself from the list at any time.",
