@@ -173,6 +173,8 @@ class Hooks implements
 			'apierror-urlshortener-disabled',
 			// T230253
 			'apierror-urlshortener-permissiondenied',
+			// T331743
+			'centralauth-admin-log-otherwiki',
 			// T230253
 			'urlshortener-badaccessgroups',
 			// T221526

@@ -54,5 +54,6 @@
 	"wikimedia-ipinfo-source-geoip2": "IPinfobox legal disclaimer",
 	"wikimedia-ipinfo-infobox-use-terms": "IPInfobox use legal terms",
 	"wikimedia-ipinfo-preference-use-agreement": "IPInfo use agreement",
-	"wikimedia-similareditors-error-default": "Error message displayed when no error key is specified"
+	"wikimedia-similareditors-error-default": "Error message displayed when no error key is specified",
+	"wikimedia-centralauth-admin-log-otherwiki": "Used on [[Special:CentralAuth]] on wikis other than meta for locked account to point towards the logs on Meta-Wiki."
 }

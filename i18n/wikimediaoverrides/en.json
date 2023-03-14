@@ -42,5 +42,6 @@
 	"wikimedia-ipinfo-source-geoip2": "Your use of this tool is governed by the [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP Information tool guidelines].",
 	"wikimedia-ipinfo-infobox-use-terms": "The IP Information tool uses the MaxMind databases to show details like approximate location, proxy, and how many devices are sharing this IP address. Please review the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP Information tool guidelines] before enabling it.",
 	"wikimedia-ipinfo-preference-use-agreement": "I agree to use this tool in accordance with the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP Information tool guidelines], solely for the investigation or prevention of vandalism, abuse, or other violations of Wikimedia Foundation or community policies.",
-	"wikimedia-similareditors-error-default": "Something has gone wrong, we’re looking into it. If the problem persists please reach out to us [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors here]."
+	"wikimedia-similareditors-error-default": "Something has gone wrong, we’re looking into it. If the problem persists please reach out to us [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors here].",
+	"wikimedia-centralauth-admin-log-otherwiki": "This account is locked. See the [[meta:Special:CentralAuth/$1|global account details on Meta-Wiki]] for more details."
 }
