@@ -199,6 +199,7 @@
 	"group-translationadmin": "Bảo quản viên bản dịch",
 	"group-translationadmin-member": "{{GENDER:$1}}bảo quản viên bản dịch",
 	"grouppage-translationadmin": "{{ns:project}}:Bảo quản viên bản dịch",
+	"group-vrt-permissions": "Đại lý cấp phép VRT",
 	"group-wmf-officeit": "Văn phòng CNTT WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1}}Văn phòng CNTT WMF",
 	"group-wmf-researcher": "Chuyên viên nghiên cứu WMF",
@@ -264,7 +265,7 @@
 	"upload-more-photos-of-this-monument": "Tải lên thêm hình ảnh đài tưởng niệm này",
 	"createacct-captcha-help-url": "{{ns:Project}}:Yêu cầu tạo tài khoản",
 	"wikimedia-developers": "Lập trình viên",
-	"wikimedia-globalblocking-ipblocked": "'''Địa chỉ IP của bạn đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''\n\nNgười cấm là $1 ($2).\nLý do được đưa ra là ''$3''.\n\n* Lúc bắt đầu cấm: $4\n* Thời hạn cấm: $5\n\nĐịa chỉ IP của bạn hiện là $6.\nKhi hỏi về vụ cấm này, xin vui lòng cung cấp tất cả các thông tin trên.\n\nNếu bạn bị cấm do sự nhầm lẫn, bạn có thể xem thêm quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu kiểm tra lại tại Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''Địa chỉ IP của bạn đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''\n\nNgười cấm là $1 ($2).\nLý do được đưa ra là ''$3''.\n\n* Lúc bắt đầu cấm: $4\n* Thời hạn cấm: $5\n\nĐịa chỉ IP của bạn hiện là $6.\nKhi hỏi về vụ cấm này, xin vui lòng cung cấp tất cả các thông tin trên.\n\nNếu bạn bị cấm do sự nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn tại quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu kiểm tra lại tại Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-range": "'''Địa chỉ IP của bạn nằm trong một dải IP [[m:Special:MyLanguage/Global blocks|bị cấm trên mọi wiki thuộc Wikimedia Foundation]].'''\n\nNgười thực hiện lệnh cấm là $1 ($2).\nLý do cấm là ''$3''.\n\n* Thời điểm cấm: $4\n* Thời hạn cấm: $5\n\nĐịa chỉ IP hiện tại của bạn là $6 và dải bị cấm là $7.\nVui lòng thêm đầy đủ các thông tin trên khi đặt câu hỏi.\n\nNếu bạn cho rằng mình đã bị cấm nhầm, hãy xem thêm thông tin và hướng dẫn ở trang quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không proxy mở]].\nĐể thảo luận về lệnh cấm, hãy [[m:Steward requests/Global|viết một yêu cầu xem xét lại tại Meta-Wiki]] hoặc gửi thư điện tử đến hòm thư [[m:Special:MyLanguage/VRT|VRT]] của [[m:Special:MyLanguage/Stewards|tiếp viên]] tại <kbd>stewards@wikimedia.org</kbd> với các thông tin phía trên.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Máy chủ proxy được bạn sử dụng đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].'''\n\nNgười cấm là $1 ($2).\nLý do là ''$3''.\n\n* Lúc bắt đầu cấm: $4\n* Thời hạn cấm: $5\n\nĐịa chỉ IP của máy chủ proxy bị cấm là $6.\nKhi hỏi về vụ cấm này, xin vui lòng cung cấp tất cả các thông tin trên.\n\nNếu bạn bị cấm do bị nhầm lẫn, bạn hãy xem thêm quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu kiểm tra lại tại Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Địa chỉ IP của bạn, <strong>$1</strong>, đã bị xác định là một nút thoát tor.\nSửa đổi thông qua tor đã bị cấm để tránh sai phạm. Xem thêm thông tin và hướng dẫn dành cho những người dùng chính đáng trong quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].",
@@ -351,5 +352,10 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Có",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Không",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Tôi không chắc",
-	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext"
+	"research-incentive-answer-positive": "Có",
+	"research-incentive-answer-negative": "Không",
+	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
+	"research-incentive-privacy": "Xem Quy định quyền riêng tư của chúng tôi và tìm hiểu thêm về chương trình nghiên cứu của chúng tôi [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program tại đây].",
+	"research-incentive-confirm-msg": "Cảm ơn!",
+	"ipinfo-global-contributions-url-label": "Đóng góp toàn cục"
 }
