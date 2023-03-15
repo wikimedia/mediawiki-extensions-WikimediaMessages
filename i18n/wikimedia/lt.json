@@ -119,6 +119,7 @@
 	"search-interwiki-custom": "wikt:Iš Vikižodyno\nb:Iš Vikiknygų\nn:Iš Vikinaujienų\nq:Iš Vikicitatų\ns:Iš Vikišaltinių\nv:Iš Vikiversiteto\nvoy:Iš Vikikelionų",
 	"wikimedia-copyright": "Turinys pateikiamas pagal <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">„Creative Commons Attribution-ShareAlike“ licenciją</a>; gali būti taikomos papildomos sąlygos.\nIšsamesnės informacijos rasite <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">naudojimo sąlygose</a>.",
 	"wikimedia-copyrightwarning": "Išsaugodami pakeitimus sutinkate su [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use naudojimo sąlygomis] ir neatšaukiamai sutinkate, kad jūsų indėlis būtų platinamas pagal [https://creativecommons.org/licenses/by-sa/3.0/deed.lt Creative Commons Attribution-ShareAlike 3.0] ir [https://www.gnu.org/copyleft/fdl.html GFDL] licencijas.\nJūs taip pat sutinkate, kad pagal „Creative Commons“ licenciją, internetinės nuorodos arba URL adreso nurodymas yra pakankama autorystės nuoroda.",
+	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] ir [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Sveiki}}, $1!",
 	"wikibase-repo-name": "Vikiduomenys",
 	"wikibase-sitelinks-wikibooks": "Vikiknygos",

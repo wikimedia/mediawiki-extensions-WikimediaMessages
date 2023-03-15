@@ -59,7 +59,8 @@
 			"Hehua",
 			"Jbyccc",
 			"Lantianjialiang",
-			"星海"
+			"星海",
+			"Tiger"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -99,7 +100,7 @@
 	"group-autopatrolled": "自动巡查者",
 	"group-autopatrolled-member": "{{GENDER:$1|自动巡查者}}",
 	"grouppage-autopatrolled": "{{ns:project}}:自动巡查者",
-	"group-autoreviewer": "自动复核者",
+	"group-autoreviewer": "巡查豁免者",
 	"group-autoreviewer-member": "{{GENDER:$1|自动复核者}}",
 	"grouppage-autoreviewer": "{{ns:project}}:自动复核者",
 	"group-bigexport": "大量导出者",

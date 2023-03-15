@@ -4,5 +4,10 @@
 			"Bgo eiu"
 		]
 	},
-	"wm-license-information-author": "نویش"
+	"wm-license-information-description": "تفصیل",
+	"wm-license-information-source": "ماخذ",
+	"wm-license-information-date": "تریخ",
+	"wm-license-information-author": "نویش",
+	"wm-license-information-permission": "اجازت",
+	"wm-license-own-work": "آپڑا کم"
 }
