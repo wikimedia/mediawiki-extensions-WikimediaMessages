@@ -45,5 +45,6 @@
 	"wikimedia-ipinfo-source-geoip2": "Vašo uporabo tega orodja urejajo [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Smernice orodja Podatki o IP-ju].",
 	"wikimedia-ipinfo-infobox-use-terms": "Orodje Podatki o IP-ju uporablja podatkovne zbirke MaxMind za prikaz podatkov, kot so približna lokacija, posredniški strežnik in število naprav, ki si delijo ta IP-naslov. Preden ga omogočite, preglejte [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines smernice za orodje Podatki o IP-ju].",
 	"wikimedia-ipinfo-preference-use-agreement": "Strinjam se, da bom to orodje uporabljal_a v skladu s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines Smernicami za orodje Podatki o IP-ju] zgolj za preiskavo ali preprečevanje vandalizma, zlorabe ali druge kršitve pravil Fundacije Wikimedia ali pravil skupnosti.",
-	"wikimedia-similareditors-error-default": "Nekaj je šlo narobe, preiskujemo. Če bo težava vztrajala, se obrnite na nas [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors tukaj]."
+	"wikimedia-similareditors-error-default": "Nekaj je šlo narobe, preiskujemo. Če bo težava vztrajala, se obrnite na nas [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors tukaj].",
+	"wikimedia-centralauth-admin-log-otherwiki": "Ta račun je zaklenjen. Za več podrobnosti glejte [[meta:Special:CentralAuth/$1|podrobnosti o globalnem računu na Meta-Wiki]]."
 }
