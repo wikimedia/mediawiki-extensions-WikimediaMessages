@@ -441,5 +441,13 @@
 	"ipinfo-global-contributions-url-label": "Label for Global Contributions link",
 	"ipinfo-global-contributions-url": "URL for Global Contributions link\n\nParameters:\n* $1 - IP address",
 	"ipinfo-xtools-url-label": "Label for XTools link",
-	"ipinfo-xtools-url": "URL for XTools link\n\nParameters:\n* $1 - IP address\n* $2 - server name of current wiki"
+	"ipinfo-xtools-url": "URL for XTools link\n\nParameters:\n* $1 - IP address\n* $2 - server name of current wiki",
+	"globalblocking-blockedtext-all-wikis": "Used as a component of a global block message.",
+	"globalblocking-blockedtext-on-range": "Used as a component of a global block message.",
+	"globalblocking-blockedtext-on-proxy": "Used as a component of a global block message.",
+	"globalblocking-blockedtext-ip-range": "Used as a component of a global block message. $1 - the blocked range.",
+	"globalblocking-blockedtext-proxy": "Used as a component of a global block message. $1 - the blocked proxy address.",
+	"globalblocking-blockedtext-details-queries": "Used as a component of a global block message.",
+	"globalblocking-blockedtext-mistake": "Used as a component of a global block message.",
+	"globalblocking-blockedtext-mistake-email-steward": "Used as a component of a global block message."
 }
