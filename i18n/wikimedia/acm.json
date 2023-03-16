@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmedadeljaff"
+			"Ahmedadeljaff",
+			"MRidhaAJ"
 		]
 	},
 	"sitesupport": "أتبرع",
 	"wikimedia-copyright": "النصوص مُرخصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nًقد تنطبق بنود أخرى أيضا.\nانظر <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
+	"wikifunctions-edit-copyrightwarning-function": "إذا تدوس \"إنشرها\"، لازم تثق بـ<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\"><a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\"></a></a>",
 	"wikimedia-developers": "مطورين",
 	"wikimedia-statslink": "احصائيات",
-	"wikimedia-cookiestatement": "بيان تعريف إلارتباطات"
+	"wikimedia-cookiestatement": "بيان تعريف إلارتباطات",
+	"globalblocking-blockedtext-all-wikis": "الآيبي مالتك إنحظر بكل الويكيات"
 }

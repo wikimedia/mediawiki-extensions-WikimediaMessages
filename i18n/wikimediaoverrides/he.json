@@ -50,5 +50,9 @@
 	"wikimedia-ipinfo-source-geoip2": "השימוש שלך בכלי הזה נעשה לפי [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines הנחיות כלי המידע על IP].",
 	"wikimedia-ipinfo-infobox-use-terms": "כלי המידע על IP משתמש במסדי נתונים של מקסמיינד כדי להציג פרטים כגון מיקום מוערך, שרת מתווך (פרוקסי), וכמה מכשירים משתפים את כתובת ה־IP הזאת. נא לסקור את [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines הנחיות כלי המידע על IP] לפני הפעלתו.",
 	"wikimedia-ipinfo-preference-use-agreement": "אני {{GENDER:|מסכים|מסכימה}} להשתמש בכלי הזה לפי [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines הנחיות כלי המידע על IP], רק למען חקירה או מניעה של השחתה, שימוש לרעה, או הפרות אחרות של דפי מדיניות של קרן ויקימדיה או של הקהילה.",
-	"wikimedia-similareditors-error-default": "משהו השתבש, אנחנו בודקים את זה. אם הבעיה ממשיכה, אפשר למצוא אותנו [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors כאן]."
+	"wikimedia-similareditors-error-default": "משהו השתבש, אנחנו בודקים את זה. אם הבעיה ממשיכה, אפשר למצוא אותנו [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors כאן].",
+	"wikimedia-centralauth-admin-log-otherwiki": "החשבון הזה נעול. ר' את [[meta:Special:CentralAuth/$1|פרטי החשבון הגלובלי במטא]] לפרטים נוספים.",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "כתובת ה־IP שלך [[m:Special:MyLanguage/Global blocks|נחסמה בכל אתרי הוויקי]].",
+	"wikimedia-globalblocking-blockedtext-on-range": "כתובת ה־IP שלך נמצאת בטווח ש[[m:Special:MyLanguage/Global blocks|נחסם בכל אתרי הוויקי של קרן ויקימדיה]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "שרת מתווך (פרוקסי) אחד או יותר ששימש בבקשה שלך [[m:Special:MyLanguage/Global blocks|חסום גלובלית]]."
 }

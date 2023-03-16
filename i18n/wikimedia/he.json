@@ -373,5 +373,11 @@
 	"research-incentive-answer-positive": "כן",
 	"research-incentive-answer-negative": "לא",
 	"research-incentive-privacy": "ר' את מדיניות הפרטיות שלך למידע נוסף על תוכניות המחקר שלנו [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program כאן].",
-	"ipinfo-global-contributions-url-label": "תרומות גלובליות"
+	"ipinfo-global-contributions-url-label": "תרומות גלובליות",
+	"globalblocking-blockedtext-all-wikis": "כתובת ה־IP שלך נחסמה בכל אתרי הוויקי.",
+	"globalblocking-blockedtext-on-range": "כתובת ה־IP שלך נמצאת בטווח שנחסם בכל אתרי הוויקי.",
+	"globalblocking-blockedtext-on-proxy": "שרת מתווך (פרוקסי) אחד או יותר ששימש בבקשה שלך חסום גלובלית",
+	"globalblocking-blockedtext-ip-range": "הטווח החסום הוא $1.",
+	"globalblocking-blockedtext-proxy": "כתובת השרת המתווך החסום הייתה $1.",
+	"globalblocking-blockedtext-details-queries": "יש לציין את כל הפרטים האלה בכל פנייה לבירור החסימה."
 }

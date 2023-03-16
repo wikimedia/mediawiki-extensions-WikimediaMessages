@@ -28,5 +28,10 @@
 	"wikimedia-sitematrix-summary": "Ова посебна страница наводи све викије Викимедије.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy/sr Политика приватности]",
 	"wikimedia-ipinfo-source-geoip2": "Употреба ове алатке подлеже [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines одређеним смерницама].",
-	"wikimedia-ipinfo-preference-use-agreement": "Пристајем да користим ову алатку у складу са [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines смерницама за алатку IP информације], искључиво за истрагу или превенцију вандализама, злоупотреба или других кршења правила Викимедије или заједнице."
+	"wikimedia-ipinfo-preference-use-agreement": "Пристајем да користим ову алатку у складу са [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines смерницама за алатку IP информације], искључиво за истрагу или превенцију вандализама, злоупотреба или других кршења правила Викимедије или заједнице.",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "Ваша IP адреса је [[m:Special:MyLanguage/Global blocks|блокирана на свим викијима]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Један или више прокси сервера које користите су [[m:Special:MyLanguage/Global blocks|блокирани на свим викијим]].",
+	"wikimedia-globalblocking-blockedtext-proxy": "Блокирана прокси адреса је",
+	"wikimedia-globalblocking-blockedtext-details-queries": "Наведите све горње податке при захтеву за деблокаду.",
+	"wikimedia-globalblocking-blockedtext-mistake": "Ако мислите да сте грешком блокирани додатне информације можете наћи на [[m:Special:MyLanguage/No open proxies|без отворених проксија]].\nЗа деблокаду поставите [[m:Steward requests/Global|захтев на Метавикију]]"
 }

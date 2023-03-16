@@ -345,5 +345,11 @@
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Pro plus information, vide le [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement declaration de confidentialitate] de iste sondage.",
 	"readinglists-import-app": "Pro importar iste lista de lectura, installa le ultime version del app Wikipedia:",
 	"readinglists-list-empty-message": "Tu pote importar iste lista post installar le app Wikipedia.",
-	"ipinfo-global-contributions-url-label": "Contributiones global"
+	"ipinfo-global-contributions-url-label": "Contributiones global",
+	"globalblocking-blockedtext-all-wikis": "Tu adresse IP ha essite blocate sur tote le wikis.",
+	"globalblocking-blockedtext-on-range": "Tu adresse IP es in un intervallo que ha essite blocate sur tote le wikis.",
+	"globalblocking-blockedtext-on-proxy": "Un o plus servitores proxy usate per tu requesta es blocate globalmente",
+	"globalblocking-blockedtext-ip-range": "Le intervallo blocate es $1.",
+	"globalblocking-blockedtext-proxy": "Le adresse proxy blocate es $1.",
+	"globalblocking-blockedtext-details-queries": "Per favor include tote le detalios supra mentionate in omne correspondentia."
 }

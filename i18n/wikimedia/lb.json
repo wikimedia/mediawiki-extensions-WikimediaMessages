@@ -203,5 +203,10 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Neen",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Ech sinn net sécher",
 	"gadget-souspages-subpages": "Ënnersäiten",
-	"ipinfo-global-contributions-url-label": "Global Kontributiounen"
+	"ipinfo-global-contributions-url-label": "Global Kontributiounen",
+	"globalblocking-blockedtext-all-wikis": "Är IP-Adress gouf op all Wiki gespaart.",
+	"globalblocking-blockedtext-on-range": "Är IP-Adress läit an engem Beräich, deen op all Wiki gespaart gouf.",
+	"globalblocking-blockedtext-ip-range": "De gespaarte Beräich ass $1.",
+	"globalblocking-blockedtext-proxy": "Déi gespaarte Proxyadress war $1.",
+	"globalblocking-blockedtext-details-queries": "Gitt wgl. bei all Ufro, déi Dir maacht, all d'Informatiounen uewe mat un."
 }

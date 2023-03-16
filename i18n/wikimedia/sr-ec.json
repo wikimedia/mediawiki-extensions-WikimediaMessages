@@ -257,5 +257,11 @@
 	"research-incentive-answer-positive": "Да",
 	"research-incentive-answer-negative": "Не",
 	"research-incentive-confirm-msg": "Хвала вам!",
-	"ipinfo-global-contributions-url-label": "Глобални доприноси"
+	"ipinfo-global-contributions-url-label": "Глобални доприноси",
+	"globalblocking-blockedtext-all-wikis": "Ваша IP адреса је блокирана на свим викијима.",
+	"globalblocking-blockedtext-on-range": "Ваша IP адреса је у опсегу који је блокиран на свим викијима.",
+	"globalblocking-blockedtext-on-proxy": "Један или више прокси сервера које користите су глобално блокирани",
+	"globalblocking-blockedtext-ip-range": "Блокирани опсег је $1.",
+	"globalblocking-blockedtext-proxy": "Блокирана прокси адреса је $1.",
+	"globalblocking-blockedtext-details-queries": "Наведите све горње податке при захтеву за деблокаду."
 }
