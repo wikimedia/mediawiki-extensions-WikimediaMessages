@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmedadeljaff"
+			"Ahmedadeljaff",
+			"MRidhaAJ"
 		]
 	},
+	"wm-license-cc-free": "تكدر",
+	"wm-license-cc-free-to-share-header": "مشاركة شغل",
+	"wm-license-cc-free-to-share-text": "نسخ وتوزيع وبث الشغل",
+	"wm-license-cc-conditions": "حسب الشروط التالية:",
 	"wm-license-cc-conditions-attribution-header": "نسب الشغل للمؤلف",
 	"wm-license-cc-conditions-share_alike-header": "شارك بالمثل"
 }

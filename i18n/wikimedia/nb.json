@@ -350,5 +350,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Denne anonyme spørreundersøkelsen utføres av Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Les mer] eller sjekk [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement personvernserklæringen].",
 	"gadget-souspages-subpages": "Undersider",
 	"ext-campaignevents-register-policy": "Ved å registrere deg samtykker du i [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkårene] og [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy personvernspolitikken].",
-	"ipinfo-global-contributions-url-label": "Bidrag globalt"
+	"ipinfo-global-contributions-url-label": "Bidrag globalt",
+	"globalblocking-blockedtext-all-wikis": "IP-adressen din er blokkert på alle wikier."
 }
