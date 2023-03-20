@@ -44,7 +44,8 @@
 			"Stang",
 			"LuciferianThomas",
 			"SunAfterRain",
-			"捍粵者"
+			"捍粵者",
+			"Tiger"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -96,7 +97,7 @@
 	"group-autopatrolled": "自動巡查員",
 	"group-autopatrolled-member": "{{GENDER:$1|自動巡查員}}",
 	"grouppage-autopatrolled": "{{ns:project}}:自動巡查員",
-	"group-autoreviewer": "自動審查員",
+	"group-autoreviewer": "巡查豁免者",
 	"group-autoreviewer-member": "{{GENDER:$1|自動審查員}}",
 	"grouppage-autoreviewer": "{{ns:project}}:自動審查員",
 	"group-bigexport": "大量匯出者",

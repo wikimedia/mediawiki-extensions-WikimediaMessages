@@ -21,7 +21,8 @@
 			"Сербијана",
 			"Kizule",
 			"Srđan",
-			"Vlad5250"
+			"Vlad5250",
+			"Zenfiric"
 		]
 	},
 	"wikimediamessages-desc": "Поруке које се односе на Викимедију",
@@ -213,7 +214,7 @@
 	"restriction-level-editeditorprotected": "заштићено (уредници)",
 	"action-editextendedsemiprotected": "уређујете странице под заштитом „{{int:protect-level-editextendedsemiprotected}}”",
 	"right-editextendedsemiprotected": "уређивање страница под заштитом „{{int:protect-level-editextendedsemiprotected}}“",
-	"protect-level-editextendedsemiprotected": "Дозвољено само аутопатролерима",
+	"protect-level-editextendedsemiprotected": "дозвољено само аутопатролерима",
 	"restriction-level-editextendedsemiprotected": "заштићено (аутоматски патролирани)",
 	"eri-rcfilters-tour-intro-welcome-title": "Представљамо побољшано филтрирање скорашњих измена",
 	"eri-rcfilters-tour-intro-welcome-description": "Прегледајте измене ефикасније користећи нове филтере, могућност да сачувате скупове филтера, кориснички дефинисано истицање и моћ машинског учења. $1",
@@ -237,7 +238,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Да ли се ова страница учитала довољно брзо?",
 	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
 	"querypage-updates-half-monthly": "Страница се ажурира двапут месечно.",
-	"protect-level-editautopatrolprotected": "Дозвољено само аутопатролерима",
+	"protect-level-editautopatrolprotected": "дозвољено само аутопатролерима",
 	"restriction-level-editautopatrolprotected": "заштићено (аутоматски патролирани)",
 	"right-editautopatrolprotected": "уређивање страница под заштитом „{{int:protect-level-editautopatrolprotected}}“",
 	"action-editautopatrolprotected": "уређујете странице под заштитом „{{int:protect-level-editautopatrolprotected}}”",

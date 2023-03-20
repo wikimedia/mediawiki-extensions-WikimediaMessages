@@ -84,7 +84,7 @@
 	"wm-license-licensing-update-text": "Ta oznaka dovoljenja je bila datoteki dodana kot del [[{{int:wm-license-licensing-update-wiki-link}}|posodobitve licence]] GFDL.",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update",
 	"wm-license-original-upload-log": "Izvorni dnevniški zapis naložitve",
-	"wm-license-own-work": "Lastno delo",
+	"wm-license-own-work": "lastno delo",
 	"wm-license-pd-author-self-text": "Jaz, imetnik avtorskih pravic na tem delu, dajem to delo v '''[[{{int:wm-license-pd-wiki-link}}|javno domeno]]'''. To velja po vsem svetu.",
 	"wm-license-pd-author-with-author-text": "To delo je dal v '''[[{{int:wm-license-pd-wiki-link}}|javno domeno]]''' njegov avtor '''$1'''. To velja po vsem svetu.",
 	"wm-license-pd-author-not-legally-possible": "V nekaterih državah to pravno morda ni mogoče. Če je tako,",

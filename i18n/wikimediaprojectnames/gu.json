@@ -4,7 +4,9 @@
 			"CptViraj"
 		]
 	},
+	"project-localized-name-advisorywiki": "સલાહકારી મંડળ",
 	"project-localized-name-amwikimedia": "વિકિમીડિયા આર્મેનિયા",
+	"project-localized-name-apiportalwiki": "વિકિમીડિયા API પ્રવેશદ્વાર",
 	"project-localized-name-arbcom_dewiki": "જર્મન વિકિપીડિયા લવાદી સમિતિ",
 	"project-localized-name-arbcom_enwiki": "અંગ્રેજી વિકિપીડિયા લવાદી સમિતિ",
 	"project-localized-name-arbcom_fiwiki": "ફિનિશ વિકિપીડિયા લવાદી સમિતિ",
@@ -124,6 +126,10 @@
 	"project-localized-name-frwikiversity": "ફ્રેન્ચ વિકિવિદ્યાલય",
 	"project-localized-name-frwikivoyage": "ફ્રેન્ચ વિકિયાત્રા",
 	"project-localized-name-frwiktionary": "ફ્રેન્ચ વિકિકોશ",
+	"project-localized-name-gawiki": "આઇરિશ વિકિપીડિયા",
+	"project-localized-name-gawikibooks": "આઇરિશ વિકિપુસ્તક",
+	"project-localized-name-gawikiquote": "આઇરિશ વિકિસૂક્તિ",
+	"project-localized-name-gawiktionary": "આઇરિશ વિકિકોશ",
 	"project-localized-name-gewikimedia": "વિકિમીડિયા સમૂદાય સભ્ય સમૂહ જ્યોર્જિયા",
 	"project-localized-name-grwikimedia": "વિકિમીડિયા સમૂદાય સભ્ય સમૂહ ગ્રીસ",
 	"project-localized-name-guwiki": "ગુજરાતી વિકિપીડિયા",
@@ -401,6 +407,7 @@
 	"project-localized-name-wikimania2016wiki": "વિકિસંમેલન ૨૦૧૬ વિકિ",
 	"project-localized-name-wikimania2017wiki": "વિકિસંમેલન ૨૦૧૭ વિકિ",
 	"project-localized-name-wikimania2018wiki": "વિકિસંમેલન ૨૦૧૮ વિકિ",
+	"project-localized-name-zh_yuewiki": "કેન્ટોનીઝ વિકિપીડિયા",
 	"project-localized-name-zhwiki": "ચાઇનીઝ વિકિપીડિયા",
 	"project-localized-name-zhwikibooks": "ચાઇનીઝ વિકિપુસ્તક",
 	"project-localized-name-zhwikinews": "ચાઇનીઝ વિકિસમાચાર",
