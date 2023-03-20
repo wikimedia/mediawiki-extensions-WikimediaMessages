@@ -424,6 +424,7 @@
 	"ext-campaignevents-registration-form-policy": "Les événements organisés ou financés par la Fondation Wikimedia doivent respecter toutes les politiques de la Fondation, y compris concernant la [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy sureté de la jeunesse].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Pour plus d’information, voyez la [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement déclaration de confidentialité] de ce sondage.",
 	"readinglists-import-app": "Pour importer cette liste de lecture, installez la dernière version de l’application Wikipédia :",
+	"readinglists-import-app-with-link": "<a href=\"$1\">Télécharger</a> et installer la dernière version de l’application Wikipédia :",
 	"readinglists-list-empty-message": "Vous pouvez importer cette liste en installant l’application Wikipédia.",
 	"research-incentive-message": "Aimeriez-vous participer à de la recherche utilisateur rémunérée pour Wikipédia ?",
 	"research-incentive-description": "Complétez le formulaire pour vous inscrire à notre liste de liste de participants. Vous serez contacté{{GENDER:||e}} périodiquement lors des opportunités de recherches rémunérées. Vous pouvez vous retirer de la liste à tout moment.",

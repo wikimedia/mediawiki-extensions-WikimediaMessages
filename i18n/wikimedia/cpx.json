@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"ChoiChong",
-			"Kahin He"
+			"Kahin He",
+			"魔琴"
 		]
 	},
 	"sitesupport": "提供",
@@ -14,8 +15,8 @@
 	"wikibase-sitelinks-wikisource": "维基文库",
 	"wikibase-sitelinks-wikivoyage": "維基導遊",
 	"wikimedia-developers": "開發者",
-	"wikimedia-globalblocking-ipblocked": "'''汝兮IP地址[[m:Special:MyLanguage/Global blocks|乞全部維基網站封鎖咯]]。'''\n\n封鎖是$1（$2）設置兮。\n原因是''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n汝現在兮IP地址是$6。\n汝提出任何問題兮時候，都請附上以上全部信息。\n\n那卜汝認爲汝可能是乞錯誤封鎖兮，汝可以佇[[m:Special:MyLanguage/No open proxies|毋通使用開放代理]]兮全域政策中央瞭解更多信息合指導。\n或者汝可以[[m:Steward requests/Global|去元維基發表複審請求]]來討論者個封鎖。",
-	"wikimedia-globalblocking-ipblocked-xff": "'''汝兮訪問請求使用兮蜀個或者幾個代理服務器兮[[m:Special:MyLanguage/Global blocks|全域封鎖]]了咯。'''\n\n封鎖是$1（$2）設置兮。\n理由是''$3''。\n\n* 封鎖開始時間：$4。\n* 封鎖結束時間：$5。\n\n兮封鎖兮代理服務器兮地址是$6。\n汝提出任何問題兮時候，都請附上以上全部信息。\n\n那卜汝認爲汝可能是兮錯誤封鎖兮，汝可以佇[[m:Special:MyLanguage/No open proxies|毋通使用開放代理]]兮全域政策中央瞭解更多信息合指導。\n或者汝可以[[m:Steward requests/Global|去元維基發表複審請求]]來討論者個封鎖。",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:globalblocking-blockedtext-all-wikis}}'''\n\n封鎖是$1（$2）設置兮。\n原因是''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n汝現在兮IP地址是$6。{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n封鎖是$1（$2）設置兮。\n理由是''$3''。\n\n* 封鎖開始時間：$4。\n* 封鎖結束時間：$5。\n\n{{int:globalblocking-blockedtext-proxy|$7}}{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "统计",
 	"wikimedia-cookiestatement": "Cookie聲明"
 }

@@ -352,5 +352,6 @@
 	"globalblocking-blockedtext-ip-range": "Le intervallo blocate es $1.",
 	"globalblocking-blockedtext-proxy": "Le adresse proxy blocate es $1.",
 	"globalblocking-blockedtext-details-queries": "Per favor include tote le detalios supra mentionate in omne correspondentia.",
-	"globalblocking-blockedtext-mistake": "Si tu crede que tu ha essite blocate per error, tu pote trovar additional information e instructiones in le politica global [[m:Special:MyLanguage/No open proxies|Nulle proxies aperte]].\nAlteremente, pro discuter le blocada per favor [[m:Steward requests/Global|invia un requesta de revision sur Meta-Wiki]]."
+	"globalblocking-blockedtext-mistake": "Si tu crede que tu ha essite blocate per error, tu pote trovar additional information e instructiones in le politica global [[m:Special:MyLanguage/No open proxies|Nulle proxies aperte]].\nAlteremente, pro discuter le blocada per favor [[m:Steward requests/Global|invia un requesta de revision sur Meta-Wiki]].",
+	"globalblocking-blockedtext-mistake-email-steward": "Tu poterea tamben inviar un e-mail al cauda [[m:Special:MyLanguage/VRT|VRT]] del [[m:Special:MyLanguage/Stewards|stewards]] a <kbd>stewards@wikimedia.org</kbd> includente tote le detalios supra mentionate."
 }

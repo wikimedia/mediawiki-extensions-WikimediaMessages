@@ -315,5 +315,7 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ano",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ne",
 	"gadget-souspages-subpages": "Podstránky",
-	"ipinfo-global-contributions-url-label": "Globální příspěvky"
+	"ipinfo-global-contributions-url-label": "Globální příspěvky",
+	"globalblocking-blockedtext-all-wikis": "Vaše IP adresa byla zablokována na všech wiki.",
+	"globalblocking-blockedtext-on-range": "Vaše IP adresa je v rozsahu, který byl zablokován na všech wiki."
 }
