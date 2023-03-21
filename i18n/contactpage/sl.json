@@ -5,6 +5,7 @@
 		]
 	},
 	"contactpage-title-requestlicense": "Obrazec za prošnjo za licenco",
+	"contactpage-pagetext-requestlicense": "Za kontakt z nami glede uporabe tržne znamke Wikimedia uporabite spodnji obrazec.",
 	"contactpage-license-request-username": "Uporabniško ime",
 	"contactpage-license-request-relevantsite": "Zadevno mesto Wikimedie (če je povezano)",
 	"contactpage-license-request-group": "Odsek Wikimedie, tematska organizacija ali uporabniška skupina in naslov (če obstaja)",
@@ -36,6 +37,8 @@
 	"contactpage-wikimedia-trademark-wikivoyage": "Wikipotovanje",
 	"contactpage-title-licenseabuse": "Obrazec za prijavo zlorabe",
 	"contactpage-license-abuse-description": "Opišite zlorabo",
+	"contactpage-license-abuse-theircontact": "Kontaktni podatki osebe, ki zlorablja znamko (če je znana)",
+	"contactpage-license-abuse-yourcontact": "Vaši kontaktni podatki (če bomo morali kontaktirati z vami)",
 	"contactpage-affcom-user-group-logo-community": "Logotip skupnosti Wikimedie",
 	"contactpage-affcom-user-group-logo-affiliate": "Logotip podružnice Wikimedie",
 	"contactpage-affcom-chapter-thorg-application-subpage-label": "'''Navedite URL-povezavo do podstrani vloge za vašo organizacijo v Meta-Wikiju'''\n\nTo je stran, ki ste jo ustvarili v 1. koraku postopka vodnika za ustvaritev podružnice/tematske organizacije",

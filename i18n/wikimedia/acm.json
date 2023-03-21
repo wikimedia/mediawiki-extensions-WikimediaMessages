@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmedadeljaff"
+			"Ahmedadeljaff",
+			"MRidhaAJ"
 		]
 	},
 	"sitesupport": "أتبرع",
 	"wikimedia-copyright": "النصوص مُرخصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nًقد تنطبق بنود أخرى أيضا.\nانظر <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
+	"wikibase-sitelinks-wikinews": "ويكي الأخبار",
+	"wikibase-sitelinks-wikiquote": "ويكي الاقتباس",
+	"wikibase-sitelinks-wikisource": "ويكي مصدر",
+	"wikibase-sitelinks-wikivoyage": "ويكي سفرات",
 	"wikimedia-developers": "مطورين",
 	"wikimedia-statslink": "احصائيات",
 	"wikimedia-cookiestatement": "بيان تعريف إلارتباطات"
