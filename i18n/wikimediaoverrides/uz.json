@@ -12,5 +12,6 @@
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" tugmasini bosish orqali siz bizning [[Special:MyLanguage/Terms_of_Use/uz|foydalanish shartlarimizga]] rozi ekanligingizni bildirasiz, jumladan kiritgan maʼlumotlaringiz [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] va [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] litsenziyalari ostida qaytarishsiz nashr etilishiga rozilik bildirasiz.",
 	"wikimedia-flow-terms-of-use-edit": "Oʻzgarishlarni saqlash orqali [https://foundation.wikimedia.org/wiki/Terms_of_Use foydalanish shartlarimizga] hamda kiritgan maʼlumotlaringiz $1 {{PLURAL:$2|litsenziyalari ostida}} qaytarishsiz nashr etilishiga rozilik bildirasiz.",
 	"wikimedia-flow-terms-of-use-summarize": "„{{int:flow-topic-action-update-topic-summary}}“ tugmasini bosish orqali [https://foundation.wikimedia.org/wiki/Terms_of_Use foydalanish shartlarimizga] hamda kiritgan maʼlumotlaringiz $1 {{PLURAL:$2|litsenziyalari ostida}} qaytarishsiz nashr etilishiga rozilik bildirasiz.",
+	"wikimedia-sitematrix": "Vikimedia vikilari roʻyxati",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Maxfiylik siyosati]"
 }
