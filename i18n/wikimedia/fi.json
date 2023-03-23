@@ -276,7 +276,5 @@
 	"readinglists-import-app": "Tuo tämä lukulista asentamalla Wikipedia-sovelluksen uusin versio ja painamalla alla olevaa \"Tuo\"-nappia.",
 	"readinglists-list-empty-message": "Voit tuoda tämän listan asentamalla Wikipedia-sovelluksen.",
 	"research-incentive-confirm-msg": "Kiitos!",
-	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset",
-	"globalblocking-blockedtext-all-wikis": "IP-osoitteesi on estetty kaikissa wikeissä.",
-	"globalblocking-blockedtext-on-range": "IP-osoitteesi on alueella, joka on estetty kaikissa wikeissä."
+	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset"
 }

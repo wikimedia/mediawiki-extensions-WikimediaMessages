@@ -302,8 +302,5 @@
 	"action-edit-legal": "uređivanje stranica s mogućim pravnim posljedicama",
 	"ipinfo-feedback-button-label": "Napišite povratnu informaciju",
 	"gadget-souspages-subpages": "Podstranice",
-	"ipinfo-global-contributions-url-label": "Globalni doprinosi",
-	"globalblocking-blockedtext-all-wikis": "Vaša IP-adresa je blokirana na svim vikijima.",
-	"globalblocking-blockedtext-on-range": "Vaša IP-adresa je u rasponu blokiran na svim vikijima.",
-	"globalblocking-blockedtext-on-proxy": "Jedan ili više proksi servera koje koristite su globalno blokirani"
+	"ipinfo-global-contributions-url-label": "Globalni doprinosi"
 }

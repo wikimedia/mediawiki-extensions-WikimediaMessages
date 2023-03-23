@@ -388,11 +388,5 @@
 	"research-incentive-answer-negative": "Não",
 	"research-incentive-privacy": "Veja nossa política de privacidade e saiba mais sobre nosso programa de pesquisa [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program aqui].",
 	"research-incentive-confirm-msg": "Obrigado!",
-	"ipinfo-global-contributions-url-label": "Contribuições globais",
-	"globalblocking-blockedtext-all-wikis": "Seu endereço IP foi bloqueado em todas as wikis.",
-	"globalblocking-blockedtext-on-range": "Seu endereço IP está em uma faixa que foi bloqueada em todas as wikis.",
-	"globalblocking-blockedtext-on-proxy": "Um ou mais servidores proxy usados no seu pedido foram bloqueados globalmente.",
-	"globalblocking-blockedtext-ip-range": "A extensão do bloqueio é de $1.",
-	"globalblocking-blockedtext-proxy": "O endereço proxy bloqueado era $1.",
-	"globalblocking-blockedtext-details-queries": "Inclua todos os detalhes acima em quaisquer consultas que fizer, por favor."
+	"ipinfo-global-contributions-url-label": "Contribuições globais"
 }

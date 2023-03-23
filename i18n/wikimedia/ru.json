@@ -365,6 +365,5 @@
 	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
 	"gadget-souspages-subpages": "Подстраницы",
-	"ipinfo-global-contributions-url-label": "Глобальный вклад",
-	"globalblocking-blockedtext-proxy": "Заблокированный прокси-адрес был $1."
+	"ipinfo-global-contributions-url-label": "Глобальный вклад"
 }

@@ -17,7 +17,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Sɩngreba",
-	"wikimedia-globalblocking-ipblocked": "\n\n'''{{int:globalblocking-blockedtext-all-wikis}}'''\n\nGɩdbo maana ni $1 ($2).\nBʋʋm yaa ''$3''.\n\n*Gɩdbo sɩngre ne: $4\n*Gɩdbo wakate looga ne: $5\nFo IP aderse nɩng fo sĩ tara masã ya $6.\n{{int:globalblocking-blockedtext-details-queries}}  \n\n{{int: globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "\n\n'''{{int: Wikiedia-globalblocking-blockedtext-all-wikis}}'''\n\nGɩdbo maana ni $1 ($2).\nBʋʋm yaa ''$3''.\n\n*Gɩdbo sɩngre ne: $4\n*Gɩdbo wakate looga ne: $5\n\n\nFo IP aderse nɩng fo sĩ tara masã ya $6.\n{{int:globalblocking-blockedtext-details-queries}}  \n\n{{int: wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int: wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nGɩdbo maana ni $1 ($2).\nBʋʋm yaa ne ''$3''.\n\n*Gɩdbo sɩngre: $4\n*Gɩdbo wakate looga: $5 \n\n{{int: globalblocking-blockedtext-proxy|$7}}\n{{int:globalblocking-blockedtext-details-queries}}\n\n{{int: globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Geelgo",
 	"wikimedia-cookiestatement": "Sɩlme gʋlsgo"

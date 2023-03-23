@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ansumang",
+			"Chinmayee Mishra",
 			"Hellohappy",
 			"Jnanaranjan Sahu",
 			"Jose77",
@@ -117,7 +118,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:ଅନୁବାଦ ପରିଚାଳକଗଣ",
 	"wikimedia-copyright": "ଏହି ଲେଖା <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> କ୍ରିଏଟିଭ କମନ୍ସ ଆଟ୍ରିବୁସନ/ସେଆର ଏଲାଇକ ଲାଇସେନ୍ସ</a>ରେ ରଖାଯାଇଛି;\nଆହୁରି କିଛି ନୀତି ମଧ୍ୟ ଥାଇପାରେ ।\nଅଧିକ ଜାଣିବା ପାଇଁ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ବ୍ୟବହାର କରିବାର ନିୟମ ସବୁ</a> ଦେଖନ୍ତୁ ।",
 	"wikidata-copyright": "ମୁଖ୍ୟ ଏବଂ ସ୍ଵତ୍ତ୍ଵାଧିକାର ଥିବା ନେମସ୍ପେସରୁ ଆସିଥିବା ସମସ୍ତ ତଥ୍ୟ <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0 License</a> ଅଧୀନରେ ଉପଲବ୍ଧ;\nଏହା ଭିନ୍ନ ଅନ୍ୟାନ୍ୟ ନେମସ୍ପେସରେ ଥିବା ଲେଖାମାନ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Creative Commons Attribution-ShareAlike License</a> ଅଧୀନରେ ଉପଲବ୍ଧ;\nଅଧିକ ସର୍ତ୍ତାବଳୀ ଲାଗୁହୋଇପାରେ ।\nଅଧିକ ବିବରଣୀ ପାଇଁ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">ବ୍ୟବହାର ସର୍ତାବଳୀ</a> ଦେଖନ୍ତୁ ।",
-	"wikimedia-copyrightwarning": "\"{{int:savearticle}}\" ବଦଳଗୁଡିକୁ ସାଇତି ଆପଣ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ସିଧାସଳଖ ନିଜ ଅବଦାନ [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 ଲାଇସେନ୍ସ] ଏବଂ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]ରେ ଦାନ କଲେ । ଏକ ହାଇପରଲିଙ୍କ ବା URL Creative Commons ଲାଇସେନ୍ସ ଅଧୀନରେ ସ୍ୱତ୍ୱ ପାଇଁ ଯଥେଷ୍ଟ ବୋଲି ଆପଣ ସହମତ ।",
+	"wikimedia-copyrightwarning": "\"{{int:savearticle}}\" ବଦଳଗୁଡିକୁ ସାଇତି ଆପଣ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ବ୍ୟବହାର ନୀତି] ମାନିଲେ ଓ ସିଧାସଳଖ ନିଜ ଅବଦାନ [https://creativecommons.org/licenses/by-sa/3.0/ CC-BY-SA 3.0 ଲାଇସେନ୍ସ] ଏବଂ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]ରେ ଅବଦାନ କଲେ । ଏକ ହାଇପରଲିଙ୍କ ବା URL Creative Commons ଲାଇସେନ୍ସ ଅଧୀନରେ ସ୍ୱତ୍ୱ ପାଇଁ ଯଥେଷ୍ଟ ବୋଲି ଆପଣ ସହମତ ।",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ସ୍ଵାଗତ}} $1!",
 	"wikibase-repo-name": "ଉଇକିଡାଟା",
 	"wikibase-sitelinks-wikibooks": "ଉଇକିପୋଥି",

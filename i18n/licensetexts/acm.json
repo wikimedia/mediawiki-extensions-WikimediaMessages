@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmedadeljaff"
+			"Ahmedadeljaff",
+			"MRidhaAJ"
 		]
 	},
 	"wm-license-information-description": "وصف",
 	"wm-license-information-source": "الكود",
 	"wm-license-information-date": "الزمن",
-	"wm-license-information-author": "مؤلف"
+	"wm-license-information-author": "مؤلف",
+	"wm-license-information-permission": "الترخيص",
+	"wm-license-information-permission-reusing-text": "إعادة استخدام هاذ الملف",
+	"wm-license-own-work": "شغل شخصي"
 }

@@ -10,7 +10,7 @@
 			"דגש חזק"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "{{PLURAL:$1|מבקר בוויקי הזה שהשתמש בכתובת ה־IP שלך יצר חשבון|מבקרים בוויקי הזה שהשתמשו בכתובת ה־IP שלך יצרו $1 חשבונות}} ביום האחרון, וזה המספר המרבי המותר בזמן הזה.\nכתוצאה מזה, לא ניתן להשתמש בכתובת ה־IP הזאת ליצירת חשבונות נוספים.\n\nאם הגעת להשתתף באירוע שמתמקד בתרומה למיזמי ויקימדיה, ר' את הדף [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], שיכול לעזור לתקן את הבעיה.",
+	"wikimedia-acct_creation_throttle_hit": "{{PLURAL:$1|מבקר בוויקי הזה שהשתמש בכתובת ה־IP שלך יצר חשבון|מבקרים בוויקי הזה שהשתמשו בכתובת ה־IP שלך יצרו $1 חשבונות}} במהלך היום האחרון, וזה המספר המרבי המותר בזמן הזה.\nכתוצאה מזה, לא ניתן להשתמש בכתובת ה־IP הזאת ליצירת חשבונות נוספים.\n\nאם הגעת להשתתף באירוע שמתמקד בתרומה למיזמי ויקימדיה, ר' את הדף [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], שיכול לעזור לתקן את הבעיה.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "{{GENDER:|אתה יכול|את יכולה}} לבקר בדף ההעדפות שלך ב[[m:Special:CentralAuth/$1|אתרי ויקימדיה אחרים שתרמת להם]] כדי להוריד את נתוני החשבון שלך מהמיזמים האלה.",
 	"wikimedia-createacct-imgcaptcha-help": "לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]",
@@ -57,5 +57,7 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "שרת מתווך (פרוקסי) אחד או יותר ששימש בבקשה שלך [[m:Special:MyLanguage/Global blocks|חסום גלובלית]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "הטווח החסום הוא $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "כתובת השרת המתווך התזונה היא $1.",
-	"wikimedia-globalblocking-blockedtext-details-queries": "יש לציין את כל הפרטים האלה בכל פנייה לבירור החסימה."
+	"wikimedia-globalblocking-blockedtext-details-queries": "יש לציין את כל הפרטים האלה בכל פנייה לבירור החסימה.",
+	"wikimedia-globalblocking-blockedtext-mistake": "אם נראה לך שנחסמת בטעות, אפשר למצוא מידע נוסף והוראות בדף המדיניות הגלובלי [[m:Special:MyLanguage/No open proxies|No open proxies]].\nמלבד זאת, נא לדון בחסימה על־ידי [[m:Steward requests/Global|שליחת בקשה לביקורת באתר מטא]].",
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "אפשר גם לשלוח מכתב בדואר אלקטרוני לתור ה־[[m:Special:MyLanguage/VRT|VRT]] של ה[[m:Special:MyLanguage/Stewards|דיילים]] בכתובת <kbd>stewards@wikimedia.org</kbd> ולכלול בו את כל הפרטים לעיל."
 }

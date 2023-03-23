@@ -189,6 +189,7 @@
 	"createacct-captcha-help-url": "{{ns:Project}}:Request an account",
 	"wikimedia-developers": "За програмере",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:globalblocking-blockedtext-all-wikis}}'''\n\nБлокирао/ла Вас је $1 ($2).\nРазлог: ''$3''.\n\n* Почетак блокаде: $4\n* Крај блокаде: $5\n\nВаша тренутна IP адреса је $6.\n{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-range": "'''{{int:globalblocking-blockedtext-on-range}}'''\n\nБлокирао/ла Вас је $1 ($2).\nРазлог ''$3''.\n\n* Почетак блокаде: $4\n* Крај блокаде: $5\n\nВаша тренутна IP адреса је $6. {{int:globalblocking-blockedtext-ip-range|$7}} {{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}} {{int:globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокирао/ла Вас је $1 ($2).\nРазлог: ''$3''.\n\n* Почетак блокаде: $4\n* Крај блокаде: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
 	"grant-checkuser": "приступ подацима чекјузера",
 	"upload-form-label-own-work-message-commons": "Потврђујем да поседујем ауторска права за ову датотеку и слажем се да је неопозиво објавим на Викимедијиној остави под лиценцом [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Ауторство-Делити под истим условима 4.0] и прихватам [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења].",
@@ -257,12 +258,5 @@
 	"research-incentive-answer-positive": "Да",
 	"research-incentive-answer-negative": "Не",
 	"research-incentive-confirm-msg": "Хвала вам!",
-	"ipinfo-global-contributions-url-label": "Глобални доприноси",
-	"globalblocking-blockedtext-all-wikis": "Ваша IP адреса је блокирана на свим викијима.",
-	"globalblocking-blockedtext-on-range": "Ваша IP адреса је у опсегу који је блокиран на свим викијима.",
-	"globalblocking-blockedtext-on-proxy": "Један или више прокси сервера које користите су глобално блокирани",
-	"globalblocking-blockedtext-ip-range": "Блокирани опсег је $1.",
-	"globalblocking-blockedtext-proxy": "Блокирана прокси адреса је $1.",
-	"globalblocking-blockedtext-details-queries": "Наведите све горње податке при захтеву за деблокаду.",
-	"globalblocking-blockedtext-mistake": "Ако сматрате да сте блокирани грешком, можете да пронађете више информација и упутства на страници [[m:Special:MyLanguage/No open proxies|без отворених проксија]] — глобално правило.\nУ супротном, како бисте разговарали о блокади, [[m:Steward requests/Global|поднесите захтев на Метавикију]]."
+	"ipinfo-global-contributions-url-label": "Глобални доприноси"
 }
