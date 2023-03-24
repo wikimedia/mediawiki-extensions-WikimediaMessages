@@ -4,13 +4,13 @@
 			"भारत्पराक्रमि"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "इस दस्तावेज़ को [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] द्वारा प्रकाशित '''[[{{int:wm-license-gfdl-wiki-link}}|GNU मुक्त प्रलेख लाइसेंस]]''' के संस्करण 1.2 या नए (बिना किसी अपरिवर्तनीय अनुभागों और अगले या पिछले आवरण के टेक्स्ट के) के अंतर्गत प्रतिलिपि बनाने, बाँटने और/या बदलने की अनुमति प्रदान की जाती है। इस लाइसेंस की एक प्रतिलिपि ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU मुक्त प्रलेख लाइसेंस]]'' नामक अनुभाग में शामिल है।",
+	"wm-license-gfdl-1.2-and-later": "इस दस्तावेज़ नै [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] द्वारा प्रकाशित '''[[{{int:wm-license-gfdl-wiki-link}}|GNU मुक्त प्रलेख लाइसेंस]]''' के संस्करण 1.2 या नया (बिन किसी अपरिवर्तनीय अनुभागों ऐवं अगळा या पिछला आवरण के लेख के) के अंतर्गत नकल बनान, बाँटन और/या बदलन की अनुमति दी जावै सै। ऐं लाइसेंस की एक नकल ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU मुक्त प्रलेख लाइसेंस]]'' नाम को अनुभाग मै शामिल सै।",
 	"wm-license-information-description": "विवरण",
 	"wm-license-information-source": "स्रोत",
 	"wm-license-information-date": "तारीख़",
 	"wm-license-information-author": "लेखक",
 	"wm-license-information-permission": "अनुमति",
-	"wm-license-information-permission-reusing-text": "इस फाइल को पुनः उपयोग करना",
-	"wm-license-own-work": "अपनो काम",
-	"wm-license-self-multiple-licenses-select": "अपनी पसंद को लाइसेंस चुन सको सो।"
+	"wm-license-information-permission-reusing-text": "इस फाइल को दोबारा सी इस्तेमाल करणो",
+	"wm-license-own-work": "निजी काम",
+	"wm-license-self-multiple-licenses-select": "अपनी पसंद को लाइसेंस छांट सको सो।"
 }

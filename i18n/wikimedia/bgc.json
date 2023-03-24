@@ -4,7 +4,7 @@
 			"भारत्पराक्रमि"
 		]
 	},
-	"sitesupport": "दान करैं",
+	"sitesupport": "दान-पेटी",
 	"wikimedia-copyright": "लेख <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">क्रिएटिव कॉमन्स ऐट्रिब्यूशन-शेयरअलाइक लाइसेंस</a> के अंतर्गत उपलब्ध सै; अतिरिक्त शर्तें लागू हो सकीं शीं।\nऔर जानकारी खातर <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">उपयोग की शर्तां नै</a> देखें।",
 	"wikimedia-copyrightwarning": "बदलाव सहेजना पै थम [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use उपयोग की शर्तें] मानन नै बाध्य सो, और थम थारा योगदान [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0 लाइसेंस] और [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] के अंतर्गत अपरिवर्तनीय रूप सी जारी करन खातर स्वीकार करो सो।\nथं यो भी स्वीकार करो सो कि एक हाइपरलिंक या URL क्रिएटिव कॉमन्स लाइसेंस के अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) सै।",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
@@ -15,5 +15,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''Your IP address has been [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-statslink": "सांख्यिकी",
-	"wikimedia-cookiestatement": "कुकी विवरण"
+	"wikimedia-cookiestatement": "कुकी बयान"
 }
