@@ -269,5 +269,6 @@
 	"wikimedia-cookiestatement": "Evästekäytäntö",
 	"ext-quicksurveys-performance-internal-survey-question": "Latautuiko tämä sivu tarpeeksi nopeasti?",
 	"group-oathauth-tester": "Kaksivaiheisen tunnistautumisen kokeilijat",
-	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}"
+	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
+	"right-docseditor": "Muokata ohjeistusta"
 }

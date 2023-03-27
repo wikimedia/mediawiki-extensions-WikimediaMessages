@@ -10,7 +10,7 @@
 			"דגש חזק"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "{{PLURAL:$1|מבקר בוויקי הזה שהשתמש בכתובת ה־IP שלך יצר חשבון|מבקרים בוויקי הזה שהשתמשו בכתובת ה־IP שלך יצרו $1 חשבונות}} ביום האחרון, וזה המספר המרבי המותר בזמן הזה.\nכתוצאה מזה, לא ניתן להשתמש בכתובת ה־IP הזאת ליצירת חשבונות נוספים.\n\nאם הגעת להשתתף באירוע שמתמקד בתרומה למיזמי ויקימדיה, ר' את הדף [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], שיכול לעזור לתקן את הבעיה.",
+	"wikimedia-acct_creation_throttle_hit": "{{PLURAL:$1|מבקר בוויקי הזה שהשתמש בכתובת ה־IP שלך יצר חשבון|מבקרים בוויקי הזה שהשתמשו בכתובת ה־IP שלך יצרו $1 חשבונות}} במהלך היום האחרון, וזה המספר המרבי המותר בזמן הזה.\nכתוצאה מזה, לא ניתן להשתמש בכתובת ה־IP הזאת ליצירת חשבונות נוספים.\n\nאם הגעת להשתתף באירוע שמתמקד בתרומה למיזמי ויקימדיה, ר' את הדף [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], שיכול לעזור לתקן את הבעיה.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]",
 	"wikimedia-createacct-imgcaptcha-help": "לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]",
 	"wikimedia-centralauth-login-error-locked": "<strong>החשבון הזה [[m:Special:MyLanguage/Global locks|נעול באופן גלובלי]].</strong> לא {{GENDER:$1|תוכל|תוכלי}} להיכנס לשום אתר ויקי של ויקימדיה. נא [[m:Special:Contact/stewards|ליצור קשר עם הדיילים]] אם יש לך שאלות.",

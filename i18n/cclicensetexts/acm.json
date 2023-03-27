@@ -5,10 +5,15 @@
 			"MRidhaAJ"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "هذا الملفُّ مُرخَّص بموجب رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع الإبداعي]] [https://creativecommons.org/licenses/by-sa/3.0/ نسبة المُصنَّف إِلى مُؤَلِّفه - المشاركة بالمثل 3.0 العامة]",
 	"wm-license-cc-free": "تكدر",
 	"wm-license-cc-free-to-share-header": "مشاركة شغل",
 	"wm-license-cc-free-to-share-text": "نسخ وتوزيع وبث الشغل",
+	"wm-license-cc-free-to-remix-header": "إعادة إنتاج الشغل",
+	"wm-license-cc-free-to-remix-text": "تعديل الشغل",
 	"wm-license-cc-conditions": "حسب الشروط التالية:",
 	"wm-license-cc-conditions-attribution-header": "نسب الشغل للمؤلف",
-	"wm-license-cc-conditions-share_alike-header": "شارك بالمثل"
+	"wm-license-cc-conditions-attribution-text": "لازم تنسب الشغل للي سواه بشكل مناسب وتوفر رابط للرخصة وتحدد خاف إذا سويت تغييرات. تكدر تسوي هيج بأي طريقة معقولة، بس مو بأي طريقة تشير المرخص يوافقك عالإستعمال.",
+	"wm-license-cc-conditions-share_alike-header": "شارك بالمثل",
+	"wm-license-cc-conditions-share_alike-text": "إذا أعدت إنتاج المواد لو غيرت بيها، لازم تنشر مساهماتك المشتقة من الأصل[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses جوا ترخيص الأصل نفسه] لو جوا ترخيص متوافق وياه."
 }
