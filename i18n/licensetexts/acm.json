@@ -1,11 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmedadeljaff"
+			"Ahmedadeljaff",
+			"MRidhaAJ"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "يسمح نسخ وتوزيع و/أو تعديل هذه الوثيقة تحت شروط '''[[{{int:wm-license-gfdl-wiki-link}}|رخصة جنو للوثائق الحرة]]'''، الإصدار 1.2 أو أي إصدار لاحق تنشره [[{{int:wm-license-fsf-wiki-link}}|مؤسسة البرمجيات الحرة]]؛ دون أقسام ثابتة ودون نصوص أغلفة أمامية ودون نصوص أغلفة خلفية. نسخة من الرخصة تم تضمينها في القسم المسمى ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "وصف",
 	"wm-license-information-source": "الكود",
 	"wm-license-information-date": "الزمن",
-	"wm-license-information-author": "مؤلف"
+	"wm-license-information-author": "مؤلف",
+	"wm-license-information-permission": "الترخيص",
+	"wm-license-information-permission-reusing-text": "إعادة استخدام هاذ الملف",
+	"wm-license-own-work": "شغل شخصي",
+	"wm-license-self-multiple-licenses-select": "تكدر تختار الرخصة اللي تناسبك."
 }

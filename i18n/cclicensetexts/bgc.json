@@ -6,14 +6,14 @@
 	},
 	"wm-license-cc-attribution": "गुणारोपण",
 	"wm-license-cc-by-sa-3.0-text": "इस फाईल नै [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en एट्रीब्यूशन-Share Alike 3.0 Unported] लाइसेंस के अंतर्गत लाइसेंस कियो जावै सै।",
-	"wm-license-cc-free": "थम खुलकर:",
-	"wm-license-cc-free-to-share-header": "बाँट सका सां",
-	"wm-license-cc-free-to-share-text": "रचना की प्रति बनान के लिये, बाँँटने के लिये और संचारित करने के लिये",
-	"wm-license-cc-free-to-remix-header": "रीमिक्स कर सका सां",
-	"wm-license-cc-free-to-remix-text": "काम अनुकूलित करन के लिये",
-	"wm-license-cc-conditions": "निम्नलिखित शर्तों के अंतर्गत:",
+	"wm-license-cc-free": "थम बिना रोक-टोक कै:",
+	"wm-license-cc-free-to-share-header": "बाँटण खातिर",
+	"wm-license-cc-free-to-share-text": "रचना की नकल बनान, बाँँटण एवं संचारित करन खातिर",
+	"wm-license-cc-free-to-remix-header": "कैसे भी बदलण खातिर",
+	"wm-license-cc-free-to-remix-text": "काम अपने हिसाब से ढालण खातर",
+	"wm-license-cc-conditions": "निम्नलिखित शर्तां कै अंतर्गत:",
 	"wm-license-cc-conditions-attribution-header": "गुणारोपण",
-	"wm-license-cc-conditions-attribution-text": "यो अनिवार्य सै कि आप यथोचित श्रेय दें, लाइसेंस की कड़ी दें, और अगर कोई बदलाव होवै सै तो उन्हें इंगित करें। आप ऐसो किसी भी उपयुक्त तरीका सी कर सको सो लेकिन किसी भी तरीका सी यो ज़ाहिर ना होनाो चाहिए कि लाइसेंसधारी द्वारा आप को अथवा आपके इस प्रयोग को अनुमोदित कियो जा रहो सै।",
-	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "अगर आप इस रचना में कोई बदलाव करो सा या इसपर आधारित कुछ रचित करो सो  तो आप अपने योगदान नै सिर्फ [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses इसी या इसके सामान किसी लाइसेंस] के अंतर्गत बाँट सको सो।"
+	"wm-license-cc-conditions-attribution-text": "यो अनिवार्य सै कि आप उचित श्रेय देवें, लाइसेंस की कड़ी देवें, और अगर कोई बदलाव होवै सै तो उन्नै दिखलाऐं। आप इसो किसी भी तर्कपूर्ण तरीका सी कर सको सो लेकिन यो ज़ाहिर ना होनाो चहिए कि लाइसेंसधारी सी आपनै या आपके इस इस्तेमाल को अनुमोदित कियो गयो सै।",
+	"wm-license-cc-conditions-share_alike-header": "ठीक वैसे ही संचारित करण",
+	"wm-license-cc-conditions-share_alike-text": "अगर आप इस रचना में कोई बदलाव करो सा या इसपै आधारित कुछ रचित करो सो  तो आप अपने योगदान नै केवल [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses इसी या ऐंकै सामान किसी लाइसेंस] के अंतर्गत बाँट सको सो।"
 }
