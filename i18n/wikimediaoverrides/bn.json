@@ -7,7 +7,9 @@
 			"SaldırganSincap",
 			"Sohom Datta",
 			"ZI Jony",
-			"আফতাবুজ্জামান"
+			"আফতাবুজ্জামান",
+			"MdsShakil",
+			"আজিজ"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "আপনার আইপি ঠিকানা ব্যবহার করে গতকাল এই উইকির পরিদর্শকেরা {{PLURAL:$1|১টি অ্যাকাউন্ট|$1টি অ্যাকাউন্ট}} তৈরি করেছেন, যা এই সময়সীমার মধ্যে সর্বোচ্চ সংখ্যক।\nফলে, এই আইপি ঠিকানা ব্যবহার করে এই মুহূর্তে পরিদর্শকেরা আর কোনো অ্যাকাউন্ট তৈরি করতে পারবেন না।\n\nআপনি যদি এমন কোন ইভেন্টে থাকেন যার মূল উদ্দেশ্য উইকিমিডিয়া প্রকল্পে অবদান রাখা নিয়ে আলোকপাত করা, তাহলে এই সমস্যাটির সমাধান করতে দয়া করে [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|অস্থায়ীভাবে আইপি ক্যাপ অপসারণের অনুরোধ]] দেখুন।",
@@ -17,6 +19,7 @@
 	"wikimedia-centralauth-groupname": "উইকিমিডিয়া ফাউন্ডেশন",
 	"wikimedia-centralauth-login-error-locked": "<strong>এই অ্যাকাউন্টটি [[m:Special:MyLanguage/Global locks|বৈশ্বিকভাবে তালাবদ্ধ]]।</strong> {{GENDER:$1|আপনি}} কোনও উইকিমিডিয়ার উইকিতে প্রবেশ করতে সক্ষম হবেন না। {{GENDER:$1|আপনার}} কোনও প্রশ্ন থাকলে, দয়া করে [[m:Special:Contact/stewards|স্টুয়ার্ডদের]] সাথে যোগাযোগ করুন।",
 	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি",
+	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 বৈশ্বিক অবদান] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} পরীক্ষণ] • [{{fullurl:Special:Block/$1}} স্থানীয় বাধা] বা [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 বৈশ্বিক বাধা] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 হুইজ] • [//whatismyipaddress.com/ip/$1 ভূ-অবস্থান] • [//ipcheck.toolforge.org/index.php?ip=$1 প্রক্সি নির্দেশক পরীক্ষা] • [//meta.toolforge.org/stalktoy/$1 স্টকটয়]&#93;</span>",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান $2-এর {{PLURAL:$3|অধীনে}} প্রকাশ করতে সম্মত হচ্ছেন।",
 	"wikimedia-feedback-termsofuse": "আমি <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/bn\" target=\"_blank\">ব্যবহারের শর্তাবলী</a> মেনে প্রতিক্রিয়া প্রদান করতে সম্মত হচ্ছি।",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান $1-এর {{PLURAL:$2|অধীনে}} প্রকাশ করতে সম্মত হচ্ছেন।",

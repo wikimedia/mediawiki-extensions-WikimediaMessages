@@ -20,7 +20,11 @@
 			"Yahya",
 			"Zaheen",
 			"আফতাবুজ্জামান",
-			"মোঃ মারুফ হাসান24"
+			"মোঃ মারুফ হাসান24",
+			"Aishik Rehman",
+			"DDesouza",
+			"Scblr",
+			"আজিজ"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -85,6 +89,8 @@
 	"group-eventcoordinator-member": "{{GENDER:$1|ইভেন্ট সমন্বয়কারী}}",
 	"grouppage-eventcoordinator": "{{ns:project}}:ইভেন্ট সমন্বয়কারী",
 	"group-eventparticipant": "ইভেন্ট অংশগ্রহণকারী",
+	"group-eventparticipant-member": "{{GENDER:$1|ইভেন্ট অংশগ্রহণকারী}}",
+	"grouppage-eventparticipant": "{{ns:project}}:ইভেন্ট অংশগ্রহণকারী",
 	"group-extendedconfirmed": "সম্প্রসারিত নিশ্চিতকৃত ব্যবহারকারীগণ",
 	"group-extendedconfirmed-member": "{{GENDER:$1|সম্প্রসারিত নিশ্চিতকৃত ব্যবহারকারীগণ}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:সম্প্রসারিত নিশ্চিতকৃত ব্যবহারকারীগণ",

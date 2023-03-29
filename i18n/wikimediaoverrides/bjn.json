@@ -4,6 +4,7 @@
 			"Ezagren"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|('''baca kabijakan ngaran pamakai''' gasan mahindari paulahan ngaran nang ditangati)]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-discussiontools-replywidget-terms-click": "Lawan manikin \"$1\", Pian hakun pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Katantuan Pamakaian] kami wan Pian tatap hakun malapas naskah Pian di {{PLURAL:$3|bawah}} $2.",
 	"wikimedia-flow-terms-of-use-new-topic": "Lawan manikin \"{{int:flow-newtopic-save}}\", Pian hakun pada [https://foundation.wikimedia.org/wiki/Terms_of_Use Katantuan Pamakaian] kami wan Pian tatap hakun malapas naskah Pian di {{PLURAL:$2|bawah}} $1.",

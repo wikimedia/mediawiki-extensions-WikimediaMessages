@@ -267,7 +267,7 @@
 	"eri-rcfilters-tour-highlight-button": "OK, ho capito",
 	"eri-rcfilters-tour-confirm-title": "I nuovi filtri ora sono attivi",
 	"eri-rcfilters-tour-confirm-description": "Puoi accedere alla <strong>pagina delle funzionalità sperimentali</strong> per fornire commenti o disattivare la funzionalità.",
-	"wikimedia-centralauth-contribs-locked": "Questo utente è lockato globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
+	"wikimedia-centralauth-contribs-locked": "L'accesso di questo utente è impedito globalmente.\nVedi i [[m:Special:CentralAuth/$1|dettagli dell'utenza globale]] per ulteriori informazioni.",
 	"securepoll-dblist-securepollglobal": "Elezione del Consiglio",
 	"wikimedia-statslink": "Statistiche",
 	"wikimedia-cookiestatement": "Dichiarazione sui cookie",
