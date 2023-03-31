@@ -57,7 +57,6 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "שרת מתווך (פרוקסי) אחד או יותר ששימש בבקשה שלך [[m:Special:MyLanguage/Global blocks|חסום גלובלית]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "הטווח החסום הוא $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "כתובת השרת המתווך התזונה היא $1.",
-	"wikimedia-globalblocking-blockedtext-details-queries": "יש לציין את כל הפרטים האלה בכל פנייה לבירור החסימה.",
 	"wikimedia-globalblocking-blockedtext-mistake": "אם נראה לך שנחסמת בטעות, אפשר למצוא מידע נוסף והוראות בדף המדיניות הגלובלי [[m:Special:MyLanguage/No open proxies|No open proxies]].\nמלבד זאת, נא לדון בחסימה על־ידי [[m:Steward requests/Global|שליחת בקשה לביקורת באתר מטא]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "אפשר גם לשלוח מכתב בדואר אלקטרוני לתור ה־[[m:Special:MyLanguage/VRT|VRT]] של ה[[m:Special:MyLanguage/Stewards|דיילים]] בכתובת <kbd>stewards@wikimedia.org</kbd> ולכלול בו את כל הפרטים לעיל."
 }

@@ -38,7 +38,6 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Један или више прокси сервера које користите су [[m:Special:MyLanguage/Global blocks|блокирани на свим викијим]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Блокирани опсег је $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Блокирана прокси адреса је $1.",
-	"wikimedia-globalblocking-blockedtext-details-queries": "Наведите све горње податке при захтеву за деблокаду.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Ако мислите да сте грешком блокирани додатне информације можете наћи на [[m:Special:MyLanguage/No open proxies|без отворених проксија]].\nЗа деблокаду поставите [[m:Steward requests/Global|захтев на Метавикију]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Можете такође послати мејл [[m:Special:MyLanguage/Stewards|стјуардима]] [[m:Special:MyLanguage/VRT|VRT]]-а на <kbd>stewards@wikimedia.org</kbd>; обавезно наведите све горње податке."
 }

@@ -45,7 +45,6 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "আপনার অনুরোধের দ্বারা ব্যবহৃত এক বা একাধিক প্রক্সি সার্ভারকে [[m:Special:MyLanguage/Global blocks|বৈশ্বিকভাবে বাধা প্রদান করা হয়েছে]]।",
 	"wikimedia-globalblocking-blockedtext-ip-range": "অবরুদ্ধ পরিসীমাটি হচ্ছে $1।",
 	"wikimedia-globalblocking-blockedtext-proxy": "বাধা দেওয়া প্রক্সির ঠিকানা হলো $1।",
-	"wikimedia-globalblocking-blockedtext-details-queries": "দয়া করে আপনার যে কোনও প্রশ্নে উপরের সমস্ত বিবরণ অন্তর্ভুক্ত করুন।",
 	"wikimedia-globalblocking-blockedtext-mistake": "আপনি যদি মনে করেন যে আপনাকে ভুলবশত বাধা প্রদান করা হয়েছে, তবে আপনি [[m:Special:MyLanguage/No open proxies|কোনও উন্মুক্ত প্রক্সি নয়]] নামক বৈশ্বিক নীতিমালার পাতায় অতিরিক্ত তথ্য এবং নির্দেশাবলী খুঁজে পেতে পারেন।\n\nঅন্যথায়, এই বাধাটি নিয়ে আলোচনা করতে দয়া করে [[m:Steward requests/Global|মেটা-উইকিতে পুনঃপর্যালোচনার অনুরোধ করুন]]।",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "এছাড়া আপনি উপরের সমস্ত বিবরণ অন্তর্ভুক্ত করে <kbd>stewards@wikimedia.org</kbd> ঠিকানায় [[m:Special:MyLanguage/Stewards|স্টুয়ার্ডদের]] [[m:Special:MyLanguage/VRT|ভিআরটি]] সারিতে একটি ই-মেইল প্রেরণ করতে পারেন।"
 }

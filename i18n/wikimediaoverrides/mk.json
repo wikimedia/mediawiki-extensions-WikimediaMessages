@@ -52,7 +52,6 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Еден или повеќе застапнички опслужувачи кои ги користите се [[m:Special:MyLanguage/Global blocks|глобално блокирани]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Блокираниот опсег е $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Блокираната застапничка адреса е $1.",
-	"wikimedia-globalblocking-blockedtext-details-queries": "Вклучете ги сите горенаведени поединости кога се обраќате.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Ако сметате дека сте блокирани по грешка, дополнителни информации и напатствија ќе најдете во глобалното правило [[m:Special:MyLanguage/No open proxies|Без отворени застапници]].\nВо спротивно, за да поразговарате за блокот, [[m:Steward requests/Global|поднесете барање за разгледување на Мета]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Можете и да пишете на [[m:Special:MyLanguage/VRT|VRT]]-редицата на [[m:Special:MyLanguage/Stewards|надзорниците]] на <kbd>stewards@wikimedia.org</kbd>, притоа вклучувајќи ги сите гореспоменати поединости."
 }

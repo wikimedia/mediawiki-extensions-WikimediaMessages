@@ -59,7 +59,6 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Co najmniej jeden serwer proxy użyty do obsługi Twojego żądania został [[m:Special:MyLanguage/Global blocks|globalnie zablokowany]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Zablokowany zakres to $1 .",
 	"wikimedia-globalblocking-blockedtext-proxy": "Zablokowany adres proxy to $1.",
-	"wikimedia-globalblocking-blockedtext-details-queries": "Prosimy o dołączenie wszystkich powyższych informacji we wszelkich zapytaniach.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Jeśli uważasz, że zostałeś zablokowany przez pomyłkę, możesz znaleźć dodatkowe informacje i instrukcje w globalnej polityce [[m:Special:MyLanguage/No open proxies|No open proxies]].\nAby zakwestionować lub omówić blokadę, proszę [[m:Steward requests/Global|wysłać prośbę o jej weryfikację na Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Możesz również wysłać e-mail do kolejki [[m:Special:MyLanguage/VRT|VRT]] [[m:Special:MyLanguage/Stewards|stewardów]] na adres <kbd>stewards@wikimedia.org</kbd>, podając wszystkie powyższe szczegóły."
 }
