@@ -61,5 +61,5 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "Der gesperrte Bereich ist $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Die gesperrte Proxyadresse war $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Wenn du glaubst, dass die Sperre ein Fehler ist, kannst du zusätzliche Informationen und Hilfestellungen in der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finden.\nAnderenfalls stelle bitte [[m:Steward requests/Global|eine Anfrage im Meta-Wiki]], um die Sperre zu diskutieren.",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Du kannst auch eine E-Mail an die [[m:Special:MyLanguage/Stewards|Steward]]-[[m:Special:MyLanguage/VRT|VRT]]-Queue per <kbd>stewards@wikimedia.org</kbd> inklusive aller obigen Details."
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Du kannst auch eine E-Mail an die [[m:Special:MyLanguage/Stewards|Steward]]-[[m:Special:MyLanguage/VRT|VRT]]-Queue per <kbd>stewards@wikimedia.org</kbd> inklusive aller obigen Details schicken."
 }

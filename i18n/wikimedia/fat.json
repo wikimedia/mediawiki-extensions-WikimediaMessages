@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Ebenoffen1",
 			"Leonard Nketsia",
 			"Suzieturkson"
@@ -14,8 +15,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Ayɛfo",
-	"wikimedia-globalblocking-ipblocked": "'''Woesiw wo IP adrɛɛse kwan wɔ wiki ahorow nyinara do [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\n$1 ($2) na ɔyɛɛ w'akwansiw no.\nSiantsir a ɔmae nye ''$3''.\n\n* Akwansiw no ahyɛse: $4\n* Akwansiw no ntwamu: $5\n\nWo mprɛmprɛ IP adrɛɛse yi nye $6.\nYɛserɛ, fa nkyerɛkyerɛmu a ɔwɔ sor ha nyinara ka nhwehwɛmu biara a ebɛyɛ ho.\n\nSɛ egye dzi dɛ ɔyɛ mfomdo dɛ woesiw wo kwan a, ibotum ahwehwɛ nsɛm fofor na akwankyerɛ wɔ [[m:Special:MyLanguage/No open proxies|No open proxies]] wiadze nhyehyɛɛ.\nAnaa ibebisa akwansiw no ho nsɛm, yɛserɛ [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Ntamugyinadze kor anaa no mboree a w'ebisadze no dze dzi dwuma nye [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\n$1 ($2) na ɔyɛɛ w'akwansiw no.\nSiantsir a ɔmae nye ''$3''.\n\n* Akwansiw no ahyɛse: $4\n* Akwansiw no ntwamu: $5\n\nNtamugyinadze adrɛɛse a woesiw no kwan no nye $6.\nYɛserɛ, fa nkyerɛkyerɛmu a ɔwɔ sor ha nyinara ka nhwehwɛmu biara a ebɛyɛ ho.\n\nSɛ egye dzi dɛ ɔyɛ mfomdo dɛ woesiw wo kwan a, ibotum ahwehwɛ nsɛm fofor na akwankyerɛ wɔ [[m:Special:MyLanguage/No open proxies|No open proxies]] wiadze nhyehyɛɛ.\nAnaa ibebisa akwansiw no ho nsɛm, yɛserɛ [[m:Steward requests/Global|post a request for review on Meta-Wiki]].iiíí",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) na ɔyɛɛ w'akwansiw no.\nSiantsir a ɔmae nye ''$3''.\n\n* Akwansiw no ahyɛse: $4\n* Akwansiw no ntwamu: $5\n\nWo mprɛmprɛ IP adrɛɛse yi nye $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) na ɔyɛɛ w'akwansiw no.\nSiantsir a ɔmae nye ''$3''.\n\n* Akwansiw no ahyɛse: $4\n* Akwansiw no ntwamu: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\nYɛserɛ, fa nkyerɛkyerɛmu a ɔwɔ sor ha nyinara ka nhwehwɛmu biara a ebɛyɛ ho.\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Nhwehwɛmu",
 	"wikimedia-cookiestatement": "Cookie nsɛm"
 }
