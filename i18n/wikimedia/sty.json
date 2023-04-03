@@ -9,12 +9,13 @@
 	"tooltip-n-sitesupport": "Пескә йәртәм итең",
 	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike</a> лицензия пуйынца пиреләте, пәстә өстәмә шартлар пулғалы мөмкин. Тулыраҡ ҡәбәр-пелемне <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/ru\">Ҡулланыу шартларта</a> ҡараң.",
 	"wikimedia-copyrightwarning": "Кергеселгән пашҡартыуларны саҡлап, Сес [https://foundation.wikimedia.org/wiki/ Ошланыу шартлар] пелән килешәсес, шалай уҡ [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported CC BY-SA 3.0], [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] гиперссылканың туры килгән питенә йә аныңҡы URL-адресына күрсәтеү Creative Commons лицензияның атрибуция шартларын үтәр өцөн йетәрлек пулыр тип Сес килешәсес.",
-	"wikibase-sitelinks-wikinews": "Викийаңалыклар",
-	"wikibase-sitelinks-wikiquote": "Викицитатник",
-	"wikibase-sitelinks-wikisource": "Викикитапҡана",
-	"wikibase-sitelinks-wikivoyage": "Викигид",
+	"wikibase-sitelinks-wikinews": "Үикийаңалыҡлар",
+	"wikibase-sitelinks-wikiquote": "Үикицитаталыҡ",
+	"wikibase-sitelinks-wikisource": "Үикитека",
+	"wikibase-sitelinks-wikivoyage": "Үикигид",
 	"wikimedia-developers": "Эшләтеүцеләр",
 	"wikimedia-globalblocking-ipblocked": "''Сеснең IP-адрес [[m:Special:MyLanguage/Global blocks|пөтөн вики-проектларта пикләнте]].'''\n\nПикләү уаҡыты $1 ($2).\nСәбәбе: ''$3''.\n\n* Пашланаты: $4\n* Пөтәте: $5\n\nҠәсерге сеснең IP-адрес - $6.\nПы ҡәбәр-пелемнәрне пөтөн энтәшеүләрегескә ҡушың.\n\nӘгәр тә үсегесне йалғыш пикләнкән тип исәпләсәгес, өстәмә ҡәбәр-пелемнәрне [[m:Special:MyLanguage/No open proxies|ацыҡ прокси-серверны рөҡсәт итмәү]] глобаль ҡалыпларынта таба аласыс. Риса пулмаған пулсағыс, [[m:Steward requests/Global|Мета-вики проектҡа энтәшә аласыс]].",
 	"wikimedia-globalblocking-ipblocked-xff": "''Сеснең энтәшеүтәге пер йә пер ницә прокси-сервер [[m:Special:MyLanguage/Global blocks|глобаль пикләнкән]].'''\n\nБлокировканы утысыуцы $1 ($2). \nСәбәбе: ''$3''. \n\n* Пашланаты: $4 \n* Пөтәте: $5\n\nҠәсерге сеснең прокси адрес - $6.\nПы ҡәбәр-пелемне пөтөн энтәшеүләрегескә ҡушың.\n\nӘгәр тә үсегесне йалғыш пикләнкән тип исәпләсәгес, өстәмә ҡәбәр-пелемне [[m:Special:MyLanguage/No open proxies|ацыҡ прокси-серверны рөҡсәт итмәү]] глобаль ҡалыпларынта таба аласыс. Риса пулмаған пулсағыс [[m:Steward requests/Global|Мета-вики проектҡа энтәшең]].",
-	"wikimedia-statslink": "Статистика"
+	"wikimedia-statslink": "Статистика",
+	"wikimedia-cookiestatement": "Куки турынта пелтереү"
 }
