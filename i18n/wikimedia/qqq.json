@@ -442,5 +442,7 @@
 	"ipinfo-global-contributions-url-label": "Label for Global Contributions link",
 	"ipinfo-global-contributions-url": "URL for Global Contributions link\n\nParameters:\n* $1 - IP address",
 	"ipinfo-xtools-url-label": "Label for XTools link",
-	"ipinfo-xtools-url": "URL for XTools link\n\nParameters:\n* $1 - IP address\n* $2 - server name of current wiki"
+	"ipinfo-xtools-url": "URL for XTools link\n\nParameters:\n* $1 - IP address\n* $2 - server name of current wiki",
+	"protect-level-edit-legal": "{{optional}}\nUsed as a special protect level in the [https://foundation.wikimedia.org Wikimedia Foundation Governance Wiki].",
+	"restriction-level-edit-legal": "{{optional}}\nUsed in [[Special:ProtectedPages]] and [[Special:ProtectedTitles]] in the [https://foundation.wikimedia.org Wikimedia Foundation Governance Wiki]. An option in the drop-down box 'Restriction level' and in brackets after each page name entry."
 }

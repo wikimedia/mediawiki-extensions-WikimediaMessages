@@ -396,5 +396,7 @@
 	"ipinfo-global-contributions-url-label": "Global contributions",
 	"ipinfo-global-contributions-url": "https://xtools.wmflabs.org/globalcontribs/$1",
 	"ipinfo-xtools-url-label": "XTools",
-	"ipinfo-xtools-url": "https://xtools.wmflabs.org/ec/$2/$1"
+	"ipinfo-xtools-url": "https://xtools.wmflabs.org/ec/$2/$1",
+	"protect-level-edit-legal": "Allow only users who can edit legal-related pages",
+	"restriction-level-edit-legal": "legal protected"
 }
