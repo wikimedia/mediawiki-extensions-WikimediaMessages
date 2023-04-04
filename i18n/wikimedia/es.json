@@ -377,6 +377,8 @@
 	"ipinfo-feedback-button-label": "Deja tu comentario",
 	"ext-quicksurveys-tst-internal-survey-question": "En los últimos 30 días, ¿has sentido inseguridad o incomodidad al contribuir a {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sí",
+	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Esta encuesta anónima la realiza Wikimedia Foundation, Inc. Puedes obtener [https://meta.wikimedia.org/wiki/Community_Safety más información] o leer la [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaración de privacidad].",
+	"ext-quicksurveys-tst-internal-survey-additional-info": "Si has experimentado acoso o has sido testigo de ello [https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources comprueba estos recursos].",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Gracias por tu opinión!",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "En los últimos 30 días, ¿te has sentido inseguro(a) o incómodo(a) al colaborar en {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sí",
