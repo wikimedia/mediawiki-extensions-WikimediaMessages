@@ -387,6 +387,8 @@
 	"ext-campaignevents-register-policy": "Al inscribirte aceptas los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use términos de uso], la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy política de protección de datos], el [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct código de conducta universal] y cualesquiera otras políticas locales sobre espacios amigables que los organizadores hayan establecido para este evento.",
 	"ext-campaignevents-registration-form-policy": "Los eventos organizados o financiados por la Fundación Wikimedia deben cumplir con todas las políticas de la Fundación, incluyendo la relativa a [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy seguridad juvenil].",
 	"readinglists-import-app": "Para importar esta lista de lectura, instala la última versión de la aplicación de Wikipedia:",
+	"readinglists-import-app-with-link": "<a href=\"$1\">Descarga</a> e instala la última versión de la app de Wikipedia:",
+	"readinglists-list-empty-message": "Puedes importar esta lista instalando la app de Wikipedia.",
 	"research-incentive-message": "¿Le gustaría participar en una búsqueda remunerada de usuarios para Wikipedia?",
 	"research-incentive-description": "Rellene el formulario para inscribirse en nuestra lista de participantes. Nos comunicaremos con usted periódicamente para ofrecerle oportunidades de participar en estudios de investigación para Wikipedia. Puede darse de baja de la lista en cualquier momento.",
 	"research-incentive-answer-positive": "Sí",
