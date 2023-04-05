@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hakka"
+			"Hakka",
+			"Masiziva"
 		]
 	},
-	"sitesupport": "Zvipo"
+	"sitesupport": "Zvipo",
+	"wikibase-sitelinks-wikinews": "Wikinhau",
+	"wikibase-sitelinks-wikiquote": "Wikidzupuramanzwi",
+	"wikibase-sitelinks-wikisource": "Wikivambo",
+	"wikibase-sitelinks-wikivoyage": "Wikivhoyaji",
+	"wikimedia-developers": "Vagadziri",
+	"wikimedia-statslink": "Manumeri",
+	"wikimedia-cookiestatement": "Kuki re chareketwa"
 }
