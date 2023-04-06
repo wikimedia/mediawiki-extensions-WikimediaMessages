@@ -19,6 +19,7 @@
 	"wikimedia-centralauth-groupname": "উইকিমিডিয়া ফাউন্ডেশন",
 	"wikimedia-centralauth-login-error-locked": "<strong>এই অ্যাকাউন্টটি [[m:Special:MyLanguage/Global locks|বৈশ্বিকভাবে তালাবদ্ধ]]।</strong> {{GENDER:$1|আপনি}} কোনও উইকিমিডিয়ার উইকিতে প্রবেশ করতে সক্ষম হবেন না। {{GENDER:$1|আপনার}} কোনও প্রশ্ন থাকলে, দয়া করে [[m:Special:Contact/stewards|স্টুয়ার্ডদের]] সাথে যোগাযোগ করুন।",
 	"createacct-helpusername-url": "{{ns:Project}}:ব্যবহারকারী_নামের_নীতি",
+	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 বৈশ্বিক অবদান] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} পরীক্ষণ] • [{{fullurl:Special:Block/$1}} স্থানীয় বাধা] বা [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 বৈশ্বিক বাধা] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 হুইজ] • [//whatismyipaddress.com/ip/$1 ভূ-অবস্থান] • [//ipcheck.toolforge.org/index.php?ip=$1 প্রক্সি নির্দেশক পরীক্ষা] • [//meta.toolforge.org/stalktoy/$1 স্টকটয়]&#93;</span>",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান $2-এর {{PLURAL:$3|অধীনে}} প্রকাশ করতে সম্মত হচ্ছেন।",
 	"wikimedia-feedback-termsofuse": "আমি <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/bn\" target=\"_blank\">ব্যবহারের শর্তাবলী</a> মেনে প্রতিক্রিয়া প্রদান করতে সম্মত হচ্ছি।",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" ক্লিক করার দ্বারা, আপনি আমাদের [//foundation.wikimedia.org/wiki/Terms_of_Use/bn ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং আপনি আপনার অবদান $1-এর {{PLURAL:$2|অধীনে}} প্রকাশ করতে সম্মত হচ্ছেন।",
@@ -33,6 +34,6 @@
 	"wikimedia-sitematrix-others": "উইকিমিডিয়ার অন্যান্য প্রকল্প",
 	"wikimedia-sitematrix-summary": "এই বিশেষ পাতায় সমস্ত উইকিমিডিয়া উইকিসমূহের তালিকা রয়েছে।",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy গোপনীয়তার নীতি]",
-	"wikimedia-ipinfo-preference-use-agreement": "উইকিমিডিয়া ফাউন্ডেশন বা সম্প্রদায়ের নীতিমালা ভঙ্গ, ধ্বংসাত্মক সম্পাদনা, অপব্যবহার বা অন্যান্য সংশ্লিষ্ট যাবতীয় নীতি লঙ্ঘনের তদন্ত বা প্রতিরোধের জন্য, আমি [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines আইপি তথ্য সরঞ্জামের নির্দেশিকা] অনুযায়ী এই সরঞ্জামটি ব্যবহার করতে সম্মত হচ্ছি।",
+	"wikimedia-ipinfo-preference-use-agreement": "উইকিমিডিয়া ফাউন্ডেশন বা সম্প্রদায়ের নীতিমালা ভঙ্গ, ধ্বংসাত্মক সম্পাদনা, অপব্যবহার বা অন্যান্য সংশ্লিষ্ট যাবতীয় নীতি লঙ্ঘনের তদন্ত বা প্রতিরোধের জন্য, আমি [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines আইপি তথ্য সরঞ্জামের নির্দেশিকা] অনুযায়ী এই সরঞ্জামটি ব্যবহার করতে সম্মত হচ্ছি।",
 	"wikimedia-similareditors-error-default": "কিছু ভুল হয়েছে, আমরা তা খতিয়ে দেখছি। যদি সমস্যাটি থেকে যায় তবে অনুগ্রহ করে [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors এখানে] আমাদের সাথে যোগাযোগ করুন।"
 }

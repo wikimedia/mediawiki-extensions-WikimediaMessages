@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hakka"
+			"Hakka",
+			"Masiziva"
 		]
 	},
-	"sitesupport": "Zvipo"
+	"sitesupport": "Zvipo",
+	"wikimedia-copyright": "Hhwro rinowanikwa kutsi kwe <a href=\"https://creativecommons.org/licenses/by-sa/3.0/>\"Creative Commons Attribution-ShareAlike Liense</a>;\nmimwe mitemo inogona kunoshandiswa\nOnai <a href=\"https:/foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/sn</a> kuti muone zvakadzama.",
+	"wikibase-sitelinks-wikinews": "Wikinhau",
+	"wikibase-sitelinks-wikiquote": "Wikidzupuramanzwi",
+	"wikibase-sitelinks-wikisource": "Wikivambo",
+	"wikibase-sitelinks-wikivoyage": "Wikivhoyaji",
+	"wikimedia-developers": "Vagadziri",
+	"wikimedia-statslink": "Manumeri",
+	"wikimedia-cookiestatement": "Kuki re chareketwa"
 }

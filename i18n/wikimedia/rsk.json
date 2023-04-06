@@ -14,7 +14,7 @@
 	"group-global-bot-member": "{{GENDER:$1|ґлобални бот}}",
 	"group-global-sysop": "Ґлобални администраторе",
 	"group-global-sysop-member": "{{GENDER:$1|ґлобални администратор|ґлобална администраторка}}",
-	"wikimedia-copyright": "Текст доступни под лиценцу <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Авторство-Дзелїц под истима условиями</a>; можлїви и додатни условия. Опатьце <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">условия хаснованя</a> о детальох.",
+	"wikimedia-copyright": "Текст доступни под лиценцу <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Авторство-Дзелїц под истима условиями</a>; можлїви и додатни условия. Опатьце <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/rsk\">условия хаснованя</a> о детальох.",
 	"wikimedia-copyrightwarning": "Зоз знїманьом (зачуваньом) вименкох ви согласни зоз [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use условиями хаснованя], и з нєповолуюцим обявйованьом свойого доприносу под лиценцами [https://en.wikipedia.org/wiki/Википедия:Текст_шлєбодней_лиценци-Ауторство-Шириц_под_истима_условиями 3.0_Unported_License CC BY-SA 3.0 License] и [https://en.wikipedia.org/wiki/Википедия:Text_of_the_GNU_Free_Documentation_License GFDL].\nСогласни сце же линк або URL достаточни за припознаванє авторства под лиценцу  Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Витайце}}, $1!",
 	"wikibase-repo-name": "Википодатки",
