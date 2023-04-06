@@ -433,5 +433,7 @@
 	"research-incentive-link": "https://airtable.com/shrm8jEOIDTt2Qn8M",
 	"research-incentive-privacy": "Vous pouvez consulter notre politique de confidentialité et en apprendre plus concernant notre programme de recherche [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/fr ici].",
 	"research-incentive-confirm-msg": "Merci !",
-	"ipinfo-global-contributions-url-label": "Contributions globales"
+	"ipinfo-global-contributions-url-label": "Contributions globales",
+	"protect-level-edit-legal": "Autoriser uniquement les utilisateurs qui peuvent modifier les pages à caractère juridique",
+	"restriction-level-edit-legal": "juridiquement protégé"
 }
