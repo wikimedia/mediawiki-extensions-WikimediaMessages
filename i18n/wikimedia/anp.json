@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Angpradesh",
+			"IND-ANP",
 			"Proabscorp!"
 		]
 	},
@@ -16,8 +17,8 @@
 	"wikibase-otherprojects-sources": "बहुभाषी विकिसोर्स",
 	"wikibase-sitelinks-sitename-sourceswiki": "बहुभाषी विकिसोर्स",
 	"wikimedia-developers": "डेवेलपर्स",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:globalblocking-blockedtext-all-wikis}}'''\n\nब्लॉक $1 ($2) द्वारा बनैलौ गेलौ छेलै।\nदेलौ गेलौ कारण ''$3'' छेकौं।\n\n* ब्लॉक केरौ शुरुआत: $4\n* ब्लॉक केरौ समाप्ति: $5\n\nतोरौ वर्तमान आईपी पता $6 छेकौं।\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nब्लॉक $1 ($2) द्वारा बनैलौ गेलौ छेलै।\nदेलौ गेलौ कारण ''$3'' छेकौं।\n\n* ब्लॉक केरौ शुरुआत: $4\n* ब्लॉक केरौ समाप्ति: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nब्लॉक $1 ($2) द्वारा बनैलौ गेलौ छेलै।\nदेलौ गेलौ कारण ''$3'' छेकौं।\n\n* ब्लॉक केरौ शुरुआत: $4\n* ब्लॉक केरौ समाप्ति: $5\n\nतोरौ वर्तमान आईपी पता $6 छेखौं।\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nब्लॉक $1 ($2) द्वारा बनैलौ गेलौ छेलै।\nदेलौ गेलौ कारण ''$3'' छेकौं।\n\n* ब्लॉक केरौ शुरुआत: $4\n* ब्लॉक केरौ समाप्ति: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-sitename-mul": "बहुभाषी {{SITENAME}}",
 	"wikimedia-statslink": "सांख्यिकी",
 	"wikimedia-cookiestatement": "कुकी विवरण"

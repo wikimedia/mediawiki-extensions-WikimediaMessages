@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"PROBUS"
 		]
 	},
-	"wikimedia-globalblocking-blockedtext-proxy": "A pɔgebo bonyuoraa la $1"
+	"wikimedia-globalblocking-blockedtext-all-wikis": "Fo saseɛ miri youri [[m:Special:MyLanguage/Global blocks|pɔgʋ la a wikis nuuri zaa poɔ]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Yelle ayi na soŋ a fo tomboɔlo la [[m:Special:MyLanguage/Global blocks|duoro ŋmɛyaaroo]].",
+	"wikimedia-globalblocking-blockedtext-proxy": "A pɔgebo bonyuoraa la $1",
+	"wikimedia-globalblocking-blockedtext-mistake": "Ka foŋ sage ka a da ba taa sore kɔɔ iri fo bare sɛ ka fo duoro mine bee sommo mine ayi a [[m:Special:MyLanguage/No open proxies|No open proxies]] teŋdaazaa yelnyɔgraa.\nAgaŋ a zaa, fo naŋ na yele yɛlɛ kyaare ne a sɛgebo [[m:Steward requests/Global|be emmo kaŋa kyɛ leɛ kaa a Meta-Wiki]]."
 }
