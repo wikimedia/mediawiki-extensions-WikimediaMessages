@@ -7,14 +7,14 @@
 	},
 	"wm-license-cc-attribution": "Tikki",
 	"wm-license-cc-by-sa-3.0-text": "Afaylu ad illa ddu tfadiwin n turagt [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported].",
-	"wm-license-cc-free": "Tgit win ixf nnk:",
-	"wm-license-cc-free-to-share-header": "Bḍu",
-	"wm-license-cc-free-to-share-text": "afad ad tnɣlt, ad tzuzrt nɣ ad tbḍut tawwuri ad",
+	"wm-license-cc-free": "Tgit win ixf nnk/nnm:",
+	"wm-license-cc-free-to-share-header": "fsr",
+	"wm-license-cc-free-to-share-text": "afad ad tnɣlt, ad tzuzrt nɣ ad tbḍut tawuri ad",
 	"wm-license-cc-free-to-remix-header": "sgiddi",
-	"wm-license-cc-free-to-remix-text": "Sgiddi tawwuri",
-	"wm-license-cc-conditions": "Dduw tfadiwin ad:",
-	"wm-license-cc-conditions-attribution-header": "Tikki",
-	"wm-license-cc-conditions-attribution-text": "Iqqan-d ad tbdrt ism n umskar anṣli tbdrt ula alink ittwammln ameskar n umahil nɣ bab n izrfan, tmlt iɣ ittwasnfl. Tzḍart ad tskrt ɣikad s tɣarast nna d yusan, mac ur d s kra n tɣarast immaln ma s d amgay ar k innal nɣ d asmrs nk.",
-	"wm-license-cc-conditions-share_alike-header": "Bḍu ikniwen",
-	"wm-license-cc-conditions-share_alike-text": "Iɣ tsnflt nɣ tsmuttit nɣ tẓkit f twwuri, iqqank-id ad tbḍut tumutin nnk dduw [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses  turaqt ann nit nɣ kra n turagt d yusan] d tdslant."
+	"wm-license-cc-free-to-remix-text": "sgiddi tawuri",
+	"wm-license-cc-conditions": "Ddu tfadiwin ad:",
+	"wm-license-cc-conditions-attribution-header": "Tibbabwt",
+	"wm-license-cc-conditions-attribution-text": "Iqqan d ad tbdrm ism n umskar anṣli tbdrm ula asɣun immaln amskar n umahil nɣ bab n izrfan, tbdrm iɣ ittwasnfl zgis kra nɣ d uhu. Tzḍarm ad tskrm mk ad s mk da tram, maccan s kra n tɣarast immaln ma s d imsacka bab n twuri.",
+	"wm-license-cc-conditions-share_alike-header": "fsr ikniwn",
+	"wm-license-cc-conditions-share_alike-text": "Iɣ tsnflm nɣ tsmattim nɣ tẓkim f twuri ad, illa fllawn ad tbḍum tumutin nnun ddu [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses  turaqt ann nit nɣ kra n turagt d yuckan] d tdslant."
 }
