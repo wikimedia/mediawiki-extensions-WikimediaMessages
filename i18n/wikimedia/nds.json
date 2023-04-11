@@ -4,7 +4,8 @@
 			"Joachim Mos",
 			"Servien",
 			"Slomox",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Wikiundeplattsnacker"
 		]
 	},
 	"wikimediamessages-desc": "Systemnarichten för Wikimedia",
@@ -53,5 +54,6 @@
 	"wikibase-sitelinks-wikinews": "Wikinarichten",
 	"wikibase-sitelinks-wikisource": "Wikiborn",
 	"wikimedia-developers": "Entwickler",
+	"wikimedia-statslink": "Statistiken",
 	"wikimedia-cookiestatement": "Cookiesverklärung"
 }
