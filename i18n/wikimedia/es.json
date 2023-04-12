@@ -239,6 +239,8 @@
 	"group-translationadmin": "Administradores de traducción",
 	"group-translationadmin-member": "{{GENDER:$1|administrador|administradora}} de traducción",
 	"grouppage-translationadmin": "{{ns:project}}:Administradores de traducción",
+	"group-vrt-permissions": "Agentes de permisos VRT",
+	"group-vrt-permissions-member": "{{GENDER:$1|agente de permisos VRT}}",
 	"group-wmf-officeit": "TI del equipo de WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1|TI del equipo de WMF}}",
 	"group-wmf-researcher": "Investigadores de la WMF",

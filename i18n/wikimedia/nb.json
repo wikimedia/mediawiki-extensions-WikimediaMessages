@@ -357,7 +357,7 @@
 	"ext-quicksurveys-tst-internal-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} de siste 30 dagene?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nei",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} de siste 30 dagene?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Har du følt deg utrygg eller ukomfortabel mens du har bidratt til {{SITENAME}} ({{SERVERNAME}}) de siste 30 dagene?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ja",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nei",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Jeg er ikke sikker",
