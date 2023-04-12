@@ -58,6 +58,8 @@
 	"wikibase-sitelinks-wikisource": "Wikiborn",
 	"wikibase-sitelinks-wikivoyage": "Wikireis",
 	"wikimedia-developers": "Entwickler",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nAfriegelt vun $1 ($2).\nAnfört Grund ''$3''.\n\n* Beginn vun'n Afriegel: $4\n* End vun'n Afriegel: $5\n\nOpstunns, dien IP address is $6 .\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDe Sied weer afriegelt vun $1 ($2).\nDen Grund is ''$3''.\n\n* Beginn vun'n Afriegel: $4\n* End vun'n Afriegel: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistiken",
 	"wikimedia-cookiestatement": "Cookiesverklärung"
 }
