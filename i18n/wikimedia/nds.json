@@ -52,14 +52,14 @@
 	"group-sysadmin": "System-Administraters",
 	"group-sysadmin-member": "{{GENDER:$1|System-Administrater}}",
 	"wikimedia-copyright": "Den Text is ünner de Afsprook <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Naamsnennung-wiedergeeven ünner lieke Afsprook</a>;\ntoföögt Bedingungen kunn anwend warn.\nKiek na <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Brukbedingungen</a> för Details.",
-	"wikimedia-copyrightwarning": "Mit't afspiekern stimmst Du de  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Afspraak vun't Bruuk] to un makst dien Bidrag ünner de ni mehr torüggtreckbar'n Tostimmung publik ünner  [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 Afspraak] un de [https://www.gnu.org/licenses/fdl-1.3.html GFDL].\nDu stimmst to, dat een Lenk oder URL is noog Toschrievung ünner de Creative Commons license.",
+	"wikimedia-copyrightwarning": "Mit't afspiekern stimmst Du de  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Afspraak vun't Bruuk] to un makst dien Bidrag ünner de ni mehr torüggtreckbar'n Tostimmung publik ünner  [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 Afspraak] un de [https://www.gnu.org/licenses/fdl-1.3.html GFDL].\nDu stimmst to, dat een Link oder URL is noog Toschrievung ünner de Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinarichten",
 	"wikibase-sitelinks-wikiquote": "Wikizitaten",
 	"wikibase-sitelinks-wikisource": "Wikiborn",
 	"wikibase-sitelinks-wikivoyage": "Wikireis",
-	"wikimedia-developers": "Entwickler",
+	"wikimedia-developers": "Moker",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nAfriegelt vun $1 ($2).\nAnfört Grund ''$3''.\n\n* Beginn vun'n Afriegel: $4\n* End vun'n Afriegel: $5\n\nOpstunns, dien IP address is $6 .\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDe Sied weer afriegelt vun $1 ($2).\nDen Grund is ''$3''.\n\n* Beginn vun'n Afriegel: $4\n* End vun'n Afriegel: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistiken",
-	"wikimedia-cookiestatement": "Cookiesverklärung"
+	"wikimedia-cookiestatement": "Cookie Regeln"
 }

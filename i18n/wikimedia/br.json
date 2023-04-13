@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Amire80",
 			"Fohanno",
 			"Fulup",
@@ -132,8 +133,8 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikiroadennoù",
 	"cant-delete-main-page": "N'hallit ket diverkañ pe dilec'hiañ ar bajenn bennañ.",
 	"wikimedia-developers": "Diorroerien",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nGraet eo bet ar stankadur gant $1 ($2).\nAn abeg roet eo ''$3''.\n\n* Deroù ar stankadur : $4\n* Dibenn ar stankadur : $5\n\nHo chomlec'h IP a-vremañ zo $6.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nGraet eo bet ar stankadur gant $1 ($2).\nAn abeg roet eo ''$3''.\n\n* Deroù ar stankadur: $4\n* Dibenn ar stankadur: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nGraet eo bet ar stankadur gant $1 ($2).\nAn abeg roet eo ''$3''.\n\n* Deroù ar stankadur : $4\n* Dibenn ar stankadur : $5\n\nHo chomlec'h IP a-vremañ zo $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nGraet eo bet ar stankadur gant $1 ($2).\nAn abeg roet eo ''$3''.\n\n* Deroù ar stankadur: $4\n* Dibenn ar stankadur: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "Muioc'h a yezhoù",
 	"eri-rcfilters-tour-intro-welcome-button": "OK, komprenet am eus",
 	"eri-rcfilters-tour-highlight-title": "Roit ur c’hod liv d’ho tisoc’hoù",
