@@ -79,7 +79,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudoboty",
 	"group-founder": "Zakladatelia",
 	"group-founder-member": "{{GENDER:$1|zakladateľ|zakladateľka|zakladateľ}}",
-	"grouppage-founder": "{{ns:project}}:Zakladatelia",
 	"group-import": "Importéri",
 	"group-import-member": "{{GENDER:$1|importér|importérka|importér}}",
 	"grouppage-import": "{{ns:project}}:Importéri",

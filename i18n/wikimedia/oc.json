@@ -44,7 +44,6 @@
 	"grouppage-flood": "{{ns:project}}:Dressaires de bòt",
 	"group-founder": "Fondators",
 	"group-founder-member": "{{GENDER:$1|fondator|fondatritz}}",
-	"grouppage-founder": "{{ns:project}}:Fondators",
 	"group-import": "Importaires",
 	"group-import-member": "{{GENDER:$1|importaire|importaira}}",
 	"grouppage-import": "{{ns:project}}:Importaires",

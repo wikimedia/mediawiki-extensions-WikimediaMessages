@@ -116,7 +116,6 @@
 	"grouppage-flood": "{{ns:project}}:Użytkownicy o ukrytej aktywności",
 	"group-founder": "Założyciele",
 	"group-founder-member": "{{GENDER:$1|założyciel|założycielka}}",
-	"grouppage-founder": "{{ns:project}}:Założyciele",
 	"group-import": "Importerzy",
 	"group-import-member": "{{GENDER:$1|importer|importerka}}",
 	"grouppage-import": "{{ns:project}}:Importerzy",

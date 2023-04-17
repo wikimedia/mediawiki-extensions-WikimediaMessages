@@ -27,7 +27,6 @@
 	"group-confirmed": "Utilizzatura cunfirmati",
 	"group-founder": "Funnatura",
 	"group-founder-member": "{{GENDER:$1|funnaturi|funnatrici|funnaturi o funnatrici}}",
-	"grouppage-founder": "{{ns:project}}:Funnatura",
 	"group-import": "Mpurtatura",
 	"group-import-member": "{{GENDER:$1|mpurtaturi|mpurtatrici|mpurtaturi o mpurtatrici}}",
 	"grouppage-import": "{{ns:project}}:Mpurtatura",

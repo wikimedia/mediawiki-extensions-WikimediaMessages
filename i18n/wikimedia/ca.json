@@ -102,7 +102,6 @@
 	"grouppage-flood": "{{ns:project}}:Usuaris-bots",
 	"group-founder": "Fundadors",
 	"group-founder-member": "{{GENDER:$1|fundador|fundadora}}",
-	"grouppage-founder": "{{ns:project}}:Fundadors",
 	"group-import": "Importadors",
 	"group-import-member": "{{GENDER:$1|importador|importadora}}",
 	"grouppage-import": "{{ns:project}}:Importadors",

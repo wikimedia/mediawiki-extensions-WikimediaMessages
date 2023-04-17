@@ -9,7 +9,6 @@
 	"grouppage-flood": "{{ns:project}}:Waddefresser",
 	"group-founder": "Grinder",
 	"group-founder-member": "{{GENDER:$1|Grinder}}",
-	"grouppage-founder": "{{ns:project}}:Grinder",
 	"group-global-bot": "Globale Bots",
 	"group-global-bot-member": "{{GENDER:$1|Globaler Waddefresser}}",
 	"group-steward": "Stewards",

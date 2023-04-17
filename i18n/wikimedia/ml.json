@@ -82,7 +82,6 @@
 	"grouppage-flood": "{{ns:project}}:ബോട്ട് ഉപയോക്താക്കൾ",
 	"group-founder": "സ്ഥാപകർ",
 	"group-founder-member": "{{GENDER:$1|സ്ഥാപകൻ|സ്ഥാപക}}",
-	"grouppage-founder": "{{ns:project}}:സ്ഥാപകർ",
 	"group-import": "ഇറക്കുമതിക്കാർ",
 	"group-import-member": "{{GENDER:$1|ഇറക്കുമതിക്കാർ}}",
 	"grouppage-import": "{{ns:project}}:ഇറക്കുമതിക്കാർ",

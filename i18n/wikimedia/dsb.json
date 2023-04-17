@@ -67,7 +67,6 @@
 	"grouppage-flood": "{{ns:project}}:Botowe wužywarje",
 	"group-founder": "Załožarje",
 	"group-founder-member": "{{GENDER:$1|załožaŕ|załožarka}}",
-	"grouppage-founder": "{{ns:project}}:Załožarje",
 	"group-import": "Importery",
 	"group-import-member": "{{GENDER:$1|importer|importerka}}",
 	"grouppage-import": "{{ns:project}}:Importery",

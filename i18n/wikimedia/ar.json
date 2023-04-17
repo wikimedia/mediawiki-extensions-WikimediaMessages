@@ -124,7 +124,6 @@
 	"grouppage-flood": "{{ns:project}}:بوتات زائفة",
 	"group-founder": "مؤسسون",
 	"group-founder-member": "{{GENDER:$1|مؤسس|مؤسسة}}",
-	"grouppage-founder": "{{ns:project}}:مؤسسون",
 	"group-import": "مستوردون",
 	"group-import-member": "{{GENDER:$1|مستورد|مستوردة}}",
 	"grouppage-import": "{{ns:project}}:مستوردون",

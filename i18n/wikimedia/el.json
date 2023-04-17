@@ -111,7 +111,6 @@
 	"grouppage-flood": "{{ns:project}}:Ψευδορομπότ",
 	"group-founder": "Ιδρυτές",
 	"group-founder-member": "{{GENDER:$1|ιδρυτής|ιδρύτρια}}",
-	"grouppage-founder": "{{ns:project}}:Ιδρυτές",
 	"group-import": "Εισαγωγείς",
 	"group-import-member": "{{GENDER:$1|εισαγωγέας}}",
 	"grouppage-import": "{{ns:project}}:Εισαγωγείς",

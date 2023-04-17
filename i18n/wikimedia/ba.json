@@ -69,7 +69,6 @@
 	"grouppage-flood": "{{ns:project}}:Боттар",
 	"group-founder": "Нигеҙләүселәр",
 	"group-founder-member": "{{GENDER:$1|нигеҙ һалыусы}}",
-	"grouppage-founder": "{{ns:project}}:Нигеҙләүселәр",
 	"group-import": "Импортёрҙар",
 	"group-import-member": "{{GENDER:$1|импортлаусы}}",
 	"grouppage-import": "{{ns:project}}:Импортлаусылар",

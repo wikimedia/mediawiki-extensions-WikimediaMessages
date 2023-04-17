@@ -108,7 +108,6 @@
 	"grouppage-flood": "{{ns:project}}:Bot giả",
 	"group-founder": "Sáng lập viên",
 	"group-founder-member": "{{GENDER:$1}}sáng lập viên",
-	"grouppage-founder": "{{ns:project}}:Nhà sáng lập",
 	"group-import": "Người nhập trang",
 	"group-import-member": "{{GENDER:$1}}người nhập trang",
 	"grouppage-import": "{{ns:project}}:Người nhập trang",

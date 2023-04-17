@@ -65,7 +65,6 @@
 	"grouppage-flood": "{{ns:project}}:Dagiti pseudobot",
 	"group-founder": "Dagiti nagipatakder",
 	"group-founder-member": "{{GENDER:$1|nagipatakder}}",
-	"grouppage-founder": "{{ns:project}}:Dagiti nagipatakder",
 	"group-import": "Dagiti agal-ala",
 	"group-import-member": "{{GENDER:$1|agal-ala}}",
 	"grouppage-import": "{{ns:project}}:Dagiti agal-ala",

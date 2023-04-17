@@ -73,7 +73,6 @@
 	"grouppage-flood": "{{ns:project}}:Псэўдаробаты",
 	"group-founder": "Фундатары",
 	"group-founder-member": "{{GENDER:$1|фундатар|фундатарка}}",
-	"grouppage-founder": "{{ns:project}}:Фундатары",
 	"group-import": "Імпартэры",
 	"group-import-member": "{{GENDER:$1|імпартэр|імпартэрка}}",
 	"grouppage-import": "{{ns:project}}:Імпартэры",

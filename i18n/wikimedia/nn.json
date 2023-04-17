@@ -68,7 +68,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudobottar",
 	"group-founder": "Grunnleggarar",
 	"group-founder-member": "{{GENDER:$1|grunnleggjar}}",
-	"grouppage-founder": "{{ns:project}}:Grunnleggarar",
 	"group-import": "Importørar",
 	"group-import-member": "{{GENDER:$1|importør}}",
 	"grouppage-import": "{{ns:project}}:Importørar",

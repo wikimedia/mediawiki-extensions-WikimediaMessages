@@ -83,7 +83,6 @@
 	"grouppage-flood": "{{ns:project}}:Псевдоботлар",
 	"group-founder": "Нигез салучылар",
 	"group-founder-member": "{{GENDER:$1|нигез салучы}}",
-	"grouppage-founder": "{{ns:project}}:Нигезчеләр",
 	"group-import": "Импортлаучы кулланучылар",
 	"group-import-member": "{{GENDER:$1|импортлаучы кулланучы}}",
 	"grouppage-import": "{{ns:project}}:Импортчылар",

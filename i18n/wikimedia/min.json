@@ -64,7 +64,6 @@
 	"grouppage-flood": "{{ns:project}}:Pangguno bot",
 	"group-founder": "Pandiri",
 	"group-founder-member": "{{GENDER:$1|pandiri}}",
-	"grouppage-founder": "{{ns:project}}:Pandiri",
 	"group-import": "Importir",
 	"group-import-member": "{{GENDER:$1|importir}}",
 	"grouppage-import": "{{ns:project}}:Importir",

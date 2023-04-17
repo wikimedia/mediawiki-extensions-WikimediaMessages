@@ -87,7 +87,6 @@
 	"grouppage-flood": "{{ns:project}}:Редактори-ботове",
 	"group-founder": "Основатели",
 	"group-founder-member": "{{GENDER:$1|основател|основателка}}",
-	"grouppage-founder": "{{ns:project}}:Основатели",
 	"group-import": "Вносители",
 	"group-import-member": "{{GENDER:$1|вносител|вносителка}}",
 	"grouppage-import": "{{ns:project}}:Вносители",

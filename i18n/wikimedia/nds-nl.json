@@ -26,7 +26,6 @@
 	"group-flood-member": "{{GENDER:$1|botgebruker}}",
 	"group-founder": "grondlegers",
 	"group-founder-member": "{{GENDER:$1|oprichter}}",
-	"grouppage-founder": "{{ns:project}}:Grondlegers",
 	"group-import": "importöörs",
 	"group-import-member": "{{GENDER:$1|importöör}}",
 	"grouppage-import": "{{ns:project}}:Importöörs",

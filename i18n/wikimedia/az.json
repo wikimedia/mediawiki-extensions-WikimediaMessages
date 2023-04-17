@@ -58,7 +58,6 @@
 	"grouppage-flood": "{{ns:project}}:Psevdobotlar",
 	"group-founder": "Banilər",
 	"group-founder-member": "{{GENDER:$1|Bani}}",
-	"grouppage-founder": "{{ns:project}}:Banilər",
 	"group-import": "İdxalçılar",
 	"group-import-member": "{{GENDER:$1|idxalçı}}",
 	"grouppage-import": "{{ns:project}}:İdxalçılar",

@@ -39,7 +39,6 @@
 	"group-flood": "Botad-kävutajad",
 	"group-founder": "Alusenpanijad",
 	"group-founder-member": "{{GENDER:$1|alusenpanii}}",
-	"grouppage-founder": "{{ns:project}}:Alusenpanijad",
 	"group-import": "Importörad",
 	"group-import-member": "{{GENDER:$1|importör}}",
 	"grouppage-import": "{{ns:project}}:Importörad",

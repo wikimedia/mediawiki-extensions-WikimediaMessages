@@ -103,7 +103,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudobot",
 	"group-founder": "Fondatori",
 	"group-founder-member": "{{GENDER:$1|fondatore|fondatrice|fondatore/trice}}",
-	"grouppage-founder": "{{ns:project}}:Fondatori",
 	"group-import": "Importatori",
 	"group-import-member": "{{GENDER:$1|importatore|importatrice|importatore/trice}}",
 	"grouppage-import": "{{ns:project}}:Importatori",

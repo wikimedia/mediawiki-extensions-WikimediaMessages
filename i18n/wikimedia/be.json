@@ -67,7 +67,6 @@
 	"grouppage-editprotected": "{{ns:project}}:Рэдактары абароненых старонак",
 	"group-founder": "Заснавальнікі",
 	"group-founder-member": "{{GENDER:$1|заснавальнік|заснавальніца}}",
-	"grouppage-founder": "{{ns:project}}:Founders",
 	"group-import": "Імпарцёры",
 	"group-import-member": "{{GENDER:$1|імпарцёр|імпарцёрка}}",
 	"grouppage-import": "{{ns:project}}:Importers",

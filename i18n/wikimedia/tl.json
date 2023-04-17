@@ -74,7 +74,6 @@
 	"grouppage-flood": "{{ns:project}}:Mga tagagamit ng bot",
 	"group-founder": "Mga tagapagtatag",
 	"group-founder-member": "{{GENDER:$1|tagapagtatag}}",
-	"grouppage-founder": "{{ns:project}}:Mga tagapagtatag",
 	"group-import": "Mga tagapagangkat",
 	"group-import-member": "{{GENDER:$1|tagapag-angkat}}",
 	"grouppage-import": "{{ns:project}}:Mga tagapagangkat",

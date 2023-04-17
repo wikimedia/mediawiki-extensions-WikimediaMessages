@@ -84,7 +84,6 @@
 	"grouppage-mover": "{{ns:project}}:ရွေ့ပြောင်းသူများ",
 	"group-founder": "တည်ထောင်သူများ",
 	"group-founder-member": "{{GENDER:$1|တည်ထောင်သူ}}",
-	"grouppage-founder": "{{ns:project}}:တည်ထောင်သူများ",
 	"group-import": "တင်သွင်းသူများ",
 	"group-import-member": "{{GENDER:$1|တင်သွင်းသူ}}",
 	"grouppage-import": "{{ns:project}}:တင်သွင်းသူများ",

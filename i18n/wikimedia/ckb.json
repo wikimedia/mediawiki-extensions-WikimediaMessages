@@ -52,7 +52,6 @@
 	"grouppage-flood": "{{ns:project}}:زڕبۆت",
 	"group-founder": "دامەزرێنەران",
 	"group-founder-member": "{{GENDER:$1|دامەزرێنەر}}",
-	"grouppage-founder": "{{ns:project}}:دامەزرێنەران",
 	"group-import": "ھێنەران",
 	"group-import-member": "{{GENDER:$1|ھێنەر}}",
 	"grouppage-import": "{{ns:project}}:ھێنەران",

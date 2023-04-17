@@ -101,7 +101,6 @@
 	"grouppage-flood": "{{ns:project}}:บอตเทียม",
 	"group-founder": "ผู้ก่อตั้ง",
 	"group-founder-member": "{{GENDER:$1|ผู้ก่อตั้ง}}",
-	"grouppage-founder": "{{ns:project}}:ผู้ร่วมก่อตั้ง",
 	"group-import": "ผู้นำเข้า",
 	"group-import-member": "{{GENDER:$1|ผู้นำเข้า}}",
 	"grouppage-import": "{{ns:project}}:ผู้นำเข้า",

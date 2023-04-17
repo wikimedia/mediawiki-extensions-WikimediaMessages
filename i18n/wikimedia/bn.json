@@ -107,7 +107,6 @@
 	"grouppage-flood": "{{ns:project}}:বট ব্যবহারকারী",
 	"group-founder": "প্রতিষ্ঠাতা",
 	"group-founder-member": "{{GENDER:$1|প্রতিষ্ঠাতা}}",
-	"grouppage-founder": "{{ns:project}}:প্রতিষ্ঠাতাগণ",
 	"group-import": "আমদানিকারক",
 	"group-import-member": "{{GENDER:$1|আমদানিকারক}}",
 	"grouppage-import": "{{ns:project}}:আমদানিকারক",

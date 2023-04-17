@@ -95,7 +95,6 @@
 	"grouppage-flood": "{{ns:project}}:ছদ্মবট",
 	"group-founder": "প্ৰতিষ্ঠাতা",
 	"group-founder-member": "{{GENDER:$1|প্ৰতিষ্ঠাতা}}",
-	"grouppage-founder": "{{ns:project}}:প্ৰতিষ্ঠাতা",
 	"group-import": "আমদানিকৰ্তা",
 	"group-import-member": "{{GENDER:$1|আমদানিকৰ্তা}}",
 	"grouppage-import": "{{ns:project}}:আমদানিকৰ্তা",

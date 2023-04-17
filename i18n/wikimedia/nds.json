@@ -25,7 +25,6 @@
 	"grouppage-bigexport": "{{ns:project}}:Grootexportörs",
 	"group-founder": "Grünners",
 	"group-founder-member": "{{GENDER:$1|Grünner}}",
-	"grouppage-founder": "{{ns:project}}:Grünners",
 	"group-import": "Importörs",
 	"group-import-member": "{{GENDER:$1|Importör}}",
 	"grouppage-import": "{{ns:project}}:Importörs",

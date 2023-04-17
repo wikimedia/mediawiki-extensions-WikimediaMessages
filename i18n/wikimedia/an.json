@@ -65,7 +65,6 @@
 	"grouppage-flood": "{{ns:project}}:Usuarios bot",
 	"group-founder": "Fundadors",
 	"group-founder-member": "{{GENDER:$1|fundador}}",
-	"grouppage-founder": "{{ns:project}}:Fundadors",
 	"group-import": "Importadors",
 	"group-import-member": "{{GENDER:$1|importador|importadora}}",
 	"grouppage-import": "{{ns:project}}:Importadors",

@@ -80,7 +80,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudobotovi",
 	"group-founder": "Osnivači",
 	"group-founder-member": "{{GENDER:$1|osnivač|osnivačica}}",
-	"grouppage-founder": "{{ns:project}}:Osnivači",
 	"group-import": "Uvoznici",
 	"group-import-member": "{{GENDER:$1|uvoznik|uvoznica}}",
 	"grouppage-import": "{{ns:project}}:Uvoznici",

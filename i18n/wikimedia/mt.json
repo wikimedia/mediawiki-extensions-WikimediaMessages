@@ -47,7 +47,6 @@
 	"grouppage-flood": "{{ns:project}}:Utenti bot",
 	"group-founder": "Fundaturi",
 	"group-founder-member": "{{GENDER:$1|fundatur|fundatriċi|fundatur}}",
-	"grouppage-founder": "{{ns:project}}:Fundaturi",
 	"group-import": "Importaturi",
 	"group-import-member": "{{GENDER:$1|importatur}}",
 	"grouppage-import": "{{ns:project}}:Importaturi",

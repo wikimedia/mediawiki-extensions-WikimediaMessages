@@ -104,7 +104,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudoboti",
 	"group-founder": "Zakladatelé",
 	"group-founder-member": "{{GENDER:$1|zakladatel|zakladatelka|zakladatel}}",
-	"grouppage-founder": "{{ns:project}}:Founders",
 	"group-import": "Importéři",
 	"group-import-member": "{{GENDER:$1|importér|importérka|importér}}",
 	"grouppage-import": "{{ns:project}}:Importéři",

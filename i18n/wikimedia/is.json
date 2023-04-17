@@ -38,7 +38,6 @@
 	"grouppage-flood": "{{ns:project}}:Hálfvélmenni",
 	"group-founder": "Stofnendur",
 	"group-founder-member": "{{GENDER:$1|stofnandi}}",
-	"grouppage-founder": "{{ns:project}}:Stofnendur",
 	"group-import": "Innflutningsaðilar",
 	"group-import-member": "{{GENDER:$1|innflutningsaðili}}",
 	"grouppage-import": "{{ns:project}}:Innflutningsaðilar",

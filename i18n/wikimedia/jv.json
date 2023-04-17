@@ -81,7 +81,6 @@
 	"grouppage-flood": "{{ns:project}}:Para panganggo bot",
 	"group-founder": "Pendhiri",
 	"group-founder-member": "{{GENDER:$1|sing ngadegaké}}",
-	"grouppage-founder": "{{ns:project}}:Pandhiri",
 	"group-import": "Importir",
 	"group-import-member": "{{GENDER:$1|importir}}",
 	"grouppage-import": "{{ns:project}}:Importir",

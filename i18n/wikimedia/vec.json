@@ -65,7 +65,6 @@
 	"grouppage-flood": "{{ns:project}}:Utenti bot",
 	"group-founder": "Fondatori",
 	"group-founder-member": "{{GENDER:$1|fondator|fondatrise|fondator/trise}}",
-	"grouppage-founder": "{{ns:project}}:Fondatori",
 	"group-import": "Inportadori",
 	"group-import-member": "{{GENDER:$1|inportador|inportatrise|inportador/trise}}",
 	"grouppage-import": "{{ns:project}}:Inportadori",

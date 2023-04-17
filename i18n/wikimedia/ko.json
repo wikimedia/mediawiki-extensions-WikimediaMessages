@@ -116,7 +116,6 @@
 	"grouppage-flood": "{{ns:project}}:가짜 봇",
 	"group-founder": "설립자",
 	"group-founder-member": "{{GENDER:$1|설립자}}",
-	"grouppage-founder": "{{ns:project}}:설립자",
 	"group-import": "가져오기 사용자",
 	"group-import-member": "{{GENDER:$1|가져오기 사용자}}",
 	"grouppage-import": "{{ns:project}}:가져오기 사용자",

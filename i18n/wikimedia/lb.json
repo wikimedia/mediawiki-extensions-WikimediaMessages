@@ -73,7 +73,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudobotten",
 	"group-founder": "Grënner",
 	"group-founder-member": "{{GENDER:$1|Grënner}}",
-	"grouppage-founder": "{{ns:project}}:Grënner",
 	"group-import": "Importateuren",
 	"group-import-member": "{{GENDER:$1|Importateur|Importatrice}}",
 	"grouppage-import": "{{ns:project}}:Importateuren",

@@ -67,7 +67,6 @@
 	"grouppage-flood": "{{ns:project}}:Bot brükern",
 	"group-founder": "Grünjleiern",
 	"group-founder-member": "{{GENDER:$1|Grünjleier}}",
-	"grouppage-founder": "{{ns:project}}:Grünjleiern",
 	"group-import": "Importöören",
 	"group-import-member": "{{GENDER:$1|Importöör}}",
 	"grouppage-import": "{{ns:project}}:Importöören",

@@ -62,7 +62,6 @@
 	"grouppage-flood": "{{ns:project}}:बाट्योजकाः",
 	"group-founder": "संस्थापकाः",
 	"group-founder-member": "{{GENDER:$1|संस्थापकः}}",
-	"grouppage-founder": "{{ns:project}}:संस्थापकाः",
 	"group-import": "आयातकाः",
 	"group-import-member": "{{GENDER:$1|आयातकः}}",
 	"grouppage-import": "{{ns:project}}:आयातकाः",

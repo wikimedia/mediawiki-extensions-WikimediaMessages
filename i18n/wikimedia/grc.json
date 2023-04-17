@@ -31,7 +31,6 @@
 	"grouppage-confirmed": "{{ns:project}}:Ἐπιβεβαιωθέντες χρώμενοι",
 	"group-founder": "Ἱδρυταί",
 	"group-founder-member": "{{GENDER:$1|ἱδρυτής}}",
-	"grouppage-founder": "{{ns:project}}:Ἱδρυταί",
 	"group-import": "Εἰσαγωγεῖς",
 	"group-import-member": "{{GENDER:$1|εἰσαγωγεύς}}",
 	"grouppage-import": "{{ns:project}}:Εἰσαγωγεῖς",

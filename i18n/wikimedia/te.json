@@ -74,7 +74,6 @@
 	"grouppage-flood": "{{ns:project}}:బాటు వాడుకరులు",
 	"group-founder": "వ్యవస్థాపకులు",
 	"group-founder-member": "{{GENDER:$1|వ్యవస్థాపకులు}}",
-	"grouppage-founder": "{{ns:project}}:వ్యవస్థాపకులు",
 	"group-import": "దిగుమతిదార్లు",
 	"group-import-member": "{{GENDER:$1|దిగుమతిదారు}}",
 	"grouppage-import": "{{ns:project}}:దిగుమతిదార్లు",

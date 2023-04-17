@@ -76,7 +76,6 @@
 	"grouppage-flood": "{{ns:project}}:தானியங்கி பயனர்கள்",
 	"group-founder": "நிறுவனர்கள்",
 	"group-founder-member": "{{GENDER:$1|நிறுவனர்}}",
-	"grouppage-founder": "{{ns:project}}:நிறுவனர்கள்",
 	"group-import": "இறக்குமதியாளர்கள்",
 	"group-import-member": "{{GENDER:$1|இறக்குமதியாளர்}}",
 	"grouppage-import": "{{ns:project}}:இறக்குமதியாளர்கள்",

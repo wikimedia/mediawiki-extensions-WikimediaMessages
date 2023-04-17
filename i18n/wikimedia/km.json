@@ -49,7 +49,6 @@
 	"group-flood-member": "{{GENDER:$1|អ្នកប្រើប្រាស់ជារូបយន្ត}}",
 	"group-founder": "ស្ថាបនិក",
 	"group-founder-member": "{{GENDER:$1|ស្ថាបនិក}}",
-	"grouppage-founder": "{{ns:project}}:ស្ថាបនិក",
 	"group-import": "អ្នកនាំចូល",
 	"group-import-member": "{{GENDER:$1|អ្នកនាំចូល}}",
 	"grouppage-import": "{{ns:project}}:អ្នកនាំចូល",

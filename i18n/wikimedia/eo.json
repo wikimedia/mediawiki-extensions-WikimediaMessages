@@ -79,7 +79,6 @@
 	"grouppage-flood": "{{ns:project}}:Robot-uzantoj",
 	"group-founder": "Fondintoj",
 	"group-founder-member": "{{GENDER:$1|fondinto}}",
-	"grouppage-founder": "{{ns:project}}:Fondintoj",
 	"group-import": "Importantoj",
 	"group-import-member": "{{GENDER:$1|importanto}}",
 	"grouppage-import": "{{ns:project}}:Importantoj",

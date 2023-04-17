@@ -73,7 +73,6 @@
 	"grouppage-flood": "{{ns:project}}:Pengguna bot",
 	"group-founder": "Pengasas",
 	"group-founder-member": "{{GENDER:$1|pengasas}}",
-	"grouppage-founder": "{{ns:project}}:Pengasas",
 	"group-import": "Pengimport",
 	"group-import-member": "{{GENDER:$1|pengimport}}",
 	"grouppage-import": "{{ns:project}}:Pengimport",

@@ -83,7 +83,6 @@
 	"grouppage-flood": "{{ns:project}}:Botbrugere",
 	"group-founder": "Grundlæggere",
 	"group-founder-member": "{{GENDER:$1|grundlægger}}",
-	"grouppage-founder": "{{ns:project}}:Grundlæggere",
 	"group-import": "Importører",
 	"group-import-member": "{{GENDER:$1|importør}}",
 	"grouppage-import": "{{ns:project}}:Importører",

@@ -69,7 +69,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudorobotai",
 	"group-founder": "Įkūrėjai",
 	"group-founder-member": "{{GENDER:$1|įkūrėjas|įkūrėja}}",
-	"grouppage-founder": "{{ns:project}}:Įkūrėjai",
 	"group-import": "Importuotojai",
 	"group-import-member": "{{GENDER:$1|importuotojas|importuotoja}}",
 	"grouppage-import": "{{ns:project}}:Importuotojai",

@@ -37,7 +37,6 @@
 	"group-flood-member": "{{GENDER:$1|يوزر بوت}}",
 	"group-founder": "مؤسسين",
 	"group-founder-member": "{{GENDER:$1|مؤسس}}",
-	"grouppage-founder": "{{ns:project}}:مؤسسين",
 	"group-import": "مستوردين",
 	"group-import-member": "{{GENDER:$1|مستورد}}",
 	"grouppage-import": "{{ns:project}}:مستوردين",

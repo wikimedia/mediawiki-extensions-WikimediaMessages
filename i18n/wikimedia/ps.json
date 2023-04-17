@@ -36,7 +36,6 @@
 	"grouppage-flood": "{{ns:project}}:د روباټ کارنان",
 	"group-founder": "بنسټگران",
 	"group-founder-member": "{{GENDER:$1|بنسټگر}}",
-	"grouppage-founder": "{{ns:project}}:بنسټگر",
 	"group-import": "کارنيز ګروپي لاسرسي",
 	"grouppage-import": "{{ns:project}}:کارنيز ګروپي لاسرسي",
 	"group-interface-editor": "د کتنمل سمونگران",

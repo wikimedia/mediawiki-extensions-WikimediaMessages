@@ -75,7 +75,6 @@
 	"grouppage-flood": "{{ns:project}}:Бот қатысушылар",
 	"group-founder": "Негізін салушы",
 	"group-founder-member": "{{GENDER:$1|негізін салушы}}",
-	"grouppage-founder": "{{ns:project}}:Негізін салушылар",
 	"group-import": "Импорттаушылар",
 	"group-import-member": "{{GENDER:$1|импорттаушы}}",
 	"grouppage-import": "{{ns:project}}:Импортаушылар",

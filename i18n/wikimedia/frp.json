@@ -62,7 +62,6 @@
 	"grouppage-flood": "{{ns:project}}:Drèciors de bot",
 	"group-founder": "Fondators",
 	"group-founder-member": "fondato{{GENDER:$1|r|sa}}",
-	"grouppage-founder": "{{ns:project}}:Fondators",
 	"group-import": "Importators",
 	"group-import-member": "importat{{GENDER:$1|or|rice}}",
 	"grouppage-import": "{{ns:project}}:Importators",

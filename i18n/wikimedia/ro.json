@@ -87,7 +87,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudoboți",
 	"group-founder": "Fondatori",
 	"group-founder-member": "{{GENDER:$1|fondator|fondatoare}}",
-	"grouppage-founder": "{{ns:project}}:Fondatori",
 	"group-import": "Importatori",
 	"group-import-member": "{{GENDER:$1|importator|importatoare|importator}}",
 	"grouppage-import": "{{ns:project}}:Importatori",

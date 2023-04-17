@@ -77,7 +77,6 @@
 	"grouppage-flood": "{{ns:project}}:მომხმარებელი-ბოტები",
 	"group-founder": "დამაარსებლები",
 	"group-founder-member": "{{GENDER:$1|დამაარსებელი}}",
-	"grouppage-founder": "{{ns:project}}:დამაარსებლები",
 	"group-import": "იმპორტიორები",
 	"group-import-member": "{{GENDER:$1|იმპორტიორი}}",
 	"grouppage-import": "{{ns:project}}:იმპორტიორები",

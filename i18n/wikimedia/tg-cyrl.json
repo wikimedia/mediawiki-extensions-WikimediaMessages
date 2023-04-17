@@ -20,7 +20,6 @@
 	"group-flood-member": "{{GENDER:$1|корбар-бот}}",
 	"group-founder": "Бунёдгузорон",
 	"group-founder-member": "{{GENDER:$1|асосгузор}}",
-	"grouppage-founder": "{{ns:project}}:Асосгузорон",
 	"group-import": "Воридкунандагон",
 	"group-import-member": "{{GENDER:$1|воридкунанда}}",
 	"grouppage-import": "{{ns:project}}:Воридкунандагон",

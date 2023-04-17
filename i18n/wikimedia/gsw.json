@@ -65,7 +65,6 @@
 	"grouppage-flood": "{{ns:project}}:Botbenutzer",
 	"group-founder": "Grinder",
 	"group-founder-member": "{{GENDER:$1|Grinder|Grinderi}}",
-	"grouppage-founder": "{{ns:project}}:Grinder",
 	"group-import": "Importeur",
 	"group-import-member": "{{GENDER:$1|Importeur|Importeuri}}",
 	"grouppage-import": "{{ns:project}}:Importeur",

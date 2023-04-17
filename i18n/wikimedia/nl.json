@@ -115,7 +115,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudobotgebruikers",
 	"group-founder": "oprichters",
 	"group-founder-member": "{{GENDER:$1|oprichter|oprichtster}}",
-	"grouppage-founder": "{{ns:project}}:Grondleggers",
 	"group-import": "importeurs",
 	"group-import-member": "importeur",
 	"grouppage-import": "{{ns:project}}:Importeurs",

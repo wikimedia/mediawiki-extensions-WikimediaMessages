@@ -72,7 +72,6 @@
 	"grouppage-flood": "{{ns:project}}:Përdoruesi robotë",
 	"group-founder": "Themeluesit",
 	"group-founder-member": "{{GENDER:$1|themelues|themeluese}}",
-	"grouppage-founder": "{{ns:project}}:Themelues",
 	"group-import": "Importuesit",
 	"group-import-member": "{{GENDER:$1|importues|importuese}}",
 	"grouppage-import": "{{ns:project}}:Importues",

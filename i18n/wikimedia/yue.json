@@ -54,7 +54,6 @@
 	"group-flood-member": "{{GENDER:$1|機械人用戶}}",
 	"group-founder": "創辦人",
 	"group-founder-member": "{{GENDER:$1|創辦人}}",
-	"grouppage-founder": "{{ns:project}}:創辦人",
 	"group-import": "匯入者",
 	"group-import-member": "{{GENDER:$1|匯入者}}",
 	"grouppage-import": "{{ns:project}}:匯入者",

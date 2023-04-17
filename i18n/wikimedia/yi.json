@@ -73,7 +73,6 @@
 	"grouppage-flood": "{{ns:project}}:פאלש|באטן",
 	"group-founder": "גרינדער",
 	"group-founder-member": "{{GENDER:$1|גרינדער}}",
-	"grouppage-founder": "{{ns:project}}:גרינדער",
 	"group-import": "אימפארטירערס",
 	"group-import-member": "{{GENDER:$1| אימפארטירער| אימפארטירערין}}",
 	"grouppage-import": "{{ns:project}}:אימפארטירערס",

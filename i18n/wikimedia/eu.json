@@ -77,7 +77,6 @@
 	"grouppage-flood": "{{ns:project}}:Bot lankideak",
 	"group-founder": "Fundatzaileak",
 	"group-founder-member": "{{GENDER:$1|fundatzailea}}",
-	"grouppage-founder": "{{ns:project}}:Fundatzaileak",
 	"group-import": "Inportatzaileak",
 	"group-import-member": "{{GENDER:$1|inportatzailea}}",
 	"grouppage-import": "{{ns:project}}:Inportatzaileak",

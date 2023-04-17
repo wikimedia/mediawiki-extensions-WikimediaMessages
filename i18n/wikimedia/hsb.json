@@ -67,7 +67,6 @@
 	"grouppage-flood": "{{ns:project}}:Pseudoboćiki",
 	"group-founder": "Załožerjo",
 	"group-founder-member": "{{GENDER:$1|załožer|załožerka}}",
-	"grouppage-founder": "{{ns:project}}:Załožerjo",
 	"group-import": "Importerojo",
 	"group-import-member": "{{GENDER:$1|importer|importerka}}",
 	"grouppage-import": "{{ns:project}}:Importerojo",

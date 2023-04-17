@@ -12,7 +12,6 @@
 	"group-confirmed": "ܡܦܠܚܢ̈ܐ ܡܫܪܪ̈ܐ",
 	"grouppage-confirmed": "{{ns:project}}:ܡܦܠܚܢ̈ܐ ܡܫܪܪ̈ܐ",
 	"group-founder-member": "{{GENDER:$1|ܫܬܐܣܢܐ|ܫܬܐܣܢܬܐ}}",
-	"grouppage-founder": "{{ns:project}}:ܫܬܐܣܢ̈ܐ",
 	"grouppage-import": "{{ns:project}}:ܡܥܠܢ̈ܐ",
 	"group-uploader-member": "{{GENDER:$1|ܡܣܩܢܐ|ܡܣܩܢܬܐ}}",
 	"grouppage-uploader": "{{ns:project}}:ܡܣܩܢ̈ܐ",
