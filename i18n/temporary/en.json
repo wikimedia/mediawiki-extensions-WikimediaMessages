@@ -10,5 +10,6 @@
 	"please-translate": "Please help translate to your language",
 	"thank-you": "{{GENDER:$1|Thank you.}}",
 	"specialblockfeedback": "Feedback",
-	"specialinvestigate-feedback": "Leave Feedback"
+	"specialinvestigate-feedback": "Leave Feedback",
+	"graph-disabled": ""
 }
