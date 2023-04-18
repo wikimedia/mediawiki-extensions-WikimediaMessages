@@ -16,5 +16,6 @@
 	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate.",
 	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}",
 	"specialblockfeedback": "Label for the feedback link at the top of [[Special:Block]]\n{{Identical|Feedback}}",
-	"specialinvestigate-feedback": "Label for the feedback link in the subtitle of [[Special:Investigate]]"
+	"specialinvestigate-feedback": "Label for the feedback link in the subtitle of [[Special:Investigate]]",
+	"graph-disabled": "{{Notranslate}}\n\nThis message will be shown when the temporarily disabled <code><nowiki><graph></nowiki></code> tag is used in wikitext. It should be empty by default, ready to be overridden via the MediaWiki namespace on individual wikis."
 }
