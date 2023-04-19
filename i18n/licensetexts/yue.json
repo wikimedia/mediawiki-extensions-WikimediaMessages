@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Al12si",
 			"Castelobranco",
 			"Horacewai2",
 			"Petrus Adamus",
@@ -10,6 +11,8 @@
 	},
 	"wm-license-attribution-with-author-text": "我，$1，呢個檔案嘅版權持有者，歡迎任何人係任何目的之下用呢幅圖。你可以改作、甚至用係商業用途都可以。",
 	"wm-license-attribution-without-author-text": "版權持有者同意你係任何目的之下用呢個檔案。你可以作商業用途、改變呢個作品都可以。",
+	"wm-license-artwork-title": "題",
+	"wm-license-artwork-notes": "註",
 	"wm-license-gfdl-1.2-and-later": "你經已被授權可以重製、散佈同埋修改呢個文件，根據[[{{int:wm-license-fsf-wiki-link}}|自由軟體基金會]]發佈嘅無固定段落、封面文字同封底文字 '''[[{{int:wm-license-gfdl-wiki-link}}|GNU 自由文件授權條款]]''' 第 1.2 版或者之後嘅版本。授權條款嘅副本經喺標題叫 ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU 自由文件授權條款]]'' 嘅章節入面。",
 	"wm-license-information-description": "描述",
 	"wm-license-information-source": "來源",

@@ -15,5 +15,7 @@
 	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen",
 	"thank-you": "{{GENDER:$1|Vielen Dank.}}",
 	"specialblockfeedback": "Rückmeldung",
-	"specialinvestigate-feedback": "Rückmeldung geben"
+	"specialinvestigate-feedback": "Rückmeldung geben",
+	"graph-disabled-category": "Seiten mit deaktivierten Grafiken",
+	"graph-disabled-category-desc": "Die Seite enthält ein <code><nowiki><graph></nowiki></code>-Tag, das vorübergehend nicht verfügbar ist ([[phab:T334940|T334940]])."
 }
