@@ -26,5 +26,7 @@
 	"please-translate": "Aidez-nous à traduire dans votre langue",
 	"thank-you": "{{GENDER:$1|}}Merci.",
 	"specialblockfeedback": "Commentaire",
-	"specialinvestigate-feedback": "Laisser un commentaire"
+	"specialinvestigate-feedback": "Laisser un commentaire",
+	"graph-disabled-category": "Pages avec des graphiques désactivés",
+	"graph-disabled-category-desc": "La page comprend une balise <nowiki><graph></nowiki>, qui est temporairement indisponible ([[phab:T334940|T334940]])."
 }
