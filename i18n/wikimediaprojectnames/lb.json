@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Les Meloures"
 		]
 	},
 	"project-localized-name-amwikimedia": "Wikimedia Armenien",
@@ -57,7 +58,7 @@
 	"project-localized-name-srwiki": "Serbesch Wikipedia",
 	"project-localized-name-sswiktionary": "Swazi Wiktionary",
 	"project-localized-name-stewardwiki": "Steward Communautéit",
-	"project-localized-name-sysop_itwiki": "Administrateure vun der Wikipedia op italienesch",
+	"project-localized-name-sysop_itwiki": "Administrateure vun der Wikipedia op italieenesch",
 	"project-localized-name-tcywiki": "Tulu Wikipedia",
 	"project-localized-name-tenwiki": "Wikipedia 10",
 	"project-localized-name-testwiki": "Test Wikipedia",

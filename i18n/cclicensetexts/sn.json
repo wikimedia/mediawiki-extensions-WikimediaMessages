@@ -4,7 +4,14 @@
 			"Masiziva"
 		]
 	},
+	"wm-license-cc-attribution": "Uzikano",
 	"wm-license-cc-free": "Wakasungunuka:",
 	"wm-license-cc-free-to-share-header": "kugova",
+	"wm-license-cc-free-to-share-text": "kucheza, kugovera ne kutumira basa",
+	"wm-license-cc-free-to-remix-header": "kurhimikisa",
+	"wm-license-cc-free-to-remix-text": "kugadzirisa basa",
+	"wm-license-cc-conditions": "Pasi pemamiriro anotevera:",
+	"wm-license-cc-conditions-attribution-header": "Uzikano",
+	"wm-license-cc-conditions-attribution-text": "Unofanhira kupa kiredhiti yakakodzeka, ipa kochekero yekune rezinesi, uye ratidza kana zvichinjirudzo zvaitwa. Ita sokudaro zviichienderana nenzira inonzwisisika, asi kwete nenzira ingaratidze zvekudii kuti murezinesi anokutsigira kana kushandiso kwako.",
 	"wm-license-cc-conditions-share_alike-header": "gova saizvo"
 }
