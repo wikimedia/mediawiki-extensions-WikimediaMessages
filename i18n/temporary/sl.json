@@ -15,5 +15,7 @@
 	"please-translate": "Pomagajte prevesti v vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala.}}",
 	"specialblockfeedback": "Povratne informacije",
-	"specialinvestigate-feedback": "Pustite komentar"
+	"specialinvestigate-feedback": "Pustite komentar",
+	"graph-disabled-category": "Strani z onemogočenimi grafikoni",
+	"graph-disabled-category-desc": "Stran vključuje značko <code><nowiki><graph></nowiki></code>, ki trenutno ni na voljo ([[phab:T334940|T334940]])."
 }

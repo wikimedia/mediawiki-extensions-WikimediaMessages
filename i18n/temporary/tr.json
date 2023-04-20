@@ -18,5 +18,6 @@
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
 	"thank-you": "{{GENDER:$1|Teşekkürler.}}",
 	"specialblockfeedback": "Geri bildirim",
-	"specialinvestigate-feedback": "Geri Bildirim Bırak"
+	"specialinvestigate-feedback": "Geri Bildirim Bırak",
+	"graph-disabled-category": "Grafikleri devre dışı bırakılmış sayfalar"
 }
