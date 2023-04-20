@@ -15,5 +15,7 @@
 	"please-translate": "Aiutaci a tradurre nella tua lingua",
 	"thank-you": "{{GENDER:$1|Grazie.}}",
 	"specialblockfeedback": "Feedback",
-	"specialinvestigate-feedback": "Lascia feedback"
+	"specialinvestigate-feedback": "Lascia feedback",
+	"graph-disabled-category": "Pagine con grafici disattivati",
+	"graph-disabled-category-desc": "La pagina include un tag <nowiki><graph></nowiki> che è temporaneamente non disponibile ([[phab:T334940|T334940]])."
 }
