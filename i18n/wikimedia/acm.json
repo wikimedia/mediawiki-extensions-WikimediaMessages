@@ -14,7 +14,7 @@
 	"wikibase-sitelinks-wikisource": "ويكي مصدر",
 	"wikibase-sitelinks-wikivoyage": "ويكي سفرات",
 	"wikimedia-developers": "مطورين",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nالحظر سواه $1 ($2)\nالسبب هو ''$3''\n\n*بداية المنع:$4\n*إنتهاء المنع:$5\n\nالآيبي مالك هو $6\n{{int:wikimedia-globalblocking-blockedtext-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nالحظر سواه $1 ($2)\nالسبب هو ''$3''\n\n*بداية المنع:$4\n*إنتهاء المنع:$5\n\nالآيبي مالك هو $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "احصائيات",
 	"wikimedia-cookiestatement": "بيان تعريف إلارتباطات"
 }
