@@ -87,8 +87,9 @@
 	"tag-emoji": "ايموجي",
 	"tag-AWB-description": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser آٽووِڪي.برائوزر] سان ڪيل سنوارون",
 	"shared-repo-name-shared": "وڪيميڊيا العام",
-	"wikimedia-copyright": "ھي متن <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ڪريئيٽو ڪامنز انتساب-ھڪجھڙي-ونڊ اجازتنامي</a> ھيٺ موجود آھي؛\nواڌو شرط لاڳو ٿي سگهن ٿا.\nتفصيلن لاءِ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">استعمال جا شرط</a> ڏسو.",
+	"wikimedia-copyright": "ھي متن <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ڪريئيٽو ڪامنز انتساب-ھڪجھڙي ونڊ اجازتنامي</a> ھيٺ موجود آھي؛ واڌو شرط لاڳو ٿي سگهن ٿا. تفصيل لاءِ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">استعمال جا شرط</a> ڏسو.",
 	"wikimedia-copyrightwarning": "تبديليون سانڍڻ سان، اوهان [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use استعمال جي شرطن] سان راضي آھيو ۽ پنھنجي ڀاڱيداري بغير رد ڪئي [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License سيسي بي.واءِ-ايس.اي 3.0 اجازتنامي] ۽ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جي.ايفڊي.ايل] ھيٺ جاري ڪرڻ لاءِ راضي آھيو.\nتوھان راضي آھيو تہ ڪو هائپرڳنڍڻو يا يوآرايل ڪريئيٽو ڪامنز اجازتنامي ھيٺ مناسب انتساب آھي.",
+	"wikimedia-license-links": " [https://creativecommons.org/licenses/by-sa/3.0 ڪڪ بي.واءِ-ايس.اي 3.0 اجازتنامي] ۽ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جي.ايف.ڊي اجازتنامي]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ڀليڪار}}، $1!",
 	"wikibase-repo-name": "وڪيڊيٽا",
 	"wikibase-sitelinks-wikibooks": "وڪي‌ڪتاب",
@@ -121,7 +122,8 @@
 	"wikibase-sitelinks-sitename-species": "وڪي‌جنسون",
 	"wikibase-sitelinks-sitename-wikidatawiki": "وڪيڊيٽا",
 	"wikimedia-developers": "سِٽاڪار",
-	"wikimedia-globalblocking-ipblocked": "'''توهانجي آئپي پتي تي سموريون وڪين ۾ [[m:Special:MyLanguage/Global blocks|بندش وڌي وئي آهي.]].'''\n\nبندش وڌي آهي $1 ($2).\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\nتوهانجو موجوده آئپي پتو $6 آهي.\nمھرباني ڪري مٿي ڄاڻيل سڀ ڄاڻ شامل ڪيو، جڏهن اوهان ڪٿي ٻڌائڻ چاهيو.\n\nجيڪڏهن اوهان سمجهو ٿا تہ اوهان تي بندش غلطي ۾ وڌي وئي آهي، توهان وڌيڪ ڄاڻ [[m:Special:MyLanguage/No open proxies|کليل پروڪسي نہ هجي]] عالمي پاليسي تي ڏسي سگهو ٿا.\nٻي صورت ۾، هن بندش متعلق ڳالھائڻ لاءِ [[m:Steward requests/Global|ميٽا-وڪي ۾ نظرثاني داخل ڪريو]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\nتوهانجو موجوده آئپي پتو $6 آهي.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "وڌيڪ ٻوليون",
 	"interlanguage-link-wikipedia": "وڪيپيڊيا",
 	"interlanguage-link-sitename-wikipedia": "وڪيپيڊيا، کليل ڄاڻ چيڪلو",
@@ -141,5 +143,6 @@
 	"group-docseditor": "دستاويزسازي سنواريندڙَ",
 	"group-docseditor-member": "{{GENDER:$1|دستاويزسازي سنواريندڙ}}",
 	"action-docseditor": "دستاويزسازي سنواريو",
-	"right-docseditor": "دستاويزسازي سنواريو"
+	"right-docseditor": "دستاويزسازي سنواريو",
+	"research-incentive-confirm-msg": "توهان جي مھرباني!"
 }
