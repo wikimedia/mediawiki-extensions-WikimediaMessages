@@ -4,7 +4,8 @@
 			"Diebuche",
 			"Kghbln",
 			"Multichill",
-			"Slomox"
+			"Slomox",
+			"Wikiundeplattsnacker"
 		]
 	},
 	"wm-license-artwork-artist": "Künstler/Hersteller",
@@ -42,7 +43,7 @@
 	"wm-license-creator-work-period": "Tiet vun dat Warken",
 	"wm-license-creator-work-location": "Oort vun dat Warken",
 	"wm-license-creator-linkback": "Na de Creator-Infovörlaag gahn",
-	"wm-license-gfdl-1.2-and-later": "Ünner de Maatgaven vun de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU free Lizenz för Dokumentatschoon]]''', Version 1.2 oder en latere Version, rutgeven vun de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];, dröffst du disse Datei koperen, wiedergeven un/oder ännern. Dat gifft kene unverännerlichen Afsneed un keen Ümslagtext vörn oder achtern. Der vollständige Text der Lizenz ist im Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Lizenz für freie Dokumentation]]'' verfügbar.",
+	"wm-license-gfdl-1.2-and-later": "Ünner de Maatgaven vun de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU free Lizenz för Dokumentatschoon]]''', Version 1.2 oder en latere Version, rutgeven vun de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]];, dörffst du disse Datei koperen, wiedergeven un/oder ännern; dat gifft keene unverännerlichen Afsneed un keen Ümslagtext vörn oder achtern. Den fullen Text vun den Afspraak is in't Kapitel ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU-Afspraak för friee Dokumentaschion]]'' verfögbar.",
 	"wm-license-gfdl-wiki-link": "w:nds:GNU-FDL",
 	"wm-license-information-table-summary": "En Tabell mit allens wichtige över de Datei, mit en Text, de ehr beschrifft, wokeen ehr maakt hett un wo he dat daan hett, Infos to dat Copyright un to den Born.",
 	"wm-license-information-description": "Beschrievung",

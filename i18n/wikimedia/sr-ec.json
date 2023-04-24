@@ -148,6 +148,7 @@
 	"group-translationadmin": "Администратори превода",
 	"group-translationadmin-member": "{{GENDER:$1|администратор|администраторка}} превода",
 	"grouppage-translationadmin": "{{ns:project}}:Администратори превода",
+	"tag-emoji": "Емоџи",
 	"tag-AWB": "[https://sr.wikipedia.org/wiki/Википедија:Аутовикибраузер Аутовикибраузер]",
 	"tag-AWB-description": "Измене направљене [https://sr.wikipedia.org/wiki/Википедија:Аутовикибраузер Аутовикибраузером]",
 	"shared-repo-name-shared": "Викимедијина остава",

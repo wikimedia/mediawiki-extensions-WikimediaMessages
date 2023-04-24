@@ -4,7 +4,8 @@
 			"Danmichaelo",
 			"Imre Eilertsen",
 			"Jon Harald Søby",
-			"Nemo bis"
+			"Nemo bis",
+			"Gabriel Kielland"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besøkende til denne wikien med din IP-adresse har opprettet {{PLURAL:$1|én konto|$1 kontoer}} det siste døgnet, som er det maksimale tillatte antallet i tidsperioden.\nPå grunn av dette kan ikke besøkende fra denne IP-adressen opprette flere kontoer for øyeblikket.\n\nOm du deltar på et arrangement med fokus på bidrag på Wikimedia-prosjekter, se [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Mass account creation]] for å løse problemet.",
@@ -14,7 +15,7 @@
 	"wikimedia-centralauth-uwbr-intro": "Denne siden lister opp brukere som er registrerte på denne wikien som vil bytte navn på grunn av [[m:Single User Login finalisation announcement|fullføring av kontosammenslåing]]. Mer informasjon om [[m:Help:Unified login|globale kontoer]]. Brukere kan be om å bytte navn når som helst med [[Special:GlobalRenameRequest]].",
 	"wikimedia-centralauth-uwbr-registration-nodate": "< 2006",
 	"createacct-helpusername-url": "{{ns:Project}}:Innlogging#Brukernavn",
-	"wikimedia-delete-toobig": "Denne siden har en stor redigeringshistorikk, med over $1 {{PLURAL:$1|revisjon|revisjoner}}.\nSletting av sider med veldig stor redigeringshistorikk er begrenset for å forhindre utilsiktet forstyrrelse av {{SITENAME}}.\nKontakt [[m:Special:MyLanguage/Stewards|forvalterne]] på [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] for å be om sletting av denne siden.",
+	"wikimedia-delete-toobig": "Denne siden har en stor redigeringshistorikk, med over $1 {{PLURAL:$1|sideversjon|sideversjoner}}.\nSletting av sider med veldig stor redigeringshistorikk er begrenset for å forhindre utilsiktet forstyrrelse av {{SITENAME}}.\nKontakt [[m:Special:MyLanguage/Stewards|forvalterne]] på [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] for å be om sletting av denne siden.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Ved å trykke på «$1» samtykker du i våre [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-feedback-termsofuse": "Jeg godtar å gi tilbakemelding i tråd med <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">bruksvilkårene</a>.",
 	"wikimedia-flow-terms-of-use-new-topic": "Ved å klikke på «{{int:flow-newtopic-save}}» samtykker du i våre [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under lisensene [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",

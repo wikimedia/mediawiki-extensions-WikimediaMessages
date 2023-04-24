@@ -4,7 +4,8 @@
 			"Joachim Mos",
 			"Servien",
 			"Slomox",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Wikiundeplattsnacker"
 		]
 	},
 	"wikimediamessages-desc": "Systemnarichten för Wikimedia",
@@ -51,7 +52,10 @@
 	"group-sysadmin": "System-Administraters",
 	"group-sysadmin-member": "{{GENDER:$1|System-Administrater}}",
 	"wikibase-sitelinks-wikinews": "Wikinarichten",
+	"wikibase-sitelinks-wikiquote": "Wikizitaten",
 	"wikibase-sitelinks-wikisource": "Wikiborn",
-	"wikimedia-developers": "Entwickler",
-	"wikimedia-cookiestatement": "Cookiesverklärung"
+	"wikibase-sitelinks-wikivoyage": "Wikireis",
+	"wikimedia-developers": "Moker",
+	"wikimedia-statslink": "Statistiken",
+	"wikimedia-cookiestatement": "Cookie Regeln"
 }
