@@ -7,12 +7,12 @@
 	"sitesupport": "Imma",
 	"wikimedia-copyrightwarning": "Laamiyaa wottiyoogan, neeni [https\n://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] maayettadasa, neeni guyye geennan ne oosuwaa hagan [https\n://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] yeddanassi mayettadasa. \nNeeni hyperlink woykko URL gidiyaa nebaa \nCreative Commons License yan bessaanadaan maayettadasa.",
 	"wikibase-sitelinks-wikinews": "Wiikiiodota",
-	"wikibase-sitelinks-wikiquote": "Wiikkii besuwaa",
-	"wikibase-sitelinks-wikisource": "Wiikiipulttuwaa",
-	"wikibase-sitelinks-wikivoyage": "Wiikiogiyaa",
+	"wikibase-sitelinks-wikiquote": "Wikkiigeetettidabaa",
+	"wikibase-sitelinks-wikisource": "Wikkiixaafettidabaa",
+	"wikibase-sitelinks-wikivoyage": "Wikkiimandaraa",
 	"wikimedia-developers": "Dichiyaageeta",
 	"wikimedia-globalblocking-ipblocked": "'''Ne IPee beettiyoosay ubba wiikkiiyaan teqettiis [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nTeqqidaagee $1 ($2)\nImettida gaasoy ''$3''\n\n* Teqettay doommidoy: $4\n* Teqettay gidiyoy: $5\n\nHa'i ne IPee beettiyoosay $6\nHayyanaa ha qommo qonccissota ne oyshaa oychiyoode ubban gelissa.\n\nNeeni teqettay balan polettiis gaada qoppikko, neeni gujo naqaashatanne azazota ha salo gufantto polisiyaappe demmanawu danddayaasa [[m:Special:MyLanguage/No open proxies|No open proxies]].\nHagaadan gidana xayikko, teqettaabaa tobbanaassi hayyanaa ne oyshaa hagan wotta [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ne kyshan go'an pee'ida issi woykko hegaappe daro proksii serveree salo gufantto xekkan teqettiis [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nTeqqidaagee $1 ($2)\nImettida gaasoy ''$3''\n\n* Teqettay doommidoy: $4\n* Teqettay gidiyoy: $5\n\nHa'i ne IPee beettiyoosay $6\nHayyanaa ha qommo qonccissota ne oyshaa oychiyoode ubban gelissa.\n\nNeeni teqettay balan polettiis gaada qoppikko, neeni gujo naqaashatanne azazota ha salo gufantto polisiyaappe demmanawu danddayaasa [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy. Hagaadan gidana xayikko, teqettaabaa tobbanaassi hayyanaa ne oyshaa hagan wotta  [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-statslink": "Istaatistikisiya",
-	"wikimedia-cookiestatement": "Giyo qaalaa"
+	"wikimedia-cookiestatement": "Qonccissota"
 }

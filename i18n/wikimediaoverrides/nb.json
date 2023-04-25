@@ -4,7 +4,8 @@
 			"Danmichaelo",
 			"Imre Eilertsen",
 			"Jon Harald Søby",
-			"Nemo bis"
+			"Nemo bis",
+			"Gabriel Kielland"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besøkende til denne wikien med din IP-adresse har opprettet {{PLURAL:$1|én konto|$1 kontoer}} det siste døgnet, som er det maksimale tillatte antallet i tidsperioden.\nPå grunn av dette kan ikke besøkende fra denne IP-adressen opprette flere kontoer for øyeblikket.\n\nOm du deltar på et arrangement med fokus på bidrag på Wikimedia-prosjekter, se [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Mass account creation]] for å løse problemet.",
@@ -15,7 +16,7 @@
 	"wikimedia-centralauth-login-error-locked": "<strong>Denne kontoen er [[m:Special:MyLanguage/Global locks|låst globalt]].</strong> {{GENDER:$1|Du}} vil ikke kunne logge inn på Wikimedia-wikier. [[m:Special:Contact/stewards|Kontakt forvalterne]] om {{GENDER:$1|du}} har noen spørsmål.",
 	"createacct-helpusername-url": "{{ns:Project}}:Innlogging#Brukernavn",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 globale bidrag] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} sjekkinger] • [{{fullurl:Special:Block/$1}} Lokal blokkering] eller [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 global blokkering] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geografisk beliggenhet] • [//ipcheck.toolforge.org/index.php?ip=$1 sjekk av proxy-indikator] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
-	"wikimedia-delete-toobig": "Denne siden har en stor redigeringshistorikk, med over $1 {{PLURAL:$1|revisjon|revisjoner}}.\nSletting av sider med veldig stor redigeringshistorikk er begrenset for å forhindre utilsiktet forstyrrelse av {{SITENAME}}.\nKontakt [[m:Special:MyLanguage/Stewards|forvalterne]] på [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] for å be om sletting av denne siden.",
+	"wikimedia-delete-toobig": "Denne siden har en stor redigeringshistorikk, med over $1 {{PLURAL:$1|sideversjon|sideversjoner}}.\nSletting av sider med veldig stor redigeringshistorikk er begrenset for å forhindre utilsiktet forstyrrelse av {{SITENAME}}.\nKontakt [[m:Special:MyLanguage/Stewards|forvalterne]] på [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] for å be om sletting av denne siden.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Ved å trykke på «$1» samtykker du i våre [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under {{PLURAL:$3|lisensen|lisensene}} $2.",
 	"wikimedia-feedback-termsofuse": "Jeg godtar å gi tilbakemelding i tråd med <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">bruksvilkårene</a>.",
 	"wikimedia-flow-terms-of-use-new-topic": "Ved å klikke på «{{int:flow-newtopic-save}}» samtykker du i våre [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under {{PLURAL:$2|lisensen|lisensene}} $1.",

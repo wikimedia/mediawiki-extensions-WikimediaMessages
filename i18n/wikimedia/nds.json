@@ -52,8 +52,10 @@
 	"group-sysadmin": "System-Administraters",
 	"group-sysadmin-member": "{{GENDER:$1|System-Administrater}}",
 	"wikibase-sitelinks-wikinews": "Wikinarichten",
+	"wikibase-sitelinks-wikiquote": "Wikizitaten",
 	"wikibase-sitelinks-wikisource": "Wikiborn",
-	"wikimedia-developers": "Entwickler",
+	"wikibase-sitelinks-wikivoyage": "Wikireis",
+	"wikimedia-developers": "Moker",
 	"wikimedia-statslink": "Statistiken",
-	"wikimedia-cookiestatement": "Cookiesverklärung"
+	"wikimedia-cookiestatement": "Cookie Regeln"
 }

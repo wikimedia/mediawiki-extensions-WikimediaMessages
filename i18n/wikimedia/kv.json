@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Enye Lav"
+			"Enye Lav",
+			"Merrahtar"
 		]
 	},
 	"sitesupport": "Донатавны",
 	"wikimedia-copyright": "Текстыс восьса <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\"> Creative Commons Attribution-ShareAlike лицензия серти</a>, но ӧткымынторсӧ вермӧ лоны урчитӧма мукӧд ногӧн. Унджык видзӧд <a href=\"https://foundation.wikimedia.org/wiki/Вӧдитчыны урчитанторъяс\">Вӧдитчыны урчитанторъясысь</a>.",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Видза корам}}, $1!",
 	"wikibase-sitelinks-wikinews": "Вики выльторъяс",
 	"wikibase-sitelinks-wikiquote": "Викицитата",
 	"wikibase-sitelinks-wikisource": "Викитека",
