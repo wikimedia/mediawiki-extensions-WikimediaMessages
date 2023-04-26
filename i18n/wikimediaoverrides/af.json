@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Naudefj"
+			"Naudefj",
+			"Rooiratel"
 		]
 	},
 	"wikimedia-createacct-imgcaptcha-help": "Kan nie die beeld sien nie? [[{{MediaWiki:createacct-captcha-help-url}}|Vra dan 'n gebruiker aan]]",
 	"wikimedia-centralauth-groupname": "die Wikimedia-stigting",
 	"createacct-helpusername-url": "{{ns:Project}}:Gebruikersnaambeleid",
+	"wikimedia-discussiontools-replywidget-terms-click": "Deur \"$1\" te klik, stem jy in tot ons [https://foundation.wikimedia.org/wiki/Terms_of_Use Gebruiksvoorwaardes] en stem jy in om jou teks onherroeplik vry te stel {{PLURAL:$3|onder}} $2.",
 	"wikimedia-sitematrix": "Lys van Wikimedia-wiki's",
 	"wikimedia-sitematrix-others": "Ander projekte van Wikimedia",
 	"wikimedia-sitematrix-summary": "Die spesiale bladsy wys al die Wikimedia-wiki's."

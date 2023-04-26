@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"咽頭べさ",
-			"Aey Tai Nuea"
+			"Aey Tai Nuea",
+			"Amire80"
 		]
 	},
 	"sitesupport": "ᥘᥧᥱ ᥖᥣᥢᥰ",
@@ -12,7 +13,7 @@
 	"wikibase-sitelinks-wikiquote": "ᥝᥤᥱ ᥑᥤᥱ ᥑᥣᥛᥰ ᥛᥣᥭᥴ",
 	"wikibase-sitelinks-wikisource": "ᥝᥤᥱ ᥑᥤᥱ ᥒᥝᥲ ᥙᥪᥢᥳ",
 	"wikibase-sitelinks-wikivoyage": "ᥝᥤᥱ ᥑᥤᥱ ᥝᥩᥭᥰ ᥟᥥᥖᥱ ᥓᥝ",
-	"wikimedia-developers": "ᥚᥧᥱ ᥑᥨᥒᥴ ᥔᥣᥒᥲ",
+	"wikimedia-developers": "ᥚᥧᥱ ᥑᥨᥒ ᥔᥣᥒᥲ",
 	"wikimedia-globalblocking-ipblocked": "'''IP address ᥓᥝᥲ ᥐᥝᥱ ᥘᥭᥳ ᥗᥧᥐᥱ [[m:Special:MyLanguage/Global blocks|ᥖᥖᥴ ᥝᥭᥳ ᥐᥣ ᥖᥤ Wikis ᥖᥒᥰ ᥔᥥᥒᥲ ᥖᥒᥰ ᥛᥨᥖᥱ]].''' \n\nᥘᥩᥒ ᥞᥥᥳ ᥖᥖᥴ ᥟᥢ ᥘᥭᥳ $1 ($2) ᥐᥨᥝᥳ ᥞᥥᥖᥱ ᥝᥭᥳ.\nᥘᥩᥒ ᥖᥣᥒᥰ ᥛᥢᥰ ᥖᥥᥳ ᥙᥥᥢ ''$3''. \n\n* ᥖᥥᥱ ᥞᥥᥳ ᥖᥖᥴ: $4\n* ᥞᥥᥳ ᥖᥖᥴ ᥖᥨᥝᥱ: $5\n\n\nIP address ᥓᥝᥲ ᥐᥝᥱ ᥖᥪᥰ ᥕᥧᥱ ᥘᥭᥳ ᥙᥥᥢ $6 .\nᥘᥩᥒ ᥟᥢ ᥙᥣᥰ ᥝᥭᥳ ᥖᥒᥰ ᥚᥣᥭᥱ ᥘᥫᥴ ᥖᥒᥰ ᥔᥥᥒᥲ ᥘᥭᥳ ᥛᥢᥰ ᥙᥥᥢ ᥞᥨᥝᥴ ᥕᥩᥭ ᥟᥢ ᥘᥭᥲ ᥓᥩᥙᥱ ᥞᥣᥴ ᥟᥢ ᥓᥝᥲ ᥐᥝᥱ ᥞᥥᥖᥱ ᥕᥧᥱ ᥘᥢᥳ ᥟᥩᥲ. \n\nᥔᥒᥴ ᥓᥫᥳ ᥓᥝᥲ ᥐᥝᥱ ᥕᥧᥛᥱ ᥕᥛ ᥝᥣ ᥘᥩᥒ ᥞᥥᥳ ᥖᥖᥴ ᥘᥭᥳ ᥛᥢᥰ ᥘᥭᥲ ᥙᥥᥢ ᥕᥩᥢᥳ ᥘᥩᥒ ᥚᥤᥖᥴ ᥙᥫᥒ ᥘᥭᥴ ᥓᥝᥲ ᥐᥝᥱ ᥓᥣᥒ ᥔᥩᥐ ᥞᥣᥴ ᥖᥨᥭᥰ ᥘᥩᥢᥳ ᥑᥣᥝᥱ ᥘᥦᥲ ᥑᥨᥝᥲ ᥓᥤᥳ ᥔᥒᥱ ᥐᥣ ᥖᥤ ᥘᥬ [[m:Special:MyLanguage/No open proxies|proxies ᥟᥛᥱ ᥚᥧᥭᥱ]] ᥘᥣᥭᥰ ᥒᥣᥢᥰ ᥘᥨᥐ ᥐᥛᥱ ᥚᥣᥱ ᥘᥭᥲ ᥕᥧᥱ.\nᥙᥩᥰ ᥟᥛᥱ ᥘᥢᥴ ᥖᥣᥱ ᥖᥥᥴ ᥟᥧᥙᥱ ᥐᥧᥛ ᥐᥢ ᥘᥩᥒ ᥞᥥᥳ ᥖᥖᥴ ᥘᥭᥳ ᥘᥭᥴ ᥑᥦᥢᥰ ᥖᥨᥝ  [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''ᥔᥣᥭᥴᥢᥦᥖᥱ ᥟᥢᥴᥓᥬᥳᥝᥭᥳ ᥖᥣᥱᥟᥢᥴᥓᥝᥲᥐᥝᥱ ᥖᥧᥐᥰᥕᥩᥢᥰᥛᥣᥰᥢᥭᥳ ᥛᥢᥰᥙᥥᥢᥴ [[m:Special:MyLanguage/Global blocks|globally blocked]].''' \n\nᥘᥩᥒᥲᥞᥥᥳᥖᥖᥰᥟᥢᥴᥢᥭᥳ $1 ($2) ᥐᥩᥳᥞᥥᥖᥰᥝᥭᥳ.\nᥘᥩᥒᥲᥖᥣᥒᥰᥛᥢᥰᥖᥦᥳ ᥙᥥᥢᥴ ''$3''. \n\n* ᥖᥥᥱ ᥞᥥᥳ ᥖᥖᥴ: $4\n* ᥞᥥᥳ ᥖᥖᥴ ᥖᥨᥝᥱ: $5 \n\nᥞᥥᥒᥰ ᥘᥤᥐ ᥔᥣᥭᥴ ᥢᥦᥖᥱ ᥟᥢ ᥗᥧᥐᥱ ᥖᥖᥴ ᥝᥭᥳ ᥘᥭᥳ ᥙᥥᥢ $6.\nᥘᥩᥒ ᥟᥢ ᥙᥣᥰ ᥝᥭᥳ ᥖᥒᥰ ᥚᥣᥭᥱ ᥘᥫᥴ ᥖᥒᥰ ᥔᥥᥒᥲ ᥘᥭᥳ ᥛᥢᥰ ᥙᥥᥢ ᥞᥨᥝᥴ ᥕᥩᥭ ᥟᥢ ᥘᥭᥲ ᥓᥩᥙᥱ ᥞᥣᥴ ᥟᥢ ᥓᥝᥲ ᥐᥝᥱ ᥞᥥᥖᥱ ᥕᥧᥱ ᥘᥢᥳ ᥟᥩᥲ. \n\nᥔᥒᥴ ᥓᥫᥳ ᥓᥝᥲ ᥐᥝᥱ ᥕᥧᥛᥱ ᥕᥛ ᥝᥣ ᥘᥩᥒ ᥞᥥᥳ ᥖᥖᥴ ᥘᥭᥳ ᥛᥢᥰ ᥘᥭᥲ ᥙᥥᥢ ᥕᥩᥢᥳ ᥘᥩᥒ ᥚᥤᥖᥴ ᥙᥫᥒ ᥘᥭᥴ ᥓᥝᥲ ᥐᥝᥱ ᥓᥣᥒ ᥔᥩᥐ ᥞᥣᥴ ᥖᥨᥭᥰ ᥘᥩᥢᥳ ᥑᥣᥝᥱ ᥘᥦᥲ ᥑᥨᥝᥲ ᥓᥤᥳ ᥔᥒᥱ ᥐᥣ ᥖᥤ [[m:Special:MyLanguage/No open proxies|No open proxies]] ᥘᥣᥭᥰ ᥒᥣᥢᥰ ᥘᥨᥐ ᥐᥛᥱ ᥚᥣᥱ ᥘᥭᥲ ᥕᥧᥱ.\nᥙᥩᥰ ᥟᥛᥱ ᥘᥢᥴ ᥖᥣᥱ ᥖᥥᥴ ᥟᥧᥙᥱ ᥐᥧᥛ ᥐᥢ ᥘᥩᥒ ᥞᥥᥳ ᥖᥖᥴ ᥘᥭᥳ ᥘᥭᥴ ᥑᥦᥢᥰ ᥖᥨᥝ [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-statslink": "ᥔᥥᥢᥲ ᥔᥣᥭᥴ ᥛᥣᥭᥴ",

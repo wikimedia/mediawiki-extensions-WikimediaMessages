@@ -6,5 +6,12 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(مون کي چونڊڻ ۾ مدد ڪريو)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "توھان پنھنجي ترجيحن جو صفحو [[m:Special:CentralAuth/$1|ٻين وڪيميڊيا رٿائن جن ۾ توھان ڀاڱيداري ڪئي آھي]] تي ڏسي سگهو ٿا تہ جيئن انھن تان پنھنجي کاتي جي ڊيٽا لاھي سگهو.",
-	"wikimedia-createacct-imgcaptcha-help": "عڪس نٿا ڏسي سگهو؟ [[{{MediaWiki:createacct-captcha-help-url}}|کاتي جي گهر ڪريو]]"
+	"wikimedia-createacct-imgcaptcha-help": "عڪس نٿا ڏسي سگهو؟ [[{{MediaWiki:createacct-captcha-help-url}}|کاتي جي گهر ڪريو]]",
+	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" کي ڪلڪ ڪرڻ سان، توھان اسان جي [https://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $2 {{PLURAL:$3|ھيٺ}} جاري ڪريو ٿا.",
+	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" کي ڪلڪ ڪرڻ سان، توھان اسان جي [https\n://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $1 {{PLURAL:$2|ھيٺ}} جاري ڪريو ٿا.",
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply\n-link}}\" کي ڪلڪ ڪرڻ سان، توھان اسان جي [https\n://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $1 {{PLURAL:$2|ھيٺ}} جاري ڪريو ٿا.",
+	"wikimedia-flow-terms-of-use-edit": "سانڍڻ سان، توھان اسان جي [https://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $1 {{PLURAL:$2|ھيٺ}} جاري ڪريو ٿا.",
+	"wikimedia-flow-terms-of-use-summarize": "\"{{int:flow-topic-action-update-topic-summary}}\" کي ڪلڪ ڪرڻ سان، توھان اسان جي [https\n://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $1 {{PLURAL:$2|ھيٺ}} جاري ڪريو ٿا.",
+	"wikimedia-flow-terms-of-use-lock-topic": "\"\"{{int\n:flow-topic-action-lock-topic}}\" کي ڪلڪ ڪرڻ سان، توھان اسان جي [https\n://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $1 {{PLURAL:$2|ھيٺ}} جاري ڪريو ٿا.",
+	"wikimedia-flow-terms-of-use-unlock-topic": "\"{{int:flow-topic-action-unlock-topic}}\" کي ڪلڪ ڪرڻ سان، توھان اسان جي [https\n://foundation.wikimedia.org/wiki/Terms_of_Use استعمال جي شرطن] سان راضپو ڏيکاريو ٿا ۽ ناقابل واپسي طور پنھنجو متن $1 {{PLURAL:$2|ھيٺ}} جاري ڪريو ٿا."
 }
