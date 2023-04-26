@@ -279,6 +279,7 @@ class Hooks implements
 		$rightsPage = $config->get( 'RightsPage' );
 		$rightsUrl = $config->get( 'RightsUrl' );
 		$commonLicenses = [
+			'Creative Commons Attribution-Share Alike 4.0' => 'CC BY-SA 4.0',
 			'Creative Commons Attribution-Share Alike 3.0' => 'CC BY-SA 3.0',
 			'Creative Commons Attribution 3.0' => 'CC BY 3.0',
 			'Creative Commons Attribution 2.5' => 'CC BY 2.5',
