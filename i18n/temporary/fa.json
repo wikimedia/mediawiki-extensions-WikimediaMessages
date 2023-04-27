@@ -17,5 +17,6 @@
 	"hello": "سلام",
 	"please-translate": "لطفاً برای ترجمه به زبان مادریتان کمک کنید",
 	"thank-you": "{{GENDER:$1|ممنون.}}",
-	"specialblockfeedback": "بازخورد"
+	"specialblockfeedback": "بازخورد",
+	"specialinvestigate-feedback": "بازخورد بگذارید"
 }
