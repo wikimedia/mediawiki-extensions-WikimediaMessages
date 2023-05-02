@@ -47,5 +47,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep naar de meta.wikimedia.org wiki.",
 	"wikimedia-urlshortener-badaccessgroups": "Korte links kunnen alleen via de pagina [[:m:Special:UrlShortener|Special:UrlShortener]] op meta.wikimedia.org worden aangemaakt.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep naar de meta.wikimedia.org wiki.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacybeleid Privacybeleid]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacybeleid Privacybeleid]",
+	"wikimedia-ipinfo-preference-use-agreement": "Ik ga akkoord met het gebruik van dit hulpmiddel in overeenstemming met de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines richtlijnen] en zal deze alleen gebruiken voor het onderzoeken of voorkomen van vandalisme, misbruik of andere schendingen van richtlijnen van de Wikimedia Foundation of de gemeenschap."
 }
