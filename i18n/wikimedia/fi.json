@@ -267,6 +267,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Latautuiko tämä sivu tarpeeksi nopeasti?",
 	"group-oathauth-tester": "Kaksivaiheisen tunnistautumisen kokeilijat",
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
+	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",
 	"right-docseditor": "Muokata ohjeistusta",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Kyllä",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ei",
