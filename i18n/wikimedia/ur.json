@@ -133,6 +133,7 @@
 	"group-translationadmin": "منتظمین ترجمہ",
 	"group-translationadmin-member": "{{GENDER:$1|منتظمین ترجمہ}}",
 	"grouppage-translationadmin": "{{ns:project}}:منتظمین ترجمہ",
+	"group-wmf-officeit": "ویکیمیڈیا فاؤنڈیشن کا دفتر برائے اطلاعاتی ٹیکنالوجی",
 	"group-wmf-researcher": "WMF محققین",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF محققین}}",
 	"group-wmf-supportsafety": "ویکیمیڈیا معاونت و حفاظت",
