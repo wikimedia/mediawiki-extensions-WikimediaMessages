@@ -4,6 +4,12 @@
 			"Naudefj"
 		]
 	},
+	"grouppage-oversight": "{{ns:project}}:Toesighouer",
 	"group-oversight": "Toesighouers",
-	"group-oversight-member": "Toesighouer"
+	"group-oversight-member": "{{GENDER:$1|toesighouer}}",
+	"hello": "Hallo",
+	"please-translate": "Help met die vertaal na uw taal",
+	"thank-you": "{{GENDER:$1|Dank u.}}",
+	"specialblockfeedback": "Terugvoer",
+	"specialinvestigate-feedback": "Gee terugvoer"
 }

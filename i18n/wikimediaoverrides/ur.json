@@ -7,6 +7,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(نام کے انتخاب میں مدد کریں)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "دوسرے ویکی منصوبوں پر اپنے کھاتے کی تفصیلات حاصل کرنے کے لیے آپ [[m:Special:CentralAuth/$1|ان منصوبوں پر اپنی ترجیحات کے صفحہ]] سے مراجعت کر سکتے ہیں۔",
 	"wikimedia-centralauth-groupname": "ویکیمیڈیا فاؤنڈیشن",
 	"createacct-helpusername-url": "{{ns:Project}}:صارف_نام_حکمت_عملی",
 	"wikimedia-flow-terms-of-use-edit": "تبدیلیاں محفوظ کرتے ہی،\nآپ کو [[wmf:Terms of Use|استعمال کی جملہ شرائط]] اور اس بات سے متفق تصور کیا جائے گا کہ آپ اپنی اس شراکت کو [[کریئیٹیو کامنز اجازت نامہ|کریئیٹیو کامنز انتساب-یکساں شراکت اجازت نامہ (CC BY-SA 3.0)]] اور [[جی این یو آزاد مسوداتی اجازہ|جی این یو آزاد مسوداتی اجازت نامہ (GFDL)]] کے تحت شائع کر رہے ہیں۔",

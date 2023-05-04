@@ -128,5 +128,7 @@
 	"right-editeditorprotected": "改保護等級係「{{int:protect-level-editeditorprotected}}」嘅版面",
 	"right-editextendedsemiprotected": "改保護等級係「{{int:protect-level-editextendedsemiprotected}}」嘅版面",
 	"wikimedia-statslink": "統計",
-	"wikimedia-cookiestatement": "Cookie聲明"
+	"wikimedia-cookiestatement": "Cookie聲明",
+	"technical-maintenance-soon": "就嚟系統維護：",
+	"technical-maintenance-edit": "期間你改嘅嘢可能儲存唔到。"
 }
