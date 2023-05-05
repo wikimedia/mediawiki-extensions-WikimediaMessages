@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Akbar Soepadhi",
 			"Dipusparaga",
 			"Irwangatot",
 			"Kandar",
 			"MinecraftAustralia",
+			"Pijri Paijar",
 			"Uchup19"
 		]
 	},
@@ -41,16 +43,16 @@
 	"group-steward-member": "steward",
 	"group-sysadmin": "Kuncén sistim",
 	"group-sysadmin-member": "kuncén sistem",
-	"wikimedia-copyright": "Téks ditangtayungan ku <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nkatangtuan tambahan lianna bisa dilarapkeun ogé.\nBaca <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Katangtuan Pamakéan</a> pikeun leuwih lengkep.",
-	"wikimedia-copyrightwarning": "Ku nyimpen parobahanana, anjeun satuju kana [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Katangtuan Pamakéan], sarta anjeun salawasna satuju pikeun ngaleupaskeun kontribusi anjeun dina payung [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License Lisénsi CC BY-SA 3.0] jeung [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAnjeun satuju yén hipertutumbu atawa URL téh atribusi meujeuh dina payung lisénsi Creative Commons.",
+	"wikimedia-copyright": "Téks sadia dina <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Lisensi</a> <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike</a> ;",
+	"wikimedia-copyrightwarning": "Ku nyimpen parobahanana, anjeun satuju kana [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], jeung anjeun satuju pikeun ngaluarkeun kontribusi anjeun dina [https://en. wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] jeung [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License]. URL mangrupikeun atribusi anu cekap dina lisénsi Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Wilujeng sumping}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiwarta",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikiquote": "Wikicutatan",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Pamekar",
-	"wikimedia-globalblocking-ipblocked": "'''Alamat IP Anjeun geus [[m:Special:MyLanguage/Global blocks|dipeungpeuk dina sakabéh wiki]].'''\n\nPameungpeukanna ku $1 ($2).\nAlesan téh cenah ''$3''.\n\n*Mimiti dipeungpeuk: $4\n*Basina nepi: $5\n\n\nKiwari alamat IP Anjeun nyaéta $6.\nPék asupkeun wincikan di luhur kana unggal patanyaan Anjeun.\n\nMun Anjeun yakin yén ieu pameungpeukan mangrupa kasalahan, Anjeun bisa manggihan informasi panambah sarta pituduh na kawijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi kabuka]].\nAtawa mun henteu, sawalakeun ieu perkara di [[m:Steward requests/Global|Méta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Sérver proksi anu dipénta jang pakéeun Anjeun geus [[m:Special:MyLanguage/Global blocks|dipeungpeuk dina sakabéh wiki]].'''\n\nPameungpeukanna ku $1 ($2).\nAlesan téh cenah ''$3''.\n\n*Mimiti dipeungpeuk: $4\n*Basina nepi: $5\n\n\nKiwari alamat IP Anjeun nyaéta $6.\nPék asupkeun wincikan di luhur kana unggal patanyaan Anjeun.\n\nMun Anjeun yakin yén ieu pameungpeukan mangrupa kasalahan, Anjeun bisa manggihan informasi panambah sarta pituduh na kawijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi kabuka]].\nAtawa mun henteu, sawalakeun ieu perkara di [[m:Steward requests/Global|Méta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\nAlamat IP anjeun ayeuna $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",
 	"eri-rcfilters-tour-highlight-title": "Hasil kodeu warna anjeun",
 	"eri-rcfilters-tour-highlight-button": "Okéh, ngarti",
 	"wikimedia-statslink": "Statistik",
