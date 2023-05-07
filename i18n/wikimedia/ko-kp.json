@@ -1,0 +1,38 @@
+{
+	"@metadata": {
+		"authors": [
+			"Delim",
+			"Garam",
+			"Nuevo Paso",
+			"孟天皓"
+		]
+	},
+	"sitesupport": "기부",
+	"tooltip-n-sitesupport": "지원을 기다립니다",
+	"wikimedia-copyright": "내용은 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ko\">크리에이티브코먼즈 저작자표시-동일조건변경허락 허가권</a>에 따라 사용할수 있으며\n추가적인 조건이 적용될수 있습니다.\n자세한 내용은 <a href=\"https://wikimediafoundation.org/wiki/Terms_of_Use/ko\">리용 약관</a>을 참조하십시오.",
+	"wikimedia-copyrightwarning": "변경사항을 저장한다는 것은, [https://wikimediafoundation.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 코먼즈 저작자표시-동일조건변경허락 3.0 허가권]과 [https://www.gnu.org/copyleft/fdl.html GNU 자유 문서 사용 허가서](GFDL)에 따라 기여를 영구히 배포하는데 동의하며, 크리에이티브코먼즈 허가권에 따라 하이퍼련결이나 URL이 저작자표시의 수단으로 활용될수 있음에도 동의한다는 것을 의미합네다.",
+	"wikibase-sitelinks-wikinews": "위키소식",
+	"wikibase-sitelinks-wikiquote": "위키인용집",
+	"wikibase-sitelinks-wikisource": "위키문헌",
+	"wikibase-sitelinks-wikivoyage": "위키려행",
+	"wikibase-otherprojects-commons": "위키매체 공용",
+	"wikibase-otherprojects-testwikidata": "위키자료",
+	"wikibase-otherprojects-meta": "메타위키",
+	"wikibase-otherprojects-species": "위키생물종",
+	"wikibase-otherprojects-wikibooks": "위키책",
+	"wikibase-otherprojects-wikidata": "위키자료",
+	"wikibase-otherprojects-wikinews": "위키소식",
+	"wikibase-otherprojects-wikiquote": "위키인용집",
+	"wikibase-otherprojects-wikipedia": "위키백과",
+	"wikibase-otherprojects-wikisource": "위키문헌",
+	"wikibase-otherprojects-wikiversity": "위키배움터",
+	"wikibase-otherprojects-wikivoyage": "위키려행",
+	"wikibase-otherprojects-wiktionary": "위키낱말사전",
+	"wikibase-sitelinks-sitename-metawiki": "메타위키",
+	"wikibase-sitelinks-sitename-species": "위키생물종",
+	"wikimedia-developers": "개발자",
+	"wikimedia-globalblocking-ipblocked": "'''당신의 IP 주소는 [[m:Special:MyLanguage/Global blocks|모든 위키에서 차단]]되였습니다.'''\n\n차단한 사용자는 $1 ($2)입니다.\n차단한 리유는 ''$3''입니다.\n\n* 차단 시점: $4\n* 차단 기한: $5\n\n당신의 현재 IP 주소는 $6입니다.\n차단의 재검토를 요청할 때 위의 정보를 포함해주세요.\n\n당신이 실수로 차단되였다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개된 대리봉사기의 금지]] 전역 정책에서 추가적인 설명을 찾아볼수 있습니다.\n차단에 대해 재검토를 요청하려면 [[m:Steward requests/Global|메타위키에 차단 재검토 요청]]을 남기십시오.",
+	"wikimedia-globalblocking-ipblocked-xff": "'''당신이 사용한 대리봉사기는 [[m:Special:MyLanguage/Global blocks|전역 차단]]되였습니다.'''\n\n차단한 사용자는 $1 ($2)입니다.\n\n차단한 리유는 ''$3''입니다.\n\n* 차단 시점: $4\n* 차단 기한: $5\n\n당신의 대리봉사기 IP 주소는 $6입니다.\n차단 재검토를 요청할 때 위의 정보를 포함해주세요.\n\n당신이 실수로 차단되였다고 생각한다면 [[m:Special:MyLanguage/No open proxies|공개된 대리봉사기의 금지]] 전역 정책에서 더많은 정보를 찾을수 있습니다.\n차단의 재검토는 [[m:Steward requests/Global|메타위키]]에서 요청하실수 있습니다.",
+	"wikimedia-statslink": "통계",
+	"wikimedia-cookiestatement": "쿠키 정책"
+}

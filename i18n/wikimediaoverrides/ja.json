@@ -43,5 +43,8 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/プライバシー・ポリシー プライバシー・ポリシー]",
 	"wikimedia-ipinfo-source-geoip2": "このツールは[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP情報ツールのガイドライン]に基づいて使用する必要があります。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP 情報ツールは、MaxMind データベースを使用して、おおよその位置、プロキシ、およびこの IP アドレスを共有しているデバイスの数などの詳細を表示します。有効にする前に、[https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP 情報ツールのガイドライン] を確認してください。",
-	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP情報ツールのガイドライン]に従い、荒らしやその他ウィキメディア財団またはコミュニティの方針に対する違反行為の阻止または調査のためにのみ、このツールを使用することに同意します。"
+	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP情報ツールのガイドライン]に従い、荒らしやその他ウィキメディア財団またはコミュニティの方針に対する違反行為の阻止または調査のためにのみ、このツールを使用することに同意します。",
+	"wikimedia-globalblocking-blockedtext-on-range": "あなたのIPアドレスは、[[m:Special:MyLanguage/Global blocks|すべてのウィキメディア財団のウィキで投稿ブロックされている]]IPアドレス範囲に入っています。",
+	"wikimedia-globalblocking-blockedtext-mistake": "もし、この投稿ブロックが錯誤によるものだと考えているのであれば、グローバル方針の[[m:Special:MyLanguage/No open proxies|No open proxies]]（公開プロキシの規制）で詳細情報などが入手できます。あるいは、投稿ブロックに関して議論したい場合は、[[m:Steward requests/Global|メタウィキでブロックの見直しを依頼]]してください。",
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "[[m:Special:MyLanguage/Stewards|スチュワード]]用 [[m:Special:MyLanguage/VRT|VRT]] キューにメールを送信する (宛先: <kbd>stewards@wikimedia.org</kbd>) こともできます。"
 }
