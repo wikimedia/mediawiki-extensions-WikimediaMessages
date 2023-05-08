@@ -19,5 +19,6 @@
 	"thank-you": "{{GENDER:$1|Teşekkürler.}}",
 	"specialblockfeedback": "Geri bildirim",
 	"specialinvestigate-feedback": "Geri Bildirim Bırak",
-	"graph-disabled-category": "Grafikleri devre dışı bırakılmış sayfalar"
+	"graph-disabled-category": "Grafikleri devre dışı bırakılmış sayfalar",
+	"graph-disabled-category-desc": "Bu sayfa <code><nowiki><graph></nowiki></code> etiketi içeriyor, geçici olarak mevcut değildir ([[phab:T334940|T334940]])."
 }

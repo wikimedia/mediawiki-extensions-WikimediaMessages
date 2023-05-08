@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Artsiom91",
 			"Mechanizatar",
 			"Renessaince",
 			"Tomato Cream",
@@ -15,5 +16,6 @@
 	"please-translate": "Калі ласка, дапамажыце перакласці на Вашу мову",
 	"thank-you": "{{GENDER:$1|Дзякуй.}}",
 	"specialblockfeedback": "Водгук",
-	"specialinvestigate-feedback": "Пакінуць Водгук"
+	"specialinvestigate-feedback": "Пакінуць Водгук",
+	"graph-disabled-category": "Старонкі з адключанымі графікамі"
 }
