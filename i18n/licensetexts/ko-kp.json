@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Delim",
+			"Garam"
+		]
+	},
+	"wm-license-book-language": "언어",
+	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU 자유 문서 사용 허가서]]''' 1.2판 또는 [[{{int:wm-license-fsf-wiki-link}}|자유 쏘프트웨어 재단]]에서 발행한 이후 판본의 규정에 따라 본 문서를 복제하거나 개작 및 배포할수 있습니다. 본 문서에는 변경 불가 부분이 없으며, 앞 표지 구절과 뒷 표지 구절도 없습니다. 본 사용 허가서의 전체 내용은 [[{{int:wm-license-gfdl-full-1.2-link}}|GNU 자유 문서 사용 허가서]] 부분에 포함되어 있습니다.",
+	"wm-license-information-description": "설명",
+	"wm-license-information-source": "출처",
+	"wm-license-information-date": "날자",
+	"wm-license-information-author": "저자",
+	"wm-license-information-permission": "허가",
+	"wm-license-information-permission-reusing-text": "이 서류를 인용하기",
+	"wm-license-own-work": "자작",
+	"wm-license-self-multiple-licenses-select": "이 허가서 중에서 목적에 맞는것을 선택하여 사용할수 있습니다."
+}
