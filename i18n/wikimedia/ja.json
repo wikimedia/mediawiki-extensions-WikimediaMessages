@@ -48,7 +48,8 @@
 			"そらたこ",
 			"ネイ",
 			"青子守歌",
-			"아라"
+			"아라",
+			"Yusuke1109"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -355,10 +356,10 @@
 	"gadget-souspages-subpages": "下位ページ",
 	"research-incentive-message": "報酬付きの、ウィキペディア利用者調査に参加しませんか？",
 	"research-incentive-description": "フォームに必要事項を記入し、参加者リストにご登録ください。報酬付きの調査の実施について、定期的にご連絡を差し上げます。登録はご自身でいつでも解除できます。",
-	"research-incentive-answer-positive": "参加する",
-	"research-incentive-answer-negative": "参加しない",
+	"research-incentive-answer-positive": "はい",
+	"research-incentive-answer-negative": "いいえ",
 	"research-incentive-link": "https://airtable.com/shrucwUlzH0ZLEqHH",
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。.",
-	"research-incentive-confirm-msg": "ありがとうございました！",
+	"research-incentive-confirm-msg": "ありがとうございました。",
 	"ipinfo-global-contributions-url-label": "グローバル投稿記録"
 }
