@@ -1,0 +1,34 @@
+{
+	"@metadata": {
+		"authors": [
+			"Delim",
+			"Garam",
+			"Nuevo Paso",
+			"孟天皓"
+		]
+	},
+	"sitesupport": "기부",
+	"tooltip-n-sitesupport": "지원을 기다립니다",
+	"wikibase-sitelinks-wikinews": "위키소식",
+	"wikibase-sitelinks-wikiquote": "위키인용집",
+	"wikibase-sitelinks-wikisource": "위키문헌",
+	"wikibase-sitelinks-wikivoyage": "위키려행",
+	"wikibase-otherprojects-commons": "위키매체 공용",
+	"wikibase-otherprojects-testwikidata": "위키자료",
+	"wikibase-otherprojects-meta": "메타위키",
+	"wikibase-otherprojects-species": "위키생물종",
+	"wikibase-otherprojects-wikibooks": "위키책",
+	"wikibase-otherprojects-wikidata": "위키자료",
+	"wikibase-otherprojects-wikinews": "위키소식",
+	"wikibase-otherprojects-wikiquote": "위키인용집",
+	"wikibase-otherprojects-wikipedia": "위키백과",
+	"wikibase-otherprojects-wikisource": "위키문헌",
+	"wikibase-otherprojects-wikiversity": "위키배움터",
+	"wikibase-otherprojects-wikivoyage": "위키려행",
+	"wikibase-otherprojects-wiktionary": "위키낱말사전",
+	"wikibase-sitelinks-sitename-metawiki": "메타위키",
+	"wikibase-sitelinks-sitename-species": "위키생물종",
+	"wikimedia-developers": "개발자",
+	"wikimedia-statslink": "통계",
+	"wikimedia-cookiestatement": "쿠키 정책"
+}

@@ -8,11 +8,12 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(نام کے انتخاب میں مدد کریں)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "دوسرے ویکی منصوبوں پر اپنے کھاتے کی تفصیلات حاصل کرنے کے لیے آپ [[m:Special:CentralAuth/$1|ان منصوبوں پر اپنی ترجیحات کے صفحہ]] سے مراجعت کر سکتے ہیں۔",
+	"wikimedia-createacct-imgcaptcha-help": "تصویر نظر نہیں آرہی ہے؟  [[{{MediaWiki:createacct-captcha-help-url}}|کھاتے کی درخواست دیں]]",
 	"wikimedia-centralauth-groupname": "ویکیمیڈیا فاؤنڈیشن",
 	"createacct-helpusername-url": "{{ns:Project}}:صارف_نام_حکمت_عملی",
-	"wikimedia-flow-terms-of-use-edit": "تبدیلیاں محفوظ کرتے ہی،\nآپ کو [[wmf:Terms of Use|استعمال کی جملہ شرائط]] اور اس بات سے متفق تصور کیا جائے گا کہ آپ اپنی اس شراکت کو [[کریئیٹیو کامنز اجازت نامہ|کریئیٹیو کامنز انتساب-یکساں شراکت اجازت نامہ (CC BY-SA 3.0)]] اور [[جی این یو آزاد مسوداتی اجازہ|جی این یو آزاد مسوداتی اجازت نامہ (GFDL)]] کے تحت شائع کر رہے ہیں۔",
+	"wikimedia-flow-terms-of-use-edit": "تبدیلیاں شائع کرتے ہی آپ کو [[wmf:Terms of Use|استعمال کی جملہ شرائط]] اور اس بات سے متفق تصور کیا جائے گا کہ آپ اپنی اس شراکت کو [[کریئیٹیو کامنز اجازت نامہ|کریئیٹیو کامنز انتساب-یکساں شراکت اجازت نامہ (CC BY-SA 3.0)]] اور [[جی این یو آزاد مسوداتی اجازہ|جی این یو آزاد مسوداتی اجازت نامہ (GFDL)]] کے تحت شائع کر رہے ہیں۔",
 	"wikimedia-interfaceadmin-info": "حال ہی میں CSS/JS/JSON میں ترمیم کرنے کا اختیار [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] تک محدود کیا جا چکا ہے۔ مزید معلومات کے لیے [[m:Creation of separate user group for editing sitewide CSS/JS]] ملاحظہ فرمائیں۔",
 	"wikimedia-sitematrix": "ویکیمیڈیا کی ویکیوں کی فہرست",
 	"wikimedia-sitematrix-others": "ویکیمیڈیا کے دیگر منصوبے",
-	"wikimedia-sitematrix-summary": "اس خصوصی صفحے کی فہرست سب ویکیوں."
+	"wikimedia-sitematrix-summary": "اس خصوصی صفحہ پر ویکیمیڈیا کی تمام ویکیوں کی فہرست دی گئی ہے۔"
 }
