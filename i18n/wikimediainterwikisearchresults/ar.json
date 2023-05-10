@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alshamiri1",
 			"FiberAhmed",
 			"Jimmy Yelzer",
 			"Meno25",
@@ -104,6 +105,7 @@
 	"search-interwiki-results-gomwiki": "عرض النتائج من [[:gom:|ويكيبيديا الكونكانية الجوان]].",
 	"search-interwiki-results-gorwiki": "عرض النتائج من [[:gor:|ويكيبيديا الجورونتالو]].",
 	"search-interwiki-results-gotwiki": "عرض النتائج من [[:got:|ويكيبيديا القوطية]].",
+	"search-interwiki-results-gpewiki": "عرض النتائج من [[: gpe: | غانا Pidgin Wikipedia]].",
 	"search-interwiki-results-guwiki": "عرض النتائج من [[:gu:|ويكيبيديا الكجراتية]].",
 	"search-interwiki-results-gvwiki": "عرض النتائج من [[:gv:|ويكيبيديا المانكس]].",
 	"search-interwiki-results-hakwiki": "عرض النتائج من [[:hak:|ويكيبيديا الهاكا]].",
