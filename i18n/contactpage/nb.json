@@ -65,5 +65,13 @@
 	"contactpage-movecom-signup-display-name": "Navn",
 	"contactpage-movecom-signup-display-username": "Brukernavn",
 	"contactpage-movecom-signup-display-nameusername": "Navn og brukernavn",
-	"contactpage-movecom-signup-terms-label": "Jeg har lest gjennom beskrivelsen til [[Movement communications group]] og samtykker i [[Foundation:Friendly space policy|Wikimedia Fonudations inkluderingsregler]] når jeg deltar i denne gruppa. Jeg forstår at brudd på disse reglene vil føre til utestengelse fra gruppa."
+	"contactpage-movecom-signup-terms-label": "Jeg har lest gjennom beskrivelsen til [[Movement communications group]] og samtykker i [[Foundation:Friendly space policy|Wikimedia Fonudations inkluderingsregler]] når jeg deltar i denne gruppa. Jeg forstår at brudd på disse reglene vil føre til utestengelse fra gruppa.",
+	"contactpage-title-ombudscommission": "Kontakt ombudskommisjonen",
+	"contactpage-ombudscommission-case-explanation": "Forklar hva som har hendt:",
+	"contactpage-ombudscommission-relevant-links": "Inkluder URL-er til wikihandlingene eller -sidene:",
+	"contactpage-ombudscommission-violation-type": "Forklar med noen få ord hvilke regler som har blitt brutt:",
+	"contactpage-ombudscommission-involved-users": "Hvilke brukere klager du på? Angi brukernavnene deres:",
+	"contactpage-ombudscommission-affected-accounts": "Hvilke kontoer påvirkes av denne klagen? Hvis det ikke er noen andre kontoer enn din egen kan du hoppe over dette feltet.",
+	"contactpage-ombudscommission-proposed-solution": "Hvilken løsning ser du for deg? Hva forventer du av kommisjonen?",
+	"contactpage-ombudscommission-additional-information": "Legg til annen informasjon du mener kan være relevant for å forstå denne saken."
 }

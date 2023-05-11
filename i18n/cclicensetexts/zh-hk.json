@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Liuxinyu970226"
+			"Liuxinyu970226",
+			"LuciferianThomas"
 		]
 	},
-	"wm-license-cc-wiki-link": "w:zh:共享創意"
+	"wm-license-cc-wiki-link": "w:zh:共享創意",
+	"wm-license-cc-by-sa-1.0-text": "此檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [https://creativecommons.org/licenses/by-sa/1.0/deed.zh_TW 姓名標示-相同方式分享 1.0 通用版]授權條款。",
+	"wm-license-cc-by-sa-2.0-text": "此檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [https://creativecommons.org/licenses/by-sa/2.0/deed.zh_TW 姓名標示-相同方式分享 2.0 通用版]授權條款。",
+	"wm-license-cc-by-sa-3.0-text": "此檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW 姓名標示-相同方式分享 3.0 未在地化版本]授權條款。",
+	"wm-license-cc-by-sa-4.0-text": "此檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW 姓名標示-相同方式分享 4.0 國際]授權條款。"
 }

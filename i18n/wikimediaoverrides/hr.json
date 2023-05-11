@@ -5,11 +5,12 @@
 			"Hmxhmx",
 			"MaGa",
 			"Neptune, the Mystic",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"Ponor"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi odabrati)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Možete posjetiti Vašu stranicu postavki na [[m:Special:CentralAuth/$1|drugim projektima wikimedije gdje ste doprinosili]] kako biste učitali podatke Vašega računa s tih projekata.",
+	"wikimedia-prefs-user-downloaddata-help-message": "Možete posjetiti svoju stranicu postavki na [[m:Special:CentralAuth/$1|drugim projektima Zaklade Wikimedija gdje ste doprinosili]] kako biste učitali podatke svojega računa s tih projekata.",
 	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite suradnički račun]]",
 	"wikimedia-centralauth-groupname": "{{#SWITCH:{{{1|}}}\n|#default=Zaklada Wikimedije\n|gen=Wikimedijine zaklade\n}}",
 	"createacct-helpusername-url": "{{ns:Project}}:Suradničko_ime",
