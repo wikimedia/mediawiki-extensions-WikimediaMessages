@@ -3,7 +3,8 @@
 		"authors": [
 			"Ezagren",
 			"Mnam23",
-			"Nemo bis"
+			"Nemo bis",
+			"Veracious"
 		]
 	},
 	"sitesupport": "Manyumbang",
@@ -32,7 +33,7 @@
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 Lisénsi CC BY-SA 3.0] wan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Salamat datang}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikihabar",
-	"wikibase-sitelinks-wikiquote": "Wikikutip",
+	"wikibase-sitelinks-wikiquote": "Wikipapadah",
 	"wikibase-sitelinks-wikisource": "Wikipamulaan",
 	"wikibase-sitelinks-wikivoyage": "Wikiwisata",
 	"wikibase-otherprojects-sources": "WikiNaskah multibasa",
