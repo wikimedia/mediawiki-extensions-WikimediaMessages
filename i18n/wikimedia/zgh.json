@@ -21,5 +21,6 @@
 	"wikimedia-developers": "ⵉⵎⵙⵖⵉⵡⵙⵏ",
 	"wikimedia-globalblocking-ipblocked": "'''ⵜⴰⵏⵙⴰ IP ⵏⵏⴽ [[m:Special:MyLanguage/Global blocks|ⵜⵜⵓⴳⴷⴰⵍ ⴳ ⴰⴽⴽⵯ ⵉⵡⵉⴽⵉⵜⵏ]].'''\n\nⴰⴳⴷⴷⵓⵍ ⵉⵙⴽⵔ ⵜ $1 ($2).\nⵜⴰⵎⵏⵜⵉⵍⵜ ⵉⵜⵜⵓⴼⴽⴰⵏ ⵜⴳⴰ ⵜⵜ ''$3''.\n\n* ⴰⵏⵜⵜⵉ ⵏ ⵓⴳⴷⴷⵓⵍ : $4\n* ⵜⵉⴳⵉⵔⴰ ⵏ ⵓⴳⴷⴷⵓⵍ : $5\n\nⵜⴰⵏⵙⴰ ⵏⵏⴽ IP ⵜⴰⵎⵉⵔⴰⵏⵜ ⵜⴳⴰ ⵜⵜ $6.\nⵎⴽ ⵜⵓⴼⵉⴷ, ⵙⴽⵛⵎ ⵉⵛⵎⵓⵎⵎⴰ ⴰⴽⴽ ⵏ ⵢⵉⵣⴷⴰⵔ ⴳ ⴽⵓ ⵜⵓⵜⵜⵔⴰ ⵏⵏⴰ ⵜⵙⴽⵔⴷ.\n\nⵎⴽ ⵜⵏⵏⵉⴷ ⵉⵙ ⵜⴻⵜⵜⵓⴳⴷⴰⵍⴷ ⵙ ⵓⵣⴳⴰⵍ, ⵜⵖⵢⴷ ⴰⴷ ⵜⴰⴼⴷ ⵓⴳⴳⴰ ⵏ ⵉⵏⵖⵎⵉⵙⵏ ⴷ ⵡⵓⵎⵍⴰⵏ ⴳ ⵜⵙⵔⵜⵉⵜ ⵜⴰⵎⴰⵜⴰⵢⵜ [[m:Special:MyLanguage/No open proxies|Pas de mandataire ouvert]].\nⵏⵖ, ⵎⴽ ⵜⵔⵉⴷ ⴰⴷ ⵜⵎⵙⴳⴷⴰⵍⴷ ⵖⴼ ⵓⴳⴷⴷⵓⵍ ⴰⴷ [[m:Steward requests/Global|ⴰⵣⵏ ⵢⴰⵜ ⵜⵓⵜⵜⵔⴰ ⵏ ⵓⵣⵣⵔⴰⵢ ⴳ Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''ⵢⴰⵏ ⵏⵖ ⵎⵏⵏⴰⵡ ⵏ ⵉⵇⴷⴷⴰⵛⵏ ⵉⵏⵖⵍⵉⴼⵏ ⵜⵙⵙⵎⵔⵙ ⵜⵓⵜⵜⵔⴰ ⵏⵏⴽ  [[m:Special:MyLanguage/Global blocks|ⵜⵜⵓⴳⴷⴰⵍⵏ ⵙ ⵓⵎⴰⵜⴰ]].'''\n\nⴰⴳⴷⴷⵓⵍ ⵉⵙⴽⵔ ⵜ $1 ($2).\nⴰⵙⵔⴰⴳ ⵉⵜⵜⵓⴼⴽⴰⵏ ⵉⴳⴰ ⵜ ''$3''.\n\n* ⴰⵏⵜⵜⵉ ⵏ ⵓⴳⴷⴷⵓⵍ : $4\n* ⵜⵉⵎⴷⵉ ⵏⵓⴳⴷⴷⵓⵍ : $5\n\nⵜⴰⵏⵙⴰ ⵏ ⵓⵏⵖⵍⵉⴼ ⵉⵜⵜⵓⴳⴷⴰⵍⵏ ⵜⴳⴰ ⵜⵜ $6.\nⵎⴽ ⵜⵓⴼⵉⴷ, ⵙⵙⵉⴷⴼ ⵉⵛⵎⵓⵎⵎⴰ ⴰⴽⴽ ⵏ ⵢⵉⵣⴷⴰⵔ ⴳ ⴽⵓ ⵜⵓⵜⵜⵔⴰ ⵏⵏⴰ ⵜⵙⴽⵔⴷ.\n\nⵎⴽ ⵜⵏⵏⵉⴷ ⵎⴰⵙ ⵜⴻⵜⵜⵓⴳⴷⴰⵍⴷ ⵖⴰⵙ ⵎⴽⵏⵏⴰ, ⵜⵣⵎⵔⴷ ⴰⴷ ⵜⴰⴼⴷ ⵓⴳⴳⴰⵔ ⵏ ⵉⵏⵖⵎⵉⵙⵏ ⴷ ⵡⵓⵎⵍⴰⵏ ⴳ ⵜⵙⵔⵜⵉⵜ ⵜⴰⵎⴰⵜⴰⵢⵜ [[m:Special:MyLanguage/No open proxies|ⵓⵔ ⵉⵍⵍⵉ ⵓⵏⵖⵍⵉⴼ ⵉⵔⵥⵎⵏ]].\nⵏⵖ, ⵎⴽ ⵜⵔⵉⴷ ⴰⴷ ⵜⵎⵙⴰⵡⴰⵍⴷ ⵖⴼ ⵓⴳⴷⴷⵓⵍ, ⵎⴽ ⵜⵓⴼⵉⴷ [[m:Steward requests/Global|ⴰⵣⵏ ⵢⴰⵜⵜⵓⵜⵜⵔⴰ ⵏ ⵓⵣⵣⵔⴰⵢ  ⵉ Meta-Wiki]].",
-	"wikimedia-statslink": "ⵜⵉⵙⵉⴹⴰⵏ"
+	"wikimedia-statslink": "ⵉⵙⵏⵎⴽⵜⴰⵜⵏ",
+	"wikimedia-cookiestatement": "ⵜⴰⵏⵎⵎⴰⵍⵜ ⵏ ⵓⴽⵓⴽⵉ"
 }
