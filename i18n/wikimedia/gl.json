@@ -301,5 +301,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Si",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Non",
 	"gadget-souspages-subpages": "Subpáxinas",
+	"research-incentive-answer-positive": "Si",
+	"research-incentive-answer-negative": "Non",
+	"research-incentive-confirm-msg": "Grazas!",
 	"ipinfo-global-contributions-url-label": "Contribucións globais"
 }
