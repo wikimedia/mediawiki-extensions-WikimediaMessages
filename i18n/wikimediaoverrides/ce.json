@@ -16,5 +16,6 @@
 	"wikimedia-interfaceadmin-info": "Дукха хан йоцуш йукъарасайтийн CSS/JS/JSON-файлашна хийцамашбарна [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] тобанерачу декъашхоша бехкамбина. Кхин сов хаа хьажа [[m:Creation of separate user group for editing sitewide CSS/JS]].",
 	"wikimedia-sitematrix": "Викимедиа проектийн магIам",
 	"wikimedia-sitematrix-others": "«Викимедиан фондан» кхин проекташ",
-	"wikimedia-sitematrix-summary": "ХӀокху белхан агӀонан чохь гойту Викимедиан массо вики-проекташ."
+	"wikimedia-sitematrix-summary": "ХӀокху белхан агӀонан чохь гойту Викимедиан массо вики-проекташ.",
+	"wikimedia-ipinfo-preference-use-agreement": "Аса тӀелоцу хӀара гӀирс [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP лелоран куьйгаллин] низамца лело, Викимедин фондан бакъонаш ларйеш."
 }
