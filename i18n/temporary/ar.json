@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alshamiri1",
 			"FShbib",
 			"Meno25",
 			"Shbib Al-Subaie",
@@ -17,5 +18,7 @@
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
 	"specialblockfeedback": "التغذية الراجعة",
-	"specialinvestigate-feedback": "شارك ملاحظاتك"
+	"specialinvestigate-feedback": "شارك ملاحظاتك",
+	"graph-disabled-category": "الصفحات ذات الرسوم البيانية المعطلة",
+	"graph-disabled-category-desc": "تتضمن الصفحة ملف<nowiki><graph></nowiki> العلامة غير المتوفرة مؤقتًا ([[phab: T334940 | T334940]])."
 }
