@@ -88,7 +88,7 @@
 	"grouppage-abusefilter": "{{doc-group|abusefilter|page}}",
 	"group-abusefilter-helper": "{{doc-group|abusefilter-helper}}",
 	"group-abusefilter-helper-member": "{{doc-group|abusefilter-helper|member}}",
-	"grouppage-abusefilter-helper": "{{notranslate}}\n{{doc-group|abusefilter-helper|page}}\n{{global grouppage}}",
+	"grouppage-abusefilter-helper": "{{global grouppage}}",
 	"group-abusefilter-maintainer": "{{doc-group|abusefilter-maintainer}}",
 	"group-abusefilter-maintainer-member": "{{doc-group|abusefilter-maintainer|member}}",
 	"grouppage-abusefilter-maintainer": "{{global grouppage}}",

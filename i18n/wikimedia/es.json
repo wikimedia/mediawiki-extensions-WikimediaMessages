@@ -65,7 +65,8 @@
 			"DiegoAmbrocio",
 			"Josuert",
 			"Scblr",
-			"TAndic (WMF)"
+			"TAndic (WMF)",
+			"No se"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -268,6 +269,7 @@
 	"wikidata-copyright": "Todos los datos estructurados de los espacios de nombres principal, Propiedad, Lexema, y EntitySchema están disponibles bajo la <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definición de la licencia Creative Commons CC0\">licencia Creative Commons CC0</a>. El texto del resto de los espacios de nombres está disponible bajo la <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"Definición de la licencia Creative Commons Attribution/Share-Alike License\">licencia Creative Commons Attribution-ShareAlike</a>, aunque pueden aplicarse términos adicionales. Al usar este sitio aceptas nuestros <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/es\">términos y condiciones de uso</a> y nuestra <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy/es\">normativa de privacidad</a>.",
 	"wikimedia-copyrightwarning": "Al guardar los cambios, aceptas los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/es Términos de uso], y aceptas irrevocablemente publicar tus contribuciones bajo la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License licencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAceptas que un hipervínculo o URL es atribución suficiente bajo la licencia Creative Commons.",
 	"wikimedia-mobile-license-links": "<a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\" title=\"Definición de la licencia Creative Commons Atribución-CompartirIgual\" target=\"_blank\">CC BY-SA 3.0</a> y <a href=\"https://www.gnu.org/licenses/fdl.html\" title=\"Definición de GFDL\" target=\"_blank\">GFDL (en inglés)</a>",
+	"wikibase-repo-name": "Wikidata",
 	"wikibase-page-schema-author-name": "Colaboradores de los proyectos Wikimedia",
 	"wikibase-statementsection-constraints": "Restricciones",
 	"wikibase-sitelinks-wikibooks": "Wikilibros",
