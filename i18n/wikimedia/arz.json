@@ -43,7 +43,7 @@
 	"group-ipblock-exempt": "مستثنيين من منع الاى بى",
 	"group-ipblock-exempt-member": "{{GENDER:$1|مستثنى من بلوك الايبى|مستثناه من بلوك الايبى}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:استثناء من منع الاى بى",
-	"group-patroller": "مراجعون",
+	"group-patroller": "مراجعين",
 	"group-patroller-member": "{{GENDER:$1|مراجع}}",
 	"group-rollbacker": "مسترجعين",
 	"group-rollbacker-member": "{{GENDER:$1|مسترجع}}",
