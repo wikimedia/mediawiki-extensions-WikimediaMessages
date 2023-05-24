@@ -13,5 +13,6 @@
 	"wikimedia-sitematrix": "Rhestr holl wiciau Wikimedia",
 	"wikimedia-sitematrix-others": "Prosiectau eraill Wikimedia",
 	"wikimedia-sitematrix-summary": "Rhestr holl wicïau Wikimedia sydd ar y dudalen arbennig hon.",
+	"wikimedia-ipb-confirmhideuser": "Rydych chi ar fin blocio defnyddiwr gyda \"cuddio defnyddiwr\" wedi'i alluogi. Bydd hyn yn gorchuddio enw'r defnyddiwr ym mhob rhestr a chofnodion log ar y wici hwn. Ydych chi wir eisiau parhau?\n\nOs oes angen gorchuddio'r enw defnyddiwr ar holl wiciau Wikimedia, cysylltwch â'r [[m:Special:MyLanguage/Stewards|stiwardiaid]] drwy [[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|e-bost wici]] neu drwy <kbd>stewards-oversight@wikimedia.org</kbd>. Diolch.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Polisi Preifatrwydd]"
 }
