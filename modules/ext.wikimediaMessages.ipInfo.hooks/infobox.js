@@ -18,8 +18,8 @@
 		} );
 		$info.find( '.ext-ipinfo-widget-property-source' ).before( feedbackButton.$element );
 
-		var contributionsUrl = mw.msg( 'ipinfo-global-contributions-url', mw.config.get( 'wgIPInfoTarget' ) );
-		var xToolsUrl = mw.msg( 'ipinfo-xtools-url', mw.config.get( 'wgIPInfoTarget' ), mw.config.get( 'wgServerName' ) );
+		var contributionsUrl = mw.msg( 'ipinfo-global-contributions-url', mw.config.get( 'wgRelevantUserName' ) );
+		var xToolsUrl = mw.msg( 'ipinfo-xtools-url', mw.config.get( 'wgRelevantUserName' ), mw.config.get( 'wgServerName' ) );
 
 		$info.find( '[data-property="edits"]' )
 			.append( $( '<div>' )
