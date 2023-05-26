@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Leonard Nketsia"
 		]
 	},
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Woesiw wo IP adrɛɛse kwan wɔ wiki ahorow nyinara do [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].",
-	"wikimedia-globalblocking-blockedtext-on-proxy": "'''Ntamugyinadze kor anaa no mboree a w'ebisadze no dze dzi dwuma nye [[m:Special:MyLanguage/Global blocks|globally blocked]].'''",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "'''Ntamugyinadze kor anaa no mboree a w'ebisadze no dze dzi dwuma no [[m:Special:MyLanguage/Global blocks|enya wiadze akwansiw]].'''",
 	"wikimedia-globalblocking-blockedtext-mistake": "Sɛ egye dzi dɛ ɔyɛ mfomdo dɛ woesiw wo kwan a, ibotum ahwehwɛ nsɛm fofor na akwankyerɛ wɔ [[m:Special:MyLanguage/No open proxies|No open proxies]] wiadze nhyehyɛɛ.\nAnaa ibebisa akwansiw no ho nsɛm, yɛserɛ [[m:Steward requests/Global|post a request for review on Meta-Wiki]]."
 }
