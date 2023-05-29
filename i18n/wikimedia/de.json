@@ -34,6 +34,7 @@
 			"ToBeFree",
 			"Umherirrender",
 			"Vogone",
+			"Wnme",
 			"Απεργός"
 		]
 	},
@@ -207,7 +208,7 @@
 	"group-wmf-officeit-member": "{{GENDER:$1|WMF Office IT}}",
 	"group-wmf-researcher": "WMF-Forscher",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-Forscher|WMF-Forscherin}}",
-	"group-wmf-supportsafety": "WMF-Vertrauen und Sicherheit",
+	"group-wmf-supportsafety": "WMF Trust and Safety",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF-Vertrauen und Sicherheit}}",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Verwendet vom globalen Missbrauchsfilter 110.",
