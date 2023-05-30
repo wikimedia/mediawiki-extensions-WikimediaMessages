@@ -56,7 +56,8 @@
 			"Translatobecomer",
 			"Vlad5250",
 			"WindEwriX",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -362,9 +363,11 @@
 	"ipinfo-feedback-button-label": "Оставить отзыв",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "В течение последних 30-ти дней испытывали ли Вы дискомфорт или чувствовали ли себя в опасности, работая над Википедией ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Я не знаю",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Этот анонимный опрос проводит Фонд Викимедиа. [https://meta.wikimedia.org/wiki/Community_Safety Ознакомьтесь подробнее] или просмотрите [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement Положение о конфиденциальности].",
 	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
 	"gadget-souspages-subpages": "Подстраницы",
