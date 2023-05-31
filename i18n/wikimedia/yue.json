@@ -13,7 +13,8 @@
 			"Waihorace",
 			"William915",
 			"Yueman",
-			"Z423x5c6"
+			"Z423x5c6",
+			"捍粵者"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -117,8 +118,8 @@
 	"wikibase-sitelinks-sitename-species": "維基物種",
 	"cant-delete-main-page": "你刪唔到、郁唔到頭版。",
 	"wikimedia-developers": "開發人員",
-	"wikimedia-globalblocking-ipblocked": "'''您個 IP 地址經已[[m:Special:MyLanguage/Global blocks|喺全部維基網站鎖咗]]。'''\n\n封鎖由 $1 （$2）去做。\n佢畀嘅理由係 ''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖完結時間：$5\n\n您而家個 IP 地址係 $6。\n做任何查詢時請引晒上面嘅料。\n\n如果你覺得你可能畀人錯封，可以到 [[m:Special:MyLanguage/No open proxies|唔准用開放代理]] 睇進一步資訊同指示。\n或者你可以去[[m:Steward requests/Global|維基元審查請求]]度傾下。",
-	"wikimedia-globalblocking-ipblocked-xff": "'''您用嘅代理服務器經已[[m:Special:MyLanguage/Global blocks|喺全部維基網站鎖咗]]。'''\n\n封鎖由 $1 （$2）去做。\n佢畀嘅理由係 ''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖完結時間：$5\n\n鎖咗嘅代理服務器地址係 $6。\n做任何查詢時請引嗮上面嘅料。\n\n如果你覺得你可能畀人錯封，可以到 [[m:Special:MyLanguage/No open proxies|唔准用開放代理]] 睇進一步資訊同指示。\n或者你可以去[[m:Steward requests/Global|維基元審查請求]]度傾下。",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n由$1（$2）封鎖。\n理由係''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖完結時間：$5\n\n您而家嘅IP地址係$6。\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n由$1（$2）封鎖，\n理由係''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖完結時間：$5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "多啲話",
 	"interlanguage-link-sitename-mul": "有多種話{{SITENAME}}",
 	"interlanguage-link-wikipedia": "維基百科",
