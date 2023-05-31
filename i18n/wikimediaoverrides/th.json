@@ -2,13 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Aefgh39622",
-			"Horus"
+			"Horus",
+			"Ekminarin"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(อ่านก่อนตั้งชื่อ)]]",
 	"wikimedia-createacct-imgcaptcha-help": "มองไม่เห็นภาพใช่หรือไม่? [[{{MediaWiki:createacct-captcha-help-url}}|ขอบัญชี]]",
 	"wikimedia-centralauth-groupname": "มูลนิธิวิกิมีเดีย",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"wikimedia-discussiontools-replywidget-terms-click": "เมื่อกดปุ่ม \"$1\" ถือว่าคุณยอมรับ[https://foundation.wikimedia.org/wiki/Terms_of_Use/th ข้อกำหนดการใช้งาน] และคุณตกลงที่จะเผยแพร่ข้อความของคุณ{{PLURAL:$3|ภายใต้}} $2 อย่างไม่อาจเพิกถอนได้",
 	"wikimedia-sitematrix": "รายชื่อวิกิของมูลนิธิวิกิมีเดีย",
 	"wikimedia-sitematrix-others": "โครงการอื่น ๆ ของวิกิมีเดีย",
 	"wikimedia-sitematrix-summary": "หน้าพิเศษนี้แสดงรายชื่อวิกิของมูลนิธิวิกิมีเดีย"

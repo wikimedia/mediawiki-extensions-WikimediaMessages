@@ -48,7 +48,9 @@
 			"아라",
 			"MathXplore",
 			"Yamagata Yusuke",
-			"DDesouza"
+			"DDesouza",
+			"TAndic (WMF)",
+			"Yusuke1109"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -352,5 +354,10 @@
 	"action-editautopatrolprotected": "「{{int:protect-level-editautopatrolprotected}}」の保護が設定されたページの編集",
 	"group-docseditor": "文書編集者",
 	"action-docseditor": "解説文の編集",
-	"right-docseditor": "解説文を編集"
+	"right-docseditor": "解説文を編集",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "この30日間に、あなたはオンラインでウィキペディア（{{SERVERNAME}}）に参加することが安全でない、あるいは不安に感じましたか。",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "はい",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "いいえ",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "わからない",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "この匿名のアンケートは、ウィキメディア財団によって実施されています。[https://meta.wikimedia.org/wiki/Community_Safety 続きを読む]もしくは[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 個人情報保護方針]をご覧ください"
 }
