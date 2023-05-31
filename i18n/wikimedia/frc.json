@@ -8,7 +8,7 @@
 	},
 	"sitesupport": "Donner de l'argent",
 	"tooltip-n-sitesupport": "Aidez-nous",
-	"wikimedia-copyright": "Les textes sont disponibles sous <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ;\nd’autres conditions peuvent s’appliquer.\nVoyez les <a href=\"https://foundation.wikimedia.org/wiki/Conditions_d'utilisation\">conditions d’utilisation</a> pour plus de détails.",
+	"wikimedia-copyright": "Les textes sont disponibles sous <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fr\">licence Creative Commons Attribution-partage dans les mêmes conditions</a> ;\nd’autres conditions peuvent s’appliquer.\nVoyez les <a href=\"https://foundation.wikimedia.org/wiki/Conditions_d'utilisation\">conditions d’utilisation</a> pour plus de détails.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Bienvenue, {{GENDER:$1|}}$1 !",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

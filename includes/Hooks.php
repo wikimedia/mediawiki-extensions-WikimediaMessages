@@ -329,7 +329,7 @@ class Hooks implements
 
 		switch ( $licensing ) {
 			case 'wikidata':
-				// Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL. (Also, the data is under CC0.)
+				// Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. (Also, the data is under CC0.)
 				$msg = 'wikidata-copyright';
 				break;
 			case 'mediawiki':
@@ -342,14 +342,14 @@ class Hooks implements
 				$msg = 'wikimedia-commons-copyright';
 				break;
 			case 'standard':
-				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
+				// Almost all Wikimedia wikis using CC-BY-SA 4.0 are also dual-licensed under GFDL.
 				$msg = 'wikimedia-copyright';
 				break;
 			case 'wikinews':
 				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
 				break;
 			case 'wikifunctions':
-				// Wikifunctions like Wikidata is licensed under CC-BY-SA 3.0 only, no GFDL. The data is
+				// Wikifunctions like Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. The data is
 				// under CC0. The code is under Apache 2.0.
 				$msg = 'wikifunctions-site-footer-copyright';
 				break;
@@ -372,16 +372,16 @@ class Hooks implements
 		switch ( $licensing ) {
 			case 'wikidata':
 			case 'wikifunctions':
-				// Wikidata and Wikifunctions are licensed under CC-BY-SA 3.0 only, no GFDL.
-				$msg = [ 'wikimedia-copyrightwarning-ccbysa30only' ];
+				// Wikidata and Wikifunctions are licensed under CC-BY-SA 4.0 only, no GFDL.
+				$msg = [ 'wikimedia-copyrightwarning-ccbysa40only' ];
 				break;
 			case 'mediawiki':
-				// MediaWiki.org pages are dual-licensed under CC-BY-SA 3.0 and GFDL, except for the Help: namespace.
+				// MediaWiki.org pages are dual-licensed under CC-BY-SA 4.0 and GFDL, except for the Help: namespace.
 				$msg = [ 'mediawiki.org-copyrightwarning' ];
 				break;
 			case 'commons':
 			case 'standard':
-				// Almost all Wikimedia wikis using CC-BY-SA 3.0 are also dual-licensed under GFDL.
+				// Almost all Wikimedia wikis using CC-BY-SA 4.0 are also dual-licensed under GFDL.
 				$msg = [ 'wikimedia-copyrightwarning' ];
 				break;
 			case 'wikinews':
@@ -419,7 +419,7 @@ class Hooks implements
 				// Use the default MobileFrontend message.
 				break;
 			case 'wikifunctions':
-				// Wikifunctions is licensed under CC-BY-SA 3.0 only, no GFDL. The data is under CC0.
+				// Wikifunctions is licensed under CC-BY-SA 4.0 only, no GFDL. The data is under CC0.
 				// The code is under Apache 2.0.
 				$msg = 'wikifunctions-site-footer-copyright';
 				break;
@@ -445,7 +445,7 @@ class Hooks implements
 			case 'wikifunctions':
 				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
 				$rightsUrl = $config->get( 'RightsUrl' );
-				$rightsText = 'Creative Commons Attribution-Share Alike 3.0';
+				$rightsText = 'Creative Commons Attribution-Share Alike 4.0';
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'wikinews':
@@ -487,7 +487,7 @@ class Hooks implements
 			case 'wikifunctions':
 				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
 				$rightsUrl = $config->get( 'RightsUrl' );
-				$rightsText = 'Creative Commons Attribution-Share Alike 3.0';
+				$rightsText = 'Creative Commons Attribution-Share Alike 4.0';
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'wikinews':
