@@ -21,7 +21,7 @@
 	"group-wmf-researcher": "WMF-dutkit",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-dutki}}",
 	"shared-repo-name-shared": "Wikimedia Commonsis",
-	"wikimedia-copyrightwarning": "Go vurket rievdadusaid, dohkkehat don [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use geaveaheaddjieavttuid], ja mieđat agi beaivvi almmuhit buktosat [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License CC BY-SA 4.0] ja \n[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] liseanssa vuolde.\nDon dohkkehat ahte Hyperliŋkka dahje URL lea dohkálaš nammaaddin  Creative Commons-liseanssa vuolde.",
+	"wikimedia-copyrightwarning": "Go vurket rievdadusaid, dohkkehat don [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use geaveaheaddjieavttuid], ja mieđat agi beaivvi almmuhit buktosat [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] ja \n[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] liseanssa vuolde.\nDon dohkkehat ahte Hyperliŋkka dahje URL lea dohkálaš nammaaddin  Creative Commons-liseanssa vuolde.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bures boahtin}}, $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-sitelinks-wikibooks": "Wikigirjjit",

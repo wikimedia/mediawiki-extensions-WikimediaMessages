@@ -91,7 +91,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|系統管理員}}",
 	"tag-emoji": "表情符",
 	"wikimedia-copyright": "全部文字根據<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 牌照</a>嘅條款發佈；\n可能會有附加嘅條款。\n睇下<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">使用條款</a>嘅細節。",
-	"wikimedia-copyrightwarning": "當保存嗰陣，你同意\n[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，亦將你嘅貢獻喺[https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License 共享創意 署名－相同方式共享 4.0]同埋[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL自由文檔協議]發表。\n你同意只係用超連結或者網址做署名已經足夠。",
+	"wikimedia-copyrightwarning": "當保存嗰陣，你同意\n[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，亦將你嘅貢獻喺[https://creativecommons.org/licenses/by-sa/4.0/ 共享創意 署名－相同方式共享 4.0]同埋[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL自由文檔協議]發表。\n你同意只係用超連結或者網址做署名已經足夠。",
 	"wikimedia-mobile-mainpage-title-loggedin": "歡迎，$1！",
 	"wikibase-repo-name": "維基數據",
 	"wikibase-sitelinks-wikibooks": "維基書本",

@@ -6,5 +6,5 @@
 		]
 	},
 	"tooltip-n-sitesupport": "Apóyenos",
-	"wikimedia-copyrightwarning": "Al guardar los cambios, acepta los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/es Términos de uso], y acepta irrevocablemente publicar sus contribuciones bajo la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License licencia CC BY-SA 4.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAcepta que un hipervínculo o URL es atribución suficiente bajo la licencia Creative Commons."
+	"wikimedia-copyrightwarning": "Al guardar los cambios, acepta los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/es Términos de uso], y acepta irrevocablemente publicar sus contribuciones bajo la [https://creativecommons.org/licenses/by-sa/4.0/ licencia CC BY-SA 4.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAcepta que un hipervínculo o URL es atribución suficiente bajo la licencia Creative Commons."
 }

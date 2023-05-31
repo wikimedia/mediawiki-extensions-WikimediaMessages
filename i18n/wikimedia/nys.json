@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "kwop buranyiny nyulluckiny",
 	"tooltip-n-sitesupport": "kwop buranyiny nyulluckiny",
-	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
+	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",

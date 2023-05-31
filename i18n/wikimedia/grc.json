@@ -57,7 +57,7 @@
 	"group-sysadmin": "Ἐπίτροποι συστήματος",
 	"group-sysadmin-member": "{{GENDER:$1|ἐπίτροπος συστήματος}}",
 	"wikimedia-copyright": "Τὸ κεἰμενον διατίθεται ὐπὸ τῆς <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Ἄδειαν Creative Commons Attribution-ShareAlike</a>, προσθέτους λεπτομέριαι πιθανῶς ἰσχύουν.\nὉρᾶν <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> πρὸς λεπτομέρειας.",
-	"wikimedia-copyrightwarning": "Ἐν ἀποθηκεύσει τῶν ἀλλαγῶν, ὁμολογεῖτε μετὰ τῶν [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ὅρων Χρήσεως], ἔτι δὴ ὁμολγεῖτε βεβαίως ἀφίεσθαι τοῦ ὑμετέρου ἐράνου ὑπὸ τῆς [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License CC BY-SA 4.0 ἀδείας] καὶ τῆς [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nΣυναινεῖτε ὅτι ὑπερσύνδεσμος ἢ URL τὶς ἀρκοῦσα ἐπιφορά ἐστι ὑπὸ Creative Commons τῆς ἀδείας",
+	"wikimedia-copyrightwarning": "Ἐν ἀποθηκεύσει τῶν ἀλλαγῶν, ὁμολογεῖτε μετὰ τῶν [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ὅρων Χρήσεως], ἔτι δὴ ὁμολγεῖτε βεβαίως ἀφίεσθαι τοῦ ὑμετέρου ἐράνου ὑπὸ τῆς [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 ἀδείας] καὶ τῆς [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nΣυναινεῖτε ὅτι ὑπερσύνδεσμος ἢ URL τὶς ἀρκοῦσα ἐπιφορά ἐστι ὑπὸ Creative Commons τῆς ἀδείας",
 	"wikibase-sitelinks-wikinews": "Οὐικιεπίκαιρα",
 	"wikibase-sitelinks-wikiquote": "Οὐικιφθέγματα",
 	"wikibase-sitelinks-wikisource": "Οὐικιθήκη",

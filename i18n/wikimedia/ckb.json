@@ -90,7 +90,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|بەڕێوبەری سیستەم}}",
 	"tag-emoji": "ئیمۆجی",
 	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> لەبەردەستە؛\nلەوانەیە مەرجی تریشی پێوە ببێت.\nبۆ وردەکاری <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">مەرجەکانی بەکارھێنان</a> ببینە.",
-	"wikimedia-copyrightwarning": "بە پاشەکەوتکردنی گۆڕانکارییەکان، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use مەرجەکانی بەکارھێنان] قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە بەشدارییەکەت لە ژێر [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License مۆڵەتنامەی CC BY-SA 4.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیتەوە.\nپابەند دەبیت کە URL یان گرێدانێک، دانەپاڵێکی سەرومڕە لە ژێر مۆڵەتنامەی Creative Commonsدا.",
+	"wikimedia-copyrightwarning": "بە پاشەکەوتکردنی گۆڕانکارییەکان، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use مەرجەکانی بەکارھێنان] قبووڵ دەکەیت و بەبێ گەڕانەوە پابەند دەبیت کە بەشدارییەکەت لە ژێر [https://creativecommons.org/licenses/by-sa/4.0/ مۆڵەتنامەی CC BY-SA 4.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیتەوە.\nپابەند دەبیت کە URL یان گرێدانێک، دانەپاڵێکی سەرومڕە لە ژێر مۆڵەتنامەی Creative Commonsدا.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|بەخێربێیت}}، $1!",
 	"wikibase-repo-name": "ویکیدراوە",
 	"wikibase-sitelinks-wikinews": "ویکی هه‌واڵ",

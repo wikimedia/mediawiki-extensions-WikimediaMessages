@@ -13,7 +13,7 @@
 	"sitesupport": "Sɔŋma",
 	"tooltip-n-sitesupport": "Sɔŋmi ti",
 	"wikimedia-copyright": "Sabbu maa bela <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nyɛltɔɣa pala ni tooi beni.\nNyama <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Zalisi zaŋ chaŋ ti tuma</a> zaŋ chaŋ di neesim polo.",
-	"wikimedia-copyrightwarning": "Taɣibunima din yɛn kpɛhi ŋɔ wuhiya, ni a saɣi n-ti [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], ka saɣi saɣiri shɛli din ka nyaaŋa labbu ni a ni  waɣisi a tohibu n-niŋ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nA saɣiya ni  hyperlink bee URL nyɛla yɛrida bini zaɣ'pali din be Creative Commons license ni.",
+	"wikimedia-copyrightwarning": "Taɣibunima din yɛn kpɛhi ŋɔ wuhiya, ni a saɣi n-ti [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], ka saɣi saɣiri shɛli din ka nyaaŋa labbu ni a ni  waɣisi a tohibu n-niŋ [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nA saɣiya ni  hyperlink bee URL nyɛla yɛrida bini zaɣ'pali din be Creative Commons license ni.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Amaraba}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikilahabaya",
 	"wikibase-sitelinks-wikiquote": "Wikikot",
