@@ -71,7 +71,7 @@
 	"tag-AWB": "[[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"tag-AWB-description": "Labojumi, kas veikti ar [[:w:en:Wikipedia:AutoWikiBrowser|AutoWikiBrowser]]",
 	"shared-repo-name-shared": "''Wikimedia Commons''",
-	"wikimedia-copyright": "Teksts ir pieejams saskaņā ar <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike licenci</a>;\nvar pastāvēt papildus ierobežojumi.\nPlašākai informācijai skatīt <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">lietošanas noteikumus</a>.",
+	"wikimedia-copyright": "Teksts ir pieejams saskaņā ar <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.lv\">Creative Commons Attribution-ShareAlike licenci</a>;\nvar pastāvēt papildus ierobežojumi.\nPlašākai informācijai skatīt <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">lietošanas noteikumus</a>.",
 	"wikimedia-copyrightwarning": "Saglabājot izmaiņas, jūs piekrītat [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Lietošanas noteikumiem] un neatsaucami piekrītat savu ieguldījumu licencēt saskaņā ar [https://creativecommons.org/licenses/by-sa/4.0/deed.lv Creative Commons Attribution-ShareAlike 4.0] un [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] licenci.\nJūs piekrītat, ka Creative Commons licences ietvaros hipersaite vai URL ir pietiekama atsaukšanās.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Laipni lūgts|Laipni lūgta}}, $1!",
 	"wikibase-repo-name": "Vikidati",

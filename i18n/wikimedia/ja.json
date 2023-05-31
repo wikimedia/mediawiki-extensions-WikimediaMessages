@@ -276,7 +276,7 @@
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy プライバシー・ポリシー]",
 	"grant-checkuser": "チェックユーザー・データへのアクセス",
-	"upload-form-label-own-work-message-commons": "私は、このファイルの著作権を所有していることを宣誓し、取消し不能な形で  [https://creativecommons.org/licenses/by-sa/4.0/ クリエイティブ・コモンズ表示-継承 4.0 国際]ライセンスのもとでウィキメディア・コモンズに、このファイルを解放することに同意します。そして私は、  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に同意します。",
+	"upload-form-label-own-work-message-commons": "私は、このファイルの著作権を所有していることを宣誓し、取消し不能な形で  [https://creativecommons.org/licenses/by-sa/4.0/deed.ja クリエイティブ・コモンズ表示-継承 4.0 国際]ライセンスのもとでウィキメディア・コモンズに、このファイルを解放することに同意します。そして私は、  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に同意します。",
 	"upload-form-label-not-own-work-message-commons": "このファイルの著作権を所有していない場合、または別のライセンスの下でそれをリリースしたい場合には、 [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard] を使用することを検討してください。",
 	"upload-form-label-not-own-work-local-commons": "もしサイトが、それらの方針の下にて、このファイルのアップロードを許可している場合は、[[Special:Upload|{{SITENAME}}上でのアップロードページ]]の利用も検討できます。",
 	"interlanguage-link-mul": "その他の言語",
