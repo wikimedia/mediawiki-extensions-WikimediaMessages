@@ -1,12 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Nikki"
 		]
 	},
-	"sitesupport": "ᡝᠨᡩᡝ ᡨᡠᠰᠠ ᠠᡵᠠᠮᠪᡳ",
+	"sitesupport": "ᠮᡝᠨᡩᡝ ᡨᡠᠰᠠ ᠠᡵᠠᠮᠪᡳ",
+	"tooltip-n-sitesupport": "ᠮᡝᠨᡩᡝ ᠠᡳᠰᡳᠯᠠᠮᠪᡳ",
 	"wikibase-sitelinks-wikinews": "ᡠᡳ᠌ᡴᡳ ᠮᡝᡩᡝ",
 	"wikibase-sitelinks-wikiquote": "ᡠᡳᡴᡳ ᡤᡳᠰᡠᡵᡝᠨ",
 	"wikibase-sitelinks-wikisource": "ᡠᡳ᠌ᡴᡳ ᠪᡳᡨ᠌ᡥᡝ ᠪᠣᡠ᠋",
-	"wikibase-sitelinks-wikivoyage": "ᡠᡳᡴᡳ ᠰᠠᡵᠠᡧᠠᠨ"
+	"wikibase-sitelinks-wikivoyage": "ᡠᡳᡴᡳ ᠰᠠᡵᠠᡧᠠᠨ",
+	"wikimedia-developers": "ᡳᠯᡳᠪᡠᠰᡳᠰᠠ",
+	"wikimedia-statslink": "ᡤᡝᡵᡝᠨ ᡨᠣᠨ"
 }
