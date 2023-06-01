@@ -11,5 +11,7 @@
 	"hello": "Tere",
 	"please-translate": "Palun aita emakeelde tõlkida",
 	"thank-you": "{{GENDER:$1|Suur tänu.}}",
-	"specialblockfeedback": "Tagasiside"
+	"specialblockfeedback": "Tagasiside",
+	"graph-disabled-category": "Keelatud diagrammidega leheküljed",
+	"graph-disabled-category-desc": "See lehekülg sisaldab silti <code><nowiki><graph></nowiki></code>, mis ei ole ajutiselt saadaval ([[phab:T334940|T334940]])."
 }

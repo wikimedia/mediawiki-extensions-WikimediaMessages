@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bennylin",
 			"Herryz",
 			"ProudBatak",
 			"Salomo Christian Hutajulu",
@@ -16,8 +17,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Sipaherbang",
-	"wikimedia-globalblocking-ipblocked": "'''Nunga [[m:Special:MyLanguage/Global blocks|diambati di sude wiki]] do alamat IP-mi.'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\nAlamat IP-mi saonari i ma $6.\nDohothon sude harharon di ganup panungkunanmi.\n\nMolo adong hasalaan di nasa pangambatonmi, boi dipadomu hamu do inpormasi na lobian jala patuduhon di [[m:Special:MyLanguage/No open proxies|ndada proksi tarbuka]] habisukon global.\nMolo soada, hatahon hamu salpu [[m:Steward requests/Global|manongos pangidoan asa boi dipareso di Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Sada manang lobian parhobas proksi na diparhaseanghon di bagasan pangidoanmi [[m:Special:MyLanguage/Global blocks|diambati di sude wiki]].'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\nAlamat IP-mi saonari i ma $6.\nDohothon sude harharon di ganup panungkunanmi.\n\nMolo adong hasalaan di nasa pangambatonmi, boi dipadomu hamu do inpormasi na lobian jala patuduhon di [[m:Special:MyLanguage/No open proxies|ndada proksi tarbuka]] habisukon global.\nMolo soada, hatahon hamu salpu [[m:Steward requests/Global|manongos pangidoan asa boi dipareso di Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\nAlamat IP-mi saonari i ma $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Panatoan kuki",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Olo",

@@ -48,7 +48,7 @@
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Wilujeng sumping}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiwarta",
 	"wikibase-sitelinks-wikiquote": "Wikicutatan",
-	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikisource": "Wikipabukon",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Pamekar",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\nAlamat IP anjeun ayeuna $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",

@@ -9,7 +9,7 @@
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sl:Creative Commons",
-	"wm-license-cc-attribution": "Priznanje avtorstva",
+	"wm-license-cc-attribution": "Avtorstvo",
 	"wm-license-cc-by-1.0-text": "Datoteka je objavljena z licenco [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.sl Priznanje avtorstva 1.0 ZDA-ameriška (nelokalizirana)].",
 	"wm-license-cc-by-1.0-fi-text": "Datoteka je objavljena z licenco [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.sl Priznanje avtorstva 1.0 Finska].",
 	"wm-license-cc-by-1.0-il-text": "Datoteka je objavljena pod licenco [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.sl Priznanje avtorstva 1.0 Izrael].",
@@ -219,5 +219,6 @@
 	"wm-license-cc-conditions-attribution-text": "Podati morate zasluge, povezavo do dovoljenja in navesti morebitne spremembe. To lahko storite na kakršen koli primeren način, vendar ne na način, ki bi nakazoval, da dajalec dovoljenja podpira vas ali vašo uporabo dela.",
 	"wm-license-cc-conditions-share_alike-header": "deljenje pod enakimi pogoji",
 	"wm-license-cc-conditions-share_alike-text": "Če boste to vsebino predelali, preoblikovali ali uporabili kot izhodišče za drugo delo, morate svoj prispevek distribuirati pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses enako ali združljivo licenco], kot jo ima izvirnik.",
-	"wm-license-cc-pd-mark-text": "Datoteka je bila spoznana kot prosta omejitev po avtorskem pravu, vključno z vsemi povezanimi in sorodnimi pravicami."
+	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.sl",
+	"wm-license-cc-pd-mark-text": "Datoteka je bila prepoznana kot prosta omejitev po avtorskem pravu, vključno z vsemi povezanimi in sorodnimi pravicami."
 }
