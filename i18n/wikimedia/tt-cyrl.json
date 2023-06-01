@@ -126,7 +126,7 @@
 	"tag-emoji": "Эмоҗи",
 	"shared-repo-name-shared": "Викиҗыентык",
 	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike</a> лицензиясе буенча бирелә, аерым очракларда өстәмә шартлар булырга мөмкин. Өстәмә мәгълүматны <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Куллану шартларында</a> карагыз.",
-	"wikimedia-copyrightwarning": "Кертелгән үзгәртүләрне саклап, Сез алдагы [https://foundation.wikimedia.org/wiki/Условия_использования куллану шартлары] белән килешәсез, шулай ук [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_4.0_Unported CC BY-SA 4.0] һәм [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензияләре таләпләре буенча нәшер итүенә, бу битне кулланганда, сезгә иң киме Creative Commons  лицензиясенә гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз.",
+	"wikimedia-copyrightwarning": "Кертелгән үзгәртүләрне саклап, Сез алдагы [https://foundation.wikimedia.org/wiki/Условия_использования куллану шартлары] белән килешәсез, шулай ук [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] һәм [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензияләре таләпләре буенча нәшер итүенә, бу битне кулланганда, сезгә иң киме Creative Commons  лицензиясенә гиперсылтама яки бит URL'ы аша сылтама куелуга риза буласыз.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Рәхим итегез}}, $1!",
 	"wikibase-repo-name": "Викимәгълүмат",
 	"wikibase-statementsection-constraints": "Чикләүләр",

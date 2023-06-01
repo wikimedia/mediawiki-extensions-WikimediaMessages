@@ -44,7 +44,7 @@
 	"group-sysadmin": "Kuncén sistim",
 	"group-sysadmin-member": "kuncén sistem",
 	"wikimedia-copyright": "Téks sadia dina <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Lisensi</a> <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike</a> ;",
-	"wikimedia-copyrightwarning": "Ku nyimpen parobahanana, anjeun satuju kana [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], jeung anjeun satuju pikeun ngaluarkeun kontribusi anjeun dina [https://en. wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License CC BY-SA 4.0 License] jeung [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License]. URL mangrupikeun atribusi anu cekap dina lisénsi Creative Commons.",
+	"wikimedia-copyrightwarning": "Ku nyimpen parobahanana, anjeun satuju kana [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], jeung anjeun satuju pikeun ngaluarkeun kontribusi anjeun dina [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] jeung [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License]. URL mangrupikeun atribusi anu cekap dina lisénsi Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Wilujeng sumping}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiwarta",
 	"wikibase-sitelinks-wikiquote": "Wikicutatan",

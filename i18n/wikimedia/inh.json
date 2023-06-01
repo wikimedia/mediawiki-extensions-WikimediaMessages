@@ -23,7 +23,7 @@
 	"group-steward": "Стюардаш",
 	"group-steward-member": "{{GENDER:$1|стюард}}",
 	"wikimedia-copyright": "Текстá тIакхоачилга <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\"> Creative Commons Attribution-ShareAlike</a> яхача лицензеца да, вешта, къаьстта лелаш хила мег кхыдола бехкамаш. Ма дарра хьажа <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Пайда эцара бехкамашка</a>.",
-	"wikimedia-copyrightwarning": "Хьадаь хувцамаш дIаяздарца хьо раьза хул пайда эцара хьалá, иштта раьза хул хьо [https://ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_4.0_Unported CC BY-SA 4.0] [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] яха лицензий бехкамашца деш долча юхадоакхаргдоацача кепатохарá. Creative Commons яхача лицензен бехкамаш кхочашдергдолаш хийца йолча оагӀон гипер-тIатовжам белгалбккхар е цун URL-цӀай хьоахадар тоъал долаш хиларá раьза хул хьо.",
+	"wikimedia-copyrightwarning": "Хьадаь хувцамаш дIаяздарца хьо раьза хул пайда эцара хьалá, иштта раьза хул хьо [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] яха лицензий бехкамашца деш долча юхадоакхаргдоацача кепатохарá. Creative Commons яхача лицензен бехкамаш кхочашдергдолаш хийца йолча оагӀон гипер-тIатовжам белгалбккхар е цун URL-цӀай хьоахадар тоъал долаш хиларá раьза хул хьо.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Моаршал да шуга!}}",
 	"wikibase-repo-name": "Викидараш",
 	"wikibase-sitelinks-wikinews": "Викихоамаш",

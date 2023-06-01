@@ -13,7 +13,7 @@
 	"tooltip-n-sitesupport": "Cjɛat aɣ",
 	"group-import": "Willi di tawin",
 	"wikimedia-copyright": "Aḍṛiṣ ad illa ddu <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nẓḍarn ad fllas zaydn tifadiwin yaḍn.\nẒr <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Tifadiwin n uswuri</a> iɣ trit ad tssnt uggar.",
-	"wikimedia-copyrightwarning": "S uzmmem n isnfal, ar ttqbalt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Tiwtilin n Usmras], ar ilmma ttqbalt i bdda ad tssuffɣt tidrawin nnk/nnm dduw n [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-Turagt ShareAlike_4.0_Unported_License CC BY-SA 4.0] d [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAr tqbalt mas d asɣun nɣ tansa URL iga imawlan iqaddn dduw n turagt Creative Commons.",
+	"wikimedia-copyrightwarning": "S uzmmem n isnfal, ar ttqbalt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Tiwtilin n Usmras], ar ilmma ttqbalt i bdda ad tssuffɣt tidrawin nnk/nnm dduw n [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] d [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAr tqbalt mas d asɣun nɣ tansa URL iga imawlan iqaddn dduw n turagt Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Brrk}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinɣmisn",
 	"wikibase-sitelinks-wikiquote": "Wikiawal",

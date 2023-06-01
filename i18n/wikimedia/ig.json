@@ -37,7 +37,7 @@
 	"group-steward": "Ò'dózí",
 	"group-steward-member": "ò'dózí",
 	"wikimedia-copyright": "Ihe e dere nọ n'okpuru <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; usoro mgbakwunye nkwenye dị kwa\nLee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Usoro iji mee ihe</a> maka ihe ọzọ Í kwesiri ima.",
-	"wikimedia-copyrightwarning": "Site na idonye mgbanwe, I kwenyere na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Usoro ojiji], nakwa I kwenyere n'enweghị mgbagha ịhapụ ntinye gị n'okpuru [https://en.wikipedia.org/wiki/ Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License nakwa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nỊ kwenyere na njikọ ma ọ bụ URL zuru oke n'okpuru ikikere Creative Commons.",
+	"wikimedia-copyrightwarning": "Site na idonye mgbanwe, I kwenyere na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Usoro ojiji], nakwa I kwenyere n'enweghị mgbagha ịhapụ ntinye gị n'okpuru [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] nakwa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nỊ kwenyere na njikọ ma ọ bụ URL zuru oke n'okpuru ikikere Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{Gender: $1|Nnọọ}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wịkịniụs",
 	"wikibase-sitelinks-wikiquote": "Wịkịkwotu",

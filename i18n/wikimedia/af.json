@@ -98,7 +98,7 @@
 	"group-steward-member": "Waard",
 	"group-sysadmin": "Stelseladministrateurs",
 	"group-sysadmin-member": "Stelseladministrateur",
-	"wikimedia-copyright": "Die teks is beskikbaar onder die lisensie <a href='//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_Unported_License'>Creative Commons Erkenning-Insgelyks Deel</a>. Aanvullende voorwaardes kan moontlik ook van toepassing wees. Sien die <a href='//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
+	"wikimedia-copyright": "Die teks is beskikbaar onder die lisensie <a href='https://creativecommons.org/licenses/by-sa/4.0/'>Creative Commons Erkenning-Insgelyks Deel</a>. Aanvullende voorwaardes kan moontlik ook van toepassing wees. Sien die <a href='//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use'>Algemene Voorwaardes</a> vir meer inligting.",
 	"wikimedia-copyrightwarning": "Deur wysigings te stoor, stem u in tot die [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use gebruiksvoorwaardes] en gee u onherroeplik toestemming dat u bydrae onder die [https://creativecommons.org/licenses/by-sa/4.0/deed.af Creative Commons Erkenning-InsgelyksDeel] en die [http://af.wikipedia.org/wiki/GNU-lisensie_vir_vrye_dokumentasie GNU-lisensie vir vrye dokumentasie] gepubliseer word.\nU stem verder in dat 'n skakel of URL voldoende naamsvermelding is om aan die Creative Commons-lisensie te voldoen.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welkom}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Wikiboeke",
