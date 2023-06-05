@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Maxí"
+			"Maxí",
+			"Snævar"
 		]
 	},
-	"thank-you": "{{GENDER:$1|Takk fyrir.}}"
+	"thank-you": "{{GENDER:$1|Takk fyrir.}}",
+	"graph-disabled-category": "Síður með óvirkjuðum gröfum"
 }

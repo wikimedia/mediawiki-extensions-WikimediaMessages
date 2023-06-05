@@ -7,7 +7,7 @@
 	"sitesupport": "Alɔgɔ towé",
 	"tooltip-n-sitesupport": "Gɔ alɔ nú mǐ",
 	"wikimedia-copyright": "Sɛn é ɖɔnu ɖo nuwlǎnwlǎn ɔ wú é ɖyé: <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\n\nYín nukún kpɔn wémá élɔ jí boná do tun <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">lée é ná sinhú zán gbɔn é</a>",
-	"wikimedia-copyrightwarning": "É nyi ɖɔ mi sɔ dyɔɖyɔ lɛ ɖo toji ɔ, hun mi yi gbé nu  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use sɛn é ɖɔ nu ɖo  zizan tɔn] wu lɛ é ló bo ɖo alɔ éji ɖɔ nuwlanwlan mitɔn lɛ na nɔ [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] kpodo [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] sɛn glɔ.\n\nMi ɖo alɔ é ji ɖɔ wéma kan alo URL ɔ kpé bo na ɖo ɖéxlɛ ɖɔ mi sɔ acɛ mi ɖo do wéma ɔ ji sɔ ɖo sɛn Creative Commons tɔn glɔ.",
+	"wikimedia-copyrightwarning": "É nyi ɖɔ mi sɔ dyɔɖyɔ lɛ ɖo toji ɔ, hun mi yi gbé nu  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use sɛn é ɖɔ nu ɖo  zizan tɔn] wu lɛ é ló bo ɖo alɔ éji ɖɔ nuwlanwlan mitɔn lɛ na nɔ [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] kpodo [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] sɛn glɔ.\n\nMi ɖo alɔ é ji ɖɔ wéma kan alo URL ɔ kpé bo na ɖo ɖéxlɛ ɖɔ mi sɔ acɛ mi ɖo do wéma ɔ ji sɔ ɖo sɛn Creative Commons tɔn glɔ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Kwabɔ}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
@@ -15,7 +15,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Nulɛnmɔzɔwatɔ lɛ",
 	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|É ɖo alɔ té nu]] mɛsɔxlɛ wekwin mitɔn IP tɔn ɔ ɖo wiki lɛ bi ji.\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n\n$6 wɛ nyi mɛsɔxlɛ wekwin mitɔn.\nMi sɔ do nukambiɔ mitɔn lɛ bi mɛ.\n\nE nyi mi mɔ mɛ ɔ wa nu yi ɖo bo do ɖo alɔ té nu mi ɔ, mi na mɔ nuxixa gégé ɖo [[m:Special:MyLanguage/No open proxies|Proxies ma nɔ gbawunjo mɛ o]] sɛn ji.\n\n\nBo na do kɛ nu ɖo alɔɖoté énɛ ɔ wu ɔ, [[m:Steward requests/Global|mi hɛn ɔ mi na blo ɖo Meta-Wiki ji]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''[[m:Special:MyLanguage/Global blocks|É ɖo alɔ té nu]] mɛsɔxlɛ wekwin mitɔn IP mitɔn tɔn ɖo wiki lɛ bi ji.\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n\n$6 wɛ nyi mɛsɔxlɛ wekwin mitɔn.\nMi sɔ do nukambiɔ mitɔn lɛ bi mɛ.\n\nE nyi mi mɔ mɛ ɔ wa nu yi ɖo bo do ɖo alɔ té nu mi ɔ, mi na mɔ nuxixa gégé ɖo [[m:Special:MyLanguage/No open proxies|Proxies ma nɔ gbawunjo mɛ o]] sɛn ji.\n\n\nBo na do kɛ nu ɖo alɔɖoté énɛ ɔ wu ɔ, [[m:Steward requests/Global|mi hɛn ɔ mi na blo ɖo Meta-Wiki ji]].",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n{{int:globalblocking\n-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Nu lilɛn lɛ",
 	"wikimedia-cookiestatement": "Nu é kan kooki lɛ é"
 }

@@ -10,7 +10,7 @@
 	"sitesupport": "दान करीं",
 	"tooltip-n-sitesupport": "हमनी के सपोर्ट करीं",
 	"group-accountcreator": "खाता बनावे वाला",
-	"wikimedia-copyright": "पाठ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के तहत  उपलब्ध बा; अउरी शर्त भी लागू हो सकत बा।\nढेर जानकारी खातिर <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">उपयोग के शर्त</a> देखीं।",
+	"wikimedia-copyright": "ई पाठ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"></a>क्रियेटिव कॉमंस ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के तहत उपलब्ध बा; अउरी शर्त भी लागू हो सकत बाड़ी स।\nबेसी जानकारी खातिर <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">इस्तेमाल के शर्त</a> देखीं।",
 	"wikimedia-copyrightwarning": "बदलाव प्रकाशित करे के मतलब बा आप [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use इस्तेमाल की सगरी शर्त] के मानत बानीं, आप वादा से पाछे हटब कि आपन योगदान के [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] आ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] की तहत जारी करे खातिर सनमत बानी।\nआप सहमत बानी कि खाली हाइपरलिंक या यूआरयल Creative Commons license की तहत श्रेय देवे खातिर काफी बाटे।",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|स्वागत बा}}, $1 जी!",
 	"wikibase-repo-name": "विकिडेटा",
@@ -22,8 +22,8 @@
 	"wikibase-otherprojects-wikidata": "विकिडेटा",
 	"wikibase-sitelinks-sitename-wikidatawiki": "विकिडेटा",
 	"wikimedia-developers": "डेवलपर लोग",
-	"wikimedia-globalblocking-ipblocked": "'''राउर आइपी पता के [[m:Special:MyLanguage/Global blocks|सगरी विकि पर रोक दिहल गइल बा]]।'''\n\nई ब्लॉक $1 ($2) द्वारा लगावल गइल।\nकारण बतावल गइल बा: ''$3''।\n\n* रोक के सुरुआत: $4\n* रोक के समाप्ती होखी: $5\n\nराउर वर्तमान आइपी पता $6 बा।\nअगर कौनो पूछताछ करीं तब ऊपर बतावल जानकारी शामिल करीं।\n\nअगर आपके बुझाता कि गलती से रउराँ के ब्लॉक क दिहल गइल बा, अउरी जानकारी आ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|No open proxies]] के बैस्विक नीति में मिली।\nनाहीं त, एह ब्लॉक पर चर्चा करे खातिर [[m:Steward requests/Global|मेटा विकि पर समीक्षा के अनुरोध करीं]]।",
-	"wikimedia-globalblocking-ipblocked-xff": "आपके अनुरोध द्वारा इस्तेमाल होखे वाला एक ठो भा अधिका प्रॉक्सी सर्वर [[m:Special:MyLanguage/Global blocks|बैस्विक रूप से ब्लॉक बा]]।'''\n\nई ब्लॉक $1 ($2) द्वारा लगावल गइल।\nकारण बतावल गइल बा: ''$3''।\n\n* रोक के सुरुआत: $4\n* रोक के समाप्ती होखी: $5\n\nब्लॉक कइल प्रॉक्सी पता $6 रहल।\nअगर कौनो पूछताछ करीं तब ऊपर बतावल सगरी जानकारी शामिल करीं।\n\nअगर आपके बुझाता कि गलती से रउराँ के ब्लॉक क दिहल गइल बा, अउरी जानकारी आ दिसानिर्देस [[m:Special:MyLanguage/No open proxies|खुला प्रॉक्सी ना]] के बैस्विक नीति पर मिल सकत बा।\nनाही त, एह ब्लॉक पर चर्चा करे खातिर [[m:Steward requests/Global|मेटा विकि पर समीक्षा के अनुरोध करीं]]।",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nरोक लगावे वाला $1 ($2).\nदिहल गइल कारन ''$3''.\n\n* रोक के शुरुआत: $4\n* रोक के समाप्ती: $5\n\nराउर वर्तमान आइपी पता $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nरोक (ब्लॉक) लगावे वाला $1 ($2).\nदिहल गइल कारन ''$3''.\n\n* रोक के शुरुआत: $4\n* रोक के समाप्ती: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "आँकड़ा",
 	"wikimedia-cookiestatement": "कुकी इस्टेटमेंट"
 }

@@ -13,7 +13,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Ŵalembi",
-	"wikimedia-globalblocking-ipblocked": "'''IP adilesi yinu [[m:Special:MyLanguage/Global blocks|yajalika pa wiki zose].'''\n\nUyo wamujalilani ni $1 ($2).\nChifukwa ntchakuti ''$3''.\n\n* Kujalilika kwamba pa: $4\n* Kujalilika kuzamumala pa: $5\n\nAdilesi yinu yasono ni $6.\nChonde pala mulembenge pempho sazgani vyose ivi vili pachanya apa.\n\nPala mukuona kuti mwangujalilika mwa ngozi, mungaluta pa apa kuti muone vinandi pa [[m:Special:MyLanguage/No open proxies|No open proxies]] vyamalango.\nPanyake pala mukukhumba kupempha kumasulika, [[m:Steward requests/Global|mungaluta pa Meta-Wiki kuti mukaovwilike na ŵavwili]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nWakubuloka wakaŵa $1 ($2).\nChifukwa ntchakuti ''$3''.\n\n* Kwamba kwa kubuloka: $4\n* Kumala kwa kubuloka: $5\n\nIP adilesi yinu yasono ni $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Viŵelengelo",
 	"wikimedia-cookiestatement": "Chilolelezo chinu"
 }

@@ -4,6 +4,7 @@
 			"Beau",
 			"Chrumps",
 			"Lazowik",
+			"Msz2001",
 			"Rail",
 			"Railfail536",
 			"Rezonansowy",
@@ -20,5 +21,7 @@
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
 	"thank-you": "{{GENDER:$1|Dziękuję.}}",
 	"specialblockfeedback": "Opinie",
-	"specialinvestigate-feedback": "Zostaw opinię"
+	"specialinvestigate-feedback": "Zostaw opinię",
+	"graph-disabled-category": "Strony z zablokowanymi wykresami",
+	"graph-disabled-category-desc": "Strona zawiera znacznik <code><nowiki><graph></nowiki></code>, który jest chwilowo niedostępny ([[phab:T334940|T334940]])."
 }
