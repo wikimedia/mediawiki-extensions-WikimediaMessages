@@ -5,7 +5,9 @@
 		]
 	},
 	"wm-license-cc-free": "Ikatte nikellai:",
-	"wm-license-cc-free-to-share-header": "poro ansare",
+	"wm-license-cc-free-to-share-header": "poro attawa",
 	"wm-license-cc-free-to-remix-header": "poro angguba",
-	"wm-license-cc-conditions-share_alike-header": "ansare sangkamma"
+	"wm-license-cc-conditions-attribution-header": "attiribusi",
+	"wm-license-cc-conditions-attribution-text": "Anda harus mencantumkan atribusi yang sesuai, memberikan pranala ke lisensi, dan memberi tahu bila ada perubahan. Anda dapat melakukannya melalui cara yang Anda inginkan, namun tidak menyatakan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.",
+	"wm-license-cc-conditions-share_alike-header": "attawa sangkamma"
 }

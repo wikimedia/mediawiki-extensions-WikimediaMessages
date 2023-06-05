@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nurlan"
+			"Nurlan",
+			"Ajiniyaz Nurniyazov"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(paydalanıwshı atın saylawda járdem)]]"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(paydalanıwshı atın saylawda járdem)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Súwrettegi jazıwdı túsinbey atırsız ba? [[{{MediaWiki:createacct-captcha-help-url}}|Esap betin jaratıwdı soraw]]"
 }
