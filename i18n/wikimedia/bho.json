@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Catrope",
 			"Ganesh",
 			"Nepaboy",
 			"SatyamMishra",
@@ -10,7 +11,7 @@
 	"sitesupport": "दान करीं",
 	"tooltip-n-sitesupport": "हमनी के सपोर्ट करीं",
 	"group-accountcreator": "खाता बनावे वाला",
-	"wikimedia-copyright": "ई पाठ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"></a>क्रियेटिव कॉमंस ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के तहत उपलब्ध बा; अउरी शर्त भी लागू हो सकत बाड़ी स।\nबेसी जानकारी खातिर <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">इस्तेमाल के शर्त</a> देखीं।",
+	"wikimedia-copyright": "ई पाठ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">क्रियेटिव कॉमंस ऐट्रिब्यूशन/शेयर-अलाइक लाइसेंस</a> के तहत उपलब्ध बा; अउरी शर्त भी लागू हो सकत बाड़ी स।\nबेसी जानकारी खातिर <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">इस्तेमाल के शर्त</a> देखीं।",
 	"wikimedia-copyrightwarning": "बदलाव प्रकाशित करे के मतलब बा आप [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use इस्तेमाल की सगरी शर्त] के मानत बानीं, आप वादा से पाछे हटब कि आपन योगदान के [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] आ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] की तहत जारी करे खातिर सनमत बानी।\nआप सहमत बानी कि खाली हाइपरलिंक या यूआरयल Creative Commons license की तहत श्रेय देवे खातिर काफी बाटे।",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|स्वागत बा}}, $1 जी!",
 	"wikibase-repo-name": "विकिडेटा",
