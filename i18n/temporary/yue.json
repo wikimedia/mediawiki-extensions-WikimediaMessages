@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ktchankt"
+			"Ktchankt",
+			"捍粵者"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定臨時訊息",
@@ -10,5 +11,5 @@
 	"group-oversight-member": "監督",
 	"hello": "你好",
 	"please-translate": "請幫手去譯做你嘅語言",
-	"thank-you": "{{GENDER:$1|多謝。}}"
+	"thank-you": "多謝。"
 }
