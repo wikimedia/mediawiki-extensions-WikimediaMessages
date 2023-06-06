@@ -1,6 +1,6 @@
 {
 	"@metadata": [],
-	"wikimedia-privacypage": "wmf:Privacy_policy",
+	"wikimedia-privacypage": "foundation:Special:MyLanguage/Policy:Privacy_policy",
 	"wikimedia-privacypage-labs": "wikitech:Wikitech:Cloud_Services_Terms_of_use",
-	"wikimedia-cookiestatement-page": "wmf:Cookie_statement"
+	"wikimedia-cookiestatement-page": "foundation:Special:MyLanguage/Policy:Cookie_statement"
 }

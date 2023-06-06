@@ -1,6 +1,6 @@
 {
 	"@metadata": [],
-	"wikimedia-privacypage": "{{notranslate}} Default Wikimedia projects link to privacy policy. Should not be changed at the request of Wikimedia Foundation's Legal Department. Should not include 'Special:MyLanguage/'. Approved languages for links: en (primary for document), ar, de, es, fr, it, ja, pt-br",
-	"wikimedia-privacypage-labs": "{{notranslate}} Default Wikimedia Labs projects link to terms of use. Should not be changed at the request of Wikimedia Foundation's Legal Department.",
-	"wikimedia-cookiestatement-page": "{{notranslate}} Default link to Wikimedia Foundation cookie statement for the footer on all WMF sites."
+	"wikimedia-privacypage": "{{notranslate}} Default Wikimedia projects link to privacy policy. Should only be changed at the request of Wikimedia Foundation's Legal Department.",
+	"wikimedia-privacypage-labs": "{{notranslate}} Default Wikimedia Labs projects link to terms of use. Should only be changed at the request of Wikimedia Foundation's Legal Department.",
+	"wikimedia-cookiestatement-page": "{{notranslate}} Default link to Wikimedia Foundation cookie statement for the footer on all Wikimedia Foundation sites."
 }
