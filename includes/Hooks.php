@@ -1755,7 +1755,7 @@ class Hooks implements
 			// If we're on Special:RecentChanges
 			$title->isSpecial( 'Recentchanges' ) &&
 			// And the user is one with an account
-			$user->isRegistered() &&
+			$user->isNamed() &&
 			// If RCFilters UI is enabled
 			$special->isStructuredFilterUiEnabled()
 		) {
@@ -1769,7 +1769,7 @@ class Hooks implements
 			}
 		} elseif (
 			$title->isSpecial( 'Watchlist' ) &&
-			$user->isRegistered() &&
+			$user->isNamed() &&
 			$special->isStructuredFilterUiEnabled() &&
 			!$this->userOptionsManager->getOption( $user, 'wlenhancedfilters-seen-tour' )
 		) {
