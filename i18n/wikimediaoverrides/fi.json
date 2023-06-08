@@ -14,12 +14,11 @@
 	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnus",
-	"wikimedia-discussiontools-replywidget-terms-click": "Klikkaamalla \"$1\" hyväksyt [https://foundation.wikimedia.org/wiki/Terms_of_Use käyttöehdot] ja suostut peruuttamattomasti julkaisemaan tekstisi [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0]- ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-lisensseillä.",
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nEston asetti $1.\nAnnettu syy on ''$2''.\n\n* Esto alkoi: $8\n* Esto päättyy: $6\n\nTämänhetkinen IP-osoitteesi on $3.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nEston asetti $1.\nAnnettu syy on ''$2''.\n\n* Esto alkoi: $8\n* Esto päättyy: $6\n\nTämänhetkinen IP-osoitteesi on $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-sitematrix": "Luettelo Wikimedian wikeistä",
 	"wikimedia-sitematrix-others": "Muut Wikimedia-hankkeet",
 	"wikimedia-sitematrix-summary": "Tämä toimintosivu näyttää luettelon kaikista Wikimedian wikeistä.",
 	"wikimedia-sulrenamewarning-usenew": "Tästä hetkestä lähtien sinun tulee kirjautua sisään käyttäen uutta käyttäjänimeäsi <strong>$1</strong>. Uusi käyttäjänimesi on uniikki kaikissa Wikimedia-projekteissa, ja jos olet olet kirjautuneena yhdessä projektissa ja vierailet toisessa, tunnuksesi seuraa perässä. [[:m:Special:MyLanguage/Help:Unified_login|Yhdistetyn kirjautumisen tietosivulla]] on enemmän tietoa yhdistetystä kirjautumisesta, kuten myös lista useimmin kysytyistä kysymyksistä. Jos sinun täytyy päivittää sähköpostiosoitteesi tai salasanasi [[Special:Preferences|asetuksissasi]], nyt on hyvä aika tehdä niin.\n\nVoit pyytää tunnuksesi nimeämistä toiselle nimelle sivun [[Special:GlobalRenameRequest]] kautta. Kiitos osallistumisestasi Wikimedia-projekteihin.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Tietosuojakäytäntö]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Tietosuojakäytäntö]"
 }

@@ -348,6 +348,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
 	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц.",
+	"right-editautoreviewprotected": "Правка страниц, защищённых как «{{int:protect-level-editautoreviewprotected}}»",
 	"protect-level-editautopatrolprotected": "Защитить от неавтопатрулируемых участников",
 	"restriction-level-editautopatrolprotected": "защита от неавтопатрулируемых",
 	"right-editautopatrolprotected": "Правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",

@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "Цадакьа",
 	"tooltip-n-sitesupport": "Жущал чӀарав бацӀира",
-	"wikimedia-copyright": "Хавар аьварахъну бур <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">сиппат Creative Commons Attribution-ShareAlike</a>, цирив ца чӀумал бюхъай ялунсса шартӀру зун.\nЯлагу биялну яб. <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru\">Мюнпат баврил шартӀру</a>.",
+	"wikimedia-copyright": "Хавар аьварахъну бур <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">сиппат Creative Commons Attribution-ShareAlike</a>, цирив ца чӀумал бюхъай ялунсса шартӀру зун.\nЯлагу биялну яб. <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Мюнпат баврил шартӀру</a>.",
 	"wikimedia-copyrightwarning": "Дуруччин дуллай вил дахханашивурту ина рязи хьуссара [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru ишла баврил шарт|ру], ялагу ина рязи хьуссара махъун лассун къащайсса лицензиялул публикациящал [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] ва [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Ина рязи хъуссара вай баранрув лайкьсса чӀапӀирайн ягу ванил URL-кӀанурду гьассар для шартӀру атрибуциялул лицензиялул Creative Commons биттур бан.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Чаувкра}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викихавартув",
@@ -16,7 +16,7 @@
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викидата",
 	"wikimedia-developers": "Зузалтал",
-	"wikimedia-globalblocking-ipblocked": "'''Зул IP-адрес дуя [[m:Special:MyLanguage/Global blocks|Лавкьусса цинав вики-проектрабу]].'''\n\nЛавкьабу дунну дур $1 ($2).\nКкаккан дурса савав: ''$3''.\n\n* дайдихьу лакьабул: $4\n* къуртал даву лакьабул: $5\n\nЗул цӀанасса IP-адрес — $6.\nМиннатри лахъара цинав ве балжинну зулда аьрзавун.\n\nЗун пикри бухьурча зуба лавкьушибу хавар бакъа бучӀир лакьин ххи банса информацию и инструкция чӀапӀул лажинналий [[m:Special:MyLanguage/No open proxies|КьабучӀишиву ишла дан тӀивтӀусса прокси-сервердув]] щалара дуниялийсса низмуртув.\nЯгу гъалгъа бан лакьабу миннатри, [[m:Steward requests/Global|насияра  запросращал ххалдаврия Мета-викилуву]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nЛавкьабу дунну дур $1 ($2).\nКкаккан дурса савав: ''$3''.\n\n* дайдихьу лакьабул: $4\n* къуртал даву лакьабул: $5\n\nЗул цӀанасса IP-адрес — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ца ягу цаппара прокси-серверду, ишла дурса зул цӀуххорив, [[m:Special:MyLanguage/Global blocks|глобально ларкьуссар]].'''\n\nЛакьаву дия дурну $1 ($2).\nКкаккан дурса савав: ''$3''.\n\n* дейдихьу лакьавул: $4\n* къуртал шаву лакьоврил: $5\n\nЛавкьумур прокси-адрес дуя $6.\nМиннатри, лахъара цинав ве биялшавру зулда цӀухашивурдабу.\n\nБалики зу пикри буллей бухьурча, зуба лакьун бушибу хавар бакьулий, бучӀиссар лякъин ххи хунса информациярдуба  инструкциярду чӀапӀул лажинналий  [[m:Special:MyLanguage/No open proxies|КьабучӀисса ишла данса тӀив тӀусса прокси-серверду]].\nЯла, хавар бан цей бухьурча лакьаву, миннатри, [[m:Steward requests/Global|буругияра запросрашал ххал баншуврул Мета-викилин]].",
 	"wikimedia-statslink": "Аьдадрал хавар",
 	"wikimedia-cookiestatement": "КканпӀитӀрал аьрза"

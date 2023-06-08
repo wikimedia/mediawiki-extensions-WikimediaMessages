@@ -59,6 +59,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Misbruikfilterredacteuren",
 	"group-abusefilter-helper": "misbruikfilterhelpers",
 	"group-abusefilter-helper-member": "{{GENDER:$1|misbruikfilterhelper}}",
+	"group-abusefilter-maintainer": "Misbruikfilterbeheerders",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|misbruikfilterbeheerder}}",
 	"group-accountcreator": "accountaanmakers",
 	"group-accountcreator-member": "{{GENDER:$1|accountaanmaker|accountaanmaakster}}",
 	"grouppage-accountcreator": "{{ns:project}}:Accountaanmakers",
@@ -163,6 +165,8 @@
 	"grouppage-curator": "{{ns:project}}:Conservatoren",
 	"group-global-bot": "Globale bots",
 	"group-global-bot-member": "{{GENDER:$1|globale bot}}",
+	"group-global-deleter": "Globale verwijderaars",
+	"group-global-deleter-member": "{{GENDER:$1|globale verwijderaar}}",
 	"group-global-ipblock-exempt": "Uitgezonderden van globale IP-adresblokkades",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|uitgezonderde van globale IP-adresblokkades}}",
 	"group-global-interface-editor": "Globale interfacebewerkers",
@@ -322,5 +326,12 @@
 	"action-editautopatrolprotected": "pagina's te bewerken die beveiligd zijn als \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-docseditor": "documentatie te bewerken",
 	"right-docseditor": "Documentatie bewerken",
-	"ext-campaignevents-register-policy": "Door u te in te schrijven gaat u akkoord met de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use gebruiksvoorwaarden], met het [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy privacybeleid], met de [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universele Gedragscode] en met het lokale Friendly Space-beleid dat eventueel door de organisatoren van het evenement wordt verstrekt."
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nee",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ja",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nee",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Ik weet het niet zeker",
+	"gadget-souspages-subpages": "Subpagina's",
+	"ext-campaignevents-register-policy": "Door u te in te schrijven gaat u akkoord met de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use gebruiksvoorwaarden], met het [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy privacybeleid], met de [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universele Gedragscode] en met het lokale Friendly Space-beleid dat eventueel door de organisatoren van het evenement wordt verstrekt.",
+	"ipinfo-global-contributions-url-label": "Globale bijdragen"
 }

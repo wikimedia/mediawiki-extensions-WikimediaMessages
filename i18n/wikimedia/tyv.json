@@ -3,6 +3,7 @@
 		"authors": [
 			"Agilight",
 			"Amire80",
+			"Karak-Kyzyl",
 			"Riverman",
 			"Көпек",
 			"Монгуш Салим"
@@ -10,16 +11,16 @@
 	},
 	"sitesupport": "Өргүүдел",
 	"tooltip-n-sitesupport": "Бисти деткиңер",
-	"wikimedia-copyright": "Сөзүглел болза <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike лисензи</a> йозугаар чедингир, немелде дүрүмнер кирип болур.\nОон хөйнү билип алырда <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ажыглал дүрүмнерин</a> көрүңер.",
-	"wikimedia-copyrightwarning": "Өскерлиишкиннерни арттырып тура, силер [https://foundation.wikimedia.org/wiki/], ол ышкаш [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] база [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-биле чөпшээрежип турарыңар ол. Чогуур арынче азы ооң URL-адрезинче гипершөлүлгелерни айтып тура,Creative Commons-туң шынзылгазының негелделери күүсеттинип турар деп чөпшээрежип турарыңар ол.",
+	"wikimedia-copyright": "Сөзүглел болза <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike лицензия</a> ёзугаар хостуг ажыглалда турар; немелде негелделер туруп болур.\nОон хөйнү билип алырда <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ажыглал дүрүмнерин</a> көрүңер.",
+	"wikimedia-copyrightwarning": "Өскерлиишкиннерни киирип тура, силер [https://foundation.wikimedia.org/wiki/], ол ышкаш [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] база [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-биле чөпшээрежип турарыңар ол. Чогуур арынче азы ооң URL-адрезинче гипершөлүлгелерни айтып тура, Creative Commons-туң шынзылгазының негелделери күүсеттинип турар деп чөпшээрежип турарыңар ол.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Кирип моорлаңар}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викимедээлер",
 	"wikibase-sitelinks-wikiquote": "Викицитата",
 	"wikibase-sitelinks-wikisource": "Викидөс",
 	"wikibase-sitelinks-wikivoyage": "Викичорук",
-	"wikimedia-developers": "Чогаадыкчы тургузукчулар",
-	"wikimedia-globalblocking-ipblocked": "'''Силерниң IP адрезиңер [[m:Special:MyLanguage/Global blocks|шупту викилерге блоктаткан]].'''\n\nКым блоктаан: $1 ($2).\nЧылдагааны: ''$3''.\n\n* Блоктуң эгелээни: $4\n* Блоктуң төнери: $5\n\nАмгы IP адрезиңер $6.\nОл шупту деталдарны айтырыгларыңарга демдеглеп турар силер.\n\nСилерни чазыг-биле блоктаан деп санап турар болзуңарза [[m:Special:MyLanguage/No open proxies|Ажык проксилерге чок]] деп глобалдыг дүрүмнер арнынга немелде информас болгаш инструкс тып ап болур силер.\nАзы болза блок дугайын сайгаржырда [[m:Steward requests/Global|Мета-Викиге эде көөрүн дилегден чорудуптуңар]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Дилег кылырда ажыглаан прокси сервер(лер)иңер [[m:Special:MyLanguage/Global blocks|глобалдыы-биле блоктаткан]].'''\n\nКым блоктаан: $1 ($2).\nЧылдагааны: ''$3''.\n\n* Блоктуң эгелээни: $4\n* Блоктуң төнери: $5\n\nБлоктаткан прокси адрези $6.\nАйтырыг салырда ол деталдарны демдеглеп турар силер.\n\nСилерни чазыг-биле блоктаан деп санап турар болзуңарза [[m:Special:MyLanguage/No open proxies|Ажык проксилерге чок]] деп глобалдыг дүрүмнер арнынга немелде информас болгаш инструкс тып ап болур силер.\nАзы болза блок дугайын сайгаржырда [[m:Steward requests/Global|Мета-Викиге эде көөрүн дилегден чорудуптуңар]].",
+	"wikimedia-developers": "Разработчиктер",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nКым блоктаан: $1 ($2).\nАйыткан чылдагааны: ''$3''.\n\n* Дуглаашкын эгелээни: $4\n* Дуглаашкын төнери: $5\n\nАмгы IP адрезиңер — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nКым дуглаан: $1 ($2).\nЧылдагааны: ''$3''.\n\n* Дуглаашкынның эгелээни: $4\n* Дуглаашкынның төнери: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки билдириишкини"
 }

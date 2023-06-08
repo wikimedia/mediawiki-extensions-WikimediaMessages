@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bangrapip",
 			"Veracious"
 		]
 	},
-	"sitesupport": "Nyumbang"
+	"sitesupport": "Nyumbang",
+	"wikimedia-copyright": "Tèks kesedia di bawahnya <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Lisènsi Nisbat-BagiSetumbras Creative Commons</a>;\nketentuan tambahan barangkali belakon.\nLiat <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ketentuan Pemakéan</a> bakal tètèk bengèknya.",
+	"wikimedia-copyrightwarning": "Dengen nyimpen perobahan, lu akur ama [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], èn lu akur ngelepasin lu punya sumbangsih di bawah [https://creativecommons.org/licenses/by-sa/4.0/deed.en Lisènsi CC BY-SA 4.0] èn [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nLu akur kalo adisènggètan atawa URL ièlah nisbat nyang memadain di bawah lisènsi Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikiberita",
+	"wikibase-sitelinks-wikiquote": "Wikitukil",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
+	"wikibase-sitelinks-wikivoyage": "Wikiplesir",
+	"wikimedia-developers": "Pengembang",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokir dikeja ama $1 ( $2 ).\nAlesan nyang dikasi ièlah '' $3 ''. \n\n* Awal pemblokiran: $4 \n* Kedaluwarsa pemblokiran: $5 \n\nLu punya aderès IP sekarang ni ièlah $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokir dikeja ama $1 ( $2 ).\nAlesan nyang dikasi ièlah '' $3 ''. \n\n* Awal pemblokiran: $4 \n* Kedaluwarsa pemblokiran: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-statslink": "Statistik",
+	"wikimedia-cookiestatement": "Pernyataan kuki"
 }
