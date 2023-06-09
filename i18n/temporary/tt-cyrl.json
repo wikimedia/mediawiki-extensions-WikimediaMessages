@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Blackisnewyellow",
 			"Ильнар"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Тикшерүчеләр",
-	"group-oversight": "Тикшерүчеләр"
+	"group-oversight": "Тикшерүчеләр",
+	"graph-disabled-category": "Графиклары сүндерелгән битләр"
 }

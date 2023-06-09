@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AProdromou",
 			"Babispan",
 			"Geraki",
 			"Glavkos",
@@ -31,5 +32,6 @@
 	"wikimedia-sitematrix-others": "Άλλα εγχειρήματα του Wikimedia",
 	"wikimedia-sitematrix-summary": "Αυτή η ειδική σελίδα περιέχει σε λίστα όλα τα wikis του Wikimedia.",
 	"wikimedia-sulrenamewarning-usenew": "Από τώρα και στο εξής θα πρέπει να συνδέεστε χρησιμοποιώντας το νέο όνομα χρήστη <strong>$1</strong>. Το νέο όνομα χρήστη σας είναι μοναδικό για σας σε κάθε εγχείρημα του Wikimedia, και εάν είστε συνδεδεμένοι σε ένα εγχείρημα και επισκεφθείτε άλλο, ο λογαριασμός σας θα σας ακολουθήσει. Η [[:m:Special:MyLanguage/Help:Unified_login|σελίδα βοήθειας Ενοποιημένης Σύνδεσης]] έχει περισσότερες πληροφορίες σχετικά με το μοναδική-σύνδεση χρήστη, καθώς και μια λίστα με τις συνήθεις ερωτήσεις. Αν χρειαστεί να ενημερώσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας ή να αλλάξετε το συνθηματικό σας στις [[Special:Preferences|προτιμήσεις]] σας, τώρα μπορεί να είναι μια καλή στιγμή για να το κάνετε.\n\nΓια να ζητήσετε διαφορετικό όνομα λογαριασμού, επισκεφθείτε το  [[Special:GlobalRenameRequest]]. Σας ευχαριστούμε για τη συμμετοχή στα εγχειρήματα του Wikimedia.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/el Πολιτική Ιδιωτικότητας]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/el Πολιτική Ιδιωτικότητας]",
+	"wikimedia-ipinfo-preference-use-agreement": "Συμφωνώ να χρησιμοποιήσω αυτό το εργαλείο σύμφωνα με τις [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines οδηγίες IP Information Tool], αποκλειστικά για τη διερεύνηση ή την πρόληψη βανδαλισμών, κατάχρησης ή άλλων παραβιάσεων του Ιδρύματος Wikimedia ή των πολιτικών της κοινότητας."
 }
