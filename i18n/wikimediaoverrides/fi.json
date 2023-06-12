@@ -14,6 +14,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnus",
+	"wikimedia-discussiontools-replywidget-terms-click": "Klikkaamalla \"$1\" hyväksyt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use käyttöehdot] ja suostut peruuttamattomasti julkaisemaan tekstisi {{PLURAL:$3|lisenssillä|lisensseillä}} $2.",
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nEston asetti $1.\nAnnettu syy on ''$2''.\n\n* Esto alkoi: $8\n* Esto päättyy: $6\n\nTämänhetkinen IP-osoitteesi on $3.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nEston asetti $1.\nAnnettu syy on ''$2''.\n\n* Esto alkoi: $8\n* Esto päättyy: $6\n\nTämänhetkinen IP-osoitteesi on $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-sitematrix": "Luettelo Wikimedian wikeistä",

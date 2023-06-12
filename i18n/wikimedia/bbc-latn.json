@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"27christian11",
 			"Bennylin",
 			"Herryz",
 			"ProudBatak",
@@ -10,8 +11,8 @@
 	},
 	"sitesupport": "Margugu",
 	"tooltip-n-sitesupport": "Galang hami",
-	"wikimedia-copyright": "Hatana adong di toru ni <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nSipata adong hilap na asing dipamasuk.\nIda ma <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> asa tangkas",
-	"wikimedia-copyrightwarning": "dohot mangaradoti hamubaon, hamu manatahon satolop di [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id Ketentuan Penggunaan] dohot hamu Sasara hot satolop di mambakbak Sibahenon hamu di [https://creativecommons.org/licenses/by-sa/4.0/deed.id Lisensi CC BY-SA 4.0] manang [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. \nHamu satolop ala ni pangaleanan pranala manang URL nunga ris tu  atribusi ni Lisensi Creative Commons.",
+	"wikimedia-copyright": "Hata adong di toru ni <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nSipata adong hilap na asing dipamasuk.\nIda ma <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> asa tangkas",
+	"wikimedia-copyrightwarning": "Molo mangaradoti hamubaon on, satolop ma hamu di [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id Ketentuan Penggunaan] dohot hamu Sasara hot satolop di mambakbak Sibahenon hamu di [https://creativecommons.org/licenses/by-sa/4.0/deed.id Lisensi CC BY-SA 4.0] manang [//id.wikipedia.org/wiki/Wikipedia:Lisensi_Dokumentasi_Bebas_GNU GFDL]. \nSatolop ma hamu ala ni pangaleanan pranala manang URL nunga ris tu atribusi ni Lisensi Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
