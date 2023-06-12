@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Veracious"
+			"Veracious",
+			"Bangrapip"
 		]
 	},
-	"sitesupport": "Nyumbang"
+	"sitesupport": "Nyumbang",
+	"wikibase-sitelinks-wikinews": "Wikiberita",
+	"wikibase-sitelinks-wikiquote": "Wikitukil",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
+	"wikibase-sitelinks-wikivoyage": "Wikiplesir",
+	"wikimedia-developers": "Pengembang",
+	"wikimedia-statslink": "Statistik",
+	"wikimedia-cookiestatement": "Pernyataan kuki"
 }

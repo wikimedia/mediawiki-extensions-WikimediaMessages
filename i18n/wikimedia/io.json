@@ -117,6 +117,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Un o plusa servero-komputeri uzata da vua demando esas  [[m:Special:MyLanguage/Global blocks|globale blokusata]].'''\n\nLa blokuso facesis da $1 ($2).\nLa motivo por blokuso esis ''$3''.\n\n* Komenco: $4\n* Fino di la blokuso: $5\n\nL'adreso dil ''proxy'' blokusita esis $6.\n\nSe vu kredas ke vua blokuso esis acidentala, vu povas lektar plusa informi ed instrukti en la ligilo pri [[m:Special:MyLanguage/No open proxies|la politiko di nula 'proxies' apertita]].\nAltre, por diskutar la blokuso propre, [[m:Steward requests/Global|skribez demando por revizo che Meta-Wiki]].",
 	"grant-checkuser": "Acesar informi por verifikar uzeri",
 	"upload-form-label-not-own-work-message-commons": "Se vu ne havas autoroyuro pri ica arkivo, o vu deziras sendar ol sub diferanta autoroyuro-persmiso, konsiderez uzar l'utensilo [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
+	"interlanguage-link-mul": "Plusa lingui",
 	"interlanguage-link-wikipedia": "Wikipedio",
 	"interlanguage-link-commons": "Wikimedia Commons",
 	"right-editeditorprotected": "Redaktar pagini protektita quale \"{{int:protect-level-editeditorprotected}}\"",

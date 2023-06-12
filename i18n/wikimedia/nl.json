@@ -32,7 +32,8 @@
 			"Tvdm",
 			"DutchTom",
 			"McDutchie",
-			"Nickthijssen1994"
+			"Nickthijssen1994",
+			"HanV"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -73,6 +74,8 @@
 	"grouppage-abusefilter": "{{ns:project}}:Misbruikfilterredacteuren",
 	"group-abusefilter-helper": "misbruikfilterhelpers",
 	"group-abusefilter-helper-member": "{{GENDER:$1|misbruikfilterhelper}}",
+	"group-abusefilter-maintainer": "Misbruikfilterbeheerders",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|misbruikfilterbeheerder}}",
 	"group-accountcreator": "accountaanmakers",
 	"group-accountcreator-member": "{{GENDER:$1|accountaanmaker|accountaanmaakster}}",
 	"grouppage-accountcreator": "{{ns:project}}:Accountaanmakers",

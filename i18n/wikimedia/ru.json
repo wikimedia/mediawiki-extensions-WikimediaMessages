@@ -56,7 +56,8 @@
 			"Iluvatar",
 			"Megakott",
 			"WindEwriX",
-			"Pacha Tchernof"
+			"Pacha Tchernof",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -364,6 +365,10 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
 	"querypage-updates-monthly": "Обновления этой страницы выполняются один раз в месяц.",
+	"protect-level-editautoreviewprotected": "только автодосматривающие",
+	"restriction-level-editautoreviewprotected": "защита до автодосматривающих",
+	"right-editautoreviewprotected": "Правка страниц, защищённых как «{{int:protect-level-editautoreviewprotected}}»",
+	"action-editautoreviewprotected": "править страницы, защищённые как «{{int:protect-level-editautoreviewprotected}}»",
 	"protect-level-editautopatrolprotected": "Защитить от неавтопатрулируемых участников",
 	"right-editautopatrolprotected": "Правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",
 	"action-editautopatrolprotected": "правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»"
