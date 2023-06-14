@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Riverman",
-			"Монгуш Салим"
+			"Монгуш Салим",
+			"Agilight"
 		]
 	},
 	"wm-license-cc-attribution": "Атрибус",
@@ -14,6 +15,7 @@
 	"wm-license-cc-free-to-remix-text": "ук чогаалды эде кылыр",
 	"wm-license-cc-conditions": "Дараазында негелделерни сагыыр болза:",
 	"wm-license-cc-conditions-attribution-header": "атрибус",
+	"wm-license-cc-conditions-attribution-text": "Авторун айтыр, лицензиязынче шөлүгнү бээр болгаш автор кандыг-бир өскерлиишкиннер киирген бе дээрзин айтыр ужурлуг силер. Ону кандыг-даа чөптүг арга-биле кылып болур, ынчалзажок лицензиат силерни азы бо чогаалды силерниң ажыглап турарыңарны деткип турар ышкаш сагындырбас ужурлуг.",
 	"wm-license-cc-conditions-share_alike-header": "ол-ла негелделерге нептередиишкин",
 	"wm-license-cc-conditions-share_alike-text": "Материалды холуп, хуулдуруп азы аңаа даянып турар болзуңарза, үүлеңер [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses дөмей азы аңаа тааржыр лисенс] йозугаар киирер ужурлуг силер."
 }
