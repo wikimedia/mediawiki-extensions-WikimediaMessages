@@ -54,7 +54,7 @@
 	"group-translationadmin": "Stjórnendur þýðinga",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Textinn er í boði með <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.is\">Creative Commons Attribution-ShareAlike notkunarleyfi</a>; mögulega bætast við það einhverjir viðbótarskilmálar.\nSjá nánar í <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">notkunarskilmálum</a>.",
-	"wikimedia-copyrightwarning": "Með því að „{{int:savearticle}}” staðfestir þú [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use notkunarskilmála] og samþykkir að gefa út framlag þitt undir [https://creativecommons.org/licenses/by-sa/4.0/deed.is CC-BY-SA 4.0 leyfi] og [https://www.gnu.org/copyleft/fdl.html GFDL leyfi].\nÞú staðfestir einnig að vefslóð er nægjanleg tilvísun undir Creative Commons leyfinu.",
+	"wikimedia-copyrightwarning": "Með því að gefa út breytingar staðfestir þú [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use notkunarskilmála] og samþykkir óafturvirkt að gefa út framlag þitt undir [https://creativecommons.org/licenses/by-sa/4.0/deed.is CC-BY-SA 4.0 leyfi] og [https://www.gnu.org/copyleft/fdl.html GFDL leyfi].\nÞú staðfestir einnig að vefslóð er nægjanleg tilvísun undir Creative Commons leyfinu.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Velkominn|Velkomin|Velkomin(n)}}, $1!",
 	"wikibase-statementsection-constraints": "Hömlur",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",
