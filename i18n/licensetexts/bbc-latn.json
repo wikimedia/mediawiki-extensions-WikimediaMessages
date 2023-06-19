@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Salomo Christian Hutajulu",
-			"Herryz"
+			"Herryz",
+			"27christian11"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "Diloashon manggurithon ulak, managihon dohot/manang manguba dokumen nion mangihut uhum ni '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', Persi 1.2 manang ragam asingna dilampirhon [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; soada bagian na muba, soada Teks Sampul Jolo, jala soada Teks Sampul Pudi. Boi dapothon hamu salinan lisensi di bagasan bagian na marjudul [[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]",
 	"wm-license-information-description": "Deskripsi",
-	"wm-license-information-source": "Mual na",
-	"wm-license-information-date": "Hala",
-	"wm-license-information-author": "Pambahen",
+	"wm-license-information-source": "Mualna",
+	"wm-license-information-date": "Tanggal",
+	"wm-license-information-author": "Panompa",
 	"wm-license-information-permission": "Loas",
 	"wm-license-information-permission-reusing-text": "Parhaseanghon muse surat partadingan nion",
 	"wm-license-own-work": "Ulaon sandiri",

@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Samatics"
+			"Samatics",
+			"Emmikweok"
 		]
 	},
-	"sitesupport": "Enọ imaesịt"
+	"sitesupport": "Enọ imaesịt",
+	"wikimedia-developers": "Andisio",
+	"wikimedia-statslink": "Ibat"
 }

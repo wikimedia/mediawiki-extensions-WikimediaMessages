@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Монгуш Салим",
-			"Riverman"
+			"Riverman",
+			"Karak-Kyzyl"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Бо документини '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]] дүрүмнери йозугаар копиялаар, тарадыр болгаш/азы өскертир чөпшээрел бар''', [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] публикастаан, версиязы 1.2 азы оон орай; өскерилбес аңгылал чок, мурнуку картында сөзүглел чок, артыкы картында сөзүглел чок. Лисенстиң копиязы ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]] деп аңгылалда киирдинген''.",
+	"wm-license-gfdl-1.2-and-later": "Бо документини '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]] дүрүмнери ёзугаар хоолгалаар, тарадыр болгаш/азы өскертир чөпшээрел бар''', [[{{int:wm-license-fsf-wiki-link}}|Хостуг код фондузу]] үндүрген, хевири 1.2 азы оон орай; өскерилбес аңгылал чок, мурнуку картында сөзүглел чок, артыкы картында сөзүглел чок. Лицензияның хоолгазы ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]] деп аңгылалда киирдинген''.",
 	"wm-license-information-description": "Тодарадып бижээни",
 	"wm-license-information-source": "Дөзү",
 	"wm-license-information-date": "ай-хүн",
@@ -13,5 +14,5 @@
 	"wm-license-information-permission": "Чөпшээрел",
 	"wm-license-information-permission-reusing-text": "Ол файлды катап ажыглаары",
 	"wm-license-own-work": "Бодунуң ажылы",
-	"wm-license-self-multiple-licenses-select": "Күзээн лисензиңер шилип ап болур силер."
+	"wm-license-self-multiple-licenses-select": "Күзээн лицензияңар шилип ап болур силер."
 }
