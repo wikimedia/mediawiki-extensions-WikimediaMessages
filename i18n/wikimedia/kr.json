@@ -15,6 +15,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Fuwutema",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nAdǝ shima nya dafsu $1 ($2).\nDalil sadena dǝ ''$3''.\n\n* Daftu dǝ baditu: $4\n* Daftu dǝ datǝ: $5\n\nIP adress num kǝrmaye shima $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nAdǝ shima nya dafsu $1 ($2).\nDalil sadena dǝ ''$3''.\n\n* Daftu dǝ baditu: $4\n* Daftu dǝ datǝ: $5\n\nIP adress num kǝrmaye shima $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Lissawoo",
 	"wikimedia-cookiestatement": "Cookie gultu"
 }

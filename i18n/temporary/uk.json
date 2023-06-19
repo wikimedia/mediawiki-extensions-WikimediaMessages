@@ -19,5 +19,7 @@
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
 	"thank-you": "{{GENDER:$1|Дякуємо.}}",
 	"specialblockfeedback": "Зворотний зв'язок",
-	"specialinvestigate-feedback": "Залишити відгук"
+	"specialinvestigate-feedback": "Залишити відгук",
+	"graph-disabled-category": "Сторінки з вимкненими графіками",
+	"graph-disabled-category-desc": "Сторінка містить тег <code><nowiki><graph></nowiki></code>, який тимчасово недоступний ([[phab:T334940|T334940]])."
 }

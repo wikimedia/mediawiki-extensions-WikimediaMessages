@@ -59,7 +59,7 @@
 	"group-engineer-member": "{{GENDER:$1|muhandis}}",
 	"grouppage-engineer": "{{ns:project}}:Muhandislar",
 	"group-eliminator": "Xulosa chiqaruvchilar",
-	"group-eliminator-member": "{{GENDER:$1|oʻchiruvchi}}",
+	"group-eliminator-member": "{{GENDER:$1|xulosa chiqaruvchi}}",
 	"grouppage-eliminator": "{{ns:project}}:Xulosa chiqaruvchilar",
 	"group-filemover": "Fayllarni nomlovchilar",
 	"group-filemover-member": "{{GENDER:$1|Fayl nomlovchi}}",

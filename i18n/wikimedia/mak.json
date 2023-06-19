@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bennylin",
 			"Han4299"
 		]
 	},
 	"sitesupport": "Appatiru",
 	"wikibase-sitelinks-wikinews": "Wikikabarak",
+	"wikibase-sitelinks-wikiquote": "Wikikutip",
 	"wikibase-sitelinks-wikisource": "Wikiassalak",
 	"wikibase-sitelinks-wikivoyage": "Wikijappa",
 	"wikimedia-developers": "Pabakkak",

@@ -2,13 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Dead3y3",
+			"DesVaMan",
 			"Geraki",
 			"Norhorn",
 			"Protnet"
 		]
 	},
+	"wikimediamessages-desc": "Προσωρινά μηνύματα ειδικά για το Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Επιτήρηση",
 	"group-oversight": "Επιτηρητές",
-	"group-oversight-member": "{{GENDER:$1|επιτηρητής|επιτηρήτρια}}",
-	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας"
+	"group-oversight-member": "{{GENDER:$1| επίβλεψη}}",
+	"hello": "Γεια σας",
+	"please-translate": "Παρακαλώ βοηθήστε να γίνει μετάφραση στη γλώσσα σας",
+	"thank-you": "{{GENDER:$1| Ευχαριστώ.}}",
+	"specialblockfeedback": "Σχόλια",
+	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας",
+	"graph-disabled-category": "Σελίδες με απενεργοποιημένα γραφήματα",
+	"graph-disabled-category-desc": "Η σελίδα περιλαμβάνει μια <code><nowiki><graph></nowiki></code>ετικέτα, η οποία δεν είναι προσωρινά διαθέσιμη ([[phab:T334940|T334940]])."
 }

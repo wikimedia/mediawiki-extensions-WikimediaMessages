@@ -21,6 +21,7 @@
 	"wikibase-sitelinks-wikivoyage": "Уикисаякат",
 	"wikimedia-developers": "Түзүүчүлөр",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБөгөттөгөн колдонуучу: $1 ($2)\nКөрсөтүлгөн себеп: ''$3''\n\n* Бөгөттөөнүн башталышы: $4\n* Бөгөттөөнүн аякташы: $5\n\nАзыркы IP-дарегиңиз: $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБөгөттөгөн колдонуучу: $1 ($2)\nКөрсөтүлгөн себеп: ''$3''\n\n* Бөгөттөөнүн башталышы: $4\n* Бөгөттөөнүн аякташы: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-commons": "Викиказына",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie тууралу билдирүү"

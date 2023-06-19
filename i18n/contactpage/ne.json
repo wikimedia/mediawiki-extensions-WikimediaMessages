@@ -5,6 +5,7 @@
 			"Nirajan pant",
 			"Nirjal stha",
 			"पर्वत सुबेदी",
+			"बडा काजी",
 			"सरोज कुमार ढकाल"
 		]
 	},
@@ -14,5 +15,6 @@
 	"contactpage-license-abuse-location": "दुरूपयोगको स्थान (अनलाइन/अफलाइन)",
 	"contactpage-title-affcomusergroup": "प्रयोगकर्ता समूह शुरू गर्न आवेदन गर्नुहोस्",
 	"contactpage-affcom-user-group-logo-community": "विकिमिडिया समूदायको लोगो",
-	"contactpage-affcom-user-group-logo-affiliate": "विकिमिडिया सहभागीको लोगो"
+	"contactpage-affcom-user-group-logo-affiliate": "विकिमिडिया सहभागीको लोगो",
+	"contactpage-affcom-chapter-thorg-coc-label": "आचार संहिता"
 }

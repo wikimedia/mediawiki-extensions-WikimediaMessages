@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"고솜"
+		]
+	},
+	"sitesupport": "기부",
+	"tooltip-n-sitesupport": "도왜주십서",
+	"wikimedia-copyright": "글은 <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ja\">크리에이티브 커먼즈 표시-계승 라이선스</a>를 바투리로 쓰여짐마시. ᄄᆞ난 조건이 적용뒐 수도 있음마시. ᄌᆞ세히는<a href=\"https://foundation.wikimedia.org/wiki/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84\">이용규약</a>을 베려주십서.",
+	"wikimedia-copyrightwarning": "바꼼을 페워낸덴 것은 [https://foundation.wikimedia.org/wiki/Terms_of_Use/ko 이용약관]을 맞덴 베령 [https://creativecommons.org/licenses/by-sa/3.0/legalcode 크리에이티브 커먼즈 제작자표시-동일조건변경허락 3.0 라이선스]왕 [https://www.gnu.org/copyleft/fdl.html GNU ᄌᆞ유문세ᄉᆞ용허가서](GFDL)에 ᄄᆞ랑 거들븜를 널리 뿌리는 듸 동의ᄒᆞᆷ을 뜻ᄒᆞ멍, 또시 크리에이티브 커먼즈 라이선스에 ᄄᆞ랑 하이퍼링크나 URL이 제작자표시의 내기록 쓰임에도 동의ᄒᆞᆷ을 뜻ᄒᆞ우다.",
+	"wikibase-sitelinks-wikinews": "위키뉴스",
+	"wikibase-sitelinks-wikiquote": "위키인용집",
+	"wikibase-sitelinks-wikisource": "위키소스",
+	"wikibase-sitelinks-wikivoyage": "위키항헤",
+	"wikimedia-developers": "게발자"
+}
