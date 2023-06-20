@@ -50,5 +50,6 @@
 	"wikimedia-notification-body-oathauth-disable-other": "Якщо {{GENDER:$2|ви}} не робили цього запиту, {{GENDER:$2|вам}} варто звернутися до Trust & Safety Фонду Вікімедіа.",
 	"wikimedia-ipinfo-source-geoip2": "Використання вами цього інструменту регулюється [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Настановами щодо інструменту IP-інформації].",
 	"wikimedia-ipinfo-infobox-use-terms": "Інструмент IP-інформації використовує базу даних MaxMind для відображення таких деталей, як місцезнаходження, проксі-сервер і кількість пристроїв, які використовують цю IP-адресу.",
-	"wikimedia-ipinfo-preference-use-agreement": "Я погоджуюсь використовувати цей інструмент відповідно до [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines настанов для інструменту IP-інфо], виключно для розслідування або запобігання вандалізму, зловживань, або інших порушень правил спільноти чи Фонду Вікімедіа."
+	"wikimedia-ipinfo-preference-use-agreement": "Я погоджуюсь використовувати цей інструмент відповідно до [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines настанов для інструменту IP-інфо], виключно для розслідування або запобігання вандалізму, зловживань, або інших порушень правил спільноти чи Фонду Вікімедіа.",
+	"wikimedia-similareditors-error-default": "Щось пішло не так, ми це з'ясовуємо. Якщо проблема не зникне, зв'яжіться з нами [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors  тут]."
 }

@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"고솜"
+		]
+	},
+	"sitesupport": "기부",
+	"tooltip-n-sitesupport": "도왜주십서",
+	"wikibase-sitelinks-wikinews": "위키뉴스",
+	"wikibase-sitelinks-wikiquote": "위키인용집",
+	"wikibase-sitelinks-wikisource": "위키소스",
+	"wikibase-sitelinks-wikivoyage": "위키항헤",
+	"wikimedia-developers": "게발자"
+}
