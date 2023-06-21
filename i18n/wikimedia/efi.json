@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Samatics"
+			"Samatics",
+			"Emmikweok",
+			"Maryeren"
 		]
 	},
-	"sitesupport": "Enọ imaesịt"
+	"sitesupport": "Enọ imaesịt",
+	"wikibase-sitelinks-wikinews": "Mbụkwiki",
+	"wikibase-sitelinks-wikiquote": "IkọWiki",
+	"wikibase-sitelinks-wikisource": "Ntọnọwiki",
+	"wikibase-sitelinks-wikivoyage": "Isañ Wiki",
+	"wikimedia-developers": "Andisio",
+	"wikimedia-statslink": "Ibat",
+	"wikimedia-cookiestatement": "Itie emi etop ọdọn̄ọde"
 }

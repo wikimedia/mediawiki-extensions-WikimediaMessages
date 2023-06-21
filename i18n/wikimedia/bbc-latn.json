@@ -4,7 +4,9 @@
 			"Herryz",
 			"ProudBatak",
 			"Salomo Christian Hutajulu",
-			"Sotarduga78"
+			"Sotarduga78",
+			"27christian11",
+			"Bennylin"
 		]
 	},
 	"sitesupport": "Margugu",
@@ -15,11 +17,11 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Sipaherbang",
+	"wikimedia-developers": "Angka sipabangkit",
 	"wikimedia-globalblocking-ipblocked": "'''Nunga [[m:Special:MyLanguage/Global blocks|diambati di sude wiki]] do alamat IP-mi.'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\nAlamat IP-mi saonari i ma $6.\nDohothon sude harharon di ganup panungkunanmi.\n\nMolo adong hasalaan di nasa pangambatonmi, boi dipadomu hamu do inpormasi na lobian jala patuduhon di [[m:Special:MyLanguage/No open proxies|ndada proksi tarbuka]] habisukon global.\nMolo soada, hatahon hamu salpu [[m:Steward requests/Global|manongos pangidoan asa boi dipareso di Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sada manang lobian parhobas proksi na diparhaseanghon di bagasan pangidoanmi [[m:Special:MyLanguage/Global blocks|diambati di sude wiki]].'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\nAlamat IP-mi saonari i ma $6.\nDohothon sude harharon di ganup panungkunanmi.\n\nMolo adong hasalaan di nasa pangambatonmi, boi dipadomu hamu do inpormasi na lobian jala patuduhon di [[m:Special:MyLanguage/No open proxies|ndada proksi tarbuka]] habisukon global.\nMolo soada, hatahon hamu salpu [[m:Steward requests/Global|manongos pangidoan asa boi dipareso di Meta-Wiki]].",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Panatoan kuki",
+	"wikimedia-cookiestatement": "Panataon taringot tu kuki",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Olo",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ndang"
 }

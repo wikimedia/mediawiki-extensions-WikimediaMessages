@@ -3,19 +3,20 @@
 		"authors": [
 			"Riverman",
 			"Монгуш Салим",
-			"Agilight"
+			"Agilight",
+			"Karak-Kyzyl"
 		]
 	},
-	"wm-license-cc-attribution": "Атрибус",
-	"wm-license-cc-by-sa-3.0-text": "Ол файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лисензи йозугаар лисензиленген.",
+	"wm-license-cc-attribution": "Атрибуция",
+	"wm-license-cc-by-sa-3.0-text": "Бо файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лицензия ёзугаар ажык.",
 	"wm-license-cc-free": "Хостуг кылып болур чүүлдериңер:",
 	"wm-license-cc-free-to-share-header": "чогаал-биле үлежир",
-	"wm-license-cc-free-to-share-text": "ук чогаалды хоолгалаар, нептередир болгаш дамчыдар",
+	"wm-license-cc-free-to-share-text": "бо чогаалды хоолгалаар, нептередир болгаш дамчыдар",
 	"wm-license-cc-free-to-remix-header": "холуур",
-	"wm-license-cc-free-to-remix-text": "ук чогаалды эде кылыр",
+	"wm-license-cc-free-to-remix-text": "бо чогаалды эде кылыр",
 	"wm-license-cc-conditions": "Дараазында негелделерни сагыыр болза:",
-	"wm-license-cc-conditions-attribution-header": "атрибус",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
 	"wm-license-cc-conditions-attribution-text": "Авторун айтыр, лицензиязынче шөлүгнү бээр болгаш автор кандыг-бир өскерлиишкиннер киирген бе дээрзин айтыр ужурлуг силер. Ону кандыг-даа чөптүг арга-биле кылып болур, ынчалзажок лицензиат силерни азы бо чогаалды силерниң ажыглап турарыңарны деткип турар ышкаш сагындырбас ужурлуг.",
 	"wm-license-cc-conditions-share_alike-header": "ол-ла негелделерге нептередиишкин",
-	"wm-license-cc-conditions-share_alike-text": "Материалды холуп, хуулдуруп азы аңаа даянып турар болзуңарза, үүлеңер [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses дөмей азы аңаа тааржыр лисенс] йозугаар киирер ужурлуг силер."
+	"wm-license-cc-conditions-share_alike-text": "Бир эвес материалды холуп, хуулдуруп азы аңаа даянып өске чүүл чаяап турар болзуңарза, үндезин чогаалдың лицензиязын азы  [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses аңаа тааржыр лицензия] ажыглаар ужурлуг силер."
 }

@@ -4,11 +4,17 @@
 			"Dead3y3",
 			"Geraki",
 			"Norhorn",
-			"Protnet"
+			"Protnet",
+			"DesVaMan"
 		]
 	},
+	"wikimediamessages-desc": "Προσωρινά μηνύματα ειδικά για το Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Επιτήρηση",
 	"group-oversight": "Επιτηρητές",
-	"group-oversight-member": "{{GENDER:$1|επιτηρητής|επιτηρήτρια}}",
+	"group-oversight-member": "{{GENDER:$1| επίβλεψη}}",
+	"hello": "Γεια σας",
+	"please-translate": "Παρακαλώ βοηθήστε να γίνει μετάφραση στη γλώσσα σας",
+	"thank-you": "{{GENDER:$1| Ευχαριστώ.}}",
+	"specialblockfeedback": "Σχόλια",
 	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας"
 }
