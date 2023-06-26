@@ -6,11 +6,13 @@
 			"Samatics"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Enyime yak e-kọpi, edeme, enyuñ ekpụhọde ndusuk ñkpọ ke dọkumen emi ke mme ibet oro odude ke '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Ke version 1.2 mmê version efen ekededi emi [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] edisiode; edi yak owo ukukpụhọde mme Ikpehe esie, yak ekuwet ñkpọ ke ikpa-edem esie eke iso ye eke edem. Esin unyime oro enọde ke ikpehe oro ekotde ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''",
 	"wm-license-information-description": "Se ẹtịn̄de ebana",
 	"wm-license-information-source": "Ntọñọ",
 	"wm-license-information-date": "Usenọfiọñ",
 	"wm-license-information-author": "Ewetñwed",
 	"wm-license-information-permission": "Unyime",
 	"wm-license-information-permission-reusing-text": "Edifiak nda ikpehe emi nnam n̄kpọ",
-	"wm-license-own-work": "Utom esie"
+	"wm-license-own-work": "Utom esie",
+	"wm-license-self-multiple-licenses-select": "Emekeme ndimek license eke afo amamde."
 }

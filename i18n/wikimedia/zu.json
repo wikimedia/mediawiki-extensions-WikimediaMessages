@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"3atbulletz",
+			"INgobemnyama",
 			"Irus",
 			"Mtonihouse",
 			"Nkankane",
@@ -10,7 +11,7 @@
 	},
 	"sitesupport": "Nikela",
 	"tooltip-n-sitesupport": "Sisekele",
-	"wikimedia-copyright": "Umbhalo uyatholakala phansi kwe-<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; eminye imigomo ingase isebenza.\nNanku-<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> ukubona eminye imininingwane.",
+	"wikimedia-copyright": "Umbhalo uyatholakala phansi kwe-<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; eminye imigomo ingase isebenze.\nvakashela u-<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> ukubona eminye imininingwane.",
 	"wikimedia-developers": "Onjiniyela",
 	"wikimedia-statslink": "Imininingwane"
 }

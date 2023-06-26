@@ -14,6 +14,8 @@
 	"wikibase-sitelinks-wikisource": "Ntọnọwiki",
 	"wikibase-sitelinks-wikivoyage": "Isañ Wiki",
 	"wikimedia-developers": "Andisio",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nSe ikanamde ẹkpan ikpehe emi ekedi $1 ($2).\nNtak ekedi ''$3''.\n\n* Ẹketọn̄ọ ndikpan ke: $4\n* Ẹdimenede ukpan emi ifep ke: $5\n\nObufa ikpehe IP fo edi $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSe ikanamde ẹkpan ikpehe emi ekedi $1 ($2).\nNtak ekedi ''$3''.\n\n* Ẹketọn̄ọ ndikpan ke: $4\n* Ẹdimenede ukpan emi ifep ke: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Ibat",
 	"wikimedia-cookiestatement": "Itie emi etop ọdọn̄ọde"
 }
