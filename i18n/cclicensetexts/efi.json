@@ -5,6 +5,16 @@
 			"Maryeren"
 		]
 	},
+	"wm-license-cc-attribution": "Andinam",
+	"wm-license-cc-by-sa-3.0-text": "Mbon emi ẹbọde unen ikpehe emi edi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] unen.",
+	"wm-license-cc-free": "Afo emekeme",
+	"wm-license-cc-free-to-share-header": "Ndibuana",
+	"wm-license-cc-free-to-share-text": "Kopy, deme nyun suan utom",
+	"wm-license-cc-free-to-remix-header": "Fiak dọñ",
+	"wm-license-cc-free-to-remix-text": "Kpụhọde da ekekem utom",
+	"wm-license-cc-conditions": "Ke idak ibet emi etienede mi:",
 	"wm-license-cc-conditions-attribution-header": "andinam",
-	"wm-license-cc-conditions-share_alike-header": "Nyama nde"
+	"wm-license-cc-conditions-attribution-text": "Ana afo etịñ nnennen owo emi enyenede, esin ebuana emi edikutde unyime oro ekenọde, nyuñ nam ekut ke ọmọkpụhọde ndusuk nkpö edieke edide ama anam oro. Emekeme ndinam oro ke usuñ emi owutde eti ibuot, edi kunam etie nte ke andinyene önö fi unen midighe enyime önö fi",
+	"wm-license-cc-conditions-share_alike-header": "Nyama nde",
+	"wm-license-cc-conditions-share_alike-text": "Akpabuak, asiak obufa, midịghe ada mme n̄kpọ anam, ana ademe se afo anamde oro ọdọn̄ ke [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses odụk ye enye emi] edide ata enye."
 }
