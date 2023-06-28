@@ -3,7 +3,8 @@
 		"authors": [
 			"Bugoslav",
 			"Dalibor Bosits",
-			"Neptune, the Mystic"
+			"Neptune, the Mystic",
+			"MaGa"
 		]
 	},
 	"wikimediamessages-desc": "Privremene poruke svojevrsne za Wikimediju",
@@ -13,5 +14,6 @@
 	"hello": "Bok",
 	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
-	"specialblockfeedback": "Povratne informacije"
+	"specialblockfeedback": "Povratne informacije",
+	"specialinvestigate-feedback": "Napišite povratnu informaciju"
 }
