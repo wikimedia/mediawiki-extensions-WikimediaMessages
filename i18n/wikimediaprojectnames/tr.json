@@ -14,7 +14,9 @@
 			"MuratTheTurkish",
 			"Rapsar",
 			"ToprakM",
-			"Uncitoyen"
+			"Uncitoyen",
+			"Khalvar",
+			"SaldırganSincap"
 		]
 	},
 	"project-localized-name-aawiki": "Afar Vikipedi",
@@ -544,11 +546,11 @@
 	"project-localized-name-mkwikimedia": "Wikimedia Makedonya",
 	"project-localized-name-mkwikisource": "Makedonca Vikikaynak",
 	"project-localized-name-mkwiktionary": "Makedonca Vikisözlük",
-	"project-localized-name-mlwiki": "Malayalam dili Vikipedi",
-	"project-localized-name-mlwikibooks": "Malayalam Vikikitap",
-	"project-localized-name-mlwikiquote": "Malayalam Vikisözlük",
-	"project-localized-name-mlwikisource": "Malayalam Vikikaynak",
-	"project-localized-name-mlwiktionary": "Malayalam Vikisözlük",
+	"project-localized-name-mlwiki": "Malayalamca Vikipedi",
+	"project-localized-name-mlwikibooks": "Malayalamca Vikikitap",
+	"project-localized-name-mlwikiquote": "Malayalamca Vikisözlük",
+	"project-localized-name-mlwikisource": "Malayalamca Vikikaynak",
+	"project-localized-name-mlwiktionary": "Malayalamca Vikisözlük",
 	"project-localized-name-mnwiki": "Moğolca Vikipedi",
 	"project-localized-name-mnwikibooks": "Moğolca Vikikitap",
 	"project-localized-name-mnwiktionary": "Moğolca Vikisözlük",
