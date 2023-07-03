@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Bugoslav",
 			"Dbc334",
 			"Eleassar",
@@ -360,7 +361,6 @@
 	"research-incentive-description": "Za prijavo na naš seznam udeležencev izpolnite obrazec. Občasno vas bomo kontaktirali glede priložnosti za plačane raziskave. S seznama se lahko kadar koli odstranite.",
 	"research-incentive-answer-positive": "Da",
 	"research-incentive-answer-negative": "Ne",
-	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
 	"research-incentive-privacy": "Oglejte si naš pravilnik o zasebnosti in se [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program tukaj] podrobneje seznanite z našim raziskovalnim programom.",
 	"research-incentive-confirm-msg": "Hvala!",
 	"ipinfo-global-contributions-url-label": "Globalni prispevki"

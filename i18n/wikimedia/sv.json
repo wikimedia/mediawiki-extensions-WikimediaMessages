@@ -207,7 +207,6 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF stöd och säkerhet}}",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Används av globalt missbruksfilter 110.",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Redigeringar gjordes med [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:Från Wiktionary\nb:Från Wikibooks\nn:Från Wikinews\nq:Från Wikiquote\ns:Från Wikisource\nv:Från Wikiversity\nvoy:Från Wikivoyage",
 	"wikimedia-copyright": "Text är tillgänglig under licensen <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.sv\">Creative Commons Erkännande-Dela Lika</a>; ytterligare villkor kan gälla. \nSe <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">användarvillkoren</a> för detaljer.",
