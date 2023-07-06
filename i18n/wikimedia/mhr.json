@@ -3,12 +3,14 @@
 		"authors": [
 			"Amdf",
 			"Lifeway",
+			"Венина Наталья Константиновна",
 			"Санюн Вадик"
 		]
 	},
 	"sitesupport": "Надыр",
 	"tooltip-n-sitesupport": "Надырым пыштен кертыда",
-	"wikimedia-copyright": "Текст доступен по <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">лицензии Creative Commons Attribution-ShareAlike</a>, в отдельных случаях могут действовать дополнительные условия. Подробнее см. <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Условия использования</a>.",
+	"wikimedia-copyright": "Creative Commons Attribution-ShareAlike</a> лицензийын текстше, тыгак посна келшык-влак лийын кертыт. Кумданрак ончо. <a href=\"https://foundation.wikimedia.org/wiki/Кучылтмо_келшык\">Кучылтмо келшык</a>.",
+	"wikimedia-copyrightwarning": "Вашталтышым арален коден, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use кучылтмо келшык] дене келшет, тыгак [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] да [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензий почеш пӧртылдымӧ вашталтышым ыштыме дене келшет. Тыгак Creative Commons лицензий почеш гиперкылверым але URL-ым ончыктымаш ситыше атрибуций лиеш.",
 	"wikibase-sitelinks-wikinews": "Викиувер",
 	"wikibase-sitelinks-wikiquote": "Викицитатник",
 	"wikibase-sitelinks-wikisource": "Викитеке",

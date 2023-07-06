@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ерней",
+			"З. ӘЙЛЕ",
 			"Ильнар"
 		]
 	},
@@ -45,7 +46,7 @@
 	"wm-license-gfdl-1.2-and-later": "Бу документтан күчермә алырга, аны таратырга һәм/яки үзгәртергә [[{{int:wm-license-fsf-wiki-link}}|Ирекле программалар фонды]] тарафыннан бастырылган 1.2 һәм соңрак чыгарышлы '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' шартлары буенча хакыгыз бар, әмма үзгәрмәс бүлекләрсез, алгы һәм арткы тышлыктагы текстсыз. Лицензиянең күчермәсе ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' исемле бүлеккә кертелгән.",
 	"wm-license-gfdl-1.2-only-header": "тик&nbsp;1.2",
 	"wm-license-information-description": "Тасвир",
-	"wm-license-information-source": "Чыганагы",
+	"wm-license-information-source": "Чыганак",
 	"wm-license-information-source-missing": "Бирелгән медиа-файлда \"чыганак\" турында мәгълүмат бирелми.",
 	"wm-license-information-source-missing-request": "Зинһар, бу файлның тасвирламасын үзгәртегез һәм чыганагын күрсәтегез.",
 	"wm-license-information-date": "Дата",
