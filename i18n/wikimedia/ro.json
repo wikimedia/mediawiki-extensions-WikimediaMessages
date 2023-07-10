@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"AdiJapan",
+			"Alesaru",
 			"Andrei Stroe",
 			"Carcassonne93",
 			"Cin",
@@ -117,6 +118,9 @@
 	"group-wikidata-staff": "Personalul șef al Wikidata",
 	"group-wikidata-staff-member": "{{GENDER:$1|personal Wikidata}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:Membri ai personalului Wikidata",
+	"group-wikifunctions-staff": "Personalul Wikifunctions",
+	"group-wikifunctions-staff-member": "Personal Wikimedia",
+	"grouppage-wikifunctions-staff": "Grupurile personal Wikifunction",
 	"group-global-bot": "Roboți globali",
 	"group-global-bot-member": "{{GENDER:$1|robot global}}",
 	"group-global-ipblock-exempt": "Editori exceptați la blocarea adresei IP",
