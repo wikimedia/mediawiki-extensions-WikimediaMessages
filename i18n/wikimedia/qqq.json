@@ -259,7 +259,7 @@
 	"grouppage-wmf-ops-monitoring": "{{optional}}\n{{doc-group|wmf-ops-monitoring|page}}\n{{Global grouppage}}",
 	"tag-emoji": "Name for a change tag. Shown in diffs and revision lists next to edits which have been tagged by an abuse filter, and on [[Special:Tags]].",
 	"tag-emoji-description": "Long description for a change tag. Shown on [[Special:Tags]].",
-	"tag-AWB": "Name for a change tag. Shown in diffs and revision lists next to edits which have been tagged as being made by AutoWikiBrowser, and on [[Special:Tags]].",
+	"tag-AWB": "{{optional}}\n\nName for a change tag. Shown in diffs and revision lists next to edits which have been tagged as being made by AutoWikiBrowser, and on [[Special:Tags]].",
 	"tag-AWB-description": "Long description for a change tag. Shown on [[Special:Tags]].",
 	"search-interwiki-custom": "{{doc-important|Please do not translate this only within a single line, even if you're translating this to East Asian languages (i.e. Chinese, Japanese, Korean and their dialects).}}\n\nFriendly sister project site names in search results, one project name per line, in an <nowiki><iwprefix>:<caption></nowiki> format. For example, possible settings for the English Wikipedia are:\n\nwikt:Word definitions from Wiktionary<br />\nb:In Wikibooks<br />\nn:In Wikinews<br />\nq:Quotes from Wikiquote<br />\ns:From Wikisource<br />\nv:From Wikiversity<br />\nvoy:In Wikivoyage",
 	"shared-repo-name-shared": "{{optional}}\n\nA specific version of {{msg-mw|shared-repo}}; see [[MediaWiki:Shared-repo/qqq]] for more information.\n\n{{Identical|Wikimedia Commons}}",
