@@ -20,8 +20,8 @@
 	"wikibase-sitelinks-wikivoyage": "Vikisəjohət",
 	"wikibase-otherprojects-wikinews": "Vikixəbəon",
 	"wikimedia-developers": "Hozy kardəkəs",
-	"wikimedia-globalblocking-ipblocked": "'''Şımə IP-unvon [[m:Special:MyLanguage/Global blocks|həmmə vikinaxşonədə blok bıə]].'''\n\nBloki kardəkəs $1 ($2).\nSəbəb: ''$3''.\n\n* Bino karde be: $4 \n* Orəxə: $5 \n\nŞımə isətinə IP-unvon: $6.\nЗәһмәт ныбу, ыми һәммә бә ыштә елонон дәғандән.\n\nӘгәм шымә жәго зындәјон ки ноһәх дәбастә быәјон, ијән бәзнејон әтрофин мәлумот пәјдо карде бы сәһифәдә [[m:Special:MyLanguage/No open proxies|Ожә прокси-серверон әбыни око дој]] де умуми ғајдон.\nӘксинә бејәдә дәбасте барәдә мызокирә карде, [[m:Steward requests/Global|де парси бә Мета-вики бынывыштән]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''İglə ya kali gılə proksi-serveron şımə nəveyədə [[m:Special:MyLanguage/Global blocks|dəbastə bıən]].'''\n\nDəbastəşe $1 ($2).\nSəbəb: ''$3''.\n\n* dəbaste bino bıə: $4 \n* dəbaste obərəxe: $5 \n\nDəbastə proksi-adres $6 be.\nZəhmət nıbu, ımi həmmə bə ıştə elonon dəğandən.\n\nƏgəm şımə jəgo zındəyon ki nohəx dəbastə bıəyon, iyən bəzneyon ətrofin rımuz pəydo karde bı səhifədə [[m:Special:MyLanguage/No open proxies|Ojə proksi-serveron əbıni oko doy]] de umumi ğaydon.\nƏksinə beyədə dəbaste barədə mızokirə karde, [[m:Steward requests/Global|de parsi bə Meta-viki bınıvıştən]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDəbastəše $1 ($2).\nSəbəb: ''$3''.\n\n* Bino karde be: $4\n* Orəxe: $5\n\nŠymə ysətnə IP-adres: — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDəbastəše $1 ($2).\nSəbəb: ''$3''.\n\n* dəbaste bino bıə: $4 \n* dəbaste obərəxe: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Kuki barədə"
 }

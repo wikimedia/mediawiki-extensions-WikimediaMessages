@@ -265,6 +265,7 @@
 	"interlanguage-link-sitename-wikipedia": "Википедија — слободната енциклопедија",
 	"interlanguage-link-commons": "Ризница",
 	"interlanguage-link-sitename-commons": "Медиумско складиште „Ризница“",
+	"interlanguage-link-dmoz": "DMOZ",
 	"interlanguage-link-sitename-dmoz": "семрежен именик DMOZ",
 	"interlanguage-link-citizendium": "Citizendium",
 	"interlanguage-link-sitename-citizendium": "Citizendium",
@@ -359,10 +360,13 @@
 	"readinglists-import-app-with-link": "<a href=\"$1\">Преземете</a> и воспоставете ја најновата верзија на прилогот Википедија:",
 	"readinglists-list-empty-message": "Можете да го увезете списоков воспоставувајќи го прилогот „Википедија“.",
 	"research-incentive-message": "Дали би сакале да учествувате во платени кориснички истражувања за Википедија?",
-	"research-incentive-description": "Пополнете го образецот за да се пријавите на списокот на учесници. Ние повремено ќе ви се обраќаме кога ќе имаме платени истражувања на кои можете да учествувате. Можете да се отстраните од списокот во секое време.",
+	"research-incentive-description": "Пополнете го образецот за да се пријавите на списокот на учесници. Ние повремено ќе ви се обраќаме кога ќе имаме платени истражувања за Викимедија на кои можете да учествувате. Можете да се отстраните од списокот во секое време.",
 	"research-incentive-answer-positive": "Да",
 	"research-incentive-answer-negative": "Не",
+	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
 	"research-incentive-privacy": "Погледајте ги нашите правила за личните податоци и дознајте повеќе за нашата истражувачка програма [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program овде].",
 	"research-incentive-confirm-msg": "Ви благодариме!",
-	"ipinfo-global-contributions-url-label": "Глобални придонеси"
+	"ipinfo-global-contributions-url-label": "Глобални придонеси",
+	"protect-level-edit-legal": "Допуштај само корисници што можат да уредуваат страници со правна содржина",
+	"restriction-level-edit-legal": "заштитено заради правна содржина"
 }
