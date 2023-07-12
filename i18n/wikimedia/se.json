@@ -52,6 +52,8 @@
 	"upload-form-label-not-own-work-local-commons": "Don sáhtát vejolaččat geahččalit dan dábálaš [[Special:Upload|viežžansiiddu {{SITENAME}}s]], jus fiilla sáhttá viežžat politihkka vuolde mii doppe gusto.",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-commons": "Wikimedia Commons",
+	"right-editeditorprotected": "Rievdadit siidduid, mat leat suodjaluvvon dássái \"{{int:protect-level-editeditorprotected}}\"",
+	"right-editextendedsemiprotected": "Rievdadit siidduid, mat leat suodjaluvvon dássái \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"eri-rcfilters-tour-help": "Lassedieđut",
 	"eri-rcfilters-tour-intro-welcome-button": "Ášši lea čielggas.",
 	"eri-rcfilters-tour-highlight-button": "Ášši lea čielggas.",
