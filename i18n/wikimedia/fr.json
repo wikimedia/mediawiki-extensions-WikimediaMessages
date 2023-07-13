@@ -197,7 +197,7 @@
 	"grouppage-wikidata-staff": "{{ns:project}}:Membres du personnel de Wikidata",
 	"group-wikifunctions-staff": "Équipe de Wikifunctions",
 	"group-wikifunctions-staff-member": "{{GENDER:$1|Équipe de Wikifunctions}}",
-	"grouppage-wikifunctions-staff": "{{ns:project}}:Wikifunctions staff members",
+	"grouppage-wikifunctions-staff": "{{ns:project}}:Membres de l’équipe de Wikifunctions",
 	"group-apihighlimits-requestor": "Demandeurs de limite supérieure de l'API",
 	"group-apihighlimits-requestor-member": "demandeu{{GENDER:$1|r|se}} de limite supérieure de l’API",
 	"group-captcha-exempt": "Exemptions de CAPTCHA",
