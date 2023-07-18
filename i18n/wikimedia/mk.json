@@ -7,7 +7,8 @@
 			"Matma Rex",
 			"Misos",
 			"Nemo bis",
-			"Vlad5250"
+			"Vlad5250",
+			"Amire80"
 		]
 	},
 	"wikimediamessages-desc": "Пораки кои се однесуваат на Викимедија",
@@ -273,6 +274,7 @@
 	"interlanguage-link-sitename-wikipedia": "Википедија — слободната енциклопедија",
 	"interlanguage-link-commons": "Ризница",
 	"interlanguage-link-sitename-commons": "Медиумско складиште „Ризница“",
+	"interlanguage-link-dmoz": "DMOZ",
 	"interlanguage-link-sitename-dmoz": "семрежен именик DMOZ",
 	"interlanguage-link-citizendium": "Citizendium",
 	"interlanguage-link-sitename-citizendium": "Citizendium",
@@ -365,6 +367,7 @@
 	"research-incentive-description": "Пополнете го образецот за да се пријавите на списокот на учесници. Ние повремено ќе ви се обраќаме кога ќе имаме платени истражувања на кои можете да учествувате. Можете да се отстраните од списокот во секое време.",
 	"research-incentive-answer-positive": "Да",
 	"research-incentive-answer-negative": "Не",
+	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
 	"research-incentive-privacy": "Погледајте ги нашите правила за личните податоци и дознајте повеќе за нашата истражувачка програма [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program овде].",
 	"research-incentive-confirm-msg": "Ви благодариме!",
 	"ipinfo-global-contributions-url-label": "Глобални придонеси"
