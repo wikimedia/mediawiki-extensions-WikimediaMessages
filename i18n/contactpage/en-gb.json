@@ -20,6 +20,12 @@
 	"contactpage-wikimedia-trademark-w": "Stylised \"W\"",
 	"contactpage-pagetext-licenseabuse": "Please use the form below to contact us about someone whom you suspect is abusing or misusing a Wikimedia trademark.",
 	"contactpage-affcom-user-group-location-label": "'''Location'''\n* Please provide your country and city, so we can keep track of our user groups around the World. If global in reach, simply put \"Internet\".",
+	"contactpage-affcom-user-group-rules-label": "'''User group rules'''\n* You are eligible to form a user group if you have at least 3 members with 300 or more contributions to a Wikimedia project on a registered account that has existed for more than 6 months and comply with the [[Wikimedia user groups/Agreement and code of conduct|User group agreement and code of conduct]]:\n** You should follow the [[wmf:Trademark policy|trademark policy]]\n** You are independent from other Wikimedia organisations\n* After submitting this application, a member of the [[Affiliations Committee|Affiliations Committee]] will contact you shortly to help you with the next steps\n* Learn more about [[Wikimedia user groups|Wikimedia user groups]]",
 	"contactpage-affcom-user-group-logo-wm-logo": "''If you wish to use the '''Wikimedia logo''', you may [[Special:Contact/requestlicense|request a trademark licence]].''",
+	"contactpage-title-affcomchapthorg": "Apply for a Chapter/Thematic Organisation status",
+	"contactpage-affcom-chapter-thorg-application-thorg-status": "Application for Thematic Organisation status",
+	"contactpage-affcom-chapter-thorg-application-subpage-label": "'''Provide URL link to your organization's application subpage on Meta-Wiki'''\n\nThis is the page you created in step 1 of the chapter/thematic organisation creation guide line process",
+	"contactpage-affcom-chapter-thorg-rules-label": "'''Chapter/Thematic Organisation rules'''\n\nBy submitting this application, you confirm that your organisation meets the following requirements as detailed in the Chapter/Thematic Organisation creation guidelines:\n\n- Wikimedia supportive mission\n\n- Geographic/Thematic focus\n\n- Legal structure (Bylaws)\n\n- Critical mass of active Wikimedia contributor involvement\n\n- At least two years of activities\n\n- Capacity, or planned capacity, to meet the future expectations",
+	"contactpage-movecom-signup-affiliation-affiliates": "Wikimedia movement affiliate (chapters, thematic organisations, user groups)",
 	"contactpage-movecom-signup-affiliation-group": "Wikimedia organised group (WikiProject, community committee, etc.)"
 }
