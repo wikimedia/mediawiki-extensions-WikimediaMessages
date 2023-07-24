@@ -1,6 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Bosogo"
+		]
 	},
-	"wikimedia-centralauth-groupname": "Уикимедия Фонду"
+	"wikimedia-createacct-imgcaptcha-help": "Сүрөттү көрбөй жатасызбы ? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтка табыштама жөнөтүү]]",
+	"wikimedia-centralauth-groupname": "Викимедиа фонду",
+	"wikimedia-sitematrix-others": "Башка Викимедиа долбоорлору"
 }
