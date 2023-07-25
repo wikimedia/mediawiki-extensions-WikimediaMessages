@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"sitesupport": "捐款",
+	"tooltip-n-sitesupport": "资助阿拉",
+	"wikimedia-mobile-mainpage-title-loggedin": "$1，欢迎！",
+	"wikibase-sitelinks-wikinews": "维基新闻",
+	"wikibase-sitelinks-wikiquote": "维基语录",
+	"wikibase-sitelinks-wikisource": "维基文库",
+	"wikibase-sitelinks-wikivoyage": "维基导游",
+	"wikimedia-developers": "开发者",
+	"wikimedia-statslink": "统计",
+	"wikimedia-cookiestatement": "Cookie声明"
+}

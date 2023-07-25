@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（幫我揀）]]",
+	"wikimedia-centralauth-groupname": "維基媒體基金會",
+	"wikimedia-interfaceadmin-info": "$1\n\n改全站通用 CSS/JS/JSON 檔嘅權限由 <code>editinterface</code> 權限拆咗出嚟。如果你唔明點解會出呢個錯誤訊息，請睇[[mw:MediaWiki_1.32/interface-admin]]。",
+	"wikimedia-sitematrix": "Wikimedia嘅wiki一覽",
+	"wikimedia-sitematrix-others": "Wikimedia嘅其它計劃",
+	"wikimedia-sitematrix-summary": "呢版特別面列示全部 Wikimedia 嘅 wiki。"
+}

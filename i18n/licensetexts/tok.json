@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Robin van der Vliet",
-			"LesVisages"
+			"LesVisages",
+			"Frzzl"
 		]
 	},
 	"wm-license-book-language": "toki",
-	"wm-license-information-date": "nanpa tenpo"
+	"wm-license-information-date": "nanpa tenpo",
+	"wm-license-information-author": "jan sitelen"
 }
