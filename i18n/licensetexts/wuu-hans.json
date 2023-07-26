@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"wm-license-fsf-wiki-link": "w:wuu:自由软件基金会",
+	"wm-license-free-software-wiki-link": "w:wuu:自由軟件",
+	"wm-license-gfdl-1.2-and-later": "已授权复制、传播搭/或修改本文档，依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发布个'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文档许可证]]'''1.2版或任何后续版本个条款；呒不弗可变章节，也呒不封面封底文字。许可证个副本包括勒''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''章节当中。",
+	"wm-license-gfdl-wiki-link": "w:wuu:GNU自由文档许可证",
+	"wm-license-information-description": "描述",
+	"wm-license-information-source": "来源",
+	"wm-license-information-date": "日脚",
+	"wm-license-information-author": "作者",
+	"wm-license-information-permission": "许可协议",
+	"wm-license-information-permission-reusing-text": "重用本文件",
+	"wm-license-own-work": "自家个作品",
+	"wm-license-pd-usgov-military-air-force-wiki-link": "w:wuu:美国空军",
+	"wm-license-self-multiple-licenses-select": "侬好选择侬需要个许可协议。"
+}

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"wikimedia-createacct-imgcaptcha-help": "看弗见图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账号]]",
+	"wikimedia-sitematrix": "维基媒体网站列表"
+}
