@@ -54,6 +54,7 @@
 	"wikimedia-developers": "Programmistler",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlok $1 ($2) tárepinen ornatıldı.\nKórsetilgen sebep ''$3''.\n\n* Bloktıń baslanıw waqtı: $4\n* Bloktıń tamamlanıw waqtı: $5\n\nSiziń házirgi IP mánzilińiz $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext\n-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlok $1 ($2) tárepinen ornatıldı.\nKórsetilgen sebep ''$3''.\n\n* Bloktıń baslanıw waqtı: $4\n* Bloktıń tamamlanıw waqtı: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"interlanguage-link-mul": "Taǵı tiller",
 	"interlanguage-link-commons": "Wikiqoyma",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Cookie bayanatı",
