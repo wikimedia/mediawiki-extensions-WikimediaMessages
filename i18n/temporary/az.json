@@ -7,7 +7,13 @@
 			"Turkmen"
 		]
 	},
+	"wikimediamessages-desc": "Wikimedia xüsusi müvəqqəti mesajlar",
 	"grouppage-oversight": "{{ns:project}}:Nəzarətçilər",
 	"group-oversight": "Nəzarətçilər",
-	"group-oversight-member": "{{GENDER:$1|nəzarətçi}}"
+	"group-oversight-member": "{{GENDER:$1|nəzarətçi}}",
+	"hello": "Salam",
+	"please-translate": "Zəhmət olmasa dilinizə tərcümə etməyə kömək edin",
+	"thank-you": "{{GENDER:$1|Təşəkkürlər.}}",
+	"specialblockfeedback": "Rəy",
+	"specialinvestigate-feedback": "Fikrinizi bildirin"
 }

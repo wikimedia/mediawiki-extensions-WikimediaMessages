@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"wm-license-attribution-with-author-text": "我，$1，呢個檔案嘅版權持有者，歡迎任何人係任何目的之下用呢幅圖。你可以改作、甚至用係商業用途都可以。",
+	"wm-license-attribution-without-author-text": "版權持有者同意你係任何目的之下用呢個檔案。你可以作商業用途、改變呢個作品都可以。",
+	"wm-license-artwork-title": "題",
+	"wm-license-artwork-notes": "註",
+	"wm-license-gfdl-1.2-and-later": "根據[[{{int:wm-license-fsf-wiki-link}}|自由軟體基金會]]發佈嘅無固定段落、封面文字同封底文字'''[[{{int:wm-license-gfdl-wiki-link}}|GNU自由文件授權條款]]'''第1.2或打後嘅版本，你獲授權可以重製、散佈同埋修改爾份文件。授權條款嘅副本喺章節''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU自由文件授權條款]]''。",
+	"wm-license-information-description": "描述",
+	"wm-license-information-source": "來源",
+	"wm-license-information-source-missing-request": "請改呢個檔案嘅描述同埋提供一個來源。",
+	"wm-license-information-date": "日期",
+	"wm-license-information-author": "作者",
+	"wm-license-information-permission": "許可",
+	"wm-license-information-permission-reusing-text": "重用呢個檔案",
+	"wm-license-own-work": "自己作品",
+	"wm-license-self-one-license": "我，呢份作品嘅作者，決定用以下許可發佈呢件作品：",
+	"wm-license-self-multiple-licenses-select": "你可以揀你想用嘅牌照。"
+}
