@@ -12,7 +12,7 @@
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|歡迎}}，$1！",
 	"wikibase-sitelinks-wikivoyage": "維基導遊",
 	"wikimedia-developers": "開發者",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:globalblocking-blockedtext-all-wikis}}'''\n\n封鎖是$1（$2）設置兮。\n原因是''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n汝現在兮IP地址是$6。{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n封鎖是$1（$2）設置兮。\n理由是''$3''。\n\n* 封鎖開始時間：$4。\n* 封鎖結束時間：$5。\n\n{{int:globalblocking-blockedtext-proxy|$7}}{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n封鎖是$1（$2）設置兮。原因是''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖結束時間：$5\n\n汝現在兮IP地址是$6。{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n封鎖是$1（$2）設置兮。理由是''$3''。\n\n* 封鎖開始時間：$4。\n* 封鎖結束時間：$5。\n\n{{int:globalblocking-blockedtext-proxy|$7}}{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-cookiestatement": "Cookie聲明"
 }
