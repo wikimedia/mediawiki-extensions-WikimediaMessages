@@ -3,6 +3,7 @@
 		"authors": [
 			"Derslek",
 			"Ерней",
+			"З. ӘЙЛЕ",
 			"Ильнар"
 		]
 	},
@@ -13,9 +14,9 @@
 	"wm-license-cc-free-to-share-text": "бу язмадан күчермә алырга, таратырга һәм тапшырырга",
 	"wm-license-cc-free-to-remix-header": "юрамалар ясау",
 	"wm-license-cc-free-to-remix-text": "бу язманы үзгәртергә",
-	"wm-license-cc-conditions": "Түбәндәге шартларны үтәгән очракта:",
+	"wm-license-cc-conditions": "Түбәндәге шартларда:",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
-	"wm-license-cc-conditions-attribution-text": "Авторлыкны күрсәтергә, рөхсәтнамәгә сылтаманы бирергә һәм ясалган үзгәрешләрне билгеләргә тиешсез. Бу теләсә нинди мәгъкуль ысул белән кылырга ярый, әмма лицензиар сезне яки куллануыгызны хуплый тәэсирен калдырмыйча.",
+	"wm-license-cc-conditions-attribution-text": "Сез тиешле бәя, лицензиягә сылтама бирергә һәм үзгәрешләр кертелгәнме-юкмы икәнен күрсәтергә тиешсез. Сез моны теләсә-нинди дөрес булган ысул белән эшли аласыз, әмма лицензиар  сезне яки куллануыгызны хуплый дигән фикер калырга тиеш түгел.",
 	"wm-license-cc-conditions-share_alike-header": "шул ук кагыйдәләр буенча таратыла",
 	"wm-license-cc-conditions-share_alike-text": "Әгәр сез бу әсәрне үзгәртәсез, әверелдерәсез яки аның нигезендә яңаны булдырасыз, башлангыч әсәрнең рөхсәтнамәсен яки [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses башлангыч рөхсәтнамәгә туры килә торган рөхсәтнамәне] кулланырга тиешсез."
 }
