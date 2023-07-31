@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"search-interwiki-results-enwiki": "顯示嚟自[[:en:|英文維基百科]]嘅結果。",
+	"search-interwiki-results-jawiki": "顯示嚟自[[:ja:|日文維基百科]]嘅結果。",
+	"search-interwiki-results-zh_yuewiki": "顯示嚟自[[:zh-yue:|粵文維基百科]]嘅結果。",
+	"search-interwiki-results-zhwiki": "顯示嚟自[[:zh:|中文維基百科]]嘅結果。"
+}

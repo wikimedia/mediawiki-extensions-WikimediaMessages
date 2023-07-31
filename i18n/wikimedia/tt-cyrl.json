@@ -10,7 +10,9 @@
 			"Ильнар",
 			"Рашат Якупов",
 			"Ильгиз",
-			"Run Li"
+			"Run Li",
+			"Mansur",
+			"З. ӘЙЛЕ"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиа өчен шәхси булган хатлар",
@@ -135,11 +137,11 @@
 	"wikibase-repo-name": "Викимәгълүмат",
 	"wikibase-statementsection-constraints": "Чикләүләр",
 	"wikibase-sitelinks-wikibooks": "Викикитап",
-	"wikibase-sitelinks-wikinews": "Викияңалыклар",
-	"wikibase-sitelinks-wikiquote": "Викиөземтә",
-	"wikibase-sitelinks-wikisource": "Викитека",
+	"wikibase-sitelinks-wikinews": "Викихәбәрләр",
+	"wikibase-sitelinks-wikiquote": "Викиөзек",
+	"wikibase-sitelinks-wikisource": "Викиханә",
 	"wikibase-sitelinks-wikiversity": "Викиверситет",
-	"wikibase-sitelinks-wikivoyage": "Викисәяхәт",
+	"wikibase-sitelinks-wikivoyage": "Викисәфәр",
 	"wikibase-sitelinks-wiktionary": "Викисүзлек",
 	"wikibase-otherprojects-commons": "Викиҗыентык",
 	"wikibase-otherprojects-testwikidata": "Викимәгълүмат",

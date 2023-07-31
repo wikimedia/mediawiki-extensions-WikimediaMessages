@@ -48,7 +48,7 @@
 	"group-arbcom-member": "{{GENDER:$1| ခုံသမာဓိ ကော်မတီဝင်}}",
 	"grouppage-arbcom": "{{ns:project}}:ခုံသမာဓိ ကော်မတီဝင်များ",
 	"group-autopatrolled": "အလိုအလျောက် စောင့်ကြပ်စစ်ဆေးပြီးသူများ",
-	"group-autopatrolled-member": "{{GENDER:$1|အလိုအလျောက် စောင့်ကြပ်စစ်ဆေးသူ}}",
+	"group-autopatrolled-member": "{{GENDER:$1|အလိုအလျောက် စောင့်ကြပ်စစ်ဆေးပြီးသူ}}",
 	"grouppage-autopatrolled": "{{ns:project}}:အလိုအလျောက် စောင့်ကြပ်စစ်ဆေးပြီးသူများ",
 	"group-autoreviewer": "အလိုအလျောက်ပြန်လည်စစ်ဆေးသူများ",
 	"group-autoreviewer-member": "{{GENDER:$1|အလိုအလျောက်ပြန်လည်စစ်ဆေးသူ}}",

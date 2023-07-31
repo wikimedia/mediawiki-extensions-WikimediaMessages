@@ -4,6 +4,12 @@
 			"Rut"
 		]
 	},
+	"wm-license-cc-free": "Вас ихтияр аI ачыханны:",
+	"wm-license-cc-free-to-share-header": "сигын",
+	"wm-license-cc-free-to-share-text": "копия эгъетIин, пай гьыъын н хъывын мид эсер",
+	"wm-license-cc-free-to-remix-header": "ремикс гьыъын",
+	"wm-license-cc-free-to-remix-text": "эсер дюз гьыъын",
+	"wm-license-cc-conditions": "Эгер мид выъын:",
 	"wm-license-cc-conditions-attribution-header": "хасиет",
 	"wm-license-cc-conditions-share_alike-header": "Сакалды лицензия пай гьыъын"
 }
