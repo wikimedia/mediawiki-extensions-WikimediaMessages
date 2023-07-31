@@ -427,7 +427,6 @@
 	"readinglists-import-app-with-link": "<a href=\"$1\">Télécharger</a> et installer la dernière version de l’application Wikipedia :",
 	"readinglists-list-empty-message": "Vous pouvez importer cette liste en installant l’application Wikipedia.",
 	"research-incentive-message": "Aimeriez-vous participer à de la recherche utilisateur pour Wikipédia ?",
-	"research-incentive-description": "Complétez le formulaire pour vous inscrire à notre liste de liste de participants. Vous serez contacté{{GENDER:||e}} périodiquement lors des opportunités de recherches rémunérées. Vous pouvez vous retirer de la liste à tout moment.",
 	"research-incentive-answer-positive": "Oui",
 	"research-incentive-answer-negative": "Non",
 	"research-incentive-link": "https://airtable.com/shrm8jEOIDTt2Qn8M",

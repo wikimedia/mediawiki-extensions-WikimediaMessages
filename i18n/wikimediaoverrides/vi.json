@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Caden99",
 			"KhangND",
 			"Minh Nguyen",
 			"Nemo bis",
@@ -20,7 +21,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Tên người dùng",
 	"wikimedia-delete-toobig": "Trang này có lịch sử sửa đổi dài, hơn $1 phiên bản.\nTác vụ xóa trang có lịch sử sửa đổi rất dài được hạn chế để cho {{SITENAME}} khỏi bị gián đoạn.\nXin hãy liên lạc với [[m:Special:MyLanguage/Stewards|các tiếp viên]] ở [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous tại Meta]] để yêu cầu xóa trang này.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Với việc nhấn vào “$1”, bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] và đồng ý phát hành, một cách không thể hủy bỏ, nội dung văn bản của mình theo [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].",
-	"wikimedia-feedback-termsofuse": "Tôi đồng ý cung cấp thông tin phản hồi theo <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/vi?uselang=vi\" target=\"_blank\">các Điều khoản Sử dụng</a>.",
+	"wikimedia-feedback-termsofuse": "Tôi đồng ý cung cấp phản hồi theo [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Điều khoản sử dụng].",
 	"wikimedia-flow-terms-of-use-new-topic": "Với việc bấm “{{int:flow-newtopic-save}}”, bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Với việc bấm “{{int:flow-reply-link}}”, bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].",
 	"wikimedia-flow-terms-of-use-edit": "Với việc lưu các thay đổi, bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].",
