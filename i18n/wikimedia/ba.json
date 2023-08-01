@@ -10,12 +10,13 @@
 			"Soul Train",
 			"Ләйсән",
 			"Рустам Нурыев",
-			"ҒатаУлла"
+			"ҒатаУлла",
+			"З. ӘЙЛЕ"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиа өсөн махсус хәбәрҙәр",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ba",
-	"sitesupport": "Ярҙам итеү",
+	"sitesupport": "Иғәнә",
 	"tooltip-n-sitesupport": "Беҙгә ярҙам итегеҙ",
 	"specialpages-group-contribution": "Иғәнә йыйыу",
 	"nstab-creator": "Автор",
@@ -122,7 +123,7 @@
 	"wikibase-otherprojects-wikidata": "Викидата",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викидата",
 	"cant-delete-main-page": "Төп битте юя йәки күсерә алмайһығыҙ.",
-	"wikimedia-developers": "Яһаусылар",
+	"wikimedia-developers": "Эшләүселәр",
 	"wikimedia-globalblocking-ipblocked": "'''Һеҙҙең IP-адрес [[m:Special:MyLanguage/Global blocks|бөтә вики-проекттарҙа бикләнде]].'''\n\nБикләү ваҡыты $1 ($2).\nСәбәбе: ''$3''.\n\n* Башлана: $4 \n* Тамамлана: $5 \n\nХәҙерге һеҙҙең IP-адрес - $6.\nБыл мәғлүмәтте бөтә мөрәжәғәттәргә ҡушығыҙ.\n\nӘгәр үҙегеҙҙе яңылыш бикләнгән тип иҫәпләһәгеҙ, өҫтәмә мәғлүмәтте [[m:Special:MyLanguage/No open proxies|асыҡ прокси-серверҙы рөхсәт итмәү]] глобаль ҡағиҙәләрендә таба алаһығыҙ.\nРиза булмаған осраҡта, [[m:Steward requests/Global|Мета-вики проектына мөрәжәғәт итегеҙ]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Һеҙҙең мөрөжәғәттәге бер йәки бер нисә прокси-сервер [[m:Special:MyLanguage/Global blocks|глобаль бикләнгән]].'''\n\nБлокировканы ҡуйыусы $1 ($2).\nСәбәбе: ''$3''.\n\n* башлана: $4 \n* тамамлана: $5 \n\nХәҙерге һеҙҙең IP-адрес - $6.\nБыл мәғлүмәтте бөтә мөрәжәғәттәргә ҡушығыҙ.\n\nӘгәр үҙегеҙҙе яңылыш бикләнгән тип иҫәпләһәгеҙ, өҫтәмә мәғлүмәтте [[m:Special:MyLanguage/No open proxies|асыҡ прокси-серверҙы рөхсәт итмәү]] глобаль ҡағиҙәләрендә таба алаһығыҙ.\nРиза булмаған осраҡта [[m:Steward requests/Global|Мета-вики проектына мөрәжәғәт итегеҙ]].",
 	"upload-form-label-own-work-message-commons": "Мин ошо файлдың авторы икәнемде раҫлайым һәм уны Викимилеккә [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] лицензияһы менән кире алмаҫлыҡ итеп күсерәм, шулай уҡ [https://foundation.wikimedia.org/wiki/ҡулланыу шарттары] менән килешәм.",
@@ -130,5 +131,5 @@
 	"upload-form-label-not-own-work-local-commons": "{{SITENAME}} талаптарына ярашлы файлы тейәп булһа,  [[Special:Upload|тейәү битен]] ҡарағыҙ.",
 	"interlanguage-link-commons": "Викимилек",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Cookie тураһында килешеү"
+	"wikimedia-cookiestatement": "Cookie ҡулланыу тураһында килешеү"
 }

@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rueter"
+			"Rueter",
+			"Сантяй"
 		]
 	},
 	"wm-license-cc-attribution": "Лемень ледстямо",
+	"wm-license-cc-by-sa-3.0-text": "Те файлантень мереви ютамс [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses\n/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] нолдамонь конёвга.",
 	"wm-license-cc-free": "Эсеть мелеть коряс:",
 	"wm-license-cc-free-to-share-header": "явшемс",
 	"wm-license-cc-free-to-share-text": "тейть копия лангстонзо, явшик ды кучик шкинеманть",
@@ -12,5 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "шкинемань полавтомга-лиякстомтомга",
 	"wm-license-cc-conditions": "Неть условиятнень коряс:",
 	"wm-license-cc-conditions-attribution-header": "лемень ледстямо",
-	"wm-license-cc-conditions-share_alike-header": "явшемс истяжо"
+	"wm-license-cc-conditions-attribution-text": "Тонеть эряви тешкстамс авторстванть, невтемс лицензиянть лангс ссылканть ды невтемс авторонть пельде совавтозь кой-кодат полавтоматнень. Те топавтови эрьва кодамо ёндо, ансяк а невти лицензиатонть пельде кирдема эли тынк пельде те произведениянть нолдамо.",
+	"wm-license-cc-conditions-share_alike-header": "явшемс истяжо",
+	"wm-license-cc-conditions-share_alike-text": "Бути тон полавтат, одкстомтат эли теят тень лангсо лия сёрмадовкс, сестэ эряви нолдамс тевс ушодомань сёрмадовксонь нолдамо конёв эли  [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] нолдамо конёвонть, кона малав ушодомансентень."
 }
