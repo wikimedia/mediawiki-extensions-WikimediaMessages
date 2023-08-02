@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Botuzhaleny-sodamo",
-			"Rueter"
+			"Rueter",
+			"Сантяй"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Мереви копировамс, сравтнемс ды/эли полавтнемс те тевконёвонть \"[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]\" од условиятнень мельсэ кирдезь 1.2 эли седе од версия, кона нолдазь [[{{int:wm-license-fsf-wiki-link}}|программань максомань олячинь Фондсо]], апак полавто пелькстэме, тексттэме, конат путозь васенце ды меельце лангакссо ды лемдязь \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",
 	"wm-license-information-description": "Чарькодевтема",
 	"wm-license-information-source": "Лисьмапрязо",
 	"wm-license-information-source-missing": "Те файланть арась информация лисьмапрядонзо",

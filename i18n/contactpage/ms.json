@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Hakimi97"
 		]
 	},
 	"contactpage-title-requestlicense": "Borang permohonan lesen",
+	"contactpage-wikimedia-trademark-incubator": "Wikimedia Pengeram",
 	"contactpage-title-licenseabuse": "Borang laporan salah guna"
 }
