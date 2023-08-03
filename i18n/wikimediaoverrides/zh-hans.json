@@ -22,7 +22,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "您可以访问[[m:Special:CentralAuth/$1|其他贡献过的维基媒体项目]]的参数设置页面来下载您在那些项目的账户数据。",
 	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账号]]",
 	"wikimedia-centralauth-groupname": "维基媒体基金会",
-	"wikimedia-centralauth-login-error-locked": "<strong>该帐户已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
+	"wikimedia-centralauth-login-error-locked": "<strong>该账号已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
 	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",
 	"wikimedia-delete-toobig": "此页面有巨大的编辑历史，超过$1个{{PLURAL:$1|修订版本}}。删除拥有非常大编辑历史的页面已被限制，以阻止对{{SITENAME}}的意外破坏。请在[[m:Steward requests/Miscellaneous|元维基请求页面]]联络[[m:Special:MyLanguage/Stewards|监管员]]请求删除此页面。",
 	"wikimedia-discussiontools-replywidget-terms-click": "点击“$1”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Terms_of_Use 使用条款]，并同意{{PLURAL:$3|根据}}$2发表您的贡献，该授权不可撤回。",

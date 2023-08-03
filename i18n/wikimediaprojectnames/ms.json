@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"CyberTroopers",
-			"Tofeiku"
+			"Tofeiku",
+			"Hakimi97"
 		]
 	},
 	"project-localized-name-altwiki": "Wikipedia Altai",
@@ -10,6 +11,7 @@
 	"project-localized-name-diqwiktionary": "Wikikamus Zazaki",
 	"project-localized-name-gorwiktionary": "Wikikamus Gorontalo",
 	"project-localized-name-gurwiki": "Wikipedia Farefare",
+	"project-localized-name-incubatorwiki": "Wikimedia Pengeram",
 	"project-localized-name-kcgwiki": "Wikipedia Tyap",
 	"project-localized-name-madwiki": "Wikipedia Madura",
 	"project-localized-name-ngwikimedia": "Wikimedia Nigeria",

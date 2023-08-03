@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Wadorgurt",
-			"Света Поторочина"
+			"Света Поторочина",
+			"Udmwiki"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "Луонлыкты вань та документэз кӧчырыны, вӧлмытыны но/яке воштыны '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' условиосъя, 1.2 номеро версияя яке вылезгес версияя, кудӥз [[{{int:wm-license-fsf-wiki-link}}|Эрико программной обеспечения фондэн]] поттэмын; воштонтэм люкетъёстэк, нырысетӥ но берпум вылбамлэн текстъёсызтэк. Лицензилэн кӧчыронэз пыртэмын вал люкетэ, кудӥз йыръямын ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
-	"wm-license-information-description": "кылсуред",
+	"wm-license-information-description": "Валектон",
 	"wm-license-information-source": "Кылдонэз",
 	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Автор",

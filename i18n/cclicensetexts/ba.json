@@ -9,7 +9,7 @@
 			"Sagan"
 		]
 	},
-	"wm-license-cc-attribution": "Авторлыҡ күренеүе",
+	"wm-license-cc-attribution": "Авторлыҡты асыҡлау",
 	"wm-license-cc-by-1.0-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/ Авторлыҡ күренеүе 1.0 Дөйөм] рөхсәтнамәһе шарттарында рөсхәт ителә.",
 	"wm-license-cc-by-1.0-fi-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/ Авторлыҡ күренеүе 1.0 Финляндия] рөхсәтнамәһе шарттарында рөсхәт ителә.",
 	"wm-license-cc-by-1.0-il-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/ Авторлыҡ күренеүе 1.0 Израиль] рөхсәтнамәһе шарттарында рөсхәт ителә.",
@@ -161,7 +161,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/si/ Авторлыҡ күренеүе-Шул уҡ шарттар менән 2.5 Словения] рөхсәтнамәһе шарттарында рөсхәт ителә.",
 	"wm-license-cc-by-sa-2.5-tw-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/tw/ Авторлыҡ күренеүе-Шул уҡ шарттар менән 2.5 Тайвань] рөхсәтнамәһе шарттарында рөсхәт ителә.",
 	"wm-license-cc-by-sa-2.5-za-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/2.5/za/ Авторлыҡ күренеүе-Шул уҡ шарттар менән 2.5 Көньяҡ Африка] рөхсәтнамәһе шарттарында рөсхәт ителә.",
-	"wm-license-cc-by-sa-3.0-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/ Авторлыҡ күренеүе-Шул уҡ шарттар менән 3.0 Дөйөм] рөхсәтнамәһе шарттарында рөсхәт ителә.",
+	"wm-license-cc-by-sa-3.0-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лицензияһы буйынса рөсхәт ителә.",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Авторлыҡ күренеүе-Шул уҡ шарттар менән [https://creativecommons.org/licenses/by-sa/3.0/ 3.0 Дөйөм], [https://creativecommons.org/licenses/by-sa/2.5/ 2.5 Дөйөм], [https://creativecommons.org/licenses/by-sa/2.0/ 2.0 Дөйөм] һәм [https://creativecommons.org/licenses/by-sa/1.0/ 1.0 Дөйөм] рөхсәтнамәләре шарттарында рөсхәт ителә.",
 	"wm-license-cc-by-sa-3.0-at-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/ Авторлыҡ күренеүе-Шул уҡ шарттар менән 3.0 Австрия] рөхсәтнамәһе шарттарында рөсхәт ителә.",
 	"wm-license-cc-by-sa-3.0-au-text": "Был файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/au/ Авторлыҡ күренеүе-Шул уҡ шарттар менән 3.0 Австралия] рөхсәтнамәһе шарттарында рөсхәт ителә.",
@@ -211,11 +211,11 @@
 	"wm-license-cc-free-to-share-header": "бүлешергә",
 	"wm-license-cc-free-to-share-text": "эште күсереп алырға, таратырға һәм тапшырырға",
 	"wm-license-cc-free-to-remix-header": "үҙгәртергә",
-	"wm-license-cc-free-to-remix-text": "эште үҙгәртергә",
+	"wm-license-cc-free-to-remix-text": "эште яраҡлаштырырға",
 	"wm-license-cc-conditions": "Түбәндәге шарттарҙа:",
-	"wm-license-cc-conditions-attribution-header": "авторлыҡ күренеүе",
-	"wm-license-cc-conditions-attribution-text": "Авторлыҡты, лицензияға һылтанма бирергә һәм авторҙың ниндәй ҙә булһа үҙгәрештәр индергәнме-юҡмы икәнлеген күрһәтергә тейешһегеҙ. Быны терәһә ниндәй ысул менән эшләргә мөмкин, әммә лицензиат  һеҙгә ярҙам итеүе йәки ошо әҫәрҙе ҡулланыуы тойғоһо булырға тейеш түгел.",
+	"wm-license-cc-conditions-attribution-header": "авторлыҡты асыҡлау",
+	"wm-license-cc-conditions-attribution-text": "Авторлыҡты, лицензияға һылтанманы һәм авторҙың ниндәй ҙә булһа үҙгәрештәр индергәнме-юҡмы икәнлеген күрһәтергә тейешһегеҙ. Быны теләһә ниндәй ысул менән эшләргә мөмкин, әммә лицензиат һеҙгә ярҙам иткән йәки ошо әҫәрҙе  ҡулланыуығыҙҙы хуплаған тигән тойғо тыуырға тейеш түгел.",
 	"wm-license-cc-conditions-share_alike-header": "шул уҡ шарттар менән",
-	"wm-license-cc-conditions-share_alike-text": "Әгәр һеҙ был әҫәрҙе үҙгәртәһегеҙ, ремикс яҙаһығыҙ йәки уның нигеҙендә яңы әҫәр яҙаһығыҙ икән, башланғыс әҫәр рөхсәтнамәһен йәки [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses шуға тура килә торған] лицензия ҡулланырға тейешһегеҙ.",
+	"wm-license-cc-conditions-share_alike-text": "Әгәр һеҙ был әҫәрҙе үҙгәртәһегеҙ, уның нигеҙендә яңы әҫәр яҙаһығыҙ икән, сығанаҡ әҫәр рөхсәтнамәһен йәки [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses шуға тура килә торған] лицензия ҡулланырға тейешһегеҙ.",
 	"wm-license-cc-pd-mark-text": "Был файл билдәле авторлыҡ хоҡуҡтары, шулай уҡ бәйле һәм йәнәш хоҡуҡтар сикләүҙәренән азат, тип билдәләнгән."
 }
