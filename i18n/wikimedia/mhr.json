@@ -7,13 +7,13 @@
 			"Санюн Вадик"
 		]
 	},
-	"sitesupport": "Надыр",
+	"sitesupport": "Надырлаш",
 	"tooltip-n-sitesupport": "Надырым пыштен кертыда",
 	"wikimedia-copyright": "<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a> лицензийын текстше, тыгак посна келшык-влак лийын кертыт. Кумданрак ончо. <a href=\"https://foundation.wikimedia.org/wiki/Кучылтмо_келшык\">Кучылтмо келшык</a>.",
 	"wikimedia-copyrightwarning": "Вашталтышым арален коден, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use кучылтмо келшык] дене келшет, тыгак [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] да [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензий почеш пӧртылдымӧ вашталтышым ыштыме дене келшет. Тыгак Creative Commons лицензий почеш гиперкылверым але URL-ым ончыктымаш ситыше атрибуций лиеш.",
 	"wikibase-sitelinks-wikinews": "Викиувер",
 	"wikibase-sitelinks-wikiquote": "Викицитатник",
-	"wikibase-sitelinks-wikisource": "Викитеке",
+	"wikibase-sitelinks-wikisource": "Викиваж",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Разработчик-влак",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 петырымашым ыштен ($2).\nОнчыктымо амал: ''$3''.\n\n* Петырыме тӱҥалтыш: $4 \n* Петырыме мучаш: $5 \n\nТыйын кызытсе IP-адресет — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
