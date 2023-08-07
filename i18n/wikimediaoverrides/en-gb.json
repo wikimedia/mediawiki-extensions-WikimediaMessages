@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Chase me ladies, I'm the Cavalry",
-			"Nemo bis"
+			"Nemo bis",
+			"Reedy"
 		]
 	},
 	"wikimedia-flow-terms-of-use-new-topic": "By clicking \"{{int:flow-newtopic-save}}\", you agree to our [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
@@ -10,5 +11,6 @@
 	"wikimedia-flow-terms-of-use-edit": "By saving changes, you agree to our [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-summarize": "By clicking \"{{int:flow-topic-action-update-topic-summary}}\", you agree to our [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-lock-topic": "By clicking \"{{int:flow-topic-action-lock-topic}}\", you agree to our [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-unlock-topic": "By clicking \"{{int:flow-topic-action-unlock-topic}}\", you agree to our [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]"
+	"wikimedia-flow-terms-of-use-unlock-topic": "By clicking \"{{int:flow-topic-action-unlock-topic}}\", you agree to our [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] and agree to irrevocably release your text under the [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Licence] and [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-mwoauthserver-invalid-user": "There was a problem with logging you in globally. If you just created your account, please log out and log back in, then try again to authorise the app. If you did not just create your account, please visit [https://meta.wikimedia.org/ meta.wikimedia.org] and then try again to authorise the app. (Error code: E008)"
 }

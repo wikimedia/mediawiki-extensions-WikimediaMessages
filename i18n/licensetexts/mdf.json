@@ -1,7 +1,13 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Валгриш"
+		]
 	},
 	"wm-license-information-description": "Информацие",
-	"wm-license-information-source": "Лисьма"
+	"wm-license-information-source": "Лисьма",
+	"wm-license-information-date": "Цифраса пингонь няфтемась: шись, ковсь, кизось",
+	"wm-license-information-author": "Арьсись",
+	"wm-license-information-permission-reusing-text": "Фкя и тяка файлать тага весть тевс нолдамац",
+	"wm-license-own-work": "Эсь тифце"
 }

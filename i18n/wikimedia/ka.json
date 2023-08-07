@@ -18,7 +18,8 @@
 			"לערי ריינהארט",
 			"გიორგიმელა",
 			"Გიო ოქრო",
-			"ჯეო"
+			"ჯეო",
+			"Amire80"
 		]
 	},
 	"wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
@@ -190,5 +191,6 @@
 	"eri-wlfilters-tour-intro-welcome-title": "კეთილი იყოს თქვენი მობრძანება კონტროლის სიის გაუმჯობესებულ ვერსიაში",
 	"eri-wlfilters-tour-intro-preferences-description": "კონტროლის სიის გაუმჯობესებული ვერსიის გასათიშად ნებისმიერ დროს გადადით პარამეტრების სექციაში „კონტროლის სია“.",
 	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]",
-	"wikimedia-statslink": "სტატისიკა"
+	"wikimedia-statslink": "სტატისიკა",
+	"wikimedia-cookiestatement": "მზა ფაილების პოლიტიკა"
 }

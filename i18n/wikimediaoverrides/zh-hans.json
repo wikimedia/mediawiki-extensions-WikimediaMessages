@@ -12,13 +12,15 @@
 			"Lakejason0",
 			"SaldırganSincap",
 			"Tranve",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Diskdance",
+			"Stang"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账户}}，这是此时间段内允许创建的最大数量。因此，使用此IP地址的访客目前不能再创建更多账户。\n\n如果您加入了以贡献维基媒体项目为中心的活动中的话，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（帮我选择）]]",
 	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账号]]",
-	"wikimedia-centralauth-login-error-locked": "<strong>该帐户已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
+	"wikimedia-centralauth-login-error-locked": "<strong>该账号已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
 	"wikimedia-centralauth-uwbr-intro": "此页面列出在此wiki注册，由于[[m:Single User Login finalisation announcement|终止单一用户登录]]而将被重命名的用户。更多信息可参见[[m:Help:Unified login|统一登录]]。用户可以在任何时间通过[[Special:GlobalRenameRequest]]请求重命名。",
 	"wikimedia-centralauth-uwbr-registration-nodate": "2006年以前",
 	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",

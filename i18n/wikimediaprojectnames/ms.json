@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"CyberTroopers"
+			"CyberTroopers",
+			"Hakimi97",
+			"Tofeiku"
 		]
 	},
+	"project-localized-name-incubatorwiki": "Wikimedia Pengeram",
 	"project-localized-name-ngwikimedia": "Wikimedia Nigeria"
 }
