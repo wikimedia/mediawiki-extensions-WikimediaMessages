@@ -4,10 +4,13 @@
 			"Валгриш"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Мярьгондеви тиемс копият, пачфнемс лиянди и/или тиендемс полафнемат тя документса мярьгондеви уликснень коряс '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''1.2 или сяда мекольдень сёрматфнень [[{{int:wm-license-fsf-wiki-link}}|программань максомань волянь Фондса, апак полафнеф пялькснень, тексфтома, конат сувафтфт васенце и мекольце лангаксти. Лицензиянь копиясь сувафтф пяльксти, кона лемтьф''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Информацие",
 	"wm-license-information-source": "Лисьма",
 	"wm-license-information-date": "Цифраса пингонь няфтемась: шись, ковсь, кизось",
 	"wm-license-information-author": "Арьсись",
+	"wm-license-information-permission": "Прават",
 	"wm-license-information-permission-reusing-text": "Фкя и тяка файлать тага весть тевс нолдамац",
-	"wm-license-own-work": "Эсь тифце"
+	"wm-license-own-work": "Эсь тифце",
+	"wm-license-self-multiple-licenses-select": "Кочкасак лецензять мяльцень коряс"
 }
