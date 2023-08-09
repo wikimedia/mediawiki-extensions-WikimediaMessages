@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lifeway"
+			"Lifeway",
+			"Венина Наталья Константиновна"
 		]
 	},
 	"wm-license-gfdl-1.2-and-later": "Тиде документым [[{{int:wm-license-fsf-wiki-link}}|Эрыкан программе вораҥдыш фондын]] 1.2 але варасе версиян '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' почеш савыктымылан келшен, кеч-могай вашталтыдыме ужаш дене, тӱжвал да пытартыш комышто вераҥдыме текст деч посна копироватлаш, шаркалаш да/але вашталташ лиеш. Лицензийын копийже ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' вуймутан ужашыш пуртымо.",
@@ -11,6 +12,6 @@
 	"wm-license-information-author": "Автор",
 	"wm-license-information-permission": "Права",
 	"wm-license-information-permission-reusing-text": "Тиде файлым уэш кучылтмаш",
-	"wm-license-own-work": "Шке паша",
+	"wm-license-own-work": "Шке пашам",
 	"wm-license-self-multiple-licenses-select": "Тый нине лицензий кокла гыч кеч-могайжым ойырен налын кертат."
 }

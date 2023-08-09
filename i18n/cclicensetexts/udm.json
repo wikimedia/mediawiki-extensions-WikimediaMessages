@@ -2,19 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Wadorgurt",
-			"Света Поторочина"
+			"Света Поторочина",
+			"Udmwiki"
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуция",
-	"wm-license-cc-by-sa-3.0-text": "Та файлэз учкыны луэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] лицензияя.",
+	"wm-license-cc-by-sa-3.0-text": "Та файлэз учкыны луэ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] лицензия улсын.",
 	"wm-license-cc-free": "Тӥ эркын быгатӥськоды:",
 	"wm-license-cc-free-to-share-header": "валче уже кутыны",
-	"wm-license-cc-free-to-share-text": "та произведениез  кӧчырыны, вӧлмытъяны но сётъяны",
+	"wm-license-cc-free-to-share-text": "та ужлэсь копизэ лэсьтыны, та ужез вӧлмытъяны но мукет кие сётыны",
 	"wm-license-cc-free-to-remix-header": "инъет вылэ пыкиськыса, выль макеос кылдытъяны",
-	"wm-license-cc-free-to-remix-text": "тупатъяны та произведениез",
-	"wm-license-cc-conditions": "Та луонлыкъёсты лыдэ басьтыса :",
+	"wm-license-cc-free-to-remix-text": "тупатъяны та ужез",
+	"wm-license-cc-conditions": "Та луонлыкъёсты чакласа :",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
-	"wm-license-cc-conditions-attribution-text": "Тӥледлы пусъёно тӥ автор луиськоды шуыса,\nлицензия вылэ чӧлскондэз сётоно но  кыӵе ке воштонъёс пыртӥды шуыса возьматоно. Тае лэсьтыны луоз пӧртэм амалэн,  нош лицензиат тӥледлы юрттэ яке та произведениез уже кутӥськоды шуыса, малпан мдаз кылды.",
+	"wm-license-cc-conditions-attribution-text": "Тӥледлы пусъёно тӥ автор луиськоды шуыса,\nлицензия вылэ чӧлскондэз сётоно но кыӵе ке воштонъёс пыртӥды шуыса возьматоно. Тае лэсьтыны луоз пӧртэм амалэн, нош лицензиат тӥледлы юрттэ яке та произведениез уже кутӥськоды шуыса, малпан гинэ медаз кылды.",
 	"wm-license-cc-conditions-share_alike-header": "со условиосъя ик вӧлмытон",
-	"wm-license-cc-conditions-share_alike-text": "Тӥ воштӥськоды, тупатӥськоды яке произведенилэн инъет вылаз кылдытӥськоды  ке выльзэ, одно ик ужады кутоно инъет луись произведенилэсь лицензизэ яке [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses со ик яке со выллем лицензия], кудӥз тупа оригиналлы."
+	"wm-license-cc-conditions-share_alike-text": "Тӥ воштӥськоды, тупатӥськоды яке произведенилэн инъет вылаз кылдытӥськоды ке выльзэ, одно ик ужады кутоно инъет луись произведенилэсь лицензизэ яке [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses со ик яке со выллем лицензия], кудӥз тупа оригиналлы."
 }
