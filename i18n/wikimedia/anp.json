@@ -9,7 +9,7 @@
 	"sitesupport": "दान करौ",
 	"tooltip-n-sitesupport": "हमरा सहायता द॑",
 	"wikimedia-copyright": "टेक्स्ट <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike लाइसेंस</a> केरौ अंतर्गत उपलब्ध छै;\nअतिरिक्त शर्त सिनी लागू होय सकै छौं।\nविवरण लेली <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">उपयोग केरौ शर्त सिनी </a> देखौ।",
-	"wikimedia-copyrightwarning": "\"बदलाव सहेजला प तोंय [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use उपयोग केरौ शर्त सीनी] मानै ल बाध्य होय छौ, आरू तोंय आपनौ योगदान [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0 लाइसेंस] आरू [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] केरौ अंतर्गत अपरिवर्तनीय रूप सँ जारी करै ल स्वीकार करै छौ।\nतोंय योहो स्वीकार करै छौ कि एगो हाइपरलिंक या यू॰आर॰एल क्रियेटिव कॉमन्स लाइसेंस केरौ अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) छै।",
+	"wikimedia-copyrightwarning": "परिवर्तन सिनी क सहेजी क, तोंय [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], सँ सहमत होतअ हुअ, आरू तोंय [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License\n] आरू [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]।\nतोंय सहमत छौ कि क्रिएटिव कॉमन्स लाइसेंस केरौ तहत हाइपरलिंक या यूआरएल पर्याप्त एट्रिब्यूशन छेकै।",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "विकिसूक्ती",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",
