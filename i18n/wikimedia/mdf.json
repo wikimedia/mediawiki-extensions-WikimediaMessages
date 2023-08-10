@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kranch",
-			"Numulunj pilgae"
+			"Numulunj pilgae",
+			"Валгриш"
 		]
 	},
 	"sitesupport": "Лезкс максома",
@@ -10,6 +11,10 @@
 	"group-staff": "Персонал",
 	"group-staff-member": "Персоналста ломань",
 	"wikimedia-copyright": "Сёрмакодсь сявови <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nтага эрсихть иля ётт.\nСяда тов варжак <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Тевс нолдамань ётт</a> анцяйнятнень колга.",
+	"wikibase-sitelinks-wikinews": "Викикулят",
+	"wikibase-sitelinks-wikiquote": "Викицитатань кочкай-сёрмалды",
+	"wikibase-sitelinks-wikisource": "Викитекась",
+	"wikibase-sitelinks-wikivoyage": "Викикилангонь вятнись",
 	"wikimedia-developers": "Касфтыхне-латцихне",
 	"wikimedia-statslink": "Статистиксь",
 	"wikimedia-cookiestatement": "Нумолонь кшинь колга азондома"

@@ -4,10 +4,14 @@
 			"Pintupi Luritja Guy"
 		]
 	},
+	"wm-license-cc-free": "Nyuntunya wituṉa ngaatja:",
 	"wm-license-cc-free-to-share-header": "tjarrala",
 	"wm-license-cc-free-to-share-text": "yunytjurriwanyi, ngalytjapunganyi anṯa yiyaṉi warrka",
 	"wm-license-cc-free-to-remix-header": "riimikitji",
 	"wm-license-cc-free-to-remix-text": "warrka palyantjaku",
+	"wm-license-cc-conditions": "Ngawa luwu tjuṯa:",
 	"wm-license-cc-conditions-attribution-header": "kuriṯita",
-	"wm-license-cc-conditions-share_alike-header": "share alike"
+	"wm-license-cc-conditions-attribution-text": "Nyuntu yunytjirringanyi wangkanyatjaku yaalytjingkakutu paluru ngalya yanu, tinkitjurra tuturrpuwakutu witula, anṯa watjaṉi tjiyinytji tjuṯa palyaṉu. Nyuntu ngaatja palyangka nyinanyi, paluru tjinguru witulpayi palatja watjaṉi wiya tjinguru nyuntunya tjinguru.",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
+	"wm-license-cc-conditions-share_alike-text": "Tjinguru nyuntu tjinguru puutu ngaatja palya puḻkaṉi, warrkanun [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses wintuntjaku panyapangku wituningka] tulyi pilyinpa."
 }

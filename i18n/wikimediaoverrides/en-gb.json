@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reedy"
+		]
+	},
+	"wikimedia-mwoauthserver-invalid-user": "There was a problem with logging you in globally. If you just created your account, please log out and log back in, then try again to authorise the app. If you did not just create your account, please visit [https://meta.wikimedia.org/ meta.wikimedia.org] and then try again to authorise the app. (Error code: E008)",
+	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) is a web standard published by the World Wide Web Consortium (W3C). WebAuthn is a core component of the FIDO2 Project under the guidance of the FIDO Alliance. The goal of the project is to standardise an interface for authenticating users to web-based applications and services using public-key cryptography. [https://en.wikipedia.org/wiki/WebAuthn Read more]. Please note that you will need to login to the same wiki where you originally registered your verification device."
+}
