@@ -4,7 +4,12 @@
 			"Athram Rajkumar"
 		]
 	},
+	"wm-license-information-description": "వివరణ",
+	"wm-license-information-source": "మూలం",
 	"wm-license-information-date": "తారిక్",
+	"wm-license-information-author": "వాయితాంద్",
+	"wm-license-information-permission": "పర్మిషన్",
 	"wm-license-information-permission-reusing-text": "ఈ ఫైల్ పెన వాడెకద్",
-	"wm-license-own-work": "అన్నే పని"
+	"wm-license-own-work": "అన్నే పని",
+	"wm-license-self-multiple-licenses-select": "పోదే అనేక ఇముంగ్ పస్సంద్ వత్త లైసెన్సున్‌ అసుర్."
 }

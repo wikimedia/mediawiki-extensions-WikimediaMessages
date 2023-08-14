@@ -18,7 +18,7 @@
 	"wikibase-sitelinks-wikivoyage": "Викикилангонь вятнись",
 	"wikimedia-developers": "Касфтыхне-латцихне",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nКардамась ульсь тиф $1 ($2).\nНяфтьф туфталсь: ''$3''.\n\n* Кардамань ушедомась: $4 \n* Кардамань аделавомась: $5 \n\nТонь тяниень IP-адресце— $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nКардамась ульсь тиф $1 ($2).\nНяфтьф туфталсь: ''$3''.\n\n* Кардамань ушедомась: $4 \n* Кардамань аделавомась: $5 \n\nТонь тяниень IP-адресце— $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nПякстамась-лоткафомась ульсь тиф $1 ($2).\nНяфтьф туфталсь: ''$3''.\n\n* Кардамань ушедомась: $4 \n* Кардамань аделавомась: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-\nmistake}}",
 	"wikimedia-statslink": "Статистиксь",
 	"wikimedia-cookiestatement": "Нумолонь кшинь колга азондома"
 }

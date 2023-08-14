@@ -62,6 +62,7 @@
 	"wikimedia-ipinfo-preference-use-agreement": "Acepto que el uso que haré de esta herramienta será conforme con las [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines directrices] y exclusivamente para la investigación y la prevención del vandalismo, abusos u otras infracciones a las políticas comunitarias o de Wikimedia.",
 	"wikimedia-centralauth-admin-log-otherwiki": "Esta cuenta está bloqueada. Véase los [[meta:Special:CentralAuth/$1|detalles de la cuenta global en Meta-Wiki]] para obtener más detalles.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Tu dirección IP ha sido [[m:Special:MyLanguage/Global blocks|bloqueada en todos las wikis]].",
+	"wikimedia-globalblocking-blockedtext-on-range": "Su dirección IP está en un rango que ha sido [[m:Global blocks/es|bloqueado en todas las wikis de la Fundación Wikimedia]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Si crees que este bloqueo es incorrecto, puedes encontrar información e instrucciones adicionales en la política global de [[m:Special:MyLanguage/No open proxies|prohibición de proxies abiertos]]. También puedes [[m:Steward requests/Global|solicitar una revisión de este bloqueo en Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "También puede enviar un correo electrónico a la cola [[m:Special:MyLanguage/VRT|VRT]] de [[m:Special:MyLanguage/Stewards|stewards]] a <kbd>stewards@wikimedia.org</kbd> incluyendo todos los detalles anteriores."
 }
