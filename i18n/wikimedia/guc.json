@@ -4,18 +4,18 @@
 			"Leonfd1992"
 		]
 	},
-	"sitesupport": "Aapaa",
+	"sitesupport": "Asülajaa",
 	"tooltip-n-sitesupport": "Poono wamaa",
-	"wikimedia-copyright": "Ashajuushika tüü süma'anasü tü <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nEesü süpüla eein soo'omüin shikiiakua'ipa.\nPünalaa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> süpüla pütüjaai soo'omüin süchikü.",
+	"wikimedia-copyright": "Tü ashajünaka yaaya o'ttusu sünainjee sukuwa'ipa <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; eesü süpüla eein soo'omüin sukuwa'ipa.\nPaashaje'eraa sulu'upünaa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> süpüla pütüjaainjatüin soo'omüin sukuwa'ipa.",
 	"wikimedia-copyrightwarning": "Sünaajünapa a'wanajaanüka sünain, paapainjatü tü [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Apuushikiikuaippa sünain aapaanüin], otta paapain sünain pansain paa'in süpüla aju'itiraa püshajüinka sulu'u tü [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] otta müsia [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nPaapain saa'in süpüla shianjatü wane walekerümüinjatü otta URL süpüla shian sujutuu pansaaka sünain süpuushikii Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Antüshi pia|Antüsü pia}}, $1!",
-	"wikibase-sitelinks-wikinews": "Wikiachiki",
+	"wikibase-sitelinks-wikinews": "Wikiachikimaajatü",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
-	"wikibase-sitelinks-wikivoyage": "Wikiakua",
-	"wikimedia-developers": "Akumajulii",
-	"wikimedia-globalblocking-ipblocked": "'''Müinma yaa [[m:Special:MyLanguage/Global blocks|aliijitnüsü tü pejepüseka IP süpüla supüshua'a eere wikis]].'''\n\n$1 ($2) nia chi aliijirakai puulia.\nNaashin shia sütüma tüü ''$3''.\n\n* Joujaa aliitnüin puulia : $4\n* Saja'ttapa aliijirawaaka puulia: $5\n\nTü pejepüseka müinma yaa jia $6.\nAnalu'ut pütüma pi'itaa supüshua'a sukuwai'pa eeke eein püchajaaka paalainka saa'ujee pütchi makatka saa'in tüü.\n\nMa'aka pütüjaalee saa'u nnojot pansain tü aliijitnaka puulia müinma yaa, püsanaa tü sukuwai'pa kottaleesüka sünain [[m:Special:MyLanguage/No open proxies|akatalaa proxis ee jutatüin]] süpüla paapaainjatü soo'omüin süchikimaajatü otta jamüin sukuwai'pa.\nMa'aka nnojolu'uin pukuwai'pain, eesü süpüla [[m:Steward requests/Global|puju'itirüin wane pütchi sümaa kee'ireeka paa'in süpüla e'rajaanüin pükuwai'pa sulu'u Meta-Wiki]] süpüla aashajaanüin saa'u aliijitnaka puulia.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Waneeshi otta soo'omüin na aapajülü proxy tü pi'yataaka amaa mmainmatua sünain tüü müinma [[m:Special:MyLanguage/Global blocks|aliijünüsü sünain kasa supüshua'a]].'''\n\n$1 ($2) nia chi aliijirakai puulia.\nNaashin shia sütüma tüü ''$3''.\n\n* Joujaa aliijitnüin puulia : $4\n* Saja'ttapa aliijirawaaka puulia: $5\n\nTü ejepüseeka proxy aliijitnaka jia $6\nAnalu'ut pütüma pi'itaa supüshua'a sukuwai'pa eeke eein püchajaaka paalainka saa'ujee pütchi makatka saa'in tüü.\n\nMa'aka pütüjaalee saa'u nnojot pansain tü aliijitnaka puulia müinma yaa, püsanaa tü sukuwai'pa kottaleesüka sünain [[m:Special:MyLanguage/No open proxies|akatalaa proxis ee jutatüin]] süpüla paapaainjatü soo'omüin süchikimaajatü otta jamüin sukuwai'pa.\n\nMa'aka nnojolu'uin pukuwai'pain, eesü süpüla [[m:Steward requests/Global|puju'itirüin wane pütchi sümaa kee'ireeka paa'in süpüla e'rajaanüin pükuwai'pa sulu'u Meta-Wiki]] süpüla aashajaanüin saa'u aliijitnaka puulia.",
+	"wikibase-sitelinks-wikisource": "Wikiekirajaaya",
+	"wikibase-sitelinks-wikivoyage": "WikiO'unajawaa",
+	"wikimedia-developers": "Na akumajüliikana",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nA'alijitnüsü pünülia natuma $1 ($2).\nSüka jamüin ''$3''.\n\n* A'alijitneerü pünüliayaasüka sünainjee: $4\n* Jutateerü suchukuwa'a tü pünüliayaasüka sünainjee: $5\n\nTü püyaawaseka IP shia $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Ayaawajia",
-	"wikimedia-cookiestatement": "Pütchi saa'uje Cookie"
+	"wikimedia-cookiestatement": "Pütchi saa'uje ayaatütchon"
 }
