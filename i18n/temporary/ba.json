@@ -7,6 +7,6 @@
 	"wikimediamessages-desc": "Викимедианың ваҡытлыса спецификалы хәбәрҙәре",
 	"grouppage-oversight": "{{ns:project}}:Аныҡлаусылар",
 	"group-oversight": "Аныҡлаусылар",
-	"group-oversight-member": "Аныҡлаусы",
+	"group-oversight-member": "{{GENDER:$1|күҙәтеүсе}}",
 	"please-translate": "Үҙ телегеҙгә тәржемә итергә ярҙамлашығыҙ"
 }
