@@ -2,14 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"MR973",
+			"Айсар",
 			"З. ӘЙЛЕ"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(һайларға ярҙам итегеҙ)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Һүрәтте күрмәйһегеҙме? [[{{MediaWiki:createacct-captcha-help-url}}|Иҫәп яҙмаһын һорағыҙ]]",
 	"wikimedia-centralauth-groupname": "Викимедиа Фондының",
-	"wikimedia-sitematrix": "Викимедиа проекттары исемлеге",
+	"wikimedia-sitematrix": "Викимедианың вики-проекттары исемлеге",
 	"wikimedia-sitematrix-others": "Викимедианың башҡа проекттары",
-	"wikimedia-sitematrix-summary": "Был махсус бит Викимедианың бөтә проекттары исемлеген күрһәтә.",
+	"wikimedia-sitematrix-summary": "Был махсус биттә Викимедианың бөтә вики-проекттары  күрһәтелгән.",
 	"wikimedia-webauthn-module-description": "WebAuthn (веб-аутентификация) - World Wide Web (W3C) концорциумы менән баҫтырылған веб стандарт. WebAuthn - FIDO Alliance етәкселендәге FIDO2 проектының төп компоненты. Проекттың маҡсаты - асыҡ асҡыс криптографияһын ҡулланып веб-ҡушымталарҙа һәм хеҙмәттәрҙә ҡулланыусыларҙы аутентификациялау өсөн интерфейсты стандартлаштырыу.[https://en.wikipedia.org/wiki/WebAuthn Күберәк]. Иғтибар итегеҙ, һеҙгә тикшереү ҡоролмаһын башта теркәлгән, шул уҡ вики ға инергә кәрәк."
 }

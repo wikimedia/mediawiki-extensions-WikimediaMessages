@@ -15,5 +15,7 @@
 	"hello": "Здраво",
 	"please-translate": "Помозите у превођењу на свој језик",
 	"thank-you": "{{GENDER:$1|Хвала.}}",
-	"specialblockfeedback": "Повратне информације"
+	"specialblockfeedback": "Повратне информације",
+	"specialinvestigate-feedback": "Повратне информације",
+	"graph-disabled-category": "Странице са онемогућеним графиконима"
 }
