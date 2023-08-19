@@ -17,6 +17,14 @@
 			"Zoranzoki21"
 		]
 	},
+	"project-localized-name-group-wikipedia": "{{ProjectNameDocumentation|url=https://www.wikipedia.org|name=Wikipedia|language=en}}",
+	"project-localized-name-group-wiktionary": "{{ProjectNameDocumentation|url=https://www.wiktionary.org|name=Wiktionary|language=en}}",
+	"project-localized-name-group-wikibooks": "{{ProjectNameDocumentation|url=https://www.wikibooks.org|name=Wikibooks|language=en}}",
+	"project-localized-name-group-wikiquote": "{{ProjectNameDocumentation|url=https://www.wikiquote.org|name=Wikiquote|language=en}}",
+	"project-localized-name-group-wikivoyage": "{{ProjectNameDocumentation|url=https://www.wikivoyage.org|name=Wikivoyage|language=en}}",
+	"project-localized-name-group-wikisource": "{{ProjectNameDocumentation|url=https://www.wikisource.org|name=Wikisource|language=en}}",
+	"project-localized-name-group-wikinews": "{{ProjectNameDocumentation|url=https://www.wikinews.org|name=Wikinews|language=en}}",
+	"project-localized-name-group-wikiversity": "{{ProjectNameDocumentation|url=https://www.wikiversity.org|name=Wikiversity|language=en}}",
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
 	"project-localized-name-aawikibooks": "{{ProjectNameDocumentation|url=https://aa.wikibooks.org|name=Afar Wikibooks|language=aa}}",
 	"project-localized-name-aawiktionary": "{{ProjectNameDocumentation|url=https://aa.wiktionary.org|name=Afar Wiktionary|language=aa}}",
