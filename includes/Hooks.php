@@ -29,6 +29,7 @@ use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
 use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
+use MediaWiki\Title\Title;
 use MediaWiki\User\UserOptionsManager;
 use MessageCache;
 use MessageLocalizer;
@@ -38,7 +39,6 @@ use ORES\Hooks\Helpers as ORESHookHelpers;
 use Skin;
 use SpecialPage;
 use SpecialUpload;
-use Title;
 use User;
 use Wikimedia\IPUtils;
 
