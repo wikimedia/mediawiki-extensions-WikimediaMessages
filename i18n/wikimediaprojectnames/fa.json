@@ -5,6 +5,7 @@
 			"Dejavu",
 			"Ebraminio",
 			"FarsiNevis",
+			"Havadar-hvac",
 			"Huji",
 			"Jeeputer",
 			"Ommmmid",
@@ -12,6 +13,11 @@
 			"Sunfyre"
 		]
 	},
+	"project-localized-name-group-wikibooks": "ویکی کتاب ها",
+	"project-localized-name-group-wikiquote": "ویکی نقل قول",
+	"project-localized-name-group-wikivoyage": "ویکی‌سفر",
+	"project-localized-name-group-wikisource": "ویکی منبع",
+	"project-localized-name-group-wikinews": "ویکی‌خبر",
 	"project-localized-name-aawiki": "ویکی‌پدیای آفار",
 	"project-localized-name-aawikibooks": "ویکی‌کتاب آفار",
 	"project-localized-name-aawiktionary": "ویکی‌واژه آفار",
