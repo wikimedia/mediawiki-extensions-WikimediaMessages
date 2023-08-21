@@ -60,7 +60,8 @@
 			"Lantianjialiang",
 			"Jbyccc",
 			"星海",
-			"Tiger"
+			"Tiger",
+			"Cookai1205"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -99,8 +100,8 @@
 	"group-abusefilter": "滥用过滤器编辑者",
 	"group-abusefilter-member": "{{GENDER:$1|滥用过滤器编辑者}}",
 	"grouppage-abusefilter": "{{ns:project}}:滥用过滤器编辑者",
-	"group-abusefilter-helper": "滥用过滤器助手",
-	"group-abusefilter-helper-member": "{{GENDER:$1|滥用过滤器助手}}",
+	"group-abusefilter-helper": "滥用过滤器助理",
+	"group-abusefilter-helper-member": "{{GENDER:$1|滥用过滤器助理}}",
 	"group-abusefilter-maintainer": "滥用过滤器维护员",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|滥用过滤器维护员}}",
 	"group-accountcreator": "账号创建者",

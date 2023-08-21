@@ -45,7 +45,8 @@
 			"LuciferianThomas",
 			"SunAfterRain",
 			"捍粵者",
-			"Tiger"
+			"Tiger",
+			"Cookai1205"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -84,8 +85,8 @@
 	"group-abusefilter": "防濫用過濾器編輯者",
 	"group-abusefilter-member": "{{GENDER:$1|防濫用過濾器編輯者}}",
 	"grouppage-abusefilter": "{{ns:project}}:濫用過濾器編輯者",
-	"group-abusefilter-helper": "濫用過濾器協助人員",
-	"group-abusefilter-helper-member": "{{GENDER:$1|濫用過濾器協助人員}}",
+	"group-abusefilter-helper": "濫用過濾器助理",
+	"group-abusefilter-helper-member": "{{GENDER:$1|濫用過濾器助理}}",
 	"group-abusefilter-maintainer": "濫用過濾器維護者",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|濫用過濾器維護者}}",
 	"group-accountcreator": "帳號建立員",

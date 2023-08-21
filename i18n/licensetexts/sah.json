@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"HalanTul"
+			"HalanTul",
+			"MARKSDNW"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Бу билэни бас билээччи, $1, кини туһунан сибидиэнньэлэри хаалларар түгэҥҥэ кимиэхэ баҕарар бу билэни '''көҥүл туһанары''' көҥүллүүр. Билэни тарҕатар, кинини туһанан атын айымньылары айар, ханнык баҕарар соруктаах, ол иһигэр атыы-эргиэн да буоллун, туһаныы көҥүллэнэр.",
@@ -49,7 +50,7 @@
 	"wm-license-information-date": "Күнэ-дьыла",
 	"wm-license-information-author": "Ааптар",
 	"wm-license-information-author-missing": "Бу билэ '''ааптарын''' туһунан суруллубатах.",
-	"wm-license-information-permission": "Маны оҥорор кыахтааххын:",
+	"wm-license-information-permission": "Маны оҥорор кыахтааххын",
 	"wm-license-information-permission-reusing-text": "Бу билэни хос туттуу",
 	"wm-license-information-permission-see-below": "Аллара көр.",
 	"wm-license-information-other-versions": "Атын барыллар",

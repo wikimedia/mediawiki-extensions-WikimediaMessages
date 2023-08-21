@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Athram Rajkumar"
+			"Athram Rajkumar",
+			"Madavi Jangu"
 		]
 	},
+	"sitesupport": "దానం ఇధార్",
 	"wikibase-sitelinks-wikinews": "వికిన్యూస్",
+	"wikibase-sitelinks-wikiquote": "వికిసూక్తి",
 	"wikibase-sitelinks-wikisource": "వికీసోర్స్",
 	"wikibase-sitelinks-wikivoyage": "విజివోయేజ్",
-	"wikimedia-statslink": "లెక్క"
+	"wikimedia-developers": "సుద్రిపెకార్",
+	"wikimedia-statslink": "లెక్క",
+	"wikimedia-cookiestatement": "కుకీ స్టేట్మెంట్"
 }

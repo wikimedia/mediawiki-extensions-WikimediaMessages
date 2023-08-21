@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Athram Rajkumar"
+			"Athram Rajkumar",
+			"Madavi Jangu"
 		]
 	},
-	"wm-license-cc-free-to-remix-header": "రీమిక్స్ ఇదరెంగ్"
+	"wm-license-cc-attribution": "అస్ట్రిబ్యూషన్",
+	"wm-license-cc-free": "ఇనాంగ్ ఇధరెంగ్ ఇముంగ్ సోయ్ అన్సాధ్:",
+	"wm-license-cc-free-to-share-header": "పయ్యేంగ్ వంద్",
+	"wm-license-cc-free-to-share-text": "ఇధున్ కాఫీ ఇదరెంగ్ వంద్,పావిడెంగ్ వంద్,ఇడ్డెంగ్ వంద్",
+	"wm-license-cc-free-to-remix-header": "రీమిక్స్ ఇదరెంగ్",
+	"wm-license-cc-free-to-remix-text": "పని ఇధరెంగ్ వంద్",
+	"wm-license-cc-conditions": "బూడున్ అనెక షరతులున్ ఓలుత్ అడుగుర్:",
+	"wm-license-cc-conditions-attribution-header": "అస్ట్రిబ్యూషన్",
+	"wm-license-cc-conditions-share_alike-header": "share alike"
 }

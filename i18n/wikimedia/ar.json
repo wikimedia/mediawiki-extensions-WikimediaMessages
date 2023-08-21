@@ -40,7 +40,11 @@
 			"Ideophagous",
 			"Scblr",
 			"Karim185.3",
-			"فيصل"
+			"فيصل",
+			"Amire80",
+			"NEHAOUA",
+			"أيوب",
+			"عبد الإله صديقي"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -90,7 +94,7 @@
 	"group-arbcom-member": "{{GENDER:$1|عضو لجنة التحكيم|عضوة لجنة التحكيم}}",
 	"grouppage-arbcom": "{{ns:project}}:أعضاء لجنة التحكيم",
 	"group-autopatrolled": "مراجعون تلقائيًّا",
-	"group-autopatrolled-member": "{{GENDER:$1|مراجع تلقائي|مراجعة تلقائية}}",
+	"group-autopatrolled-member": "{{GENDER:$1|مراجع تلقائيًّا|مراجعة تلقائيًّا}}",
 	"grouppage-autopatrolled": "{{ns:project}}:مراجعون تلقائيا",
 	"group-autoreviewer": "مراجعون تلقائيًا",
 	"group-autoreviewer-member": "{{GENDER:$1|مراجع تلقائي}}",
