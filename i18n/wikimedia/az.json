@@ -150,5 +150,7 @@
 	"wikimedia-statslink": "Statistikalar",
 	"wikimedia-cookiestatement": "Kuki məlumatı",
 	"querypage-updates-half-monthly": "Bu səhifə ayda iki dəfə yenilənir.",
-	"querypage-updates-monthly": "Bu səhifə ayda bir dəfə yenilənir."
+	"querypage-updates-monthly": "Bu səhifə ayda bir dəfə yenilənir.",
+	"ipinfo-feedback-button-label": "Rəy bildir",
+	"ipinfo-global-contributions-url-label": "Qlobal redaktələr"
 }

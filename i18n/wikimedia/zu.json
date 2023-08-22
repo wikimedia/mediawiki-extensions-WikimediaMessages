@@ -5,12 +5,14 @@
 			"Irus",
 			"Mtonihouse",
 			"Nkankane",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"INgobemnyama"
 		]
 	},
 	"sitesupport": "Nikela",
 	"tooltip-n-sitesupport": "Sisekele",
 	"wikimedia-copyright": "Umbhalo uyatholakala phansi kwe-<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>; eminye imigomo ingase isebenza.\nNanku-<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> ukubona eminye imininingwane.",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Onjiniyela",
 	"wikimedia-statslink": "Imininingwane"
 }
