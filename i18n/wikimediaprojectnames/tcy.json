@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"ChiK",
 			"Ravi Mundkur"
 		]
 	},
+	"project-localized-name-group-wikipedia": "ವಿಕಿಪೀಡಿಯ",
+	"project-localized-name-group-wikibooks": "ವಿಕಿಪುಸ್ತಕೊಲು",
+	"project-localized-name-group-wikiquote": "ವಿಕಿಕೋಟ್",
+	"project-localized-name-group-wikivoyage": "ವಿಕಿವೊಯೇಜ್",
+	"project-localized-name-group-wikisource": "ವಿಕಿಸೋರ್ಸ್",
+	"project-localized-name-group-wikiversity": "ವಿಕಿವರ್ಸಿಟಿ",
 	"project-localized-name-punjabiwikimedia": "ಪಂಜಾಬಿ ವಿಕಿಮೀಡಿಯದಕುಲು"
 }

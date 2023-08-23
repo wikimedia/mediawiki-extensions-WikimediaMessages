@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"HalanTul"
+			"HalanTul",
+			"MARKSDNW"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sah:Creative Commons",
@@ -177,7 +178,7 @@
 	"wm-license-cc-free-to-remix-header": "туһанан атын айымньыны айыаххын сөп",
 	"wm-license-cc-free-to-remix-text": "уларытыаххын сөп",
 	"wm-license-cc-conditions": "Бу усулуобуйалары тутуһуохтааххын:",
-	"wm-license-cc-conditions-attribution-header": "ааптарын ыйыахтааххын",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
 	"wm-license-cc-conditions-attribution-text": "Ааптары, лиссиэнсийэ тиэксигэр сигэни уонна ааптар уларыппытын дуу, суоҕун дуу ыйыахтааххын. Ханнык баҕарар ньыманнан ыйарыҥ бобуллубат, ол эрээри онтукаҥ лицензиат Эйигин бэйэҕин дуу, бу маны туһанаргын дуу өйүүрүн курдук санааны үөскэтиэ суохтаах.",
 	"wm-license-cc-conditions-share_alike-header": "эмиэ оннук усулуобуйаҕа тарҕатыллар",
 	"wm-license-cc-conditions-share_alike-text": "Өскө бу айымньыны уларытар эбэтэр кини олоҕор атын айымньыны айар буоллаххына, ол саҥа айымньыны бу айымньы лиссиэнсийэтинэн эбэтэр онно  [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses сөп түбэһэр лиссиэнсийэннэн] тарҕатыахтааххын.",
