@@ -6,11 +6,14 @@
 	},
 	"sitesupport": "Jip dunazzjon",
 	"wikimedia-copyright": "Testin mënd e ghusaret për <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\">licenza Creative Commons Atribuzjon-të Kondividirtur me gnë viersh paraç</a>; mënd i plikaren me kondizjone tjerë. Shih <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it\">condizioni d'uso</a> për detaje.",
+	"wikimedia-copyrightwarning": "To salvartur modifikazjonet, zitare [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], e je dakordu kompletamenti se mënd lësh u kontributu jit in basi te liçenzet [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] e [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Je dakordu se u hyperlink o URL bastar pë abtribuzjonet in basi te liçenza Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupature",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBloku ju bu te $1 ($2).\nPër ''$3''.\n\n* Zufill te: $4\n* Soset te: $5\n\nNdirizzi IP ësht $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBloku ju bu te $1 ($2).\nPër ''$3''.\n\n* Zufill te: $4\n* Soset te: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistike",
 	"wikimedia-cookiestatement": "Diqarazjun mi li cookie"
 }

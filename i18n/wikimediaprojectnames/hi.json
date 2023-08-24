@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Abijeet Patro",
 			"Anamdas",
 			"Prong$31",
 			"Sfic",
 			"Vishwanath"
 		]
 	},
+	"project-localized-name-group-wikipedia": "विकिपीडिया",
 	"project-localized-name-bhwiki": "भोजपुरी विकिपीडिया",
 	"project-localized-name-bhwiktionary": "भोजपुरी विक्षनरी",
 	"project-localized-name-bnwiki": "बंगाली विकिपीडिया",
