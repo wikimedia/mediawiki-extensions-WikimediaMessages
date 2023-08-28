@@ -1,8 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
+			"Astahar",
 			"Multichill"
 		]
 	},
-	"wm-license-cc-wiki-link": "w:cv:Creative Commons"
+	"wm-license-cc-wiki-link": "w:cv:Creative Commons",
+	"wm-license-cc-attribution": "Атрибуци",
+	"wm-license-cc-by-sa-3.0-text": "Ку файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лицензипе мкилӗшӳллӗн сарӑлать.",
+	"wm-license-cc-free": "Эсир ирӗклӗн:",
+	"wm-license-cc-free-to-share-header": "ку ӗҫе ыттисене тивӗҫтерме",
+	"wm-license-cc-free-to-share-text": "ку ӗҫе копилеме, сарма тата ыттисене пама",
+	"wm-license-cc-free-to-remix-header": "унашкаллисене хатӗрлеме",
+	"wm-license-cc-free-to-remix-text": "ку ӗҫе улӑштарма",
+	"wm-license-cc-conditions": "Ҫак условисене пӑхӑнсан:",
+	"wm-license-cc-conditions-attribution-header": "атрибуци",
+	"wm-license-cc-conditions-attribution-text": "Сирӗн кам автор пулнине кӑтартмалла, лицензи ҫине каҫӑ памалла та автор мӗнле те пулин улшӑнусем кӗртнипе кӗртменнине палӑртмалла. Ҫакна кирек мӗнле юрӑхлӑ меслетпе те тума пулать, анчах лицензиат сире пулӑшнине е сире асӑннӑ хайлавпа усӑ курма ирӗк панине кӑтартмасӑр.",
+	"wm-license-cc-conditions-share_alike-header": "ҫав условисемпех сарма юрать",
+	"wm-license-cc-conditions-share_alike-text": "Енчен те эсир асӑннӑ хайлава тӗпе хурса ҫӗннине йӗркелетӗр, улӑштаратӑр, е урӑх хайлав тӑватӑр пулсан, сирӗн тӗпри хайлавӑн лицензипе е [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses унпа пӗрешкеллипе] усӑ курма тивет."
 }

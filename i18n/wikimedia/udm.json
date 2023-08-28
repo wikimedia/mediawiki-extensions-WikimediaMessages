@@ -12,10 +12,10 @@
 			"Света Поторочина"
 		]
 	},
-	"sitesupport": "Проектлы маке сётон",
+	"sitesupport": "Донат",
 	"tooltip-n-sitesupport": "Милемлы юрттэ",
-	"wikimedia-copyright": "Текстэз татысь шедьтоно <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Лицензия Creative Commons Attribution-ShareAlike</a>;\nмукет условиос но луыны быгато.\n<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use \">Уже кутон условиосты</a> пыр-почгес лыдӟе.",
-	"wikimedia-copyrightwarning": "Воштонъёсты шараяса, тӥ соглаш луиськоды [https://foundation .wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Условия использования], тӥ быдэсак соглаш луиськоды шараяны асьтэ уждэс, та куронъёсты лыдэ басьтыса[https://creativecommons.org/licenses/by-sa/4.0/deed.en Лицензия CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nТӥ соглаш луиськоды  Creative Commons лицензиез чакласа пуктэм гиперчӧлсконэн яке URL-адресэн, кудъёсыз возьмато тӥлесьтыд автор луэмдэс.",
+	"wikimedia-copyright": "Текстэз татысь шедьтоно <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Лицензия Creative Commons Attribution-ShareAlike</a>;\nмукет куронъёс но луыны быгато.\n<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use \">Уже кутон куронъёсты</a> пыр-почгес лыдӟе.",
+	"wikimedia-copyrightwarning": "Воштонъёсты шараяса, тӥ соглаш луиськоды [https://foundation .wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Уже кутон куронъёсын], тӥ быдэсак соглаш луиськоды шараяны асьтэ уждэс, та куронъёсты лыдэ басьтыса[https://creativecommons.org/licenses/by-sa/4.0/deed.en Лицензия CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nТӥ соглаш луиськоды  Creative Commons лицензиез чакласа пуктэм гиперчӧлсконэн яке URL-интыпусэн, кудъёсыз возьмато тӥлесьтыд автор луэмдэс.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Гажаса ӧтиськом}}, $1!",
 	"wikibase-repo-name": "Викиданнойёс",
 	"wikibase-sitelinks-wikinews": "Викииворъёс",
@@ -28,9 +28,9 @@
 	"wikibase-otherprojects-wikisource": "Викитека",
 	"wikibase-otherprojects-wikivoyage": "Викигид",
 	"wikimedia-developers": "Лэсьтӥсьёс",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nВорсан лэсьтэмын вал $1 ($2).\nВозьматэм мугез: ''$3''.\n\n* Ворсанлэн кутсконэз: $4 \n* Ворсанлэн йылпумъяськемез: $5 \n\nТӥляд алиез IP-адресты — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:викимедиа-быдэсак ворсан-ворсам текст-янгыш}}",
-	"wikimedia-globalblocking-ipblocked-xff": "Ворсанэз лэсьтӥз  $1 ($2).\nВозьматэмын мугез: $3.\n* Ворсанлэн кутсконэз: $4\n* Ворсанлэн чаклам дырыз: $5\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:викимедиа-быдэсак ворсан-ворсам текст-янгыш}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБорӟет лэсьтэмын вал $1 ($2).\nВозьматэм мугез: ''$3''.\n\n* Борӟанлэн кутсконэз: $4 \n* Борӟанлэн йылпумъяськемез: $5 \n\nТӥляд алиез IP-интыпусты — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:викимедиа-быдэсак борӟам-борӟам гожтос-янгыш}}",
+	"wikimedia-globalblocking-ipblocked-xff": "Борӟетэз лэсьтӥз  $1 ($2).\nВозьматэмын мугез: $3.\n* Борӟанлэн кутсконэз: $4\n* Борӟанлэн чаклам дырыз: $5\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:викимедиа-быдэсак борӟам-борӟам гожтос-янгыш}}",
 	"wikimedia-centralauth-contribs-locked": "Та учётной запись глобально ӵогамын.\nУчке [[m:Special:CentralAuth/$1|огъя учётной записьлэсь даннойёссэ]] пыр-поч информация понна.",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Куки сярысь тупанкыл"
+	"wikimedia-cookiestatement": "Cookie-файлъёс сярысь положение"
 }

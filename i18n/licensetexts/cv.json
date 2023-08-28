@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Astahar",
 			"Chuvash2014",
 			"Multichill"
 		]
@@ -8,5 +9,9 @@
 	"wm-license-information-description": "Ăнлантаркăч",
 	"wm-license-information-source": "Çăлкуç",
 	"wm-license-information-date": "Дата",
-	"wm-license-information-author": "Автор"
+	"wm-license-information-author": "Автор",
+	"wm-license-information-permission": "Ирӗклӗхсем",
+	"wm-license-information-permission-reusing-text": "Ку файлпа тепре усӑ курни",
+	"wm-license-own-work": "Хӑвӑрӑн ӗҫ",
+	"wm-license-self-multiple-licenses-select": "Эсир ҫак лицензисенчен хӑть те хӑшне суйлама пултаратӑр."
 }
