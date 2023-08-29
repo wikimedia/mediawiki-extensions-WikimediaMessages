@@ -5,10 +5,15 @@
 		]
 	},
 	"wm-license-cc-attribution": "Atribuzzjon",
+	"wm-license-cc-by-sa-3.0-text": "Ki file ë liçenzartur ka [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Atribuzion-Ndajtur te viershi paraç 3.0 Unported].",
 	"wm-license-cc-free": "Je liberu të:",
 	"wm-license-cc-free-to-share-header": "të shprishet",
 	"wm-license-cc-free-to-share-text": "të kopiar, shprish e qell l'opera",
 	"wm-license-cc-free-to-remix-header": "të modifikar",
+	"wm-license-cc-free-to-remix-text": "adatar shurbëtirën",
+	"wm-license-cc-conditions": "Nën kondizjonet çë vijën:",
 	"wm-license-cc-conditions-attribution-header": "atribuzzjoni",
-	"wm-license-cc-conditions-share_alike-header": "ndan paraç"
+	"wm-license-cc-conditions-attribution-text": "Ke mbsogn të furnirsh kreditet të apropriartur, gnë kolegament te liçenza, e shkruash çë ndrove. Mënd e bësh me edukazjon, ma jo te gnë viersh çë sugiriret se liçenzianti merr l'usu jit.",
+	"wm-license-cc-conditions-share_alike-header": "ndan paraç",
+	"wm-license-cc-conditions-share_alike-text": "na ndrosh o sviluparsh materialet, ka distrbuirsh kontributet tuaj in basi te [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses liçenza paraç o kompatibili]"
 }
