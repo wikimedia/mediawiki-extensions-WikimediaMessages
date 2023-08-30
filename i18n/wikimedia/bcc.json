@@ -3,11 +3,12 @@
 		"authors": [
 			"Baloch Afghanistan",
 			"Mostafadaneshvar",
-			"Sultanselim baloch"
+			"Sultanselim baloch",
+			"Moshtank"
 		]
 	},
 	"wikimediamessages-desc": "کوله یان مخصوص ویکی‌مدیا",
-	"sitesupport": "بکش",
+	"sitesupport": "ھئیرات",
 	"tooltip-n-sitesupport": "ما را حمایت کنیت",
 	"group-accountcreator": "حساب شرکنوکان",
 	"group-accountcreator-member": "حساب شرکنوک",
@@ -42,7 +43,14 @@
 	"group-translationadmin-member": "{{GENDER:$1|ترجمه یی مدیر}}",
 	"grouppage-translationadmin": "{{ns:project}}:رجانکء سرمستراں",
 	"group-wmf-researcher": "پژوهشگران بنیاد ویکی‌مدیا",
+	"wikibase-sitelinks-wikinews": "ویکی ھال",
+	"wikibase-sitelinks-wikiquote": "ویکی گُشتانک",
+	"wikibase-sitelinks-wikisource": "ویکی سرچممگ",
+	"wikibase-sitelinks-wikivoyage": "ویکی سئیل",
+	"wikimedia-developers": "دݔمابرۏکان",
 	"right-superprotect": "تغیر داتین  سوپر حپاظتی ین سطحی",
 	"protect-level-superprotect": "تانا اجازه په سوپر حپاظتی ین کار گیروکان",
-	"restriction-level-superprotect": "سوپر حپاظت"
+	"restriction-level-superprotect": "سوپر حپاظت",
+	"wikimedia-statslink": "سابان",
+	"wikimedia-cookiestatement": "کوکیءِ پئیگام"
 }
