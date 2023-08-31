@@ -4,8 +4,13 @@
 			"Moshtank"
 		]
 	},
-	"wm-license-information-description": "توضیح",
+	"wm-license-gfdl-1.2-and-later": "کپی یا شِنگ کنگ یا دگہ ٹگل مہ اے سَندءِ تۏکا مہ '''[[{{int:wm-license-gfdl-wiki-link}}|گنوءِ آزاتݔن سندانءِ مننتاک]]'''ا، چہ ورژن ۱٫۲ یا ھر دگہ نۏکݔن ورژنے کہ رندا [[{{int:wm-license-fsf-wiki-link}}|آزاتݔن لھم ابزارءِ بندات]] شِنگءَ کَنت بے ناٹگلݔن بھران، پۏش سرءِ نبشتہ ئانءُ پۏشءِ پشتءِ نبشتہ ئان دیگءَ بیت. یک کپی‌ئے چہ اے مننتاکا مہ بھرے گۏن ''[[{{int:wm-license-gfdl-full-1.2-link}}|گنوءِ آزاتݔن سندانءِ مننتاکءِ]]'' سرگالا ھۏر کنگ بیتگ۔",
+	"wm-license-information-description": "بارہ‌",
 	"wm-license-information-source": "سرچممگ",
-	"wm-license-information-date": "تاریح",
-	"wm-license-information-author": "نویسوک"
+	"wm-license-information-date": "رمس",
+	"wm-license-information-author": "لککۏک",
+	"wm-license-information-permission": "مننتاک/اجازت",
+	"wm-license-information-permission-reusing-text": "اے پایلءِ پدا کار گِرگ",
+	"wm-license-own-work": "جِندءِ کار",
+	"wm-license-self-multiple-licenses-select": "تۏن اِت وتی واھشتءِ سرا یک مننتاکے گچݔن بہ کن اِت"
 }

@@ -4,9 +4,13 @@
 			"Martindimaggio"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Mënd kopiarsh, distribuirsh e modifikarsh ktë dokument nën terminet ka '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 o gnë version i sprasëm i publikarm ka [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pa sezzjonet çë nëng mënd modifikaren, pa testi të kopertinës. Gnë kopia të liçenzës inkluiret te sezioni pa titulu '[[{{int:wm-license-gfdl-full-1.2-link}}|Testi të GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Deskrizjon",
 	"wm-license-information-source": "Krua",
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Autori",
-	"wm-license-own-work": "Shurburtira propriu"
+	"wm-license-information-permission": "Liçenza",
+	"wm-license-information-permission-reusing-text": "Riutilizzar ktë file",
+	"wm-license-own-work": "Shurburtira propriu",
+	"wm-license-self-multiple-licenses-select": "Mënd skatarsh gnë liçenzë çë do."
 }

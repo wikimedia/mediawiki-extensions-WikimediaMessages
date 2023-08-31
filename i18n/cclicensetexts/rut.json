@@ -4,6 +4,8 @@
 			"Rut"
 		]
 	},
+	"wm-license-cc-attribution": "Хасиет",
+	"wm-license-cc-by-sa-3.0-text": "Мид файл ачихды йи лицензия [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]",
 	"wm-license-cc-free": "Вас ихтияр аI ачыханны:",
 	"wm-license-cc-free-to-share-header": "сигын",
 	"wm-license-cc-free-to-share-text": "копия эгъетIин, пай гьыъын н хъывын мид эсер",
@@ -11,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "эсер дюз гьыъын",
 	"wm-license-cc-conditions": "Эгер мид выъын:",
 	"wm-license-cc-conditions-attribution-header": "хасиет",
-	"wm-license-cc-conditions-share_alike-header": "Сакалды лицензия пай гьыъын"
+	"wm-license-cc-conditions-attribution-text": "Вы должны указать авторство, предоставить ссылку на лицензию и указать, внёс ли автор какие-либо изменения. Это можно сделать любым разумным способом, но не создавая впечатление, что лицензиат поддерживает вас или использование вами данного произведения.",
+	"wm-license-cc-conditions-share_alike-header": "Сакалды лицензия пай гьыъын",
+	"wm-license-cc-conditions-share_alike-text": "Если вы изменяете, преобразуете или создаёте иное произведение на основе данного, то обязаны использовать лицензию исходного произведения или [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses лицензию, совместимую с исходной]."
 }
