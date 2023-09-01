@@ -39,7 +39,7 @@
 	"group-sysadmin": "مدیران سیستم",
 	"group-sysadmin-member": "مدیر سیستم",
 	"group-translationadmin": "رجانکء سرمستراں",
-	"group-translationadmin-member": "{{GENDER:$1|ترجمه یی مدیر}}",
+	"group-translationadmin-member": "{{GENDER:$1|رجانکءِ کارمستر}}",
 	"grouppage-translationadmin": "{{ns:project}}:رجانکء سرمستراں",
 	"group-wmf-researcher": "پژوهشگران بنیاد ویکی‌مدیا",
 	"wikimedia-copyright": "اشیءِ دسترسی<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"> کریتیو کامنز ھمرسانیءِ لایسنسءِ</a> سرا: گݔشترݔن چیز اگہ شما لۏٹ اِت گُدا <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ادا</a> بہ چار اِت۔",
