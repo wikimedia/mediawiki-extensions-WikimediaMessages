@@ -16,5 +16,7 @@
 	"please-translate": "Hjälp till att översätta till ditt språk",
 	"thank-you": "{{GENDER:$1|Tack.}}",
 	"specialblockfeedback": "Återkoppling",
-	"specialinvestigate-feedback": "Lämna återkoppling"
+	"specialinvestigate-feedback": "Lämna återkoppling",
+	"graph-disabled-category": "Sidor med inaktiverade grafer",
+	"graph-disabled-category-desc": "Sidan innehåller en<code><nowiki><graph></nowiki></code>-tagg, som tillfälligt inte är tillgänglig ([[phab:T334940|T334940]])."
 }

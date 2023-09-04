@@ -28,9 +28,9 @@
 	"wikibase-sitelinks-wikiquote": "Викицитат",
 	"wikibase-sitelinks-wikisource": "Викикундо",
 	"wikibase-sitelinks-wikivoyage": "Вики килангт",
-	"wikimedia-developers": "Кастыцят-келейгавтыцят",
+	"wikimedia-developers": "Теицят",
 	"wikimedia-globalblocking-ipblocked": "\"\"{{int:wikimedia-globalblocking-blockedtext-all-wikis}}\"\"\n\nКардамось ульнесь теезь $1 ($2).\nНевтезь тувтал: \"$3\".\n\n* Кардамонь ушодовома: $4\n* Кардамонь прядовома: $5\n\nТонь неень шкань IP-адрес — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "\"\"{{int:wikimedia-globalblocking-blockedtext-on-proxy}}\"\"\n\nКардамось ульнесь теезь $1 ($2).\nНевтезь тувтал: \"$3\".\n\n* Кардамонь ушодовома: $4\n* Кардамонь прядовома: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-statslink": "Статистикат",
-	"wikimedia-cookiestatement": "Нумолонь кшитнеде ёвтамо"
+	"wikimedia-statslink": "Ловомат",
+	"wikimedia-cookiestatement": "Куки файлатнеде ёвтамо"
 }
