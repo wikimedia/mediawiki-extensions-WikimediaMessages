@@ -3,7 +3,8 @@
 		"authors": [
 			"Chavash",
 			"Chuvash2014",
-			"PCode"
+			"PCode",
+			"Astahar"
 		]
 	},
 	"sitesupport": "Пулăшăр",
@@ -12,5 +13,11 @@
 	"group-steward": "Стюардсем",
 	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ru\">Creative Commons Attribution-ShareAlike лицензиллӗ</a>, Хӑшпӗр чух урӑхла пулма пултарать. Туллин пӗлме. <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Условия использования</a> пӑх.",
 	"wikibase-repo-name": "Wikidata",
-	"wikimedia-developers": "Система тӑвакансем"
+	"wikibase-sitelinks-wikinews": "Викихыпарсем",
+	"wikibase-sitelinks-wikiquote": "Викицитатник",
+	"wikibase-sitelinks-wikisource": "Викитека",
+	"wikibase-sitelinks-wikivoyage": "Викигид",
+	"wikimedia-developers": "Система тӑвакансем",
+	"wikimedia-statslink": "Статистика",
+	"wikimedia-cookiestatement": "Кукес пирки пӗлтерни"
 }

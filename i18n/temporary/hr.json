@@ -3,14 +3,16 @@
 		"authors": [
 			"Bugoslav",
 			"Dalibor Bosits",
-			"Neptune, the Mystic"
+			"Neptune, the Mystic",
+			"MaGa",
+			"Ponor"
 		]
 	},
 	"wikimediamessages-desc": "Privremene poruke svojevrsne za Wikimediju",
 	"grouppage-oversight": "{{ns:project}}:Nadglednici",
 	"group-oversight": "Nadglednici",
 	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
-	"hello": "Bok",
+	"hello": "Pozdrav!",
 	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
 	"specialblockfeedback": "Povratne informacije"
