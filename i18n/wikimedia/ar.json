@@ -44,7 +44,8 @@
 			"Amire80",
 			"NEHAOUA",
 			"أيوب",
-			"عبد الإله صديقي"
+			"عبد الإله صديقي",
+			"Hubaishan"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -324,7 +325,7 @@
 	"action-editextendedsemiprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editextendedsemiprotected}}\"",
 	"right-editextendedsemiprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "السماح فقط للمراجعين تلقائيا",
-	"restriction-level-editextendedsemiprotected": "محمية على مستوى اللمراجعين تلقائيا",
+	"restriction-level-editextendedsemiprotected": "محمية على مستوى المراجعين تلقائيا",
 	"action-banner-protect": "حماية الرسائل القابلة للترجمة التي تتم معالجتها بواسطة ملحق الترجمة وتضمينها في لافتات الإشعار المركزي",
 	"eri-rcfilters-tour-intro-welcome-title": "مرحبا بك في ميزة تصفية أحدث التغييرات",
 	"eri-rcfilters-tour-intro-welcome-description": "مراجعة التعديلات بشكل أكثر فاعلية باستخدام فلاتر جديدة، والقدرة على حفظ مجموعات من الفلاتر، والتمييز المحدد من قِبل المستخدم، وقوة تعلم الآلة. $1",
@@ -361,7 +362,7 @@
 	"right-editautoreviewprotected": "تعديل الصفحات المحمية على مستوى \"{{int:protect-level-editautoreviewprotected}}\"",
 	"action-editautoreviewprotected": "تعديل الصفحات المحمية على مستوى \"{{int:protect-level-editautoreviewprotected}}\"",
 	"protect-level-editautopatrolprotected": "السماح فقط للمراجعين تلقائيا",
-	"restriction-level-editautopatrolprotected": "محمية على مستوى اللمراجعين تلقائيا",
+	"restriction-level-editautopatrolprotected": "محمية على مستوى المراجعين تلقائيا",
 	"right-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "تحرير الصفحات المحمية كـ\"{{int:protect-level-editautopatrolprotected}}\"",
 	"group-docseditor": "محررو التوثيق",

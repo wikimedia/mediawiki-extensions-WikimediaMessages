@@ -40,7 +40,7 @@
 	"group-sysadmin": "مدیران سیستم",
 	"group-sysadmin-member": "مدیر سیستم",
 	"group-translationadmin": "رجانکء سرمستراں",
-	"group-translationadmin-member": "{{GENDER:$1|ترجمه یی مدیر}}",
+	"group-translationadmin-member": "{{GENDER:$1|رجانکءِ کارمستر}}",
 	"grouppage-translationadmin": "{{ns:project}}:رجانکء سرمستراں",
 	"group-wmf-researcher": "پژوهشگران بنیاد ویکی‌مدیا",
 	"wikibase-sitelinks-wikinews": "ویکی ھال",
