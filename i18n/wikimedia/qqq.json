@@ -187,7 +187,7 @@
 	"grouppage-curator": "{{doc-group|curator|page}}",
 	"group-global-bot": "{{doc-group|global-bot}}",
 	"group-global-bot-member": "{{doc-group|global-bot|member}}",
-	"grouppage-global-bot": "{{notranslate}}\n{{doc-group|global-bot|page}}\n{{Global grouppage}}",
+	"grouppage-global-bot": "{{Global grouppage}}",
 	"group-global-deleter": "{{doc-group|global-deleter}}",
 	"group-global-deleter-member": "{{doc-group|global-deleter|member}}",
 	"grouppage-global-deleter": "{{global grouppage}}",

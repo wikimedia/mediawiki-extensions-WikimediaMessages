@@ -9,7 +9,7 @@
 			"Сантяй"
 		]
 	},
-	"sitesupport": "Лезксъярмаконь максома",
+	"sitesupport": "Лезксэнь максома",
 	"tooltip-n-sitesupport": "Макста миненек нежедематарка",
 	"group-confirmed": "Кемекстань сёрмадыцят",
 	"group-confirmed-member": "кемекстазь сёрмадыця",
@@ -21,7 +21,7 @@
 	"group-steward": "Туросторт",
 	"group-steward-member": "туростор",
 	"group-sysadmin": "Системань администраторт",
-	"wikimedia-copyright": "Сёрмакодстось саеви <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Лемдик-ЯвшикВейкетьстэ</a> лиценциясо;\nполадкс условияяк эрси.\nВарштыка <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Тевс нолдамонь вешемат</a> лопа лангс.",
+	"wikimedia-copyright": "Сёрмадовксось неяви <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nлиясто эрсить лия ёнкст.\nСеде домкасто варштак <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">лопань</a> тевс нолдамонть лангс.",
 	"wikimedia-copyrightwarning": "Полавтоматнень ванстозь тон прат ве мельс",
 	"wikimedia-mobile-mainpage-title-loggedin": "Шумбрачи, $1!",
 	"wikibase-sitelinks-wikinews": "Викикулят",
@@ -31,6 +31,6 @@
 	"wikimedia-developers": "Теицят",
 	"wikimedia-globalblocking-ipblocked": "\"\"{{int:wikimedia-globalblocking-blockedtext-all-wikis}}\"\"\n\nКардамось ульнесь теезь $1 ($2).\nНевтезь тувтал: \"$3\".\n\n* Кардамонь ушодовома: $4\n* Кардамонь прядовома: $5\n\nТонь неень шкань IP-адрес — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "\"\"{{int:wikimedia-globalblocking-blockedtext-on-proxy}}\"\"\n\nКардамось ульнесь теезь $1 ($2).\nНевтезь тувтал: \"$3\".\n\n* Кардамонь ушодовома: $4\n* Кардамонь прядовома: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-statslink": "Ловомат",
+	"wikimedia-statslink": "Ловома",
 	"wikimedia-cookiestatement": "Куки файлатнеде ёвтамо"
 }
