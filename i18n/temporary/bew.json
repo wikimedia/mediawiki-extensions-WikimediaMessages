@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bangrapip"
+		]
+	},
+	"wikimediamessages-desc": "Pesen sementara husus Wikimédia",
+	"grouppage-oversight": "{{ns:project}}:Pendelok",
+	"group-oversight": "Pendelok",
+	"group-oversight-member": "{{GENDER:$1|pendelok}}",
+	"hello": "Tabé",
+	"please-translate": "Tulung bantuin nerjemahin ke lu punya basa",
+	"thank-you": "{{GENDER:$1|Makasi.}}",
+	"specialblockfeedback": "Empan balik",
+	"specialinvestigate-feedback": "Tinggalin empan balik",
+	"graph-disabled-category": "Halaman dengen gambar bèbèr nyang dimatiin",
+	"graph-disabled-category-desc": "Ni halaman nyerèntain tenger <code><nowiki><graph></nowiki></code>, nyang sekarang lagi kaga' kesedia ([[phab:T334940|T334940]])."
+}

@@ -3,6 +3,7 @@
 		"authors": [
 			"Alshamiri1",
 			"Asma",
+			"Dr-Taher",
 			"Dyolf77 (WMF)",
 			"FShbib",
 			"Ideophagous",
@@ -35,7 +36,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "بالنقر على \"{{int: flow-topic-action-unlock-topic}}\" ، فإنك توافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] وتوافق على إصدار النص الخاص بك بشكل لا رجعة فيه {{PLURAL:$2| under}} $1.",
 	"wikimedia-globalblocking-blockedtext-ip": "'' '{{int: wikimedia-globalblocking-blocktext-all-wikis}}' ''! N !! N! تم إنشاء الكتلة بواسطة $1 ! N! السبب المعطى هو '' $2 ''.! N! ! N! * بداية الحظر: $8 ! N! * انتهاء الحظر: $6 ! N !! N! عنوان IP الحالي الخاص بك هو $3 ! N! {{int: blocktext-include-details-queries}}! N! ! N! {{int: wikimedia-globalblocking-blocktext-error}}",
 	"wikimedia-globalblocking-blockedtext-range": "'' '{{int: wikimedia-globalblocking-blocktext-on-range}}' ''! N !! N! تم إنشاء الكتلة بواسطة $1 ! N! السبب المعطى هو '' $2 ''.! N! ! N! * بداية الحظر: $8 ! N! * انتهاء الحظر: $6 ! N !! N! عنوان IP الحالي الخاص بك هو $3 ! N! {{int: wikimedia-globalblocking-blocktext-ip-range | $7 }}! N !! N! {{int: blocktext-include-details-queries}}! N! {{int: wikimedia-globalblocking-blocktext-mistake}} {{int: wikimedia-globalblocking-blocktext-error- مضيف البريد الإلكتروني}}",
-	"wikimedia-globalblocking-blockedtext-xff": "'' '{{int: wikimedia-globalblocking-blocktext-on-proxy}}' ''! N !! N! تم إنشاء الكتلة بواسطة $1 ! N! السبب المعطى هو '' $2 ''.! N! ! N! * بداية الحظر: $8 ! N! * انتهاء الحظر: $6 ! N !! N! {{int: wikimedia-globalblocking-blocktext-proxy | $7 }}! N! {{int: blocktext-include-details-queries}}! N !! N! {{int: wikimedia-globalblocking-blocktext-mistake}}",
+	"wikimedia-globalblocking-blockedtext-xff": "'''هناك خادم أو أكثر يُستخدم بواسطة طلبك [[m:Special:MyLanguage/Global blocks|ممنوع عالميا]].'''\n\nقام $1 بالمنع.\nالسبب المعطى هو ''$2''.\n\n* بداية المنع: $8\n* نهاية المنع: $6\n\nعنوان البروكسي الممنوع كان $6.\nمن فضلك ضمِّن كل التفاصيل بالأعلى في أي استفسارات تقوم بها.\n\nلو كنت تعتقد أنه جرى منعك بالخطأ، يمكنك أن تجد معلومات وتعليمات إضافية في سياسة [[m:Special:MyLanguage/No open proxies|لا بروكسيهات مفتوحة]] العالمية.\nأو لمناقشة المنع من فضلك [[m:Steward requests/Global|قدم طلبا للمراجعة على ميتا ويكي]].",
 	"wikimedia-globalrenamequeue-email-body-approved": "تمت الموافقة على طلب إعادة تسمية \"{{GENDER:$1|$1}}\" إلى \"{{GENDER:$1|$2}}\"، بمجرد الانتهاء، ستتمكن من تسجيل الدخول باستخدام اسم المستخدم الجديد الخاص بك باستخدام كلمة مرورك القديمة. شكرا على مشاركتك في مشاريع ويكيميديا.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "تعذر إكمال طلب إعادة تسمية \"{{GENDER:$1|$1}}\" إلى \"{{GENDER:$1|$2}}\" could not be completed.\n\nملاحظة: $3\n\nلمزيد من المعلومات; تُرجَى زيارة صفحة المساعدة هذه: <https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>، لمناقشة طلب إعادة التسمية الخاص بك; يمكنك النشر في هذه الصفحة: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>، يجب أن تسجل الدخول إلى اسم حسابك الحالي أولا.",
 	"wikimedia-interfaceadmin-info": "تعديل ملفات CSS / JS / JSON على مستوى الموقع مقصور على أعضاء مجموعة [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
