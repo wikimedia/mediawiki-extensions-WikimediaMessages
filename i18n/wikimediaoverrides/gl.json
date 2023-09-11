@@ -4,12 +4,14 @@
 			"Athena in Wonderland",
 			"Banjo",
 			"Elisardojm",
-			"Toliño"
+			"Toliño",
+			"Avelino"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Os visitantes desta wiki usando o seu enderezo IP crearon {{PLURAL:$1|1 conta|$1 contas}} no último día, que é o máximo permitido neste período de tempo.\nComo resultado, os visitantes que usan ese enderezo IP non poden crear ningunha conta máis polo momento.\n\nSe vostede está nun evento centrado en facer achegas ós proxectos Wikimedia, por favor consulte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Solicitar a eliminación temporal da limitación IP]] para obter axuda sobre como resolver este problema.",
+	"wikimedia-acct_creation_throttle_hit": "Os visitantes deste wiki crearon {{PLURAL:$1|1 conta|$1 contas}} no último día usando o seu enderezo IP, que é o máximo permitido nese período de tempo.\nComo resultado, os visitantes que usan ese enderezo IP non poden crear ningunha conta máis polo de agora.\n\nSe estás nun evento centrado en facer achegas aos proxectos da Wikimedia, por favor, consulta a páxina de [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|solicitudes de eliminación temporal das limitacións por IP]] para obter axuda sobre como resolver este problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Non pode ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicite unha conta]]",
+	"wikimedia-createacct-imgcaptcha-help": "Non podes ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicita unha conta]]",
+	"wikimedia-centralauth-login-error-locked": "<strong>Esta conta está [[m:Special:MyLanguage/Global locks|bloqueada globalmente]].</strong> Non {{GENDER:$1|poderás}} iniciar sesión en ningún wiki da Wikimedia. Por favor, [[m:Special:Contact/stewards|contacta cos stewards]] se {{GENDER:$1|tes}} algunha dúbida.",
 	"wikimedia-centralauth-uwbr-intro": "Esta páxina lista os usuarios rexistrados neste wiki que sufrirán un cambio de nome debido á [[m:Single User Login finalisation announcement|finalización do rexistro de usuario único]]. Pode obter máis información sobre o [[m:Help:Unified login|rexistro único]]. Os usuarios poden solicitar un cambio de nome en calquera momento mediante [[Special:GlobalRenameRequest]].",
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nomes_de_usuario",
 	"wikimedia-delete-toobig": "Esta páxina ten un historial de edicións extenso, de máis de $1 {{PLURAL:$1|revisión|revisións}}.\nO borrado de páxinas con grandes historiais de edición está restrinxido para previr a disrupción accidental de {{SITENAME}}.\nPor favor, contacte cos [[m:Special:MyLanguage/Stewards|stewards]] en [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] para solicitar a eliminación desta páxina.",

@@ -5,10 +5,11 @@
 			"Denö",
 			"Rueter",
 			"Sura",
-			"MuratTheTurkish"
+			"MuratTheTurkish",
+			"Сантяй"
 		]
 	},
-	"sitesupport": "Лезксъярмаконь максома",
+	"sitesupport": "Лезксэнь максома",
 	"tooltip-n-sitesupport": "Макста миненек нежедематарка",
 	"group-confirmed": "Кемекстань сёрмадыцят",
 	"group-confirmed-member": "кемекстазь сёрмадыця",
@@ -27,7 +28,7 @@
 	"wikibase-sitelinks-wikiquote": "Викицитат",
 	"wikibase-sitelinks-wikisource": "Викикундо",
 	"wikibase-sitelinks-wikivoyage": "Вики килангт",
-	"wikimedia-developers": "Кастыцят-келейгавтыцят",
-	"wikimedia-statslink": "Статистикат",
-	"wikimedia-cookiestatement": "Нумолонь кшитнеде ёвтамо"
+	"wikimedia-developers": "Теицят",
+	"wikimedia-statslink": "Ловома",
+	"wikimedia-cookiestatement": "Куки файлатнеде ёвтамо"
 }

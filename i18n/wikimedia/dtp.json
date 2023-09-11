@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Meqqal"
+			"Meqqal",
+			"Jilorisa"
 		]
 	},
 	"sitesupport": "Puhawang",
+	"wikimedia-developers": "popopoburu",
+	"wikimedia-statslink": "tintob",
 	"wikimedia-cookiestatement": "Kointalangan kuki"
 }

@@ -323,6 +323,7 @@
 	"group-oathauth-tester": "2요소 인증 테스터",
 	"group-oathauth-tester-member": "{{GENDER:$1|2요소 인증 테스터}}",
 	"querypage-updates-half-monthly": "이 문서의 갱신은 한 달에 두 차례 수행됩니다.",
+	"protect-level-editautoreviewprotected": "자동 검토자만 허용",
 	"right-editautoreviewprotected": "\"{{int:protect-level-editautoreviewprotected}}\" 단계로 보호된 문서 편집",
 	"action-editautoreviewprotected": "\"{{int:protect-level-editautoreviewprotected}}\" 단계로 보호된 문서를 편집할",
 	"protect-level-editautopatrolprotected": "점검 면제자에게만 허용",
