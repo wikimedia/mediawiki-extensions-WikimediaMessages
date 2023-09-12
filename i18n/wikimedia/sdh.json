@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"NR Deblocked",
-			"Paraw2"
+			"Paraw2",
+			"TerranBoy"
 		]
 	},
 	"sitesupport": "بەخشین وە ویکیپیدیا",
@@ -15,5 +16,6 @@
 	"wikibase-sitelinks-wikivoyage": "ویکیسەفەر",
 	"wikimedia-developers": "پەرەپێدەرەیل",
 	"wikimedia-statslink": "ئامارەگان",
+	"wikimedia-cookiestatement": "بەیانیەی کووکی",
 	"protect-level-editautopatrolprotected": "هەر تەنیا گەشتەڵەیل ئجازە دێرن"
 }
