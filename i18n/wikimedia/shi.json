@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AguzulH",
 			"Amara-Amaziɣ",
 			"Amire80",
 			"Ayour2002",
@@ -22,6 +23,6 @@
 	"wikimedia-developers": "Imsɣiwsn",
 	"wikimedia-globalblocking-ipblocked": "'''Tansa IP nnk [[m:Special:MyLanguage/Global blocks|ttugdal ɣ akkʷ iwikitn]].'''\n\nAgddul iskr t $1 ($2).\nTamntilt ittufkan tga tt ''$3''.\n\n* Antti n ugddul : $4\n* Tigira n ugddul : $5\n\nTansa nnk IP tamirant tga tt $6.\nIɣ as tufit, skcm icmumma akkʷ n yizdar ɣ ku tuttra nna tskrt.\n\nIɣ tnnit is tettugdald s uzgal, tzḍart ad taft ugga n inɣmisn d wumlan ɣ tsrtit tamatayt [[m:Special:MyLanguage/No open proxies|Uu illi kran upṛuksi irẓmn]].\nNɣ, iɣ trit ad tmsgdald f ugddul ad [[m:Steward requests/Global|azn yat tuttra n uzzray ɣ Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yan nɣ mnnaw n iqddacn inɣlifn tssmrs tuttra nnk  [[m:Special:MyLanguage/Global blocks|ttugdaln s umata]].'''\n\nAgddul iskr t $1 ($2).\nAsrag ittufkan iga t ''$3''.\n\n* Antti n ugddul : $4\n* Tigira n ugddul : $5\n\ntansa n unɣlif ittugdaln tga tt $6.\nIɣ as tufit, ssidf icmumma akk n yizdar ɣ ku tuttra nna tskrt.\n\nIɣ tnnit mas tettugdald ɣar ɣmknna, tzḍart ad taft uggar n inɣmisn d wumlan ɣ tsrtit tamatayt [[m:Special:MyLanguage/No open proxies|ur illi unɣlif irẓmn]].\nNɣ, iɣ trit ad tmsawald f ugddul, iɣ tufit [[m:Steward requests/Global|azn yattuttra n uzzray  i Meta-Wiki]].",
-	"wikimedia-statslink": "Tisiḍam",
+	"wikimedia-statslink": "Tisiḍan",
 	"wikimedia-cookiestatement": "Tasɣrut n Ikukizn"
 }
