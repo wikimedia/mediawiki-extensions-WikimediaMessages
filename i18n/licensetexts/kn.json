@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Nayvik",
-			"Omshivaprakash"
+			"Omshivaprakash",
+			"~aanzx"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU ಉಚಿತ ಡಾಕ್ಯುಮೆಂಟೇಶನ್ ಪರವಾನಗಿ]]''', ಆವೃತ್ತಿಯ ನಿಯಮಗಳ ಅಡಿಯಲ್ಲಿ ಈ ಡಾಕ್ಯುಮೆಂಟ್ ಅನ್ನು ನಕಲಿಸಲು, ವಿತರಿಸಲು ಮತ್ತು/ಅಥವಾ ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿಯನ್ನು ನೀಡಲಾಗಿದೆ. 1.2 ಅಥವಾ ಯಾವುದೇ ನಂತರದ ಆವೃತ್ತಿಯನ್ನು [[{{int:wm-license-fsf-wiki-link}}|ಉಚಿತ ಸಾಫ್ಟ್‌ವೇರ್ ಫೌಂಡೇಶನ್]] ಪ್ರಕಟಿಸಿದೆ; ಯಾವುದೇ ಅಸ್ಥಿರ ವಿಭಾಗಗಳಿಲ್ಲದೆ, ಮುಖ ಪಠ್ಯಗಳಿಲ್ಲ ಮತ್ತು ಹಿಂದಿನ ಕವರ್ ಪಠ್ಯಗಳಿಲ್ಲ. ಪರವಾನಗಿಯ ಪ್ರತಿಯನ್ನು ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU ಉಚಿತ ಡಾಕ್ಯುಮೆಂಟೇಶನ್ ಪರವಾನಗಿ]]'' ಎಂಬ ವಿಭಾಗದಲ್ಲಿ ಸೇರಿಸಲಾಗಿದೆ.",
 	"wm-license-information-description": "ವಿವರ",
 	"wm-license-information-source": "ಆಕರ",
 	"wm-license-information-date": "ದಿನಾಂಕ",
