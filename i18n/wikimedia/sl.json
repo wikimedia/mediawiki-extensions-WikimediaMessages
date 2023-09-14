@@ -8,7 +8,8 @@
 			"Nemo bis",
 			"Smihael",
 			"Upwinxp",
-			"Yerpo"
+			"Yerpo",
+			"Amire80"
 		]
 	},
 	"wikimediamessages-desc": "Posebna sporočila Wikimedie",
@@ -355,7 +356,7 @@
 	"gadget-curidlink-link-by-id": "Povezava z ID-jem",
 	"gadget-curidlink-link-by-id-desc": "Prikaži povezavo do te strani z njenim ID-jem",
 	"gadget-souspages-subpages": "Podstrani",
-	"ext-campaignevents-register-policy": "Z registracijo izražate strinjate s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Pogoji uporabe], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Pravilnikom o zasebnosti] [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Univerzalnim kodeksom ravnanja] in vsemi lokalnimi pravili prijateljskega ravnanja, ki so jih sprejeli organizatorji dogodka.",
+	"ext-campaignevents-register-policy": "Z registracijo izražate strinjate s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Pogoji uporabe], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Pravilnikom o zasebnosti], [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Splošnim kodeksom ravnanja] in vsemi lokalnimi pravili prijateljskega ravnanja, ki so jih sprejeli organizatorji dogodka.",
 	"ext-campaignevents-registration-form-policy": "Dogodki, ki jih gosti ali financira Fundacija Wikimedia, morajo upoštevati vse pravilnike Fundacije Wikimedia, vključno s [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy Pravilnikom o prijateljskem prostoru].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Za več informacij glejte [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement izjavo o zasebnosti] za to anketo.",
 	"readinglists-import-app": "Za uvoz tega bralnega seznama namestite zadnjo različico aplikacije Wikipedija:",

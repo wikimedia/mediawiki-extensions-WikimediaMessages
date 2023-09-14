@@ -1,9 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Paraw2"
+			"Paraw2",
+			"TerranBoy"
 		]
 	},
+	"wm-license-artwork-artist": "هونەرمەند",
+	"wm-license-artwork-title": "سەرناو",
+	"wm-license-artwork-references": "سەرچاوەیل",
+	"wm-license-book-editor": "دەسکاریکەر",
+	"wm-license-book-illustrator": "وێنەکێش",
+	"wm-license-book-language": "زوان",
+	"wm-license-book-printer": "چاپکەر",
+	"wm-license-book-start-this-book": "ئەی کتاوە دەس وەپێ بکە",
+	"wm-license-book-subtitle": "ژێرنۊس",
+	"wm-license-book-title": "سەرناو",
+	"wm-license-book-translator": "دیلمانج",
+	"wm-license-book-year-of-publication": "ساڵ بڵاوکردنەوە",
+	"wm-license-creator-description": "وەسف",
 	"wm-license-information-description": "وەسف",
 	"wm-license-information-source": "سەرچاوە",
 	"wm-license-information-date": "ڕێکەفت",
