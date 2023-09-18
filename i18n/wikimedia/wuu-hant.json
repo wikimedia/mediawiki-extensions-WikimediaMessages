@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Winston Sung"
+			"Winston Sung",
+			"Benojan"
 		]
 	},
 	"sitesupport": "捐款",
-	"wikimedia-developers": "開發者",
+	"wikimedia-developers": "開發人",
 	"wikimedia-statslink": "統計",
-	"wikimedia-cookiestatement": "Cookie聲明"
+	"wikimedia-cookiestatement": "Cookie表態"
 }

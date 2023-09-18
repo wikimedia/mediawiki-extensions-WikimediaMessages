@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Better",
-			"Crucifunked"
+			"Crucifunked",
+			"MONUMENTA"
 		]
 	},
 	"sitesupport": "Donacionis",
 	"tooltip-n-sitesupport": "Ayúamus",
 	"specialpages-group-contribution": "Contribucionis/Fundraiser",
-	"wikimedia-developers": "Desarrollaerus"
+	"wikimedia-developers": "Desarrollaerus",
+	"interlanguage-link-sitename-wikipedia": "Güiquipedia, la ciclopedia que puei edital tola genti"
 }

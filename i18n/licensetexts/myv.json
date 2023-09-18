@@ -6,17 +6,17 @@
 			"Сантяй"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Мереви копировамс, сравтнемс ды/эли полавтнемс те тевконёвонть \"[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]\" од условиятнень мельсэ кирдезь 1.2 эли седе од версия, кона нолдазь [[{{int:wm-license-fsf-wiki-link}}|программань максомань олячинь Фондсо]], апак полавто пелькстэме, тексттэме, конат путозь васенце ды меельце лангакссо ды лемдязь \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",
-	"wm-license-information-description": "Чарькодевтема",
-	"wm-license-information-source": "Лисьмапрязо",
+	"wm-license-gfdl-1.2-and-later": "Мереви ламолгавтомс, сравтнемс ды/эли полавтнемс те тевконёвонть \"[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]\" од вешематнень мельсэ кирдезь 1.2 эли седе од версия, кона нолдазь [[{{int:wm-license-fsf-wiki-link}}|программань максомань олячинь Фондсо]], апак полавто пелькстэме, тексттэме, конат путозь васенце ды меельце лангакссо ды лемдязь \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",
+	"wm-license-information-description": "Сёрмадома",
+	"wm-license-information-source": "Лисьмапря",
 	"wm-license-information-source-missing": "Те файланть арась информация лисьмапрядонзо",
-	"wm-license-information-date": "Чи-ков",
-	"wm-license-information-author": "Теицязо",
+	"wm-license-information-date": "Шка",
+	"wm-license-information-author": "Арсиця",
 	"wm-license-information-author-missing": "Те файланть арась информация теицядонзо",
-	"wm-license-information-permission": "Видечи",
+	"wm-license-information-permission": "Прават",
 	"wm-license-information-permission-reusing-text": "Те файланть одов тевс нолдамозо",
 	"wm-license-information-permission-see-below": "Вант седе ало.",
 	"wm-license-information-other-versions": "Лият версият",
-	"wm-license-own-work": "Эсеть шкинемат",
-	"wm-license-self-multiple-licenses-select": "Кочкасак лиценсиянть мелеть коряс"
+	"wm-license-own-work": "Эсь важодема",
+	"wm-license-self-multiple-licenses-select": "Кочкик лицензиянть эсь мелеть коряс."
 }

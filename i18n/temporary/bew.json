@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bangrapip"
+		]
+	},
+	"wikimediamessages-desc": "Pesen sementara husus Wikimédia",
+	"grouppage-oversight": "{{ns:project}}:Pendelok",
+	"group-oversight": "Pendelok",
+	"group-oversight-member": "{{GENDER:$1|pendelok}}",
+	"hello": "Tabé",
+	"please-translate": "Tulung bantuin nerjemahin ke lu punya basa",
+	"thank-you": "{{GENDER:$1|Makasi.}}",
+	"specialblockfeedback": "Empan balik"
+}
