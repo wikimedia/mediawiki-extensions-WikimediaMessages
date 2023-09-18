@@ -127,7 +127,7 @@ class Hooks implements
 			// T86741
 			'centralauth-groupname',
 			// T345549
-			'wikimedia-checkuser-api-useragent-clienthints-explanation',
+			'checkuser-api-useragent-clienthints-explanation',
 			'checkuser-toollinks',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
