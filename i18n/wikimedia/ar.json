@@ -278,7 +278,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int: wikimedia-globalblocking-blocktext-all-wikis}}'''\nفُعل المنع بواسطة $1 ($2).\nالسبب المعطى هو ''$3''.\n\n* بداية المنع: $4 \n* انتهاء المنع:  $5\n\nعنوان الأيبي الحالي الخاص بك هو $6.\n\n {{int: blocktext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n\nالمنع تم بواسطة $1 ($2).\nالسبب المعطى هو ''$3''.\n\n* بداية المنع: $4\n* نهاية المنع: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}",
 	"wikimedia-torblock-blocked": "تم تحديد عنوان الآيبي الخاص بك، <strong>$1</strong>، تلقائيا كعقبة خروج تور.\nيتم منع التحرير من خلال تور لمنع سوء الاستخدام. \nللحصول على معلومات وإرشادات إضافية للمستخدمين الشرعيين; راجع السياسة العالمية [[m:Special:MyLanguage/No open proxies|لا بروكسهات مفتوحة]].",
-	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ar",
+	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ar",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy سياسة الخصوصية]",
 	"grant-checkuser": "الوصول لبيانات تدقيق المستخدم",
 	"upload-form-label-own-work-message-commons": "أقر بأنني أمتلك حقوق النشر الخاصة بهذا الملف ، وأوافق على إصدار هذا الملف بشكل نهائي إلى ويكيميديا كومنز بموجب [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike 4.0] الترخيص ، وأنا أوافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use].",
