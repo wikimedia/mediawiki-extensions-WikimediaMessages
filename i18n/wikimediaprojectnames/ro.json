@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Alesaru",
 			"Fitoschido",
 			"XXN"
 		]
 	},
+	"project-localized-name-lbewiki": "Lak Wikipedia",
 	"project-localized-name-thankyouwiki": "Mulțumesc",
 	"project-localized-name-wikidatawiki": "Wikidata"
 }
