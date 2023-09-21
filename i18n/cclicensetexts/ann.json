@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Itọn̄ inyi",
+	"wm-license-cc-by-sa-3.0-text": "Unye-ngon eyi failu yi ìre eyi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license.",
 	"wm-license-cc-free": "Owu môkọt:",
 	"wm-license-cc-free-to-share-header": "icheche ikana",
 	"wm-license-cc-free-to-share-text": "ichichibi, ichon mè iria inu yi isibi",
@@ -12,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "inwenwene ubọk-ikwaan̄ yi itap me ike oweekbe",
 	"wm-license-cc-conditions": "Mè ire ochieek irọrọ ikechi:",
 	"wm-license-cc-conditions-attribution-header": "itọn̄ yi",
-	"wm-license-cc-conditions-share_alike-header": "che ikeya si"
+	"wm-license-cc-conditions-attribution-text": "Owu òkaan̄ inyinyi itọn̄ ògbegbe, inyi ugọbọ òkisi lek license ya, mè itumu si mè ìre mînwene inu geege. Owu môkọt irọ ikeya me oniin̄ geelek òsisibi inu, ire, karọ me oniin̄ òborọ ibe ebi ene ekekeek ebe ke ogwukaan̄ îrọ owu inye mè ìyaka ire ke îrọ inu owu osabe irọ inye.",
+	"wm-license-cc-conditions-share_alike-header": "che ikeya si",
+	"wm-license-cc-conditions-share_alike-text": "Ire okpọk igwugwa, inwene, mè ìre inen̄e inu yi isa irọ ofifi inu, owu òkaan̄ icheche inu ya orọbe me [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license]ike îrebe me eyi adasi ya."
 }

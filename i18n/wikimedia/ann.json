@@ -7,12 +7,15 @@
 	"sitesupport": "Che ikpoko nyi",
 	"tooltip-n-sitesupport": "Bieen̄ eji nye",
 	"wikimedia-copyright": "Inu-nge ìkup me irak <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nofifi chieek-sabum môkọt ikup igbaalek.\nKpọ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyrightwarning": "Inyinyi unwene ibe esun̄, ìsibi ibe ke ochieek [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], mè ichieek, eyi kpebekọt igwu ikana, ibe ke okana ntap-nsọkọ kwun̄ inyi igọọk me [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] mè [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nochieek si ibe ke hyperlink mè ìre URL iso isasa irọ ibe eriọọn̄ ibe îre owu ogbe itọn̄ igọọk me Creative Commons license.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Onu}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiniyùs",
 	"wikibase-sitelinks-wikiquote": "Wikikwôt",
 	"wikibase-sitelinks-wikisource": "Wikisọọs",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyaji",
 	"wikimedia-developers": "Ebi nrom",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nÎre $1 ($2) otap ugban.\nIbot ìre ''$3''.\n\n* Igban ìbene me: $4\n* Igban ìbota me: $5\n\nIP address kwun̄ eyi mgbọ keyi ìre $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nÎre $1 ($2) otap ugban.\nIbot ìre ''$3''.\n\n* Igban ìbene me: $4\n* Igban ìbota me: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Ifuk-ndọmọ",
 	"wikimedia-cookiestatement": "Utumu eyi mbek"
 }
