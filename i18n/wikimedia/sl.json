@@ -330,7 +330,7 @@
 	"protect-level-editautopatrolprotected": "Dovoli samo samodejnim obhodnikom",
 	"restriction-level-editautopatrolprotected": "zaščita samodejnih obhodnikov",
 	"right-editautopatrolprotected": "Urejanje strani, zaščitenih kot  »{{int:protect-level-editautopatrolprotected}}«",
-	"action-editautopatrolprotected": "urejanje strani, zaščitenih kot  »{{int:protect-level-editautopatrolprotected}}«",
+	"action-editautopatrolprotected": "urejanje strani, zaščitenih kot »{{int:protect-level-editautopatrolprotected}}«",
 	"protect-level-edittrustedprotected": "Dovoli samo zaupanja vrednim uporabnikom",
 	"restriction-level-edittrustedprotected": "zaščita zaupanja vrednih uporabnikov",
 	"right-edittrustedprotected": "Urejanje strani, zaščitenih kot »{{int:protect-level-edittrustedprotected}}«",
