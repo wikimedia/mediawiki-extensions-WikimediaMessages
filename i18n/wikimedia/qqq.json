@@ -294,6 +294,7 @@
 	"wikibase-otherprojects-species": "Label for Wikispecies, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{related|Wikibase-otherprojects}}\n{{Identical|Wikispecies}}",
 	"wikibase-otherprojects-wikibooks": "Label for Wikibooks, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikibooks}}\n{{Related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-wikidata": "Label for Wikidata, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikidata}}\n{{related|Wikibase-otherprojects}}",
+	"wikibase-otherprojects-wikifunctions": "Label for Wikidata, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikifunctions}}\n{{related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-wikinews": "Label for Wikinews, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikinews}}\n{{related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-wikiquote": "Label for Wikiquote, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikipedia).\n{{Identical|Wikiquote}}\n{{related|Wikibase-otherprojects}}",
 	"wikibase-otherprojects-wikipedia": "Label for Wikipedia, listed as a sister project link in the sidebar of a Wikibase Client site (e.g. Wikivoyage).\n{{Identical|Wikipedia}}\n{{related|Wikibase-otherprojects}}",
