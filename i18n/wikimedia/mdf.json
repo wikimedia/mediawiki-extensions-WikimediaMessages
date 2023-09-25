@@ -10,15 +10,15 @@
 	"tooltip-n-sitesupport": "Макст тейнек лезкс",
 	"group-staff": "Персонал",
 	"group-staff-member": "Персоналста ломань",
-	"wikimedia-copyright": "Сёрмакодсь сявови <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nтага эрсихть иля ётт.\nСяда тов варжак <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Тевс нолдамань ётт</a> анцяйнятнень колга.",
+	"wikimedia-copyright": "Сёрматфкссь неяви <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nлияста эрсихть лия ёнкст.\nСяда крхкаста ванк <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">лопань</a> тевс нолдамать лангс.",
 	"wikimedia-copyrightwarning": "Ванфтомок полафтоматнень тон сафат фкя мяльс",
 	"wikibase-sitelinks-wikinews": "Викикулят",
 	"wikibase-sitelinks-wikiquote": "Викицитатань кочкай-сёрмалды",
 	"wikibase-sitelinks-wikisource": "Викитекась",
 	"wikibase-sitelinks-wikivoyage": "Викикилангонь вятнись",
-	"wikimedia-developers": "Касфтыхне-латцихне",
+	"wikimedia-developers": "Тиихне-латцихне",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nКардамась ульсь тиф $1 ($2).\nНяфтьф туфталсь: ''$3''.\n\n* Кардамань ушедомась: $4 \n* Кардамань аделавомась: $5 \n\nТонь тяниень IP-адресце— $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nПякстамась-лоткафомась ульсь тиф $1 ($2).\nНяфтьф туфталсь: ''$3''.\n\n* Кардамань ушедомась: $4 \n* Кардамань аделавомась: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-\nmistake}}",
-	"wikimedia-statslink": "Статистиксь",
+	"wikimedia-statslink": "Статистикась",
 	"wikimedia-cookiestatement": "Куки-ть колга мялень азома"
 }
