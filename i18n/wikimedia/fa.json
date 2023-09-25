@@ -41,7 +41,8 @@
 			"Justinianus",
 			"TAndic (WMF)",
 			"Beginneruser",
-			"Mohammad ebz"
+			"Mohammad ebz",
+			"Amire80"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -334,7 +335,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "به پالایه بهبودیافته فهرست پیگیری خوش آمدید",
 	"eri-wlfilters-tour-intro-preferences-description": "همیشه می‌توانید با رفتن به قسمت فهرست پیگیری در ترجیحات، فهرست پیگیری بهبودیافته را غیرفعال کنید.",
 	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده‌است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
-	"action-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
+	"action-viewdeletedfile": "مشاهدهٔ پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",
 	"wikimedia-statslink": "آمار",

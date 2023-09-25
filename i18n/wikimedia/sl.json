@@ -8,7 +8,8 @@
 			"Nemo bis",
 			"Smihael",
 			"Upwinxp",
-			"Yerpo"
+			"Yerpo",
+			"Amire80"
 		]
 	},
 	"wikimediamessages-desc": "Posebna sporočila Wikimedie",
@@ -324,7 +325,7 @@
 	"action-editautoreviewprotected": "urejanje strani, zaščitenih kot »{{int:protect-level-editautoreviewprotected}}«",
 	"protect-level-editautopatrolprotected": "Dovoli samo samodejnim obhodnikom",
 	"right-editautopatrolprotected": "Urejanje strani, zaščitenih kot  »{{int:protect-level-editautopatrolprotected}}«",
-	"action-editautopatrolprotected": "urejanje strani, zaščitenih kot  »{{int:protect-level-editautopatrolprotected}}«",
+	"action-editautopatrolprotected": "urejanje strani, zaščitenih kot »{{int:protect-level-editautopatrolprotected}}«",
 	"group-docseditor": "Urejevalci dokumentacije",
 	"group-docseditor-member": "{{GENDER:$1|urejevalec dokumentacije|urejevalka dokumentacije|urejevalec_ka dokumentacije}}",
 	"action-docseditor": "urejanje dokumentacije",
