@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alesaru"
+			"Alesaru",
+			"Strainu"
 		]
 	},
-	"search-interwiki-results-tlywiki": "Se afișează rezultate de la [[:tly:|Talysh Wikipedia]]."
+	"search-interwiki-results-tlywiki": "Se afișează rezultate de la [[:tly:|Wikipedia Talysh]]."
 }
