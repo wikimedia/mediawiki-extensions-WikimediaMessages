@@ -227,7 +227,7 @@
 	"grouppage-recursive-export": "{{notranslate}}\n{{doc-group|recursive-export|page}}\n{{Global grouppage}}",
 	"group-staff": "{{doc-group|staff|prefix=wmf-}}\n{{Identical|Staff}}",
 	"group-staff-member": "{{doc-group|staff|member|prefix=wmf-}}",
-	"grouppage-staff": "{{ignored}}\n{{global grouppage|site=[[:foundationsite:role/staff-contractors|wikimediafoundation.org]]}}",
+	"grouppage-staff": "{{ignored}}\n{{global grouppage}}",
 	"group-steward": "{{doc-group|steward}}",
 	"group-steward-member": "{{doc-group|steward|member}}",
 	"grouppage-steward": "{{notranslate}}\n{{doc-group|steward|page}}\n{{Global grouppage}}",

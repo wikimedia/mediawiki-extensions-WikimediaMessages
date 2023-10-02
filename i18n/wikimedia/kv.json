@@ -2,17 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Enye Lav",
-			"Merrahtar"
+			"Merrahtar",
+			"СерМар"
 		]
 	},
 	"sitesupport": "Донатавны",
 	"wikimedia-copyright": "Текстыс восьса <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\"> Creative Commons Attribution-ShareAlike лицензия серти</a>, но ӧткымынторсӧ вермӧ лоны урчитӧма мукӧд ногӧн. Унджык видзӧд <a href=\"https://foundation.wikimedia.org/wiki/Вӧдитчыны урчитанторъяс\">Вӧдитчыны урчитанторъясысь</a>.",
+	"wikimedia-copyrightwarning": "Вежсьӧмъяссӧ кольӧмӧн ті сетанныд сӧглас [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Вӧдитчан условиеясӧн] да сетанныд сӧглас йӧзӧдны ассьыныд пай бӧр косӧдтӧг [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] да [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nТі сетанныд сӧглас, мый гиперыстӧгыс либӧ URL лоас тырмымӧн авторство индӧм могысь Creative Commons лицензия серти.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Видза корам}}, $1!",
 	"wikibase-sitelinks-wikinews": "Вики выльторъяс",
 	"wikibase-sitelinks-wikiquote": "Викицитата",
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Викивояж",
 	"wikimedia-developers": "Удж вӧчысьяс",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлокируйтӧма $1 ($2).\nИндӧм помкаыс ''$3''.\n\n* Блокируйтӧмлӧн заводитчӧм: $4\n* Блокируйтӧмлӧн пом: $5\n\nТіян ӧнія IP-инпас: $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокируйтӧма $1 ($2).\nИндӧм помкаыс ''$3''.\n\n* Блокируйтӧмлӧн заводитчӧм: $4\n* Блокируйтӧмлӧн пом: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки кузя шыӧдчӧм"
 }

@@ -17,7 +17,7 @@
 	"group-oauthadmin": "OAuth-haldâšeijeeh",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth-haldâšeijee}}",
 	"shared-repo-name-shared": "Wikimedia Commonsist",
-	"wikimedia-copyright": "Tekstâ lii finniimist <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Nommâ-JyeviSiämmáánáál</a> -lisensáin. Laseiävtuh pyehtih leđe. Keejâ <a href=\"https://foundation.wikimedia.org/wiki/Käyttöehdot\">kevttimiävtuid</a>.",
+	"wikimedia-copyright": "Tekstâ lii finniimist <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.smn\">Creative Commons Nommâ-JyeviSiämmáánáál</a> -lisensáin. Laseiävtuh pyehtih leđe. Keejâ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">kevttimiävtuid</a>.",
 	"wikimedia-copyrightwarning": "Nubástusâid vuorkkiimáin tun čonnâsuuh nuávdittiđ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use kevttimiävtuid] já tuhhiittah tom, et tuu hammiimeh almostittojeh maaccâthánnáá [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 -lisens] já [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL:n] iävtui mield.\nTuhhiittah tom, et hyperliŋkkâ teikâ URL riäkkáá tahhee noomâtmân Creative Commons -lisens mield.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Tiervâpuáttim}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Wikikirjeh",

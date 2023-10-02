@@ -5,6 +5,13 @@
 		]
 	},
 	"sitesupport": "تبرع",
+	"wikimedia-copyright": "النصوص تحت <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">رخصة Creative Commons Attribution-ShareAlike</a>، ممكن تطبق  شروط إضافية.\nفي تفاصيل <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">بشروط الإستعمال</a>.",
+	"wikimedia-copyrightwarning": "تسيڤ التغييرات بيعنى إنك بتوافق ع [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الإستعمال]، وبتوافق بشكل نهائى ع التخلى عن مساهمتك بمواجب [https://creativecommons.org/licenses/by-sa/4.0/deed.en رخصة المشاع الإبداعى النسبة-الترخيص بالمثل 4.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة].\nأنت بتوافق أنو إسناد عبر رابط أو عنوان URL بيكفى بموجب رخصة المشاع الإبداعى.",
 	"wikibase-sitelinks-wikinews": "ويكي الأخبار",
-	"wikibase-sitelinks-wikisource": "ويكي مصدر"
+	"wikibase-sitelinks-wikiquote": "ويكي الاقتباس",
+	"wikibase-sitelinks-wikisource": "ويكي مصدر",
+	"wikibase-sitelinks-wikivoyage": "ويكي الرحلات",
+	"wikimedia-developers": "مطورون",
+	"wikimedia-statslink": "إحصائات",
+	"wikimedia-cookiestatement": "تصريح تعريف الإرتباطات"
 }
