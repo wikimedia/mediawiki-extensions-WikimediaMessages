@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Игорь Бродский"
+			"Игорь Бродский",
+			"Лариса Чиркова"
 		]
 	},
 	"wm-license-book-edition": "Pästand",
@@ -14,8 +15,13 @@
 	"wm-license-book-volume": "Tom",
 	"wm-license-book-year-of-publication": "Pästandan voz'",
 	"wm-license-creator-date-of-birth": "Sündunddat",
-	"wm-license-information-description": "Ümbrikirjutand",
-	"wm-license-information-source": "Purde",
-	"wm-license-information-date": "Dat",
-	"wm-license-information-author": "Avtor"
+	"wm-license-gfdl-1.2-and-later": "Anttas laskend kopiruida, levenzoitta da/libo tehta vajehtusid azjbumagas sändoiden mödhe '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Azjbumagoiden licenzii rahoita]]''', Verrsii 1.2 libo möhemba paindud versii [[{{int:wm-license-fsf-wiki-link}}|Programmoiden tegemižen fond]]; vajehtamatomita paloita, tekstoita ezikorel, da tekstoita tagakorel. Licenzijan kopii om antud eriži ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Kirjutuz",
+	"wm-license-information-source": "Lähte",
+	"wm-license-information-date": "Päiv",
+	"wm-license-information-author": "Tagii",
+	"wm-license-information-permission": "Laskend",
+	"wm-license-information-permission-reusing-text": "Failan toine kävutamine",
+	"wm-license-own-work": "Ičeze rad",
+	"wm-license-self-multiple-licenses-select": "Sinä void valita miččen taht licenzijan."
 }

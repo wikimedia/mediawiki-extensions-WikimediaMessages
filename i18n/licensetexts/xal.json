@@ -1,6 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Ukhant Erdemt"
+		]
 	},
-	"wm-license-information-description": "Тодлҗ бичлһн"
+	"wm-license-information-description": "Тодлҗ бичлһн",
+	"wm-license-information-source": "Экн-үүсвр",
+	"wm-license-information-date": "Өдр",
+	"wm-license-information-author": "Зокагч"
 }
