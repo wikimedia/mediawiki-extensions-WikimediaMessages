@@ -6,7 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Tegii",
-	"wm-license-cc-by-sa-3.0-text": "Necen failan voib kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]  licenzijan mödhe.",
+	"wm-license-cc-by-sa-3.0-text": "Necen failan voib kävutoitta [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported]  licenzijan mödhe.",
 	"wm-license-cc-by-sa-3.0-at-text": "Nece fail sab kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.ru Attribution-Share Alike 3.0 Avstrii]-licenzijan mödhe.",
 	"wm-license-cc-by-sa-3.0-au-text": "Nece fail sab kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.ru Attribution-Share Alike 3.0 Avstralii]-licenzijan mödhe.",
 	"wm-license-cc-by-sa-3.0-br-text": "Nece fail sab kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.ru Attribution-Share Alike 3.0 Brazilii]-licenzijan mödhe.",
@@ -43,7 +43,7 @@
 	"wm-license-cc-free-to-remix-text": "kebnenzoitta radon",
 	"wm-license-cc-conditions": "Mugoižiden sändoiden mödhe:",
 	"wm-license-cc-conditions-attribution-header": "tegii",
-	"wm-license-cc-conditions-attribution-text": "Teile pidab arvostada, antta tarkendusen licenzijale, da homaita, om-ik tehtud vajehtused. Sinä void tehta necidä hot' mitte taht formas, no ala meleta, miše licenzijan pidäi hüväksib sindai libo sinun kävutandad.",
+	"wm-license-cc-conditions-attribution-text": "Teile pidab arvostada, antta tarkendusen licenzijale, da homaita, om-ik tehtud vajehtused. Sinä void tehta necidä hot' miččes taht formas, no ala meleta, miše licenzijan pidäi hüväksib sindai libo sinun kävutandad.",
 	"wm-license-cc-conditions-share_alike-header": "ühtejitte jagamine",
-	"wm-license-cc-conditions-share_alike-text": "Ku sinä toimitad libo parembzoitad materialad, sinei pidab painda sen [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] kut original."
+	"wm-license-cc-conditions-share_alike-text": "Ku sinä toimitad libo parembzoitad materialad, sinei pidab painda sen [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] originaližes variantas."
 }
