@@ -2,11 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Huuchin",
-			"Nemo bis"
+			"Nemo bis",
+			"Ukhant Erdemt"
 		]
 	},
 	"sitesupport": "Өгх",
 	"tooltip-n-sitesupport": "Бидниг демҗтн",
 	"wikimedia-copyright": "Бичәснь <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike зөвшәл</a> дигтәһәр орлһта;\nНемгч болзан күчтә болх маһд.\nНәрн учр медхәр <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Керглх болзан</a> хәләтн.",
-	"wikimedia-developers": "Бадрачнр"
+	"wikibase-sitelinks-wikinews": "Вики медән",
+	"wikibase-sitelinks-wikiquote": "Вики эш татсн",
+	"wikibase-sitelinks-wikisource": "Вики эк-үүскл",
+	"wikibase-sitelinks-wikivoyage": "Викиайлл",
+	"wikimedia-developers": "Бадрачнр",
+	"wikimedia-statslink": "статистик",
+	"wikimedia-cookiestatement": "Cookie медгдл"
 }
