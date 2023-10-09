@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"FunLater"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "يسمح نسخ وتوزيع وتعديل هيدي الوثيقة تحت شروط '''[[{{int:wm-license-gfdl-wiki-link}}|رخصة جنو للوثائق الحرة]]'''، الإصدار 1.2 أو أي إصدار بعدو بتنشرو [[{{int:wm-license-fsf-wiki-link}}|مؤسسة البرمجيات الحرة]]؛ بلى أقسام ثابتة وبلى نصوص أغلفة أمامية ودون نصوص أغلفة خلفية. نسخة من الرخصة تم تضمينا بالقسم المسمى ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "الوصف",
+	"wm-license-information-source": "المصدر",
+	"wm-license-information-date": "التاريخ",
+	"wm-license-information-author": "المؤلف",
+	"wm-license-information-permission": "إذن",
+	"wm-license-information-permission-reusing-text": "إعادة استخدام هيدا الملف",
+	"wm-license-own-work": "عمل شخصي"
+}

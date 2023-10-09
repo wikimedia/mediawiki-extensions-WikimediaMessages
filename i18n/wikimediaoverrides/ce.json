@@ -8,5 +8,6 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Йеха аккаунт]]",
 	"wikimedia-centralauth-uwbr-intro": "ХӀокху агӀонгахь цӀерш хуьйцур йолу декъашхойн могӀам бу кху вики чохь дӀабазбела болу. Декъашхойн йиш йу муьлхачу хенахь шайн цӀерш хийца дехар дала [[Special:GlobalRenameRequest|хӀокху агӀонгахь]]. Кхин тӀе хаам хьажа  [[m:Single User Login finalisation announcement|кхузахь]] а, [[m:Help:Unified login|кхузахь]] а.",
+	"createacct-helpusername-url": "{{ns:Project}}:Декъашхойн_цӀерш",
 	"wikimedia-interfaceadmin-info": "Дукхахан йоцуш юкъарасайтийн CSS/JS/JSON-файлашна хийцамашбарна [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] тобанерачу декъашхоша бехкамбина. Кхин сов хаа хьажа [[m:Creation of separate user group for editing sitewide CSS/JS]]."
 }

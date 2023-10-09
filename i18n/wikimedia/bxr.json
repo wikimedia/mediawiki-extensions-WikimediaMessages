@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80"
+			"Amire80",
+			"Баир Балданов"
 		]
 	},
-	"sitesupport": "Хандиблаха"
+	"sitesupport": "Хандиблаха",
+	"wikimedia-developers": "Бэлэдхэгшэд",
+	"wikimedia-cookiestatement": "Куки тухай мэдүүлгэ"
 }

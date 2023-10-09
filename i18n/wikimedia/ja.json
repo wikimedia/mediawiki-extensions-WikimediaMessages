@@ -48,7 +48,12 @@
 			"ネイ",
 			"MathXplore",
 			"Yamagata Yusuke",
-			"DDesouza"
+			"DDesouza",
+			"Amire80",
+			"MagicAho",
+			"TAndic (WMF)",
+			"Yusuke1109",
+			"春春眠眠"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -242,6 +247,8 @@
 	"group-translationadmin": "翻訳管理者",
 	"group-translationadmin-member": "{{GENDER:$1|翻訳管理者}}",
 	"grouppage-translationadmin": "{{ns:project}}:翻訳管理者",
+	"group-wmf-officeit": "WMFオフィスIT",
+	"group-wmf-officeit-member": "{{GENDER:$1|WMFオフィスIT}}",
 	"group-wmf-researcher": "WMF調査員",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF調査員}}",
 	"grouppage-wmf-researcher": "m:WMF Researcher/ja",
@@ -351,6 +358,7 @@
 	"querypage-updates-half-monthly": "このページの更新は毎月2回実行されます。",
 	"querypage-updates-monthly": "このページの更新は毎月1回実行されます。",
 	"protect-level-editautoreviewprotected": "自動査読者のみ許可",
+	"restriction-level-editautoreviewprotected": "自動査読者保護",
 	"right-editautoreviewprotected": "「{{int:protect-level-editautoreviewprotected}}」の保護が設定されたページを編集",
 	"action-editautoreviewprotected": "「{{int:protect-level-editautoreviewprotected}}」の保護が設定されたページの編集",
 	"protect-level-editautopatrolprotected": "自動巡回者のみ許可",
