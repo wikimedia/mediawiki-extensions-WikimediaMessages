@@ -2,10 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Баир Балданов"
+			"Баир Балданов",
+			"Туяна Балданова"
 		]
 	},
-	"sitesupport": "Хандиблаха",
+	"sitesupport": "Хандиб үргэхэ",
+	"wikimedia-copyright": "зүбшөөрэлөөр бэшэлгэ эндэ байха <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike</a>, зарим ушарнуудта нэмэлтэ гуримууд табигданхай байжа болохо. Тодорхойгоор эндэ харагты <a href=\"https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru\"> Хэрэглэлгын гуримууд </a>.",
+	"wikimedia-copyrightwarning": "Хубилалтануудые сахин үлөөхэдөө, та\n[https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru хэрэглэлгын эрилтэнүүдые] зүбшөөнэт, мүн баһа [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] зүбшөөрэлнүүдээр һөөргэнь бусаалтагүйгөөр хэблүүлгые зүбшөөһэн болонот. Creative Commons зүбшөөрэлэй эрилтэнүүдээр тодоруулга хэхын тула гиперссылкэ гү, али хуудаһанай URL заахада болоно гэһэниие та мүн лэ зүбшөөнэт.",
+	"wikibase-sitelinks-wikinews": "Викимэдэсээсэл",
+	"wikibase-sitelinks-wikiquote": "Вики - эшэ татагша",
+	"wikibase-sitelinks-wikisource": "Викисан",
+	"wikibase-sitelinks-wikivoyage": "Викиаяншалга",
 	"wikimedia-developers": "Бэлэдхэгшэд",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) хаалта табигдаһан байна.\nЗаагдаһан шалтагаан: ''$3''.\n\n* Табигдаһан хаалтын эхин: $4 \n* Табигдаһан хаалтын эсэс: $5 \n\nТанай байгша IP-хаяг — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) хаалта табигдаһан байна.\nЗаагдаһан шалтагаан: ''$3''.\n\n* Табигдаһан хаалтын эхин: $4 \n* Табигдаһан хаалтын эсэс: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-statslink": "Тоо бүридхэл",
 	"wikimedia-cookiestatement": "Куки тухай мэдүүлгэ"
 }
