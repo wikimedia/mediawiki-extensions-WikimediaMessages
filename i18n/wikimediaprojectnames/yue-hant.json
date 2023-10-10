@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Winston Sung"
+			"Winston Sung",
+			"Hello903hello"
 		]
 	},
 	"project-localized-name-enwiki": "英文維基百科",
@@ -14,6 +15,7 @@
 	"project-localized-name-jawikiversity": "日文維基學府",
 	"project-localized-name-mgwiki": "馬拉加什文維基百科",
 	"project-localized-name-specieswiki": "維基物種",
+	"project-localized-name-zh_min_nanwiki": "閩南話維基百科",
 	"project-localized-name-zh_yuewiki": "粵文維基百科",
 	"project-localized-name-zhwiki": "中文維基百科",
 	"project-localized-name-zhwikibooks": "中文維基書本",

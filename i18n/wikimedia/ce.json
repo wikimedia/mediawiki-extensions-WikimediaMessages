@@ -3,7 +3,8 @@
 		"authors": [
 			"Nemo bis",
 			"Sasan700",
-			"Умар"
+			"Умар",
+			"Саид Мисарбиев"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиан спецификан хаамаш",
@@ -33,7 +34,7 @@
 	"group-abusefilter-helper-member": "{{GENDER:$1|зулам литтаран редактор}}",
 	"group-accountcreator": "Декъашхойн дӀайаздарш кхоллархой",
 	"group-accountcreator-member": "{{GENDER:$1|декъашхошан дӀайаздарш кхоллархо}}",
-	"grouppage-accountcreator": "{{ns:project}}:Декъашхойн дӀайаздарш кхоллархой",
+	"grouppage-accountcreator": "{{ns:project}}:Аккаунташ кхоллархой",
 	"group-arbcom": "Арбитражан комитетан декъашхой",
 	"group-arbcom-member": "{{GENDER:$1|арбитражан комитетан декъашхой}}",
 	"grouppage-arbcom": "{{ns:project}}:Арбитражан комитетан декъашхой",

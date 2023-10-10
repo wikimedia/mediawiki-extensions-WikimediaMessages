@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nurlan"
+			"Nurlan",
+			"Ajiniyaz Nurniyazov"
 		]
 	},
 	"project-localized-name-kkwiki": "Qazaqsha Wikipedia",
 	"project-localized-name-uzwiki": "Ózbekshe Wikipedia",
-	"project-localized-name-uzwiktionary": "Ózbekshe Wikisózlik"
+	"project-localized-name-uzwiktionary": "Ózbekshe Wikisózlik",
+	"project-localized-name-wikidatawiki": "Wikimaǵlıwmat"
 }
