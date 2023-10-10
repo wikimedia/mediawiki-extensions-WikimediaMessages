@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dgstranz"
+			"Dgstranz",
+			"No se"
 		]
 	},
-	"wm-codeofconduct": "Código de conducta"
+	"wm-codeofconduct": "Código de conducta",
+	"wm-techcodeofconduct": "Código de conducta"
 }
