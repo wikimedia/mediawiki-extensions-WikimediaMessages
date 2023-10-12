@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"Баир Балданов",
+			"Туяна Балданова"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' 1.2 хубилбариин гү, али бүри һүүлдэ [[{{int:wm-license-fsf-wiki-link}}|Сүлөөтэ программна хангалгын жасын тунхаглаһан хубилбариин]] эрилтэнүүдтэй зохилдуулан,  энэ дансые буулгабари хэжэ, дэлгэрүүлэн тараажа ба хубилгажа болохо юм. Тиихэдээ нэгэдэхи ба һүүлэй гадар хуудаһануудта табигдаһан һэлгэгдэхэгүй бүлэгүүд ба текстнүүдые дайража болохогүй. \n''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' гэһэн гаршагтай бүлэгтэ зүбшөөрэлэй буулгабари оруулагданхай.",
+	"wm-license-information-description": "Бэшэжэ харуулга",
+	"wm-license-information-source": "Эхин",
+	"wm-license-information-date": "Һара үдэр",
+	"wm-license-information-author": "Зохёогшо",
+	"wm-license-information-permission": "Эрхэнууд",
+	"wm-license-information-permission-reusing-text": "энэ файл дахин хэрэглэлгэ",
+	"wm-license-own-work": "Өөрын ажал",
+	"wm-license-self-multiple-licenses-select": "Та энэ зүбшөөрэлнүүдэй алинииеньшье шэлэжэ абаха аргатайт"
+}
