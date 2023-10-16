@@ -170,6 +170,11 @@ class Hooks implements
 			'ipinfo-infobox-use-terms',
 			'ipinfo-preference-use-agreement',
 			'similareditors-error-default',
+			// T348926
+			'jsonconfig-license-copyrightwarning',
+			'jsonconfig-license-copyrightwarning-license-unset',
+			'jsonconfig-license-notice',
+			'jsonconfig-license-notice-license-unset',
 		];
 
 		static $allbutmetawikikeys = [
