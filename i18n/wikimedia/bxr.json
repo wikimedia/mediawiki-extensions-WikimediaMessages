@@ -2,10 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Amire80",
-			"Баир Балданов"
+			"Баир Балданов",
+			"Туяна Балданова"
 		]
 	},
-	"sitesupport": "Хандиблаха",
+	"sitesupport": "Хандиб үргэхэ",
+	"wikibase-sitelinks-wikinews": "Викимэдэсээсэл",
+	"wikibase-sitelinks-wikiquote": "Вики - эшэ татагша",
+	"wikibase-sitelinks-wikisource": "Викисан",
+	"wikibase-sitelinks-wikivoyage": "Викиаяншалга",
 	"wikimedia-developers": "Бэлэдхэгшэд",
+	"wikimedia-statslink": "Тоо бүридхэл",
 	"wikimedia-cookiestatement": "Куки тухай мэдүүлгэ"
 }
