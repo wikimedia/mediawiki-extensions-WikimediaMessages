@@ -197,7 +197,7 @@
 	"grouppage-global-flow-create": "{{Global grouppage}}\n{{doc-group|global-flow-create|page}}",
 	"group-global-ipblock-exempt": "{{doc-group|global-ipblock-exempt}}",
 	"group-global-ipblock-exempt-member": "{{doc-group|global-ipblock-exempt|member}}",
-	"grouppage-global-ipblock-exempt": "{{notranslate}}\n{{doc-group|global-ipblock-exempt|page}}\n{{Global grouppage}}",
+	"grouppage-global-ipblock-exempt": "{{Global grouppage}}",
 	"group-global-interface-editor": "{{doc-group|global-interface-editor}}\nSee also {{msg-mw|Group-interface-editor}}",
 	"group-global-interface-editor-member": "{{doc-group|global-interface-editor|member}}",
 	"grouppage-global-interface-editor": "{{notranslate}}\n{{doc-group|global-interface-editor|page}}\n{{Global grouppage}}",
