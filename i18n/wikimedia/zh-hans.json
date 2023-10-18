@@ -61,7 +61,8 @@
 			"沈澄心",
 			"铁桶",
 			"飞舞回堂前",
-			"아라"
+			"아라",
+			"LittlePaw365"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -260,6 +261,7 @@
 	"wikibase-sitelinks-wikivoyage": "维基导游",
 	"wikibase-sitelinks-wiktionary": "维基词典",
 	"wikibase-otherprojects-commons": "维基共享资源",
+	"wikibase-otherprojects-foundation": "维基媒体基金会",
 	"wikibase-otherprojects-testwikidata": "维基数据",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "元维基",
