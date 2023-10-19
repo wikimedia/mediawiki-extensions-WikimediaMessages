@@ -1,15 +1,6 @@
 {
 	"root": true,
 	"extends": [
-		"wikimedia",
-		"wikimedia/mediawiki",
-		"wikimedia/jquery"
-	],
-	"env": {
-		"browser": true
-	},
-	"rules": {
-		"no-jquery/no-global-selector": "warn",
-		"compat/compat": "warn"
-	}
+		"wikimedia/server"
+	]
 }
