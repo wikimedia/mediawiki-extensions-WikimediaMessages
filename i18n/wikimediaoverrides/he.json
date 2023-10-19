@@ -59,5 +59,9 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "הטווח החסום הוא $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "כתובת השרת המתווך התזונה היא $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "אם נראה לך שנחסמת בטעות, אפשר למצוא מידע נוסף והוראות בדף המדיניות הגלובלי [[m:Special:MyLanguage/No open proxies|No open proxies]].\nמלבד זאת, נא לדון בחסימה על־ידי [[m:Steward requests/Global|שליחת בקשה לביקורת באתר מטא]].",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "אפשר גם לשלוח מכתב בדואר אלקטרוני לתור ה־[[m:Special:MyLanguage/VRT|VRT]] של ה[[m:Special:MyLanguage/Stewards|דיילים]] בכתובת <kbd>stewards@wikimedia.org</kbd> ולכלול בו את כל הפרטים לעיל."
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "אפשר גם לשלוח מכתב בדואר אלקטרוני לתור ה־[[m:Special:MyLanguage/VRT|VRT]] של ה[[m:Special:MyLanguage/Stewards|דיילים]] בכתובת <kbd>stewards@wikimedia.org</kbd> ולכלול בו את כל הפרטים לעיל.",
+	"wikimedia-jsonconfig-license-copyrightwarning": "פרסום השינויים מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך בכפוף לרישיון [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "פרסום השינויים מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך בהתאם לרישיון המצוין בשדה <code>licence</code>.",
+	"wikimedia-jsonconfig-license-notice": "'''לתשומת ליבך:''' עריכת הדף הזה מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש], ואת הסכמתך הבלתי־חוזרת לשחרר את תרומה שלך תחת תנאי הרישיון [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''לשבומת ליבך:''' עריכת הדף הזה מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך בהתאם לרישיון המצוין בשדה <code>licence</code>."
 }

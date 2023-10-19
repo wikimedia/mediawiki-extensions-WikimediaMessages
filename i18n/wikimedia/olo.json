@@ -2,19 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Ilja.mos",
-			"Mashoi7"
+			"Mashoi7",
+			"Ruppijeva"
 		]
 	},
 	"sitesupport": "Lahjoita",
 	"tooltip-n-sitesupport": "Avvuta meidy",
-	"wikimedia-copyright": "Tekstu on suadavannu <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licenziel Creative Commons Attribution-ShareAlike</a>;\nylimiäräzii ehtoloi voibi olla.\nKačo <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Käyttöehtot</a>.",
+	"wikimedia-copyright": "Tekstu on suadavannu <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licenziel Creative Commons Attribution-ShareAlike</a> -licenziel; ližäehtoloi sežo voibi olla.\nKačo <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Käyttöehtot</a>.",
 	"wikimedia-copyrightwarning": "Tallendajen muutokset, hyväksyt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Käyttöehtot], da olet yhty mieldy ku piästiä ilmah sinun kirjutus licenzielöil [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nHyväksyt ku hyperlinku libo URL on nimetty Creative Commons -licenzien ual.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Tule terveh, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiuudizet",
-	"wikibase-sitelinks-wikiquote": "Wikisitatniekku",
-	"wikibase-sitelinks-wikisource": "Wikitiekku",
+	"wikibase-sitelinks-wikiquote": "Wikiсituatat",
+	"wikibase-sitelinks-wikisource": "Wikikirjasto",
 	"wikibase-sitelinks-wikivoyage": "Wikigiidu",
 	"wikimedia-developers": "Luadijat",
 	"wikimedia-globalblocking-ipblocked": "'''Sinun IP-adressu on [[m:Special:MyLanguage/Global blocks|estetty kaikis wikilöis]].''\n\nEston luadi $1 ($2).\nAnnettu viärys: ''$3''.\n\n* Eston algavundu: $4\n* Eston loppevundu: $5\n\nSinun nygöine IP-adressu on $6.\nOle hyvä, liitä kai ylähänolijat tiijot mahtollizih sinun luajittuloih kyzelylöih.\n\nDuumainnet, ku sinut on estetty petties, lövvät ližätieduo da ohjavoloi\n [[m:Special:MyLanguage/No open proxies|No open proxies]]-globalnois periuattehis.\nMuite, ku ottua esto paginah, ole hyvä, [[m:Steward requests/Global|työnnä tarkastelukyzely Meta-Wiki:h]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Yksi libo enämbi sinun kyzelyn käytettylöi välityspalvelimii on[[m:Special:MyLanguage/Global blocks|globualisti estetty]].'''\n\nEston luadi $1 ($2).\nAnnettu viärys: ''$3''.\n\n* Eston algavundu: $4\n* Eston loppevundu: $5\n\nEstetyn välityspalvelimen adressu oli $6.\nOle hyvä, liitä kai ylähänolijat tiijot mahtollizih sinun luajittuloih kyzelylöih.\n\nDuumainnet, ku sinut on estetty petties, lövvät ližätieduo da ohjavoloi\n [[m:Special:MyLanguage/No open proxies|No open proxies]]-globalnois periuattehis.\nMuite, ku ottua esto paginah, ole hyvä, [[m:Steward requests/Global|työnnä tarkastelukyzely Meta-Wiki:h]]."
+	"wikimedia-globalblocking-ipblocked-xff": "'''Yksi libo enämbi sinun kyzelyn käytettylöi välityspalvelimii on[[m:Special:MyLanguage/Global blocks|globualisti estetty]].'''\n\nEston luadi $1 ($2).\nAnnettu viärys: ''$3''.\n\n* Eston algavundu: $4\n* Eston loppevundu: $5\n\nEstetyn välityspalvelimen adressu oli $6.\nOle hyvä, liitä kai ylähänolijat tiijot mahtollizih sinun luajittuloih kyzelylöih.\n\nDuumainnet, ku sinut on estetty petties, lövvät ližätieduo da ohjavoloi\n [[m:Special:MyLanguage/No open proxies|No open proxies]]-globalnois periuattehis.\nMuite, ku ottua esto paginah, ole hyvä, [[m:Steward requests/Global|työnnä tarkastelukyzely Meta-Wiki:h]].",
+	"wikimedia-statslink": "Statistiekat",
+	"wikimedia-cookiestatement": "Сookie-tiijostoloin ohjesiännöt"
 }

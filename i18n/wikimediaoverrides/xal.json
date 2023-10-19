@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ukhant Erdemt",
 			"Алия"
 		]
 	},
-	"wikimedia-webauthn-module-description": "'''Санл болһҗахш:'' WebAuthn (Web Authentication) болхла, Делкә дәкнә вебин консорциумас (W3C) болвсрулҗ ниитлсн веб стандарт. WebAuthn-нь FIDO Холвана удрдлһ дор кергҗүлҗ бәәх FIDO2 төслин үндсн бүрдл кесг. Төслин зөрлһнь ― ниитин түлкүртә криптографиг ашглн, веб-д сүүрлсн программ, үүлчллһнд керглгчнриг батлх интерфейсиг стандартд орулх йовдл мөн. [https://en.wikipedia.org/wiki/WebAuthn Делгрңгү умшх]. Та батлгчиг бүрткүлсн викиһүр невтрх шаардлһтаг анхартн. Үүнәс һаза, Та wiki-тә холвгдх бусд төслмүдәс cookie күлән авхар көтчән тохрулх кергтәт. Кемр та үүг яһҗ кехиг медлго бәәхлә, невтрх болмҗ уга бәәҗ маһд уга. Иимәс, икңк керглгчнрт эн арһ керглхиг санл болһҗахш."
+	"wikimedia-webauthn-module-description": "'''Санл болһҗахш:'' WebAuthn (Web Authentication) болхла, Делкә дәкнә вебин консорциумас (W3C) болвсрулҗ ниитлсн веб стандарт. WebAuthn-нь FIDO Холвана удрдлһ дор кергҗүлҗ бәәх FIDO2 төслин үндсн бүрдл кесг. Төслин зөрлһнь ― ниитин түлкүртә криптографиг ашглн, веб-д сүүрлсн програм, үүлчллһнд кергләчнриг батлх интерфейсиг стандартд орулх йовдл мөн. [https://en.wikipedia.org/wiki/WebAuthn Делгрңгү умшх]. Та батлгчиг бүрткүлсн викиһүр невтрх шаардлһтаг анхартн. Үүнәс һаза, Та wiki-тә холвгдх бусд төслмүдәс cookie күлән авхар көтчән тохрулх кергтәт. Кемр та үүг яһҗ кехиг медлго бәәхлә, невтрх болмҗ уга бәәҗ маһд уга. Иимәс, икңк керглгчнрт эн арһ керглхиг санл болһҗахш.",
+	"wikimedia-jsonconfig-license-copyrightwarning": "Хүврлтсән һарһсар та мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрч бәәнәт болн [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] лицензиг дахч, эврә орулсн хүв-немриг һарһад, буцах арһ угаһан зөвшәрҗәнәт.",
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Хүврлтсән һарһхар та мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрч, талврт заасн <code>licence</code> лицензиг дахад, эврә орулх хүв-немриг буцлт угаһар зөвшәрч бәәнәт.",
+	"wikimedia-jsonconfig-license-notice": "'''Темдглл:''' Та эн халхиг ясхларн, мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрч, эврә хүсэлтийг цуцлахыг буцаалгүйгээр зөвшөөрч байна болн [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] лицензиг дахад, эврә хүв-немриг буцлт угаһар зөвшәрч бәәнәт.",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''Темдглл:''' Та энэ халхиг ясхларн, мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ашгллтын нөкцл]-иг зөвшәрч, эврә орулсн хүв-немриг <code>licence</code> талврт заасн лицензиг дахч, буцлт угаһар зөвшәрч бәәнәт."
 }

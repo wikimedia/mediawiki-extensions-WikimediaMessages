@@ -54,5 +54,7 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "Blokirani razpon je $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Blokirani posredniški naslov je $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Če menite, da ste bili blokirani po pomoti, lahko najdete dodatne informacije in navodila v globalnem pravilniku [[m:Special:MyLanguage/No open proxies|Brez odprtih posredniških strežnikov]].\nV nasprotnem primeru prosimo, da za razpravo o blokiranju [[m:Steward requests/Global|objavite zahtevek za pregled v Meta-Wikiju]].",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Lahko tudi pošljete e-pošto v čakalno vrsto [[m:Special:MyLanguage/Stewards|upravnikov]] [[m:Special:MyLanguage/VRT|VRT]] na <kbd>stewards@wikimedia.org</kbd>, vključno z vsemi zgornjimi podatki."
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Lahko tudi pošljete e-pošto v čakalno vrsto [[m:Special:MyLanguage/Stewards|upravnikov]] [[m:Special:MyLanguage/VRT|VRT]] na <kbd>stewards@wikimedia.org</kbd>, vključno z vsemi zgornjimi podatki.",
+	"wikimedia-jsonconfig-license-copyrightwarning": "Z objavo sprememb izražate strinjanje s [https://foundation.wikimedia.org/wiki/Terms_of_Use Pogoji uporabe] in nepreklicno privoljujete v objavo svojega prispevka pod licenco [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''Opomba:''' Ob urejanju te strani se strinjate z našimi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use pogoji uporabe] in nepreklicno privoljujete v objavo svojega prispevka v skladu z licenco, navedeno v polju <code>licence</code>."
 }
