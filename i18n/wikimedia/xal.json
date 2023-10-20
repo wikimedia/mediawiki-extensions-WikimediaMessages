@@ -16,7 +16,7 @@
 	"wikibase-sitelinks-wikisource": "Вики эк-үүскл",
 	"wikibase-sitelinks-wikivoyage": "Викиайлл",
 	"wikimedia-developers": "Бадрачнр",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nХаалтнь $1 ($2)-ар кегдв.\nЗаагдсн шилтәнь ''$3''.\n\n* Хаалтын эклцнь: $4\n* Хаалтын төгсклнь: $5\n\nТана өдгәһин IP хайг $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nХаалтнь $1 ($2)-ар кегдв.\nЗаагдсн шилтәнь ''$3''.\n\n* Хаалтын эклцнь: $4\n* Хаалтын төгсклнь: $5\n\nТана одаһин IP хайг $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}''' \nХаалтнь $1 ($2)-ар кегдв. \nЗаагдсн шилтәнь ''$3''. \n* Хаалтын эклцнь: $4 \n* Хаалтын төгсклнь: $5 \n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "статистик",
 	"wikimedia-cookiestatement": "Кукиһин таларк медәлл"
