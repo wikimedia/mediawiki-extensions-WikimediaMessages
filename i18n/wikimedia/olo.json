@@ -6,14 +6,14 @@
 			"Ruppijeva"
 		]
 	},
-	"sitesupport": "Lahjoita",
+	"sitesupport": "Lahjoitukset",
 	"tooltip-n-sitesupport": "Avvuta meidy",
-	"wikimedia-copyright": "Tekstu on suadavannu <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licenziel Creative Commons Attribution-ShareAlike</a> -licenziel; ližäehtoloi sežo voibi olla.\nKačo <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Käyttöehtot</a>.",
-	"wikimedia-copyrightwarning": "Muutoksien tallendajes hyväksyt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use käyttöehtot], da suostut oman kirjutuksen piäständäh licenzielöil [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nHyväksyt sengi, ku atribucieh niškoi Creative Commons -licenzien mugah pidäy imoittua vai giperlinku libo URL.",
+	"wikimedia-copyright": "Teksti on saatavilla <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fi\">Creative Commons Nimeä-JaaSamoin</a> -lisenssillä;\nlisäehtoja voi sisältyä.\nKatso <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">käyttöehdot</a>.",
+	"wikimedia-copyrightwarning": "Muutoksien tallendajes hyväksyt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use] -käyttöehtot, da suostut oman kirjutuksen piäständäh licenzielöil [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nHyväksyt sengi, ku atribucieh niškoi Creative Commons -licenzien mugah pidäy imoittua vai giperlinku libo URL.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Tule terveh, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiuudizet",
 	"wikibase-sitelinks-wikiquote": "Wikiсituatat",
-	"wikibase-sitelinks-wikisource": "Wikikirjasto",
+	"wikibase-sitelinks-wikisource": "Wikiainehisto",
 	"wikibase-sitelinks-wikivoyage": "Wikigiidu",
 	"wikimedia-developers": "Luadijat",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nEstien luadi $1 ($2).\nAnnettu syy: ''$3''.\n\n* Estien algavunduaigu: $4\n* Estien loppevunduaigu: $5\n\nSinun nygöine IP-adressi on $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",

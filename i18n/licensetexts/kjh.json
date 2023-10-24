@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"AlexandrL714",
+			"Oxianboal",
 			"Андрей Саг."
 		]
 	},
@@ -10,6 +11,7 @@
 	"wm-license-information-date": "Кӱн",
 	"wm-license-information-author": "Автор",
 	"wm-license-information-permission": "Тӧрелер",
+	"wm-license-information-permission-reusing-text": "Пу файлнаң хатап тузаланғаны",
 	"wm-license-own-work": "Позының тоғызы",
 	"wm-license-self-multiple-licenses-select": "Пу лицензиялардаң хайдағ-даа таллирға полчазар."
 }
