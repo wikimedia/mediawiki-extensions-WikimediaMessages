@@ -317,14 +317,15 @@ class Hooks implements
 	 * @param string &$link
 	 */
 	public function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
-		$services = MediaWikiServices::getInstance();
-		$config = $services->getConfigFactory()->makeConfig( 'wikimedia-messages' );
 		if ( $type === 'history' ) {
 			return;
 		}
 
 		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
+
 		if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+			$services = MediaWikiServices::getInstance();
+			$config = $services->getConfigFactory()->makeConfig( 'wikimedia-messages' );
 			$context = $services->getService( 'MobileFrontend.Context' );
 			if ( $context->shouldDisplayMobileView() ) {
 				$msg = 'mobile-frontend-copyright';
