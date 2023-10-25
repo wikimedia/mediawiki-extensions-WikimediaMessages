@@ -373,7 +373,7 @@
 	"gadget-curidlink-link-by-id-desc": "Link zu dieser Seite anhand ihrer ID anzeigen",
 	"gadget-souspages-subpages": "Unterseiten",
 	"ext-campaignevents-register-policy": "Durch die Anmeldung stimmst du den [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/de Nutzungsbedingungen], der [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/de Datenschutzrichtlinie], dem [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct/de universellen Verhaltenskodex] und allen lokalen „Friendly Space“-Richtlinien, die von den Organisatoren der Veranstaltung bereitgestellt werden, zu.",
-	"ext-campaignevents-registration-form-policy": "Veranstaltungen, die von der Wikimedia Foundation veranstaltet oder finanziert werden, müssen alle Richtlinien der Wikimedia Foundation einhalten, einschließlich des [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy Jugendschutzes].",
+	"ext-campaignevents-registration-form-policy": "Veranstaltungen, die von der Wikimedia Foundation veranstaltet oder finanziert werden, müssen alle Richtlinien der Wikimedia Foundation einhalten, einschließlich des [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy Jugendschutzes].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement Datenschutzerklärung] für diese Umfrage.",
 	"readinglists-import-app": "Installiere zum Importieren dieser Leseliste die neueste Version der Wikipedia-App:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Herunterladen</a> und installieren der neuesten Version der Wikipedia-App:",

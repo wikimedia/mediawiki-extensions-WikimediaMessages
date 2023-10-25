@@ -58,7 +58,7 @@
 	"contactpage-affcom-user-group-location-label": "'''الموقع'''\n* يُرجَى تقديم بلدك ومدينتك; حتى نتمكن من تتبع مجموعات المستخدمين حول العالم، إذا كان العالم في متناول اليد ، ببساطة ضع \"الإنترنت\".",
 	"contactpage-affcom-user-group-leaders-label": "'''ثلاثة ويكميديين نشطين'''\n* يُرجَى تقديم الاسم، وعنوان البريد الإلكتروني، واسم مستخدم ويكميديا لثلاث قادة مجموعات.",
 	"contactpage-affcom-user-group-logo-label": "'''الشعار'''\n* ما هو الشعار الذي ترغب في استخدامه لمجموعتك؟",
-	"contactpage-affcom-user-group-rules-label": "'''قواعد مجموعة المستخدمين'''\n* نت مؤهل لتشكيل مجموعة مستخدمين إذا كان لديك على الأقل 3 أعضاء بـ300 مساهمة أو أكثر في مشروع ويكيميديا بحساب مسجل موجود منذ أكثر من 6 أشهر ويتوافق مع [[Wikimedia user groups/Agreement and code of conduct|اتفاقية مجموعة المستخدمين والقواعد السلوكية]]:\n** يجب أن تتبع [[wmf:Trademark policy|سياسة العلامات التجارية]]\n** أنت مستقل عن منظمات ويكيميديا ​​الأخرى \n* بعد تقديم هذا الطلب، سيتصل بك أحد أعضاء [[Affiliations Committee|لجنة الانتماءات]] قريبا لمساعدتك في الخطوات التالية \n* اعرف المزيد من المعلومات حول [[Wikimedia user groups|مجموعات مستخدمي ويكيميديا]]",
+	"contactpage-affcom-user-group-rules-label": "'''قواعد مجموعة المستخدمين'''\n* نت مؤهل لتشكيل مجموعة مستخدمين إذا كان لديك على الأقل 3 أعضاء بـ300 مساهمة أو أكثر في مشروع ويكيميديا بحساب مسجل موجود منذ أكثر من 6 أشهر ويتوافق مع [[Wikimedia user groups/Agreement and code of conduct|اتفاقية مجموعة المستخدمين والقواعد السلوكية]]:\n** يجب أن تتبع [[foundation:Special:MyLanguage/Policy:Trademark policy|سياسة العلامات التجارية]]\n** أنت مستقل عن منظمات ويكيميديا ​​الأخرى \n* بعد تقديم هذا الطلب، سيتصل بك أحد أعضاء [[Affiliations Committee|لجنة الانتماءات]] قريبا لمساعدتك في الخطوات التالية \n* اعرف المزيد من المعلومات حول [[Wikimedia user groups|مجموعات مستخدمي ويكيميديا]]",
 	"contactpage-affcom-user-group-terms-label": "لقد قرأت ووافقت على القواعد المذكورة أعلاه وفي [[Wikimedia user groups/Agreement and code of conduct|اتفاقية مجموعة المستخدم والقواعد السلوكية]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "''إذا كنت ترغب في استخدام '''شعار ويكيميديا'''، فيمكنك [[Special:Contact/requestlicense|طلب ترخيص علامة تجارية]].''",
 	"contactpage-affcom-user-group-logo-community": "شعار مجتمع ويكيميديا",
@@ -80,5 +80,5 @@
 	"contactpage-movecom-signup-display-name": "الاسم",
 	"contactpage-movecom-signup-display-username": "اسم المستخدم",
 	"contactpage-movecom-signup-display-nameusername": "الاسم واسم المستخدم",
-	"contactpage-movecom-signup-terms-label": "لقد قرأت وصف [[Movement communications group]] وأوافق على اتباع [[Foundation:Friendly space policy|سياسة المساحة الودية لمؤسسة ويكيميديا]] أثناء مشاركتي مع هذه المجموعة، أدرك أن الفشل في اتباع هذه السياسة سيؤدي إلى الإزالة من المجموعة."
+	"contactpage-movecom-signup-terms-label": "لقد قرأت وصف [[Movement communications group]] وأوافق على اتباع [[foundation:Special:MyLanguage/Policy:Friendly space policy|سياسة المساحة الودية لمؤسسة ويكيميديا]] أثناء مشاركتي مع هذه المجموعة، أدرك أن الفشل في اتباع هذه السياسة سيؤدي إلى الإزالة من المجموعة."
 }

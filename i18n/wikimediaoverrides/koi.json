@@ -4,5 +4,7 @@
 			"Римма"
 		]
 	},
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": " Вежсьӧммезнытӧ лэдзикӧ, ті сетатӧ соглассё миян[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] вылӧ и ті согласитчат лэдзны ассиныт пуктӧм пай лицензия сьӧрті, кӧда мыччалӧма <code>licence</code> полеын.",
+	"wikimedia-jsonconfig-license-notice": "\"Пасйӧм:\" Этӧ листбоксӧ веськӧтікӧ, ті сетатӧ соглассё миян [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] вылӧ и ті согласитчат лэдзны ассиныт пуктӧм пай сетӧм [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]лицензия сьӧрті.",
 	"wikimedia-jsonconfig-license-notice-license-unset": "\"Пасйӧм:\" Этӧ листбоксӧ веськӧтікӧ, ті сетатӧ соглассё миян[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] вылӧ и ті согласитчат лэдзны ассиныт пуктӧм пай лицензия сьӧрті, кӧда мыччалӧма <code>лицензия</code> полеын."
 }

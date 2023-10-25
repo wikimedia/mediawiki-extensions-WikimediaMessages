@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mansur",
 			"Ерней"
 		]
 	},
 	"wikimedia-centralauth-groupname": "Викимедиа Фонды",
 	"wikimedia-sitematrix": "Викимедиа вики-проектлары исемлеге",
 	"wikimedia-sitematrix-others": "Башка Викимедиа проектлары",
-	"wikimedia-sitematrix-summary": "Бу махсус бит барлык Викимедиа проектларын күрсәтә."
+	"wikimedia-sitematrix-summary": "Бу махсус бит барлык Викимедиа проектларын күрсәтә.",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''Искәрмә:''' Бу битне үзгәрткәндә сез [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Куллану шартлары] белән килешәсез һәм <code>licence</code> кырында күрсәтелгән лицензия нигезендә үз өлешегезне бастырырга ризалашасыз."
 }
