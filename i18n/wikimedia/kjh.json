@@ -3,18 +3,20 @@
 		"authors": [
 			"AlexandrL714",
 			"Amire80",
-			"Андрей Саг."
+			"Андрей Саг.",
+			"Oxianboal"
 		]
 	},
 	"sitesupport": "Сыйыхха пирерге",
 	"tooltip-n-sitesupport": "Писке полызығ кирек",
-	"wikimedia-copyright": "Текст пӧлікті азых <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; хоза варианттар тузаланарға чарир. Толдыразынаң іскіріг хостыра  <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> кӧренір.",
+	"wikimedia-copyright": "Текст азых <a href=\"https://creativecommons.org/licenses\n/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nхоза правилолар кирiлерге айабас.\nАннаңар алғыда кӧріңер <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Тузаланар правилолар\">Terms of Use</a>",
+	"wikimedia-copyrightwarning": "Алызығларны артызып, сiрер   [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru тузаланар оңдайларнаң] чарасчазар, ідӧк [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензия хоостыра ӱндезіг чох сығарарға чарасчазар . Creative Commons лицензия хоостыра  гиперссылка паза страницаның URL кӧзідері читкіҷе поларынаң чарасчазар.   \n.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Аалҷы полыңар}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викихабарлар",
 	"wikibase-sitelinks-wikiquote": "Викицитаталар",
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Вики-чоллағҷы",
 	"wikimedia-developers": "Тӧстегҷілер",
-	"wikimedia-statslink": "Статистиказы",
+	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки файллардаңар заявление"
 }
