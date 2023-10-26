@@ -66,7 +66,10 @@
 			"Vivaelcelta",
 			"Vogone",
 			"Wifidel",
-			"No se"
+			"No se",
+			"Amire80",
+			"DarkGames26",
+			"FlyingAce"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -256,6 +259,7 @@
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/deed.es CC BY-SA 3.0] y [https://www.gnu.org/licenses/fdl.html GFDL (en inglés)]",
 	"wikifunctions-site-footer-copyright": "Todas las definiciones de funciones, etiquetas y documentación en el espacio de nombres principal están disponibles bajo la <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definición de la licencia Creative Commons CC0\">Licencia Creative Commons CC0</a>. Todos los fragmentos de código y las implementaciones en el espacio de nombres principal están disponibles bajo la <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definición de la Licencia Apache 2.0\">Licencia Apache 2.0</a>. El texto en otros espacios de nombres está disponible bajo la <a href=\"//creativecommons.org/licenses/by-sa/3.0/\" title=\"Definición de la licencia Creative Commons Attribution/Share-Alike\">Licencia Creative Commons Attribution-ShareAlike</a>; se pueden aplicar términos adicionales. Al usar este sitio, acepta los <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Términos de uso</a> y <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\">Política de privacidad.</a>",
 	"wikifunctions-edit-copyrightwarning-function": "Al hacer clic en \"publicar\", acepta los <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Términos de uso</a> y acepta irrevocablemente publicar su contribución bajo la <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definición de la licencia Creative Commons CC0\">Licencia Creative Commons CC0</a>.",
+	"wikifunctions-edit-copyrightwarning-implementation": "Al hacer clic en «Publicar», aceptas los <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/es\">términos de uso</a> y aceptas de manera irrevocable publicar tu contribución bajo la <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definición de la Licencia Apache 2.0\">licencia Apache 2.0</a>.",
 	"wikimedia-mobile-mainpage-title-loggedin": "¡{{GENDER:$1|Bienvenido|Bienvenida}}, $1!",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-page-schema-author-name": "Colaboradores de los proyectos Wikimedia",

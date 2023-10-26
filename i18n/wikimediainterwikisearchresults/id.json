@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Daud I.F. Argana",
-			"Farras"
+			"Farras",
+			"Veracious"
 		]
 	},
 	"search-interwiki-results-abwiki": "Menampilkan hasil dari [[:ab:|Wikipedia bahasa Abkhaz]].",
@@ -17,6 +18,8 @@
 	"search-interwiki-results-arzwiki": "Menampilkan hasil dari [[:arz:|Wikipedia bahasa Arab Mesir]].",
 	"search-interwiki-results-astwiki": "Menampilkan hasil dari [[:ast:|Wikipedia bahasa Asturia]].",
 	"search-interwiki-results-aswiki": "Menampilkan hasil dari [[:as:|Wikipedia bahasa Assam]].",
+	"search-interwiki-results-avwiki": "Menampilkan hasil dari [[:av:|Wikipedia bahasa Avar]].",
+	"search-interwiki-results-aywiki": "Menampilkan hasil dari [[:ay:|Wikipedia bahasa Aymara]].",
 	"search-interwiki-results-blkwiki": "Menampilkan hasil dari [[:blk:|Wikipedia Bahasa Pa'O]].",
 	"search-interwiki-results-enwiki": "Menampilkan hasil dari [[:en:|Wikipedia bahasa Inggris]].",
 	"search-interwiki-results-frwiki": "Menampilkan hasil dari [[:fr:|Wikipedia bahasa Prancis]].",

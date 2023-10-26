@@ -2,19 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Ilja.mos",
-			"Mashoi7"
+			"Mashoi7",
+			"Ruppijeva"
 		]
 	},
-	"wm-license-cc-attribution": "Nimiändy",
-	"wm-license-cc-by-sa-3.0-text": "Tämä failu voibi avata luval [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported]",
+	"wm-license-cc-attribution": "Atribucii",
+	"wm-license-cc-by-sa-3.0-text": "Tämä tiijosto voibi avata licenziel [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported].",
 	"wm-license-cc-free": "Voit välläh:",
 	"wm-license-cc-free-to-share-header": "jagua",
-	"wm-license-cc-free-to-share-text": "kopiruija, levittiä da siirdiä ruavon",
-	"wm-license-cc-free-to-remix-header": "sevoittua",
-	"wm-license-cc-free-to-remix-text": "mukauttua ruado",
-	"wm-license-cc-conditions": "Nämmiem periuattehien kel:",
-	"wm-license-cc-conditions-attribution-header": "atributsii",
-	"wm-license-cc-conditions-attribution-text": "Sinul pidäy nimittiä ruado luadijan libo licenzien andajan eritellyl taval (no ei sih tabah, kudai andau ellendiä ku hyö tuvettas sinuu libo sinun käytettyy heijän ruaduo).",
-	"wm-license-cc-conditions-share_alike-header": "Jagua samazii oigevuksii käyttäjen",
-	"wm-license-cc-conditions-share_alike-text": "Kohendannet, muuttanet libo luadinet tämän ruavon pohjal, voit distribuija luajitun ruavon vaiku samal licenziel."
+	"wm-license-cc-free-to-share-text": "kopiiruija, levittiä da ezittiä tevostu",
+	"wm-license-cc-free-to-remix-header": "luadie remiksoi",
+	"wm-license-cc-free-to-remix-text": "kebjendiä tevostu",
+	"wm-license-cc-conditions": "Nämmii ehtoloi noudajen:",
+	"wm-license-cc-conditions-attribution-header": "atribucii",
+	"wm-license-cc-conditions-attribution-text": "Sinul pidäy mainita luadii, tuvva linku licenzieh da merkitä, ollougo luadii luadinuh muutoksii. Sidä voibi luadie hos mittumal tolkukkahal taval, ga ei nenga, ku andazit ellendiä, ku licenzienandai kannattau sinuu da sinun tämän tevoksen käytändiä.",
+	"wm-license-cc-conditions-share_alike-header": "Jua samoi oigevuksii käyttäjen",
+	"wm-license-cc-conditions-share_alike-text": "Ku kohendannet, muuttanet libo luadinet muudu uuttu tämän ruavon pohjal, voit jagua omua ruaduo vai täl [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] libo tämänjyttyzel licenziel."
 }
