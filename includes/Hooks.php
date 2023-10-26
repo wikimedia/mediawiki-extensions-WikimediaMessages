@@ -281,7 +281,6 @@ class Hooks implements
 	 * @return string
 	 */
 	private function shortenLicenseLink( Config $config ): string {
-		$services = MediaWikiServices::getInstance();
 		$rightsText = $config->get( 'RightsText' );
 		$rightsPage = $config->get( 'RightsPage' );
 		$rightsUrl = $config->get( 'RightsUrl' );
@@ -296,7 +295,7 @@ class Hooks implements
 		}
 		if ( $rightsPage ) {
 			$title = Title::newFromText( $rightsPage );
-			$linkRenderer = $services->getLinkRenderer();
+			$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
 			$link = $linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), [] );
 		} elseif ( $rightsUrl ) {
 			$link = Linker::makeExternalLink( $rightsUrl, $rightsText, true, '', [] );
