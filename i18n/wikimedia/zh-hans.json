@@ -349,7 +349,7 @@
 	"wikimedia-statslink": "统计",
 	"wikimedia-cookiestatement": "Cookie声明",
 	"ext-quicksurveys-performance-internal-survey-question": "此页面是否加载足够快？",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
 	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。",
 	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程",
 	"technical-maintenance-soon": "即将进行技术维护：",
@@ -372,5 +372,13 @@
 	"action-docseditor": "编辑文档",
 	"right-docseditor": "编辑文档",
 	"ipinfo-feedback-button-label": "留下反馈",
-	"readinglists-import-app": "要导入此阅读列表，请安装最新版本的维基百科应用程序："
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "是",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "否",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "感谢您的反馈。",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "是",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "否",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "我不确定",
+	"gadget-souspages-subpages": "子页面",
+	"readinglists-import-app": "要导入此阅读列表，请安装最新版本的维基百科应用程序：",
+	"ipinfo-global-contributions-url-label": "全域贡献"
 }
