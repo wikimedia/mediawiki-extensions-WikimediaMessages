@@ -7,14 +7,14 @@
 			"Алия"
 		]
 	},
-	"sitesupport": "Өгх",
+	"sitesupport": "Өглһин эзн болх",
 	"tooltip-n-sitesupport": "Бидниг демҗтн",
 	"wikimedia-copyright": "Бичәснь <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike зөвшәл</a> дигтәһәр орлһта;\nНемгч болзан күчтә болх маһд.\nНәрн учр медхәр <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Керглх болзан</a> хәләтн.",
-	"wikibase-sitelinks-wikinews": "Вики медән",
-	"wikibase-sitelinks-wikiquote": "Вики эш татсн",
-	"wikibase-sitelinks-wikisource": "Вики эк-үүскл",
-	"wikibase-sitelinks-wikivoyage": "Викиайлл",
-	"wikimedia-developers": "Бадрачнр",
-	"wikimedia-statslink": "статистик",
+	"wikibase-sitelinks-wikinews": "Вики-медән",
+	"wikibase-sitelinks-wikiquote": "Вики-эш татач",
+	"wikibase-sitelinks-wikisource": "Вики-саң",
+	"wikibase-sitelinks-wikivoyage": "Вики-айлл",
+	"wikimedia-developers": "Көгҗүләчнрт",
+	"wikimedia-statslink": "Статистик",
 	"wikimedia-cookiestatement": "Кукиһин таларк медәлл"
 }

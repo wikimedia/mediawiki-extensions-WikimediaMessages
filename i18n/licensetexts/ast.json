@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"wm-license-attribution-with-author-text": "El titular de los drechos d'autor d'esti ficheru, $1, permite a cualesquier persona usalu '''pa cualesquier propósitu, mentanto''' se-y reconoza al titular d'esos drechos de mou afayadizu. La redistribución, les obres derivaes, l'usu comercial y tolos demás usos tan permitíos.",
@@ -75,7 +76,7 @@
 	"wm-license-own-work": "Trabayu propiu",
 	"wm-license-pd-author-self-text": "Yo, el titular de los drechos d'autor d'esta obra, la llibero como '''[[{{int:wm-license-pd-wiki-link}}|dominiu públicu]]'''. Esto s'aplica nel mundu ensembre.",
 	"wm-license-pd-author-with-author-text": "L'autor d'esta obra, '''$1''', la lliberó como '''[[{{int:wm-license-pd-wiki-link}}|dominiu públicu]]'''. Esto s'aplica nel mundu ensembre.",
-	"wm-license-pd-author-not-legally-possible": "En dellos paises seique esto nun seya posible llegalmente; nesti casu:",
+	"wm-license-pd-author-not-legally-possible": "En dellos países seique esto nun seya posible llegalmente; nesti casu:",
 	"wm-license-pd-author-self-any-purpose": "Doi a cualesquier persona permisu pa usar esta obra '''pa cualesquier propósitu''', ensin denguna condición, menos si eses condiciones requierense pola llei.",
 	"wm-license-pd-author-with-author-any-purpose": "$1 da a cualesquier persona permisu pa usar esta obra '''pa cualesquier propósitu''', ensin denguna condición, menos si eses condiciones requierense pola llei.",
 	"wm-license-pd-usgov-fema-text": "Esti ficheru ye obra d'un emplegáu de la [[{{int:wm-license-pd-usgov-fema-wiki-link}}|Axencia Federal de Xestión d'Emerxencies]], tomáu o fechu nel trescursu de les funciones oficiales d'esa persona. Como [[{{int:wm-license-pd-usgov-work-wiki-link}}|obra]] del [[{{int:wm-license-pd-usgov-wiki-link}}|gobiernu federal de los EE.XX.]], el ficheru ta nel '''[[{{int:wm-license-pd-wiki-link}}|dominiu públicu]]'''.",

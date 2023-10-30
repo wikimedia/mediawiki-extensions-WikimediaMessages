@@ -3,7 +3,9 @@
 		"authors": [
 			"Андрей Саг.",
 			"AlexandrL714",
-			"Amire80"
+			"Amire80",
+			"Oxianboal",
+			"Матыр"
 		]
 	},
 	"sitesupport": "Сыйыхха пирерге",
@@ -12,8 +14,8 @@
 	"wikibase-sitelinks-wikinews": "Викихабарлар",
 	"wikibase-sitelinks-wikiquote": "Викицитаталар",
 	"wikibase-sitelinks-wikisource": "Викитека",
-	"wikibase-sitelinks-wikivoyage": "Вики-чоллағҷы",
+	"wikibase-sitelinks-wikivoyage": "Вики-гид",
 	"wikimedia-developers": "Тӧстегҷілер",
-	"wikimedia-statslink": "Статистиказы",
+	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки файллардаңар заявление"
 }

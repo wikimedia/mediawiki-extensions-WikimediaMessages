@@ -5,16 +5,16 @@
 			"Алия"
 		]
 	},
-	"wm-license-cc-attribution": "Зокагчин таларк медәлл",
+	"wm-license-cc-attribution": "Зокагчин неринь темдгллт",
 	"wm-license-cc-by-sa-3.0-text": "Эн файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] лицензтә[https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] Лиценз.",
-	"wm-license-cc-free": "Та үн угаһар:",
-	"wm-license-cc-free-to-share-header": "хувалцх",
-	"wm-license-cc-free-to-share-text": "Аҗлыг хуулх, түгәх, дамҗулх",
+	"wm-license-cc-free": "Та үн-төлвр угаһар... болх:",
+	"wm-license-cc-free-to-share-header": "бүтәл хувалцх",
+	"wm-license-cc-free-to-share-text": "Эн бүтәлиг хуулх, түгәх, дамҗулх",
 	"wm-license-cc-free-to-remix-header": "Дәкн хольх",
-	"wm-license-cc-free-to-remix-text": "Аҗлыг дәкн зокцулх",
-	"wm-license-cc-conditions": "Дарук нөкцлд:",
-	"wm-license-cc-conditions-attribution-header": "Зокагчин эркин таларк медәлл",
-	"wm-license-cc-conditions-attribution-text": "Та түүрвәчин эзлвр өгәд, лицензин холвасиг өгч, ясвр орулсн угаг зааҗ өгх йоставт. Та үүг ямаран чигн болмҗин бәәдләр кеҗ чадҗанат, зуг лиценз эзләч танд эс гиҗ тана кергләг демҗҗәх санл болх ямаран чигн бәәдләр биш.",
+	"wm-license-cc-free-to-remix-text": "Бүтәлиг дәкн зокцулх",
+	"wm-license-cc-conditions": "Дарук болзлмудынь хаңһахла:",
+	"wm-license-cc-conditions-attribution-header": "зокагчин неринь темдгллт",
+	"wm-license-cc-conditions-attribution-text": "Та зокалын эзиг зааһад, лицензин холвасиг өгч, ясвр орулсн угаг зааҗ өгх йостат. Та үүг ямаран чигн арһар кеҗ чадҗанат, зуг лиценз эзмшәч Таниг эс гиҗ эврә зокалыг керглситн демҗҗәх седкгдл төрүлх болшгот.",
 	"wm-license-cc-conditions-share_alike-header": "Иҗл болзлар түгәх",
 	"wm-license-cc-conditions-share_alike-text": "Та дәкн хүврүлх, ясх эс гиҗ материалын деерәс шиниг бүтәхәр седхлә, [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses әдлс эс гиҗ ниицтә Тусха зөвшәрл] эврә хүв-немриг эк хүвтәһинь түгәх йоставт."
 }

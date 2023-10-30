@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"Fitoschido",
+			"YoaR"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia n'afar",
@@ -521,7 +523,7 @@
 	"project-localized-name-muswiki": "Wikipedia en creek",
 	"project-localized-name-mwlwiki": "Wikipedia en mirandés",
 	"project-localized-name-mxwikimedia": "Wikimedia Méxicu",
-	"project-localized-name-nlwikimedia": "Wikimedia Paises Baxos",
+	"project-localized-name-nlwikimedia": "Wikimedia Países Baxos",
 	"project-localized-name-noboard_chapterswikimedia": "Tableru internu de Wikimedia Noruega",
 	"project-localized-name-nostalgiawiki": "Wikipedia señardá",
 	"project-localized-name-nowikimedia": "Wikimedia Noruega",
