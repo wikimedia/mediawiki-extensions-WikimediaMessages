@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Dvorapa",
+			"Matěj Suchánek",
 			"Mormegil",
 			"MrJaroslavik",
 			"Patriccck",
@@ -48,7 +49,7 @@
 	"contactpage-affcom-user-group-location-label": "'''Umístění'''\n* Uveďte svou zemi a město, ať můžeme sledovat rozmístění skupin po světě. Pokud máte globální dosah, napište prostě „Internet“.",
 	"contactpage-affcom-user-group-leaders-label": "'''Tři aktivní wikimediáni'''\n* Uveďte prosím jména, e-mailové adresy a uživatelská jména na projektech Wikimedia pro tři vedoucí skupiny.",
 	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Jaké logo chcete pro svou skupinu používat?",
-	"contactpage-affcom-user-group-rules-label": "'''Pravidla pro uživatelské skupiny'''\n* Na založení uživatelské skupiny máte nárok, pokud máte alespoň 3 členy se 300 a více příspěvky do projektu Wikimedia pod registrovaným účtem, který existuje více než 6 měsíců a souhlasíte s [[Wikimedia user groups/Agreement and code of conduct|ujednáním pro uživatelské skupiny a pravidly chování]]:\n** Měli byste dodržovate [[foundation:Special:MyLanguage/Policy:Trademark policy|pravidla pro ochranné známky]]\n** Jste nezávislí na ostatních organizacích Wikimedia\n* Po odeslání této žádosti se s vámi spojí člen [[Affiliations Committee|komise pro přidružené organizace]], aby vám pomohl s dalšími kroky\n* Můžete si přečíst více informací o [[Wikimedia user groups|uživatelských skupinách Wikimedia]]",
+	"contactpage-affcom-user-group-rules-label": "'''Pravidla pro uživatelské skupiny'''\n* Na založení uživatelské skupiny máte nárok, pokud máte alespoň 3 členy se 300 a více příspěvky do projektu Wikimedia pod registrovaným účtem, který existuje více než 6 měsíců a souhlasíte s [[Wikimedia user groups/Agreement and code of conduct|ujednáním pro uživatelské skupiny a pravidly chování]]:\n** Měli byste dodržovat [[foundation:Special:MyLanguage/Policy:Trademark policy|pravidla pro ochranné známky]]\n** Jste nezávislí na ostatních organizacích Wikimedia\n* Po odeslání této žádosti se s vámi spojí člen [[Affiliations Committee|komise pro přidružené organizace]], aby vám pomohl s dalšími kroky\n* Můžete si přečíst více informací o [[Wikimedia user groups|uživatelských skupinách Wikimedia]]",
 	"contactpage-affcom-user-group-terms-label": "Přečetl jsem si a souhlasím s výše uvedenými pravidly a [[Wikimedia user groups/Agreement and code of conduct|ujednáním pro uživatelské skupiny a pravidly chování]].",
 	"contactpage-affcom-user-group-logo-wm-logo": "''Pokud chcete používat '''logo Wikimedia''', můžete [[Special:Contact/requestlicense|požádat o licenci k ochranné známce]].''",
 	"contactpage-affcom-user-group-logo-community": "Logo Komunity Wikimedia",

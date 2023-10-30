@@ -5,13 +5,13 @@
 			"Алия"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', эн бичг-бәрмтиг 1.2 хүвлвр эс гиҗ сүүлңк [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]һарһсн хүвлврәр хуулх, түгәх, хүврүлхд зөвшәрл өгнә. Инвариант кесг уга, өмнк һадр уга болн ардк һадр уга. ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Үнго Бәрмтлсн Лиценз]]''.",
+	"wm-license-gfdl-1.2-and-later": "Эн бәрмтиг [[{{int:wm-license-fsf-wiki-link}}|Чөләтә програм хаңһамҗин саңгар]] ниитлсн '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]-ин 1.2 эс гиҗ түүнәс өмнк хүвлврин нөкцлин даху хуулврлх, ниитд тарах эс гиҗ хүврүлҗ болна (хүврдг уга кесг, түрүн болн сүүлин һадрт бәәршүлдг текст угаһар). Лицензн хуулврнь \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\" гиҗ нерлсн кесгт орулгдсн бәәнә.",
 	"wm-license-information-description": "Тәәлвр",
 	"wm-license-information-source": "Экн-үүсвр",
 	"wm-license-information-date": "Сар/өдр",
 	"wm-license-information-author": "Зокагч",
-	"wm-license-information-permission": "Зөвшәрл",
+	"wm-license-information-permission": "Эрк",
 	"wm-license-information-permission-reusing-text": "Эн файлыг дәкн ашглх",
-	"wm-license-own-work": "Мини бүтәл",
+	"wm-license-own-work": "Эн мини бүтәл",
 	"wm-license-self-multiple-licenses-select": "Та күссн лицензиг суңһҗ чадҗанат."
 }
