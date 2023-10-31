@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"CiphriusKane",
 			"John Reid",
 			"MJL"
 		]
 	},
 	"contactpage-title-requestlicense": "Trademaurk reuiss contact form",
-	"contactpage-pagetext-requestlicense": "Please uise the form ablo tae contact us aneat Trademaurk things",
+	"contactpage-pagetext-requestlicense": "Please uise the form ablo tae contact us anent uisin ae Wikimedia trademerk",
 	"contactpage-subject-requestlicense": "Request tae uise ae Wikimedia trademaurk",
 	"contactpage-license-request-username": "Uisername *",
 	"contactpage-license-request-relevantsite": "Reelavant Wikimedia site (gif onie)",
