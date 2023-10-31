@@ -120,6 +120,7 @@
 	"action-editextendedsemiprotected": "redaktar pagini protektita quale \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"right-editextendedsemiprotected": "Redaktar pagini protektita quale \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permisar nur personi qui povas patroliar su (''autopatrollers'')",
+	"action-banner-protect": "protektar tradukebla mesaji qui traktesis uzanta utensilo ''Translate'', qui inkluzesis en flagi ChentralNotice",
 	"eri-rcfilters-tour-help": "Lernez pluse",
 	"wikimedia-statslink": "Statistiko",
 	"wikimedia-cookiestatement": "Informo pri l'uzo di 'cookies'",
