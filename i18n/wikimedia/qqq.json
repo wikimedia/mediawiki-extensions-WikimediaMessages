@@ -430,7 +430,7 @@
 	"gadget-curidlink-link-by-id-desc": "Text of sidebar tooltip added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-souspages-subpages": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-SousPages.js|SousPages]] gadget\n\n{{Identical|Subpage}}",
 	"ext-campaignevents-register-policy": "Legal disclaimer shown when a user tries to register for an event. The word for \"Registration\" should be consistent with the word used in the messages for the Campaign Events extension, for example {{msg-mw|Campaignevents-register-confirmation-top}}.",
-	"ext-campaignevents-registration-form-policy": "Policy message shown in the footer of the registrtion form at [[Special:EnableEventRegistration]] and [[Special:EditEventRegistration]].",
+	"ext-campaignevents-registration-form-policy": "Policy message shown in the footer of the registration form at [[Special:EnableEventRegistration]] and [[Special:EditEventRegistration]].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Legal disclaimer in the feedback survey on [[Special:SimilarEditors]]",
 	"readinglists-import-app": "Prompt user to download app to import reading list.",
 	"readinglists-import-app-with-link": "Prompt user to download app to import reading list. The $1 parameter will be replaced with the URL for downloading.\n\nSee also {{msg-mw|Readinglists-import-app}}\n\nConfigured on site basis. See '''[[mw:Extension:WikimediaMessages]]''' for Wikimedia localizations (and some early user documentation at '''[[c:User:Multichill/Template i18n at Translatewiki]]''').\n\n'''FIXME:''' see https://phabricator.wikimedia.org/T332519",

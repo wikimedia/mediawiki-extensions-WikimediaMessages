@@ -175,6 +175,8 @@ class Hooks implements
 			'jsonconfig-license-copyrightwarning-license-unset',
 			'jsonconfig-license-notice',
 			'jsonconfig-license-notice-license-unset',
+			// T340115
+			'campaignevents-edit-field-clickwrap-checkbox-label',
 		];
 
 		static $allbutmetawikikeys = [
