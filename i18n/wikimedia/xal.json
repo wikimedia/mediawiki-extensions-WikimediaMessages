@@ -7,17 +7,17 @@
 			"Алия"
 		]
 	},
-	"sitesupport": "Өглһин эзн болх",
+	"sitesupport": "Өглһ өргх",
 	"tooltip-n-sitesupport": "Бидниг демҗтн",
 	"wikimedia-copyright": "Эн халхин текстиг <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike</a> лицензин даху ашглх болмҗта; немлт медәллиг Керглх нөкцл халхас авхнтн.",
-	"wikimedia-copyrightwarning": "Ясвриг хадһлхар Та [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, эврә орулсн хүв-немриг [https://creativecommons-ын  лицензин даху ниитлхиг эрглт-буцлт угаһар зөвшәрҗ бәәнә. org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 Лиценз] болн [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nCreative Commons лицензин холвасн эс гиҗ URL-нь хаңһлтта гидгиг та зөвшәрҗ бәәнәт.",
+	"wikimedia-copyrightwarning": "Ясвриг хадһлхар Та [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, эврә орулсн хүв-немриг [https://creativecommons-ын  лицензин даху ниитлхиг эрглт-буцлт угаһар зөвшәрҗ бәәнәт. org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 Лиценз] болн [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nCreative Commons лицензин холвасн эс гиҗ URL-нь хаңһлтта гидгиг та зөвшәрҗ бәәнәт.",
 	"wikibase-sitelinks-wikinews": "Вики-медән",
-	"wikibase-sitelinks-wikiquote": "Вики-эш татач",
+	"wikibase-sitelinks-wikiquote": "Вики-ишлл",
 	"wikibase-sitelinks-wikisource": "Вики-саң",
 	"wikibase-sitelinks-wikivoyage": "Вики-айлл",
 	"wikimedia-developers": "Көгҗүләчнрт",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nХаалтнь $1 ($2)-ар кегдв.\nЗаагдсн шилтәнь ''$3''.\n\n* Хаалтын эклцнь: $4\n* Хаалтын төгсклнь: $5\n\nТана одаһин IP хайг $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}''' \nХаалтнь $1 ($2)-ар кегдв. \nЗаагдсн шилтәнь ''$3''. \n* Хаалтын эклцнь: $4 \n* Хаалтын төгсклнь: $5 \n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБөгләг $1 ($2) кев.\nШилтәнь ''$3''.\n\n* Бөглә эклсн цаг: $4\n* Бөглә дуусх цаг: $5\n\nТана одаһин IP хайг болхла, $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}''' \nБөгләг $1 ($2) кев. \nШилтәнь ''$3''. \n* Бөглә эклсн цаг: $4 \n* Бөглә дуусх цаг: $5 \n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистик",
 	"wikimedia-cookiestatement": "Кукиһин таларк медәлл"
 }

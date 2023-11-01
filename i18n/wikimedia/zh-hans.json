@@ -372,5 +372,13 @@
 	"action-docseditor": "编辑文档",
 	"right-docseditor": "编辑文档",
 	"ipinfo-feedback-button-label": "留下反馈",
-	"readinglists-import-app": "要导入此阅读列表，请安装最新版本的维基百科应用程序："
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "是",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "否",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "感谢您的反馈。",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "是",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "否",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "我不确定",
+	"gadget-souspages-subpages": "子页面",
+	"readinglists-import-app": "要导入此阅读列表，请安装最新版本的维基百科应用程序：",
+	"ipinfo-global-contributions-url-label": "全域贡献"
 }

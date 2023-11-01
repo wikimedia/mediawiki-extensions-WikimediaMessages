@@ -5,15 +5,16 @@
 			"Oxianboal"
 		]
 	},
-	"wm-license-cc-attribution": "Атрибуциязы",
-	"wm-license-cc-free": "Сірер пос полчазар:",
-	"wm-license-cc-free-to-share-header": "ӱлирге",
+	"wm-license-cc-attribution": "Атрибуция",
+	"wm-license-cc-by-sa-3.0-text": "[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons\n.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лицензия пастыра пу файлнаң тузаланарға чарир.",
+	"wm-license-cc-free": "Сірер пос ит поларзар:",
+	"wm-license-cc-free-to-share-header": "ӱлезерге",
 	"wm-license-cc-free-to-share-text": "Пу тоғысты хобырарға, тарадарға паза пирерге",
-	"wm-license-cc-free-to-remix-header": "собырарға",
+	"wm-license-cc-free-to-remix-header": "хубулдырарға",
 	"wm-license-cc-free-to-remix-text": "тоғысты иптебізерге",
 	"wm-license-cc-conditions": "Пу условиелерні тутса:",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
 	"wm-license-cc-conditions-attribution-text": "Сірерге автор адын кӧзіт саларға кирек, лицензияа ссылка пир салып,авторның алызығларын таныхтап саларға кирек. Аны аймах оңдайнаң идерге чарир, че лицензиат сірерге чарадығ пирген тіп полбасха кирек.",
-	"wm-license-cc-conditions-share_alike-header": "Олох условиелернең алғытханы",
-	"wm-license-cc-conditions-share_alike-text": "Пу материалға тӧстеніп, пасха тоғыс тимнепчетсе алай алызығлар кирчетсе, пастағызының лицензиязынаң алай[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses  килiстiре лицензиязынаң] тузаланыңар."
+	"wm-license-cc-conditions-share_alike-header": "Олох оңдайлар пастыра тарадары",
+	"wm-license-cc-conditions-share_alike-text": "Пу материалға тӧстеніп, пасха тоғыс тимнепчетсе алай тӱзедіглер кирчетсе, пастағызының лицензиязынаң алай[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses  килiстiре лицензиязынаң] тузаланыңар."
 }
