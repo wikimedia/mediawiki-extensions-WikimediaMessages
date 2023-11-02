@@ -6,12 +6,13 @@
 			"Oxianboal"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "1.2 версияның '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' алай халғанҷызын сығарылған версияның [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] хоостыра пу документтернi хобырарға, тарадарға паза алыстырарға чарир, че  тӱзеділбинчеткен полiктерге, сайттың алнындағы паза соондағы тексттерге теерге чарабас. Лицензияның копиязын ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''полiкте табарзар.",
 	"wm-license-information-description": "Пасханы",
 	"wm-license-information-source": "Алылған орын",
 	"wm-license-information-date": "Кӱн",
 	"wm-license-information-author": "Автор",
 	"wm-license-information-permission": "Тӧрелер",
 	"wm-license-information-permission-reusing-text": "Пу файлнаң хатап тузаланғаны",
-	"wm-license-own-work": "Позының тоғызы",
-	"wm-license-self-multiple-licenses-select": "Пу лицензиялардаң хайдағ-даа таллирға полчазар."
+	"wm-license-own-work": "Пос тоғызы",
+	"wm-license-self-multiple-licenses-select": "Пу лицензияларның хайзын даа таллирға чарир."
 }

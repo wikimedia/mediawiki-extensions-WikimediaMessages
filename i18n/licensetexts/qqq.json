@@ -27,7 +27,8 @@
 			"SPQRobin",
 			"Shirayuki",
 			"Siebrand",
-			"Umherirrender"
+			"Umherirrender",
+			"Saurmandal"
 		]
 	},
 	"wm-license-attribution-with-author-text": "This message will be used at [[Commons:Template:Attribution]] when an author is set.\n\nParameters:\n* $1 - the copyright holder\nSee also:\n* {{msg-mw|Wm-license-attribution-without-author-text}}",
@@ -115,7 +116,7 @@
 	"wm-license-pd-author-self-text": "Refers to {{msg-mw|Wm-license-pd-wiki-link}}.",
 	"wm-license-pd-author-with-author-text": "Refers to {{msg-mw|Wm-license-pd-wiki-link}}.\n\nParameters:\n* $1 - name",
 	"wm-license-pd-author-not-legally-possible": "Used from the [[commons:Template:PD-self|Commons Template \"PD-self\"]].",
-	"wm-license-pd-author-self-any-purpose": "အကျွန်ုပ်သည် ဤဖန်တီးမှုလက်ရာကို ဥပဒေအရလိုအပ်ခြင်းမရှိသည့် မည်သည့်အခြေအနေမျိုးတွက်မဆို၊ မည်သို့သော ရည်ရွယ်ချက်အတွက်မဆို ၎င်းကို မည်သူမဆို အသုံးပြုပိုင်ခွင့်အား ပေးအပ်သည်။",
+	"wm-license-pd-author-self-any-purpose": "",
 	"wm-license-pd-author-with-author-any-purpose": "Parameters:\n* $1 - a name. GENDER cannot be supported here, since this text is used in license templates, and we can't require users to specify the genders of works' authors.",
 	"wm-license-pd-usgov-wiki-link": "{{Optional}}",
 	"wm-license-pd-usgov-work-wiki-link": "{{Optional}}",
