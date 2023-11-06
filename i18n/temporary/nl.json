@@ -7,7 +7,9 @@
 			"SPQRobin",
 			"Siebrand",
 			"Sjoerddebruin",
-			"User555"
+			"User555",
+			"Mbch331",
+			"McDutchie"
 		]
 	},
 	"wikimediamessages-desc": "Tijdelijke berichten voor Wikimedia",
@@ -15,7 +17,7 @@
 	"group-oversight": "toezichthouders",
 	"group-oversight-member": "{{GENDER:$1|toezichthouder}}",
 	"hello": "Hallo",
-	"please-translate": "Help met het vertalen naar uw taal",
+	"please-translate": "Help met het vertalen in uw taal",
 	"thank-you": "{{GENDER:$1|Dank u.}}",
 	"specialblockfeedback": "Terugkoppeling"
 }
