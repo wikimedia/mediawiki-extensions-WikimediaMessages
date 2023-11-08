@@ -15,7 +15,8 @@
 			"Tranve",
 			"WhitePhosphorus",
 			"Yfdyh000",
-			"沈澄心"
+			"沈澄心",
+			"LaMagiaaa"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账户}}，这是此时间段内允许创建的最大数量。因此，使用此IP地址的访客目前不能再创建更多账户。\n\n如果您加入了以贡献维基媒体项目为中心的活动中的话，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
@@ -56,6 +57,7 @@
 	"wikimedia-ipinfo-source-geoip2": "您对本工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]的约束。",
 	"wikimedia-ipinfo-preference-use-agreement": "我同意根据[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]来使用本工具，仅用于调查或阻止破坏、滥用或其他违反维基媒体基金会及社群方针的行为。",
 	"wikimedia-centralauth-admin-log-otherwiki": "此账号已被锁定。参见[[meta:Special:CentralAuth/$1|元维基的全域账号详情]]以获取更多详情。",
+	"wikimedia-globalblocking-blockedtext-on-range": "您的IP地址位于在[[m:Special:MyLanguage/Global blocks|所有维基媒体基金会的wiki上被封禁]]的地址段中。",
 	"wikimedia-globalblocking-blockedtext-ip-range": "被封禁的地址段为$1。",
 	"wikimedia-globalblocking-blockedtext-proxy": "被封禁的代理服务器地址是$1。",
 	"wikimedia-globalblocking-blockedtext-mistake": "如果您认为自己被错误封禁，可以在[[m:Special:MyLanguage/No open proxies|请勿使用开放代理]]中查看更多信息和说明。\n此外，请[[m:Steward requests/Global|在元维基上发布审核请求]]讨论该封禁。",

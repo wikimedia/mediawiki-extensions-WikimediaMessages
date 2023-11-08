@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
-	"wm-codeofconduct": "Código de conduta"
+	"wm-codeofconduct": "Código de conduta",
+	"wm-techcodeofconduct": "Código de conduta"
 }

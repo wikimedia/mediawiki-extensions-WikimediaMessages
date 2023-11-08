@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Enye Lav"
+			"Enye Lav",
+			"Римма"
 		]
 	},
+	"wm-license-information-description": "Серпасалӧм",
 	"wm-license-information-source": "Öшмöс",
 	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Автор:",

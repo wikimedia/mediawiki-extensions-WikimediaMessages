@@ -9,7 +9,7 @@
 	},
 	"wikimediamessages-desc": "WikiMedial kävutadud specifižed tedotused",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=vep",
-	"sitesupport": "Tehta zhertvlahj",
+	"sitesupport": "Lahjaižed",
 	"tooltip-n-sitesupport": "Pid'oitelgat meid",
 	"specialpages-group-contribution": "Lahjoičendad/Rahoidenkeradand",
 	"nstab-creator": "Sädai",
@@ -67,12 +67,12 @@
 	"group-steward-member": "{{GENDER:$1|stüard}}",
 	"group-sysadmin": "Sisteman administratorad",
 	"group-sysadmin-member": "{{GENDER:$1|sistemadministratorad}}",
-	"wikimedia-copyright": "Tekstan voib sada tägä<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>-licenzijan mödhe; erašti voiba olda ližapakičused.\nKacu: <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> ližatedod.",
-	"wikimedia-copyrightwarning": "Kaites vajehtusid sinä hökkähtad [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use kävutamižen sändoidenke], da sinä hökkähtad vastustamata painusenke[https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Sinä hökkähtad licenzijanke, konz ozutad tarkendusen libo URL lehtpolen.",
+	"wikimedia-copyright": "Tekstan voib sada tägä<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> licenzijan mödhe; erašti voiba olda ližapakičused.\nKacu: <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> ližatedod.",
+	"wikimedia-copyrightwarning": "Kaites vajehtusid sinä hökkähtad [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use], da sinä hökkähtad vastustamata painusenke [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Sinä hökkähtad the Creative Commons license\n- licenzijanke, konz ozutad tarkendusen libo URL lehtpolen.",
 	"wikibase-repo-name": "Vikiandmused",
-	"wikibase-sitelinks-wikinews": "Viki-uzištod",
-	"wikibase-sitelinks-wikiquote": "Vikioteg",
-	"wikibase-sitelinks-wikisource": "Vikilähte",
+	"wikibase-sitelinks-wikinews": "Wiki-uzištod",
+	"wikibase-sitelinks-wikiquote": "Wikioteg",
+	"wikibase-sitelinks-wikisource": "Wikilähte",
 	"wikibase-sitelinks-wikivoyage": "Wikimatk",
 	"wikibase-otherprojects-testwikidata": "Vikiandmused",
 	"wikibase-otherprojects-wikidata": "Vikiandmused",
@@ -81,5 +81,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nSaubatuz oli tehtud $1 ($2).\nSü om siš, miše ''$3''.\n\n* Saubatusen augotiž: $4\n* Saubatusen loppäiv: $5\n\nSinun nügüdläine IP-adres om $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSaubatuz oli tehtud $1 ($2).\nSü om siš, miše ''$3''.\n\n* Saubatusen augotiž: $4\n* Saubatusen loppäiv: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Tedo kukiden polhe"
+	"wikimedia-cookiestatement": "Tedod kukiden polhe"
 }
