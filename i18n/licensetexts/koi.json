@@ -1,12 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Enye Lav"
+			"Enye Lav",
+			"Римма"
 		]
 	},
+	"wm-license-information-description": "Серпасалӧм",
 	"wm-license-information-source": "Öшмöс",
 	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Автор:",
+	"wm-license-information-permission": "Позяннэз",
+	"wm-license-information-permission-reusing-text": "Этія файлсӧ мӧдісь пыртӧм",
 	"wm-license-information-permission-see-below": "Видзöт улöжык",
 	"wm-license-information-other-versions": "Мöдiк версияэз",
 	"wm-license-own-work": "Аслам удж"
