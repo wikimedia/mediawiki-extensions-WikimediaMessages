@@ -12,6 +12,8 @@
 	"wikibase-sitelinks-wikisource": "Викиӧшмӧс",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Уджкерись",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\nТасалӧм вӧлі керӧма $1 ($2).\nИньдӧм мог''$3''.\n\n* тасалӧмлӧн пондӧм: $4\n* тасалӧмлӧн пом: $5\nТіян ӧніся  IP адрес $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nТасалӧм керӧма $1 ($2).\nИньдӧм мог ''$3''.\n\n* Тасалӧмлӧн пондом: $4\n* Тасалӧмлӧн пом: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки сьӧрті шыӧтчӧм",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Содтӧт юӧр босьтӧм понда тӧдсасьӧ эта юасьӧмӧн [https://foundation.wikimedia.org/wiki\n/Legal:Performance_Perception_Survey_Privacy_Statement privacy statement].",

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"AguzulH",
 			"Brahim-essaidi",
 			"Hakim1bal",
 			"ⵣⵉⵔⵉ ⴰⵎⵖⵏⴰⵙ"
@@ -71,5 +72,5 @@
 	"project-localized-name-donatewiki": "ⴼⴽ ⵉⴷⵔⵉⵎⵏ",
 	"project-localized-name-incubatorwiki": "ⵜⴰⵎⵙⴷⴰⵍⵜ ⵏ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
 	"project-localized-name-kabwiki": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ ⵙ ⵜⵇⴱⴰⵢⵍⵉⵜ",
-	"project-localized-name-zghwiki": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵎⵓⵔⵉⵜ"
+	"project-localized-name-zghwiki": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵎⵖⵔⵉⴱⵉⵜ"
 }
