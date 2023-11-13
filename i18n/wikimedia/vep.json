@@ -9,7 +9,7 @@
 	},
 	"wikimediamessages-desc": "WikiMedial kävutadud specifižed tedotused",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=vep",
-	"sitesupport": "Tehta zhertvlahj",
+	"sitesupport": "Lahjaižed",
 	"tooltip-n-sitesupport": "Pid'oitelgat meid",
 	"specialpages-group-contribution": "Lahjoičendad/Rahoidenkeradand",
 	"nstab-creator": "Sädai",
@@ -70,14 +70,14 @@
 	"group-sysadmin-member": "{{GENDER:$1|sistemadministratorad}}",
 	"wikimedia-copyright": "Tekst sab sada <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>-licenzijan mödhe; erasti voib olesketa ližaarvoimižid.\nKacu mugažo: <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a>.",
 	"wikibase-repo-name": "Vikiandmused",
-	"wikibase-sitelinks-wikinews": "Viki-uzištod",
-	"wikibase-sitelinks-wikiquote": "Vikioteg",
-	"wikibase-sitelinks-wikisource": "Vikilähte",
+	"wikibase-sitelinks-wikinews": "Wiki-uzištod",
+	"wikibase-sitelinks-wikiquote": "Wikioteg",
+	"wikibase-sitelinks-wikisource": "Wikilähte",
 	"wikibase-sitelinks-wikivoyage": "Wikimatk",
 	"wikibase-otherprojects-testwikidata": "Vikiandmused",
 	"wikibase-otherprojects-wikidata": "Vikiandmused",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiandmused",
 	"wikimedia-developers": "Tegijad",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Tedo kukiden polhe"
+	"wikimedia-cookiestatement": "Tedod kukiden polhe"
 }
