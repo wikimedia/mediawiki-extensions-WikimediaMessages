@@ -7,7 +7,13 @@
 	"sitesupport": "Козьнасьны",
 	"wikimedia-copyright": "Текст оссяс <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"> лицензия сьӧрті Creative Commons Attribution-ShareAlike License</a>;\nмукӧд дырна вермасӧ уджавны содтӧт корӧммез.\nПыдынжыка видзӧт <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
 	"wikimedia-copyrightwarning": "Вежсьӧммез видзикӧ ті согласитчатӧ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use],а сідзжӧ согласитчатӧ донтытӧг лэдзӧм гижӧт вылӧ лицензия сьӧрті[https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0License]и[https://en.wikipedia.org/wiki/Wikipedia\n:Text_of_the_GNU_Free_Documentation_License GFDL].Ті сідзжӧ согласитчатӧ сійӧн, мый ыджыт ыстісьӧм нето URL-адрес лоасӧ тырманаӧн гижись вылӧ ыстісикӧн Creative Commons лицензия сьӧрті",
+	"wikibase-sitelinks-wikinews": "Викиюӧррез",
+	"wikibase-sitelinks-wikiquote": "Викиыстісян",
+	"wikibase-sitelinks-wikisource": "Викиӧшмӧс",
+	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Уджкерись",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\nТасалӧм вӧлі керӧма $1 ($2).\nИньдӧм мог''$3''.\n\n* тасалӧмлӧн пондӧм: $4\n* тасалӧмлӧн пом: $5\nТіян ӧніся  IP адрес $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nТасалӧм керӧма $1 ($2).\nИньдӧм мог ''$3''.\n\n* Тасалӧмлӧн пондом: $4\n* Тасалӧмлӧн пом: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки сьӧрті шыӧтчӧм"
 }

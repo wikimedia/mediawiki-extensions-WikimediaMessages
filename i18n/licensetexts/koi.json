@@ -5,11 +5,15 @@
 			"Римма"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Позьӧ керны копия, паськӧтны и/ нето вежны этія документсӧ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''корӧммез сьӧрті,Версия 1.2 нето важжык,лэдзӧм[[{{int:wm-license-fsf-wiki-link}}|осьта уджтасулов Фондӧн]];вежсьытӧм юкӧннэзтӧг,одзза да бӧрья кышӧтын тексттэзтӧг.Лицензиялӧн копия пыртӧма юкӧнӧ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''нимӧн",
 	"wm-license-information-description": "Серпасалӧм",
 	"wm-license-information-source": "Öшмöс",
 	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Автор:",
+	"wm-license-information-permission": "Позяннэз",
+	"wm-license-information-permission-reusing-text": "Этія файлсӧ мӧдісь пыртӧм",
 	"wm-license-information-permission-see-below": "Видзöт улöжык",
 	"wm-license-information-other-versions": "Мöдiк версияэз",
-	"wm-license-own-work": "Аслам удж"
+	"wm-license-own-work": "Аслам удж",
+	"wm-license-self-multiple-licenses-select": "Ті верматӧ этна лицензияэзісь бӧрйыны кӧть кытшӧмӧс"
 }

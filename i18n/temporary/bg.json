@@ -4,7 +4,8 @@
 			"DCLXVI",
 			"ShockD",
 			"StanProg",
-			"Vlad5250"
+			"Vlad5250",
+			"Ted Masters"
 		]
 	},
 	"wikimediamessages-desc": "Временни съобщения, специфични за Уикимедия",
@@ -15,5 +16,7 @@
 	"please-translate": "Моля, помогнете с превода на Вашия език",
 	"thank-you": "{{GENDER:$1|Благодаря.}}",
 	"specialblockfeedback": "Обратна връзка",
-	"specialinvestigate-feedback": "Оставете коментар"
+	"specialinvestigate-feedback": "Оставете коментар",
+	"graph-disabled-category": "Страници със спрени графики",
+	"graph-disabled-category-desc": "Страницата съдържа <code><nowiki><graph></nowiki></code> таг, който е временно недостъпен ([[phab:T334940|T334940]])."
 }
