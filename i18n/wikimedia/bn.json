@@ -24,7 +24,8 @@
 			"Zaheen",
 			"আজিজ",
 			"আফতাবুজ্জামান",
-			"মোঃ মারুফ হাসান24"
+			"মোঃ মারুফ হাসান24",
+			"Amire80"
 		]
 	},
 	"wikimediamessages-desc": "উইকিমিডিয়া নির্ধারিত বার্তা",
@@ -150,6 +151,8 @@
 	"grouppage-centralnoticeadmin": "{{ns:project}}:কেন্দ্রীয় বিজ্ঞপ্তি প্রশাসক",
 	"group-global-bot": "বৈশ্বিক বট",
 	"group-global-bot-member": "{{GENDER:$1|বৈশ্বিক বট}}",
+	"group-global-deleter": "বৈশ্বিক অপসারণকারী",
+	"group-global-deleter-member": "{{GENDER:$1|বৈশ্বিক অপসারণকারী}}",
 	"group-global-ipblock-exempt": "বৈশ্বিক আইপি বাধামুক্ত",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|বৈশ্বিক আইপি বাধামুক্ত}}",
 	"group-global-interface-editor": "বৈশ্বিক ইন্টারফেস সম্পাদক",
