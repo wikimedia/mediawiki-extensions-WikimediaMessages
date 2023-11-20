@@ -29,7 +29,10 @@
 			"Vriullop",
 			"Xavier Dengra",
 			"Jmarchn",
-			"Jmontane"
+			"Jmontane",
+			"Jsn.sherman",
+			"Mguix",
+			"TAndic (WMF)"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -204,6 +207,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''La vostra adreça IP ha estat [[m:Special:MyLanguage/Global blocks|blocada en tots els wikis]].'''\n\nEl blocatge ha estat realitzat per $1 ($2).\nEl motiu adduït és ''$3''.\n\n* Inici del blocatge: $4\n* Fi del blocatge: $5\n\nLa vostra adreça IP actual és $6.\nSi us plau, indiqueu totes aquestes dades en qualsevol consulta que realitzeu.\n\nSi penseu que heu estat blocat per error, trobareu més informació i instruccions al reglament global [[m:Special:MyLanguage/No open proxies|No proxys oberts]].\n\nAltrament, per discutir sobre el blocatge, [[m:Steward requests/Global|escriviu una sol·licitud de revisió a Meta-Wiki]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/ca",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de privadesa]",
+	"upload-form-label-not-own-work-local-commons": "També podeu provar d'utilitzar [[Special:Upload|la pàgina de càrrega a {{SITENAME}}]], si el lloc permet la càrrega d'aquest fitxer segons les polítiques d'admissió.",
 	"wikimedia-upload-nolicenses": "La càrrega de fitxers en aquest wiki no està habilitada. Feu la [[commons:Special:UploadWizard|càrrega a Wikimedia Commons]].\n\nPer poder utilitzar aquesta pàgina especial de càrrega en aquest wiki, cal que un administrador afegeixi opcions de llicències en la pàgina [[MediaWiki:Licenses]].\n\nEl format és el següent: <code>* Nom de la plantilla|Etiqueta</code>. Es pot usar qualsevol text per habilitar la càrrega sense cap opció de llicència.",
 	"interlanguage-link-mul": "Més llengües",
 	"interlanguage-link-wikipedia": "Viquipèdia",

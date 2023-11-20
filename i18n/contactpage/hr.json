@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bugoslav"
+			"Bugoslav",
+			"Ponor"
 		]
 	},
 	"contactpage-wikimedia-trademark-foundation": "Zaklada Wikimedija",
 	"contactpage-wikimedia-trademark-commons": "Zajednički poslužitelj Wikimedije",
 	"contactpage-wikimedia-trademark-incubator": "Wikimedijin Inkubator",
-	"contactpage-wikimedia-trademark-mediawiki": "Medijawiki",
+	"contactpage-wikimedia-trademark-mediawiki": "MediaWiki",
 	"contactpage-wikimedia-trademark-wikiquote": "Wikicitat",
 	"contactpage-wikimedia-trademark-wikibooks": "Wikiknjige",
 	"contactpage-wikimedia-trademark-wikimania": "Wikimanija",

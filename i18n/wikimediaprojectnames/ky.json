@@ -4,6 +4,7 @@
 			"Bosogo"
 		]
 	},
+	"project-localized-name-aawiki": "Афар Википедиясы",
 	"project-localized-name-abwiki": "Абхаз Википедиясы",
 	"project-localized-name-abwiktionary": "Абхаз Викисөздүгү",
 	"project-localized-name-arwikinews": "Араб Викижаңылыктары",
@@ -23,9 +24,12 @@
 	"project-localized-name-dewikivoyage": "Немис Викисаякаты",
 	"project-localized-name-dewiktionary": "Немис Викисөздүгү",
 	"project-localized-name-enwiki": "Англис Википедиясы",
+	"project-localized-name-enwikibooks": "Англис Викикитеби",
 	"project-localized-name-enwikinews": "Англис Викижаңылыктар",
 	"project-localized-name-enwikisource": "Англис Викибулагы",
+	"project-localized-name-enwikiversity": "Англис Викиверситети",
 	"project-localized-name-enwikivoyage": "Англис Викисаякаты",
+	"project-localized-name-enwiktionary": "Англис Викисөздүгү",
 	"project-localized-name-eswiki": "Испан Википедиясы",
 	"project-localized-name-eswikinews": "Испан Викижаңылыктары",
 	"project-localized-name-eswikisource": "Испан Викибулагы",
