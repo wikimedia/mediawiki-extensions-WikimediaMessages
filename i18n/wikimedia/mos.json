@@ -3,6 +3,7 @@
 		"authors": [
 			"AaaRazak",
 			"Abdul Fatawu 352",
+			"Abdul Manaaf",
 			"Amire80",
 			"Cdilalo47",
 			"Hasslaebetch",
@@ -19,6 +20,7 @@
 	"wikimedia-developers": "Sɩngreba",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nGɩdbo maana ni $1 ($2).\nBʋʋm yaa ''$3''.\n\n* Gɩdbo sɩngre ne: $4\n* Gɩdbo wakate looga ne: $5\n\nFo IP aderse nɩng fo sĩ tara masã ya $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nGɩdbo maana ni $1 ($2).\nBʋʋm yaa ne ''$3''.\n\n* Gɩdbo sɩngre: $4\n* Gɩdbo wakate looga: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-torblock-blocked": "Y IP-dresã, <strong>$1</strong>, b yãame tɩ yaa [https://en.wikipedia.org/wiki/Tor_ (tumb) Tor] sorã nood. B gɩdgda sẽn na yɩl n da maan wẽnga. Sẽn na yɩl n paam n bãng bũmb ning sẽn pa beẽ wã, bɩ y ges [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies no open proxies] global policy wã.",
 	"wikimedia-statslink": "Geelgo",
 	"wikimedia-cookiestatement": "Sɩlme gʋlsgo"
 }

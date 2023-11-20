@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"ANTHONY DERY",
 			"Amire80",
 			"Joachim Yirkang",
 			"Linus Konkor",
@@ -9,8 +10,8 @@
 			"Zakaria Tunsung"
 		]
 	},
-	"sitesupport": "Iri fo kyeɛo naŋ ta lɛ",
-	"wikimedia-copyright": "Sɛgere be la a paree kyɛ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> nyɛ duoro yaga",
+	"sitesupport": "Soŋ ne fo sombo",
+	"wikimedia-copyright": "Sɛgere be la a puli kyɛ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> nyɛ duoro yaga",
 	"wikimedia-copyrightwarning": "Ka fooŋ wa seebi a leɛore lɛ wulo ka fo sagɛɛ ka [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], ane fo la sagɛɛ sagebo meŋa ka fo na barɛɛ fo toma ko [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ane a [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nFo sagɛɛ ka a hyperlink bee URL eeɛ ko a yɛlɛ maaloo goɔloŋ.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
@@ -19,6 +20,7 @@
 	"wikimedia-developers": "maalmaalba",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBone naŋ e ko page la $1 ($2).\nKa ananso la ''$3''.\n\n* A pagebo piili la $4\n* O baaroo la $5\n\nFo pampana saseɛ miri youri la $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nNeɛ naŋ na maale a sɛgre $1 ($2).\nBa teɛroo wala''$3''.\n\n* Piili sɛgrɛ: $4\n* O baaroŋ bibiri: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-torblock-blocked": "A fo IP bambo magere, <strong>$1</strong>, eɛ la  [https://en.wikipedia.org/wiki/Tor_(network) Tor] yiibu tuobuzie.\nMaale emmo yineŋ Tor taa la beɛgebo ka neɛ zaa ta sãã o.\nKa yɛlɛ yaga nyabo aneŋ wulibu ko noba mine naŋ tona a toma, kaa a [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies no open proxies] tendaa zaa yɛlɛ.",
 	"wikimedia-statslink": "Gyɛre mannetaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"
 }
