@@ -19,5 +19,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nEstien luadi $1 ($2).\nAnnettu syy: ''$3''.\n\n* Estien algavunduaigu: $4\n* Estien loppevunduaigu: $5\n\nSinun nygöine IP-adressi on $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nEstien luadi $1 ($2).\nAnnettu syy: ''$3''.\n\n* Estien algavunduaigu: $4\n* Estien loppevunduaigu: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistiekat",
-	"wikimedia-cookiestatement": "Сookie-tiijostoloin käyttösiännöt"
+	"wikimedia-cookiestatement": "Сookie-tiijostoloin käytändy"
 }
