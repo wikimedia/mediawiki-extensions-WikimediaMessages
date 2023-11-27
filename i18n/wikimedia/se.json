@@ -59,5 +59,7 @@
 	"eri-rcfilters-tour-highlight-title": "Ivdne iežat bohtosiid",
 	"eri-rcfilters-tour-highlight-button": "Ášši lea čielggas.",
 	"wikimedia-statslink": "Statistihkka",
-	"wikimedia-cookiestatement": "Dieđut diehtočoahkuid birra"
+	"wikimedia-cookiestatement": "Dieđut diehtočoahkuid birra",
+	"group-oathauth-tester": "Guovtteceahkat autentiserema geahččaleaddjit",
+	"group-oathauth-tester-member": "{{GENDER:$1|guovtteceahkat autentiserema geahččaleaddji}}"
 }
