@@ -8,14 +8,14 @@
 	},
 	"sitesupport": "بەخشین وە ویکیپیدیا",
 	"tooltip-n-sitesupport": "پاڵپشتیمان بکە",
-	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> لە وەردەسە؛\nمەرجەیل ترەکیش تۊەنێد بوەسیتە سەری.\nئەڕاێ وردەکارییەیل <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">مەرجەیل ئەوکاربردن</a> بۊن.",
+	"wikimedia-copyright": "دەق لەژێر <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> لە وەردەسە؛\nمەرجەیل ترەکیش تۊەنێد بوەسیەێدە سەری.\nئەڕاێ وردەکارییەیل تەماشاێ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">مەرجەیل وەکاربردن</a> بکە.",
 	"wikimedia-copyrightwarning": "وە پاشدەسکردن ئاڵدەشتکاریەگان، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use مەرجەیل وەکاربردن] قەبووڵ کەید و وە شێوەێگ بەتاڵ نەکردنی پابەند بۊدن ک بەشدارییەگەت لە ژێر [https://creativecommons.org/licenses/by-sa/4.0/ گەوایینامەێ CC BY-SA 4.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] بڵاو بکەیدن.\nهەرلەێوا قەبووڵ کەیدن ک URL یا لینکێگ، ئەڕای سەرچاوە داێن لە ژێر گەوایینامەێ کریێتیڤ کامنز بەسە.",
 	"wikibase-sitelinks-wikinews": "ویکی خەوەر",
 	"wikibase-sitelinks-wikiquote": "ویکیوتە",
 	"wikibase-sitelinks-wikisource": "ویکیسەرچاوە",
 	"wikibase-sitelinks-wikivoyage": "ویکیسەفەر",
 	"wikimedia-developers": "پەرەپێدەرەیل",
-	"wikimedia-statslink": "ئامارەگان",
-	"wikimedia-cookiestatement": "بەیانیەی کووکی",
+	"wikimedia-statslink": "ئامارەیل",
+	"wikimedia-cookiestatement": "بەیانیەێ کووکی",
 	"protect-level-editautopatrolprotected": "هەر تەنیا گەشتەڵەیل ئجازە دێرن"
 }
