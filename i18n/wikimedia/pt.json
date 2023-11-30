@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Athena in Wonderland",
+			"Caiofernandes",
 			"Capmo",
 			"Crazymadlover",
 			"David0811",
@@ -272,7 +273,7 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nO bloqueio foi efetuado por $1 ($2). \nO motivo apresentado foi ''$3''. \n\n* Início do bloqueio: $4 \n* Expiração do bloqueio: $5 \n\nO seu endereço IP atual é $6. \n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-range": "'''O seu endereço IP pertence a uma gama que foi [[m:Special:MyLanguage/Global blocks|bloqueada em todas as wikis da Wikimedia Foundation]].'''\n\nO bloqueio foi efetuado por $1 ($2). \nO motivo apresentado foi ''$3''. \n\n* Início do bloqueio: $4 \n* Expiração do bloqueio: $5 \n\nO seu endereço IP atual é $6 e a gama de IP bloqueada é $7. \nInclua todos os detalhes acima em quaisquer mensagens que nos enviar, por favor.\n\nSe acredita que foi bloqueado por engano, pode encontrar informações adicionais e instruções na política global sobre a [[m:Special:MyLanguage/No open proxies|proibição de ''proxies'' abertos]]. \nCaso contrário, para discutir o bloqueio [[m:Steward requests/Global|abra um pedido para revisão no Meta-Wiki]] ou envie uma mensagem por correio eletrónico para a fila [[m:Special:MyLanguage/VRT|VRT]] dos [[m:Special:MyLanguage/Stewards|stewards]] em <kbd>stewards@wikimedia.org</kbd> incluindo todos os detalhes acima.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nO bloqueio foi efetuado por $1 ($2). \nO motivo apresentado é ''$3''. \n\n* Início do bloqueio: $4 \n* Expiração do bloqueio : $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-torblock-blocked": "O seu endereço IP, <strong>$1</strong>, foi identificado automaticamente como um nó de saída do Tor.\nPara informação adicional e instruções para utilizadores legítimos, consulte a norma global [[m:Special:MyLanguage/No open proxies|Proxies abertos são proibidos]].",
+	"wikimedia-torblock-blocked": "Seu endereço IP, <strong>$1</strong> , foi automaticamente identificado como um nó de saída [https://en.wikipedia.org/wiki/Tor_(network) Tor].\nA edição através do Tor está bloqueada para evitar abusos.\nFor informações e instruções adicionais para usuários legítimos, consulte a política global [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies no open proxies].",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Política de Privacidade]",
 	"grant-checkuser": "Aceder a dados de verificação de utilizadores",
 	"upload-form-label-own-work-message-commons": "Confirmo que sou o proprietário dos direitos de autor deste ficheiro, e aceito publicar irrevogavelmente este ficheiro na wiki Wikimedia Commons com a licença [https://creativecommons.org/licenses/by-sa/4.0/deed.pt Creative Commons Atribuição-CompartilhaIgual 4.0], e concordo com as [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Condições de Utilização].",
