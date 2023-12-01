@@ -45,7 +45,7 @@
 	"group-accountcreator-member": "fióklétrehozó",
 	"grouppage-accountcreator": "{{ns:project}}:Fióklétrehozók",
 	"group-arbcom": "Abritrációs Bizottság-tagok",
-	"group-arbcom-member": "Abritrációs Bizottság-tag",
+	"group-arbcom-member": "{{GENDER:$1|Wikitanács-tag}}",
 	"grouppage-arbcom": "{{ns:project}}:Abritrációs Bizottság tagok",
 	"group-autopatrolled": "automatikus járőrök",
 	"group-autopatrolled-member": "automatikus járőr",

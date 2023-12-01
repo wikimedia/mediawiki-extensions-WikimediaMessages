@@ -21,6 +21,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nПиктелген $1 ($2).\nСылтағ ''$3''.\n\n* Пиктегнің пасталғаны: $4\n* Пиктегнің тоозылғаны: $5\n\nСiрернiң амғы IP-адрезiңер - $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nПиктелген $1 ($2).\nСылтағ ''$3''.\n\n* Пиктегнің пасталғаны: $4\n* Пиктегнің тоозылғаны: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Куки файллардаңар заявление",
+	"wikimedia-cookiestatement": "Куки файллардаңар искiрiг",
 	"ext-campaignevents-registration-form-policy": "Википедия чыындызы иртірчеткен паза ахча позытчатхан мероприятиелер Википедия чыындызының прай политиказына килізерге кирек, ол санда [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy Youth Safety] хоостыра."
 }
