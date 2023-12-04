@@ -271,5 +271,6 @@
 	"group-oathauth-tester": "Kaksivaiheisen tunnistautumisen kokeilijat",
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
 	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",
+	"protect-level-editautoreviewprotected": "Automaattiseulotut käyttäjät",
 	"right-docseditor": "Muokata ohjeistusta"
 }
