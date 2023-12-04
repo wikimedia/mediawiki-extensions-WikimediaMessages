@@ -1988,13 +1988,9 @@ class Hooks implements
 	 * @param string|null $subPage
 	 */
 	private function addIPInfoLinks( $special, $subPage ): void {
-		$out = $special->getOutput();
 		if (
-			!$out->getTitle() ||
-			(
-				!$out->getTitle()->isSpecial( 'Contributions' ) &&
-				!$out->getTitle()->isSpecial( 'DeletedContributions' )
-			)
+			$special->getName() !== 'Contributions' &&
+			$special->getName() !== 'DeletedContributions'
 		) {
 			return;
 		}
@@ -2004,7 +2000,7 @@ class Hooks implements
 			return;
 		}
 
-		$accessingUser = $out->getUser();
+		$accessingUser = $special->getUser();
 		$isBetaFeaturesLoaded = $this->extensionRegistry->isLoaded( 'BetaFeatures' );
 		$services = MediaWikiServices::getInstance();
 		$permissionManager = $services->getPermissionManager();
@@ -2020,7 +2016,7 @@ class Hooks implements
 			return;
 		}
 
-		$out->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
+		$special->getOutput()->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
 	}
 
 	/**
