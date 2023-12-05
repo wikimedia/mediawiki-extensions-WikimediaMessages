@@ -6,19 +6,7 @@
 		]
 	},
 	"wm-license-cc-wiki-link": "w:fi:Creative Commons",
-	"wm-license-cc-attribution": "Nimeä",
 	"wm-license-cc-by-1.0-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.fi Nimeä 1.0 Yleinen] -lisensillä.",
 	"wm-license-cc-by-1.0-fi-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.fi Nimeä 1.0 Suomi ] -lisensillä.",
-	"wm-license-cc-by-1.0-il-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.fi Nimeä 1.0 Israel] -lisensillä.",
-	"wm-license-cc-by-sa-3.0-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.fi Nimeä-JaaSamoin 3.0 Ei sovitettu] -lisensillä.",
-	"wm-license-cc-free": "olet frii:",
-	"wm-license-cc-free-to-share-header": "teelata",
-	"wm-license-cc-free-to-share-text": "kopioida, levittää ja esittää teosta",
-	"wm-license-cc-free-to-remix-header": "remiksata",
-	"wm-license-cc-free-to-remix-text": "valmistaa muutettuja teoksia",
-	"wm-license-cc-conditions": "Seuraavila ehoila:",
-	"wm-license-cc-conditions-attribution-header": "nimeäminen",
-	"wm-license-cc-conditions-attribution-text": "sinun pitää antaa kreditii, antaa linkki lisenssiin ja kertoo mitä muutoksii tehthiin. et ehkä tee sitä kiltisti mutta älä tee niin ette se näyttää siltä ette linsenssoija hyäksyy ette käytät sitä",
-	"wm-license-cc-conditions-share_alike-header": "teelaa samoin",
-	"wm-license-cc-conditions-share_alike-text": "jos remikstaat, transformaat tai rakennat materiaahliin, sinun pittää teelata kehityksesi [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses sama eli samanlainen lisensi] ko orikinaalissa"
+	"wm-license-cc-by-1.0-il-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.fi Nimeä 1.0 Israel] -lisensillä."
 }
