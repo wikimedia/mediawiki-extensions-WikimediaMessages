@@ -8,18 +8,18 @@
 			"Матыр"
 		]
 	},
-	"sitesupport": "Сыйыхха пирерге",
+	"sitesupport": "Ахчалығ полызығ пирерге",
 	"tooltip-n-sitesupport": "Писке полызығ кирек",
-	"wikimedia-copyright": "Текст  <a href=\"https://creativecommons.org/licenses\n/by-sa/4.0/deed.en\"> лицензия Creative Commons Attribution-ShareAlike License</a> хоостыра азых;\nхоза правилолар кирiлерге айабас.\nАннаңар алғыда кӧріңер <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Тузаланар правилолар\">Terms of Use</a>",
+	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses\n/by-sa/4.0/deed.en\">  Creative Commons Attribution-ShareAlike лицензия</a> хоостыра азых, хоза правилолар кирiлерге айабас.\nАннаңар алғыда <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Тузаланар оңдайлар\">Terms of Use</a> кӧріңер.",
 	"wikimedia-copyrightwarning": "Тӱзедіглерні артызып, сiрер   [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru тузаланар оңдайларнаң] чарасчазар, ідӧк [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0]  [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензия хоостыра ӱндезіг чох сығарарға чарасчазар . Creative Commons лицензия хоостыра  гиперссылка паза страницаның URL кӧзідері читкіҷе поларынаң чарасчазар.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Аалҷы полыңар}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викихабарлар",
 	"wikibase-sitelinks-wikiquote": "Викицитаталар",
 	"wikibase-sitelinks-wikisource": "Викитека",
-	"wikibase-sitelinks-wikivoyage": "Вики-гид",
+	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Тӧстегҷілер",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nПиктелген $1 ($2).\nСылтағ ''$3''.\n\n* Пиктегнің пасталғаны: $4\n* Пиктегнің тоозылғаны: $5\n\nСiрернiң амғы IP-адрезiңер - $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nПиктелген $1 ($2).\nСылтағ ''$3''.\n\n* Пиктегнің пасталғаны: $4\n* Пиктегнің тоозылғаны: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nПиктелген $1 ($2).\nСылтағ ''$3''.\n\n* Пиктегнiң пасталғаны: $4\n* Пиктегнiң тоозылғаны: $5\n\nСiрернiң амғы IP-адрезiңер - $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nПиктелген $1 ($2).\nСылтағ ''$3''.\n\n* Пиктегнiң пасталғаны: $4\n* Пиктегнiң тоозылғаны: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Куки файллардаңар заявление"
+	"wikimedia-cookiestatement": "Куки файллардаңар искiрiг"
 }

@@ -7,7 +7,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Atribucii",
-	"wm-license-cc-by-sa-3.0-text": "Tämä tiijosto voibi avata licenziel [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported].",
+	"wm-license-cc-by-sa-3.0-text": "Tädä tiijostuo voibi käyttiä licenzien [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.ru Attribution-Share Alike 3.0 Unported] mugah.",
 	"wm-license-cc-free": "Voit välläh:",
 	"wm-license-cc-free-to-share-header": "jagua",
 	"wm-license-cc-free-to-share-text": "kopiiruija, levittiä da ezittiä tevostu",
@@ -15,7 +15,7 @@
 	"wm-license-cc-free-to-remix-text": "kebjendiä tevostu",
 	"wm-license-cc-conditions": "Nämmii ehtoloi noudajen:",
 	"wm-license-cc-conditions-attribution-header": "atribucii",
-	"wm-license-cc-conditions-attribution-text": "Sinul pidäy mainita luadii, tuvva linku licenzieh da merkitä, ollougo luadii luadinuh muutoksii. Sidä voibi luadie hos mittumal tolkukkahal taval, ga ei nenga, ku andazit ellendiä, ku licenzienandai kannattau sinuu da sinun tämän tevoksen käytändiä.",
+	"wm-license-cc-conditions-attribution-text": "Sinul pidäy mainita luadii, andua linku licenzieh da merkitä, ollougo luadii luadinuh muutoksii. Sidä voibi luadie hos mittumal tolkukkahal taval, ga ei nenga, ku andazit ellendiä, ku licenzienandai kannattau sinuu da sinun tämän tevoksen käytändiä.",
 	"wm-license-cc-conditions-share_alike-header": "jua samal taval",
-	"wm-license-cc-conditions-share_alike-text": "Ku kohendannet, muuttanet libo luadinet muudu uuttu tämän ruavon pohjal, voit jagua omua ruaduo vai täl [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] libo tämänjyttyzel licenziel."
+	"wm-license-cc-conditions-share_alike-text": "Ku kohendannet, muuttanet libo luadinet uuttu tämän ruavon pohjal, voit jagua omua ruaduo vai tämän [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] libo tämänjyttyzen licenzien mugah."
 }

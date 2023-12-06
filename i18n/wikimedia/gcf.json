@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Laetitia Kb"
+			"Laetitia Kb",
+			"EritajGwadloup"
 		]
 	},
-	"tooltip-n-sitesupport": "Ban-nou fòs"
+	"sitesupport": "Ba on don",
+	"tooltip-n-sitesupport": "Ban-nou fòs",
+	"wikimedia-copyright": "Sé-tekst-la yo disponib anba <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-developers": "Dévélopè",
+	"wikimedia-statslink": "Istatistik",
+	"wikimedia-cookiestatement": "Déklarasyon asi kijan yo sèvi èvè cookie an-nou"
 }
