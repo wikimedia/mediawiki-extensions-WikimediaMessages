@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Laetitia Kb"
+			"Laetitia Kb",
+			"EritajGwadloup"
 		]
 	},
-	"tooltip-n-sitesupport": "Ban-nou fòs"
+	"sitesupport": "Ba on don",
+	"tooltip-n-sitesupport": "Ban-nou fòs",
+	"wikimedia-developers": "Dévélopè",
+	"wikimedia-statslink": "Istatistik",
+	"wikimedia-cookiestatement": "Déklarasyon asi kijan yo sèvi èvè cookie an-nou"
 }

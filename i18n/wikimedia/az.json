@@ -86,7 +86,7 @@
 	"group-wikidata-staff-member": "{{GENDER:$1|Vikiverilənlər əməkdaşı}}",
 	"group-global-bot": "Qlobal bot",
 	"group-global-bot-member": "{{GENDER:$1|qlobal bot}}",
-	"group-global-ipblock-exempt": "Qlobal olaraq IP blokundan azad olanlar",
+	"group-global-ipblock-exempt": "Qlobal IP blokundan azad olanlar",
 	"group-global-rollbacker": "Qlobal rolbakerlər",
 	"group-global-rollbacker-member": "{{GENDER:$1|qlobal rolbaker}}",
 	"group-global-sysop": "Qlobal inzibatçılar",
