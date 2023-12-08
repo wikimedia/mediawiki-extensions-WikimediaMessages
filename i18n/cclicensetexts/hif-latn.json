@@ -3,11 +3,20 @@
 		"authors": [
 			"Abdul Kadir",
 			"Girmitya",
-			"Smobile"
+			"Smobile",
+			"Thakurji"
 		]
 	},
+	"wm-license-cc-attribution": "Attribution",
+	"wm-license-cc-by-sa-3.0-text": "ii file ke [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] license ke niche licence karaa gais hai.",
+	"wm-license-cc-free": "You are free:",
 	"wm-license-cc-free-to-share-header": "share kare ke khaatir",
+	"wm-license-cc-free-to-share-text": "to copy, distribute and transmit the work",
+	"wm-license-cc-free-to-remix-header": "to remix",
+	"wm-license-cc-free-to-remix-text": "to adapt the work",
 	"wm-license-cc-conditions": "II condition ke niiche:",
+	"wm-license-cc-conditions-attribution-header": "attribution",
 	"wm-license-cc-conditions-attribution-text": "Aap ke thiik credit de ke chaahi, licence pe jorr de ke chaahi, aur  badlao ke dekhae ke chaahi. Aap iske koi reasonable manner me kare saktaa hai lekin aise nai ki lage  ki licensor aap ke, nai to aap ke kaam ke endorse kre hai",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
 	"wm-license-cc-conditions-share_alike-text": "Agar aap milaata hai, badaltaa hai, nai to material pe jorrtaa hai, tab aap ke aapan yogdaan ke [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] ke niche baate kare kae chaaahi."
 }
