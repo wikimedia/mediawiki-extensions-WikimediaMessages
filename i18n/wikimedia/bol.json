@@ -6,11 +6,13 @@
 	},
 	"sitesupport": "Ona kyauta",
 	"wikimedia-copyright": "Nadì rubutu a ràwài <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nka ka men jàjìm.\nNā <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> gi àkàatà bayani gàm.",
+	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Miyƴallah aji gwantayi",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Moso",
 	"wikimedia-cookiestatement": "Labar kuki"
 }
