@@ -181,6 +181,8 @@
 	"grouppage-curator": "{{ns:project}}:Conservatoren",
 	"group-global-bot": "Globale bots",
 	"group-global-bot-member": "{{GENDER:$1|globale bot}}",
+	"group-global-flow-create": "Global Flow-makers",
+	"group-global-flow-create-member": "Global Flow-ma{{GENDER:$1|k|akst}}er",
 	"group-global-ipblock-exempt": "Uitgezonderden van globale IP-adresblokkades",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|uitgezonderde van globale IP-adresblokkades}}",
 	"group-global-interface-editor": "Globale interfacebewerkers",

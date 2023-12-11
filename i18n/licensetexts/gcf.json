@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Laetitia Kb"
+			"Laetitia Kb",
+			"EritajGwadloup"
 		]
 	},
 	"wm-license-information-description": "Deskription",
 	"wm-license-information-source": "Lasous",
-	"wm-license-information-author": "Lotè"
+	"wm-license-information-date": "Dat",
+	"wm-license-information-author": "Lotè",
+	"wm-license-information-permission": "Pèmisyon",
+	"wm-license-information-permission-reusing-text": "Wousèvi èvè fichyé-lasa",
+	"wm-license-own-work": "Travay a-w",
+	"wm-license-self-multiple-licenses-select": "Ou pé chwazi lisans ou vlé la."
 }
