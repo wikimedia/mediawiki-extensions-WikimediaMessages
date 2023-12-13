@@ -9,8 +9,11 @@
 	},
 	"wm-license-book-language": "Bhasa",
 	"wm-license-information-description": "Baare me",
+	"wm-license-information-source": "Source",
 	"wm-license-information-date": "Taarik",
 	"wm-license-information-author": "Likhe waala",
 	"wm-license-information-permission": "Adhikaar",
-	"wm-license-own-work": "Aapan kaam"
+	"wm-license-information-permission-reusing-text": "Ii file ke fir se kaam me laawa jaae hai",
+	"wm-license-own-work": "Aapan kaam",
+	"wm-license-self-multiple-licenses-select": "Aap aapan pasand ke licence ke chune saktaa hai."
 }

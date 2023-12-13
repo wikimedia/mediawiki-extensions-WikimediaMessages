@@ -9,14 +9,15 @@
 	},
 	"wikimediamessages-desc": "ຂໍ້ຄວາມສະເພາະ ວິກິພີເດຍ",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=en",
-	"sitesupport": "ບໍລິຈາກ",
+	"sitesupport": "ບໍລິຈາກໃຫ້ວິກິພີເດຍ",
 	"tooltip-n-sitesupport": "ສະໜັບສະໜູນພວກເຮົາ",
 	"group-ipblock-exempt": "ຜູ້ຖືກຍົກເວັ້ນການບລັອກໄອພີ",
 	"group-staff": "ພະນັກງານ",
 	"group-staff-member": "ພະນັກງານ",
-	"wikimedia-copyright": "ອະນຸຍາດໃຫ້ໃຊ້ເນື້ອໃນພາຍໃຕ້<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">ສັນຍາອະນຸຍາດຂອງ Creative Commons Attribution-ShareAlike</a>;\nແລະອາດມີເງື່ອນໄຂອື່ນໆໃນການໃຊ້ງານອີກນຳດ້ວຍ.\nເບິ່ງ<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ເງື່ອນໄຂການໃຊ້ງານ</a>ສຳລັບລາຍລະອຽດເພີ່ມເຕີມ.",
+	"wikimedia-copyright": "ອະນຸຍາດໃຫ້ໃຊ້ເນື້ອໃນພາຍໃຕ້<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">ສັນຍາອະນຸຍາດ Creative Commons Attribution-ShareAlike</a>; ອາດມີເງື່ອນໄຂອື່ນໃນການໃຊ້ງານ\nສຳລັບລາຍລະອຽດເພີ່ມເຕີມ ເບິ່ງ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ເງື່ອນໄຂການໃຊ້ງານ</a>",
+	"wikibase-repo-name": "ວິກິສົນເທດ",
 	"wikibase-sitelinks-wikinews": "ວິກິຂ່າວ",
 	"wikimedia-developers": "ຜູ້ພັດທະນາ",
 	"wikimedia-statslink": "ສະຖິຕິ",
-	"wikimedia-cookiestatement": "ຄໍາຖະແຫຼງຄຸກກີ"
+	"wikimedia-cookiestatement": "ນະໂຍບາຍການໃຊ້ຄຸກກີ"
 }
