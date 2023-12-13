@@ -167,7 +167,7 @@
 	"group-recursive-export-member": "{{GENDER:$1|exportator|exportatrice}} recursive",
 	"group-staff": "Personal",
 	"group-staff-member": "membro del personal",
-	"group-steward": "Stewardes",
+	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|steward|stewardessa}}",
 	"group-sysadmin": "Administratores de systema",
 	"group-sysadmin-member": "{{GENDER:$1|administrator|administratrice}} de systema",
