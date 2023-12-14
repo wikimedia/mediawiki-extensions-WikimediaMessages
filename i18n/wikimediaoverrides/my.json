@@ -9,9 +9,9 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "အကောင့်ဒေတာများကို ဒေါင်းလုတ်ပြုလုပ်ရန်  [[m:Special:CentralAuth/$1|သင်ပံ့ပိုးထားသော အခြားဝီကီမီဒီယာပရောဂျက်များမှ]] သင်၏ ရွေးချယ်စရာများစာမျက်နှာသို့ သွားရောက်နိုင်ပါသည်။",
 	"wikimedia-createacct-imgcaptcha-help": "ရုပ်ပုံကို မမြင်ရပါသလား [[{{MediaWiki:createacct-captcha-help-url}}|အကောင့်တစ်ခု တောင်းဆိုပါ]]",
 	"wikimedia-centralauth-groupname": "ဝီကီမီဒီယာ ဖောင်ဒေးရှင်း",
-	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ကိုနှိပ်ခြင်းဖြင့် သင်သည်  [https://foundation.wikimedia.org/wiki/Terms_of_Use အသုံးပြုခြင်းဆိုင်ရာ သတ်မှတ်ချက်များ]ကိုသဘောတူကာ ဘာသာပြန်ကိရိယာဖြင့် သင်၏ပံ့ပိုးမှုများကို  $2 {{PLURAL:$3|အောက်တွင်}} ထုတ်ပြန်ရန် သဘောတူပြီးဖြစ်သည်။",
+	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ကိုနှိပ်ခြင်းဖြင့် သင်သည်  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use အသုံးပြုခြင်းဆိုင်ရာ သတ်မှတ်ချက်များ]ကိုသဘောတူကာ ဘာသာပြန်ကိရိယာဖြင့် သင်၏ပံ့ပိုးမှုများကို  $2 {{PLURAL:$3|အောက်တွင်}} ထုတ်ပြန်ရန် သဘောတူပြီးဖြစ်သည်။",
 	"wikimedia-sitematrix": "ဝီကီမီဒီယာ ဝီကီများစာရင်း",
 	"wikimedia-sitematrix-others": "အခြားဝီကီမီဒီယာ ပရောဂျက်များ",
 	"wikimedia-sitematrix-summary": "ဤအထူးစာမျက်နှာသည် ဝီကီမီဒီယာဝီကီများအားလုံးကို စာရင်းပြုစုထားပါသည်။",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy ကိုယ်ရေးမူဝါဒ]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy ကိုယ်ရေးမူဝါဒ]"
 }
