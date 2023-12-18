@@ -1,12 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
+			"CorrelMoris38",
+			"Jilorisa",
 			"Meqqal"
 		]
 	},
+	"wm-license-cc-attribution": "Pongokunan",
+	"wm-license-cc-by-sa-3.0-text": "Fail nopo diti nga id siriba lesen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike\n 3.0 Unported].",
+	"wm-license-cc-free": "Obibas ko:",
 	"wm-license-cc-free-to-share-header": "montok popoilang",
 	"wm-license-cc-free-to-share-text": "montok mamadalin, popotikid om popoundaliu asil karaja",
 	"wm-license-cc-free-to-remix-header": "montok popilongot",
+	"wm-license-cc-free-to-remix-text": "montok poposudong do kalaja",
+	"wm-license-cc-conditions": "Id siriba do syarat dilo:",
 	"wm-license-cc-conditions-attribution-header": "pangakunan",
-	"wm-license-cc-conditions-share_alike-header": "poilango kopiagal"
+	"wm-license-cc-conditions-attribution-text": "Nuru ko do mongounsikou, manahak popioput kumaa lisin, om popokito sokiro haro kosimbanon di winonsoi. Milo ko do popowonsoi nunu nopo laang ii kosudong, nga' okon ko' id suang do nunu-nunu nopo laang di poposogu do minanahak lesen do monokodung diya toi ko' pomogunoon nu.",
+	"wm-license-cc-conditions-share_alike-header": "poilango kopiagal",
+	"wm-license-cc-conditions-share_alike-text": "Sokiro nopo monimban, popirolot toi ko' momoruhang ko do kakamot, minog do pasarabakon o sakadai nu id siriba lesen [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] miagal di intodon."
 }
