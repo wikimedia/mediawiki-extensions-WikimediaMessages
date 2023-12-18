@@ -10,7 +10,9 @@
 			"Siebrand",
 			"Sjoerddebruin",
 			"WhatamIdoing",
-			"McDutchie"
+			"McDutchie",
+			"HanV",
+			"Nickthijssen1994"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bezoekers van deze wiki hebben met uw IP-adres {{PLURAL:$1|1 gebruiker|$1 gebruikers}} in de afgelopen 24 uur aangemaakt, wat het maximum aantal is voor deze tijdsperiode.\nAls resultaat kunnen bezoekers met dit IP-adres niet meer gebruikers aanmaken op dit moment.\n\nIndien u zich op een event bevind waar gefocust wordt op bijdragen aan Wikimedia projecten, zie dan  [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Tijdelijke ontziening van de IP-cap]] voor hulp bij het oplossen van dit probleem.",
@@ -39,5 +41,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep naar de meta.wikimedia.org wiki.",
 	"wikimedia-urlshortener-badaccessgroups": "Korte links kunnen alleen via de pagina [[:m:Special:UrlShortener|Special:UrlShortener]] op meta.wikimedia.org worden aangemaakt.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep naar de meta.wikimedia.org wiki.",
+	"wikimedia-webauthn-ui-login-prompt": "Raak uw verificatieapparaat aan of volg de instructies van de browser. Onthoud dat u zich moet aanmelden op dezelfde wiki waar u uw verificatieapparaat oorspronkelijk hebt geregistreerd.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacybeleid Privacybeleid]"
 }

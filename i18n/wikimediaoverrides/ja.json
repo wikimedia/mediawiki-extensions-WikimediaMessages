@@ -14,12 +14,17 @@
 			"Foomin10",
 			"LaMagiaaa",
 			"SaldırganSincap",
-			"Siglite3"
+			"Siglite3",
+			"Adom",
+			"Yamagata Yusuke",
+			"春春眠眠"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
 	"wikimedia-createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
+	"wikimedia-centralauth-login-error-locked": "<strong>このアカウントは[[m:Special:MyLanguage/Global locks|グローバルロック]]されています。</strong> {{GENDER:$1|あなた}}はどのウィキメディアウィキにもログインできなくなります。ご質問がありましたら、[[m:Special:Contact/stewards|スチュワードまでお問い合わせください]]。",
 	"createacct-helpusername-url": "{{ns:Project}}:利用者名の方針",
+	"wikimedia-delete-toobig": "このページには、$1{{PLURAL:$1|版}}を超える編集履歴があります。\nこのようなページの削除は、{{SITENAME}}の偶発的な問題を避けるため、制限されています。\n[[m:Steward requests/Miscellaneous|メタのスチュワードへの依頼/その他]]で[[m:Special:MyLanguage/Stewards|スチュワード]]にこのページの削除を依頼してください。",
 	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-link}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
 	"wikimedia-flow-terms-of-use-edit": "変更内容を保存すると、あなたは[https://foundation.wikimedia.org/wiki/Terms_of_Use/ja 利用規約]に同意し、この文章を [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 ライセンス]および [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] で撤回できない形で公開することに同意したと見なされます",
