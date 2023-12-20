@@ -129,6 +129,8 @@ class Hooks implements
 			// T345549
 			'checkuser-api-useragent-clienthints-explanation',
 			'checkuser-toollinks',
+			// T327281
+			'checkuser-tempaccount-enable-preference',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			// T139797
