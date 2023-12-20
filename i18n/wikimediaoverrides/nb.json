@@ -56,5 +56,7 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "Det blokkerte IP-intervallet er $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Den blokkerte proxyadressen var $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Hvis du mener du ble blokkert ved en feil kan du finne mer informasjon og instruksjoner i den globale policyen [[m:Special:MyLanguage/No open proxies|''Ingen åpne proxyer'']].\nDu kan også diskutere blokkeringen ved å poste en forespørsel om gjennomgang [[m:Steward requests/Global|på Meta-Wiki]].",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Du kan også sende en e-post til [[m:Special:MyLanguage/Stewards|forvalternes]] [[m:Special:MyLanguage/VRT|VRT]]-kø på <kbd>stewards@wikimedia.org</kbd>. Husk å ta med alle detaljene ovenfor."
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Du kan også sende en e-post til [[m:Special:MyLanguage/Stewards|forvalternes]] [[m:Special:MyLanguage/VRT|VRT]]-kø på <kbd>stewards@wikimedia.org</kbd>. Husk å ta med alle detaljene ovenfor.",
+	"wikimedia-jsonconfig-license-notice": "'''Merk:''' Når du redigerer denne siden samtykker du i [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkårene våre] og godtar å ugjenkallelig utgi bidraget ditt under vilkårene i lisensen [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''Merk:''' Når du redigerer denne siden samtykker du i [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkårene våre], og godtar å utgi bidraget ditt under lisensen som angis i <code>licence</code>-filtet."
 }
