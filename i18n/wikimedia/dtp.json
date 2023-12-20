@@ -2,13 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Jilorisa",
-			"Meqqal"
+			"Meqqal",
+			"CorrelMoris38"
 		]
 	},
 	"sitesupport": "Puhawang",
 	"wikimedia-copyright": "Pointounda o teks id siriba do <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"> Lesen Creative Commons Kookunan/Piilangan di Miagal-agal</a>;\noguno kanto terma pomoruhang.\nIntangai <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> montok koilaan potilombus.",
+	"wikimedia-copyrightwarning": "Miampai popoopi koundolihon, kosokodung ko kumaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Kooturan Momoguno], om kosokodung ko do poposoliwan kouhupan nu id siriba do [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] om [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Osokodung ko do popioput toi ko' URL nopo nga' pongiktirafan di kabagal id siriba lisin Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikitoud",
-	"wikimedia-developers": "popopoburu",
-	"wikimedia-statslink": "tintob",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Popoburu",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nPagantob winonsoi do $1 ($2).\nSabap tinahak nopo nga' ''$3''.\n\n* Timpuunon do pagantaban: $4\n* Kolimpupuson do pagantaban: $5\n\nAlamat IP nu dinondo nopo nga' $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nPagantob winonsoi do $1 ($2).\nSabap tinahak nopo nga' ''$3''.\n\n* Timpuunon do pagantaban: $4\n* Kolimpupuson do pagantaban: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Kointalangan kuki"
 }

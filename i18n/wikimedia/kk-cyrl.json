@@ -13,7 +13,8 @@
 			"Nemo bis",
 			"Zpizza",
 			"Нұрлан Рахымжанов",
-			"СеніңШешең"
+			"СеніңШешең",
+			"Casserium"
 		]
 	},
 	"wikimediamessages-desc": "Уикимедиа ерекше хабарламалары",
@@ -141,7 +142,7 @@
 	"search-interwiki-custom": "wikt:Уикисөздіктен\nb:Уикикітаптан\nn:Уикихабардан\nq:Уикидәйектен\ns:Уикиқайнардан\nv:Уикисабақтан\nvoy:Уикисаяқаттан",
 	"wikimedia-copyright": "Мәтін <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike лицензиясы</a> бойынша қолжетімді;\nқосымша шарттар қолданылуы мүмкін.\nКөбірек білу үшін <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Қолдану шартын</a> көріңіз.",
 	"wikimedia-copyrightwarning": "Өзгерістерді сақтай отырып, сіз [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Қолдану шартына] және үлесіңізді [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0]  және [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL лицензиялары] бойынша жариялауға қайтымсыз келісесіз. \nCreative Commons лицензиясы үшін гиперсілтеме немесе URL жеткілікті екеніне келісесіз.",
-	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] and [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] және [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Қош келдіңіз}}, $1!",
 	"wikibase-repo-name": "Уикидерек",
 	"wikibase-sitelinks-wikibooks": "Уикикітап",

@@ -164,7 +164,7 @@
 	"group-new-wikis-importer": "Uvozniki novih vikijev",
 	"group-new-wikis-importer-member": "{{GENDER:$1|uvoznik novih vikijev|uvoznica novih vikijev|uvoznik_ca novih vikijev}}",
 	"group-oauthadmin": "Administratorji OAutha",
-	"group-oauthadmin-member": "{{GENDER:$1|administrator OAutha|administratorka OAutha|administrator/ka OAutha}}",
+	"group-oauthadmin-member": "{{GENDER:$1|administrator OAutha|administratorka OAutha|administrator_ka OAutha}}",
 	"grouppage-oauthadmin": "{{ns:project}}:Administratorji OAutha",
 	"group-ombuds": "Zagovorniki",
 	"group-ombuds-member": "{{GENDER:$1|zagovornik|zagovornica|zagovornik_ca}}",

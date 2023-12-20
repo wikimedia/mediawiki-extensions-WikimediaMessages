@@ -20,5 +20,7 @@
 	"please-translate": "Help met het vertalen in uw taal",
 	"thank-you": "{{GENDER:$1|Dank u.}}",
 	"specialblockfeedback": "Terugkoppeling",
-	"specialinvestigate-feedback": "Terugkoppeling geven"
+	"specialinvestigate-feedback": "Terugkoppeling geven",
+	"graph-disabled-category": "Pagina's met uitgeschakelde grafieken",
+	"graph-disabled-category-desc": "Deze pagina bevat een <code><nowiki><graph></nowiki></code>-tag. Deze tag is tijdelijk niet beschikbaar ([[phab:T334940|T334940]])."
 }
