@@ -2,12 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Meqqal",
-			"Jilorisa"
+			"Jilorisa",
+			"CorrelMoris38"
 		]
 	},
 	"sitesupport": "Puhawang",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikitoud",
-	"wikimedia-developers": "popopoburu",
-	"wikimedia-statslink": "tintob",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Popoburu",
+	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Kointalangan kuki"
 }
