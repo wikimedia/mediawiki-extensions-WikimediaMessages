@@ -10,7 +10,7 @@
 	"tooltip-n-sitesupport": "Judinus",
 	"group-founder": "Fondadôrs",
 	"group-founder-member": "Fondadôr",
-	"wikimedia-copyright": "Il test al è disponibil daûr la <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\">licence Creative Commons Atribuzion-Condivît te stesse maniere</a>; al è pussibil meti cundizions ulteriôrs. Cjale lis <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it\">cundizions di ûs</a> par i detais.",
+	"wikimedia-copyright": "Il test al è disponibil daûr la <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\">licence Creative Commons Atribuzion-Condivît te stesse maniere</a>; al è pussibil meti cundizions ulteriôrs. Cjale lis <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it\">condizions di ûs</a> par i detais.",
 	"wikimedia-copyrightwarning": "Salvant lis modifichis, tu acetis lis [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it condizioni d'uso], e tu acetis in maniere no revocabile di lassâ il to contribût daûr aes licencis [https://creativecommons.org/licenses/by-sa/4.0/deed.it Creative Commons Attribuzione-Condividi allo stesso modo 4.0] e [https://it.wikipedia.org/wiki/Wikipedia:Testo_della_GNU_Free_Documentation_License GFDL]. Tu acetis ancje che un leam ipertestuâl o URL al bastedi pe atribuzion daûr ae licence Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benvignût|Benvignude}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
@@ -18,8 +18,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupadôrs",
-	"wikimedia-globalblocking-ipblocked": "''La tô direzion IP e je stade [[m:Special:MyLanguage/Global blocks|blocade in dutis lis wikis]].'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finis il: $5\n\nLa tô direzion IP e je $6.\nPar plasê copie ce che al è scrit ca parsore in ogni tô eventuâl richieste.\n\nSe tu crodis di jessi stât blocât par erôr, viôt la politiche globâl su [[m:Special:MyLanguage/No open proxies|No open proxies]].\nPar discuti dal bloc [[m:Steward requests/Global|met une richieste su Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Un o plui servidôrs proxy doprâts pe to richieste al è [[m:Special:MyLanguage/Global blocks|blocât globalmentri]].'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finis il: $5\n\nIl proxy blocât al è $6.\nPar plasê copie ce che al è scrit ca parsore in ogni tô eventuâl richieste.\n\nSe tu crodis di jessi stât blocât par erôr, viôt la politiche globâl su [[m:Special:MyLanguage/No open proxies|No open proxies]].\nPar discuti dal bloc [[m:Steward requests/Global|met une richieste su Meta-Wiki]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finìs il: $5\n\nLa tô direzion IP e je $6.\n{{int\n:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finìs il: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistichis",
 	"wikimedia-cookiestatement": "Declarazion sui cookies"
 }
