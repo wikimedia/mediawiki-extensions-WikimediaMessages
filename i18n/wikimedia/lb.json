@@ -88,7 +88,7 @@
 	"grouppage-interface-editor": "{{ns:project}}:Interface-Editeuren",
 	"group-ipblock-exempt": "Ausname vun IP-Spären",
 	"group-ipblock-exempt-member": "{{GENDER:$1|Ausnam vun der IP-Spär}}",
-	"grouppage-ipblock-exempt": "{{ns:project}}:Ausnahm vun der IP-Spär",
+	"grouppage-ipblock-exempt": "{{ns:project}}:Ausnam vun der IP-Spär",
 	"group-patroller": "Kontrolleren",
 	"group-patroller-member": "{{GENDER:$1|Kontroller|Kontrollesch}}",
 	"group-researcher": "Nosicher",

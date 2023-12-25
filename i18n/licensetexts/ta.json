@@ -11,7 +11,8 @@
 			"மதனாஹரன்",
 			"Kanags",
 			"MinecraftAustralia",
-			"Siddhan"
+			"Siddhan",
+			"Fahimrazick"
 		]
 	},
 	"wm-license-artwork-artist": "கலைஞர்/ஆக்குனர்",
@@ -56,10 +57,10 @@
 	"wm-license-gfdl-wiki-link": "w:ta:குனூ தளையறு ஆவண உரிமம்",
 	"wm-license-gpl-wiki-link": "w:ta:க்னூ பொதுமக்கள் உரிமம்",
 	"wm-license-information-description": "விளக்கம்",
-	"wm-license-information-description-missing-request": "அருள்கூர்ந்து இக்கோப்பிற்குப் பொருளுள்ள ஒரு விளக்கத்தைத் தரவும்.",
+	"wm-license-information-description-missing-request": "இக்கோப்புக்குப் பொருளார்ந்த ஒரு விளக்கத்தைத் தருக.",
 	"wm-license-information-source": "மூலம்",
 	"wm-license-information-source-missing": "இக்கோப்பின் '''மூலம்''' குறித்த தகவல்கள் இல்லை.",
-	"wm-license-information-source-missing-request": "தயவு செய்து இக்கோப்பின் விபரிப்புத் தொகுத்து மூலமொன்றை வழங்கவும்.",
+	"wm-license-information-source-missing-request": "இக்கோப்பின் விபரிப்பைத் தொகுத்து ஒரு மூலத்தை வழங்குக.",
 	"wm-license-information-date": "நாள்",
 	"wm-license-information-author": "ஆசிரியர்",
 	"wm-license-information-author-missing": "இக்கோப்பின் '''ஆக்குநர்''' குறித்த தகவல்கள் இல்லை.",
@@ -74,5 +75,5 @@
 	"wm-license-self-one-license-with-author": "இந்த ஆக்கத்தின் காப்புரிமையாளரான $1 எனும் நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:",
 	"wm-license-self-multiple-licenses": "இந்த ஆக்கத்தின் காப்புரிமையாளரான நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:",
 	"wm-license-self-multiple-licenses-with-author": "இந்த ஆக்கத்தின் காப்புரிமையாளரான $1 எனும் நான் இதனைப் பின்வரும் உரிமத்தின் கீழ் வெளியிடுகின்றேன்:",
-	"wm-license-self-multiple-licenses-select": "நீங்கள் விரும்பும் உரிமத்தை தேர்ந்தெடுக்கலாம்."
+	"wm-license-self-multiple-licenses-select": "நீர் உமக்கு விருப்பமான உரிமத்தை தேர்ந்தெடுக்கலாம்."
 }
