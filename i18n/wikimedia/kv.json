@@ -15,7 +15,7 @@
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Викивояж",
 	"wikimedia-developers": "Удж вӧчысьяс",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлокируйтӧма $1 ($2).\nИндӧм помкаыс ''$3''.\n\n* Блокируйтӧмлӧн заводитчӧм: $4\n* Блокируйтӧмлӧн пом: $5\n\nТіян ӧнія IP-инпас: $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлокируйтӧма $1 ($2).\nИндӧм помкаыс ''$3''.\n\n* Блокируйтӧмлӧн заводитчӧм: $4\n* Блокируйтӧмлӧн пом: $5\n\nТіян ӧнія IP инпас: $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокируйтӧма $1 ($2).\nИндӧм помкаыс ''$3''.\n\n* Блокируйтӧмлӧн заводитчӧм: $4\n* Блокируйтӧмлӧн пом: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки кузя шыӧдчӧм"

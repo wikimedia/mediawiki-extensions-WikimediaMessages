@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nemo bis",
-			"Symane"
+			"Symane",
+			"ZhuofanWu"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia嗰特定訊息",
@@ -46,5 +47,12 @@
 	"group-sysadmin": "系統管理員",
 	"group-sysadmin-member": "系統管理員",
 	"wikimedia-copyright": "箇首嗰所有文字係揸得<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 牌照</a>嗰條款發佈；可能會有附加嗰條款。\n望吖<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">使用條款</a>嗰細節。",
-	"wikimedia-copyrightwarning": "汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [https://creativecommons.org/licenses/by-sa/4.0/ CC-by-sa-4.0] 同得 [https://www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。\n汝同意別嗰用者編輯佢，至少，通過隻超連結或網址到汝嗰貢獻頁。\n望吖[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]嗰細節。"
+	"wikimedia-copyrightwarning": "汝捺下「{{int:savearticle}}」嗰時間，就係同意話汝駕始搦自家嗰貢獻揸得 [https://creativecommons.org/licenses/by-sa/4.0/ CC-by-sa-4.0] 同得 [https://www.gnu.org/copyleft/fdl.html GFDL] 嗰條款內容發表。\n汝同意別嗰用者編輯佢，至少，通過隻超連結或網址到汝嗰貢獻頁。\n望吖[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]嗰細節。",
+	"wikibase-sitelinks-wikinews": "維基新聞",
+	"wikibase-sitelinks-wikiquote": "維基語錄",
+	"wikibase-sitelinks-wikisource": "維基文庫",
+	"wikibase-sitelinks-wikivoyage": "維基導遊",
+	"wikimedia-developers": "開發者",
+	"wikimedia-statslink": "統計數據",
+	"wikimedia-cookiestatement": "Cooki嗰聲明"
 }

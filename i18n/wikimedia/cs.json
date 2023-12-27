@@ -85,7 +85,7 @@
 	"group-eventparticipant-member": "{{GENDER:$1|účastníci akce}}",
 	"grouppage-eventparticipant": "{{ns:project}}:Účastníci akcí",
 	"group-extendedconfirmed": "Rozšíření potvrzení uživatelé",
-	"group-extendedconfirmed-member": "\n{{GENDER:$1|rozšířený potvrzený uživatel}}",
+	"group-extendedconfirmed-member": "{{GENDER:$1|rozšířený potvrzený uživatel}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}: Rozšíření potvrzení uživatelé",
 	"group-extendedmover": "Rozšíření přesouvači",
 	"group-extendedmover-member": "{{GENDER:$1|rozšířený přesouvač}}",

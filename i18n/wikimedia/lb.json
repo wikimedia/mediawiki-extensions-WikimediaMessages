@@ -78,7 +78,7 @@
 	"grouppage-interface-editor": "{{ns:project}}:Interface-Editeuren",
 	"group-ipblock-exempt": "Ausname vun IP-Spären",
 	"group-ipblock-exempt-member": "{{GENDER:$1|Ausnam vun der IP-Spär}}",
-	"grouppage-ipblock-exempt": "{{ns:project}}:Ausnahm vun der IP-Spär",
+	"grouppage-ipblock-exempt": "{{ns:project}}:Ausnam vun der IP-Spär",
 	"group-patroller": "Kontrolleren",
 	"group-patroller-member": "{{GENDER:$1|Kontroller|Kontrollesch}}",
 	"group-researcher": "Nosicher",
@@ -203,5 +203,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Neen",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Ech sinn net sécher",
 	"gadget-souspages-subpages": "Ënnersäiten",
+	"research-incentive-answer-positive": "Jo",
 	"ipinfo-global-contributions-url-label": "Global Kontributiounen"
 }
