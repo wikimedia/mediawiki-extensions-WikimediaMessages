@@ -4,7 +4,7 @@
 			"ऐक्टिवेटेड्"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|जीएनयू फ्री डोकुमेण्टेसन् लाइसेन्स्]]''', सन्सकरण १.२ या कोईयो बादके प्रकासित [[{{int:wm-license-fsf-wiki-link}}|मुक्त साफ्टबेयर् फाउण्डेसन्]] लाइसेन्सके शर्तके तहत, ई आलेखके नकल करे, बितरण करे आउ/या परिबर्तन करेके अनुमति देल गेलीहे; ई मे अपरिबर्तनीय खण्ड, आगे आउ पीछेके आबरणके पाठ न सामिल हे। लाइसेन्स् के एगो प्रति ''[[{{int:wm-license-gfdl-full-1.2-link}}|जीएनयू मुक्त आलेख लाइसेन्स्]]'' नामके खण्डमे देल गेलीहे।",
+	"wm-license-gfdl-1.2-and-later": "'''[[{{int:wm-license-gfdl-wiki-link}}|जीएनयू फ्री डोकुमेण्टेसन् लाइसेन्स्]]''', सन्सकरण १.२ वा कौनो बादके प्रकासित [[{{int:wm-license-fsf-wiki-link}}|मुक्त साफ्टबेयर् फाउण्डेसन्]] लाइसेन्सके शर्तके तहत, ई आलेखके नकल करे, बितरण करे आउ/वा परिबर्तन करेके अनुमति देल गेलीहे; ई मे अपरिवर्तनीय खण्ड, आगे आउ पीछेके आबरणके पाठ न सामिल हे । लाइसेन्स् के एगो प्रति ''[[{{int:wm-license-gfdl-full-1.2-link}}|जीएनयू मुक्त आलेख लाइसेन्स्]]'' नामके खण्डमे देल गेलीहे ।",
 	"wm-license-information-description": "बिवरण",
 	"wm-license-information-source": "स्रोत",
 	"wm-license-information-date": "दिनाङ्क",
@@ -12,5 +12,5 @@
 	"wm-license-information-permission": "अनुमति",
 	"wm-license-information-permission-reusing-text": "ई सञ्चिकाके पुनः उपयोग",
 	"wm-license-own-work": "अपन रचना",
-	"wm-license-self-multiple-licenses-select": "अपन पसन्दके लाइसेन्स् चुन सकही।"
+	"wm-license-self-multiple-licenses-select": "अपन पसन्दके लाइसेन्स् चुन सकही ।"
 }
