@@ -5,17 +5,14 @@
 
 namespace MediaWiki\Extension\WikimediaMessages;
 
-use ChangesListSpecialPage;
-use Config;
-use ConfigException;
 use ErrorPageError;
 use ExtensionRegistry;
-use Html;
 use HtmlArmor;
 use IContextSource;
-use Linker;
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
+use MediaWiki\Config\Config;
+use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Extension\GuidedTour\GuidedTourLauncher;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
@@ -23,23 +20,26 @@ use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\UploadForm_initialHook;
+use MediaWiki\Html\Html;
+use MediaWiki\Linker\Linker;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Preferences\Hook\GetPreferencesHook;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
+use MediaWiki\SpecialPage\ChangesListSpecialPage;
 use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
+use MediaWiki\SpecialPage\SpecialPage;
+use MediaWiki\Specials\SpecialUpload;
 use MediaWiki\Title\Title;
 use MediaWiki\User\Options\UserOptionsManager;
+use MediaWiki\User\User;
 use MessageCache;
 use MessageLocalizer;
 use OOUI\IconWidget;
 use OOUI\Tag;
 use ORES\Hooks\Helpers as ORESHookHelpers;
 use Skin;
-use SpecialPage;
-use SpecialUpload;
-use User;
 use Wikimedia\IPUtils;
 
 /**
