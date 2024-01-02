@@ -3,6 +3,7 @@
 		"authors": [
 			"Jmarchn",
 			"Nemo bis",
+			"SMP",
 			"Vriullop"
 		]
 	},
@@ -21,5 +22,8 @@
 	"wikimedia-sitematrix-others": "Altres projectes de Wikimedia",
 	"wikimedia-sitematrix-summary": "Aquesta pàgina especial llista tots els wikis de Wikimedia.",
 	"wikimedia-sulrenamewarning-usenew": "A partir d'ara cal que inicieu la sessió amb el nou nom d'usuari <strong>$1</strong>. El nom nou és únic per tots els projectes de Wikimedia i si heu iniciat la sessió en un projecte i després en visiteu un altre, el vostre compte es mantindrà amb vosaltres. La [[:m:Special:MyLanguage/Help:Unified_login|pàgina d'ajuda d'identificació unificada]] té més informació sobre l'inici de sessió únic, així com una llista de les preguntes més freqüents. Si necessiteu actualitzar la vostra adreça de correu electrònic o canviar la contrasenya en les vostres [[Special:Preferences|preferències]], ara potser és un bon moment per fer-ho.\n\nPer demanar un nom de compte diferent, aneu a [[Special:GlobalRenameRequest]]. Us agraïm la vostra participació als projectes de Wikimedia.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de privadesa]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de privadesa]",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "La vostra adreça IP ha estat [[m:Special:MyLanguage/Global blocks|blocada en tots els wikis]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Un o diversos servidors proxy usats en la vostra consulta està [[m:Special:MyLanguage/Global blocks|blocat en tots els wikis]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Si penseu que heu estat blocat per error, trobareu més informació i instruccions al reglament global [[m:Special:MyLanguage/No open proxies|No proxys oberts]].\nAltrament, per a discutir sobre el blocatge, [[m:Steward requests/Global|publiqueu una sol·licitud de revisió a Meta-Wiki]]."
 }
