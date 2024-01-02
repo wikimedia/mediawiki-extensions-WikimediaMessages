@@ -12,6 +12,7 @@
 	"tooltip-n-sitesupport": "عاونا",
 	"group-confirmed": "خدايميا مكونفيرمين",
 	"group-ipblock-exempt": "مستتنين من لبلوك د لأيپي",
+	"group-steward": "ريجيسورات",
 	"wikimedia-copyright": "النصوص مُرخّصة <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nإقدر تكون بنود أخرى مطبقة.\nشوف <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">شروط الاستخدام</a> على قبل التفاصيل.",
 	"wikimedia-copyrightwarning": "إلى ضغطتي على زر \"{{int:savearticle}}\"، فانت كتوافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use شروط الاستخدام] وترخيص المساهمات دياولك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوكتوافق باش تنسب المساهمات دياولك ليك، برخصة المشاع الإبداعي، عن طريق رابط صافي.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|مرحبا بيك}}، $1!",
