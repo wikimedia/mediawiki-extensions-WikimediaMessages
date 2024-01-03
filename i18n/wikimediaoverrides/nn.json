@@ -5,6 +5,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Du kan vitja innstillingssida di på [[m:Special:CentralAuth/$1|andre Wikimedia-prosjekt der du har bidrege]] for å lasta ned kontoopplysingane frå desse prosjekta.",
 	"wikimedia-createacct-imgcaptcha-help": "Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-discussiontools-replywidget-terms-click": "Ved å klikka på «$1» samtykkjer du i [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkåra] våre, og du gjev eit endeleg samtykke til at teksten din vert utgjeven under {{PLURAL:$3|lisensen|lisensane}} $2.",
