@@ -148,6 +148,8 @@ class Hooks implements
 			// T252375
 			'mobile-frontend-terms-url',
 			'mwoauthserver-invalid-user',
+			// T226059
+			'oathauth-step1-test',
 			// T272412
 			'prefs-user-downloaddata-help-message',
 			'privacypage',
