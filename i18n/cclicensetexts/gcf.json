@@ -1,12 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"EritajGwadloup"
+			"EritajGwadloup",
+			"Histnou"
 		]
 	},
 	"wm-license-cc-attribution": "Atribisyon",
 	"wm-license-cc-free": "Zò lib:",
 	"wm-license-cc-free-to-share-header": "patajé",
+	"wm-license-cc-free-to-share-text": "pou kopyé, distribiyé épi transmèt travay-la",
+	"wm-license-cc-free-to-remix-text": "pou modifyé travay-la",
 	"wm-license-cc-conditions": "Sélon sé-kondisyon-lasa:",
 	"wm-license-cc-conditions-attribution-header": "Atribisyon",
 	"wm-license-cc-conditions-share_alike-header": "Patajé menm jan"
