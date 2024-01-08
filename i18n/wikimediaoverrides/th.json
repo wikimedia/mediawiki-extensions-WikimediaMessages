@@ -11,7 +11,11 @@
 	"wikimedia-centralauth-groupname": "มูลนิธิวิกิมีเดีย",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"wikimedia-discussiontools-replywidget-terms-click": "เมื่อกดปุ่ม \"$1\" ถือว่าคุณยอมรับ[https://foundation.wikimedia.org/wiki/Terms_of_Use/th ข้อกำหนดการใช้งาน] และคุณตกลงที่จะเผยแพร่ข้อความของคุณ{{PLURAL:$3|ภายใต้}} $2 อย่างไม่อาจเพิกถอนได้",
-	"wikimedia-sitematrix": "รายชื่อวิกิของมูลนิธิวิกิมีเดีย",
+	"wikimedia-sitematrix": "รายชื่อวิกิมีเดีย",
 	"wikimedia-sitematrix-others": "โครงการอื่น ๆ ของวิกิมีเดีย",
-	"wikimedia-sitematrix-summary": "หน้าพิเศษนี้แสดงรายชื่อวิกิของมูลนิธิวิกิมีเดีย"
+	"wikimedia-sitematrix-summary": "หน้าพิเศษนี้แสดงรายชื่อวิกิมีเดียทั้งหมด",
+	"wikimedia-ipinfo-source-geoip2": "การใช้เครื่องมือนี้ของคุณอยู่ภายใต้[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางเครื่องมือข้อมูลไอพี]",
+	"wikimedia-ipinfo-preference-use-agreement": "ฉันยินยอมที่จะใช้เครื่องมือนี้ตาม[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางเครื่องมือข้อมูลไอพี] เพื่อการตรวจสอบหรือป้องกันการก่อกวน และการละเมิดอื่น ๆ เท่านั้นของมูลนิธิวิกิมีเดียหรือนโยบายชุมชน",
+	"wikimedia-globalblocking-blockedtext-ip-range": "ช่วงที่ถูกบล็อกคือ $1",
+	"wikimedia-globalblocking-blockedtext-proxy": "ที่อยู่พร็อกซีที่ถูกบล็อกคือ $1"
 }
