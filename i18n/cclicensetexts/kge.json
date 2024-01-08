@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
+	"wm-license-cc-by-sa-3.0-text": "Berkas hasa tilisensiko rik lisensi [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.id Atribusi-BubagiGoh-goh 3.0 Makka Adaptasi]",
 	"wm-license-cc-free": "Niku tiizinko:",
 	"wm-license-cc-free-to-share-header": "Untuk bubagi",
 	"wm-license-cc-free-to-share-text": "Untuk nyalin, ngadistribusiko rik ngalihko karya sija",
@@ -12,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "Untuk ngadaptasi karya sija",
 	"wm-license-cc-conditions": "Budasarko katentuan juk sa:",
 	"wm-license-cc-conditions-attribution-header": "atribusi",
-	"wm-license-cc-conditions-share_alike-header": "Bubagi goh-goh"
+	"wm-license-cc-conditions-attribution-text": "Niku porlu nyantumko atribusi sai sasuai, ngunjuk pranala guk lisensi, rik ngunjuk pandai aman uwat parubahan. Niku pandai nggawikona ngaliyu'i cara sai Niku kanhaganko, tapi mak nyatako bahwa pangunjuk lisensi ndukung Niku atawa pamakaian mu.",
+	"wm-license-cc-conditions-share_alike-header": "Bubagi goh-goh",
+	"wm-license-cc-conditions-share_alike-text": "Aman Niku nyampur, ngubah, atawa ngguwai turunan jak materi sija, Niku porlu nyebarluasko kontribusi mu di bah [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses lisensi sai goh-goh] pocak lisensi di materi asli."
 }
