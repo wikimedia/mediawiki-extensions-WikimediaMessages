@@ -6,11 +6,14 @@
 	},
 	"sitesupport": "Nyumbang",
 	"wikimedia-copyright": "Teks uwat dibah <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Lisensi Atribusi-BubagiGoh-goh Creative Commons</a>;\nkontu uwat katentuan tambahan.\nLihat <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Katentuan Penggunaan</a> untuk rincian lobih lanjut.",
+	"wikimedia-copyrightwarning": "Rik nerbitko parubahan sija, Niku setuju untuk tunduk di [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Katentuan Panggunaan], rik Niku setuju untuk ngalupukko kontribusi mu makka syarat di bah lisensi [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] rik [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nNiku setuju bahwa pranala ''hyper'' atawa URL joda da osai atribusi sai mamada'i di bah lisensi Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikibarita",
 	"wikibase-sitelinks-wikiquote": "Wikisarambah",
 	"wikibase-sitelinks-wikisource": "Wikisumber",
 	"wikibase-sitelinks-wikivoyage": "Wikimidang",
 	"wikimedia-developers": "Pengembang",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokir diguwai bak $1 ( $2 ).\nAlasan sai tiunjukko joda da  '' $3 ''. \n\n* Awal pamblokiran: $4 \n* Kadaluwarsa pamblokiran: $5 \n\nAlamat IP mu ganta sa joda da $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokir diguwai bak $1 ($2).\nAlasan sai tiunjukko joda da  ''$3''. \n\n* Awal pamblokiran: $4 \n* Kadaluwarsa pamblokiran: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Parnyataan kuki"
 }

@@ -17,7 +17,8 @@
 			"Patsagorn Y.",
 			"Pilarbini",
 			"Trisorn Triboon",
-			"Woraponboonkerd"
+			"Woraponboonkerd",
+			"Ekminarin"
 		]
 	},
 	"wikimediamessages-desc": "ข้อความเฉพาะของวิกิมีเดีย",
@@ -104,7 +105,7 @@
 	"group-interface-editor": "ผู้แก้ไขอินเทอร์เฟซ",
 	"group-interface-editor-member": "{{GENDER:$1|ผู้แก้ไขอินเทอร์เฟซ}}",
 	"grouppage-interface-editor": "{{ns:project}}:ผู้แก้ไขอินเทอร์เฟซ",
-	"group-ipblock-exempt": "การยกเว้นการระงับหมายเลขไอพี",
+	"group-ipblock-exempt": "ผู้ยกเว้นการบล็อกไอพี",
 	"group-ipblock-exempt-member": "{{GENDER:$1|ผู้ยกเว้นการบล็อกไอพี}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:การยกเว้นการระงับหมายเลขไอพี",
 	"group-noratelimit": "สร้างบัญชีโดยไม่มีขีดจำกัด",
@@ -186,7 +187,7 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|นักวิจัยของมูลนิธิ}}",
 	"group-wmf-supportsafety": "ฝ่ายสนับสนุนและความปลอดภัยจากมูลนิธิวิกิมีเดีย",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|ฝ่ายสนับสนุนและความปลอดภัยของมูลนิธิ}}",
-	"tag-emoji": "อีโมจิ",
+	"tag-emoji": "อิโมจิ",
 	"tag-emoji-description": "ใช้งานโดยตัวกรองการแก้ไขหมายเลข 110",
 	"tag-AWB-description": "การแก้ไขที่สร้างโดย [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:จากวิกิพจนานุกรม\nb:จากวิกิตำรา\nn:จากวิกิข่าว\nq:จากวิกิคำคม\ns:จากวิกิซอร์ซ\nv:จากวิกิวิทยาลัย\nvoy:จากวิกิท่องเที่ยว",
@@ -208,6 +209,7 @@
 	"wikibase-sitelinks-wikivoyage": "วิกิท่องเที่ยว",
 	"wikibase-sitelinks-wiktionary": "วิกิพจนานุกรม",
 	"wikibase-otherprojects-commons": "วิกิมีเดียคอมมอนส์",
+	"wikibase-otherprojects-foundation": "มูลนิธิวิกิมีเดีย",
 	"wikibase-otherprojects-testwikidata": "วิกิสนเทศ",
 	"wikibase-otherprojects-mediawiki": "มีเดียวิกิ",
 	"wikibase-otherprojects-meta": "เมทาวิกิ",
@@ -215,6 +217,7 @@
 	"wikibase-otherprojects-species": "วิกิสปีชีส์",
 	"wikibase-otherprojects-wikibooks": "วิกิตำรา",
 	"wikibase-otherprojects-wikidata": "วิกิสนเทศ",
+	"wikibase-otherprojects-wikifunctions": "วิกิฟังก์ชัน",
 	"wikibase-otherprojects-wikinews": "วิกิข่าว",
 	"wikibase-otherprojects-wikiquote": "วิกิคำคม",
 	"wikibase-otherprojects-wikipedia": "วิกิพีเดีย",
