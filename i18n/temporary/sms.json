@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iketsi",
 			"Yupik"
 		]
 	},
-	"hello": "Tiõrv!",
+	"hello": "Tiõrv",
 	"thank-you": "{{GENDER:$1|Späʹsseb.}}",
 	"specialblockfeedback": "Maacctõs",
 	"specialinvestigate-feedback": "Uuʹd maacctõõzz"

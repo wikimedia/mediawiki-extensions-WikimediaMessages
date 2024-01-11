@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iketsi",
 			"Liuxinyu970226",
 			"Metalhead64",
 			"Robby",
@@ -12,7 +13,7 @@
 	"grouppage-oversight": "{{doc-group|oversight|page}}\nProject page explaining what Oversight is.\n{{Identical|Oversight}}",
 	"group-oversight": "{{doc-group|oversight}}\nLocalized name of the oversight group.",
 	"group-oversight-member": "{{doc-group|oversight|member}}\nLocalized name of the oversight group member.\n{{Identical|Oversight}}",
-	"hello": "Standalone word used as a greeting or beginning of a crosswiki message.\n{{Identical|Hello}}",
+	"hello": "Standalone word used as a greeting or beginning of a cross-wiki message. No punctuation.\n{{Identical|Hello}}",
 	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate.",
 	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}",
 	"specialblockfeedback": "Label for the feedback link at the top of [[Special:Block]]\n{{Identical|Feedback}}",
