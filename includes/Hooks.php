@@ -150,6 +150,8 @@ class Hooks implements
 			'mwoauthserver-invalid-user',
 			// T226059
 			'oathauth-step1-test',
+			// T189924
+			'oathauth-hint',
 			// T272412
 			'prefs-user-downloaddata-help-message',
 			'privacypage',
