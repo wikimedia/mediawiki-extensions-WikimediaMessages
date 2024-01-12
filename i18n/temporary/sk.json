@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Helix84",
+			"Iketsi",
 			"Luky001",
 			"Sudo77(new)",
 			"Teslaton"
@@ -11,5 +12,6 @@
 	"grouppage-oversight": "{{ns:project}}:Dozorcovia",
 	"group-oversight": "Dozorcovia",
 	"group-oversight-member": "{{GENDER:$1|dozorca|dozorkyňa}}",
+	"hello": "Dobrý deň",
 	"please-translate": "Pomôžte prosím s prekladom do svojho jazyka"
 }

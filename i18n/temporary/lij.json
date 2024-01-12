@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Giromin Cangiaxo",
+			"Iketsi",
 			"S4b1nuz E.656"
 		]
 	},
@@ -9,5 +10,6 @@
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighter",
 	"group-oversight-member": "{{GENDER:$1|oversight}}",
+	"hello": "Salûi",
 	"please-translate": "Agiuttine a tradue inta to lengua"
 }
