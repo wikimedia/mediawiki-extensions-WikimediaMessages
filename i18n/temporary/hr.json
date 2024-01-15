@@ -5,14 +5,15 @@
 			"Dalibor Bosits",
 			"Neptune, the Mystic",
 			"MaGa",
-			"Ponor"
+			"Ponor",
+			"Iketsi"
 		]
 	},
 	"wikimediamessages-desc": "Privremene poruke svojevrsne za Wikimediju",
 	"grouppage-oversight": "{{ns:project}}:Nadglednici",
 	"group-oversight": "Nadglednici",
 	"group-oversight-member": "{{GENDER:$1|nadglednik|nadglednica}}",
-	"hello": "Pozdrav!",
+	"hello": "Pozdrav",
 	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
 	"specialblockfeedback": "Povratne informacije",
