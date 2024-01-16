@@ -146,6 +146,7 @@
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",
+	"wikibase-otherprojects-sources": "Fleirspråkleg Wikikjelda",
 	"wikibase-otherprojects-species": "Wikispecies",
 	"wikibase-otherprojects-wikibooks": "Wikibøker",
 	"wikibase-otherprojects-wikidata": "Wikidata",
@@ -159,6 +160,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
+	"wikibase-sitelinks-sitename-sourceswiki": "Fleirspråkleg Wikikjelda",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Du kan ikkje sletta eller flytta hovudsida.",
@@ -194,5 +196,6 @@
 	"eri-wlfilters-tour-intro-preferences-description": "Under fana for overvakingslista i innstillingane dine kan du kva tid som helst slå av den betra overvakingslista.",
 	"wikimedia-centralauth-contribs-locked": "Denne kontoen er låst globalt.\nSjå [[m:Special:CentralAuth/$1|globale kontodetaljar]] for meir informasjon.",
 	"securepoll-dblist-securepollglobal": "Styreval",
+	"wikimedia-statslink": "Statistikk",
 	"wikimedia-cookiestatement": "Fråsegn om informasjonskapslar"
 }

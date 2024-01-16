@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Adam-Yourist"
+			"Adam-Yourist",
+			"Iketsi"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизораш",
 	"group-oversight": "Ревизораш",
-	"hello": "Моаршал да хьога!"
+	"hello": "Моаршал да хьога"
 }

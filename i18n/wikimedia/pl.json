@@ -201,6 +201,7 @@
 	"group-translationadmin": "Administratorzy tłumaczeń",
 	"group-translationadmin-member": "{{GENDER:$1|administrator|administratorka}} tłumaczeń",
 	"grouppage-translationadmin": "{{ns:project}}:Administratorzy tłumaczeń",
+	"group-vrt-permissions": "Agenci z uprawnieniami VRT",
 	"group-wmf-officeit": "Wewnętrzni pracownicy IT w WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1|Informatyk biura WMF}}",
 	"group-wmf-researcher": "Badacze WMF",
