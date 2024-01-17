@@ -15,6 +15,7 @@
 	"wikimedia-sitematrix-others": "โครงการอื่น ๆ ของวิกิมีเดีย",
 	"wikimedia-sitematrix-summary": "หน้าพิเศษนี้แสดงรายชื่อวิกิมีเดียทั้งหมด",
 	"wikimedia-ipinfo-source-geoip2": "การใช้เครื่องมือนี้ของคุณอยู่ภายใต้[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางเครื่องมือข้อมูลไอพี]",
+	"wikimedia-ipinfo-infobox-use-terms": "เครื่องมือข้อมูลไอพีใช้ฐานข้อมูล MaxMind เพื่อแสดงรายละเอียด เช่น ตำแหน่งโดยประมาณ, พร็อกซี, และจำนวนอุปกรณ์ที่แบ่งปันที่อยู่ไอพีนี้ โปรดตรวจสอบ[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางปฏิบัติเกี่ยวกับเครื่องมือข้อมูลไอพี]ก่อนเปิดใช้งาน",
 	"wikimedia-ipinfo-preference-use-agreement": "ฉันยินยอมที่จะใช้เครื่องมือนี้ตาม[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางเครื่องมือข้อมูลไอพี] เพื่อการตรวจสอบหรือป้องกันการก่อกวน และการละเมิดอื่น ๆ เท่านั้นของมูลนิธิวิกิมีเดียหรือนโยบายชุมชน",
 	"wikimedia-globalblocking-blockedtext-ip-range": "ช่วงที่ถูกบล็อกคือ $1",
 	"wikimedia-globalblocking-blockedtext-proxy": "ที่อยู่พร็อกซีที่ถูกบล็อกคือ $1"

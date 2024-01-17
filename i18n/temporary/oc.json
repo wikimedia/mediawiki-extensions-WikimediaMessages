@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cedric31"
+			"Cedric31",
+			"Iketsi"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Supervisor",
 	"group-oversight": "Supervisors",
 	"group-oversight-member": "Supervisor",
+	"hello": "Bonjorn",
 	"please-translate": "Mercé de nos ajudar a traduire dins vòstra lenga"
 }

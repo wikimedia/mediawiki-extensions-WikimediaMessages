@@ -12,8 +12,8 @@
 	"wikibase-sitelinks-wikisource": "Wikyoburugo",
 	"wikibase-sitelinks-wikivoyage": "Wikyorugendo",
 	"wikimedia-developers": "Abakuza",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nOkutanga kuhangirwe $1 ($2).\nEnsonga eyehairwe niyo ''$3''.\n\n* Okubanza kw'okutanga: $4\n* Okumalirra kw'okutanga: $5\n\nObwikaro bwawe bw'IP blu $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nOkutanga kuhangirwe $1 ($2).\nEnsonga eyehairwe niyo ''$3''.\n\n* Okubanza kw'okutanga: $4\n* Okumalirra kw'okutanga: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nOkutanga kuhangirwe $1 ($2).\nEnsonga eyehairwe eri ''$3''.\n\n* Okubanza kw'okutanga: $4\n* Okumalirra kw'okutanga: $5\n\nObwikaro bwawe bw'IP buli $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nOkutanga kuhangirwe $1 ($2).\nEnsonga eyehairwe eri ''$3''.\n\n* Okubanza kw'okutanga: $4\n* Okumalirra kw'okutanga: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Ebibazirwe",
 	"wikimedia-cookiestatement": "Ebigambo bya kuki"
 }
