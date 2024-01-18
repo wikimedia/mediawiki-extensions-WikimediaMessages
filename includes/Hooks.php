@@ -1385,6 +1385,8 @@ class Hooks implements
 				'Wikisłownik'  => 'Wikisłownika',
 				'Wikiźródła'   => 'Wikiźródeł',
 				'Wikidane'     => 'Wikidanych',
+				'Wikimania'    => 'Wikimanii',
+				'Wikifunkcje'  => 'Wikifunkcji',
 			],
 			'C.lp' => [
 				'Wikicytaty'   => 'Wikicytatom',
@@ -1393,9 +1395,12 @@ class Hooks implements
 				'Wikisłownik'  => 'Wikisłownikowi',
 				'Wikiźródła'   => 'Wikiźródłom',
 				'Wikidane'     => 'Wikidanym',
+				'Wikimania'    => 'Wikimanii',
+				'Wikifunkcje'  => 'Wikifunkcjom',
 			],
 			'B.lp' => [
 				'Wikipedia'    => 'Wikipedię',
+				'Wikimania'    => 'Wikimanię',
 			],
 			'N.lp' => [
 				'Wikicytaty'   => 'Wikicytatami',
@@ -1404,6 +1409,8 @@ class Hooks implements
 				'Wikisłownik'  => 'Wikisłownikiem',
 				'Wikiźródła'   => 'Wikiźródłami',
 				'Wikidane'     => 'Wikidanymi',
+				'Wikimania'    => 'Wikimanią',
+				'Wikifunkcje'  => 'Wikifunkcjami',
 			],
 			'MS.lp' => [
 				'Wikicytaty'   => 'Wikicytatach',
@@ -1412,10 +1419,13 @@ class Hooks implements
 				'Wikisłownik'  => 'Wikisłowniku',
 				'Wikiźródła'   => 'Wikiźródłach',
 				'Wikidane'     => 'Wikidanych',
+				'Wikimania'    => 'Wikimanii',
+				'Wikifunkcje'  => 'Wikifunkcjach',
 			],
 			'W.lp' => [
 				'Wikipedia'    => 'Wikipedio',
 				'Wikisłownik'  => 'Wikisłowniku',
+				'Wikimania'    => 'Wikimanio',
 			],
 		];
 
