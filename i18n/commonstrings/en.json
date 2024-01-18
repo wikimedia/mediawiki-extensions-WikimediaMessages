@@ -1,0 +1,21 @@
+{
+	"@metadata": {
+		"authors": [
+			"varnent"
+		]
+	},
+	"wm-commonstrings-background": "Background",
+	"wm-commonstrings-closed": "Closed",
+	"wm-commonstrings-connect": "Connect",
+	"wm-commonstrings-events": "Events",
+	"wm-commonstrings-objectives": "Objectives",
+	"wm-commonstrings-ongoing": "Ongoing",
+	"wm-commonstrings-open": "Open",
+	"wm-commonstrings-overview": "Overview",
+	"wm-commonstrings-participate": "Participate",
+	"wm-commonstrings-reports": "Reports",
+	"wm-commonstrings-scope": "Scope",
+	"wm-commonstrings-seealso": "See also",
+	"wm-commonstrings-staff": "Staff",
+	"wm-commonstrings-updates": "Updates"
+}
