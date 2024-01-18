@@ -4,18 +4,18 @@
 			"varnent"
 		]
 	},
-	"wm-commonstrings-background": "Navigation related string for 'Background' sections - historical summary information on the main topic",
-	"wm-commonstrings-closed": "Timeline related string for 'Closed' label",
-	"wm-commonstrings-connect": "Navigation related string for 'Connect' sections - engage with other individuals on the main topic",
-	"wm-commonstrings-events": "Navigation related string for 'Events' sections - activities happening related to the main topic",
-	"wm-commonstrings-objectives": "Navigation related string for 'Objectives' sections - aims and goals of the main topic",
-	"wm-commonstrings-ongoing": "Timeline related string for 'Ongoing' label",
-	"wm-commonstrings-open": "Timeline related string for 'Open' label",
-	"wm-commonstrings-overview": "Navigation related string for 'Overview' sections - summary of the main topic",
-	"wm-commonstrings-participate": "Navigation related string for 'Participate' sections - engage with the main topic",
-	"wm-commonstrings-reports": "Navigation related string for 'Reports' sections - documentation with updates and other related information relevant to the main topic",
-	"wm-commonstrings-scope": "Navigation related string for 'Scope' sections - subject matter relevant to the main topic",
-	"wm-commonstrings-seealso": "Navigation related string for 'See also' sections - additional information to view related to the main topic",
-	"wm-commonstrings-staff": "Navigation related string for 'Staff' sections - individuals working professionally for or on the main topic",
-	"wm-commonstrings-updates": "Navigation related string for 'Updates' sections - new information related to the main topic"
+	"wm-commonstrings-background": "String commonly used in navigation or headers for content with historical or summary information on a given topic",
+	"wm-commonstrings-closed": "String commonly used in timelines or documentation to indicate a topic is closed",
+	"wm-commonstrings-connect": "String commonly used in navigation or headers for content with ways people can engage with other individuals on the main topic",
+	"wm-commonstrings-events": "String commonly used in navigation or headers for content about activities happening related to the main topic",
+	"wm-commonstrings-objectives": "String commonly used in navigation or headers for content about the aims and goals of the main topic",
+	"wm-commonstrings-ongoing": "String commonly used in timelines or documentation to indicate a topic is ongoing",
+	"wm-commonstrings-open": "String commonly used in timelines or documentation to indicate a topic is still open",
+	"wm-commonstrings-overview": "String commonly used in navigation or headers for a summary of the main topic",
+	"wm-commonstrings-participate": "String commonly used in navigation or headers for content with ways people can engage with the main topic",
+	"wm-commonstrings-reports": "String commonly used in navigation or headers for content about reports or documentation relevant to the main topic",
+	"wm-commonstrings-scope": "String commonly used in navigation or headers for content about the scope of the main topic",
+	"wm-commonstrings-seealso": "String commonly used in navigation or headers for content with additional information on the main topic",
+	"wm-commonstrings-staff": "String commonly used in navigation or headers for content about individuals working professionally for or on the main topic",
+	"wm-commonstrings-updates": "String commonly used in navigation or headers for content providing new information related to the main topic"
 }
