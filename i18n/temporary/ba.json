@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iketsi",
 			"З. ӘЙЛЕ"
 		]
 	},
@@ -8,5 +9,6 @@
 	"grouppage-oversight": "{{ns:project}}:Аныҡлаусылар",
 	"group-oversight": "Аныҡлаусылар",
 	"group-oversight-member": "{{GENDER:$1|күҙәтеүсе}}",
+	"hello": "Сәләм",
 	"please-translate": "Үҙ телегеҙгә тәржемә итергә ярҙамлашығыҙ"
 }
