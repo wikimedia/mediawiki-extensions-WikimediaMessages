@@ -4,18 +4,24 @@
 			"varnent"
 		]
 	},
+	"wm-commonstrings-agenda": "String commonly used in navigation or headers for content related to an entity's meeting agenda",
 	"wm-commonstrings-background": "String commonly used in navigation or headers for content with historical or summary information on a given topic",
+	"wm-commonstrings-bylaws": "String commonly used in navigation or headers for content related to an entity's governing document",
 	"wm-commonstrings-closed": "String commonly used in timelines or documentation to indicate a topic is closed",
 	"wm-commonstrings-connect": "String commonly used in navigation or headers for content with ways people can engage with other individuals on the main topic",
+	"wm-commonstrings-contactus": "String commonly used in navigation or headers to invite people to contact individuals primarily responsible for main topic",
 	"wm-commonstrings-events": "String commonly used in navigation or headers for content about activities happening related to the main topic",
 	"wm-commonstrings-objectives": "String commonly used in navigation or headers for content about the aims and goals of the main topic",
 	"wm-commonstrings-ongoing": "String commonly used in timelines or documentation to indicate a topic is ongoing",
 	"wm-commonstrings-open": "String commonly used in timelines or documentation to indicate a topic is still open",
 	"wm-commonstrings-overview": "String commonly used in navigation or headers for a summary of the main topic",
 	"wm-commonstrings-participate": "String commonly used in navigation or headers for content with ways people can engage with the main topic",
+	"wm-commonstrings-questions": "String commonly used in navigation or headers to indicate where people can seek answers to questions",
 	"wm-commonstrings-reports": "String commonly used in navigation or headers for content about reports or documentation relevant to the main topic",
+	"wm-commonstrings-resolutions": "String commonly used in navigation or headers for resolutions officially adopted by an entity or governing body",
 	"wm-commonstrings-scope": "String commonly used in navigation or headers for content about the scope of the main topic",
 	"wm-commonstrings-seealso": "String commonly used in navigation or headers for content with additional information on the main topic",
 	"wm-commonstrings-staff": "String commonly used in navigation or headers for content about individuals working professionally for or on the main topic",
+	"wm-commonstrings-talktous": "String commonly used in navigation or headers to prompt feedback or discussion",
 	"wm-commonstrings-updates": "String commonly used in navigation or headers for content providing new information related to the main topic"
 }

@@ -336,6 +336,7 @@
 	"securepoll-dblist-securepollglobal": "Board Election",
 	"wikimedia-statslink": "Statistics",
 	"wikimedia-statslink-url": "https://stats.wikimedia.org/#/$1",
+	"wikimedia-wikistats-label": "Wikistats",
 	"wikimedia-cookiestatement": "Cookie statement",
 	"ext-quicksurveys-performance-internal-survey-question": "Did this page load fast enough?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "For more information, see this survey's [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement privacy statement].",
@@ -369,6 +370,7 @@
 	"action-edit-legal": "edit pages with potential legal consequences",
 	"ipinfo-feedback-button-label": "Leave feedback",
 	"ext-quicksurveys-tst-internal-survey-question": "In the last 30 days, have you felt unsafe or uncomfortable contributing to {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-name": "QuickSurveys",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Yes",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "This anonymous survey is conducted by the Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Read more] or check the [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement privacy statement].",
@@ -400,5 +402,13 @@
 	"ipinfo-xtools-url-label": "XTools",
 	"ipinfo-xtools-url": "https://xtools.wmcloud.org/ec/$2/$1",
 	"protect-level-edit-legal": "Allow only users who can edit legal-related pages",
-	"restriction-level-edit-legal": "legal protected"
+	"restriction-level-edit-legal": "legal protected",
+	"wikimedia-babel-label": "Babel",
+	"wikimedia-foundation-projects-label": "Wikimedia Foundation projects",
+	"wikimedia-projects-label": "Wikimedia projects",
+	"wikimedia-mailservices-label": "Wikimedia Mailservices",
+	"wikimedia-movement-affiliates-label": "Wikimedia Movement Affiliates",
+	"wikimedia-movement-affiliates-shortlabel": "Movement affiliates",
+	"wikimedia-news-label": "Wikimedia News",
+	"wikimedia-help-translate-prompt": "Want to help translate? [$1 Translate the missing messages]."
 }
