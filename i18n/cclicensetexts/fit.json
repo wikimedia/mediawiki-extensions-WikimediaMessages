@@ -6,7 +6,7 @@
 		]
 	},
 	"wm-license-cc-wiki-link": "w:fi:Creative Commons",
-	"wm-license-cc-by-1.0-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.fi Nimeä 1.0 Yleinen] -lisensillä.",
-	"wm-license-cc-by-1.0-fi-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.fi Nimeä 1.0 Suomi ] -lisensillä.",
-	"wm-license-cc-by-1.0-il-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.fi Nimeä 1.0 Israel] -lisensillä."
+	"wm-license-cc-by-1.0-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/1.0/deed.fi|Nimeä 1.0 Yleinen]] -lisensillä.",
+	"wm-license-cc-by-1.0-fi-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/1.0/fi/deed.fi|Nimeä 1.0 Suomi ]] -lisensillä.",
+	"wm-license-cc-by-1.0-il-text": "Tämä fiili oon lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/1.0/il/deed.fi|Nimeä 1.0 Israel]] -lisensillä."
 }

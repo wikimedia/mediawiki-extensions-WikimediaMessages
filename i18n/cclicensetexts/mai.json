@@ -6,9 +6,9 @@
 		]
 	},
 	"wm-license-cc-attribution": "एट्रिब्युसन",
-	"wm-license-cc-by-1.0-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [https://creativecommons.org/licenses/by/1.0/ एट्रीब्यूशन १.० जेनेरिक] लाईसेंस ।",
-	"wm-license-cc-by-1.0-fi-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [https://creativecommons.org/licenses/by/1.0/fi/ एट्रीब्यूशन १.० फिनलैंड] लाईसेंस ।",
-	"wm-license-cc-by-sa-3.0-text": "ई फाइल लाइसेन्सड अछि एहि अन्तर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिभ कमन्स]] [https://creativecommons.org/licenses/by-sa/3.0/ एट्रिब्युसन-सेयर अलाइक ३.० अनपोर्टेड] लाईसेन्स ।",
+	"wm-license-cc-by-1.0-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [[creativecommons:by/1.0/|एट्रीब्यूशन १.० जेनेरिक]] लाईसेंस ।",
+	"wm-license-cc-by-1.0-fi-text": "इ संचिका लाइसेंस्ड अछि इ अंतर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कमन्स]] [[creativecommons:by/1.0/fi/|एट्रीब्यूशन १.० फिनलैंड]] लाईसेंस ।",
+	"wm-license-cc-by-sa-3.0-text": "ई फाइल लाइसेन्सड अछि एहि अन्तर्गत [[{{int:wm-license-cc-wiki-link}}|क्रिएटिभ कमन्स]] [[creativecommons:by-sa/3.0/|एट्रिब्युसन-सेयर अलाइक ३.० अनपोर्टेड]] लाईसेन्स ।",
 	"wm-license-cc-free": "अहाँ मुक्त छी:",
 	"wm-license-cc-free-to-share-header": "साझा करी",
 	"wm-license-cc-free-to-share-text": "रचनाक कपी, वितरित आ सञ्चारित करवाक लेल",

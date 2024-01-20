@@ -10,8 +10,8 @@
 		]
 	},
 	"wm-license-cc-attribution": "Sifa",
-	"wm-license-cc-by-1.0-text": "Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [https://creativecommons.org/licenses/by/1.0/ Sifa 1.0 generiska].",
-	"wm-license-cc-by-sa-3.0-text": "Faili hii imeidhinishwa chini ya [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution- Attribution-Share Alike 3.0 Unported] leseni.",
+	"wm-license-cc-by-1.0-text": "Picha hii imetolewa chini ya laiseni [[{{int:wm-license-cc-wiki-link}}|Huria ya Umma]] [[creativecommons:by/1.0/|Sifa 1.0 generiska]].",
+	"wm-license-cc-by-sa-3.0-text": "Faili hii imeidhinishwa chini ya [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution- Attribution-Share Alike 3.0 Unported]] leseni.",
 	"wm-license-cc-free": "Uko huru:",
 	"wm-license-cc-free-to-share-header": "kushiriki",
 	"wm-license-cc-free-to-share-text": "kunakili na kusambaza kazi hiyo",
