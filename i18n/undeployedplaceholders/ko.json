@@ -4,5 +4,8 @@
 			"Ykhwong"
 		]
 	},
+	"wikimedia-log-action-filter-usermerge": "조치 유형:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "사용자 계정 병합",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "사용자 계정 삭제",
 	"wikimedia-usermerge-logpage": "사용자 병합 기록"
 }
