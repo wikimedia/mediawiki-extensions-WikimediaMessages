@@ -1,12 +1,13 @@
 {
 	"@metadata": {
-		"authors": [
-			"varnent"
-		]
+		"authors": []
 	},
+	"wm-commonstrings-agenda": "Agenda",
 	"wm-commonstrings-background": "Background",
+	"wm-commonstrings-bylaws": "Bylaws",
 	"wm-commonstrings-closed": "Closed",
 	"wm-commonstrings-connect": "Connect",
+	"wm-commonstrings-contactus": "Contact us",
 	"wm-commonstrings-events": "Events",
 	"wm-commonstrings-objectives": "Objectives",
 	"wm-commonstrings-ongoing": "Ongoing",
@@ -14,8 +15,11 @@
 	"wm-commonstrings-overview": "Overview",
 	"wm-commonstrings-participate": "Participate",
 	"wm-commonstrings-reports": "Reports",
+	"wm-commonstrings-resolutions": "Resolutions",
+	"wm-commonstrings-questions": "Questions?",
 	"wm-commonstrings-scope": "Scope",
 	"wm-commonstrings-seealso": "See also",
 	"wm-commonstrings-staff": "Staff",
+	"wm-commonstrings-talktous": "Talk to us",
 	"wm-commonstrings-updates": "Updates"
 }
