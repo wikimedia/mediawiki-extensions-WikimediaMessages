@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Basharh"
+			"Basharh",
+			"Iketsi"
 		]
 	},
 	"group-oversight": "ܚܝܘܪ̈ܐ",
-	"group-oversight-member": "ܚܝܘܪܐ"
+	"group-oversight-member": "ܚܝܘܪܐ",
+	"hello": "ܫܠܡܐ"
 }
