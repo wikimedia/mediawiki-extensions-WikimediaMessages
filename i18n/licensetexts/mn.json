@@ -1,14 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chinneeb"
+			"Chinneeb",
+			"Enkhsaihan2005"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Энэхүү баримт бичгийг '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Хувилбарын нөхцлийн дагуу хуулах, түгээх болон/эсвэл өөрчлөх зөвшөөрөл олгосон. 1.2 эсвэл [[{{int:wm-license-fsf-wiki-link}}|Чөлөөт програм хангамжийн сангаас]] нийтэлсэн дараагийн хувилбар; Инвариант хэсэггүй, нүүрэн талын текстгүй, арын хавтастай текстгүй. Лицензийн хуулбарыг ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]'' гэсэн хэсэгт оруулсан болно.",
 	"wm-license-gfdl-wiki-link": "w:mn:ГНУ чөлөөт баримт бичгийн лиценз",
 	"wm-license-gpl-wiki-link": "w:mn:GNU GPL",
 	"wm-license-information-description": "Тайлбар",
 	"wm-license-information-source": "Эх үүсвэр",
 	"wm-license-information-date": "Огноо",
 	"wm-license-information-author": "Зохиогч",
-	"wm-license-own-work": "Энэ миний бүтээл"
+	"wm-license-information-permission": "Зөвшөөрөл",
+	"wm-license-information-permission-reusing-text": "Энэ файлыг дахин ашиглах",
+	"wm-license-own-work": "Энэ миний бүтээл",
+	"wm-license-self-multiple-licenses-select": "Та өөрийн хүссэн лицензээ сонгож болно."
 }

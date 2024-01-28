@@ -274,5 +274,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
 	"readinglists-import-app": "Per importare questo elenco di lettura, installa l'ultima versione dell'app Wikipedia:",
-	"readinglists-import-app-with-link": "<a href=\"$1\">Scarica</a> e installa l'ultima versione dell'app Wikipedia:"
+	"readinglists-import-app-with-link": "<a href=\"$1\">Scarica</a> e installa l'ultima versione dell'app Wikipedia:",
+	"wikimedia-foundation-projects-label": "Progetti della Fondazione Wikimedia",
+	"wikimedia-projects-label": "Progetti Wikimedia"
 }

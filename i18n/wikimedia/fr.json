@@ -14,6 +14,7 @@
 			"Cl3m3n7",
 			"Crochet.david",
 			"DDesouza",
+			"Daniel236",
 			"DavidL",
 			"DePlusJean",
 			"Derugon",
@@ -43,6 +44,7 @@
 			"Meno25",
 			"Metroitendo",
 			"Minh Nguyen",
+			"Momo50WM",
 			"Nemo bis",
 			"Niridya",
 			"Nobody",
@@ -379,6 +381,7 @@
 	"right-viewdeletedfile": "Voir les fichiers et pages qui ont été supprimés dans les espaces de noms {{ns:file}} et {{ns:file_talk}}.",
 	"securepoll-dblist-securepollglobal": "Élection du conseil",
 	"wikimedia-statslink": "Statistiques",
+	"wikimedia-wikistats-label": "Stats Wiki",
 	"wikimedia-cookiestatement": "Déclaration sur les témoins (cookies)",
 	"ext-quicksurveys-performance-internal-survey-question": "Est-ce que cette page s’est affichée suffisamment rapidement ?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pour davantage d’informations, consultez la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement déclaration de confidentialité] de ce sondage.",
@@ -410,6 +413,7 @@
 	"action-edit-legal": "modifier des pages avec de potentielles conséquences juridiques",
 	"ipinfo-feedback-button-label": "Laisser un avis",
 	"ext-quicksurveys-tst-internal-survey-question": "Au cours des 30 derniers jours, vous êtes-vous senti{{GENDER:||e}} en danger ou mal à l’aise en contribuant à {{SITENAME}} ({{SERVERNAME}}) ?",
+	"ext-quicksurveys-name": "Enquêtes rapides",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Oui",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Non",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Cette enquête anonyme est dirigée par la Fondation Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety En savoir plus] ou consulter  [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement la déclaration de confidentialité].",
@@ -437,5 +441,10 @@
 	"research-incentive-confirm-msg": "Merci !",
 	"ipinfo-global-contributions-url-label": "Contributions globales",
 	"protect-level-edit-legal": "Autoriser uniquement les utilisateurs qui peuvent modifier les pages à caractère juridique",
-	"restriction-level-edit-legal": "juridiquement protégé"
+	"restriction-level-edit-legal": "juridiquement protégé",
+	"wikimedia-projects-label": "Projets Wikimedia",
+	"wikimedia-mailservices-label": "Services de messagerie Wikimédia",
+	"wikimedia-movement-affiliates-label": "Affiliés au mouvement Wikimédia",
+	"wikimedia-movement-affiliates-shortlabel": "Affiliés du mouvement",
+	"wikimedia-news-label": "Actualités Wikimédia"
 }

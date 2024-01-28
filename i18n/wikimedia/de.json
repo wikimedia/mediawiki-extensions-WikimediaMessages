@@ -331,6 +331,7 @@
 	"right-viewdeletedfile": "Gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ ansehen",
 	"securepoll-dblist-securepollglobal": "Vorstandswahl",
 	"wikimedia-statslink": "Statistiken",
+	"wikimedia-wikistats-label": "Wiki-Statistiken",
 	"wikimedia-cookiestatement": "Stellungnahme zu Cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Wurde diese Seite schnell genug geladen?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement Datenschutzerklärung] für diese Umfrage.",
@@ -383,5 +384,12 @@
 	"research-incentive-answer-positive": "Teilnehmen",
 	"research-incentive-answer-negative": "Nicht teilnehmen werden",
 	"research-incentive-privacy": "Lies unsere Datenschutzbestimmungen und erfahre mehr über unser [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja Forschungsprogramm].",
-	"ipinfo-global-contributions-url-label": "Globale Beiträge"
+	"ipinfo-global-contributions-url-label": "Globale Beiträge",
+	"wikimedia-foundation-projects-label": "Projekte der Wikimedia Foundation",
+	"wikimedia-projects-label": "Wikimedia-Projekte",
+	"wikimedia-mailservices-label": "Wikimedia-Maildienste",
+	"wikimedia-movement-affiliates-label": "Parter der Wikimedia-Bewegung",
+	"wikimedia-movement-affiliates-shortlabel": "Partner der Bewegung",
+	"wikimedia-news-label": "Wikimedia-Neuheiten",
+	"wikimedia-help-translate-prompt": "Möchtst du bei der Übersetzung helfen? [$1 Übersetze die fehlenden Nachrichten]."
 }

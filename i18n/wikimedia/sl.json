@@ -312,6 +312,7 @@
 	"right-viewdeletedfile": "Ogled datotek in strani v izbrisanih imenskih prostorih {{ns:file}} in {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Volitve odbora",
 	"wikimedia-statslink": "Statistika",
+	"wikimedia-wikistats-label": "Wikistatistika",
 	"wikimedia-cookiestatement": "O piškotkih",
 	"ext-quicksurveys-performance-internal-survey-question": "Ali se je ta stran naložila dovolj hitro?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Za več informacij glejte [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement izjavo o zasebnosti] za to anketo.",
@@ -368,5 +369,12 @@
 	"research-incentive-answer-negative": "Ne",
 	"research-incentive-privacy": "Oglejte si naš pravilnik o zasebnosti in se [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program tukaj] podrobneje seznanite z našim raziskovalnim programom.",
 	"research-incentive-confirm-msg": "Hvala!",
-	"ipinfo-global-contributions-url-label": "Globalni prispevki"
+	"ipinfo-global-contributions-url-label": "Globalni prispevki",
+	"wikimedia-foundation-projects-label": "Projekti Fundacije Wikimedia",
+	"wikimedia-projects-label": "Projekti Wikimedie",
+	"wikimedia-mailservices-label": "Poštne storitve Wikimedia",
+	"wikimedia-movement-affiliates-label": "Podružnice gibanja Wikimedia",
+	"wikimedia-movement-affiliates-shortlabel": "Podružnice gibanja",
+	"wikimedia-news-label": "Wikimedia News",
+	"wikimedia-help-translate-prompt": "Želite pomagati pri prevajanju? [$1 Prevedite manjkajoča sporočila]."
 }
