@@ -3,11 +3,16 @@
 		"authors": [
 			"Ibrahim",
 			"ToJack",
-			"Vashgird"
+			"Vashgird",
+			"ZulfiqorF"
 		]
 	},
 	"wm-license-cc-attribution": "Тахсис",
+	"wm-license-cc-free": "Шумо озодед:",
 	"wm-license-cc-free-to-share-header": "мубодилот намудан",
+	"wm-license-cc-free-to-share-text": "копӣ, паҳн ва фиристадани асар",
+	"wm-license-cc-free-to-remix-header": "ремикс кардан",
+	"wm-license-cc-free-to-remix-text": "татбиқи кор",
 	"wm-license-cc-conditions-attribution-header": "тахсис",
 	"wm-license-cc-conditions-share_alike-header": "саҳми яксон"
 }
