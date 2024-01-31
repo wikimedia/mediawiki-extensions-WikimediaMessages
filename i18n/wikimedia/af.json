@@ -12,6 +12,7 @@
 			"SPQRobin",
 			"Servien",
 			"Spacebirdy",
+			"Varnent",
 			"පසිඳු කාවින්ද"
 		]
 	},
@@ -133,5 +134,6 @@
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, die vry ensiklopedie",
 	"restriction-level-templateeditor": "sjabloonredakteur beskerm",
 	"wikimedia-statslink": "Statistieke",
-	"wikimedia-cookiestatement": "Koekieverklaring"
+	"wikimedia-cookiestatement": "Koekieverklaring",
+	"wikimedia-help-translate-prompt": "Wil u help vertaal? [$1 Vertaal die ontbrekende boodskappe]."
 }

@@ -6,6 +6,7 @@
 			"AlexSm",
 			"Bloomaround",
 			"Bugoslav",
+			"Butko",
 			"Cinemantique",
 			"Crazymadlover",
 			"DCamer",
@@ -370,5 +371,7 @@
 	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
 	"gadget-souspages-subpages": "Подстраницы",
-	"ipinfo-global-contributions-url-label": "Глобальный вклад"
+	"ipinfo-global-contributions-url-label": "Глобальный вклад",
+	"wikimedia-projects-label": "Проекты Викимедиа",
+	"wikimedia-news-label": "Новости Викимедиа"
 }
