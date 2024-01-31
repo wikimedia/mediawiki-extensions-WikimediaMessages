@@ -6,7 +6,8 @@
 			"MuratTheTurkish",
 			"Sembuk",
 			"Wisdom",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Enkhsaihan2005"
 		]
 	},
 	"sitesupport": "Хандив",
@@ -21,13 +22,18 @@
 	"group-steward": "Үйлчлэгчид",
 	"group-steward-member": "үйлчлэгч",
 	"wikimedia-copyright": "Тус хуудасны текстийг <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike лицензийн</a> дагуу ашиглах боломжтой; нэмэлт мэдээллийг <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Хэрэглэх нөхцөл</a> хуудаснаас авна уу",
+	"wikimedia-copyrightwarning": "Өөрчлөлтүүдийг хадгалснаар та [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use]-ийг зөвшөөрч, өөрийн оруулсан хувь нэмрийг [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] болон [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-ийн доор нийтлэхийг зөвшөөрөх болно.\nТа гипер холбоос эсвэл URL нь Creative Commons лицензийн дагуу хангалттай нэршил юм.",
 	"wikimedia-mobile-mainpage-title-loggedin": "$1 та тавтай морилно уу!",
 	"wikibase-sitelinks-wikinews": "Вики мэдээ",
+	"wikibase-sitelinks-wikiquote": "Викиишлэл",
+	"wikibase-sitelinks-wikisource": "Викисурвалж",
 	"wikibase-sitelinks-wikivoyage": "Викиаялал",
-	"wikimedia-developers": "Хөгжүүлэгчдэд",
+	"wikimedia-developers": "Хөгжүүлэгчид",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nТүгжээг $1 ( $2 ) хийсэн.\nШалтгаан нь '' $3 ''. \n\n* Түгжээ эхлэл: $4 \n* Түгжээ хугацаа: $5 \n\nТаны одоогийн IP хаяг $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nТүгжээг $1 ( $2 ) хийсэн.\nШалтгаан нь '' $3 ''. \n\n* Түгжээ эхлэл: $4 \n* Түгжээ хугацаа: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"right-superprotect": "Super protection төвшинг өөрчлөх",
 	"protect-level-superprotect": "Superprotect -тэй хэрэглэгчидыг зөвшөөрөх",
 	"restriction-level-superprotect": "super protect хийх",
 	"wikimedia-statslink": "Статистик",
-	"wikimedia-cookiestatement": "Күүкиний талаарх мэдээлэл"
+	"wikimedia-cookiestatement": "Күүки мэдэгдэл"
 }

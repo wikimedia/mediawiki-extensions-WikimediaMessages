@@ -111,6 +111,8 @@
 	"group-translationadmin": "Tarjima maʼmurlari",
 	"group-translationadmin-member": "{{GENDER:$1|tarjima maʼmuri}}",
 	"grouppage-translationadmin": "{{ns:project}}:Tarjima maʼmurlari",
+	"tag-emoji": "Emoji",
+	"tag-emoji-description": "Global suiisteʼmollar filtri 110 tomonidan ishlatiladi",
 	"shared-repo-name-shared": "Vikiombor",
 	"wikimedia-copyright": "Matn <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike litsenziyasi</a> boʻyicha ommalashtirilmoqda, alohida holatlarda qoʻshimcha shartlar amal qilishi mumkin (<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">batafsil</a>).",
 	"wikimedia-copyrightwarning": "Oʻzgarishlarni saqlash orqali siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use foydalanish shartlariga] hamda kiritgan maʼlumotlaringiz [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] va [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalari ostida qaytarishsiz nashr etilishiga rozilik bildirasiz. Shuningdek, „Creative Commons“ shartlari bajarilishi uchun ushbu sahifa yoki uning URL-manziliga havola koʻrsatish kifoya ekanligiga rozi boʻlasiz.",

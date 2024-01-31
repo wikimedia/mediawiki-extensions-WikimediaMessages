@@ -4,9 +4,13 @@
 			"POSSUM chowg"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Mamuk-chako-makwst, luʔluʔ ebe munk-ts'əm ukuk pipa khanumakwst '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', v1.2 ebe kanawi [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]] yaka wixt-chxi pipa. Nanich ukuk laysins kopa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Wawa-ikta pus ukuk",
 	"wm-license-information-source": "Lalasin-pipa",
 	"wm-license-information-date": "Ukuk ts'əm-ikta yaka sən",
 	"wm-license-information-author": "Tilixam łaksta munk-tsəm ukuk",
+	"wm-license-information-permission": "Laysins pi x̣auqał-ikta",
 	"wm-license-information-permission-reusing-text": "Pus maika mamuk ukuk fayl wix̣t",
-	"wm-license-own-work": "Ukuk tilixam yaka mamuk-ikta"
+	"wm-license-own-work": "Ukuk tilixam yaka mamuk-ikta",
+	"wm-license-self-multiple-licenses-select": "Pik ixt (delet) laysins pus maika tikix̣."
 }
