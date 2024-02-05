@@ -7,7 +7,8 @@
 			"Nemo bis",
 			"Purodha",
 			"WTM",
-			"Απεργός"
+			"Απεργός",
+			"Reedy"
 		]
 	},
 	"wikimediamessages-desc": "Systemnohrechte un Tex för de Wikimedia Shtefftung ier Wikis.",
@@ -196,7 +197,7 @@
 	"interlanguage-link-mul": "Mih Schprohche",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} en ville Schprohche",
 	"interlanguage-link-wikipedia": "Wikkipehdija",
-	"interlanguage-link-sitename-wikipedia": "{{subst:Mediawiki:subtitle/ksh}}",
+	"interlanguage-link-sitename-wikipedia": "{{subst:MediaWiki:subtitle/ksh}}",
 	"interlanguage-link-commons": "Wikkimeedija <i lang=\"en\">Commons</i>",
 	"interlanguage-link-sitename-commons": "- Wikkimeedija Commons - de Sammlong vun Mehdije-Datteije -",
 	"interlanguage-link-dmoz": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Open Directory Project - Directory Mozilla\">DMOZ</i> Wäb-Kattalohch",

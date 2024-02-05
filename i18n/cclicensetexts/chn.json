@@ -4,5 +4,16 @@
 			"POSSUM chowg"
 		]
 	},
-	"wm-license-cc-free": "Mamuk pus mayka tikix̣:"
+	"wm-license-cc-attribution": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+	"wm-license-cc-by-sa-3.0-text": "Ukuk fayl t'uʔan ukuk laysins kopa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] yaka laysins.",
+	"wm-license-cc-free": "Mamuk pus mayka tikix̣:",
+	"wm-license-cc-free-to-share-header": "pus pałach",
+	"wm-license-cc-free-to-share-text": "pus mamuk-makwst pi luʔluʔ pi ukuk mamuk-ikta",
+	"wm-license-cc-free-to-remix-header": "pus mamuk-makwst pi mamuk-x̣luima",
+	"wm-license-cc-free-to-remix-text": "pus mamuk mamuk-ikta kopa x̣luima iliʔi",
+	"wm-license-cc-conditions": "Kikwəli ukuk laa:",
+	"wm-license-cc-conditions-attribution-header": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+	"wm-license-cc-conditions-attribution-text": "Pałach delet shabon-wawa, pi pałach hayas-lakhlwa-łipait kopa ukuk laisins, pi wawa kopa nsaika pus maika mamuk-ts'əm kopa ukuk pipa. Wik mamuk wawa kakwa tilixam łaksta maika təmtəm-łush maika epe maika mamuk-ikta.",
+	"wm-license-cc-conditions-share_alike-header": "Pałach kopa xluima tilix̣am",
+	"wm-license-cc-conditions-share_alike-text": "Pus maika mamuk-x̣luima ukuk, maika tikix̣ pałach maika mamuk-ikta kikwəli [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] kakwa uk elip ikta."
 }

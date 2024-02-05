@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Enkhsaihan2005"
+		]
+	},
+	"wm-license-cc-attribution": "Атрибут",
+	"wm-license-cc-by-sa-3.0-text": "Энэ файл нь [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] лицензтэй байна.",
+	"wm-license-cc-free": "Та чөлөөтэй:",
+	"wm-license-cc-free-to-share-header": "хуваалцах",
+	"wm-license-cc-free-to-share-text": "бүтээлийг хуулбарлах, түгээх, дамжуулах",
+	"wm-license-cc-free-to-remix-header": "ремикс хийх",
+	"wm-license-cc-free-to-remix-text": "ажлыг тохируулах",
+	"wm-license-cc-conditions": "Дараах нөхцөлд:",
+	"wm-license-cc-conditions-attribution-header": "хамаарал",
+	"wm-license-cc-conditions-attribution-text": "Та зохих кредитийг өгч, лицензийн холбоосыг өгч, өөрчлөлт оруулсан эсэхийг зааж өгөх ёстой. Та үүнийг ямар ч боломжийн аргаар хийж болно, гэхдээ лиценз олгогч таныг эсвэл таны хэрэглээг зөвшөөрөхгүй.",
+	"wm-license-cc-conditions-share_alike-header": "адилхан хуваалцах",
+	"wm-license-cc-conditions-share_alike-text": "Хэрэв та материалыг дахин найруулах, хувиргах эсвэл бүтээх юм бол [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license]-ийн дагуу өөрийн хувь нэмрийг эх хувьтай нь түгээх ёстой."
+}
