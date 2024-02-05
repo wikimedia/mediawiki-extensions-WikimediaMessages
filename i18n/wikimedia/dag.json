@@ -26,6 +26,8 @@
 	"wikimedia-taglines-enterprise": "APIs zaŋ n-ti kundi din be zuɣusaa zaŋ tum tuma",
 	"wikimedia-taglines-incubator": "Zaŋ n-ti balli yaɣili lɛbigimsim",
 	"wikimedia-taglines-mediawiki": "Yoli mini palo Wiki bɔbu",
+	"wikimedia-taglines-meta": "Ʒilɛli ni laɣim gbaai mini zaŋ niŋ kundi ni",
+	"wikimedia-taglines-testwikipedia": "Di zahindi la \"software\" taɣibu nima",
 	"wikimedia-taglines-wikibooks": "Yoli buku karimda",
 	"wikimedia-taglines-wikidata": "Yoli baŋsim bintamdigu",
 	"wikimedia-taglines-wikifunctions": "Yoli maaligu karimbu shee",
@@ -44,7 +46,9 @@
 	"wikimedia-projects-label": "Wikimɛdia tuma",
 	"wikimedia-news-label": "Wikimɛdia lahabaya",
 	"wikimedia-help-translate-prompt": "A borimi ni a sɔŋ lɛbigibu?\n [$1 Translate the missing messages].",
+	"wikimedia-foundation-memory-bank-shortlabel": "Hada Banchi",
 	"wikimedia-foundation-mark-label": "Wikimedia Foundation dalinli",
 	"wikimedia-nutshell-page-intro": "Yaɣili ŋɔ naabu ni: $1",
+	"wikimedia-translation-disclaimer-nolink": "Pahimi suɣilo baŋma ni di yi niŋ ka waligimsim be taa silimiinsili ni zaŋ n-ti lahabali ŋɔ mini di lɛbigibu sunsuuni, taa silimiinsili yaɣili ŋɔ ka bɛ kpaɣira.",
 	"wikimedia-talk-archive-page-intro": "Din bɔŋɔ nyɛla '''archive''' zaŋ n-ti gbaari kura. '''Di ti niŋ maliniŋ yaɣili ŋɔ.''' Di yi niŋ ka a bori ni a piligi gbaari palli bee labi lihi gbaari kurili, pahimi suɣilo nyini niŋmi lala [[$1|saha ŋɔ yɛltɔɣa yɛlibu yaɣili]]."
 }
