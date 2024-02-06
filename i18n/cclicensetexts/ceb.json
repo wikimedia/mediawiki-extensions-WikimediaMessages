@@ -1,11 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bentong Isles"
+			"Bentong Isles",
+			"Như Gây Mê"
 		]
 	},
+	"wm-license-cc-free": "Libre ka:",
 	"wm-license-cc-free-to-share-header": "sa pagsabwag",
 	"wm-license-cc-free-to-share-text": "sa pagkopya, pag-apod-apod ug pagsabwag sa hinimo",
+	"wm-license-cc-free-to-remix-header": "sa pag-remix",
 	"wm-license-cc-free-to-remix-text": "sa pag-adap sa binuhat",
-	"wm-license-cc-conditions-share_alike-text": "Kon ikaw mousab o mogamit niining mao binuhat, mahimo mong iapod-apod ang imong bag-ong binuhat ubos sa sama o susamang pagtugot niini."
+	"wm-license-cc-conditions": "Ubos sa mosunod nga mga kondisyon:",
+	"wm-license-cc-conditions-attribution-header": "atribusyon",
+	"wm-license-cc-conditions-attribution-text": "Kinahanglan nimo nga hatagan ang angay nga kredito, maghatag usa ka link sa lisensya, ug ipakita kung adunay mga pagbag-o. Mahimo nimo kini buhaton sa bisan unsang makatarunganon nga paagi, apan dili sa bisan unsang paagi nga nagsugyot nga gi-endorso ka sa licensor o ang imong paggamit.",
+	"wm-license-cc-conditions-share_alike-header": "share parehas",
+	"wm-license-cc-conditions-share_alike-text": "Kung imong gi-remix, gibag-o, o gibase sa materyal, kinahanglan nimo nga iapod-apod ang imong mga kontribusyon sa ilawom sa [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses parehas o katugma nga lisensya] sama sa orihinal."
 }

@@ -69,7 +69,9 @@
 			"No se",
 			"Amire80",
 			"DarkGames26",
-			"FlyingAce"
+			"FlyingAce",
+			"Eulalio",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -275,6 +277,7 @@
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",
+	"wikibase-otherprojects-outreach": "Divulgación de Wikimedia",
 	"wikibase-otherprojects-sources": "Wikisource multilingüe",
 	"wikibase-otherprojects-species": "Wikiespecies",
 	"wikibase-otherprojects-wikibooks": "Wikilibros",
