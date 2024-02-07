@@ -4,12 +4,19 @@
 			"Abastillas",
 			"Bentong Isles",
 			"Jordz",
-			"Nemo bis"
+			"Nemo bis",
+			"Như Gây Mê"
 		]
 	},
 	"sitesupport": "Mga donasyon",
 	"tooltip-n-sitesupport": "Tabangi kami",
-	"wikimedia-copyright": "Ang teksto puyde magamit ubos sa <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; puyde madugangan ang mga termino.\nTan-awa ang <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Mga Termino sa Paggamit</a> para sa mga detalye.",
-	"wikimedia-copyrightwarning": "Sa pagtipig, miuyon ka sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Kasabotan sa Paggamit], ug imong gihatag ug di mo na mabawi nga ang imong kontribusyon imong gihatag ubos sa [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 nga Lisensya] ug sa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Miuyon ka usab nga ang <i>hyperlink</i> kun URL tukmang pag-ila na ubos sa Creative Commons nga lisensya.",
-	"wikimedia-developers": "Mga tig-ugmad"
+	"wikimedia-copyright": "Ang teksto anaa ubos sa <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a> ;\ndugang mga termino mahimong magamit.\nTan-awa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ang Termino sa Paggamit</a> alang sa mga detalye.",
+	"wikimedia-copyrightwarning": "Pinaagi sa pagtipig sa mga pagbag-o, miuyon ka sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], ug dili mabakwi nga miuyon ka nga ipagawas ang imong kontribusyon ubos sa [https://creativecommons. org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] ug ang [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nMiuyon ka nga usa ka hyperlink o Ang URL igo nga pagpaila ubos sa lisensya sa Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Mga tig-ugmad",
+	"wikimedia-statslink": "Estadistika",
+	"wikimedia-cookiestatement": "Pahayag sa cookie"
 }

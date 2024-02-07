@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rebelagent"
+			"Rebelagent",
+			"Sekhomba"
 		]
 	},
-	"wm-license-cc-free": "O gololosegile:"
+	"wm-license-cc-free": "O gololosegile:",
+	"wm-license-cc-conditions-attribution-header": "Go neelwa",
+	"wm-license-cc-conditions-share_alike-header": "go abelana ka go tshwana"
 }
