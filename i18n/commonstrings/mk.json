@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bjankuloski06"
+		]
+	},
+	"wm-commonstrings-agenda": "Дневен ред",
+	"wm-commonstrings-background": "Позадина",
+	"wm-commonstrings-bylaws": "Статут",
+	"wm-commonstrings-closed": "Затворено",
+	"wm-commonstrings-connect": "Поврзете се",
+	"wm-commonstrings-contactus": "Контактирајте нè",
+	"wm-commonstrings-events": "Настани",
+	"wm-commonstrings-mainpage-prompt": "Главна страница: $1",
+	"wm-commonstrings-objectives": "Цели",
+	"wm-commonstrings-ongoing": "Во тек",
+	"wm-commonstrings-open": "Отворено",
+	"wm-commonstrings-overview": "Преглед",
+	"wm-commonstrings-participate": "Учествувајте",
+	"wm-commonstrings-reports": "Извештаи",
+	"wm-commonstrings-resolutions": "Одлуки",
+	"wm-commonstrings-questions": "Прашања?",
+	"wm-commonstrings-register-account": "Направи сметка",
+	"wm-commonstrings-scope": "Делокруг",
+	"wm-commonstrings-seealso": "Поврзано",
+	"wm-commonstrings-staff": "Персонал",
+	"wm-commonstrings-talktous": "Разговарајте со нас",
+	"wm-commonstrings-updates": "Новости"
+}

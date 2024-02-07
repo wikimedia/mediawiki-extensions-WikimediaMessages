@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": [
+			"আফতাবুজ্জামান"
+		]
+	},
+	"wm-commonstrings-agenda": "আলোচ্যসূচি",
+	"wm-commonstrings-background": "পটভূমি",
+	"wm-commonstrings-closed": "বন্ধ",
+	"wm-commonstrings-connect": "সংযোগ করুন",
+	"wm-commonstrings-contactus": "যোগাযোগ করুন",
+	"wm-commonstrings-events": "ইভেন্ট",
+	"wm-commonstrings-mainpage-prompt": "প্রধান পাতা: $1",
+	"wm-commonstrings-objectives": "উদ্দেশ্য",
+	"wm-commonstrings-ongoing": "চলমান",
+	"wm-commonstrings-open": "খোলা",
+	"wm-commonstrings-overview": "সারসংক্ষেপ",
+	"wm-commonstrings-participate": "অংশগ্রহন করুন",
+	"wm-commonstrings-reports": "অভিযোগ করুন",
+	"wm-commonstrings-questions": "প্রশ্ন?",
+	"wm-commonstrings-register-account": "অ্যাকাউন্ট নিবন্ধন করুন",
+	"wm-commonstrings-scope": "পরিধি",
+	"wm-commonstrings-seealso": "আরও দেখুন",
+	"wm-commonstrings-staff": "কর্মী",
+	"wm-commonstrings-talktous": "আমাদের সাথে কথা বল",
+	"wm-commonstrings-updates": "হালনাগাদ"
+}

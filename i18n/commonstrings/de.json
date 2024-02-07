@@ -1,0 +1,27 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wm-commonstrings-agenda": "Agenda",
+	"wm-commonstrings-background": "Hintergrund",
+	"wm-commonstrings-bylaws": "Satzung",
+	"wm-commonstrings-closed": "Geschlossen",
+	"wm-commonstrings-connect": "Verbunden",
+	"wm-commonstrings-contactus": "Kontaktiere uns",
+	"wm-commonstrings-events": "Ereignisse",
+	"wm-commonstrings-mainpage-prompt": "Hauptseite: $1",
+	"wm-commonstrings-objectives": "Ziele",
+	"wm-commonstrings-ongoing": "Laufend",
+	"wm-commonstrings-open": "Offen",
+	"wm-commonstrings-overview": "Übersicht",
+	"wm-commonstrings-participate": "Teilnehmen",
+	"wm-commonstrings-reports": "Berichte",
+	"wm-commonstrings-resolutions": "Entschlüsse",
+	"wm-commonstrings-questions": "Fragen?",
+	"wm-commonstrings-register-account": "Account erstellen",
+	"wm-commonstrings-scope": "Umfang",
+	"wm-commonstrings-seealso": "Siehe auch",
+	"wm-commonstrings-staff": "Mitarbeiter",
+	"wm-commonstrings-talktous": "Rede mit uns",
+	"wm-commonstrings-updates": "Aktualisierungen"
+}

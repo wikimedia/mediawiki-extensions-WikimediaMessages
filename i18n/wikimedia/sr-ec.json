@@ -189,6 +189,7 @@
 	"wikimedia-taglines-foundationsite": "Званичан веб-сајт Задужбине Викимедије",
 	"wikimedia-taglines-meta": "Координација заједнице и документација",
 	"wikimedia-taglines-species": "Слободни директоријум врста",
+	"wikimedia-taglines-sources": "Слободна библиотека",
 	"wikimedia-taglines-wikibooks": "Слободни уџбеници",
 	"wikimedia-taglines-wikidata": "Слободна база знања",
 	"wikimedia-taglines-wikifunctions": "Слободна библиотека функција",
@@ -196,6 +197,7 @@
 	"wikimedia-taglines-wikipedia": "Слободна енциклопедија",
 	"wikimedia-taglines-wikiquote": "Слободна збирка цитата",
 	"wikimedia-taglines-wikitech": "Викимедијина техничка документација",
+	"wikimedia-taglines-wikiversity": "Слободни наставни материјали",
 	"wikimedia-taglines-wikivoyage": "Слободни водич за путовања",
 	"wikimedia-taglines-wiktionary": "Слободан речник",
 	"cant-delete-main-page": "Не можете обрисати или преместити главну страну.",
@@ -277,6 +279,8 @@
 	"wikimedia-foundation-projects-label": "Пројекти Задужбине Викимедије",
 	"wikimedia-foundation-projects-of-label-link": "Пројекти [[$1|Задужбине Викимедије]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Пројекти Задужбине Викимедије",
+	"wikimedia-projects-label": "Викимедијини пројекти",
+	"wikimedia-help-translate-prompt": "Помозите у превођењу? [$1 Преведите недостајуће поруке].",
 	"wikimedia-foundation-mark-label": "Знак Задужбине Викимедије",
 	"wikimedia-nutshell-page-intro": "Ова страница укратко: $1"
 }

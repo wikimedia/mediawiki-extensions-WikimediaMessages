@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"wm-commonstrings-agenda": "Agenda",
+	"wm-commonstrings-background": "Bakgrunn",
+	"wm-commonstrings-bylaws": "Vedtekter",
+	"wm-commonstrings-closed": "Lukket",
+	"wm-commonstrings-connect": "Koble til",
+	"wm-commonstrings-contactus": "Kontakt oss",
+	"wm-commonstrings-events": "Arrangementer",
+	"wm-commonstrings-mainpage-prompt": "Hovedside: $1",
+	"wm-commonstrings-objectives": "Formål",
+	"wm-commonstrings-ongoing": "Pågående",
+	"wm-commonstrings-open": "Åpen",
+	"wm-commonstrings-overview": "Oversikt",
+	"wm-commonstrings-participate": "Delta",
+	"wm-commonstrings-reports": "Rapporter",
+	"wm-commonstrings-resolutions": "Resolusjoner",
+	"wm-commonstrings-questions": "Spørsmål?",
+	"wm-commonstrings-register-account": "Registrer konto",
+	"wm-commonstrings-scope": "Avgrensning",
+	"wm-commonstrings-seealso": "Se også",
+	"wm-commonstrings-staff": "Personale",
+	"wm-commonstrings-talktous": "Snakk med oss",
+	"wm-commonstrings-updates": "Oppdateringer"
+}

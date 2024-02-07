@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"Amire80"
+		]
+	},
+	"wm-commonstrings-agenda": "סדר יום",
+	"wm-commonstrings-background": "רקע",
+	"wm-commonstrings-bylaws": "תקנון",
+	"wm-commonstrings-closed": "סגור",
+	"wm-commonstrings-connect": "להתחבר",
+	"wm-commonstrings-contactus": "יצירת קשר",
+	"wm-commonstrings-events": "אירועים",
+	"wm-commonstrings-mainpage-prompt": "עמוד ראשי: $1",
+	"wm-commonstrings-objectives": "מטרות",
+	"wm-commonstrings-ongoing": "בטיפול",
+	"wm-commonstrings-open": "פתוח",
+	"wm-commonstrings-overview": "סקירה כללית",
+	"wm-commonstrings-participate": "להשתתף",
+	"wm-commonstrings-reports": "דו\"חות",
+	"wm-commonstrings-resolutions": "החלטות",
+	"wm-commonstrings-questions": "שאלות?",
+	"wm-commonstrings-register-account": "ליצור חשבון",
+	"wm-commonstrings-scope": "היקף",
+	"wm-commonstrings-seealso": "למידע נוסף",
+	"wm-commonstrings-staff": "סגל",
+	"wm-commonstrings-talktous": "דברו איתנו",
+	"wm-commonstrings-updates": "עדכונים"
+}

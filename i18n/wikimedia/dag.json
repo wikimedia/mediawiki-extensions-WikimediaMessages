@@ -21,6 +21,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikikot",
 	"wikibase-sitelinks-wikisource": "Wikisɔs",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-taglines-cloudservices": "Yilikpɛrilana tali biɛhigu shee zaŋ n-ti ʒilɛli ni kɔb'tuɣa",
 	"wikimedia-taglines-commons": "Yoli anfooni nima din tumdi tuma mini din pahi",
 	"wikimedia-taglines-endowment": "Yoli baŋsim wuhibu zaŋ n-ti yuma din kana",
 	"wikimedia-taglines-enterprise": "APIs zaŋ n-ti kundi din be zuɣusaa zaŋ tum tuma",
@@ -35,6 +36,7 @@
 	"wikimedia-taglines-wikinews": "Yoli lahabaya Kundivihira",
 	"wikimedia-taglines-wikiversity": "Yoli bɔhimbu neema nima",
 	"wikimedia-taglines-wikivoyage": "Yoli soli dolibu gubu",
+	"wikimedia-taglines-wiktionary": "Yoli bachi'kɔligu",
 	"wikimedia-developers": "Ban tɔhi namili",
 	"wikimedia-globalblocking-ipblocked": "'''A IP address nyɛla din [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nŊun gbaali n-kpari n daa nyɛ  $1 ($2).\nDaliri dinche ka kparibu maa kpari n-nyɛ ''$3''.\n\n* Kparibu piligu: $4\n* Kparibu naabu: $5\nA sahaŋɔ IP address n-nyɛ $6.$3\nPahimi suɣulo ka zaŋ lahabali ŋan-do zuɣusaa ŋɔ n-nyɛ din kahigira yɛlilikam ŋɔ m-pahi a bohisi kam puuni.\nDiyiniŋ ka a dihitabili ni a kparibu maa daa nyɛla sarigibu, a ni tooi nya lahabali din pahi ni sodoli shɛŋa din-be [[m:Special:MyLanguage/No open proxies|No open proxies]] andunia zalikpana ni.\nKa di yi naɣpa lala, diyi yɛn gbaai kpribu ŋɔ saawara dimi suɣulo [[m:Steward requests/Global|post aa request for review on Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''A IP address nyɛla din [[m:Special:MyLanguage/Global blocks|blocked on all wikis]].'''\n\nŊungbaali n-kpari n daa nyɛ  $1 ($2).\nDaliri dinche ka kparibu maa kpari n-nyɛ ''$3''.\n\n* Kparibu piligu: $4\n* Kparibu naabu: $5\nA sahaŋɔ IP address n-nyɛ $6.$3\nPahimi suɣulo ka zaŋ lahabali ŋan do zuɣusaa ŋɔ n-nyɛ din kahigira yɛlilikam ŋɔ m-pahi a bohisi kam puuni.\nDiyiniŋ ka a dihitabili ni a kparibu maa daa nyɛla sarigibu, a ni tooi nya lahabali din pahi ni sodoli shɛŋa din-be [[m:Special:MyLanguage/No open proxies|No open proxies]] andunia zalikpana ni.\nKa di yi naɣpa lala, diyi yɛn gbaai kpribu ŋɔ saawara dimi suɣulo [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
@@ -46,9 +48,11 @@
 	"wikimedia-projects-label": "Wikimɛdia tuma",
 	"wikimedia-news-label": "Wikimɛdia lahabaya",
 	"wikimedia-help-translate-prompt": "A borimi ni a sɔŋ lɛbigibu?\n [$1 Translate the missing messages].",
+	"wikimedia-foundation-memory-bank-label": "Wikimedia Foundation hada banchi",
 	"wikimedia-foundation-memory-bank-shortlabel": "Hada Banchi",
 	"wikimedia-foundation-mark-label": "Wikimedia Foundation dalinli",
 	"wikimedia-nutshell-page-intro": "Yaɣili ŋɔ naabu ni: $1",
 	"wikimedia-translation-disclaimer-nolink": "Pahimi suɣilo baŋma ni di yi niŋ ka waligimsim be taa silimiinsili ni zaŋ n-ti lahabali ŋɔ mini di lɛbigibu sunsuuni, taa silimiinsili yaɣili ŋɔ ka bɛ kpaɣira.",
+	"wikimedia-translation-disclaimer-withlink": "Pahimi suɣilo baŋmi ni di yi niŋ ka waligimsim be di gbunni bee di lɛbigibu mini di silimiinsili yaɣili sunsuun, bɛ kpaɣiri la [[$1|original English version]].",
 	"wikimedia-talk-archive-page-intro": "Din bɔŋɔ nyɛla '''archive''' zaŋ n-ti gbaari kura. '''Di ti niŋ maliniŋ yaɣili ŋɔ.''' Di yi niŋ ka a bori ni a piligi gbaari palli bee labi lihi gbaari kurili, pahimi suɣilo nyini niŋmi lala [[$1|saha ŋɔ yɛltɔɣa yɛlibu yaɣili]]."
 }
