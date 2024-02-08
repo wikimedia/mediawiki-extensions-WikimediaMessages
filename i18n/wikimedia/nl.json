@@ -15,6 +15,7 @@
 			"Matma Rex",
 			"Mbch331",
 			"McDutchie",
+			"Mitsjol",
 			"MrLeopold",
 			"Mwpnl",
 			"Nemo bis",
@@ -264,6 +265,9 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Meertalige Wikisource",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikibooks": "Gratis leerboeken",
+	"wikimedia-taglines-wikipedia": "De vrije encyclopedie",
+	"wikimedia-taglines-wikivoyage": "Gratis reisgids",
 	"apihelp-wbsearchentities-paramvalue-profile-language": "Een profiel om te zoeken naar items over natuurlijke talen.",
 	"apihelp-query+wbsearch-paramvalue-profile-language": "Een profiel om te zoeken naar items over natuurlijke talen.",
 	"cant-delete-main-page": "U kunt de hoofdpagina niet verwijderen of hernoemen.",
@@ -375,5 +379,9 @@
 	"readinglists-import-app": "Om deze leeslijst te importeren installeert u de nieuwste versie van de Wikipedia-app:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Download</a> en installeer de nieuwste versie van de Wikipedia-app:",
 	"readinglists-list-empty-message": "U kunt deze lijst importeren als u Wikipedia-app installeert.",
-	"ipinfo-global-contributions-url-label": "Globale bijdragen"
+	"ipinfo-global-contributions-url-label": "Globale bijdragen",
+	"wikimedia-foundation-projects-label": "Wikimedia Foundation-projecten",
+	"wikimedia-projects-label": "Wikimedia-projecten",
+	"wikimedia-news-label": "Wikimedia Nieuws",
+	"wikimedia-nutshell-page-intro": "Deze pagina in een notendop: $1"
 }
