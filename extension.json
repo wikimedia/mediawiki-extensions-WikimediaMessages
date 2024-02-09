@@ -88,9 +88,6 @@
 			"handler": "WikimediaMessagesHooks"
 		},
 		"TorBlockBlockedMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onTorBlockBlockedMsg",
-		"GlobalBlockingBlockedIpMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onGlobalBlockingBlockedIpMsg",
-		"GlobalBlockingBlockedIpRangeMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onGlobalBlockingBlockedIpRangeMsg",
-		"GlobalBlockingBlockedIpXffMsg": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onGlobalBlockingBlockedIpXffMsg",
 		"UploadForm:initial": {
 			"handler": "WikimediaMessagesHooks"
 		},

@@ -139,6 +139,9 @@ class Hooks implements
 			'globalblocking-blockedtext-ip',
 			'globalblocking-blockedtext-range',
 			'globalblocking-blockedtext-xff',
+			'globalblocking-ipblocked',
+			'globalblocking-ipblocked-range',
+			'globalblocking-ipblocked-xff',
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
 			'interfaceadmin-info',
@@ -587,43 +590,6 @@ class Hooks implements
 	 */
 	public static function onTorBlockBlockedMsg( &$msg ) {
 		$msg = 'wikimedia-torblock-blocked';
-	}
-
-	/**
-	 * Change which message is shown for global IP blocks (GlobalBlocking extension)
-	 *
-	 * @todo once GlobalBlocking updates to use hook interfaces that can be implemented,
-	 * convert to using this class as a hook handler and make non-static with DI
-	 *
-	 * @param string &$msg The message key
-	 */
-	public static function onGlobalBlockingBlockedIpMsg( &$msg ) {
-		$msg = 'wikimedia-globalblocking-ipblocked';
-	}
-
-	/**
-	 * Change which message is shown for global IP range blocks (GlobalBlocking extension)
-	 *
-	 * @todo once GlobalBlocking updates to use hook interfaces that can be implemented,
-	 * convert to using this class as a hook handler and make non-static with DI
-	 *
-	 * @param string &$msg The message key
-	 */
-	public static function onGlobalBlockingBlockedIpRangeMsg( &$msg ) {
-		$msg = 'wikimedia-globalblocking-ipblocked-range';
-	}
-
-	/**
-	 * Change which message is shown for global XFF IP blocks
-	 * and rangeblocks (GlobalBlocking extension)
-	 *
-	 * @todo once GlobalBlocking updates to use hook interfaces that can be implemented,
-	 * convert to using this class as a hook handler and make non-static with DI
-	 *
-	 * @param string &$msg The message key
-	 */
-	public static function onGlobalBlockingBlockedIpXffMsg( &$msg ) {
-		$msg = 'wikimedia-globalblocking-ipblocked-xff';
 	}
 
 	/**
