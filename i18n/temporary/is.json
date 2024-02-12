@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Maxí",
-			"Snævar"
+			"Snævar",
+			"Stefán Örvar Sigmundsson"
 		]
 	},
 	"thank-you": "{{GENDER:$1|Takk fyrir.}}",
-	"graph-disabled-category": "Síður með óvirkjuðum gröfum"
+	"graph-disabled-category": "Síður með óvirkjuð gröf",
+	"graph-disabled-category-desc": "Síðan inniheldur <code><nowiki><graph></nowiki></code>-merki, sem er ekki tiltækt tímabundið ([[phab:T334940|T334940]])."
 }

@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"MarcoAurelio",
+			"Nikki",
 			"No se"
 		]
 	},
-	"wm-commonstrings-contactus": "Contáctanos"
+	"wm-commonstrings-background": "Antecedentes",
+	"wm-commonstrings-contactus": "Contáctanos",
+	"wm-commonstrings-open": "Abierto",
+	"wm-commonstrings-resolutions": "Resoluciones",
+	"wm-commonstrings-seealso": "Véase también"
 }

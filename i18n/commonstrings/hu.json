@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"Dj",
+			"Nikki"
+		]
+	},
+	"wm-commonstrings-agenda": "Napirend",
+	"wm-commonstrings-background": "Háttér",
+	"wm-commonstrings-bylaws": "Törvények",
+	"wm-commonstrings-closed": "Lezárva",
+	"wm-commonstrings-connect": "Csatlakozás",
+	"wm-commonstrings-contactus": "Kapcsolatfelvétel",
+	"wm-commonstrings-events": "Események",
+	"wm-commonstrings-mainpage-prompt": "Főlap: $1",
+	"wm-commonstrings-objectives": "Célok",
+	"wm-commonstrings-ongoing": "Folyamatban lévő",
+	"wm-commonstrings-open": "Megnyitás",
+	"wm-commonstrings-overview": "Áttekintés",
+	"wm-commonstrings-participate": "Részt venni",
+	"wm-commonstrings-reports": "Jelentések",
+	"wm-commonstrings-resolutions": "Döntések",
+	"wm-commonstrings-questions": "Kérdések?",
+	"wm-commonstrings-register-account": "Regisztráljon felhasználói fiókot",
+	"wm-commonstrings-scope": "Hatáskör",
+	"wm-commonstrings-seealso": "Lásd még",
+	"wm-commonstrings-staff": "Személyzet",
+	"wm-commonstrings-talktous": "Beszélj velünk!",
+	"wm-commonstrings-updates": "Frissítések"
+}

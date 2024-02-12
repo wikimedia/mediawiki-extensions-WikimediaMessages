@@ -6,12 +6,14 @@
 		]
 	},
 	"project-localized-name-amiwiki": "''Amis'' Wikipedia",
+	"project-localized-name-astwiki": "Asturiana Wikipedio",
 	"project-localized-name-cawiki": "Kataluniana Wikipedio",
 	"project-localized-name-cawikisource": "Kataluniana ''Wikisource''",
 	"project-localized-name-commonswiki": "Wikimedia Commons",
 	"project-localized-name-cswiki": "Cheka Wikipedio",
 	"project-localized-name-cswikisource": "Cheka Wikifonto",
 	"project-localized-name-cswikiversity": "Cheka Wikivoyajo",
+	"project-localized-name-dewiki": "Wikipedio en Germana",
 	"project-localized-name-dewikiversity": "Germana Wikivoyajo",
 	"project-localized-name-dewikivoyage": "Germana Wikivoyajo",
 	"project-localized-name-elwikivoyage": "Wikivoyajo en la Greka",
@@ -35,6 +37,7 @@
 	"project-localized-name-frwikivoyage": "Franca Wikivoyajo",
 	"project-localized-name-frwiktionary": "Wikivortaro en la Franca",
 	"project-localized-name-gomwiktionary": "Wikivortaro pri Konkani de Goa",
+	"project-localized-name-hewiki": "Hebrea Wikipedio",
 	"project-localized-name-hewikivoyage": "Hebrea Wikivoyajo",
 	"project-localized-name-hiwikiquote": "Wikicitaji en Hindi-linguo",
 	"project-localized-name-hiwikisource": "Hindi Wikisource",
@@ -54,6 +57,7 @@
 	"project-localized-name-ptwikiversity": "Portugalana Wikivoyajo",
 	"project-localized-name-ptwikivoyage": "Portugalana Wikivoyajo",
 	"project-localized-name-rowikivoyage": "Rumana Wikivoyajo",
+	"project-localized-name-ruwiki": "Wikipedio en la Rusa",
 	"project-localized-name-ruwikivoyage": "Rusa Wikivoyajo",
 	"project-localized-name-ruwiktionary": "Rusa Wikivortaro",
 	"project-localized-name-sawiktionary": "Wikivortaro en la Sanskrita",
@@ -74,5 +78,6 @@
 	"project-localized-name-wikimania2007wiki": "Wikimania 2007",
 	"project-localized-name-wikimania2016wiki": "Wikimania 2016",
 	"project-localized-name-wikimaniawiki": "''Wiki'' de Wikimania",
+	"project-localized-name-zeawiki": "Zeelandana Wikipedio",
 	"project-localized-name-zhwikivoyage": "Chiniana Wikivoyajo"
 }
