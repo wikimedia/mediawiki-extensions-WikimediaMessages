@@ -328,5 +328,6 @@
 	"research-incentive-link": "https://airtable.com/shrCaaAJqPODYWdHc",
 	"research-incentive-privacy": "আমাদের গোপনীয়তা নীতি দেখুন এবং [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/bn এখানে] আমাদের গবেষণা প্রোগ্রাম সম্পর্কে আরও জানুন।",
 	"research-incentive-confirm-msg": "ধন্যবাদ!",
-	"ipinfo-global-contributions-url-label": "বৈশ্বিক অবদান"
+	"ipinfo-global-contributions-url-label": "বৈশ্বিক অবদান",
+	"restriction-level-edit-legal": "আইনিভাবে সুরক্ষিত"
 }
