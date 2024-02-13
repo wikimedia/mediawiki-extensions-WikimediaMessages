@@ -95,7 +95,7 @@
 	"group-botadmin-member": "{{GENDER:$1|بوت حامل لحقوق إدارية}}",
 	"grouppage-botadmin": "{{ns:project}}:بوتات حاملة لحقوق إدارية",
 	"group-confirmed": "مستخدمون مؤكدون",
-	"group-confirmed-member": "{{GENDER:$1|مستخدم مؤكد|مستخدمة مؤكدة}}",
+	"group-confirmed-member": "{{GENDER:$1|مؤكد|مؤكدة}}",
 	"grouppage-confirmed": "{{ns:project}}:مستخدمون مؤكدون",
 	"group-editprotected": "معدلو الصفحات المحمية",
 	"group-editprotected-member": "{{GENDER:$1|معدل صفحات محمي}}",
