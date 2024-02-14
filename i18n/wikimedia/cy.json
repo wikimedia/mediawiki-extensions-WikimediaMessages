@@ -10,6 +10,7 @@
 			"Nemo bis",
 			"Robin Owain",
 			"Troswr",
+			"Varnent",
 			"Xxglennxx"
 		]
 	},
@@ -198,5 +199,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Ddim yn gwybod",
 	"gadget-souspages-subpages": "Is-dudalennau",
 	"research-incentive-confirm-msg": "Diolch!",
-	"ipinfo-global-contributions-url-label": "Cyfraniadau cydwici"
+	"ipinfo-global-contributions-url-label": "Cyfraniadau cydwici",
+	"wikimedia-projects-label": "Prosiectau Wikimedia"
 }

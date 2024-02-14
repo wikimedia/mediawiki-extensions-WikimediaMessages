@@ -23,6 +23,7 @@
 			"Rachmat04",
 			"Raynasution",
 			"Rex",
+			"Varnent",
 			"Veracious",
 			"William Surya Permana"
 		]
@@ -358,6 +359,7 @@
 	"action-edit-legal": "menyunting halaman dengan kemungkinan konsekuensi hukum",
 	"ipinfo-feedback-button-label": "Berikan komentar",
 	"ext-quicksurveys-tst-internal-survey-question": "Pada 30 hari terakhir, apakah Anda merasa tidak aman atau tidak nyaman saat berkontribusi ke {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-name": "Survei Cepat",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ya",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Tidak",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Survei anonim ini dilakukan oleh Wikimedia Foundation.[https://meta.wikimedia.org/wiki/Community_Safety Baca lebih lanjut] atau periksa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement pernyataan privasi].",
@@ -386,5 +388,6 @@
 	"research-incentive-confirm-msg": "Terima kasih!",
 	"ipinfo-global-contributions-url-label": "Kontribusi global",
 	"protect-level-edit-legal": "Hanya izinkan pengguna yang dapat menyunting halaman terkait hal-hal hukum",
-	"restriction-level-edit-legal": "dilindungi untuk alasan hukum"
+	"restriction-level-edit-legal": "dilindungi untuk alasan hukum",
+	"wikimedia-projects-label": "Proyek-Proyek Wikimedia"
 }

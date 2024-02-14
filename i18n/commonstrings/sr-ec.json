@@ -4,7 +4,15 @@
 			"Milicevic01"
 		]
 	},
+	"wm-commonstrings-background": "Позадина",
+	"wm-commonstrings-closed": "Затворено",
 	"wm-commonstrings-contactus": "Контакт",
+	"wm-commonstrings-events": "Догађаји",
+	"wm-commonstrings-mainpage-prompt": "Почетна страница: $1",
+	"wm-commonstrings-objectives": "Циљеви",
+	"wm-commonstrings-ongoing": "У току",
+	"wm-commonstrings-open": "Отворено",
+	"wm-commonstrings-overview": "Преглед",
 	"wm-commonstrings-scope": "Делокруг",
 	"wm-commonstrings-seealso": "Види још"
 }

@@ -9,7 +9,8 @@
 			"Timzy D'Great",
 			"Tochiprecious",
 			"Ukabia",
-			"Uzoma Ozurumba"
+			"Uzoma Ozurumba",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Nye onyinye",
@@ -51,5 +52,6 @@
 	"wikimedia-cookiestatement": "Ṅkwupụta kuki",
 	"ipinfo-feedback-button-label": "Hapụ ụsa",
 	"ext-quicksurveys-tst-internal-survey-question": "N'ime ụbọchị iri ato gara aga, i nweela mmetụta enweghị nchekwa ma ọ bụ mgbakasị ahụ ịtụnye ụtụ na {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-name": "Nchọpụta ngwa ngwa",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "N'ime ụbọchị 30 gara aga, ọ dị gị ahụghị gị ma ọ bụ enweghị ahụ iru ala inye aka na {{SITENAME}} ({{SERVERNAME}})?"
 }

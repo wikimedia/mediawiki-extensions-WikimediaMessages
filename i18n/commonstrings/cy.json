@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Afalau"
+			"Afalau",
+			"Varnent"
 		]
 	},
 	"wm-commonstrings-background": "Cefndir",
 	"wm-commonstrings-bylaws": "Is-ddeddfau",
 	"wm-commonstrings-closed": "Ar gau",
+	"wm-commonstrings-connect": "Cysylltu",
 	"wm-commonstrings-contactus": "Cysylltwch â ni",
 	"wm-commonstrings-events": "Digwyddiadau",
 	"wm-commonstrings-mainpage-prompt": "Prif dudalen: $1",
@@ -16,6 +18,7 @@
 	"wm-commonstrings-overview": "Trosolwg",
 	"wm-commonstrings-participate": "Cyfrannu",
 	"wm-commonstrings-reports": "Adroddiadau",
+	"wm-commonstrings-questions": "Cwestiynau?",
 	"wm-commonstrings-scope": "Sgôp",
 	"wm-commonstrings-seealso": "Gweler hefyd",
 	"wm-commonstrings-staff": "Staff",

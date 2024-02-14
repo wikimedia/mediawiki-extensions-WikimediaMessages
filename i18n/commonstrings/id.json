@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Lihat pula"
+	"wm-commonstrings-background": "Latar belakang",
+	"wm-commonstrings-closed": "Telah ditutup",
+	"wm-commonstrings-connect": "Sambungkan",
+	"wm-commonstrings-events": "Acara",
+	"wm-commonstrings-objectives": "Tujuan",
+	"wm-commonstrings-ongoing": "Sedang berlangsung",
+	"wm-commonstrings-open": "Sedang terbuka",
+	"wm-commonstrings-overview": "Selayang pandang",
+	"wm-commonstrings-participate": "Berpartisipasi",
+	"wm-commonstrings-reports": "Laporan",
+	"wm-commonstrings-questions": "Ada pertanyaan?",
+	"wm-commonstrings-scope": "Cakupan",
+	"wm-commonstrings-seealso": "Lihat pula",
+	"wm-commonstrings-staff": "Staf",
+	"wm-commonstrings-talktous": "Tanya jawab",
+	"wm-commonstrings-updates": "Pembaruan"
 }

@@ -2,13 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Akpanufun",
+			"Enojohn",
 			"Uduakj"
 		]
 	},
+	"sitesupport": "Baka",
+	"wikimedia-copyright": "Nwed aba ke diak <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nmkpo nwen aya diana.\nSe <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Nagha Udu</a> kama mi.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "An si bot",
-	"wikimedia-statslink": "Nahga mkpo aba"
+	"wikimedia-statslink": "Nahga mkpo aba",
+	"wikimedia-cookiestatement": "Cookie statement"
 }

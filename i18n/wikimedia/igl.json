@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"AgnesAbah",
-			"Amire80"
+			"Amire80",
+			"Beracy"
 		]
 	},
 	"sitesupport": "Déwn",
@@ -12,9 +13,13 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-taglines-wikidata": "Umà àlàfà kete",
+	"wikimedia-taglines-wikinews": "Alafa ete inabali",
+	"wikimedia-taglines-wikivoyage": "Otakida alafa kuma du nyulé",
 	"wikimedia-developers": "Abó úkólo",
 	"wikimedia-globalblocking-ipblocked": "‘’’{{int:wikimedia-globalbocking-blockedtext-all-wikis}}’’’             \n\nené kí kpona ñyé chí $1 ($2).\nTodù kí kpona ñyé chí ‘’$3’’.\n\n*Eko kí yà chané chí: $4\n*Eko kí yà kpojí chí: $5\n\nUjuwé IP wé abajio chí $6. {{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "‘’’{{int:wikimedia-globalbocking-blockedtext-all-wikis}}’’’             \n\nené kí kpona ñyé chí $1 ($2).\nTodù kí kpona ñyé chí ‘’$3’’.\n\n*Eko kí yà chané chí: $4\n*Eko kí yà kpojí chí: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Éwnugbaluka",
-	"wikimedia-cookiestatement": "Ukóla kuki"
+	"wikimedia-cookiestatement": "Ukóla kuki",
+	"wikimedia-foundation-memory-bank-shortlabel": "Ata toji"
 }

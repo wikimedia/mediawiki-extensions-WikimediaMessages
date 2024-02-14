@@ -33,6 +33,7 @@
 			"The Evil IP address",
 			"ToBeFree",
 			"Umherirrender",
+			"Varnent",
 			"Vogone",
 			"Wnme",
 			"Απεργός"
@@ -385,6 +386,7 @@
 	"action-edit-legal": "Seiten mit möglichen rechtlichen Konsequenzen bearbeiten",
 	"ipinfo-feedback-button-label": "Rückmeldung geben",
 	"ext-quicksurveys-tst-internal-survey-question": "Hast du dich in den letzten 30 Tagen unsicher oder unwohl gefühlt, während du zu {{SITENAME}} ({{SERVERNAME}}) beigetragen hast?",
+	"ext-quicksurveys-name": "QuickSurveys",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nein",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Diese anonyme Umfrage wird von der Wikimedia Foundation durchgeführt. [https://meta.wikimedia.org/wiki/Community_Safety Weitere Informationen] oder lies die [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement Datenschutzbestimmungen].",

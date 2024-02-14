@@ -6,7 +6,8 @@
 			"Joseagush",
 			"Luh Gede Krismayanti",
 			"Nintendofan885",
-			"NoiX180"
+			"NoiX180",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Séwala rinci Wikimédia",
@@ -295,5 +296,6 @@
 	"group-docseditor-member": "{{GENDER:$1|panguah dokuméntasi}}",
 	"action-docseditor": "uah dokuméntasi",
 	"right-docseditor": "Uah dokuméntasi",
-	"ext-quicksurveys-tst-internal-survey-answer-positive": "Inggih"
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Inggih",
+	"wikimedia-projects-label": "Proyék Wikimédia"
 }

@@ -14,6 +14,7 @@
 			"SNN95",
 			"Tofeiku",
 			"Ultron90",
+			"Varnent",
 			"Zulfadli51"
 		]
 	},
@@ -181,5 +182,7 @@
 	"restriction-level-editautopatrolprotected": "autoperonda terlindung",
 	"group-docseditor": "Penyunting pendokumenan",
 	"action-docseditor": "sunting pendokumenan",
-	"right-docseditor": "Sunting pendokumenan"
+	"right-docseditor": "Sunting pendokumenan",
+	"ext-quicksurveys-name": "Selidik Cepat",
+	"wikimedia-projects-label": "Projek Wikimedia"
 }
