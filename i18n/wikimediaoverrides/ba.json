@@ -3,14 +3,23 @@
 		"authors": [
 			"MR973",
 			"Айсар",
-			"З. ӘЙЛЕ"
+			"З. ӘЙЛЕ",
+			"Bashkorttan"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(һайларға ярҙам итегеҙ)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Һүрәтте күрмәйһегеҙме? [[{{MediaWiki:createacct-captcha-help-url}}|Иҫәп яҙмаһын һорағыҙ]]",
 	"wikimedia-centralauth-groupname": "Викимедиа Фондының",
+	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлок ҡуйыусы: $1.\nСәбәбе: ''$2''.\n\n* Блоктың башланғыс датаһы: $8\n* Блоктың тамамланыу датаһы: $6\n\nАғымдағы IP-адресығыҙ: $3.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nБлок ҡуйыусы: $1.\nСәбәбе: ''$2''.\n\n* Блоктың башланғыс датаһы: $8\n* Блоктың тамамланыу датаһы: $6\n\nАғымдағы IP-адресығыҙ: $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
+	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлок ҡуйыусы: $1.\nСәбәбе: ''$2''.\n\n* Блоктың башланғыс датаһы: $8\n* Блоктың тамамланыу датаһы: $6\n\n{{int:wikimedia-globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-sitematrix": "Викимедианың вики-проекттары исемлеге",
 	"wikimedia-sitematrix-others": "Викимедианың башҡа проекттары",
 	"wikimedia-sitematrix-summary": "Был махсус биттә Викимедианың бөтә вики-проекттары күрһәтелгән.",
-	"wikimedia-webauthn-module-description": "WebAuthn (веб-аутентификация) - World Wide Web (W3C) концорциумы тарафынан баҫтырылған веб-стандарт. WebAuthn - FIDO Alliance етәкселендә тормошҡа ашырылған FIDO2 проектының төп компоненты. Проекттың маҡсаты - асыҡ асҡыс криптографияһын ҡулланып веб-ҡушымталарҙа һәм сервистарҙа ҡатнашыусыларҙы аутентификациялау өсөн интерфейсты стандартлаштырыу.[https://en.wikipedia.org/wiki/WebAuthn Артабан уҡығыҙ]. Иғтибар итегеҙ, ҡоролмағыҙ иң башта теркәлгән викиға инергә кәрәк. Шулай уҡ  башҡа викиҙарҙан cookie ҡабул итерлек итеп көйләргә тейешһегеҙ. Быны эшләй алмаһағыҙ, системаға танылыуығыҙ икеле. Шуға күрә был ысул күпселек ҡатнашыусыларға тәҡдим ителмәй."
+	"wikimedia-webauthn-module-description": "WebAuthn (веб-аутентификация) - World Wide Web (W3C) концорциумы тарафынан баҫтырылған веб-стандарт. WebAuthn - FIDO Alliance етәкселендә тормошҡа ашырылған FIDO2 проектының төп компоненты. Проекттың маҡсаты - асыҡ асҡыс криптографияһын ҡулланып веб-ҡушымталарҙа һәм сервистарҙа ҡатнашыусыларҙы аутентификациялау өсөн интерфейсты стандартлаштырыу.[https://en.wikipedia.org/wiki/WebAuthn Артабан уҡығыҙ]. Иғтибар итегеҙ, ҡоролмағыҙ иң башта теркәлгән викиға инергә кәрәк. Шулай уҡ  башҡа викиҙарҙан cookie ҡабул итерлек итеп көйләргә тейешһегеҙ. Быны эшләй алмаһағыҙ, системаға танылыуығыҙ икеле. Шуға күрә был ысул күпселек ҡатнашыусыларға тәҡдим ителмәй.",
+	"wikimedia-globalblocking-blockedtext-on-range": "IP-адресығыҙ [[m:Special:MyLanguage/Global blocks|бөтә Викимедиа Фонды викиларында]] блокланған.",
+	"wikimedia-globalblocking-blockedtext-ip-range": "Блокланған арауыҡ: $1",
+	"wikimedia-globalblocking-blockedtext-proxy": "Блокланған прокси адрес: $1",
+	"wikimedia-globalblocking-blockedtext-mistake": "Әгәр блоклауға яңылыш эләктем тип уйлаһағыҙ, өҫтәмә мәғлүмәтте һәм инструкцияларҙы глобаль [[m:Special:MyLanguage/No open proxies|асыҡ прокси]]  ҡағиҙәләрендә таба алаһығыҙ.\nЮғиһә, блок тураһында фекер алышыу өсөн [[m:Steward requests/Global|Мета-викила тикшереү һорауы]] яҙығыҙ.",
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Һеҙ шулай уҡ [[m:Special:MyLanguage/Stewards|стюардтарҙың]] <kbd>stewards@wikimedia.org</kbd> адресындағы [[m:Special:MyLanguage/VRT|VRT]] сиратына бөтә юғарыла күрһәтелгән мәғлүмәттәр ҡушып электрон хат ебәрә алаһығыҙ."
 }

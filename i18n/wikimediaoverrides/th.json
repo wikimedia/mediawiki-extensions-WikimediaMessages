@@ -13,6 +13,8 @@
 	"wikimedia-centralauth-groupname": "มูลนิธิวิกิมีเดีย",
 	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"wikimedia-discussiontools-replywidget-terms-click": "เมื่อกดปุ่ม \"$1\" ถือว่าคุณยอมรับ[https://foundation.wikimedia.org/wiki/Terms_of_Use/th ข้อกำหนดการใช้งาน] และคุณตกลงที่จะเผยแพร่ข้อความของคุณ{{PLURAL:$3|ภายใต้}} $2 อย่างไม่อาจเพิกถอนได้",
+	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\nที่อยู่ไอพีปัจจุบันของคุณคือ $3\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\nที่อยู่ไอพีปัจจุบันของคุณคือ $3\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-sitematrix": "รายชื่อวิกิมีเดีย",
 	"wikimedia-sitematrix-others": "โครงการอื่น ๆ ของวิกิมีเดีย",
 	"wikimedia-sitematrix-summary": "หน้าพิเศษนี้แสดงรายชื่อวิกิมีเดียทั้งหมด",
