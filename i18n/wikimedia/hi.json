@@ -16,6 +16,7 @@
 			"Sfic",
 			"Shypoetess",
 			"Siddhartha Ghai",
+			"Varnent",
 			"לערי ריינהארט",
 			"आलोक",
 			"राम प्रसाद जोशी",
@@ -189,5 +190,7 @@
 	"wikimedia-statslink": "सांख्यिकी",
 	"wikimedia-cookiestatement": "कुकी का वर्णन",
 	"ipinfo-feedback-button-label": "प्रतिक्रिया दें",
-	"readinglists-import-app": "इस रीडिंग लिस्ट को इम्पोर्ट करने के लिए, Wikipedia ऐप के लेटेस्ट वर्जन को इंस्टॉल करें:"
+	"ext-quicksurveys-name": "सर्वेक्षण",
+	"readinglists-import-app": "इस रीडिंग लिस्ट को इम्पोर्ट करने के लिए, Wikipedia ऐप के लेटेस्ट वर्जन को इंस्टॉल करें:",
+	"wikimedia-projects-label": "विकिमीडिया की परियोजनाएँ"
 }

@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "Ozadje",
+	"wm-commonstrings-closed": "Zaprto",
+	"wm-commonstrings-connect": "Poveži",
+	"wm-commonstrings-events": "Dogodki",
+	"wm-commonstrings-objectives": "Cilji",
+	"wm-commonstrings-ongoing": "Poteka",
+	"wm-commonstrings-open": "Odprto",
+	"wm-commonstrings-overview": "Pregled",
+	"wm-commonstrings-participate": "Sodeluj",
+	"wm-commonstrings-reports": "Poročila",
+	"wm-commonstrings-questions": "Vprašanja?",
+	"wm-commonstrings-scope": "Področje",
+	"wm-commonstrings-seealso": "Glej tudi",
+	"wm-commonstrings-staff": "Osebje",
+	"wm-commonstrings-talktous": "Pogovor z nami",
+	"wm-commonstrings-updates": "Novice"
+}

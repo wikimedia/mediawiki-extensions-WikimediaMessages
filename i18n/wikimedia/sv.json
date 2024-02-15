@@ -29,6 +29,7 @@
 			"Sertion",
 			"Skalman",
 			"Tobulos1",
+			"Varnent",
 			"Warrakkk",
 			"WikiPhoenix"
 		]
@@ -350,5 +351,6 @@
 	"readinglists-import-app": "Installera den senaste versionen av Wikipedia-appen för att importera denna läslista:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Ladda ned</a> och installera den senaste versionen av Wikipedia-appen:",
 	"readinglists-list-empty-message": "Du kan importera denna lista genom att installera Wikipedia-appen.",
-	"ipinfo-global-contributions-url-label": "Globala bidrag"
+	"ipinfo-global-contributions-url-label": "Globala bidrag",
+	"wikimedia-projects-label": "Wikimediaprojekt"
 }

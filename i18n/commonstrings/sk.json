@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "Pozadie",
+	"wm-commonstrings-closed": "Uzavreté",
+	"wm-commonstrings-connect": "Pripojiť",
+	"wm-commonstrings-events": "Podujatia",
+	"wm-commonstrings-objectives": "Ciele",
+	"wm-commonstrings-ongoing": "Prebiehajúci",
+	"wm-commonstrings-open": "Otvorený",
+	"wm-commonstrings-overview": "Prehľad",
+	"wm-commonstrings-participate": "Zúčastniť sa",
+	"wm-commonstrings-reports": "Správy",
+	"wm-commonstrings-questions": "Otázky?",
+	"wm-commonstrings-scope": "Rozsah",
+	"wm-commonstrings-seealso": "Pozri tiež",
+	"wm-commonstrings-staff": "Personál",
+	"wm-commonstrings-talktous": "Porozprávajte sa s nami",
+	"wm-commonstrings-updates": "Aktualizácie"
+}

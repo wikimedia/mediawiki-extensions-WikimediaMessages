@@ -1,9 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
+			"Varnent",
 			"Volvox"
 		]
 	},
+	"wm-commonstrings-background": "Hannergrond",
+	"wm-commonstrings-closed": "Zou",
+	"wm-commonstrings-connect": "Verbannen",
+	"wm-commonstrings-events": "Evenementer",
 	"wm-commonstrings-mainpage-prompt": "Haaptsäit: $1",
-	"wm-commonstrings-questions": "Froen?"
+	"wm-commonstrings-objectives": "Ziler",
+	"wm-commonstrings-ongoing": "Lafend",
+	"wm-commonstrings-open": "Oppen",
+	"wm-commonstrings-overview": "Iwwersiicht",
+	"wm-commonstrings-participate": "Matmaachen",
+	"wm-commonstrings-reports": "Rapporten",
+	"wm-commonstrings-questions": "Froen?",
+	"wm-commonstrings-scope": "Ëmfang",
+	"wm-commonstrings-seealso": "Kuckt och",
+	"wm-commonstrings-staff": "Mataarbechter",
+	"wm-commonstrings-talktous": "Schwätzt mat eis",
+	"wm-commonstrings-updates": "Updaten"
 }

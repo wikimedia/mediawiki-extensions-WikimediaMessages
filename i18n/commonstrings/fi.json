@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "Taustaa",
+	"wm-commonstrings-closed": "Suljettu",
+	"wm-commonstrings-connect": "Yhdistä",
+	"wm-commonstrings-events": "Tapahtumat",
+	"wm-commonstrings-objectives": "Tavoitteet",
+	"wm-commonstrings-ongoing": "Jatkuva",
+	"wm-commonstrings-open": "Avoin",
+	"wm-commonstrings-overview": "Yleiskatsaus",
+	"wm-commonstrings-participate": "Osallistu",
+	"wm-commonstrings-reports": "Raportit",
+	"wm-commonstrings-questions": "Kysyttävää?",
+	"wm-commonstrings-register-account": "Luo tunnus",
+	"wm-commonstrings-scope": "Laajuus",
+	"wm-commonstrings-seealso": "Katso myös",
+	"wm-commonstrings-staff": "Henkilökunta",
+	"wm-commonstrings-talktous": "Ota meihin yhteyttä",
+	"wm-commonstrings-updates": "Päivitykset"
+}

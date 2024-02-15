@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Ayrıca bakınız"
+	"wm-commonstrings-background": "Arkaplan",
+	"wm-commonstrings-closed": "Kapalı",
+	"wm-commonstrings-connect": "Bağlan",
+	"wm-commonstrings-events": "Etkinlikler",
+	"wm-commonstrings-objectives": "Amaçlar",
+	"wm-commonstrings-ongoing": "Devam ediyor",
+	"wm-commonstrings-open": "Açık",
+	"wm-commonstrings-overview": "Genel bakış",
+	"wm-commonstrings-participate": "Katılın",
+	"wm-commonstrings-reports": "Raporlar",
+	"wm-commonstrings-questions": "Sorular?",
+	"wm-commonstrings-scope": "Kapsam",
+	"wm-commonstrings-seealso": "Ayrıca bakınız",
+	"wm-commonstrings-staff": "Ekip",
+	"wm-commonstrings-talktous": "Bizimle konuş",
+	"wm-commonstrings-updates": "Güncellemeler"
 }

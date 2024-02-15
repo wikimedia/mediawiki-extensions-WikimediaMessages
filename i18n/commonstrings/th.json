@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "ดูเพิ่ม"
+	"wm-commonstrings-background": "เบื้องหลัง",
+	"wm-commonstrings-closed": "ปิด",
+	"wm-commonstrings-connect": "เชื่อมต่อ",
+	"wm-commonstrings-events": "กิจกรรม",
+	"wm-commonstrings-objectives": "วัตถุประสงค์",
+	"wm-commonstrings-ongoing": "กำลังดำเนินการ",
+	"wm-commonstrings-open": "เปิด",
+	"wm-commonstrings-overview": "ภาพรวม",
+	"wm-commonstrings-participate": "มีส่วนร่วม",
+	"wm-commonstrings-reports": "รายงาน",
+	"wm-commonstrings-questions": "คำถาม",
+	"wm-commonstrings-scope": "ขอบเขต",
+	"wm-commonstrings-seealso": "ดูเพิ่ม",
+	"wm-commonstrings-staff": "ทีมงาน",
+	"wm-commonstrings-talktous": "คุยกับเรา",
+	"wm-commonstrings-updates": "อัปเดต"
 }

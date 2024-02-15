@@ -18,7 +18,8 @@
 			"Samat",
 			"Tacsipacsi",
 			"Tgr",
-			"Urbalazs"
+			"Urbalazs",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -214,5 +215,6 @@
 	"wikimedia-statslink": "Statisztikák",
 	"wikimedia-cookiestatement": "Sütinyilatkozat",
 	"querypage-updates-half-monthly": "Ennek a lapnak a frissítései havi kétszer futnak.",
-	"readinglists-import-app": "Az olvasólista importálásához telepítsd a Wikipédia mobilalkalmazás legfrissebb verzióját:"
+	"readinglists-import-app": "Az olvasólista importálásához telepítsd a Wikipédia mobilalkalmazás legfrissebb verzióját:",
+	"wikimedia-projects-label": "Wikimédia-projektek"
 }

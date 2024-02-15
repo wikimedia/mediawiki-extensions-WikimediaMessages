@@ -1,18 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"Varnent"
 		]
 	},
+	"wm-commonstrings-background": "Contesto",
 	"wm-commonstrings-closed": "Chiuso",
+	"wm-commonstrings-connect": "Connetti",
 	"wm-commonstrings-contactus": "Contattaci",
 	"wm-commonstrings-events": "Eventi",
 	"wm-commonstrings-mainpage-prompt": "Pagina principale: $1",
 	"wm-commonstrings-objectives": "Obiettivi",
+	"wm-commonstrings-ongoing": "In corso",
 	"wm-commonstrings-open": "Aperto",
+	"wm-commonstrings-overview": "Panoramica",
+	"wm-commonstrings-participate": "Partecipa",
+	"wm-commonstrings-reports": "Rapporti",
 	"wm-commonstrings-questions": "Domande?",
 	"wm-commonstrings-scope": "Scopo",
 	"wm-commonstrings-seealso": "Vedi anche",
 	"wm-commonstrings-staff": "Staff",
+	"wm-commonstrings-talktous": "Contattaci",
 	"wm-commonstrings-updates": "Aggiornamenti"
 }

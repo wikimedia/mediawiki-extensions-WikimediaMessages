@@ -45,6 +45,7 @@
 			"Sujiniku",
 			"TAndic (WMF)",
 			"Tmv",
+			"Varnent",
 			"W.CC",
 			"Whym",
 			"Yamagata Yusuke",
@@ -361,6 +362,7 @@
 	"right-docseditor": "解説文を編集",
 	"ipinfo-feedback-button-label": "フィードバックを送信",
 	"ext-quicksurveys-tst-internal-survey-question": "この30日間に、あなたはオンラインでウィキペディア（{{SERVERNAME}}）に参加することが安全でない、あるいは不安に感じましたか。",
+	"ext-quicksurveys-name": "簡易アンケート",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "はい",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "いいえ",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "この匿名のアンケートは、ウィキメディア財団によって実施されています。[https://meta.wikimedia.org/wiki/Community_Safety 続きを読む]もしくは[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 個人情報保護方針]をご覧ください",
@@ -379,5 +381,6 @@
 	"research-incentive-link": "https://airtable.com/shrucwUlzH0ZLEqHH",
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。.",
 	"research-incentive-confirm-msg": "ありがとうございました。",
-	"ipinfo-global-contributions-url-label": "グローバル投稿記録"
+	"ipinfo-global-contributions-url-label": "グローバル投稿記録",
+	"wikimedia-projects-label": "ウィキメディアのプロジェクト群"
 }

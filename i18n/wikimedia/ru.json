@@ -57,6 +57,7 @@
 			"TTO",
 			"TarzanASG",
 			"Translatobecomer",
+			"Varnent",
 			"Vlad5250",
 			"WindEwriX",
 			"Александр Сигачёв"
@@ -362,6 +363,7 @@
 	"right-editautopatrolprotected": "Правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",
 	"action-editautopatrolprotected": "правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",
 	"ipinfo-feedback-button-label": "Оставить отзыв",
+	"ext-quicksurveys-name": "Быстрые опросы",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "В течение последних 30-ти дней испытывали ли Вы дискомфорт или чувствовали ли себя в опасности, работая над Википедией ({{SERVERNAME}})?",

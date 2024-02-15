@@ -13,6 +13,7 @@
 			"Putnik",
 			"TarzanASG",
 			"Tomato Cream",
+			"Varnent",
 			"Vlad5250",
 			"Yury Tarasievich",
 			"ZlyiLev",
@@ -196,5 +197,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Так",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Гэта ананімнае апытанне праводзіцца Фондам Вікімедыя. [https://meta.wikimedia.org/wiki/Community_Safety Чытайце больш] або праверце [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заяву аб канфідэнцыяльнасці].",
-	"gadget-souspages-subpages": "Падстаронкі"
+	"gadget-souspages-subpages": "Падстаронкі",
+	"wikimedia-projects-label": "Праекты Вікімедыі"
 }

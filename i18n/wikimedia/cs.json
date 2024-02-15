@@ -19,6 +19,7 @@
 			"Patrik L.",
 			"Ragimiri",
 			"Stang",
+			"Varnent",
 			"Vlad5250",
 			"YjM"
 		]
@@ -315,5 +316,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ano",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ne",
 	"gadget-souspages-subpages": "Podstránky",
-	"ipinfo-global-contributions-url-label": "Globální příspěvky"
+	"ipinfo-global-contributions-url-label": "Globální příspěvky",
+	"wikimedia-projects-label": "Projekty Wikimedie"
 }

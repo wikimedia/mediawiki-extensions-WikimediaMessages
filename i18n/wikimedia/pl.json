@@ -31,6 +31,7 @@
 			"Tar Lócesilion",
 			"The Polish",
 			"ToSter",
+			"Varnent",
 			"WTM",
 			"Woytecr"
 		]
@@ -341,5 +342,6 @@
 	"ext-campaignevents-register-policy": "Zapisując się zgadzasz się z [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Warunkami użytkowania], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Polityką prywatności], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct Powszechnymi Zasadami Postępowania] oraz innymi zasadami przyjaznej przestrzeni ustalonymi przez organizatora wydarzenia.",
 	"ipinfo-global-contributions-url-label": "Globalny wkład",
 	"protect-level-edit-legal": "Dozwolone tylko dla użytkowników z pozwoleniem na edytowanie materiałów prawnych",
-	"restriction-level-edit-legal": "tylko dla prawników"
+	"restriction-level-edit-legal": "tylko dla prawników",
+	"wikimedia-projects-label": "Projekty Wikimedia"
 }

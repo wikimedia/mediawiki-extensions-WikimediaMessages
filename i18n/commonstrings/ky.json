@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "Таржымал",
+	"wm-commonstrings-closed": "Жабык",
+	"wm-commonstrings-connect": "Байланышуу",
+	"wm-commonstrings-events": "Иш-чаралар",
+	"wm-commonstrings-mainpage-prompt": "Башкы бет: $1",
+	"wm-commonstrings-objectives": "Милдеттер",
+	"wm-commonstrings-ongoing": "Болуп жатат",
+	"wm-commonstrings-open": "Ачык",
+	"wm-commonstrings-overview": "Сереп",
+	"wm-commonstrings-participate": "Катышуу",
+	"wm-commonstrings-reports": "Отчёттор",
+	"wm-commonstrings-questions": "Суроолор ?",
+	"wm-commonstrings-register-account": "Катталуу",
+	"wm-commonstrings-scope": "Жаат",
+	"wm-commonstrings-seealso": "Дагы караңыз",
+	"wm-commonstrings-staff": "Кызматкерлер",
+	"wm-commonstrings-talktous": "Биз менен талкуулаңыз",
+	"wm-commonstrings-updates": "Өзгөрүүлөр"
+}

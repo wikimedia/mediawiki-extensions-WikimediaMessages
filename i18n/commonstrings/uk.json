@@ -1,8 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Див. також"
+	"wm-commonstrings-background": "Передумови",
+	"wm-commonstrings-closed": "Зачинено",
+	"wm-commonstrings-connect": "з'єднати",
+	"wm-commonstrings-events": "Події",
+	"wm-commonstrings-ongoing": "Триває",
+	"wm-commonstrings-open": "Відчинено",
+	"wm-commonstrings-overview": "Огляд",
+	"wm-commonstrings-participate": "Взяти участь",
+	"wm-commonstrings-reports": "Звіти",
+	"wm-commonstrings-questions": "Запитання?",
+	"wm-commonstrings-seealso": "Див. також",
+	"wm-commonstrings-staff": "Персонал",
+	"wm-commonstrings-updates": "Оновлення"
 }

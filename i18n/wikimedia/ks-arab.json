@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Iflaq",
-			"Teashae"
+			"Teashae",
+			"Varnent"
 		]
 	},
 	"sitesupport": "دان دِیِو",
@@ -29,5 +30,6 @@
 	"wikimedia-developers": "تَکنیٖکی تَخلیٖق کار",
 	"interlanguage-link-commons": "وِکیٖمیٖڈیا کامَنٕز",
 	"wikimedia-statslink": "اعدادِ شُمار",
-	"wikimedia-cookiestatement": "کوکیٖز بَیان"
+	"wikimedia-cookiestatement": "کوکیٖز بَیان",
+	"ext-quicksurveys-name": "فٗری پٕرژھگٲر"
 }

@@ -11,6 +11,7 @@
 			"Nieszczarda2",
 			"Red Winged Duck",
 			"Renessaince",
+			"Varnent",
 			"Vlad5250",
 			"W",
 			"Wizardist",
@@ -195,5 +196,6 @@
 	"right-editautopatrolprotected": "Рэдагаваньне старонак, абароненых як «{{int:protect-level-editautopatrolprotected}}»",
 	"action-editautopatrolprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-editautopatrolprotected}}»",
 	"right-edittrustedprotected": "Рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»",
-	"action-edittrustedprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»"
+	"action-edittrustedprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»",
+	"wikimedia-projects-label": "Праекты Вікімэдыі"
 }

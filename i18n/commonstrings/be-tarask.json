@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Глядзіце таксама"
+	"wm-commonstrings-background": "Тло",
+	"wm-commonstrings-closed": "Зачынена",
+	"wm-commonstrings-connect": "Зьвязаць",
+	"wm-commonstrings-events": "Мерапрыемствы",
+	"wm-commonstrings-objectives": "Мэты",
+	"wm-commonstrings-ongoing": "У працэсе",
+	"wm-commonstrings-overview": "Агляд",
+	"wm-commonstrings-participate": "Удзельнічаць",
+	"wm-commonstrings-reports": "Справаздачы",
+	"wm-commonstrings-scope": "Ахоп",
+	"wm-commonstrings-seealso": "Глядзіце таксама",
+	"wm-commonstrings-updates": "Абнаўленні"
 }

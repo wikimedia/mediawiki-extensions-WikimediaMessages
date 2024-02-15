@@ -18,6 +18,7 @@
 			"Termininja",
 			"Turin",
 			"V111P",
+			"Varnent",
 			"Vlad5250",
 			"Vodnokon4e",
 			"Лорд Бъмбъри"
@@ -272,5 +273,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не съм сигурен",
 	"gadget-souspages-subpages": "Подстраници",
-	"ipinfo-global-contributions-url-label": "Глобални приноси"
+	"ipinfo-global-contributions-url-label": "Глобални приноси",
+	"wikimedia-projects-label": "Проекти на Уикимедия"
 }

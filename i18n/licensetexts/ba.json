@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Assele",
+			"Bashkorttan",
 			"Comp1089",
 			"Haqmar",
 			"Sagan",
@@ -70,7 +71,7 @@
 	"wm-license-information-other-versions": "Башҡа өлгөләр",
 	"wm-license-lgpl-text": "Был йыйынтыҡ — [[{{int:wm-license-free-software-wiki-link}}|ирекле программа]]; һеҙ уны [[{{int:wm-license-fsf-wiki-link}}|Ирекле программалар фонды]] тарафынан баҫтырылған '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' рөхсәтнамәһенә ярашлы тарата һәм/йәки үҙгәртә алаһығыҙ (рөхсәтнамәнең 2.1 йәки (һеҙҙең ҡарамаҡҡа) унан һуңғы өлгөләре). Был эш файҙалы булыр, тигән өмөттә, ләкин '''бер нидәй ҙә яуаплылыҡ йөкләмәһеҙ''', хатта фараз ителгән '''һатыу өсөн яраҡлылыҡ''' йәки '''билдәләнгән маҡсат өсөн яраҡлытыҡ''' тураһында яуаплылыҡ йөкләмәһеҙ таратыла. Ентекле мәғлүмәт алыр өсөн, GNU General Public License рөхсәтнамәһенең [{{int:wm-license-lgpl-2.1-full-link}} 2.1 өлгөһө] и [{{int:wm-license-lgpl-3-full-link}} 3-се өлгөһө] тураһында уҡығыҙ.",
 	"wm-license-licensing-update-text": "Был лицензия тамғаһы файлға GFDL [[{{int:wm-license-licensing-update-wiki-link}}|лицензияһын яңыртыу]] өлөшө булараҡ өҫтәлгән.",
-	"wm-license-original-upload-log": "Йөкләүҙәрҙең сығанаҡ яҙмалары журналы",
+	"wm-license-original-upload-log": "Төп йөкләүҙәр журналы",
 	"wm-license-own-work": "Шәхси эш",
 	"wm-license-pd-author-self-text": "Мин, был хеҙмәткә авторлыҡ хоҡуҡтары эйәһе, уны '''[[{{int:wm-license-pd-wiki-link}}|йәмәғәт милкенә]]''' ҡулланыуға тапшырам. Был рөхсәт бөтә донъяла ғәмәлдә.",
 	"wm-license-pd-author-with-author-text": "Был эш авторы '''$1'''  тарафынан '''[[{{int:wm-license-pd-wiki-link}}|йәмәғәт милекенә]]''' ҡулланыуға тапшырылған. Был рөхсәт бөтә донъяла ғәмәлдә.",

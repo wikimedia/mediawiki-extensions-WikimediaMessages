@@ -1,8 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "انظر أيضا"
+	"wm-commonstrings-background": "خلفية",
+	"wm-commonstrings-closed": "مغلق",
+	"wm-commonstrings-connect": "تواصل",
+	"wm-commonstrings-events": "فعاليات",
+	"wm-commonstrings-objectives": "أهداف",
+	"wm-commonstrings-ongoing": "قيد التنفيذ",
+	"wm-commonstrings-open": "مفتوحة",
+	"wm-commonstrings-overview": "نظرة عامة",
+	"wm-commonstrings-participate": "شارك",
+	"wm-commonstrings-reports": "تقارير",
+	"wm-commonstrings-questions": "أسئلة؟",
+	"wm-commonstrings-register-account": "تسجيل حساب",
+	"wm-commonstrings-scope": "نطاق التغطية",
+	"wm-commonstrings-seealso": "انظر أيضا",
+	"wm-commonstrings-staff": "موظفون",
+	"wm-commonstrings-talktous": "تحدث معنا",
+	"wm-commonstrings-updates": "آخر الأخبار"
 }

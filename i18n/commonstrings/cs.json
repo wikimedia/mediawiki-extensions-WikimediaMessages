@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Související"
+	"wm-commonstrings-background": "Pozadí",
+	"wm-commonstrings-closed": "Uzavřeno",
+	"wm-commonstrings-connect": "Propojit",
+	"wm-commonstrings-events": "Události",
+	"wm-commonstrings-objectives": "Cíle",
+	"wm-commonstrings-ongoing": "Probíhající",
+	"wm-commonstrings-open": "Otevřeno",
+	"wm-commonstrings-overview": "Přehled",
+	"wm-commonstrings-participate": "Zúčastnit se",
+	"wm-commonstrings-reports": "Zprávy",
+	"wm-commonstrings-questions": "Otázky?",
+	"wm-commonstrings-scope": "Rozsah",
+	"wm-commonstrings-seealso": "Související",
+	"wm-commonstrings-staff": "Zaměstnanci",
+	"wm-commonstrings-talktous": "Diskuse",
+	"wm-commonstrings-updates": "Aktualizace"
 }

@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "같이 보기"
+	"wm-commonstrings-background": "배경",
+	"wm-commonstrings-closed": "마감",
+	"wm-commonstrings-connect": "연결",
+	"wm-commonstrings-events": "행사",
+	"wm-commonstrings-objectives": "목표",
+	"wm-commonstrings-ongoing": "진행 중",
+	"wm-commonstrings-open": "시작",
+	"wm-commonstrings-overview": "개요",
+	"wm-commonstrings-participate": "참여",
+	"wm-commonstrings-reports": "보고서",
+	"wm-commonstrings-questions": "질문이 있습니까?",
+	"wm-commonstrings-scope": "범위",
+	"wm-commonstrings-seealso": "같이 보기",
+	"wm-commonstrings-staff": "직원",
+	"wm-commonstrings-talktous": "우리와 토론",
+	"wm-commonstrings-updates": "업데이트"
 }

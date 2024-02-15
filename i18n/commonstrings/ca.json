@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Vegeu també"
+	"wm-commonstrings-background": "Rerefons",
+	"wm-commonstrings-closed": "Tancat",
+	"wm-commonstrings-connect": "Connecta",
+	"wm-commonstrings-events": "Esdeveniments",
+	"wm-commonstrings-objectives": "Objectius",
+	"wm-commonstrings-ongoing": "Actual",
+	"wm-commonstrings-open": "Obert",
+	"wm-commonstrings-overview": "Visió general",
+	"wm-commonstrings-participate": "Participa-hi",
+	"wm-commonstrings-reports": "Informes",
+	"wm-commonstrings-questions": "Preguntes",
+	"wm-commonstrings-scope": "Àmbit",
+	"wm-commonstrings-seealso": "Vegeu també",
+	"wm-commonstrings-staff": "Personal",
+	"wm-commonstrings-talktous": "Xerrada a nosaltres",
+	"wm-commonstrings-updates": "Actualitzacions"
 }

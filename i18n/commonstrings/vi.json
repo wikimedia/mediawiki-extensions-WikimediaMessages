@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "Bối cảnh",
+	"wm-commonstrings-closed": "Đóng",
+	"wm-commonstrings-connect": "Kết nối",
+	"wm-commonstrings-events": "Sự kiện",
+	"wm-commonstrings-mainpage-prompt": "Trang chính: $1",
+	"wm-commonstrings-objectives": "Mục tiêu",
+	"wm-commonstrings-ongoing": "Đang diễn ra",
+	"wm-commonstrings-open": "Mở",
+	"wm-commonstrings-overview": "Tổng quan",
+	"wm-commonstrings-participate": "Tham gia",
+	"wm-commonstrings-reports": "Báo cáo",
+	"wm-commonstrings-questions": "Câu hỏi?",
+	"wm-commonstrings-scope": "Phạm vi",
+	"wm-commonstrings-seealso": "Xem thêm",
+	"wm-commonstrings-staff": "Nhân viên",
+	"wm-commonstrings-talktous": "Thảo luận với chúng tôi",
+	"wm-commonstrings-updates": "Cập nhật"
+}

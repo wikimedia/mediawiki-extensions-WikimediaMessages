@@ -33,6 +33,7 @@
 			"Sotiale",
 			"ToePeu",
 			"Underbaaar",
+			"Varnent",
 			"Vogone",
 			"Yearning",
 			"Ykhwong",
@@ -319,6 +320,7 @@
 	"action-edit-legal": "잠재적인 법적 결과가 발생할 수 있는 문서를 편집할",
 	"ipinfo-feedback-button-label": "피드백 남기기",
 	"ext-quicksurveys-tst-internal-survey-question": "지난 30일간 {{SITENAME}} ({{SERVERNAME}})에 기여하며 불안하거나 불편하다고 느끼신 적이 있습니까?",
+	"ext-quicksurveys-name": "빠른 조사",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "네",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "아니오",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "피드백을 주셔서 감사합니다.",
@@ -327,5 +329,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "아니오",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "확실치 않음",
 	"gadget-souspages-subpages": "하위 문서",
-	"ipinfo-global-contributions-url-label": "전역 기여"
+	"ipinfo-global-contributions-url-label": "전역 기여",
+	"wikimedia-projects-label": "위키미디어 프로젝트"
 }

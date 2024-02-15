@@ -3,12 +3,26 @@
 		"authors": [
 			"MarcoAurelio",
 			"Nikki",
-			"No se"
+			"No se",
+			"Varnent"
 		]
 	},
 	"wm-commonstrings-background": "Antecedentes",
+	"wm-commonstrings-closed": "Cerrado",
+	"wm-commonstrings-connect": "Conectar",
 	"wm-commonstrings-contactus": "Contáctanos",
+	"wm-commonstrings-events": "Eventos",
+	"wm-commonstrings-objectives": "Objetivos",
+	"wm-commonstrings-ongoing": "En curso",
 	"wm-commonstrings-open": "Abierto",
+	"wm-commonstrings-overview": "Resumen",
+	"wm-commonstrings-participate": "Participar",
+	"wm-commonstrings-reports": "Informes",
 	"wm-commonstrings-resolutions": "Resoluciones",
-	"wm-commonstrings-seealso": "Véase también"
+	"wm-commonstrings-questions": "¿Preguntas?",
+	"wm-commonstrings-scope": "Alcance",
+	"wm-commonstrings-seealso": "Véase también",
+	"wm-commonstrings-staff": "Personal",
+	"wm-commonstrings-talktous": "Contáctanos",
+	"wm-commonstrings-updates": "Actualizaciones"
 }

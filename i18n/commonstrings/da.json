@@ -1,8 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Se også"
+	"wm-commonstrings-background": "Baggrund",
+	"wm-commonstrings-closed": "Lukket",
+	"wm-commonstrings-connect": "Forbind",
+	"wm-commonstrings-events": "Begivenheder",
+	"wm-commonstrings-objectives": "Målsætninger",
+	"wm-commonstrings-ongoing": "Igangværende",
+	"wm-commonstrings-open": "Åben",
+	"wm-commonstrings-overview": "Oversigt",
+	"wm-commonstrings-participate": "Deltag",
+	"wm-commonstrings-reports": "Rapporter",
+	"wm-commonstrings-questions": "Spørgsmål?",
+	"wm-commonstrings-scope": "Omfang",
+	"wm-commonstrings-seealso": "Se også",
+	"wm-commonstrings-staff": "Personale",
+	"wm-commonstrings-talktous": "Tal med os",
+	"wm-commonstrings-updates": "Opdateringer"
 }

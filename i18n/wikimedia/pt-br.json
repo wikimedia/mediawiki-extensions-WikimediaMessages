@@ -43,6 +43,7 @@
 			"Teles",
 			"TheEduGobi",
 			"Tks4Fish",
+			"Varnent",
 			"Vitorvicentevalente",
 			555
 		]
@@ -363,6 +364,7 @@
 	"action-edit-legal": "editar páginas com possíveis consequências legais",
 	"ipinfo-feedback-button-label": "Deixe um comentário",
 	"ext-quicksurveys-tst-internal-survey-question": "Nos últimos 30 dias, você se sentiu inseguro ou desconfortável ao contribuir com {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-name": "Pesquisa Rápida",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sim",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Não",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Esta pesquisa anônima é conduzida pela Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Leia mais] ou leia a [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaração de privacidade].",
@@ -384,5 +386,6 @@
 	"research-incentive-answer-negative": "Não",
 	"research-incentive-privacy": "Veja nossa política de privacidade e saiba mais sobre nosso programa de pesquisa [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program aqui].",
 	"research-incentive-confirm-msg": "Obrigado!",
-	"ipinfo-global-contributions-url-label": "Contribuições globais"
+	"ipinfo-global-contributions-url-label": "Contribuições globais",
+	"wikimedia-projects-label": "Projetos Wikimedia"
 }

@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Se även"
+	"wm-commonstrings-background": "Bakgrund",
+	"wm-commonstrings-connect": "Anslut",
+	"wm-commonstrings-ongoing": "Pågående",
+	"wm-commonstrings-open": "Öppen",
+	"wm-commonstrings-overview": "Översikt",
+	"wm-commonstrings-participate": "Delta",
+	"wm-commonstrings-reports": "Rapporter",
+	"wm-commonstrings-questions": "Frågor?",
+	"wm-commonstrings-scope": "Omfattning",
+	"wm-commonstrings-seealso": "Se även",
+	"wm-commonstrings-updates": "Uppdateringar"
 }

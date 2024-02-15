@@ -9,6 +9,7 @@
 			"Nemo bis",
 			"Smihael",
 			"Upwinxp",
+			"Varnent",
 			"Yerpo"
 		]
 	},
@@ -344,6 +345,7 @@
 	"action-edit-legal": "urejanje strani z možnimi pravnimi posledicami",
 	"ipinfo-feedback-button-label": "Pustite povratno informacijo",
 	"ext-quicksurveys-tst-internal-survey-question": "Ste se v zadnjih 30 dneh pri sodelovanju v projektu {{SITENAME}} ({{SERVERNAME}}) počutili nevarno ali neprijetno?",
+	"ext-quicksurveys-name": "Hitre ankete",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Da",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ne",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "To anonimno anketo izvaja Fundacija Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Preberite več] ali preglejte [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement izjavo o zasebnosti].",

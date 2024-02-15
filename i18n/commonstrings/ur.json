@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "پس منظر",
+	"wm-commonstrings-closed": "منقطع",
+	"wm-commonstrings-connect": "شامل ہوں",
+	"wm-commonstrings-events": "واقعات",
+	"wm-commonstrings-objectives": "موجودات",
+	"wm-commonstrings-ongoing": "جاری",
+	"wm-commonstrings-open": "کھلا",
+	"wm-commonstrings-overview": "جائزہ",
+	"wm-commonstrings-participate": "شرکت",
+	"wm-commonstrings-reports": "رودادیں",
+	"wm-commonstrings-questions": "سوالات؟",
+	"wm-commonstrings-scope": "دائرہ کار",
+	"wm-commonstrings-seealso": "مزید مطالعہ",
+	"wm-commonstrings-staff": "عملہ",
+	"wm-commonstrings-talktous": "ہم سے بات",
+	"wm-commonstrings-updates": "تجدید"
+}

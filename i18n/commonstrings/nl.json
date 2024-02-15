@@ -1,13 +1,27 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mitsjol"
+			"Mitsjol",
+			"Varnent"
 		]
 	},
 	"wm-commonstrings-agenda": "Agenda",
+	"wm-commonstrings-background": "Achtergrond",
+	"wm-commonstrings-closed": "Sluiten",
+	"wm-commonstrings-connect": "Verbinden",
+	"wm-commonstrings-events": "Gebeurtenissen",
+	"wm-commonstrings-mainpage-prompt": "Hoofdpagina: $1",
+	"wm-commonstrings-objectives": "Doelen",
+	"wm-commonstrings-ongoing": "Doorlopend",
+	"wm-commonstrings-open": "Open",
 	"wm-commonstrings-overview": "Overzicht",
+	"wm-commonstrings-participate": "Deelnemen",
+	"wm-commonstrings-reports": "Rapporten",
 	"wm-commonstrings-questions": "Vragen?",
+	"wm-commonstrings-register-account": "Account registreren",
+	"wm-commonstrings-scope": "Scope",
 	"wm-commonstrings-seealso": "Zie ook",
 	"wm-commonstrings-staff": "Personeel",
-	"wm-commonstrings-talktous": "Praat met ons"
+	"wm-commonstrings-talktous": "Praat met ons",
+	"wm-commonstrings-updates": "Updates"
 }

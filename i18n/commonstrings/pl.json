@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
+	"wm-commonstrings-ongoing": "Trwa",
+	"wm-commonstrings-register-account": "Załóż konto",
 	"wm-commonstrings-seealso": "Zobacz też"
 }

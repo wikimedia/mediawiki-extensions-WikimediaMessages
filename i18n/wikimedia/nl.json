@@ -34,7 +34,8 @@
 			"Sjoerddebruin",
 			"Southparkfan",
 			"Troefkaart",
-			"Tvdm"
+			"Tvdm",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -360,6 +361,7 @@
 	"action-edit-legal": "pagina’s te bewerken met mogelijke juridische gevolgen",
 	"ipinfo-feedback-button-label": "Terugkoppeling geven",
 	"ext-quicksurveys-tst-internal-survey-question": "Hebt u zich de afgelopen 30 dagen onveilig of ongemakkelijk gevoeld bij het bijdragen aan {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-name": "Snelle enquêtes",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ja",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nee",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Dit anonieme onderzoek wordt uitgevoerd door de Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Lees meer] of bekijk de [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement privacyverklaring].",

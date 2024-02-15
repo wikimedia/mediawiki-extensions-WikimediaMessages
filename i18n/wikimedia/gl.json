@@ -13,6 +13,7 @@
 			"Nemo bis",
 			"Savh",
 			"Toliño",
+			"Varnent",
 			"Xabier Cid",
 			"Xosé"
 		]
@@ -286,6 +287,7 @@
 	"right-edit-legal": "Edita páxinas con posibles consecuencias legais",
 	"action-edit-legal": "editar páxinas con posibles consecuencias legais",
 	"ipinfo-feedback-button-label": "Deixar comentarios",
+	"ext-quicksurveys-name": "Enquisas rápidas",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Si",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Non",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Grazas polos seus comentarios.",
@@ -295,5 +297,6 @@
 	"research-incentive-answer-positive": "Si",
 	"research-incentive-answer-negative": "Non",
 	"research-incentive-confirm-msg": "Grazas!",
-	"ipinfo-global-contributions-url-label": "Contribucións globais"
+	"ipinfo-global-contributions-url-label": "Contribucións globais",
+	"wikimedia-projects-label": "Proxectos da Wikimedia"
 }

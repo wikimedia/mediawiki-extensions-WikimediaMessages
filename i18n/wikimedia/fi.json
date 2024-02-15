@@ -29,6 +29,7 @@
 			"Tarmo",
 			"Valtlai",
 			"Valtlait",
+			"Varnent",
 			"Varusmies",
 			"Veikk0.ma",
 			"VezonThunder",
@@ -261,6 +262,7 @@
 	"protect-level-editautoreviewprotected": "Automaattiseulotut käyttäjät",
 	"right-docseditor": "Muokata ohjeistusta",
 	"ipinfo-feedback-button-label": "Jätä palautetta",
+	"ext-quicksurveys-name": "Pikakyselyt",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Kyllä",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ei",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Kiitos palautteestasi.",
@@ -273,5 +275,6 @@
 	"readinglists-import-app": "Tuo tämä lukulista asentamalla Wikipedia-sovelluksen uusin versio:",
 	"readinglists-list-empty-message": "Voit tuoda tämän listan asentamalla Wikipedia-sovelluksen.",
 	"research-incentive-confirm-msg": "Kiitos!",
-	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset"
+	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset",
+	"wikimedia-projects-label": "Wikimedia-projektit"
 }

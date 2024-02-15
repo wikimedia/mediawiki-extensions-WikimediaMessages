@@ -33,6 +33,7 @@
 			"Riwnodennyk",
 			"Sergento",
 			"SimondR",
+			"Varnent",
 			"Vlad5250",
 			"Ата",
 			"Максим Підліснюк",
@@ -367,5 +368,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Це анонімне опитування проводить Фонд Вікімедіа. [https://meta.wikimedia.org/wiki/Community_Safety Почитайте докладніше] або ознайомтеся із [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заявою про приватність].",
 	"gadget-curidlink-link-by-id": "Посилання за ID",
 	"gadget-curidlink-link-by-id-desc": "Показати посилання за ID сторінки",
-	"gadget-souspages-subpages": "Підсторінки"
+	"gadget-souspages-subpages": "Підсторінки",
+	"wikimedia-projects-label": "Проєкти Вікімедіа"
 }

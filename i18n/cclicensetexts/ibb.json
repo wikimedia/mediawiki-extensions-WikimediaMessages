@@ -2,13 +2,22 @@
 	"@metadata": {
 		"authors": [
 			"Akpan Ndifreke",
-			"Bernardgift"
+			"Akpanufun",
+			"Bernardgift",
+			"Ekemini5",
+			"Uduakumana"
 		]
 	},
+	"wm-license-cc-attribution": "Wana",
+	"wm-license-cc-by-sa-3.0-text": "Ediongho edem nwed ke idak [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en Attribution-Share Alike 3.0 Unported] udiongho mkp.",
+	"wm-license-cc-free": "Ame kemi nam:",
 	"wm-license-cc-free-to-share-header": "adi deme",
 	"wm-license-cc-free-to-share-text": "adi sio, ideme ye and dong utom",
 	"wm-license-cc-free-to-remix-header": "adi swan",
 	"wm-license-cc-free-to-remix-text": "adi kpong utom etuk",
+	"wm-license-cc-conditions": "Ke idak mkpo mi:",
 	"wm-license-cc-conditions-attribution-header": "wana",
-	"wm-license-cc-conditions-share_alike-header": "share alike"
+	"wm-license-cc-conditions-attribution-text": "Ana ano eti ekom, no usung, ye nam yak ediongho me ama kpugho mkpo. Ame kemi nam ke eti usung, idogho ke usung abagha nte andi no isung uno fin usung or ufon mfo.",
+	"wm-license-cc-conditions-share_alike-header": "share alike",
+	"wm-license-cc-conditions-share_alike-text": "Akpe dian, akpugho or abop, ana a buana ikor mfo ke [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ukem or eti udiongho] ke ata eti."
 }

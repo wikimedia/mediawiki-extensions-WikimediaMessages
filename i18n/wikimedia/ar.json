@@ -33,6 +33,7 @@
 			"Scblr",
 			"Shbib Al-Subaie",
 			"Sonic N800",
+			"Varnent",
 			"Vlad5250",
 			"Yahya Sakhnini",
 			"أحمد",
@@ -375,5 +376,6 @@
 	"research-incentive-link": "https://airtable.com/shrZDtCvzHlhfDnuN",
 	"research-incentive-privacy": "اطلع على سياسة الخصوصية الخاصة بنا وتعرف على المزيد حول برنامج البحث [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ar هنا]",
 	"research-incentive-confirm-msg": "شكرًا!",
-	"ipinfo-global-contributions-url-label": "مساهمات عالمية"
+	"ipinfo-global-contributions-url-label": "مساهمات عالمية",
+	"wikimedia-projects-label": "مشاريع ويكيميديا"
 }

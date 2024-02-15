@@ -10,6 +10,7 @@
 			"Muhammad Shuaib",
 			"Obaid Raza",
 			"Scblr",
+			"Varnent",
 			"Zainab Meher",
 			"عثمان خان شاہ",
 			"عرفان ارشد",
@@ -205,6 +206,8 @@
 	"wikimedia-statslink": "شماريات",
 	"wikimedia-cookiestatement": "کوکیز کی تفصیلات",
 	"ipinfo-feedback-button-label": "تاثرات ارسال کریں",
+	"ext-quicksurveys-name": "کوئیک سرویز",
 	"readinglists-import-app": " مطالعہ کی یہ فہرست درآمد کرنے کے لیے ویکیپیڈیا ایپ کا تازہ ترین ورژن انسٹال کریں:",
-	"ipinfo-global-contributions-url-label": "عالمی شراکتیں"
+	"ipinfo-global-contributions-url-label": "عالمی شراکتیں",
+	"wikimedia-projects-label": "ویکیمیڈیا منصوبہ جات"
 }

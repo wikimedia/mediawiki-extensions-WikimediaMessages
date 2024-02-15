@@ -31,7 +31,8 @@
 			"Stefano-c",
 			"Superpes15",
 			"Una giornata uggiosa '94",
-			"Valerio Bozzolan"
+			"Valerio Bozzolan",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -289,6 +290,7 @@
 	"restriction-level-editautopatrolprotected": "protetto solo autoverificati",
 	"right-editautopatrolprotected": "Modifica pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "modificare pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
+	"ext-quicksurveys-name": "SondaggiVeloci",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",

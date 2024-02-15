@@ -24,6 +24,7 @@
 			"Trần Nguyễn Minh Huy",
 			"Tuyenduong97",
 			"Vanhdeeptryy",
+			"Varnent",
 			"Vinhtantran",
 			"Withoutaname",
 			"לערי ריינהארט"
@@ -337,6 +338,7 @@
 	"right-edittrustedprotected": "Sửa trang bị khoá ở mức \"{{int:protect-level-edittrustedprotected}}\"",
 	"action-edittrustedprotected": "sửa trang bị khoá ở mức \"{{int:protect-level-edittrustedprotected}}\"",
 	"ipinfo-feedback-button-label": "Để lại phản hồi",
+	"ext-quicksurveys-name": "Khảo sát Nhanh",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Có",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Không",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Có",
@@ -347,5 +349,6 @@
 	"research-incentive-answer-negative": "Không",
 	"research-incentive-privacy": "Xem Quy định quyền riêng tư của chúng tôi và tìm hiểu thêm về chương trình nghiên cứu của chúng tôi [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program tại đây].",
 	"research-incentive-confirm-msg": "Cảm ơn!",
-	"ipinfo-global-contributions-url-label": "Đóng góp toàn cục"
+	"ipinfo-global-contributions-url-label": "Đóng góp toàn cục",
+	"wikimedia-projects-label": "Các dự án Wikimedia"
 }
