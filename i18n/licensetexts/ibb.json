@@ -2,10 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Nyaknograce",
-			"Uduakj"
+			"Uduakj",
+			"Akpan Ndifreke",
+			"Bernardgift",
+			"Okon Ibiono"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Ame kemi idiangha, deme ye/or kpungho nwed ami ke idak '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 or nwen ufa nwen atogho [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; kppdo Invariant Sections ibagha, Front-Cover Texts nte ked, ye Back-Cover Texts nte ked. Udiangha nwed idiongho mmo aba ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Nagha aba",
+	"wm-license-information-source": "Ntak",
+	"wm-license-information-date": "Usen",
+	"wm-license-information-author": "Andi wee",
+	"wm-license-information-permission": "Ame kemi inam",
 	"wm-license-information-permission-reusing-text": "Adi timme nkama nwed adam",
-	"wm-license-own-work": "Utom mmi"
+	"wm-license-own-work": "Utom mmi",
+	"wm-license-self-multiple-licenses-select": "Ame kemi ben ada nunogho afo ayemme."
 }

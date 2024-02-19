@@ -4,6 +4,8 @@
 			"Joetaras"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|ave scuagghiate}} 'u cunde utende \"$4\" ($5) jndr'à {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|ave scangellate}} 'u cunde utende \"$4\" ($5)",
 	"wikimedia-log-action-filter-usermerge": "Tipe de azione:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Scuagghiamende d'u cunde utende",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Scangellazzione d'u cunde utende",

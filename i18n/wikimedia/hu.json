@@ -18,7 +18,8 @@
 			"Tacsipacsi",
 			"Tgr",
 			"Urbalazs",
-			"Hanna Tardos"
+			"Hanna Tardos",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -198,7 +199,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''A kérésben használt egy vagy több proxy szerver  [[m:Special:MyLanguage/Global blocks|globálisan blokkolva van]].'''\n\nA blokkot $1 ($2) hozta létre.\nA megadott indok: ''$3''.\n\nBlokk kezdete: $4\nBlokk vége: $5\n\nA blokkolt proxy címe: $6\nKérlek minden fenti adatot adjál meg a kérésedben\n\nHa úgy gondolod, hogy a blokkolás tévedésen alapul, akkor további adatokat és utasításokat [[m:Special:MyLanguage/No open proxies|Nyilt proxyk használatának tiltása]] globális szabály elolvasásával kaphatsz.\nHa a blokkot akarod megvitatni, [[m:Steward requests/Global|küldj egy kérést a Meta-Wikin a blokk megfontolására]].",
 	"wikimedia-torblock-blocked": "Az IP-címed (<strong>$1</strong>) automatikusan blokkolva lett, mivel Tor-végpontként azonosítottuk.\nToron keresztül nem lehet szerkeszteni a visszaélések megakadályozása céljából.\nA legitim felhasználóknak szóló további információkért és útmutatóért lásd a [[m:Special:MyLanguage/No open proxies|Nincsenek nyílt proxyk]] globális irányelvet.",
 	"upload-form-label-own-work-message-commons": "Igazolom, hogy én birtoklom a fájl szerzői jogait, és egyetértek azzal, hogy visszavonhatatlanul közzéteszem a fájlt a Wikimédia Commonson a [https://creativecommons.org/licenses/by-sa/4.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 4.0] licenc alatt, és egyetértek a [https://foundation.wikimedia.org/wiki/Terms_of_Use felhasználási feltételekkel].",
-	"upload-form-label-not-own-work-message-commons": "Ha nem birtoklod a fájl szerzői jogait vagy más licenc alatt szeretnéd közzétenni, fontold meg a [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Feltöltésvarázslójának] használatát.",
+	"upload-form-label-not-own-work-message-commons": "Ha nem te vagy a fájl szerzői jogainak tulajdonosa, vagy más licenc alatt szeretnéd közzétenni, fontold meg a [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Feltöltésvarázslójának] használatát.",
 	"upload-form-label-not-own-work-local-commons": "Megpróbálhatod használni [[Special:Upload|a(z) {{SITENAME}} feltöltési lapját]] is, ha ezt a fájlt fel lehet tölteni az itteni irányelvek szerint.",
 	"wikimedia-upload-nolicenses": "A fájlfeltöltés ezen a wikin nem engedélyezett. Az itt használandó fájlokat a [[commons:Special:UploadWizard|Wikimédia Commonsra]] lehet feltölteni.\n\nAhhoz, hogy ezen a speciális lapon is lehessen feltölteni erre a wikire, egy adminisztrátornak hozzá kell adnia egy vagy több licencopciót a [[MediaWiki:Licenses]] laphoz a következő formátumban: <code>* Sablon neve|Címke</code>. Bármilyen egyéb szöveg hozzáadásával engedélyezhető a feltöltés licencopciók nélkül.",
 	"interlanguage-link-mul": "További nyelvek",
