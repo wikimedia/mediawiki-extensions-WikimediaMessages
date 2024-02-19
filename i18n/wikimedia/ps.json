@@ -5,6 +5,7 @@
 			"Ahmed-Najib-Biabani-Ibrahimkhel",
 			"Amjad Khan",
 			"Baloch Khan",
+			"Varnent",
 			"عثمان خان شاہ"
 		]
 	},
@@ -99,6 +100,8 @@
 	"wikibase-sitelinks-sitename-mediawikiwiki": "مېډياويکي",
 	"wikibase-sitelinks-sitename-metawiki": "مېټا-ويکي",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويکيډاټا",
+	"wikimedia-taglines-wikidata": "د پوهنو يو وړيا بنسټ",
+	"wikimedia-taglines-wikivoyage": "يو وړيا يون لارښود",
 	"wikimedia-developers": "پرمختگگران:",
 	"wikimedia-globalblocking-ipblocked": "'''په ټولو ويکي گانو کې ستاسې پر IP پتې [[m:Special:MyLanguage/Global blocks|بنديز لگېدلی]].'''\n\nدا بنديز د $1  لخوا پر تاسو پلي شوی ($2).\nد بنديز سبب ''$3'' ورکړل شوی.\n\n* د بنديز پيل نېټه: $4\n* د بنديز پای نېټه: $5\n\nستاسې اوسنۍ IP پته $6 ده.\nکه تاسې د دې کړنې اړونده هر ډول گروېږنې لرۍ، نو د پوښتنو پر مهال مو پورتني مالومات په غوښتنو کې شامل کړئ.\n\nکه تاسې په دې اند ياست چې په غلطۍ کې پر تاسې بنديز لگېدلی، نو په [[m:Special:MyLanguage/No open proxies|ناپرانيستې پروکسي]] کې د نړېوالې تگلارې اړونده اضافي مالومات او لارښوونې موندلی شی.\nکه داسې نه وي نو پر بنديز مو د بحث پيلولو لپاره [[m:Steward requests/Global|په مېټا-ويکي باندې يوه غوښتنه وليکئ]].",
 	"wikimedia-globalblocking-ipblocked-xff": "پر يو يا څو پروکسي پالنگرانو چې ستاسې په غوښتنه کې کارېدلي [[m:Special:MyLanguage/Global blocks|نړېوال بنديز لگېدلی]].'''\n\nدا بنديز د $1 ($2) لخوا لگېدلی.\nد بنديز لگېدلو سبب ''$3'' ورکړل شوی.\n\n* د بنديز پيل: $4\n* د بنديز پای: $5\n\nد بنديز لگېدلي پروکسي پته $6 ده.\nلطفاً په هر ډول غوښتنو او گروېږنو کې مو پورتنی تفصيل ورگډ کړئ.\n\nکه تاسط په دې اند ياست چې دا بنديز په ناسمه توگه پر تاسې لگېدلی، نو په [[m:Special:MyLanguage/No open proxies|ناپرانيستي پروکسي]] کې د نړېوالې تگلارې اړونده نور مالومات او لارښوونې موندلی شی.\nکه داسې نه وي نو پر بنديز مو د بحث پيلولو لپاره [[m:Steward requests/Global|په مېټا-ويکي باندې يوه غوښتنه وليکئ]].",
@@ -108,5 +111,6 @@
 	"interlanguage-link-commons": "ويکيمېډيا کامنز",
 	"eri-rcfilters-tour-help": "نور مالومات",
 	"wikimedia-statslink": "شمار",
-	"wikimedia-cookiestatement": "د کوکيز ويناليک"
+	"wikimedia-cookiestatement": "د کوکيز ويناليک",
+	"wikimedia-help-translate-prompt": "په ژباړه کې غواړې مرسته وکړې؟ [$1 هغه پيغامونه چې نشته وې ژباړئ]."
 }

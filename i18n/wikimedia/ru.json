@@ -283,6 +283,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Многоязычная Викитека",
 	"wikibase-sitelinks-sitename-species": "Викивиды",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викиданные",
+	"wikimedia-taglines-wikidata": "Свободная база знаний",
+	"wikimedia-taglines-wikivoyage": "Свободный путеводитель",
 	"cant-delete-main-page": "Вы не можете удалить или переименовать главную страницу.",
 	"wikimedia-translationnotifications-signup-legal": "Вы соглашаетесь, что после предоставления Фонду Викимедиа этой информации мы можем связаться с вами по поводу переводов или других вопросов, связанных с движением Викимедиа, которые мы посчитаем интересными вам. Вы соглашаетесь, что ваши данные могут храниться в Соединённых Штатах Америки в соответствии с нашей [https://foundation.wikimedia.org/wiki/Политика_конфиденциальности политикой конфиденциальности].",
 	"upload-more-photos-of-this-monument": "Загрузить больше фотографий этого объекта",
@@ -376,5 +378,10 @@
 	"gadget-souspages-subpages": "Подстраницы",
 	"ipinfo-global-contributions-url-label": "Глобальный вклад",
 	"wikimedia-projects-label": "Проекты Викимедиа",
-	"wikimedia-news-label": "Новости Викимедиа"
+	"wikimedia-movement-affiliates-shortlabel": "Партнёрские организации",
+	"wikimedia-news-label": "Новости Викимедиа",
+	"wikimedia-help-translate-prompt": "Хотите помочь с переводом? [$1 Переведите недостающие сообщения].",
+	"wikimedia-nutshell-page-intro": "Об этой странице вкратце: $1",
+	"wikimedia-translation-disclaimer-nolink": "Обратите, пожалуйста, внимание на то, что в случае каких-либо различий в смысле или в интерпретации между оригинальной английской версией этого контента и переводом преимущество имеет оригинальная английская версия.",
+	"wikimedia-translation-disclaimer-withlink": "Обратите, пожалуйста, внимание на то, что в случае каких-либо различий в смысле или в интерпретации между оригинальной английской версией этого контента и переводом преимущество имеет [[$1|оригинальная английская версия]]."
 }

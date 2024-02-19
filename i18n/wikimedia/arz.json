@@ -79,10 +79,12 @@
 	"wikibase-otherprojects-testwikidata": "ويكيداتا",
 	"wikibase-otherprojects-wikidata": "ويكيداتا",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويكيداتا",
+	"wikimedia-taglines-wikidata": "قاعده بيانات حره",
 	"wikimedia-developers": "مطورين",
 	"wikimedia-globalblocking-ipblocked": "'''عنوان بروتوكول الإنترنت الخاص بتاع حضرتك [[m:Special:MyLanguage/Global blocks|تم منعه فى كل الويكيات]].'''\n\nالمنع عمله $1 ($2).\nو&nbsp;السبب هو ''$3''.\n\n* بدء المنع: $4\n* انتهاء المنع: $5\n\nعنوان بروتوكول الإنترنت بتاع حضرتك هو $6.\nبتاع حضرتك ذكر كل التفاصيل اللى  مكتوبه فوق لما حضرتك تستعلم عنها.\n\nلو حضرتك شايف إن المنع اتعمل لأسباب  غلط أو مشكله معينه، ممكن تلاقى معلومات و إرشادات إضافيه ف السياسه العامه [[m:Special:MyLanguage/No open proxies|لا بروكسيات مفتوحه]].\nخلاف كده، لو عاوز مناقشة المنع [[m:Steward requests/Global|حط  طلب مراجعة المنع فى ميتاويكى]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''عنوان بروكسى الإنترنت الخاص بتاع حضرتك [[m:Special:MyLanguage/Global blocks|تم منعه فى كل الويكيات]].'''\n\nالمنع عمله $1 ($2).\nو&nbsp;السبب هو ''$3''.\n\n* بدء المنع: $4\n* انتهاء المنع: $5\n\nعنوان بروكسى الإنترنت بتاع حضرتك هو $6.\nمن فضلك  اذكر كل التفاصيل اللى  مكتوبه فوق لما حضرتك تستعلم عنها.\n\nلو حضرتك شايف إن المنع اتعمل لأسباب  غلط أو مشكله معينه، ممكن تلاقى معلومات و إرشادات إضافيه ف السياسه العامه [[m:Special:MyLanguage/No open proxies|لا بروكسيات مفتوحه]].\nخلاف كده، لو عاوز مناقشة المنع [[m:Steward requests/Global|حط  طلب مراجعة المنع فى ميتاويكى]].",
 	"wikimedia-statslink": "احصائيات",
 	"wikimedia-cookiestatement": "بيان الكوكيز",
-	"ext-quicksurveys-name": "استبيانات سريعه"
+	"ext-quicksurveys-name": "استبيانات سريعه",
+	"wikimedia-help-translate-prompt": "عايز تساعد فى الترجمه؟ [$1 ترجم الرسايل الناقصه]."
 }

@@ -148,6 +148,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "Metaviki",
 	"wikibase-sitelinks-sitename-species": "Vikirūšys",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiduomenys",
+	"wikimedia-taglines-wikidata": "Laisvoji žinių bazė",
+	"wikimedia-taglines-wikivoyage": "Laisvas pasaulinis kelionių gidas",
 	"cant-delete-main-page": "Jūs negalite ištrinti ar pervadinti pagrindinio puslapio.",
 	"createacct-captcha-help-url": "{{ns:Project}}:Užklausa dėl paskyros",
 	"wikimedia-developers": "Kūrėjai",
@@ -175,5 +177,7 @@
 	"wikimedia-centralauth-contribs-locked": "Ši paskyra visuotinai užrakinta.\nDaugiau informacijos - [[m:Special:CentralAuth/$1|visuotinės paskyros detalės]].",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Slapukų politika",
-	"wikimedia-projects-label": "Vikimedijos projektai"
+	"ext-quicksurveys-name": "Greitos apklausos",
+	"wikimedia-projects-label": "Vikimedijos projektai",
+	"wikimedia-help-translate-prompt": "Nori padėti išversti? [$1 Išversk trūkstamas žinutes]."
 }

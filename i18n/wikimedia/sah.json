@@ -4,7 +4,8 @@
 			"Bert Jickty",
 			"HalanTul",
 			"MARKSDNW",
-			"Nemo bis"
+			"Nemo bis",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Викимедиаҕа эрэ сыһыаннаах этиилэр",
@@ -111,5 +112,6 @@
 	"upload-form-label-not-own-work-message-commons": "Өскөтө билэни бас билбэт буоллаххына, биитэр атын лиссиэнсийэннэн угуоххун баҕарар буоллаххына, манна баар ньыманы туһаныаххын сөп: [https://commons.wikimedia.org/wiki/Special:UploadWizard Биики Ыскылаакка угуу маастара].",
 	"upload-form-label-not-own-work-local-commons": "Өскө, {{SITENAME}} быраабылатынан угар сатанар буоллаҕына, кини [[Special:Upload|киллэрии тэрилин]] туһаныаххын эмиэ сөп.",
 	"wikimedia-statslink": "Ыстатыыстыка",
-	"wikimedia-cookiestatement": "Куука туһунан"
+	"wikimedia-cookiestatement": "Куука туһунан",
+	"wikimedia-help-translate-prompt": "Тылбаастыырга көмөлөһүөххүн баҕараҕын дуо? [$1 Тылбаастаа]."
 }

@@ -9,6 +9,7 @@
 			"Minh Nguyen",
 			"MuratTheTurkish",
 			"Nemo bis",
+			"Varnent",
 			"Xuacu"
 		]
 	},
@@ -214,6 +215,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikiespecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Base de conocimientu llibre",
 	"cant-delete-main-page": "Nun pues desaniciar nin treslladar la portada.",
 	"wikimedia-translationnotifications-signup-legal": "Aceutes que al proporcionar esta información a la Fundación Wikimedia podemos ponenos en contautu contigo no que cinca a les traducciones o otros asuntos rellacionaos col movimientu de Wikimedia que piensemos que puedan interesate. Aceutes que los tos datos puedan almacenase nos Estaos Xunios d'América y que tan suxetos a la nuesa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy política de proteición de datos].",
 	"upload-more-photos-of-this-monument": "Xubir más semeyes d'esti monumentu",
@@ -286,5 +288,6 @@
 	"protect-level-editautopatrolprotected": "Permitir sólo autopatrulleros",
 	"restriction-level-editautopatrolprotected": "protexío por autopatrulleru",
 	"right-editautopatrolprotected": "Editar les páxines protexíes como «{{int:protect-level-editautopatrolprotected}}»",
-	"action-editautopatrolprotected": "editar les páxines protexíes como «{{int:protect-level-editautopatrolprotected}}»"
+	"action-editautopatrolprotected": "editar les páxines protexíes como «{{int:protect-level-editautopatrolprotected}}»",
+	"wikimedia-help-translate-prompt": "¿Quies ayudar a traducir? [$1 Traduz los mensaxes que falten]."
 }

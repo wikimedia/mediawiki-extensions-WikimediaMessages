@@ -40,6 +40,7 @@
 			"Sahim",
 			"Sunfyre",
 			"TAndic (WMF)",
+			"Varnent",
 			"Wayiran",
 			"ZxxZxxZ",
 			"아라"
@@ -258,6 +259,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "ویکی‌نبشته چندزبانی",
 	"wikibase-sitelinks-sitename-species": "ویکی‌گونه",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ویکی‌داده",
+	"wikimedia-taglines-wikidata": "پایگاه آزاد دانشگاه",
+	"wikimedia-taglines-wikivoyage": "راهنمای آزاد سفر",
 	"cant-delete-main-page": "شما نمی‌توانید صفحهٔ اصلی را حذف یا منتقل کنید.",
 	"wikimedia-translationnotifications-signup-legal": "شما می‌پذیرید که با ارائه این اطلاعات به بنیاد ویکی‌مدیا می‌توانیم در مورد ترجمه‌ها یا دیگر مباحث مرتبط با جنبش ویکی‌مدیا که فکر می‌کنیم برای‌تان جالب باشند با شما تماس بگیریم. شما می‌پذیرید که اطلاعات‌تان می‌تواند در ایالات متحده آمریکا بایگانی شود و مشمول [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy سیاست حفظ حریم خصوصی] ما است.",
 	"upload-more-photos-of-this-monument": "بارگذاری عکس‌های بیشتری از این بنای تاریخی",
@@ -358,5 +361,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "مطمئن نیستم",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "این نظرسنجی ناشناس توسط بنیاد ویکی‌مدیا انجام شده است. [https://meta.wikimedia.org/wiki/Community_Safety بیشتر بخوانید] یا [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement بیانیه حریم خصوصی] را بررسی کنید.",
 	"gadget-souspages-subpages": "زیرصفحه‌ها",
-	"ipinfo-global-contributions-url-label": "مشارکت‌های سراسری"
+	"ipinfo-global-contributions-url-label": "مشارکت‌های سراسری",
+	"wikimedia-help-translate-prompt": "می‌خواهید به ترجمه کمک کنید؟ [$1 پیام‌های ترجمه نشده را ترجمه کنید].",
+	"wikimedia-translation-disclaimer-nolink": "لطفاً توجه داشته باشید که در صورت وجود هرگونه تفاوت در معنا یا تفسیر بین نسخه انگلیسی اصلی این محتوا و ترجمه، نسخه انگلیسی اصلی اولویت دارد.",
+	"wikimedia-translation-disclaimer-withlink": "لطفاً توجه داشته باشید که در صورت وجود هرگونه تفاوت در معنا یا تفسیر بین نسخه انگلیسی اصلی این محتوا و ترجمه، [[$1|نسخه انگلیسی اصلی]] اولویت دارد."
 }

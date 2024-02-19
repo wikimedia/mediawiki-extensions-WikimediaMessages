@@ -141,5 +141,6 @@
 	"wikimedia-torblock-blocked": "Soa adrëssa IP <strong>$1</strong>, a l'é stàita identificà an automàtich tanme un neu ëd surtìa Tor.\nLe modìfiche da Tor a son blocà pËr evité j'abus.\nPër pi d'anformassion e anstrussion për legitimé j'utent, ch'a vëdda le régole globaj [[m:Special:MyLanguage/No open proxies|Gnun mandatari duvert]].",
 	"grant-checkuser": "Acede ai dàit ëd verificator",
 	"wikimedia-statslink": "Statìstiche",
-	"wikimedia-cookiestatement": "Diciarassion an sij bëscotin"
+	"wikimedia-cookiestatement": "Diciarassion an sij bëscotin",
+	"wikimedia-help-translate-prompt": "Veul-lo giuté a volté? [$1 Volté ij mëssagi mancant]."
 }

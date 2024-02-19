@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "पृष्ठभूमि",
+	"wm-commonstrings-closed": "बन्द गरिएको",
+	"wm-commonstrings-connect": "जोडिनुहोस्",
+	"wm-commonstrings-events": "कार्यक्रमहरू",
+	"wm-commonstrings-objectives": "उद्देश्यहरू",
+	"wm-commonstrings-ongoing": "जारी",
+	"wm-commonstrings-open": "खुल्ला",
+	"wm-commonstrings-overview": "परिचय",
+	"wm-commonstrings-participate": "सहभागी हुनुहोस्",
+	"wm-commonstrings-reports": "प्रतिवेदनहरू",
+	"wm-commonstrings-questions": "प्रश्नहरू छन्?",
+	"wm-commonstrings-register-account": "खाता खोल्नुहोस्",
+	"wm-commonstrings-scope": "कार्यक्षेत्र",
+	"wm-commonstrings-seealso": "यी पनि हेर्नुहोस्",
+	"wm-commonstrings-staff": "कर्मचारी",
+	"wm-commonstrings-talktous": "हामीसँग कुरा गर्नुहोस्",
+	"wm-commonstrings-updates": "अपडेटहरू"
+}

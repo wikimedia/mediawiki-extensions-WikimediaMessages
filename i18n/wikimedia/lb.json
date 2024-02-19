@@ -153,6 +153,8 @@
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Fräi Wëssensdatebank",
+	"wikimedia-taglines-wikivoyage": "Fräie Reesguide",
 	"cant-delete-main-page": "D'Haaptsäit ka weder geläscht nach geréckelt ginn.",
 	"wikimedia-translationnotifications-signup-legal": "An deem Dir dës Informatiounen un d'Wikimedia Foundation gitt sidd Dir domat d'accord datt mir Iech a Verbindung mat der Iwwersetzung vun anere Sujete vum Wikimedia-Mouvement kontaktéiere kënnen, wa mir mengen de Sujet kéint Iech interesséieren. Dir sidd d'accord datt Är Donnéeën an de Vereenegte Staate vun Amerika gespäichert ginn an datt si eisen  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Dateschutzbestëmmungen] ënnerleien.",
 	"upload-more-photos-of-this-monument": "Méi Fotoe fir dëst Monument eroplueden",
@@ -206,5 +208,6 @@
 	"gadget-souspages-subpages": "Ënnersäiten",
 	"research-incentive-answer-positive": "Jo",
 	"ipinfo-global-contributions-url-label": "Global Kontributiounen",
-	"wikimedia-projects-label": "Wikimedia Projeten"
+	"wikimedia-projects-label": "Wikimedia Projeten",
+	"wikimedia-help-translate-prompt": "Wëllt Dir hëllefen z'iwwersetzen? [$1 Iwwersetzt d'Messagen déi feelen]."
 }

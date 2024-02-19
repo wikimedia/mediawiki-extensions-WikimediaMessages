@@ -7,6 +7,7 @@
 			"Nemo bis",
 			"Papuass",
 			"Silraks",
+			"Varnent",
 			"Xil",
 			"Yyy"
 		]
@@ -96,5 +97,8 @@
 	"eri-wlfilters-tour-intro-preferences-description": "Jebkurā brīdī dodies uz uzraugāmo rakstu sadaļu iestatījumos, lai atteiktos no uzlabotā uzraugāmo rakstu saraksta.",
 	"securepoll-dblist-securepollglobal": "Valdes vēlēšanas",
 	"wikimedia-statslink": "Statistika",
-	"wikimedia-cookiestatement": "Sīkdatņu deklarācija"
+	"wikimedia-cookiestatement": "Sīkdatņu deklarācija",
+	"wikimedia-help-translate-prompt": "Vēlies palīdzēt pārtulkot? [$1 Tulkot trūkstošos ziņojumus].",
+	"wikimedia-translation-disclaimer-nolink": "Lūdzu, ņemiet vērā: ja šī dokumenta angļu oriģinālvalodas versijā un tulkojumā ir atšķirīgas nozīmes vai interpretācijas, priekšroka ir oriģinālajai angļu valodas versijai.",
+	"wikimedia-translation-disclaimer-withlink": "Lūdzu, ņemiet vērā: ja šī dokumenta angļu oriģinālvalodas versijā un tulkojumā ir atšķirīgas nozīmes vai interpretācijas, priekšroka ir [[$1|oriģinālajai angļu valodas versijai]]."
 }

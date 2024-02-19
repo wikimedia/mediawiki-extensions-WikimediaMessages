@@ -8,6 +8,7 @@
 			"Pols12",
 			"Sovichet",
 			"Thearith",
+			"Varnent",
 			"គីមស៊្រុន",
 			"វ័ណថារិទ្ធ"
 		]
@@ -84,8 +85,11 @@
 	"wikibase-otherprojects-wikiversity": "វិគីសាកលវិទ្យាល័យ",
 	"wikibase-otherprojects-wikivoyage": "វិគីទេសចរណ៍",
 	"wikibase-otherprojects-wiktionary": "​វិគីនានុក្រម",
+	"wikimedia-taglines-wikidata": "ប្រភពមូលដ្ឋានទិន្នន័យសេរី",
+	"wikimedia-taglines-wikivoyage": "មគ្គុទេសក៍ទេសចរណ៍សេរី",
 	"cant-delete-main-page": "អ្នកមិនអាចលុបចោលឬប្ដូរទីតាំងទំព័រដើមបានទេ។",
 	"wikimedia-developers": "អ្នកសរសេរកូដ",
 	"wikimedia-statslink": "ស្ថិតិ",
-	"ipinfo-feedback-button-label": "ផ្ដល់មតិយោបល់"
+	"ipinfo-feedback-button-label": "ផ្ដល់មតិយោបល់",
+	"wikimedia-help-translate-prompt": "ចង់ជួយបកប្រែមែនទេ? [$1 បកប្រែសារដែលបាត់]។"
 }

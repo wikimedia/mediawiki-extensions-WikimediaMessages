@@ -7,11 +7,13 @@
 			"Joxemai",
 			"Juele",
 			"Nemo bis",
+			"Nikki",
 			"Ruthven",
 			"Sator",
 			"Subi",
 			"Theklan",
 			"Unai Fdz. de Betoño",
+			"Varnent",
 			"Xabier Armendaritz",
 			"පසිඳු කාවින්ද"
 		]
@@ -151,6 +153,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikiespezieak",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikivoyage": "Doako bidaia-gida",
 	"createacct-captcha-help-url": "{{ns:Project}}:Kontua eskatu",
 	"wikimedia-developers": "Garatzaileak",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokea $1 ( $2 ).\nEmandako arrazoia '' $3 '' da. \n\n* Blokearen hasiera: $4 \n* Blokearen iraungipena: $5 \n\nZure uneko IP helbidea $6 da .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
@@ -168,5 +171,7 @@
 	"securepoll-dblist-securepollglobal": "Batzordearen Hautaketa",
 	"wikimedia-statslink": "Estatistikak",
 	"wikimedia-cookiestatement": "Cookie adierazpena",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ez"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ez",
+	"gadget-souspages-subpages": "Azpiorrialdeak",
+	"wikimedia-help-translate-prompt": "Itzulpenak egin nahi dituzu? [$1 Itzuli falta diren mezuak]."
 }

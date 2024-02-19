@@ -1,8 +1,27 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Ver também"
+	"wm-commonstrings-background": "Antecedentes",
+	"wm-commonstrings-closed": "Fechado",
+	"wm-commonstrings-connect": "Conecte-se",
+	"wm-commonstrings-contactus": "Contacte-nos",
+	"wm-commonstrings-events": "Eventos",
+	"wm-commonstrings-objectives": "Objetivos",
+	"wm-commonstrings-ongoing": "Em progresso",
+	"wm-commonstrings-open": "Aberto",
+	"wm-commonstrings-overview": "Sinopse",
+	"wm-commonstrings-participate": "Participe",
+	"wm-commonstrings-reports": "Relatórios",
+	"wm-commonstrings-resolutions": "Resoluções",
+	"wm-commonstrings-questions": "Perguntas?",
+	"wm-commonstrings-register-account": "Registar conta",
+	"wm-commonstrings-scope": "Âmbito",
+	"wm-commonstrings-seealso": "Ver também",
+	"wm-commonstrings-staff": "Funcionários",
+	"wm-commonstrings-talktous": "Fale connosco",
+	"wm-commonstrings-updates": "Atualizações"
 }

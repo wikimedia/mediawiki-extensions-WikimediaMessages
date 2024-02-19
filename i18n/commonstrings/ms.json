@@ -5,9 +5,21 @@
 		]
 	},
 	"wm-commonstrings-background": "Latar belakang",
+	"wm-commonstrings-closed": "Tertutup",
+	"wm-commonstrings-connect": "Sambungkan",
 	"wm-commonstrings-events": "Acara",
+	"wm-commonstrings-objectives": "Objektif",
+	"wm-commonstrings-ongoing": "Sedang berlangsung",
+	"wm-commonstrings-open": "Terbuka",
 	"wm-commonstrings-overview": "Gambaran keseluruhan",
 	"wm-commonstrings-participate": "Menyertai",
 	"wm-commonstrings-reports": "Laporan",
-	"wm-commonstrings-seealso": "Lihat juga"
+	"wm-commonstrings-resolutions": "Resolusi",
+	"wm-commonstrings-questions": "Soalan?",
+	"wm-commonstrings-register-account": "Daftar akaun",
+	"wm-commonstrings-scope": "Rungkup",
+	"wm-commonstrings-seealso": "Lihat juga",
+	"wm-commonstrings-staff": "Kakitangan",
+	"wm-commonstrings-talktous": "Bincang dengan kami",
+	"wm-commonstrings-updates": "Kemaskinian"
 }

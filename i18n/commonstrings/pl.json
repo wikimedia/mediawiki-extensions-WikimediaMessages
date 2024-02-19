@@ -5,7 +5,24 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-background": "Wprowadzenie",
+	"wm-commonstrings-bylaws": "Statut",
+	"wm-commonstrings-closed": "Zamknięte",
+	"wm-commonstrings-connect": "Zamknięte",
+	"wm-commonstrings-contactus": "Kontakt",
+	"wm-commonstrings-events": "Wydarzenia",
+	"wm-commonstrings-objectives": "Cele",
 	"wm-commonstrings-ongoing": "Trwa",
+	"wm-commonstrings-open": "Otwarte",
+	"wm-commonstrings-overview": "Przegląd",
+	"wm-commonstrings-participate": "Uczestnictwo",
+	"wm-commonstrings-reports": "Raporty",
+	"wm-commonstrings-resolutions": "Uchwały",
+	"wm-commonstrings-questions": "Masz pytania?",
 	"wm-commonstrings-register-account": "Załóż konto",
-	"wm-commonstrings-seealso": "Zobacz też"
+	"wm-commonstrings-scope": "Zasięg",
+	"wm-commonstrings-seealso": "Zobacz też",
+	"wm-commonstrings-staff": "Pracownicy",
+	"wm-commonstrings-talktous": "Kontakt z nami",
+	"wm-commonstrings-updates": "Aktualizacje"
 }

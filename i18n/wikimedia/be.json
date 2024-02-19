@@ -198,5 +198,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Гэта ананімнае апытанне праводзіцца Фондам Вікімедыя. [https://meta.wikimedia.org/wiki/Community_Safety Чытайце больш] або праверце [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заяву аб канфідэнцыяльнасці].",
 	"gadget-souspages-subpages": "Падстаронкі",
-	"wikimedia-projects-label": "Праекты Вікімедыі"
+	"wikimedia-projects-label": "Праекты Вікімедыі",
+	"wikimedia-help-translate-prompt": "Хочаце дапамагчы з перакладам? [$1 Перакладзеце астатнія старонкі]."
 }

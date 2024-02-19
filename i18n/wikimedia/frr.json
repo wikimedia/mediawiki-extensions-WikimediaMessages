@@ -3,7 +3,8 @@
 		"authors": [
 			"Murma174",
 			"Nemo bis",
-			"Pyt"
+			"Pyt",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia tisangen",
@@ -184,5 +185,6 @@
 	"right-viewdeletedfile": "Stregen datein an sidjen uun a nöömrümer „{{ns:file}}“ an „{{ns:file_talk}}“ uunluke",
 	"securepoll-dblist-securepollglobal": "Wool faan't sjüür",
 	"wikimedia-statslink": "Statistiken",
-	"wikimedia-cookiestatement": "Cookie ferhualen"
+	"wikimedia-cookiestatement": "Cookie ferhualen",
+	"wikimedia-help-translate-prompt": "Wel dü bi't auersaaten halep? [$1 Auersaat bööden]."
 }

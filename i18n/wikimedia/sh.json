@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wikimedia-taglines-wikidata": "Slobodna baza znanja",
+	"wikimedia-taglines-wikivoyage": "Slobodno gradivo vodiča za putovanja",
+	"ext-quicksurveys-name": "Brze ankete",
+	"wikimedia-projects-label": "Wikimedija projekti",
+	"wikimedia-help-translate-prompt": "Želite li pomoći s prevođenjem? [$1 Prevedite poruke koje nemaju prevod].",
+	"wikimedia-translation-disclaimer-nolink": "U slučaju nedosljednosti u značenju ili interpretaciji između izvorne engleske verzije i prijevoda, prednost ima engleska verzija.",
+	"wikimedia-translation-disclaimer-withlink": "U slučaju nedosljednosti u značenju ili interpretaciji između izvorne engleske verzije i prijevoda, prednost ima [[$1|engleska verzija]]."
+}

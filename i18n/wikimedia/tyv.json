@@ -4,6 +4,7 @@
 			"Agilight",
 			"Amire80",
 			"Karak-Kyzyl",
+			"Nikki",
 			"Riverman",
 			"Көпек",
 			"Монгуш Салим"
@@ -22,5 +23,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nКым блоктаан: $1 ($2).\nАйыткан чылдагааны: ''$3''.\n\n* Блоктуң эгелээни: $4\n* Блоктуң төнери: $5\n\nАмгы IP адрезиңер — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nКым дуглаан: $1 ($2).\nЧылдагааны: ''$3''.\n\n* Дуглаашкынның эгелээни: $4\n* Дуглаашкынның төнери: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Куки билдириишкини"
+	"wikimedia-cookiestatement": "Куки билдириишкини",
+	"gadget-souspages-subpages": "Адакы арыннар"
 }

@@ -6,7 +6,8 @@
 			"Filipinayzd",
 			"Geopoet",
 			"Kunokuno",
-			"ShimunUfesoj"
+			"ShimunUfesoj",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Mag-donate",
@@ -23,6 +24,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikisambit",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikibyahe",
+	"wikimedia-taglines-wikivoyage": "Libreng giya sa pagbiyahe",
 	"wikimedia-developers": "Mga Developer",
 	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|Binagat sa gabos na wiki]] an saimong IP address.'''\n\nGinibo ni $1 ($2) an pagbagat.\n\"$3\" an dahilan.\n\n* Puon kan pagbagat: $4\n* Nakabagat sagkod: $5\n\n$6 an IP adress mo ngunyan.\nPakilaag an gabos na mga detalye sa itaas sa mga query na gigibuhon mo.\n\nKung nagtutubod ka na nabagat ka na dai tinutuyo, mahihiling mo an mga dagdag na impormasyon asin tugon sa pankinaban na panundon na [[m:Special:MyLanguage/No open proxies|Mayong open proxy]].\nKun dai man, para pag-ulayan an pagbagat, mangyaring [[m:Steward requests/Global|magsurat nin review request sa Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''[[m:Special:MyLanguage/Global blocks|Binagat sa gabos na wiki]] an saro o labi pang proxy server na ginamit kan saimong request.'''\n\nGinibo ni $1 ($2) an pagbagat.\n\"$3\" an dahilan.\n\n* Puon kan pagbagat: $4\n* Nakabagat sagkod: $5\n\n$6 an IP adress mo ngunyan.\nPakilaag an gabos na mga detalye sa itaas sa mga query na gigibuhon mo.\n\nKung nagtutubod ka na nabagat ka na dai tinutuyo, mahihiling mo an mga dagdag na impormasyon asin tugon sa pankinaban na panundon na [[m:Special:MyLanguage/No open proxies|Mayong open proxy]].\nKun dai man, para pag-ulayan an pagbagat, mangyaring [[m:Steward requests/Global|magsurat nin review request sa Meta-Wiki]].",

@@ -3,6 +3,7 @@
 		"authors": [
 			"AminSanaei",
 			"V6rg",
+			"Varnent",
 			"شیخ"
 		]
 	},
@@ -12,5 +13,6 @@
 	"wikibase-sitelinks-wikiquote": "ويکي بؤته",
 	"wikibase-sitelinks-wikisource": "ويکي سربس",
 	"wikibase-sitelinks-wikivoyage": "ويکي سفر",
-	"wikimedia-developers": "تؤسعه‌دأنکسؤن"
+	"wikimedia-developers": "تؤسعه‌دأنکسؤن",
+	"wikimedia-help-translate-prompt": "خأن واگردانه بال بزنين؟ [$1 واگردان نۊبؤ پيغامؤنه واگردان بکۊنين]."
 }

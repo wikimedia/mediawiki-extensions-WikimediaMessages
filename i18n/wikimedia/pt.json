@@ -34,6 +34,7 @@
 			"Scblr",
 			"Sir Lestaty de Lioncourt",
 			"TAndic (WMF)",
+			"Varnent",
 			"Vitorvicentevalente",
 			"Waldir",
 			"Yanguas",
@@ -263,6 +264,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multilingue",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Base de conhecimento livre",
+	"wikimedia-taglines-wikivoyage": "Guia de viagens livre",
 	"apihelp-wbsearchentities-paramvalue-profile-language": "Um perfil para pesquisar elementos sobre línguas naturais.",
 	"apihelp-query+wbsearch-paramvalue-profile-language": "Um perfil para pesquisar elementos sobre línguas naturais.",
 	"cant-delete-main-page": "Não pode apagar ou mover a página principal.",
@@ -376,5 +379,10 @@
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement declaração de privacidade] deste inquérito.",
 	"readinglists-import-app": "Para importar esta lista de leitura, instale a versão mais recente da aplicação móvel da Wikipédia:",
 	"readinglists-list-empty-message": "Pode importar esta lista instalando a aplicação da Wikipédia.",
-	"ipinfo-global-contributions-url-label": "Contribuições globais"
+	"ipinfo-global-contributions-url-label": "Contribuições globais",
+	"wikimedia-projects-label": "Projetos da Wikimedia",
+	"wikimedia-help-translate-prompt": "Quer ajudar a traduzir? [$1 Traduza as mensagens que faltam].",
+	"wikimedia-nutshell-page-intro": "Esta página em poucas palavras: $1",
+	"wikimedia-translation-disclaimer-nolink": "Tenha em atenção que, no caso de ocorrerem diferenças de significado ou interpretação entre a versão inglesa original desta Política de Privacidade de Doadores e uma tradução, prevalece a versão inglesa original.",
+	"wikimedia-translation-disclaimer-withlink": "Tenha em atenção que, no caso de ocorrerem diferenças de significado ou interpretação entre a versão inglesa original desta Política de Privacidade de Doadores e uma tradução, prevalece a [[$1|versão inglesa original]]."
 }

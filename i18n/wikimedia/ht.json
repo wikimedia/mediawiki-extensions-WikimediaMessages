@@ -5,7 +5,8 @@
 			"Bugoslav",
 			"Kitanago",
 			"Masterches",
-			"Tisave"
+			"Tisave",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Fè yon don",
@@ -22,5 +23,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlòk la fèt pa $1 ($2).\nRezon yo bay la se ''$3''.\n\n* Kòmansman blòk : $4\n* Ekspirasyon blòk : $5\n\nAdrès IP ou ye kounye a se $6.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlòk la te fèt pa $1 ($2).\nRezon ki fè la yo bay se ''$3''.\n\n* Kòmansman blòk : $4\n* Ekspirasyon blòk : $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Estatistik",
-	"wikimedia-cookiestatement": "Deklarasyon sou temwen (cookies) yo"
+	"wikimedia-cookiestatement": "Deklarasyon sou temwen (cookies) yo",
+	"wikimedia-help-translate-prompt": "Vle ede tradui? [$1 Tradui mesaj yo ki manke]."
 }

@@ -12,12 +12,14 @@
 			"Mihxil",
 			"Mirin",
 			"Nemo bis",
+			"Nikki",
 			"Petrus Adamus",
 			"Psychoslave",
 			"Renardo",
 			"Robin van der Vliet",
 			"Spenĉjo",
 			"Tlustulimu",
+			"Varnent",
 			"Yekrats",
 			"YvesNevelsteen",
 			"Ziko"
@@ -149,6 +151,8 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Komunejo",
 	"wikibase-sitelinks-sitename-species": "Vikispecioj",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikidatumoj",
+	"wikimedia-taglines-wikidata": "Strukturitaj datumoj",
+	"wikimedia-taglines-wikivoyage": "Informoj pri vojaĝaj celoj",
 	"cant-delete-main-page": "Vi ne povas forigi aŭ movi la ĉefpaĝo.",
 	"wikimedia-translationnotifications-signup-legal": "Donante ĉi tiun informon al la Fonduso Wikimedia, vi konsentas kontakti vin pri tradukoj aŭ aliaj temoj rilataj al la Wikimedia-movado, kiun ni konsideras esti interesa al vi. Vi konsentas ke via datumoj estos konservita en Usono kaj estas sub nia [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy regularo pri privateco].",
 	"wikimedia-developers": "Programistoj",
@@ -160,5 +164,7 @@
 	"interlanguage-link-wikipedia": "Vikipedio",
 	"eri-rcfilters-tour-help": "Lerni plu",
 	"wikimedia-statslink": "Statistikoj",
-	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj"
+	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj",
+	"gadget-souspages-subpages": "Subpaĝoj",
+	"wikimedia-help-translate-prompt": "Ĉu vi deziras helpi traduki? [$1 Traduku mankantajn mesaĝojn]."
 }

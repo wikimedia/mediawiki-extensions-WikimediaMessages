@@ -11,6 +11,7 @@
 			"RanjithSutari",
 			"Ravichandra",
 			"Suryavnk",
+			"Varnent",
 			"Veeven",
 			"రహ్మానుద్దీన్"
 		]
@@ -156,8 +157,15 @@
 	"wikimedia-switchover-read-only": "ప్రస్తుతం మీరు దిద్దుబాట్లు చెయ్యలేరు. నిర్వహణ జరుగుతూండడమే దీనికి కారణం. మీ పాఠ్యాన్ని కాపీ చేసి, భద్రపరచుకుని, కొద్ది నిమిషాల తరువాత మళ్ళీ ప్రయత్నించండి.",
 	"ipinfo-feedback-button-label": "ఫీడ్‌బ్యాకు ఇవ్వండి",
 	"ext-quicksurveys-tst-internal-survey-question": "గత 30 రోజుల్లో, {{SITENAME}} ({{SERVERNAME}}) లో కృషి చెయ్యడంలో మీకు అభద్రతా భావం గానీ,  అసౌకర్యం గానీ కలిగిందా?",
+	"ext-quicksurveys-name": "శీఘ్ర సర్వేలు",
 	"ext-quicksurveys-tst-internal-survey-privacy-policy": "ఈ అజ్ఞాత సర్వేను వికీమీడియా ఫౌండేషను చేస్తోంది. [https://meta.wikimedia.org/wiki/Community_Safety మరింత తెలుసుకోండి] లేదా [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement గోప్యతా స్టేట్‌మెంటును] చూడండి.",
 	"ext-quicksurveys-tst-internal-survey-additional-info": "మీరు వేధింపులకు లోనైనా, వేధింపులను గమనించినా [https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources ఈ వనరులను చూడండి].",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "మీ ఫీడ్‌బ్యాక్‌కు ధన్యవాదాలు.",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "గత 30 రోజుల్లో, {{SITENAME}} ({{SERVERNAME}}) లో కృషి చెయ్యడంలో మీకు అభద్రతా భావం గానీ,  అసౌకర్యం గానీ కలిగిందా?"
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "గత 30 రోజుల్లో, {{SITENAME}} ({{SERVERNAME}}) లో కృషి చెయ్యడంలో మీకు అభద్రతా భావం గానీ,  అసౌకర్యం గానీ కలిగిందా?",
+	"wikimedia-projects-label": "వికీమీడియా ప్రాజెక్టులు",
+	"wikimedia-movement-affiliates-shortlabel": "ఉద్యమ అనుబంధ సంస్థలు",
+	"wikimedia-news-label": "వికీమీడియా వార్తలు",
+	"wikimedia-help-translate-prompt": "అనువాదంలో సాయం చేయాలనుకుంటున్నారా? [$1 తప్పిపోయిన సందేశాలను అనువదించండి]",
+	"wikimedia-translation-disclaimer-nolink": "ఈ కంటెంట్ యొక్క అసలు ఆంగ్ల సంస్కరణ మరియు అనువాదం మధ్య అర్థం లేదా వ్యాఖ్యానంలో ఏవైనా తేడాలు సంభవించినప్పుడు, అసలు ఇంగ్లీష్ వెర్షన్ ప్రాధాన్యతను సంతరించుకుంటుందని దయచేసి గమనించండి.",
+	"wikimedia-translation-disclaimer-withlink": "ఈ కంటెంట్ యొక్క అసలు ఆంగ్ల సంస్కరణ మరియు అనువాదం మధ్య అర్థం లేదా వ్యాఖ్యానంలో ఏవైనా తేడాలు సంభవించినప్పుడు, [[$1|అసలు ఇంగ్లీష్ వెర్షన్]] ప్రాధాన్యతను సంతరించుకుంటుందని దయచేసి గమనించండి."
 }

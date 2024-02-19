@@ -273,6 +273,9 @@
 	"wikibase-sitelinks-sitename-metawiki": "ميتا ويكي",
 	"wikibase-sitelinks-sitename-species": "ويكي الأنواع",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويكي بيانات",
+	"wikimedia-taglines-wikidata": "قاعدة بيانات حرة",
+	"wikimedia-taglines-wikinews": "مصدر الأخبار الحرة",
+	"wikimedia-taglines-wiktionary": "قاموس حرة",
 	"cant-delete-main-page": "لا يمكنك حذف الصفحة الرئيسية أو نقلها.",
 	"wikimedia-translationnotifications-signup-legal": "أنت توافق على أنه من خلال تزويد مؤسسة ويكيميديا ​​بهذه المعلومات، قد نتصل بك فيما يتعلق بالترجمات أو الموضوعات الأخرى المتعلقة بحركة ويكيميديا ​​التي نعتقد أنها قد تهمك، أنت توافق على تخزين بياناتك في الولايات المتحدة الأمريكية وأن تخضع [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy لسياسة الخصوصية].",
 	"upload-more-photos-of-this-monument": "قم برفع المزيد من الصور لهذا الأثر",
@@ -338,6 +341,7 @@
 	"right-viewdeletedfile": "رؤية الملفات والصفحات المحذوفة في النطاقين {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخاب مجلس الإدارة",
 	"wikimedia-statslink": "إحصائيات",
+	"wikimedia-wikistats-label": "ويكي إحصاءات",
 	"wikimedia-cookiestatement": "بيان تعريف الارتباطات",
 	"ext-quicksurveys-performance-internal-survey-question": "هل تم تحميل هذه الصفحة بسرعة كافية؟",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "لمزيد من المعلومات; راجع [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement privacy بيان هذا الاستطلاع].",
@@ -377,5 +381,11 @@
 	"research-incentive-privacy": "اطلع على سياسة الخصوصية الخاصة بنا وتعرف على المزيد حول برنامج البحث [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ar هنا]",
 	"research-incentive-confirm-msg": "شكرًا!",
 	"ipinfo-global-contributions-url-label": "مساهمات عالمية",
-	"wikimedia-projects-label": "مشاريع ويكيميديا"
+	"wikimedia-projects-label": "مشاريع ويكيميديا",
+	"wikimedia-movement-affiliates-shortlabel": "الجهات الشقيقة للحركة",
+	"wikimedia-news-label": "مدونة أخبار ويكيميديا",
+	"wikimedia-help-translate-prompt": "هل تود المساعدة في الترجمة؟ [$1 ترجم الرسائل الناقصة].",
+	"wikimedia-nutshell-page-intro": "هذه الصفحة باختصار: $1",
+	"wikimedia-translation-disclaimer-nolink": "يرجى ملاحظة أنه في حال وجود اختلافات في المعنى أو التفسير بين النص الإنجليزي الأصلي لهذه الوثيقة وترجمتها، تعطى الأولوية للنص الإنجليزي الأصلي.",
+	"wikimedia-translation-disclaimer-withlink": "يرجى ملاحظة أنه في حال وجود اختلافات في المعنى أو التفسير بين النص الإنجليزي الأصلي لهذه الوثيقة وترجمتها، تعطى الأولوية [[$1|للنص الإنجليزي الأصلي]]."
 }

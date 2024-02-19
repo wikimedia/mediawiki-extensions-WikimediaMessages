@@ -14,6 +14,7 @@
 			"Smooth O",
 			"Srdjan m",
 			"Srđan",
+			"Varnent",
 			"Zoranzoki21",
 			"לערי ריינהארט"
 		]
@@ -199,5 +200,9 @@
 	"wikimedia-centralauth-contribs-locked": "Ovaj račun je globalno blokiran.\nZa više informacija, pogledajte [[m:Special:CentralAuth/$1|detalje o globalnom računu]].",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Izjava o kolačićima",
-	"querypage-updates-half-monthly": "Stranica se ažurira dvaput mjesečno."
+	"querypage-updates-half-monthly": "Stranica se ažurira dvaput mjesečno.",
+	"ext-quicksurveys-name": "Brze ankete",
+	"wikimedia-projects-label": "Wikimedia projekti",
+	"wikimedia-help-translate-prompt": "Želite pomoći? [$1 Prevedite poruke koje nedostaju].",
+	"wikimedia-nutshell-page-intro": "Ova stranica ukratko: $1"
 }

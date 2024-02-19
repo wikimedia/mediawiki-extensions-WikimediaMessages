@@ -249,6 +249,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Flerspråkiga Wikisource",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Den fria databasen",
+	"wikimedia-taglines-wikivoyage": "Den fria reseguiden",
 	"cant-delete-main-page": "Du kan inte radera eller flytta huvudsidan.",
 	"wikimedia-translationnotifications-signup-legal": "Du accepterar genom att tillhandahålla denna information till Wikimedia Foundation att vi får kontakta dig om översättningar eller andra ämnen relaterade till Wikimediarörelsen vi tror kan intressera dig. Du accepterar att din data kan sparas i USA och accepterar våra [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy integritetspolicy].",
 	"upload-more-photos-of-this-monument": "Ladda upp fler bilder på detta monument",
@@ -352,5 +354,9 @@
 	"readinglists-import-app-with-link": "<a href=\"$1\">Ladda ned</a> och installera den senaste versionen av Wikipedia-appen:",
 	"readinglists-list-empty-message": "Du kan importera denna lista genom att installera Wikipedia-appen.",
 	"ipinfo-global-contributions-url-label": "Globala bidrag",
-	"wikimedia-projects-label": "Wikimediaprojekt"
+	"wikimedia-projects-label": "Wikimediaprojekt",
+	"wikimedia-news-label": "Wikimedia-nyheter",
+	"wikimedia-help-translate-prompt": "Vill du hjälpa till att översätta? [$1 Översätt meddelanden som saknas].",
+	"wikimedia-translation-disclaimer-nolink": "Observera: Om det finns skillnader i betydelse eller tolkning mellan den engelska originalversionen av detta dokument och översättningen, har den engelska originalversionen företräde.",
+	"wikimedia-translation-disclaimer-withlink": "Observera: Om det finns skillnader i betydelse eller tolkning mellan den engelska originalversionen av detta dokument och översättningen, har den [[$1|engelska originalversionen]] företräde."
 }

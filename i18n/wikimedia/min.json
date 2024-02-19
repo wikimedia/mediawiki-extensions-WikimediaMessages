@@ -5,7 +5,9 @@
 			"David Wadie Fisher-Freberg",
 			"Iwan Novirion",
 			"Naval Scene",
-			"Nemo bis"
+			"Nemo bis",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Pasan spesifik Wikimedia",
@@ -120,6 +122,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikikutipan",
 	"wikibase-sitelinks-wikisource": "Wikisumber",
 	"wikibase-sitelinks-wikivoyage": "Wikiraun",
+	"wikimedia-taglines-wikidata": "Pusek pangatahuan bebas",
+	"wikimedia-taglines-wikivoyage": "Panduan wisata bebas",
 	"cant-delete-main-page": "Sanak indak dapek mangahapuih atau mamindahan palanta.",
 	"wikimedia-translationnotifications-signup-legal": "Jo mangagiah informasi ko ka Yayasan Wikimedia, Sanak satuju baso kami dapek manghubuangi Sanak takaik tajamahan atau topik lain nan bahubuangan jo garakan Wikimedia nan kami anggap paralu untuak Sanak katahui. Sanak satuju sado data Sanak disimpan di Amerika Sarikaik dan mamatuhi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy kabijakan privasi] kami.",
 	"upload-more-photos-of-this-monument": "Muek labiah banyak foto dari monumen ko",
@@ -128,5 +132,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''Alamaik IP Sanak alah [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n*Mulo disakek: $4\n*Bateh maso sakek: $5\n\nAlamaik IP Sanak kini adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo disakek: $4\n* Bateh maso sakek: $5\n\nAlamaik proksi nan disakek adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Panyatoan kuki"
+	"wikimedia-cookiestatement": "Panyatoan kuki",
+	"gadget-souspages-subpages": "Sublaman"
 }

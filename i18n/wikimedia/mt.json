@@ -7,7 +7,8 @@
 			"Leli Forte",
 			"Matma Rex",
 			"Nemo bis",
-			"ToniSant"
+			"ToniSant",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messaġġi speċifiki tal-Wikimedia",
@@ -92,6 +93,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-taglines-wikidata": "Ġabradati ta' għarfien b'xejn",
+	"wikimedia-taglines-wikivoyage": "Gwida tal-vjaġġar b'xejn",
 	"cant-delete-main-page": "Ma tistax tħassar jew tmexxi l-paġna prinċipali.",
 	"wikimedia-translationnotifications-signup-legal": "Inti taċċetta li meta tipprovdi din l-informazzjoni lill-Fondazzjoni Wikimedia aħna nkunu nistgħu nikkuntatjawk rigward traduzzjonijiet jew suġġetti li għandhom x'jaqsmu mal-moviment tal-Wikimedia u li naħsbu li jistgħu jinteressawk. Inti taqbel li d-dejta tiegħek tista' tinżamm fl-Istati Uniti tal-Amerika u hi suġġetta għall-[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy politika tal-privatezza] tagħna.",
 	"wikimedia-developers": "Żviluppaturi",

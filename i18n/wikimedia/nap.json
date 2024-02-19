@@ -6,7 +6,8 @@
 			"Cryptex",
 			"Finizio",
 			"Ruthven",
-			"Sannita"
+			"Sannita",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Donate",
@@ -33,5 +34,6 @@
 	"upload-form-label-not-own-work-message-commons": "Si nun tenite 'o copyright 'e stu file, o pure 'o vulite lassà libbero cu n'ata licienza, cunziderate 'ausà 'o [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
 	"upload-form-label-not-own-work-local-commons": "Putite pure tentà 'e ausà [[Special:Upload|'a paggena 'e carreche 'e {{SITENAME}}]], si stu sito ve premmettesse 'e carrecà llanno pe' bbìa d' 'e pulitiche.",
 	"wikimedia-statslink": "Statistiche",
-	"wikimedia-cookiestatement": "Dicerazzione ncopp'ê cookie"
+	"wikimedia-cookiestatement": "Dicerazzione ncopp'ê cookie",
+	"wikimedia-help-translate-prompt": "Vulite ajutà cu 'a localizzazzione? [$1 Traduce 'e mmasciate mancante]."
 }

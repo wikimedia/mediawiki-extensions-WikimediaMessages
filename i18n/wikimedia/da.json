@@ -15,6 +15,7 @@
 			"Masz",
 			"MuratTheTurkish",
 			"Nemo bis",
+			"Nikki",
 			"Peter Alberti",
 			"Saederup92",
 			"Sarrus",
@@ -178,6 +179,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Gratis videnbase",
+	"wikimedia-taglines-wikivoyage": "Gratis rejseguide",
 	"cant-delete-main-page": "Du kan ikke slette eller flytte forsiden.",
 	"wikimedia-translationnotifications-signup-legal": "Du accepterer, at du ved at give Wikimedia Foundation denne information, må vi kontakte dig vedrørende oversættelse af andre emner relateret til Wikimedia Foundations, som vi tror vil interessere dig. Du accepterer at data kan lagres i USA og er underlagt vores [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy fortrolighedspolitik].",
 	"upload-more-photos-of-this-monument": "Overfør flere fotos af monumentet",
@@ -198,5 +201,10 @@
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Cookie-erklæring",
 	"querypage-updates-half-monthly": "Denne side opdateres to gange om måneden.",
-	"wikimedia-projects-label": "Wikimedia projekter"
+	"gadget-souspages-subpages": "Undersider",
+	"wikimedia-projects-label": "Wikimedia projekter",
+	"wikimedia-help-translate-prompt": "Vil du hjælpe med at oversætte? [$1 Oversæt de manglende beskeder].",
+	"wikimedia-nutshell-page-intro": "Denne side i en nøddeskal: $1",
+	"wikimedia-translation-disclaimer-nolink": "Bemærk, at i tilfælde af uoverensstemmelser, i forhold til betydningen eller fortolkningen, mellem den oprindelige engelsksprogede version af dette dokument og en oversættelse, har den oprindelige engelsksprogede version forrang.",
+	"wikimedia-translation-disclaimer-withlink": "Bemærk, at i tilfælde af uoverensstemmelser, i forhold til betydningen eller fortolkningen, mellem den oprindelige engelsksprogede version af dette dokument og en oversættelse, har den [[$1|oprindelige engelsksprogede version]] forrang."
 }

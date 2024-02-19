@@ -7,7 +7,8 @@
 			"Kandar",
 			"MinecraftAustralia",
 			"Pijri Paijar",
-			"Uchup19"
+			"Uchup19",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Talatah-talatah spesifik Wikimedia",
@@ -50,11 +51,15 @@
 	"wikibase-sitelinks-wikiquote": "Wikicutatan",
 	"wikibase-sitelinks-wikisource": "Wikipabukon",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-taglines-wikivoyage": "Panduan pelesir bébas",
 	"wikimedia-developers": "Pamekar",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\nAlamat IP anjeun ayeuna $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",
 	"eri-rcfilters-tour-highlight-title": "Hasil kodeu warna anjeun",
 	"eri-rcfilters-tour-highlight-button": "Okéh, ngarti",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Pernyataan réréméh"
+	"wikimedia-cookiestatement": "Pernyataan réréméh",
+	"ext-quicksurveys-name": "Surveina nu Gancang",
+	"wikimedia-projects-label": "Proyékna Wikimédiana",
+	"wikimedia-help-translate-prompt": "Daék mantuan narjamahkeun? [$1 Tarjamahkeun talatah nu can aya]."
 }

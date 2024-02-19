@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Varnent",
 			"ऐक्टिवेटेड्"
 		]
 	},
@@ -15,5 +16,8 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nई प्रतिबन्ध $1 ($2) द्वारा कैल गेलीहे ।\nप्रतिबन्ध करेके कारण: '$3'।\n\n* प्रतिबन्धके आरम्भ: $4\n* प्रतिबन्धके अन्त: $5\n\nअपनेके प्रस्तुत आईपी पता $6 हे ।\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nई प्रतिबन्ध $1 ($2) द्वारा कैल गेलहे ।\nप्रतिबन्ध करेके कारण: '$3'।\n\n* प्रतिबन्धके आरम्भ:$4\n* प्रतिबन्धके समाप्ती: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "आँकड़ा",
-	"wikimedia-cookiestatement": "कुकीके बर्णन"
+	"wikimedia-cookiestatement": "कुकीके बर्णन",
+	"ext-quicksurveys-name": "सर्बेक्षण",
+	"wikimedia-projects-label": "बिकिमीडिया परियोजना",
+	"wikimedia-help-translate-prompt": "अनुबादमे सहायता करेके चाहही? [$1 बचल सन्देसके अनुबाद करी]।"
 }

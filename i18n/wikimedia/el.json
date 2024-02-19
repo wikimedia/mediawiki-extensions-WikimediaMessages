@@ -28,6 +28,7 @@
 			"Protnet",
 			"Spyridon Eftychios Kokotos",
 			"SucreRouge",
+			"Varnent",
 			"Xaris333",
 			"ZaDiak",
 			"Αντιγόνη",
@@ -218,6 +219,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Πολύγλωσση Βικιθήκη",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Γνωσιακή βάση",
+	"wikimedia-taglines-wikivoyage": "Τουριστικός οδηγός",
 	"cant-delete-main-page": "Δεν μπορείτε να διαγράψετε ή να μετακινήσετε την κύρια σελίδα.",
 	"wikimedia-translationnotifications-signup-legal": "Συμφωνείτε ότι παρέχοντας στο Ίδρυμα Wikimedia αυτές τις πληροφορίες μπορούμε να επικοινωνήσουμε μαζί σας σχετικά με μεταφράσεις ή άλλα θέματα σχετικά με το κίνημα Wikimedia που πιστεύουμε ότι μπορεί να σας ενδιαφέρουν. Συμφωνείτε ότι οι πληροφορίες σχετικά με εσάς θα αποθηκευτούν στις ΗΠΑ και υπόκεινται στην [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/el πολιτική ιδιωτικότητας] που έχουμε.",
 	"upload-more-photos-of-this-monument": "Ανεβάσετε περισσότερες φωτογραφίες από αυτό το μνημείο",
@@ -274,5 +277,10 @@
 	"querypage-updates-half-monthly": "Οι ενημερώσεις για αυτήν τη σελίδα εκτελούνται δύο φορές το μήνα.",
 	"querypage-updates-monthly": "Οι ενημερώσεις για αυτήν τη σελίδα εκτελούνται μια φορά το μήνα.",
 	"protect-level-editautopatrolprotected": "Να επιτρέπονται μόνο οι autopatrollers",
-	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Σας ευχαριστούμε για τα σχόλια σας."
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Σας ευχαριστούμε για τα σχόλια σας.",
+	"wikimedia-projects-label": "Εγχειρήματα του Wikimedia",
+	"wikimedia-help-translate-prompt": "Θέλετε να βοηθήσετε στη μετάφραση; [$1 Μεταφράστε τα μηνύματα που λείπουν].",
+	"wikimedia-nutshell-page-intro": "Αυτή η σελίδα με λίγα λόγια: $1",
+	"wikimedia-translation-disclaimer-nolink": "Παρακαλούμε να έχετε υπόψη ότι σε περίπτωση οποιασδήποτε διαφοράς στο νόημα ή την ερμηνεία ανάμεσα στην πρωτότυπη Αγγλική έκδοση αυτής της οδηγίας και κάποιας μετάφρασης, υπερισχύει η πρωτότυπη Αγγλική έκδοση.",
+	"wikimedia-translation-disclaimer-withlink": "Παρακαλούμε να έχετε υπόψη ότι σε περίπτωση οποιασδήποτε διαφοράς στο νόημα ή την ερμηνεία ανάμεσα στην πρωτότυπη Αγγλική έκδοση αυτής της οδηγίας και κάποιας μετάφρασης, υπερισχύει η [[$1|πρωτότυπη Αγγλική έκδοση]]."
 }

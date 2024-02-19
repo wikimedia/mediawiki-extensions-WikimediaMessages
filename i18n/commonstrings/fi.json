@@ -5,8 +5,10 @@
 		]
 	},
 	"wm-commonstrings-background": "Taustaa",
+	"wm-commonstrings-bylaws": "Säännöt",
 	"wm-commonstrings-closed": "Suljettu",
 	"wm-commonstrings-connect": "Yhdistä",
+	"wm-commonstrings-contactus": "Ota yhteyttä",
 	"wm-commonstrings-events": "Tapahtumat",
 	"wm-commonstrings-objectives": "Tavoitteet",
 	"wm-commonstrings-ongoing": "Jatkuva",
@@ -14,6 +16,7 @@
 	"wm-commonstrings-overview": "Yleiskatsaus",
 	"wm-commonstrings-participate": "Osallistu",
 	"wm-commonstrings-reports": "Raportit",
+	"wm-commonstrings-resolutions": "Päätökset",
 	"wm-commonstrings-questions": "Kysyttävää?",
 	"wm-commonstrings-register-account": "Luo tunnus",
 	"wm-commonstrings-scope": "Laajuus",

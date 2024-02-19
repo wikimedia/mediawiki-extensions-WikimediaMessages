@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "ਹੋਰ ਵੇਖੋ"
+	"wm-commonstrings-background": "ਪਿਛੋਕੜ",
+	"wm-commonstrings-events": "ਸਮਾਗਮ",
+	"wm-commonstrings-objectives": "ਟੀਚਾ",
+	"wm-commonstrings-overview": "ਸੰਖੇਪ",
+	"wm-commonstrings-participate": "ਹਿੱਸਾ ਲਓ",
+	"wm-commonstrings-reports": "ਰਿਪੋਰਟਾਂ",
+	"wm-commonstrings-questions": "ਸਵਾਲ?",
+	"wm-commonstrings-register-account": "ਖਾਤਾ ਰਜਿਸਟਰ ਕਰੋ",
+	"wm-commonstrings-scope": "ਕਾਰਜ ਖੇਤਰ",
+	"wm-commonstrings-seealso": "ਹੋਰ ਵੇਖੋ",
+	"wm-commonstrings-updates": "ਅੱਪਡੇਟ"
 }

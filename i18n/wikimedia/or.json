@@ -9,7 +9,8 @@
 			"MKar",
 			"Nemo bis",
 			"Odisha1",
-			"Psubhashish"
+			"Psubhashish",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "ଉଇକିମିଡ଼ିଆ ନିର୍ଦ୍ଦିଷ୍ଟ ସନ୍ଦେଶ",
@@ -131,5 +132,6 @@
 	"wikimedia-statslink": "ପରିସଂଖ୍ୟାନ",
 	"wikimedia-cookiestatement": "କୁକି ବିବରଣୀ",
 	"querypage-updates-half-monthly": "ଏହି ପୃଷ୍ଠାଟି ମାସକୁ ଦୁଇଥର ଅପଡେଟ ହୋଇଥାଏ",
-	"querypage-updates-monthly": "ଏହି ପୃଷ୍ଟାଟି ମାସକୁ ଥରେ ଅପଡେଟ ହୋଇଥାଏ"
+	"querypage-updates-monthly": "ଏହି ପୃଷ୍ଟାଟି ମାସକୁ ଥରେ ଅପଡେଟ ହୋଇଥାଏ",
+	"wikimedia-help-translate-prompt": "ଅନୁବାଦ କରିବାକୁ ଚାହାଁନ୍ତି? [$1 ବଳକା ସନ୍ଦେଶଗୁଡ଼ିକୁ ଅନୁବାଦ କରନ୍ତୁ]."
 }

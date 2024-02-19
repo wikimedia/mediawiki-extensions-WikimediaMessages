@@ -6,8 +6,10 @@
 		]
 	},
 	"wm-commonstrings-background": "Предыстория",
+	"wm-commonstrings-bylaws": "Устав",
 	"wm-commonstrings-closed": "Закрыто",
 	"wm-commonstrings-connect": "Связаться",
+	"wm-commonstrings-contactus": "Свяжитесь с нами",
 	"wm-commonstrings-events": "Мероприятия",
 	"wm-commonstrings-objectives": "Задачи",
 	"wm-commonstrings-ongoing": "В процессе",
@@ -15,6 +17,7 @@
 	"wm-commonstrings-overview": "Обзор",
 	"wm-commonstrings-participate": "Принять участие",
 	"wm-commonstrings-reports": "Отчёты",
+	"wm-commonstrings-resolutions": "Решения",
 	"wm-commonstrings-questions": "Вопросы?",
 	"wm-commonstrings-register-account": "Зарегистрировать учётную запись",
 	"wm-commonstrings-scope": "Область",

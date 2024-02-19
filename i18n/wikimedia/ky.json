@@ -66,6 +66,11 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Көп тилдүү Викибулак",
 	"wikibase-sitelinks-sitename-species": "Викитүрлөр",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викимаалымат",
+	"wikimedia-taglines-sources": "эркин тексттердин китепканасы",
+	"wikimedia-taglines-wikidata": "ачык билим базасы",
+	"wikimedia-taglines-wikinews": "эркин лицензияланган жаңылыктар",
+	"wikimedia-taglines-wikivoyage": "саякат колдонмосу",
+	"wikimedia-taglines-wiktionary": "эркин лицензияланган сөздүк",
 	"wikimedia-developers": "Түзүүчүлөр",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБөгөттөгөн колдонуучу: $1 ($2)\nКөрсөтүлгөн себеп: ''$3''\n\n* Бөгөттөөнүн башталышы: $4\n* Бөгөттөөнүн аякташы: $5\n\nАзыркы IP-дарегиңиз: $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБөгөттөгөн колдонуучу: $1 ($2)\nКөрсөтүлгөн себеп: ''$3''\n\n* Бөгөттөөнүн башталышы: $4\n* Бөгөттөөнүн аякташы: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
@@ -85,5 +90,8 @@
 	"research-incentive-answer-negative": "Жок",
 	"research-incentive-confirm-msg": "Рахмат !",
 	"restriction-level-edit-legal": "мыйзам тарабынан корголгон",
-	"wikimedia-projects-label": "Викимедиа долбоорлору"
+	"wikimedia-projects-label": "Викимедиа долбоорлору",
+	"wikimedia-help-translate-prompt": "[$1 Которула элек билдирүүлөрдү кыргыз тилине которуп көмөктөшсөңүз болот].",
+	"wikimedia-translation-disclaimer-nolink": "Бул котормонун англис тилиндеги түп нуска менен маңызда же чечмелөөдө кандайдыр бир айырмачылыктар болсо, англис тилиндеги түп нуска артыкчылыкка ээ экендигин эске алыңыз.",
+	"wikimedia-translation-disclaimer-withlink": "Бул котормонун англис тилиндеги түп нуска менен маңызда же чечмелөөдө кандайдыр бир айырмачылыктар болсо, [[$1|англис тилиндеги түп нуска]] артыкчылыкка ээ экендигин эске алыңыз."
 }

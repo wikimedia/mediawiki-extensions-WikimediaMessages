@@ -11,7 +11,8 @@
 			"Nemo bis",
 			"NoiX180",
 			"Pras",
-			"Sumbukompor"
+			"Sumbukompor",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Layang rinci Wikimédia",
@@ -221,5 +222,6 @@
 	"right-extendedconfirmed": "Besut kaca sing winates",
 	"eri-rcfilters-tour-help": "Sinaoni candhaké",
 	"wikimedia-statslink": "Setatistik",
-	"wikimedia-cookiestatement": "Pranyatan kuki"
+	"wikimedia-cookiestatement": "Pranyatan kuki",
+	"wikimedia-help-translate-prompt": "Péngin ngéwangi mertal? [$1 Pertalen layang-layang kang durung ana]."
 }

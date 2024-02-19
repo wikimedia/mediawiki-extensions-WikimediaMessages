@@ -9,7 +9,8 @@
 			"Kuldeepburjbhalaike",
 			"Pols12",
 			"Satdeep gill",
-			"Sony dandiwal"
+			"Sony dandiwal",
+			"Varnent"
 		]
 	},
 	"sitesupport": "ਦਾਨ",
@@ -44,6 +45,8 @@
 	"wikibase-otherprojects-wikimania": "ਵਿਕੀਮੇਨੀਆ",
 	"wikibase-sitelinks-sitename-species": "ਵਿਕੀਕਿਸਮ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ਵਿਕੀਡਾਟਾ",
+	"wikimedia-taglines-wikidata": "ਮੁਫ਼ਤ ਗਿਆਨ ਅਧਾਰ",
+	"wikimedia-taglines-wikivoyage": "ਮੁਫ਼ਤ ਯਾਤਰਾ ਰਾਹਬਰ",
 	"createacct-captcha-help-url": "{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ",
 	"wikimedia-developers": "ਵਿਕਾਸਕਾਰ",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ( $2 ) ਦੁਆਰਾ ਬਲੌਕ ਕੀਤਾ ਗਿਆ ਸੀ।\nਇਸਦਾ ਕਾਰਨ '' $3 '' ਹੈ। \n\n* ਬਲੌਕ ਦੀ ਸ਼ੁਰੂਆਤ: $4 \n* ਬਲੌਕ ਦੀ ਸਮਾਪਤੀ: $5 \n\nਤੁਹਾਡਾ ਮੌਜੂਦਾ IP ਪਤਾ $6 ਹੈ।\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
@@ -51,5 +54,8 @@
 	"interlanguage-link-wikipedia": "ਵਿਕੀਪੀਡੀਆ",
 	"wikimedia-statslink": "ਅੰਕੜੇ",
 	"wikimedia-cookiestatement": "ਕੂਕੀ ਤਫਸੀਲਾਂ",
-	"ext-quicksurveys-tst-internal-survey-confirm-msg": "ਤੁਹਾਡੇ ਫ਼ੀਡਬੈਕ ਲਈ ਮਿਹਰਬਾਨੀ।"
+	"ext-quicksurveys-name": "ਤੇਜ਼ ਸਰਵੇਖਣ",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "ਤੁਹਾਡੇ ਫ਼ੀਡਬੈਕ ਲਈ ਮਿਹਰਬਾਨੀ।",
+	"wikimedia-projects-label": "ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟ",
+	"wikimedia-help-translate-prompt": "ਤਰਜਮਾ ਕਰਨ ਵਿਚ ਮਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? [$1 ਬਾਕੀ ਰਹਿੰਦੇ ਸੁਨੇਹਿਆਂ ਦਾ ਤਰਜਮਾ ਕਰੋ]।"
 }

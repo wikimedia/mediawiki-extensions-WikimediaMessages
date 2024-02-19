@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Eleassar",
 			"Varnent"
 		]
 	},
 	"wm-commonstrings-background": "Ozadje",
 	"wm-commonstrings-closed": "Zaprto",
 	"wm-commonstrings-connect": "Poveži",
+	"wm-commonstrings-contactus": "Stik z nami",
 	"wm-commonstrings-events": "Dogodki",
 	"wm-commonstrings-objectives": "Cilji",
 	"wm-commonstrings-ongoing": "Poteka",
@@ -14,6 +16,7 @@
 	"wm-commonstrings-overview": "Pregled",
 	"wm-commonstrings-participate": "Sodeluj",
 	"wm-commonstrings-reports": "Poročila",
+	"wm-commonstrings-resolutions": "Sklepi",
 	"wm-commonstrings-questions": "Vprašanja?",
 	"wm-commonstrings-scope": "Področje",
 	"wm-commonstrings-seealso": "Glej tudi",

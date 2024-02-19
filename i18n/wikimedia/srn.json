@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Adfokati"
+			"Adfokati",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Yibi a finansi",
-	"tooltip-n-sitesupport": "Gi wi wan finansi"
+	"tooltip-n-sitesupport": "Gi wi wan finansi",
+	"wikimedia-help-translate-prompt": "Yu wani yepi nanga vertaalwerk? [$1 Yuvertaal a mankeri tori]."
 }

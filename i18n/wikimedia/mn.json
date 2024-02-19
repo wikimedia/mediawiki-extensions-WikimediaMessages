@@ -6,6 +6,7 @@
 			"Enkhsaihan2005",
 			"MuratTheTurkish",
 			"Sembuk",
+			"Varnent",
 			"Wisdom",
 			"לערי ריינהארט"
 		]
@@ -28,6 +29,8 @@
 	"wikibase-sitelinks-wikiquote": "Викиишлэл",
 	"wikibase-sitelinks-wikisource": "Викисурвалж",
 	"wikibase-sitelinks-wikivoyage": "Викиаялал",
+	"wikimedia-taglines-wikidata": "Чөлөөт мэдлэгийн сан",
+	"wikimedia-taglines-wikivoyage": "Чөлөөт аялалын хөтөч",
 	"wikimedia-developers": "Хөгжүүлэгчид",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nТүгжээг $1 ( $2 ) хийсэн.\nШалтгаан нь '' $3 ''. \n\n* Түгжээ эхлэл: $4 \n* Түгжээ хугацаа: $5 \n\nТаны одоогийн IP хаяг $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nТүгжээг $1 ( $2 ) хийсэн.\nШалтгаан нь '' $3 ''. \n\n* Түгжээ эхлэл: $4 \n* Түгжээ хугацаа: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",

@@ -4,7 +4,8 @@
 			"Alison",
 			"Dowlinme",
 			"MinecraftAustralia",
-			"Tem"
+			"Tem",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Teachtaireachtaí sainiúil an Viciméid",
@@ -50,5 +51,6 @@
 	"wikibase-sitelinks-wikivoyage": "Vicíthaisteal",
 	"wikimedia-developers": "Forbróirí",
 	"wikimedia-statslink": "Staitisticí",
-	"wikimedia-cookiestatement": "Ráiteas fianán"
+	"wikimedia-cookiestatement": "Ráiteas fianán",
+	"wikimedia-help-translate-prompt": "An bhfuil tú na haistri&uacute; a chúnaigh uait? [$1 Aistrigh na teachtaireachta ar l&aacute;r]."
 }

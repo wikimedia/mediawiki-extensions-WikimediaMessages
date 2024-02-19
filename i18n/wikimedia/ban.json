@@ -297,5 +297,6 @@
 	"action-docseditor": "uah dokuméntasi",
 	"right-docseditor": "Uah dokuméntasi",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Inggih",
-	"wikimedia-projects-label": "Proyék Wikimédia"
+	"wikimedia-projects-label": "Proyék Wikimédia",
+	"wikimedia-help-translate-prompt": "Jagi ngawantu ngalih basa? [$1 Alih basa besen sané during wénten]."
 }

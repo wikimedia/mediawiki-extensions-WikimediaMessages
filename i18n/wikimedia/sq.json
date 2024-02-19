@@ -15,7 +15,8 @@
 			"Nemo bis",
 			"Olsi",
 			"Pols12",
-			"Puntori"
+			"Puntori",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Mesazhet specifike të Wikimedia-s",
@@ -122,6 +123,8 @@
 	"wikibase-otherprojects-wikipedia": "Vikipedia",
 	"wikibase-otherprojects-wikiversity": "Vikiversitet",
 	"wikibase-otherprojects-wiktionary": "Vikifjalor",
+	"wikimedia-taglines-wikidata": "Baza e dijes së lirë",
+	"wikimedia-taglines-wikivoyage": "Guida të lira udhëtimi",
 	"wikimedia-developers": "Programuesit",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBllokimi u bë nga $1 ($2).\nArsyeja e dhënë është ''$3''.\n\n* Fillimi i bllokimit: $4\n* Skadimi i bllokimit: $5\n\nAdresa juaj IP aktuale është $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBllokimi u bë nga $1 ($2).\nArsyeja e dhënë ''$3''.\n\n* Fillimi i bllokimit: $4\n* Skadimi i bllokimit: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
@@ -133,5 +136,7 @@
 	"eri-wlfilters-tour-intro-welcome-title": "Miresevini ne filterin e permiresuar te Listes-vrojtuese",
 	"eri-wlfilters-tour-intro-preferences-description": "Qasjuni hapsires Listes-shikuese ne preferencat ne cdo kohe per te perzgjedhur Listen-shikuese te permiresuar.",
 	"wikimedia-statslink": "Statistikat",
-	"wikimedia-cookiestatement": "Deklarata e cookies"
+	"wikimedia-cookiestatement": "Deklarata e cookies",
+	"wikimedia-projects-label": "Projektet e Wikimedias",
+	"wikimedia-help-translate-prompt": "Dëshiron të ndihmosh përkthimin? [$1 Përkthe mesazhet që mungojnë]."
 }

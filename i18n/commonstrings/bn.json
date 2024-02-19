@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Varnent",
 			"আফতাবুজ্জামান"
 		]
 	},
 	"wm-commonstrings-agenda": "আলোচ্যসূচি",
 	"wm-commonstrings-background": "পটভূমি",
+	"wm-commonstrings-bylaws": "গঠনতন্ত্র",
 	"wm-commonstrings-closed": "বন্ধ",
 	"wm-commonstrings-connect": "সংযোগ করুন",
 	"wm-commonstrings-contactus": "যোগাযোগ করুন",
@@ -17,6 +19,7 @@
 	"wm-commonstrings-overview": "সারসংক্ষেপ",
 	"wm-commonstrings-participate": "অংশগ্রহন করুন",
 	"wm-commonstrings-reports": "অভিযোগ করুন",
+	"wm-commonstrings-resolutions": "রেজোলিউশন",
 	"wm-commonstrings-questions": "প্রশ্ন?",
 	"wm-commonstrings-register-account": "অ্যাকাউন্ট নিবন্ধন করুন",
 	"wm-commonstrings-scope": "পরিধি",

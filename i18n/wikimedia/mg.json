@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jagwar"
+			"Jagwar",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Hafatra manokana ho an'ny Wikimedia",
@@ -89,5 +90,6 @@
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Filazana momba ny kokizy",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Eny",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Tsia"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Tsia",
+	"wikimedia-help-translate-prompt": "Te hanampy amin'ny fandikan-teny ve ianao ? [$1 Omeo ny dikan'ny Mesazy(Hafatra) tsy ampy]."
 }

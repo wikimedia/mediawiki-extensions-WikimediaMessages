@@ -20,6 +20,7 @@
 			"Rsocol",
 			"Stelistcristi",
 			"Strainu",
+			"Varnent",
 			"Vlad5250",
 			"WebSourceContentRO",
 			"Wintereu",
@@ -193,5 +194,9 @@
 	"eri-rcfilters-tour-confirm-title": "Noile filtre au fost activate",
 	"wikimedia-centralauth-contribs-locked": "Acest cont este încuiat la nivel global. Consultați [[Special:CentralAuth/$1|detaliile despre contul global]] pentru mai multe informații.",
 	"wikimedia-statslink": "Statistici",
-	"wikimedia-cookiestatement": "Declarație cookie"
+	"wikimedia-cookiestatement": "Declarație cookie",
+	"wikimedia-projects-label": "Proiecte Wikimedia",
+	"wikimedia-help-translate-prompt": "Doriți să ajutați cu traducerea? [$1 Traduceți mesajele lipsă].",
+	"wikimedia-translation-disclaimer-nolink": "Vă rugăm să rețineți că în cazul oricăror diferențe de sens sau interpretare între versiunea originală în limba engleză a acestui document și o traducere, versiunea originală în limba engleză prevalează.",
+	"wikimedia-translation-disclaimer-withlink": "Vă rugăm să rețineți că în cazul oricăror diferențe de sens sau interpretare între versiunea originală în limba engleză a acestui document și o traducere, [[$1|versiunea originală în limba engleză]] prevalează."
 }

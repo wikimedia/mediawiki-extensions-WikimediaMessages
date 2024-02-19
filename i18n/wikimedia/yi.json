@@ -7,6 +7,7 @@
 			"Nemo bis",
 			"Pacha Tchernof",
 			"Sol lemon",
+			"Varnent",
 			"Yidel",
 			"פוילישער"
 		]
@@ -159,6 +160,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "מעטאַ־וויקי",
 	"wikibase-sitelinks-sitename-species": "וויקיזגאלן",
 	"wikibase-sitelinks-sitename-wikidatawiki": "וויקידאטן",
+	"wikimedia-taglines-wikidata": "פרײַע וויסן־באזע",
+	"wikimedia-taglines-wikivoyage": "פרײַע רייזע־ווײַזער",
 	"cant-delete-main-page": "מען קען נישט אויסמעקן אדער באַוועגן דעם הויפטבלאַט",
 	"wikimedia-translationnotifications-signup-legal": "איר זענט מסכים אז ווען איר פארזארגט די אינפארמאציע צו דער וויקימעדיע פונדאציע מעגן מיר קאנטאקטירן אייך וועגן איבערזעצונגען אדער אנדערע טעמעס שייך צו דער וויקימעדיע באוועגונג וואס מיר האלטן וועט אינטרעסירן אײַך. איר זענט מסכים אז מען מעג אײַערע דאטן איינשפייכלערן אין די פאראייניגטע שטאטן פון אמעריקע און ווערט געהאלטן לויט אונזער [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy פריוואטקייט ריכטליניע]",
 	"upload-more-photos-of-this-monument": "ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט",
@@ -181,5 +184,6 @@
 	"wikimedia-statslink": "סטאַטיסטיק",
 	"wikimedia-cookiestatement": "קוקי־אַרויסזאָג",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "ניין",
-	"research-incentive-confirm-msg": "אַ דאַנק!"
+	"research-incentive-confirm-msg": "אַ דאַנק!",
+	"wikimedia-help-translate-prompt": "איר ווילט העלפט איבערזעצן? [$1 זעצט איבער די פעלנדע מעלדונגען]."
 }

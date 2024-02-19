@@ -228,6 +228,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multilingüe",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Base de datos libre",
+	"wikimedia-taglines-wikivoyage": "Guía de viaxes libre",
 	"cant-delete-main-page": "Non pode borrar ou mover a páxina principal.",
 	"wikimedia-translationnotifications-signup-legal": "Acepta que ao proporcionar esta información á Fundación Wikimedia podemos poñernos en contacto con vostede en relación ás traducións ou outros temas relacionados co movemento da Wikimedia que pensemos que poidan ser do seu interese. Acepta que os seus datos poden almacenarse nos Estados Unidos de América e que están suxeitos á nosa [https://foundation.wikimedia.org/wiki/Política_de_protección_de_datos_(gl) política de protección de datos].",
 	"upload-more-photos-of-this-monument": "Cargar máis fotografías deste monumento",
@@ -298,5 +300,6 @@
 	"research-incentive-answer-negative": "Non",
 	"research-incentive-confirm-msg": "Grazas!",
 	"ipinfo-global-contributions-url-label": "Contribucións globais",
-	"wikimedia-projects-label": "Proxectos da Wikimedia"
+	"wikimedia-projects-label": "Proxectos da Wikimedia",
+	"wikimedia-help-translate-prompt": "Quere axudar coas traducións? [$1 Traduza as mensaxes que faltan]."
 }

@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-background": "Pozadina",
+	"wm-commonstrings-closed": "Zatvoreno",
+	"wm-commonstrings-connect": "Povezano",
+	"wm-commonstrings-events": "Događaji",
+	"wm-commonstrings-objectives": "Ciljevi",
+	"wm-commonstrings-ongoing": "U toku",
+	"wm-commonstrings-open": "Otvoreno",
+	"wm-commonstrings-overview": "Pregled",
+	"wm-commonstrings-participate": "Učestvujte",
+	"wm-commonstrings-reports": "Izvještaji",
+	"wm-commonstrings-questions": "Pitanja?",
+	"wm-commonstrings-register-account": "Registrirajte račun",
+	"wm-commonstrings-scope": "Obim",
+	"wm-commonstrings-seealso": "Također pogledajte",
+	"wm-commonstrings-staff": "Osoblje",
+	"wm-commonstrings-talktous": "Razgovarajte sa nama",
+	"wm-commonstrings-updates": "Ažuriranja"
+}

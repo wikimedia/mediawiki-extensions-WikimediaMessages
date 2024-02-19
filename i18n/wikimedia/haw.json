@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Kolonahe",
-			"Singularity"
+			"Singularity",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Lūlū mai",
 	"tooltip-n-sitesupport": "Kāko‘o mai",
 	"group-steward": "Nā kuene",
-	"group-steward-member": "{{GENDER:$1|ke kuene}}"
+	"group-steward-member": "{{GENDER:$1|ke kuene}}",
+	"wikimedia-help-translate-prompt": "Makemake e kōkua i ka hoʻomākaukau? [$1 Hoʻomākaukau i nā ʻōlelo i nele]."
 }

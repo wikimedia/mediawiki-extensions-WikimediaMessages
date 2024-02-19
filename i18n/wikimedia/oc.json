@@ -6,7 +6,8 @@
 			"Lhanars",
 			"McDutchie",
 			"Nemo bis",
-			"Nicolas Eynaud"
+			"Nicolas Eynaud",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messatges especifics de Wikimedia",
@@ -107,5 +108,8 @@
 	"interlanguage-link-mul": "Mai de lengas",
 	"interlanguage-link-sitename-wikipedia": "Wikipèdia, l’enciclopèdia liura",
 	"wikimedia-statslink": "Estatisticas",
-	"wikimedia-cookiestatement": "Declaracion suls cookies"
+	"wikimedia-cookiestatement": "Declaracion suls cookies",
+	"ext-quicksurveys-name": "Enquistas rapidas",
+	"wikimedia-projects-label": "Projèctes Wikimedia",
+	"wikimedia-help-translate-prompt": "Volètz ajudar a la traduccion ? [$1 Tradusètz los messatges mancants]."
 }

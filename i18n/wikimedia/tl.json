@@ -11,6 +11,7 @@
 			"Nemo bis",
 			"Pokéfan95",
 			"Sky Harbor",
+			"Varnent",
 			"Yivan000",
 			"Yivangamer",
 			"לערי ריינהארט"
@@ -128,5 +129,8 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nGinawa ni $1 ($2) ang pagharang.\nNarito ang dahilan: ''$3''.\n\n* Simula: $4\n* Hanggang: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Estadistika",
 	"wikimedia-cookiestatement": "Tungkol sa Cookie",
-	"ext-quicksurveys-performance-internal-survey-question": "Mabilis ba ang pag-load ng page?"
+	"ext-quicksurveys-performance-internal-survey-question": "Mabilis ba ang pag-load ng page?",
+	"wikimedia-help-translate-prompt": "Nais mong tumulong sa pagsasalinwika? [$1 Magsalin ng mga nawawalang mensahe].",
+	"wikimedia-translation-disclaimer-nolink": "Dapat mong malaman na kung sakaling may pagkakaiba sa kahulugan o interpretasyon sa pagitan ng orihinal na bersyon sa Ingles ng nilalaman na ito sa isang salin nito, dapat manaig ang orihinal na bersyon nito sa Ingles.",
+	"wikimedia-translation-disclaimer-withlink": "Dapat mong malaman na kung sakaling may pagkakaiba sa kahulugan o interpretasyon sa pagitan ng orihinal na bersyon sa Ingles ng nilalaman na ito sa isang salin nito, dapat manaig ang [[$1|orihinal na bersyon nito sa Ingles]]."
 }

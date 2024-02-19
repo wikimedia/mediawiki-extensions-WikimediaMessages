@@ -177,5 +177,6 @@
 	"securepoll-dblist-securepollglobal": "Board сайлаулары",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie турында белдерү",
-	"ext-quicksurveys-name": "Тиз сораштырулар"
+	"ext-quicksurveys-name": "Тиз сораштырулар",
+	"wikimedia-help-translate-prompt": "Тәрҗемә белән ярдәм итәргә телисезме? [$1 Җитмәгән хәбәрнамәләрне тәрҗемә итегез]."
 }

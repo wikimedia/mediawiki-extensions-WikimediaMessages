@@ -6,7 +6,8 @@
 			"Hakka",
 			"Hintha",
 			"Ninjastrikers",
-			"Phosai"
+			"Phosai",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "ဝီကီမီဒီယာမှ သီးခြားအသိပေးစာတိုများ",
@@ -169,6 +170,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "ဘာသာစကားစုံ ဝီကီရင်းမြစ်",
 	"wikibase-sitelinks-sitename-species": "ဝီကီမျိုးစိတ်",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ဝီကီဒေတာ",
+	"wikimedia-taglines-wikidata": "အခမဲ့ အသိပညာဗဟုသုတ အခြေပြုနေရာ",
+	"wikimedia-taglines-wikivoyage": "အခမဲ့ ခရီးသွား လမ်းညွှန်",
 	"cant-delete-main-page": "ပင်မစာမျက်နှာကို ဖျက်ခြင်း သို့မဟုတ် ရွေ့ပြောင်းခြင်း မလုပ်နိုင်ပါ။",
 	"wikimedia-translationnotifications-signup-legal": "ဝီကီမီဒီယာဖောင်ဒေးရှင်းသို့ ဤသတင်းအချက်အလက်ထောက်ပံ့ပေးခြင်းဖြင့် ဝီကီမီဒီယာလှုပ်ရှားမှုနှင့်ဆက်နွယ်သည့် စိတ်ဝင်စားဖွယ်ကောင်းမည်ဟုထင်သော ဘာသာပြန်များ သို့မဟုတ် အကြောင်းအရာများကို ကျွန်ုပ်တို့ ဆက်သွယ်နိုင်သည်ကို သင် သဘောတူသည်။ သင်၏ဒေတာများသည် အမေရိကန်ပြည်ထောင်စုတွင် သိမ်းဆည်းထားနိုင်သည်ဆိုသည်မှာ ကျွန်ုပ်တို့၏ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy ကိုယ်တိုင်ရေးမူဝါဒ]ဖြစ်ကြောင်း သဘောတူသည်။",
 	"createacct-captcha-help-url": "{{ns:Project}}:အကောင့်တခု တောင်ဆိုရန်",
@@ -210,5 +213,7 @@
 	"action-editautopatrolprotected": "\"{{int:protect-level-editautopatrolprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
 	"right-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
 	"action-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" အဖြစ်ကာကွယ်ထားသော စာမျက်နှာများကိုပြင်ဆင်ရန်",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "မလုပ်ပါ"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "မလုပ်ပါ",
+	"wikimedia-projects-label": "ဝီကီမီဒီယာ ပရောဂျက်များ",
+	"wikimedia-help-translate-prompt": "ဘာသာပြန်ဆိုရန် ဆန္ဒရှိပါသလား? [$1 ပျောက်ဆုံးနေသော စာသားများကို ဘာသာပြန်ဆိုရန်]။"
 }

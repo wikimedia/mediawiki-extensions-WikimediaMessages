@@ -299,6 +299,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multilingüe",
 	"wikibase-sitelinks-sitename-species": "Wikiespecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Base de conocimiento libre",
+	"wikimedia-taglines-wikivoyage": "Guía de viajes",
 	"cant-delete-main-page": "No se puede borrar ni trasladar la página principal.",
 	"wikimedia-translationnotifications-signup-legal": "Aceptas que al suministrar a la Fundación Wikimedia esta información podamos ponernos en contacto contigo en relación con las traducciones u otros temas relacionados con el movimiento Wikimedia que pensemos que puedan ser de interés para ti. Aceptas que tus datos puedan ser almacenados en los Estados Unidos de América y estar sujetos a nuestra [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es política de privacidad].",
 	"upload-more-photos-of-this-monument": "Subir más fotos de este monumento",
@@ -416,5 +418,11 @@
 	"research-incentive-privacy": "Consulte nuestra política de privacidad y obtenga más información sobre nuestro programa de investigación [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/es aquí].",
 	"research-incentive-confirm-msg": "¡Gracias!",
 	"ipinfo-global-contributions-url-label": "Contribuciones globales",
-	"wikimedia-projects-label": "Proyectos de Wikimedia"
+	"wikimedia-foundation-projects-label": "Proyectos de la Fundación Wikimedia",
+	"wikimedia-projects-label": "Proyectos de Wikimedia",
+	"wikimedia-mailservices-label": "Servicios de correo Wikimedia",
+	"wikimedia-movement-affiliates-shortlabel": "Asociaciones del movimiento",
+	"wikimedia-help-translate-prompt": "¿Quieres ayudar a traducir? [$1 Traduce los mensajes que faltan].",
+	"wikimedia-translation-disclaimer-nolink": "Téngase en cuenta que en caso de diferencias de significado o interpretación entre la versión original en inglés de esta política y su correspondiente traducción la versión original en inglés prevalece.",
+	"wikimedia-translation-disclaimer-withlink": "Téngase en cuenta que en caso de diferencias de significado o interpretación entre la versión original en inglés de esta política y su correspondiente traducción la [[$1|versión original en inglés]] prevalece."
 }

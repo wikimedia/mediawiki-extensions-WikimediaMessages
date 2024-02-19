@@ -200,6 +200,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "Мета-уики",
 	"wikibase-sitelinks-sitename-species": "Уикивидове",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Уикиданни",
+	"wikimedia-taglines-wikidata": "Свободна база знания",
+	"wikimedia-taglines-wikivoyage": "Свободен пътеводител",
 	"cant-delete-main-page": "Не можете да изтривате или премествате Началната страница.",
 	"upload-more-photos-of-this-monument": "Качване на още снимки на този паметник",
 	"wikimedia-developers": "За разработчици",
@@ -267,6 +269,7 @@
 	"right-edit-legal": "Редактиране на страници с потенциални правни последици",
 	"action-edit-legal": "редактиране на страници с потенциални правни последици",
 	"ipinfo-feedback-button-label": "Оставете коментар",
+	"ext-quicksurveys-name": "Бързи проучвания",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
@@ -274,5 +277,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не съм сигурен",
 	"gadget-souspages-subpages": "Подстраници",
 	"ipinfo-global-contributions-url-label": "Глобални приноси",
-	"wikimedia-projects-label": "Проекти на Уикимедия"
+	"wikimedia-projects-label": "Проекти на Уикимедия",
+	"wikimedia-help-translate-prompt": "Искате ли да помогнете? [$1 Преведете липсващите съобщения]."
 }

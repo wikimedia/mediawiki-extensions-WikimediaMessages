@@ -239,6 +239,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Vícejazykový Wikizdroje",
 	"wikibase-sitelinks-sitename-species": "Wikidruhy",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Svobodná znalostní báze",
+	"wikimedia-taglines-wikivoyage": "Svobodný cestovní průvodce",
 	"cant-delete-main-page": "Hlavní stranu nemůžete smazat ani přesunout.",
 	"wikimedia-translationnotifications-signup-legal": "Poskytnutím těchto informací nadaci Wikimedia Foundation udělujete souhlas, že vás můžeme kontaktovat ohledně překladů či dalších témat souvisejících s hnutím Wikimedia, o kterých se budeme domnívat, že by vás mohly zajímat. Souhlasíte, že vaše údaje mohou být uloženy ve Spojených státech amerických a že se na ně vztahují naše [https://foundation.wikimedia.org/wiki/Policy:Privacy_policy Pravidla ochrany osobních údajů].",
 	"upload-more-photos-of-this-monument": "Načíst další fotografie této památky",
@@ -317,5 +319,7 @@
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ne",
 	"gadget-souspages-subpages": "Podstránky",
 	"ipinfo-global-contributions-url-label": "Globální příspěvky",
-	"wikimedia-projects-label": "Projekty Wikimedie"
+	"wikimedia-projects-label": "Projekty Wikimedie",
+	"wikimedia-help-translate-prompt": "Chcete pomoci překládat? [$1 Přeložte chybějící zprávy].",
+	"wikimedia-nutshell-page-intro": "Tato stránka v kostce: $1"
 }

@@ -18,7 +18,8 @@
 			"Pmt",
 			"Stigmj",
 			"SuperPotato",
-			"Telaneo"
+			"Telaneo",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke beskjeder",
@@ -256,6 +257,8 @@
 	"wikimedia-taglines-foundationsite": "Wikimedia Foundations offisielle nettsted",
 	"wikimedia-taglines-incubator": "For språkversjoner under utvikling",
 	"wikimedia-taglines-mediawiki": "Fri og åpen wikiapplikasjon",
+	"wikimedia-taglines-wikidata": "Fri kunnskapsbase",
+	"wikimedia-taglines-wikivoyage": "fri reisefører/-håndbok",
 	"apihelp-wbsearchentities-paramvalue-profile-language": "En profil for å søke etter elementer om naturlige språk.",
 	"apihelp-query+wbsearch-paramvalue-profile-language": "En profil for å søke etter elementer om naturlige språk.",
 	"cant-delete-main-page": "Du kan ikke slette eller flytte hovedsiden.",
@@ -370,5 +373,9 @@
 	"readinglists-import-app": "Installer den nyeste versjonen av Wikipedia-appen for å importere denne leselista:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Last ned</a> og installer den nyeste versjonen av Wikipedia-appen:",
 	"readinglists-list-empty-message": "Du kan importere denne lista ved å installere Wikipedia-appen.",
-	"ipinfo-global-contributions-url-label": "Bidrag globalt"
+	"ipinfo-global-contributions-url-label": "Bidrag globalt",
+	"wikimedia-help-translate-prompt": "Vil du hjelpe til med å oversette? [$1 Oversett det som mangler]!",
+	"wikimedia-nutshell-page-intro": "Denne siden i et nøtteskall: $1",
+	"wikimedia-translation-disclaimer-nolink": "Vær oppmerksom på at ved forskjeller i betydning eller tolkning mellom den opprinnelige engelske versjonen av dette dokumentet og en oversettelse, har den opprinnelige versjonen på engelsk forrang.",
+	"wikimedia-translation-disclaimer-withlink": "Vær oppmerksom på at ved forskjeller i betydning eller tolkning mellom den opprinnelige engelske versjonen av dette dokumentet og en oversettelse, har den [[$1|opprinnelige versjonen på engelsk]] forrang."
 }

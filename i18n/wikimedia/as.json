@@ -11,7 +11,8 @@
 			"Nilamdyuti",
 			"Psneog",
 			"Rajuonline",
-			"Simbu123"
+			"Simbu123",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "ৱিকিমিডিয়া নিৰ্ধাৰিত বাৰ্তা",
@@ -321,5 +322,6 @@
 	"research-incentive-answer-positive": "হয়",
 	"research-incentive-answer-negative": "নহয়",
 	"research-incentive-confirm-msg": "ধন্যবাদ!",
-	"ipinfo-global-contributions-url-label": "গোলকীয় বৰঙণি"
+	"ipinfo-global-contributions-url-label": "গোলকীয় বৰঙণি",
+	"wikimedia-help-translate-prompt": "অনুবাদত সহায় কৰিব বিচাৰে? [$1 নথকা বাৰ্তাসমূহ অনুবাদ কৰক]।"
 }

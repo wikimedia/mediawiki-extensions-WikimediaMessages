@@ -173,6 +173,8 @@
 	"wikibase-otherprojects-wikiversity": "विकिविश्वविद्यालय",
 	"wikibase-otherprojects-wikivoyage": "विकियात्रा",
 	"wikibase-otherprojects-wiktionary": "विक्शनरी",
+	"wikimedia-taglines-wikidata": "मुक्त ज्ञान आधार",
+	"wikimedia-taglines-wikivoyage": "मुक्त यात्रा गाइड",
 	"cant-delete-main-page": "आप प्रधान पृष्ठ को स्थानान्तरित या हटा नहीं सकते ।",
 	"createacct-captcha-help-url": "{{ns:Project}}:खाता हेतु निवेदन",
 	"wikimedia-developers": "विकासक",
@@ -192,5 +194,8 @@
 	"ipinfo-feedback-button-label": "प्रतिक्रिया दें",
 	"ext-quicksurveys-name": "सर्वेक्षण",
 	"readinglists-import-app": "इस रीडिंग लिस्ट को इम्पोर्ट करने के लिए, Wikipedia ऐप के लेटेस्ट वर्जन को इंस्टॉल करें:",
-	"wikimedia-projects-label": "विकिमीडिया की परियोजनाएँ"
+	"wikimedia-foundation-projects-label": "विकिमीडिया संस्थान की परियोजनाएँ",
+	"wikimedia-projects-label": "विकिमीडिया की परियोजनाएँ",
+	"wikimedia-mailservices-label": "विकिमीडिया डाकसेवा",
+	"wikimedia-help-translate-prompt": "अनुवाद में सहायता करना चाहते हैं? [$1 बचे हुए संदेशों को अनुवादित करें]।"
 }

@@ -136,5 +136,7 @@
 	"wikimedia-statslink": "Statistieke",
 	"wikimedia-cookiestatement": "Koekieverklaring",
 	"wikimedia-projects-label": "Wikimedia-projekte",
-	"wikimedia-help-translate-prompt": "Wil u help vertaal? [$1 Vertaal die ontbrekende boodskappe]."
+	"wikimedia-help-translate-prompt": "Wil u help vertaal? [$1 Vertaal die ontbrekende boodskappe].",
+	"wikimedia-translation-disclaimer-nolink": "Let asseblief op dat, in geval van enige verskille in betekenis of interpretasie tussen die oorspronklike Engelse weergawe van hierdie dokument en ’n vertaling, die oorspronklike Engels voorkeur geniet.",
+	"wikimedia-translation-disclaimer-withlink": "Let asseblief op dat, in geval van enige verskille in betekenis of interpretasie tussen die oorspronklike Engelse weergawe van hierdie dokument en ’n vertaling, die [[$1|oorspronklike Engels]] voorkeur geniet."
 }

@@ -117,5 +117,7 @@
 	"interlanguage-link-sitename-wikipedia": "ವಿಕಿಪೀಡಿಯಾ, ಇದು ಸ್ವತಂತ್ರ ವಿಶ್ವಕೋಶ",
 	"wikimedia-statslink": "ಅಂಕಿ ಅಂಶಗಳು",
 	"wikimedia-cookiestatement": "ಕುಕಿ ಹೇಳಿಕೆ",
-	"ext-quicksurveys-name": "ತ್ವರಿತ ಸಮೀಕ್ಷೆಗಳು"
+	"ext-quicksurveys-name": "ತ್ವರಿತ ಸಮೀಕ್ಷೆಗಳು",
+	"wikimedia-projects-label": "ವಿಕಿಮೀಡಿಯಾ ಯೋಜನೆಗಳು",
+	"wikimedia-help-translate-prompt": "ಭಾಷಾಂತರಿಸಲು ಸಹಾಯ ಮಾಡುವಿರಾ? [$1 ಪುಟ ಬಿಟ್ಟುಹೋದ ಸಂದೇಶಗಳನ್ನು ಭಾಷಾಂತರಿಸಿ]."
 }

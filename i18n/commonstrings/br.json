@@ -1,18 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-agenda": "Deiziataer",
 	"wm-commonstrings-background": "Drekleur",
 	"wm-commonstrings-closed": "Serret",
 	"wm-commonstrings-connect": "Kevreañ",
+	"wm-commonstrings-contactus": "Mont e darempred ganeomp",
 	"wm-commonstrings-events": "Darvoudoù",
+	"wm-commonstrings-mainpage-prompt": "Pajenn degemer: $1",
 	"wm-commonstrings-objectives": "Palioù",
 	"wm-commonstrings-open": "Digor",
 	"wm-commonstrings-overview": "Rakwel",
 	"wm-commonstrings-participate": "Kemer pezh",
+	"wm-commonstrings-reports": "Rentañ-kont",
 	"wm-commonstrings-questions": "Goulennoù ho peus?",
+	"wm-commonstrings-register-account": "Enrollañ ur c'hont",
 	"wm-commonstrings-scope": "Diraez",
 	"wm-commonstrings-seealso": "Gwelet ivez",
 	"wm-commonstrings-staff": "Koskor",

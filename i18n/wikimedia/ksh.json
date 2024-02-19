@@ -7,6 +7,7 @@
 			"Nemo bis",
 			"Purodha",
 			"Reedy",
+			"Varnent",
 			"WTM",
 			"Απεργός"
 		]
@@ -187,5 +188,6 @@
 	"right-editeditorprotected": "Sigge met däm Schoz „{{int:protect-level-editeditorprotected}}“ ändere",
 	"wikimedia-centralauth-contribs-locked": "Heh dä Zohjang övver en jemeinsamme Aanmäldong es överall jeschpächt.\nMih Aanjahbe derzoh fengk mer op dä Sigg övver de [[m:Special:CentralAuth/$1|Einzelheijte vun de jemeinsamme Aanmäldong]]",
 	"right-viewdeletedfile": "Fottjeschmeße Datteije un Sigge en de Appachemangs „{{ns:file}}“ un „{{ns:file_talk}}“ belohre",
-	"securepoll-dblist-securepollglobal": "Vörschtandswahle"
+	"securepoll-dblist-securepollglobal": "Vörschtandswahle",
+	"wikimedia-help-translate-prompt": "Wells De beim Övversäze hällfe? Dann [$1 övversäzze]."
 }

@@ -197,5 +197,6 @@
 	"action-editautopatrolprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-editautopatrolprotected}}»",
 	"right-edittrustedprotected": "Рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»",
 	"action-edittrustedprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»",
-	"wikimedia-projects-label": "Праекты Вікімэдыі"
+	"wikimedia-projects-label": "Праекты Вікімэдыі",
+	"wikimedia-help-translate-prompt": "Жадаеце дапамагчы зь перакладам? [$1 Перакладзіце адсутныя паведамленьні]."
 }

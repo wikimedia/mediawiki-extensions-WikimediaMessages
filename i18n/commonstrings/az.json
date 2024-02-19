@@ -1,0 +1,30 @@
+{
+	"@metadata": {
+		"authors": [
+			"NMW03",
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-agenda": "Gündəlik",
+	"wm-commonstrings-background": "Arxa plan",
+	"wm-commonstrings-bylaws": "Nizamnamə",
+	"wm-commonstrings-closed": "Bağlı",
+	"wm-commonstrings-connect": "Qoşul",
+	"wm-commonstrings-contactus": "Bizimlə əlaqə",
+	"wm-commonstrings-events": "Tədbirlər",
+	"wm-commonstrings-mainpage-prompt": "Ana səhifə: $1",
+	"wm-commonstrings-objectives": "Məqsədlər",
+	"wm-commonstrings-ongoing": "Davam edir",
+	"wm-commonstrings-open": "Açıq",
+	"wm-commonstrings-overview": "Ümumi baxış",
+	"wm-commonstrings-participate": "İştirak et",
+	"wm-commonstrings-reports": "Hesabatlar",
+	"wm-commonstrings-resolutions": "Qətnamələr",
+	"wm-commonstrings-questions": "Suallar?",
+	"wm-commonstrings-register-account": "Hesabı qeydiyyatdan keçirin",
+	"wm-commonstrings-scope": "Əhatə dairəsi",
+	"wm-commonstrings-seealso": "Həmçinin bax",
+	"wm-commonstrings-staff": "Heyət",
+	"wm-commonstrings-talktous": "Bizimlə danışın",
+	"wm-commonstrings-updates": "Yeniləmələr"
+}

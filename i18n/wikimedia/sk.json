@@ -16,6 +16,7 @@
 			"Sudo77(new)",
 			"Teslaton",
 			"TomášPolonec",
+			"Varnent",
 			"Vlad5250",
 			"Wizzard",
 			"Yardom78",
@@ -132,6 +133,8 @@
 	"wikibase-otherprojects-wikidata": "Wikiúdaje",
 	"wikibase-otherprojects-wikipedia": "Wikipédia",
 	"wikibase-sitelinks-sitename-sourceswiki": "Viacjazyčné Wikizdroje",
+	"wikimedia-taglines-wikidata": "Slobodná databáza vedomostí",
+	"wikimedia-taglines-wikivoyage": "Voľne dostupný cestovateľský sprievodca",
 	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
 	"wikimedia-developers": "Vývojári",
 	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa bola [[m:Special:MyLanguage/Global blocks|zablokovaná na všetkých wikipédiách]].'''\n\nZablokoval Vás $1 ($2).\nUdaným dôvodom bolo ''$3''.\n\n* Začiatok blokovania: $4\n* Zablokovanie vyprší: $5\n\nVaše súčasná IP adresa je $6.\nTieto údaje uvádzajte vo všetkých dotazoch.\n\nAk sa domnievate, že ste boli zablokovaní omylom, môžete nájsť viac informácií a pokyny v globálnom pravidle [[m:Special:MyLanguage/No open proxies|Žiadne otvorené proxy]].\nAk chcete zablokovanie prediskutovať, môžete [[m:Steward requests/Global|napísať žiadosť o preskúmanie na Meta-Wiki]].",
@@ -163,5 +166,9 @@
 	"right-editautopatrolprotected": "Upravovať stránky zamknuté ako „{{int:protect-level-editautopatrolprotected}}“",
 	"action-editautopatrolprotected": "upravovať stránky zamknuté ako „{{int:protect-level-editautopatrolprotected}}“",
 	"gadget-souspages-subpages": "Podstránky",
-	"ipinfo-global-contributions-url-label": "Globálne príspevky"
+	"ipinfo-global-contributions-url-label": "Globálne príspevky",
+	"wikimedia-help-translate-prompt": "Chcete pomôcť s prekladom? [$1 Preložte chýbajúci text].",
+	"wikimedia-nutshell-page-intro": "Táto stránka v kocke: $1",
+	"wikimedia-translation-disclaimer-nolink": "Upozorňujeme, že v prípade akýchkoľvek rozdielov vo význame alebo výklade medzi pôvodnou anglickou verziou tohto dokumentu a prekladom prevládne pôvodná anglická verzia.",
+	"wikimedia-translation-disclaimer-withlink": "Upozorňujeme, že v prípade akýchkoľvek rozdielov vo význame alebo výklade medzi pôvodnou anglickou verziou tohto dokumentu a prekladom prevládne [[$1|pôvodná anglická verzia]]."
 }

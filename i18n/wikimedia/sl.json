@@ -378,5 +378,8 @@
 	"wikimedia-movement-affiliates-label": "Podružnice gibanja Wikimedia",
 	"wikimedia-movement-affiliates-shortlabel": "Podružnice gibanja",
 	"wikimedia-news-label": "Wikimedia News",
-	"wikimedia-help-translate-prompt": "Želite pomagati pri prevajanju? [$1 Prevedite manjkajoča sporočila]."
+	"wikimedia-help-translate-prompt": "Želite pomagati pri prevajanju? [$1 Prevedite manjkajoča sporočila].",
+	"wikimedia-nutshell-page-intro": "To stran na kratko: $1",
+	"wikimedia-translation-disclaimer-nolink": "Upoštevajte, da v primeru razlike v pomenu ali razlagi med izvorno angleško različico te vsebine in prevodom prevlada izvorna angleška različica.",
+	"wikimedia-translation-disclaimer-withlink": "Upoštevajte, da v primeru razlike v pomenu ali razlagi med izvorno angleško različico te vsebine in prevodom prevlada [[$1|izvorna angleška različica]]."
 }

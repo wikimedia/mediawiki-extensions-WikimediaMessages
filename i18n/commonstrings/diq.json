@@ -1,13 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mirzali",
 			"Varnent"
 		]
 	},
-	"wm-commonstrings-background": "Peye",
-	"wm-commonstrings-closed": "Gırote",
+	"wm-commonstrings-background": "Pey",
+	"wm-commonstrings-closed": "Gırewte",
+	"wm-commonstrings-connect": "Gırê de",
 	"wm-commonstrings-events": "Aktivite",
+	"wm-commonstrings-objectives": "Meqsedi",
+	"wm-commonstrings-ongoing": "Dewam keno",
+	"wm-commonstrings-open": "Akerde",
+	"wm-commonstrings-overview": "Asayış",
 	"wm-commonstrings-participate": "Tewr bê",
 	"wm-commonstrings-reports": "Rapori",
-	"wm-commonstrings-updates": "Newekerdeni"
+	"wm-commonstrings-questions": "Persi?",
+	"wm-commonstrings-register-account": "Qeydê hesabi",
+	"wm-commonstrings-scope": "Çarçewe",
+	"wm-commonstrings-seealso": "Bıvênên",
+	"wm-commonstrings-staff": "Karker",
+	"wm-commonstrings-talktous": "Ma de qısey bıke",
+	"wm-commonstrings-updates": "Newekerdışi"
 }

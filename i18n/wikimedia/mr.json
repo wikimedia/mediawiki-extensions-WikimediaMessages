@@ -11,6 +11,7 @@
 			"Rahuldeshmukh101",
 			"Shantanuo",
 			"V.narsikar",
+			"Varnent",
 			"अभय नातू",
 			"संतोष दहिवळ"
 		]
@@ -148,6 +149,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "मेटा-विकि",
 	"wikibase-sitelinks-sitename-species": "विकिस्पेशिज्",
 	"wikibase-sitelinks-sitename-wikidatawiki": "विकिडाटा",
+	"wikimedia-taglines-wikidata": "मुक्त ज्ञान तळ",
+	"wikimedia-taglines-wikivoyage": "मुक्त पर्यटन मार्गदर्शक",
 	"cant-delete-main-page": "आपण हे पान इतरत्र हलवू अथवा वगळू शकणार नाहीत",
 	"wikimedia-developers": "विकसक",
 	"wikimedia-globalblocking-ipblocked": "'''आपला अंकपत्ता [[m:Special:MyLanguage/Global blocks|सर्व विकिंवर प्रतिबंधित करण्यात आलेला आहे]].'''\nहा प्रतिबंध $1 ($2) ने केला.\nत्याचे कारण ''$3'' असे दिल्या गेले आहे.\n* प्रतिबंधाची सुरुवात: $4\n* प्रतिबंधनाची समाप्ती: $5\nआपला सध्याचा अंकपत्ता $6 आहे.\nकृपया हा सर्व तपशिल आपल्या करण्यात येणाऱ्या कोणत्याही पृच्छेस जोडावा.\n\nजर आपला असा विश्वास असेल कि आपण चूकिने प्रतिबंधित केल्या गेले आहात, तर जास्तीची माहिती व निर्देश [[m:Special:MyLanguage/No open proxies|खुल्या तर्हेने प्रतिनिधित्व नाही]] या वैश्विक नीतीत सापडतील.नाहीतर, या प्रतिबंधाबबत चर्चा करण्यास, कृपया [[m:Steward requests/Global|मेटा-विकिवर पुनर्विलोकनासाठी एक विनंती टाका]].",
@@ -158,5 +161,7 @@
 	"interlanguage-link-sitename-wikipedia": "विकिपीडिया, एक मुक्त ज्ञानकोश",
 	"interlanguage-link-commons": "विकिमिडिया कॉमन्स",
 	"right-extendedconfirmed": "प्रतिबंधित पाने संपादित करा",
-	"wikimedia-cookiestatement": "कुकिंचा तक्ता"
+	"wikimedia-cookiestatement": "कुकिंचा तक्ता",
+	"ext-quicksurveys-name": "जलद सर्वेक्षण",
+	"wikimedia-help-translate-prompt": "भाषांतरात मदत करायची आहे? [$1 न झालेली भाषांतरे करा]."
 }

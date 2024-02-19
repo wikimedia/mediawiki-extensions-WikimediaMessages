@@ -260,6 +260,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Багатомовні Вікіджерела",
 	"wikibase-sitelinks-sitename-species": "Віківиди",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Вікідані",
+	"wikimedia-taglines-wikidata": "Вільна база знань",
+	"wikimedia-taglines-wikivoyage": "Вільний путівник",
 	"cant-delete-main-page": "Ви не можете вилучити або перейменувати головну сторінку.",
 	"wikimedia-translationnotifications-signup-legal": "Ви погоджуєтесь, що після надання Фонду Вікімедіа цієї інформації ми можемо зв'язуватись з Вами стосовно перекладів або інших речей щодо руху Вікімедіа, які, на нашу думку, можуть Вас зацікавити. Ви погоджуєтесь, що Ваші дані можуть зберігатись у Сполучених Штатах Америки і є предметом нашої [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy політики приватності].",
 	"upload-more-photos-of-this-monument": "Завантажити більше знімків цього об'єкта",
@@ -369,5 +371,10 @@
 	"gadget-curidlink-link-by-id": "Посилання за ID",
 	"gadget-curidlink-link-by-id-desc": "Показати посилання за ID сторінки",
 	"gadget-souspages-subpages": "Підсторінки",
-	"wikimedia-projects-label": "Проєкти Вікімедіа"
+	"wikimedia-projects-label": "Проєкти Вікімедіа",
+	"wikimedia-movement-affiliates-shortlabel": "Афіліати руху",
+	"wikimedia-help-translate-prompt": "Бажаєте допомогти з перекладом? [$1 Перекладіть решту сторінок].",
+	"wikimedia-nutshell-page-intro": "Ця сторінка, скорочено: $1",
+	"wikimedia-translation-disclaimer-nolink": "Будь ласка, зауважте, що у випадку розбіжностей у значенні чи інтерпретації між оригінальною англомовною версією цієї політики та перекладом оригінальна англомовна версія має перевагу.",
+	"wikimedia-translation-disclaimer-withlink": "Будь ласка, зауважте, що у випадку розбіжностей у значенні чи інтерпретації між оригінальною англомовною версією цієї політики та перекладом [[$1|оригінальна англомовна версія]] має перевагу."
 }

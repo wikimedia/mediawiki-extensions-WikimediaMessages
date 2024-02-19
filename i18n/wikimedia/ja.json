@@ -283,6 +283,11 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "多言語ウィキソース",
 	"wikibase-sitelinks-sitename-species": "ウィキスピーシーズ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ウィキデータ",
+	"wikimedia-taglines-sources": "フリーコンテンツ図書館",
+	"wikimedia-taglines-wikidata": "フリー知識ベース",
+	"wikimedia-taglines-wikinews": "フリーニュース情報源",
+	"wikimedia-taglines-wikivoyage": "フリー旅行ガイド",
+	"wikimedia-taglines-wiktionary": "フリー辞書",
 	"cant-delete-main-page": "あなたはメインページを削除または移動できません。",
 	"wikimedia-translationnotifications-signup-legal": "あなたはウィキメディア財団にこの情報を提供することで、翻訳やその他ウィキメディア運動に関してあなたが興味を持つだろう話題について我々があなたに連絡をとってもよいと同意したことになります。あなたのデータがアメリカ合衆国で保管され、我々の[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy プライバシー・ポリシー]の対象となることに同意したことになります。",
 	"upload-more-photos-of-this-monument": "このモニュメントの他の写真をアップロード",
@@ -382,5 +387,10 @@
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。.",
 	"research-incentive-confirm-msg": "ありがとうございました。",
 	"ipinfo-global-contributions-url-label": "グローバル投稿記録",
-	"wikimedia-projects-label": "ウィキメディアのプロジェクト群"
+	"wikimedia-projects-label": "ウィキメディアのプロジェクト群",
+	"wikimedia-news-label": "ウィキメディア・ニュース",
+	"wikimedia-help-translate-prompt": "翻訳にご協力願えますか？[$1 未訳のメッセージ]を翻訳してください。",
+	"wikimedia-nutshell-page-intro": "このページの要旨： $1",
+	"wikimedia-translation-disclaimer-nolink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、英語版の原文が優先されますので、ご注意ください。",
+	"wikimedia-translation-disclaimer-withlink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、[[$1|英語版の原文]]が優先されますので、ご注意ください。"
 }

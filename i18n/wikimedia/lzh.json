@@ -8,6 +8,7 @@
 			"LaMagiaaa",
 			"Nemo bis",
 			"StephDC",
+			"Varnent",
 			"Yanteng3",
 			"列维劳德",
 			"逆襲的天邪鬼"
@@ -36,5 +37,6 @@
 	"wikimedia-developers": "司空津逮",
 	"interlanguage-link-commons": "維基共享",
 	"wikimedia-statslink": "彙統",
-	"wikimedia-cookiestatement": "鑑識聲明"
+	"wikimedia-cookiestatement": "鑑識聲明",
+	"wikimedia-help-translate-prompt": "欲助譯哉？[$1 譯其缺者]。"
 }

@@ -8,7 +8,8 @@
 			"KaleemBhatti",
 			"Mehtab ahmed",
 			"Sindhu",
-			"Tweety"
+			"Tweety",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "وڪيميڊيا مخصوص پيغام",
@@ -100,13 +101,16 @@
 	"wikibase-sitelinks-wikivoyage": "وڪي‌سفر",
 	"wikibase-sitelinks-wiktionary": "وڪي‌لغت",
 	"wikibase-otherprojects-commons": "وڪيميڊيا العام",
+	"wikibase-otherprojects-foundation": "وڪيميڊيا فائونڊيشن",
 	"wikibase-otherprojects-testwikidata": "وڪيڊيٽا",
 	"wikibase-otherprojects-mediawiki": "ميڊياوڪي",
 	"wikibase-otherprojects-meta": "ميٽا-وڪي",
+	"wikibase-otherprojects-outreach": "وڪيميڊيا آئوٽريچ",
 	"wikibase-otherprojects-sources": "گهڻ-لساني وڪي‌ذريعو",
 	"wikibase-otherprojects-species": "وڪي‌جنسون",
 	"wikibase-otherprojects-wikibooks": "وڪي‌ڪتاب",
 	"wikibase-otherprojects-wikidata": "وڪيڊيٽا",
+	"wikibase-otherprojects-wikifunctions": "وڪي-ميڙاڪا",
 	"wikibase-otherprojects-wikinews": "وڪي‌خبرون",
 	"wikibase-otherprojects-wikiquote": "وڪي‌قول",
 	"wikibase-otherprojects-wikipedia": "وڪيپيڊيا",
@@ -121,6 +125,7 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "گهڻ-لساني وڪي‌ذريعو",
 	"wikibase-sitelinks-sitename-species": "وڪي‌جنسون",
 	"wikibase-sitelinks-sitename-wikidatawiki": "وڪيڊيٽا",
+	"wikimedia-taglines-outreach": "وڪيميڊيا آئوٽريچ وڪي",
 	"wikimedia-developers": "سِٽاڪار",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\nتوهانجو موجوده آئپي پتو $6 آهي.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
@@ -144,5 +149,6 @@
 	"group-docseditor-member": "{{GENDER:$1|دستاويزسازي سنواريندڙ}}",
 	"action-docseditor": "دستاويزسازي سنواريو",
 	"right-docseditor": "دستاويزسازي سنواريو",
-	"research-incentive-confirm-msg": "توهان جي مھرباني!"
+	"research-incentive-confirm-msg": "توهان جي مھرباني!",
+	"wikimedia-help-translate-prompt": "ترجمي ۾ مدد ڪرڻ چاهيو ٿا؟ $1 رهجي ويل نياپن جو ترجمو ڪريو."
 }

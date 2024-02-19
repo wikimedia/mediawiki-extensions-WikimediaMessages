@@ -4,7 +4,8 @@
 			"Julian Mendez",
 			"Malafaya",
 			"McDutchie",
-			"Nemo bis"
+			"Nemo bis",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messages specific de Wikimedia",
@@ -345,5 +346,8 @@
 	"readinglists-import-app": "Pro importar iste lista de lectura, installa le ultime version del app Wikipedia:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Discarga</a> e installa le ultime version del app de Wikipedia:",
 	"readinglists-list-empty-message": "Tu pote importar iste lista post installar le app Wikipedia.",
-	"ipinfo-global-contributions-url-label": "Contributiones global"
+	"ipinfo-global-contributions-url-label": "Contributiones global",
+	"wikimedia-help-translate-prompt": "Vole adjutar a traducer? [$1 Traduce le messages mancante].",
+	"wikimedia-translation-disclaimer-nolink": "Per favor nota que, in le caso de differentias in le significato o interpretation inter le version original in anglese de iste contento e un traduction, le version original in anglese prende le prioritate.",
+	"wikimedia-translation-disclaimer-withlink": "Per favor nota que, in le caso de differentias in le significato o interpretation inter le version original in anglese de iste contento e un traduction, le [[$1|version original in anglese]] prende le prioritate."
 }

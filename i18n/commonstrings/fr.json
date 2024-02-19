@@ -6,7 +6,10 @@
 		]
 	},
 	"wm-commonstrings-background": "Contexte",
+	"wm-commonstrings-bylaws": "Statuts",
 	"wm-commonstrings-closed": "Fermé",
+	"wm-commonstrings-connect": "Connecter",
+	"wm-commonstrings-contactus": "Contactez-nous",
 	"wm-commonstrings-events": "Événements",
 	"wm-commonstrings-mainpage-prompt": "Page d'accueil : $1",
 	"wm-commonstrings-objectives": "Objectifs",
@@ -15,6 +18,7 @@
 	"wm-commonstrings-overview": "Vue d’ensemble",
 	"wm-commonstrings-participate": "Participer",
 	"wm-commonstrings-reports": "Rapports",
+	"wm-commonstrings-resolutions": "Résolutions",
 	"wm-commonstrings-questions": "Des questions ?",
 	"wm-commonstrings-register-account": "Enregistrer un compte",
 	"wm-commonstrings-scope": "Étendue",

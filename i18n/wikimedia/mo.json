@@ -3,7 +3,8 @@
 		"authors": [
 			"Cybernenea11",
 			"Node ue",
-			"TheChampionMan1234"
+			"TheChampionMan1234",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Донаций",
@@ -13,5 +14,6 @@
 	"wikibase-sitelinks-wikiquote": "Викичитат",
 	"wikibase-sitelinks-wikisource": "Викисурсэ",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
-	"wikimedia-developers": "Дезволтаторь"
+	"wikimedia-developers": "Дезволтаторь",
+	"wikimedia-help-translate-prompt": "Дориць сэ ажутаць ку традучере? [$1 Традучець месажеле каре липсеск]."
 }

@@ -12,6 +12,7 @@
 			"Nemo bis",
 			"Roj im",
 			"Sarchia",
+			"Varnent",
 			"Épine",
 			"ئارام بکر",
 			"رزگار"
@@ -144,5 +145,6 @@
 	"wikimedia-statslink": "ئامارەکان",
 	"wikimedia-cookiestatement": "ڕوونکردنەوەی کوکی",
 	"protect-level-editautopatrolprotected": "تەنیا ڕێگە بە پاسدەرانی خۆگەڕ بدە",
-	"restriction-level-editautopatrolprotected": "پارێزراوی پاسدەرانی خۆگەڕ"
+	"restriction-level-editautopatrolprotected": "پارێزراوی پاسدەرانی خۆگەڕ",
+	"wikimedia-help-translate-prompt": "دەتەوێت یارمەتی وەرگێڕان بدەیت؟ [$1 پەیامە ونبووەکان وەربگێڕە]."
 }

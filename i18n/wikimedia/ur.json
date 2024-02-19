@@ -180,6 +180,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "میٹاویکی",
 	"wikibase-sitelinks-sitename-species": "ویکی انواع",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ویکی ڈیٹا",
+	"wikimedia-taglines-wikidata": "مفت علم کی بنیاد",
+	"wikimedia-taglines-wikivoyage": "مفت سفر گائیڈ",
 	"cant-delete-main-page": "آپ حذف یا منتقل کی سب سے کامیاب نہیں کر سکتے ہیں.",
 	"upload-more-photos-of-this-monument": "اس یادگار کی مزید تصاویر زبر اثقال (اپ لوڈ) کریں",
 	"createacct-captcha-help-url": "{{ns:Project}}:کھاتے کے لیے درخواست دیں",
@@ -209,5 +211,7 @@
 	"ext-quicksurveys-name": "کوئیک سرویز",
 	"readinglists-import-app": " مطالعہ کی یہ فہرست درآمد کرنے کے لیے ویکیپیڈیا ایپ کا تازہ ترین ورژن انسٹال کریں:",
 	"ipinfo-global-contributions-url-label": "عالمی شراکتیں",
-	"wikimedia-projects-label": "ویکیمیڈیا منصوبہ جات"
+	"wikimedia-projects-label": "ویکیمیڈیا منصوبہ جات",
+	"wikimedia-help-translate-prompt": "ترجمہ کرنے میں مدد کرنا چاہتے ہیں؟ [$1 رہ جانے والے پیغامات کا ترجمہ کریں].",
+	"wikimedia-nutshell-page-intro": "یہ صفحہ مختصر میں: $1"
 }

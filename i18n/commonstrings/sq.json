@@ -1,8 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Shih edhe"
+	"wm-commonstrings-background": "Prapavija",
+	"wm-commonstrings-closed": "Mbyllur",
+	"wm-commonstrings-connect": "Lidhu",
+	"wm-commonstrings-events": "Evente",
+	"wm-commonstrings-objectives": "Qëllimet",
+	"wm-commonstrings-ongoing": "Në vazhdim",
+	"wm-commonstrings-open": "Hapur",
+	"wm-commonstrings-overview": "Pasqyrë",
+	"wm-commonstrings-participate": "Merr pjesë",
+	"wm-commonstrings-reports": "Raporte",
+	"wm-commonstrings-questions": "Pyetje?",
+	"wm-commonstrings-register-account": "Krijo një llogari",
+	"wm-commonstrings-scope": "Fushëveprimi",
+	"wm-commonstrings-seealso": "Shih edhe",
+	"wm-commonstrings-staff": "Stafi",
+	"wm-commonstrings-talktous": "Fol me ne",
+	"wm-commonstrings-updates": "Përditësime"
 }

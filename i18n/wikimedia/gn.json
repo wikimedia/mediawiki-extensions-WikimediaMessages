@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fitoschido",
-			"P. S. F. Freitas"
+			"P. S. F. Freitas",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Me’ẽ rei",
@@ -11,7 +12,10 @@
 	"wikibase-sitelinks-wikiquote": "Vikiñe'ẽnga",
 	"wikibase-sitelinks-wikisource": "Vikihaipy",
 	"wikibase-sitelinks-wikivoyage": "Vikiandu",
+	"wikimedia-taglines-wikidata": "Arandu renda hekosãsóva",
+	"wikimedia-taglines-wikivoyage": "Mboguataha mombyry",
 	"wikimedia-developers": "Software omomba'apóva",
 	"wikimedia-statslink": "Papyrekokuaa",
-	"wikimedia-cookiestatement": "Declaración de cookies"
+	"wikimedia-cookiestatement": "Declaración de cookies",
+	"wikimedia-help-translate-prompt": "Nde reipota reipytyvõ ñembohasa ambue ñe'ẽme?. Opa mba'e ndaipóri peteĩ rendápe mante! Ehecha ñembohasa rysýi oĩva [$1 translation coordination page]-pe."
 }

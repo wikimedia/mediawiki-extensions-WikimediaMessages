@@ -6,7 +6,8 @@
 			"Bello Na'im",
 			"DonCamillo",
 			"Em-em",
-			"Kambai Akau"
+			"Kambai Akau",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Ba da kyauta",
@@ -18,6 +19,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-taglines-wikidata": "Matattarar ilimi ta kyauta",
+	"wikimedia-taglines-wikivoyage": "Jagoran tafiye-tafiye na kyauta",
 	"wikimedia-developers": "Magina",
 	"wikimedia-globalblocking-ipblocked": "'''Adireshin IP ɗin ku an [[m:Special:MyLanguage/Global blocks|kulle ta a dukkan wikis]].'''\n\nKullewa daga ma'aikaci $1 ($2).\nDalilin da aka bayar shi ne ''$3''.\n\n* Fara kullewa: $4\n* Ƙarshen kullewa: $5\n\nAdireshin ku na IP shi ne $6.\nKu sanya dukkan bayanin dake sama a ko'ina zaku nemi wani abu.\n\nIdan kun yarda an kulle ku da kuskure ne, kuna iya samun ƙarin bayanai da yadda zaku yi a [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nKo kuma, dan tattaunawa akan kullewar [[m:Steward requests/Global|yi ƙara dan a bibiya a Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Daya ko dayawa daga cikin servers da ku kayi amfani da su an [[m:Special:MyLanguage/Global blocks|kulle ta a dukkan wikis]].'''\n\nKullewa daga ma'aikaci $1 ($2).\nDalilin da aka bayar shi ne ''$3''.\n\n* Fara kullewa: $4\n* Ƙarshen kullewa: $5\n\nAdireshin ku na IP shi ne $6.\nKu sanya dukkan bayanin dake sama a ko'ina zaku nemi wani abu.\n\nIdan kun yarda an kulle ku da kuskure ne, kuna iya samun ƙarin bayanai da yadda zaku yi a [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nKo kuma, dan tattaunawa akan kullewar [[m:Steward requests/Global|yi ƙara dan a bibiya a Meta-Wiki]].",

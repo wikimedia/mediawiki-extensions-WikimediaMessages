@@ -4,6 +4,7 @@
 			"Demmy",
 			"Nemo bis",
 			"Oyatopeabioye",
+			"Varnent",
 			"Wikicology"
 		]
 	},
@@ -21,9 +22,14 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-taglines-wikidata": "Ile Eko Imo Ofe",
+	"wikimedia-taglines-wikivoyage": "Iwe Atona Irin Ajo ofe",
 	"wikimedia-developers": "Àwọn olùgbédàgbà",
 	"wikimedia-globalblocking-ipblocked": "'''Àdírẹ́sì IP rẹ ti jẹ́ [[m:Special:MyLanguage/Global blocks|dídílọ́nà lórí gbogbo àwọn wiki]].'''\n\nÌdínà rẹ wá lọ́wọ́ $1 ($2).\nÌdí tó wí nipé ''$3''.\n\n*Ìbẹ̀rẹ̀ ìdínà: $4\n*Ìparí ìdínà: $5\n\nÀdírẹ́sì IP rẹ yìí ni $6.\nJọ̀wọ́ fi gbogbo ọ̀kọ̀ọ̀kan òkè yìí sínú ìbérè tí o bá ṣe.\n\nTí o bá nígbàgbọ̀ pé ìdínà rẹ ṣẹlẹ̀ nítorí áṣìṣe, o le wo àfitétí míràn nínú ìpinu [[m:Special:MyLanguage/No open proxies|No open proxies]] gbogbo orí àwọn wiki.\nBíbẹ́ẹ̀kọ́, láti fọ̀rọ̀wérọ̀ nípa ìdínà náà jọ̀wọ́ [[m:Steward requests/Global|ṣe ìtọrọ fún àtúnyẹ̀wò lórí Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ìkan tàbí ọ̀pọ̀ àwọn ẹ̀rọ ìwọ̀fà bojuboju tí o lò láti fi ṣe ìtọrọ rẹ ti jẹ́ [[m:Special:MyLanguage/Global blocks|dídílọ́nà lórí gbogbo àwọn wiki]].'''\n\nÌdínà rẹ wá lọ́wọ́ $1 ($2).\nÌdí tó wí nipé ''$3''.\n\n*Ìbẹ̀rẹ̀ ìdínà: $4\n*Ìparí ìdínà: $5\n\nÀdírẹ́sì ẹ̀rọ ìwọ̀fà bojuboju náà ni $6.\nJọ̀wọ́ fi gbogbo ọ̀kọ̀ọ̀kan òkè yìí sínú ìbérè tí o bá ṣe.\n\nTí o bá nígbàgbọ̀ pé ìdínà rẹ ṣẹlẹ̀ nítorí áṣìṣe, o le wo àfitétí míràn nínú ìpinu [[m:Special:MyLanguage/No open proxies|No open proxies]] gbogbo orí àwọn wiki.\nBíbẹ́ẹ̀kọ́, láti fọ̀rọ̀wérọ̀ nípa ìdínà náà jọ̀wọ́ [[m:Steward requests/Global|ṣe ìtọrọ fún àtúnyẹ̀wò lórí Meta-Wiki]].",
 	"wikimedia-statslink": "Iṣiro",
-	"wikimedia-cookiestatement": "gbólóhùn kuki"
+	"wikimedia-cookiestatement": "gbólóhùn kuki",
+	"wikimedia-news-label": "Àwọn ìròyìn Wikimedia",
+	"wikimedia-translation-disclaimer-nolink": "Jọwọ ṣakiyesi pe ninu iṣẹlẹ eyikeyi iyatọ ninu itumọ tabi itumọ laarin ẹda Gẹẹsi atilẹba ti akoonu yii ati itumọ, ẹya Gẹẹsi atilẹba gba iṣaaju.",
+	"wikimedia-translation-disclaimer-withlink": "Jọwọ ṣakiyesi pe ninu iṣẹlẹ eyikeyi iyatọ ninu itumọ tabi itumọ laarin ẹda Gẹẹsi atilẹba ti akoonu yii ati itumọ, [[$1|ẹya Gẹẹsi atilẹba]] gba iṣaaju."
 }

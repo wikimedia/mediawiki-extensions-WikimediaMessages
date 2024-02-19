@@ -16,6 +16,7 @@
 			"Sopho",
 			"Temuri rajavi",
 			"Tokoko",
+			"Varnent",
 			"לערי ריינהארט",
 			"გიორგიმელა",
 			"ჯეო",
@@ -160,6 +161,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "მრავალენოვანი ვიკიწყარო",
 	"wikibase-sitelinks-sitename-species": "ვიკისახეობები",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ვიკიმონაცემები",
+	"wikimedia-taglines-wikidata": "მონაცემთა ბაზა",
+	"wikimedia-taglines-wikivoyage": "თავისუფალი გზამკვლევი",
 	"cant-delete-main-page": "თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.",
 	"upload-more-photos-of-this-monument": "ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა",
 	"wikimedia-developers": "შემქმნელები",
@@ -185,5 +188,6 @@
 	"eri-wlfilters-tour-intro-preferences-description": "კონტროლის სიის გაუმჯობესებული ვერსიის გასათიშად ნებისმიერ დროს გადადით პარამეტრების სექციაში „კონტროლის სია“.",
 	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]",
 	"wikimedia-statslink": "სტატისიკა",
-	"wikimedia-cookiestatement": "მზა ფაილების პოლიტიკა"
+	"wikimedia-cookiestatement": "მზა ფაილების პოლიტიკა",
+	"wikimedia-help-translate-prompt": "გინდათ თარგმნაში დაგვეხმაროთ? [$1 თარგმნეთ გამოტოვებული შეტყობინებები]."
 }

@@ -162,6 +162,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wici",
 	"wikibase-sitelinks-sitename-species": "Wicirywogaeth",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wicidata",
+	"wikimedia-taglines-wikidata": "Sail wybodaeth am ddim",
+	"wikimedia-taglines-wikivoyage": "Canllaw teithio am ddim",
 	"cant-delete-main-page": "Ni allwch ddileu'r brif dudalen na'i symud.",
 	"wikimedia-translationnotifications-signup-legal": "Wrth roi'r wybodaeth hon i Sefydliad Wicifryngau rydych yn cytuno y gallwn gysylltu â chi ynglŷn â chyfieithu neu faterion eraill yn gysylltiedig â mudiad Wicifryngau, y tybiwn y byddent o ddiddordeb i chi. Rydych yn cytuno y gall eich gwybodaeth gael ei roi ar gadw yn Unol Daleithiau America a'i bod yn rhwym wrth ein [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy polisi preifatrwydd].",
 	"upload-more-photos-of-this-monument": "Uwchlwytho rhagor o luniau o'r gofeb hon",
@@ -183,6 +185,7 @@
 	"eri-rcfilters-tour-highlight-button": "Iawn",
 	"eri-wlfilters-tour-intro-welcome-title": "Croeso i'r dull diweddaraf o ffiltro eich Rhestr Wylio",
 	"wikimedia-statslink": "Ystadegau",
+	"wikimedia-wikistats-label": "Wicistats",
 	"wikimedia-cookiestatement": "Datganiad cwcis",
 	"group-oathauth-tester": "Profwyr dilysu dau ffactor",
 	"group-docseditor": "Golygyddion dogfennaeth",
@@ -200,5 +203,8 @@
 	"gadget-souspages-subpages": "Is-dudalennau",
 	"research-incentive-confirm-msg": "Diolch!",
 	"ipinfo-global-contributions-url-label": "Cyfraniadau cydwici",
-	"wikimedia-projects-label": "Prosiectau Wikimedia"
+	"wikimedia-foundation-projects-label": "Projectau'r Sefydliad Wicimedia",
+	"wikimedia-projects-label": "Prosiectau Wikimedia",
+	"wikimedia-mailservices-label": "Gwasanaethau Bost Wicimedia",
+	"wikimedia-help-translate-prompt": "Awydd ein cynorthwyo i gyfieithu? [$1 Cyfieithwch y negeseuon coll]."
 }

@@ -212,6 +212,11 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Monikielinen Wikiaineisto",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-sources": "Vapaasisältöinen kirjasto",
+	"wikimedia-taglines-wikidata": "Vapaa tietopankki",
+	"wikimedia-taglines-wikinews": "Vapaa uutispalvelu",
+	"wikimedia-taglines-wikivoyage": "Vapaa matkaopas",
+	"wikimedia-taglines-wiktionary": "Vapaa sanakirja",
 	"cant-delete-main-page": "Etusivua ei voi poistaa tai siirtää.",
 	"wikimedia-translationnotifications-signup-legal": "Antamalla nämä tiedot Wikimedia-säätiölle hyväksyt, että voimme ottaa sinuun yhteyttä liittyen käännöksiin ja muihin Wikimedia-liikkeeseen liittyviin aiheisiin, joiden luulemme kiinostavan sinua. Hyväksyt, että tietosi tallennnetaan Yhdysvalloissa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy tietosuojakäytäntöömme] perustuen.",
 	"upload-more-photos-of-this-monument": "Tallenna lisää kuvia tästä monumentista",
@@ -276,5 +281,12 @@
 	"readinglists-list-empty-message": "Voit tuoda tämän listan asentamalla Wikipedia-sovelluksen.",
 	"research-incentive-confirm-msg": "Kiitos!",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset",
-	"wikimedia-projects-label": "Wikimedia-projektit"
+	"wikimedia-foundation-projects-label": "Wikimedia-säätiön projektit",
+	"wikimedia-projects-label": "Wikimedia-projektit",
+	"wikimedia-movement-affiliates-shortlabel": "Liikkeen verkosto",
+	"wikimedia-news-label": "Wikimedian uutiset",
+	"wikimedia-help-translate-prompt": "Haluatko auttaa kääntämisessä? [$1 Käännä puuttuvia viestejä].",
+	"wikimedia-nutshell-page-intro": "Tämä sivu pähkinänkuoressa: $1",
+	"wikimedia-translation-disclaimer-nolink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, alkuperäinen englanninkielinen versio pätee.",
+	"wikimedia-translation-disclaimer-withlink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, [[$1|alkuperäinen englanninkielinen versio]] pätee."
 }

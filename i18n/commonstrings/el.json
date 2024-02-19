@@ -1,8 +1,27 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Δείτε επίσης"
+	"wm-commonstrings-background": "Υπόβαθρο",
+	"wm-commonstrings-closed": "Έκλεισε",
+	"wm-commonstrings-connect": "Σύνδεση",
+	"wm-commonstrings-contactus": "Επικοινωνήστε μαζί μας",
+	"wm-commonstrings-events": "Εκδηλώσεις",
+	"wm-commonstrings-objectives": "Στόχοι",
+	"wm-commonstrings-ongoing": "Σε εξέλιξη",
+	"wm-commonstrings-open": "Ανοιχτό",
+	"wm-commonstrings-overview": "Επισκόπηση",
+	"wm-commonstrings-participate": "Συμμετέχετε",
+	"wm-commonstrings-reports": "Αναφορές",
+	"wm-commonstrings-resolutions": "Ψηφίσματα",
+	"wm-commonstrings-questions": "Ερωτήσεις;",
+	"wm-commonstrings-register-account": "Δημιουργία λογαριασμού",
+	"wm-commonstrings-scope": "Πεδίο δράσης",
+	"wm-commonstrings-seealso": "Δείτε επίσης",
+	"wm-commonstrings-staff": "Προσωπικό",
+	"wm-commonstrings-talktous": "Επικοινωνήστε μαζί μας",
+	"wm-commonstrings-updates": "Ενημερώσεις"
 }

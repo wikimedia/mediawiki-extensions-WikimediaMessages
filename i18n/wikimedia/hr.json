@@ -16,12 +16,14 @@
 			"Mouse21",
 			"Nemo bis",
 			"Neptune, the Mystic",
+			"Nikki",
 			"Ponor",
 			"Roberta F.",
 			"SpeedyGonsales",
 			"Srdjan m",
 			"Srđan",
 			"Teoo3",
+			"Varnent",
 			"Vlad5250",
 			"Zoranzoki21"
 		]
@@ -238,6 +240,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikivrste",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikipodatci",
+	"wikimedia-taglines-wikidata": "Slobodna baza znanja",
+	"wikimedia-taglines-wikivoyage": "Slobodno gradivo putničkih vodiča",
 	"cant-delete-main-page": "Nemate ovlast brisati i/ili premještati glavnu stranicu.",
 	"wikimedia-developers": "Razvojni programeri",
 	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa je [[m:Special:MyLanguage/Global blocks|blokirana na svim wikijima]].'''\n\nBlokiranje je izvršio suradnik/ca $1 ($2).\nNavedeni razlog je: ''$3''.\n\n* Početak blokiranja: $4 \n* Kraj blokiranja: $5 \n\nVaša je trenutačna IP adresa $6.\nMolimo Vas, navedite sve gore navedene detalje u Vašim upitima.\n\nAko smatrate da ste blokirani greškom, možete pronaći dodatne informacije i upute na stranici s globalnim pravilima: [[m:Special:MyLanguage/No open proxies|Bez otvorenih proxyja]].\nU protivnom, kako biste raspravili o blokiranju, molimo Vas da [[m:Steward requests/Global|se obratite zahtjevom za reviziju na Meta-Wikiju]].",
@@ -293,6 +297,7 @@
 	"right-viewdeletedfile": "Vidi pobrisane datoteke i stranice u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Izbori za članove Skrbničkoga odbora Zaklade Wikimedija",
 	"wikimedia-statslink": "Statistika",
+	"wikimedia-wikistats-label": "Wikistatistike",
 	"wikimedia-cookiestatement": "Izjava o kolačićima",
 	"group-oathauth-tester": "Ispitivači dvofaktorske autentifikacije",
 	"group-oathauth-tester-member": "{{GENDER:$1|ispitivač dvofaktorske autentifikacije|ispitivačica dvofaktorske autentifikacije}}",
@@ -305,5 +310,10 @@
 	"action-docseditor": "uređivanje dokumentacije",
 	"right-docseditor": "Uređivanje dokumentacije",
 	"ipinfo-feedback-button-label": "Napišite povratnu informaciju",
-	"ipinfo-global-contributions-url-label": "Globalni doprinosi"
+	"gadget-souspages-subpages": "Podstranice",
+	"ipinfo-global-contributions-url-label": "Globalni doprinosi",
+	"wikimedia-foundation-projects-label": "Projekti Zaklade Wikimedija",
+	"wikimedia-projects-label": "Wikimedijini projekti",
+	"wikimedia-help-translate-prompt": "Želite li pomoći s prevođenjem? [$1 Prevedite poruke koje nemaju prijevod].",
+	"wikimedia-nutshell-page-intro": "Ova stranica u najkraćim crtama: $1"
 }

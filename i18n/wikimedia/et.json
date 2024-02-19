@@ -7,9 +7,11 @@
 			"Kareyac",
 			"Ker",
 			"Nemo bis",
+			"Nikki",
 			"Oop",
 			"Pikne",
 			"Platonides",
+			"Varnent",
 			"WikedKentaur"
 		]
 	},
@@ -245,5 +247,7 @@
 	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
 	"ipinfo-feedback-button-label": "Jäta tagasisidet",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Jah",
-	"ipinfo-global-contributions-url-label": "Globaalne kaastöö"
+	"gadget-souspages-subpages": "Alamlehed",
+	"ipinfo-global-contributions-url-label": "Globaalne kaastöö",
+	"wikimedia-help-translate-prompt": "Soovid aidata tõlkida? [$1 Tõlgi puuduvad osad]."
 }

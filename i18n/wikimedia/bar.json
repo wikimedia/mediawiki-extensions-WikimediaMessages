@@ -4,6 +4,7 @@
 			"Alexx",
 			"Joe Watzmo",
 			"Mucalexx",
+			"Varnent",
 			"WikiBayer"
 		]
 	},
@@ -19,5 +20,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Entwickla",
 	"wikimedia-statslink": "Statistiken",
-	"wikimedia-cookiestatement": "Stellungsnåm zua dé Cookies"
+	"wikimedia-cookiestatement": "Stellungsnåm zua dé Cookies",
+	"wikimedia-help-translate-prompt": "Mogst bein Iwasetzn hejfa? [$1 Iwasetz de failadn Nochrichtn]."
 }

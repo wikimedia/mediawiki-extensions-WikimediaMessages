@@ -8,6 +8,7 @@
 			"Nirajan pant",
 			"Parbat subedi",
 			"Tulsi Bhagat",
+			"Varnent",
 			"पर्वत सुबेदी",
 			"बडा काजी",
 			"बिप्लब आनन्द",
@@ -108,6 +109,7 @@
 	"eri-wlfilters-tour-intro-preferences-description": "सुधारिएको अवलाेकनसूचीबाट निर्णय गर्नका लागि कुनै पनि समयमा प्राथमिकतामा अवलाेकनसूचीमा पहुँच गर्नुहोस्।",
 	"wikimedia-statslink": "तथ्याङ्कहरू",
 	"wikimedia-cookiestatement": "स्मृतिशेष विवरण",
+	"ext-quicksurveys-name": "छोटो सर्वेक्षणहरू",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "हो",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "होइन",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "तपाईंको प्रतिक्रियाको लागि धन्यवाद।",
@@ -118,5 +120,9 @@
 	"research-incentive-answer-positive": "हो",
 	"research-incentive-answer-negative": "होइन",
 	"research-incentive-confirm-msg": "धन्यवाद!",
-	"ipinfo-global-contributions-url-label": "विश्वव्यापी योगदानहरू"
+	"ipinfo-global-contributions-url-label": "विश्वव्यापी योगदानहरू",
+	"wikimedia-projects-label": "विकिमिडिया परियोजनाहरू",
+	"wikimedia-help-translate-prompt": "अनुवादमा सहयोग गर्न चाहनुहुन्छ? [$1 छुटेका सन्देश अनुवाद गर्नुहोस्]",
+	"wikimedia-translation-disclaimer-nolink": "कृपया यस सामग्रीको मूल अङ्ग्रेजी संस्करण र अनुवादबीच अर्थ वा व्याख्यामा कुनै भिन्नता भएमा ध्यान दिनुहोस्, मूल अङ्ग्रेजी संस्करणले प्राथमिकता लिएको छ।",
+	"wikimedia-translation-disclaimer-withlink": "कृपया यस सामग्रीको मूल अङ्ग्रेजी संस्करण र अनुवादबीच अर्थ वा व्याख्यामा कुनै भिन्नता भएमा ध्यान दिनुहोस्, [[$1|मूल अङ्ग्रेजी संस्करण]]ले प्राथमिकता लिएको छ।"
 }

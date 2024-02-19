@@ -243,6 +243,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "다언어 위키문헌",
 	"wikibase-sitelinks-sitename-species": "위키생물종",
 	"wikibase-sitelinks-sitename-wikidatawiki": "위키데이터",
+	"wikimedia-taglines-wikidata": "자유 지식 베이스",
+	"wikimedia-taglines-wikivoyage": "자유 여행 가이드",
 	"cant-delete-main-page": "대문 문서를 삭제하거나 이동할 수 없습니다.",
 	"wikimedia-translationnotifications-signup-legal": "이 정보를 위키미디어 재단을 제공하여 우리가 번역하거나 우리가 당신에게 관심이 있을 것으로 생각하는 위키백과의 움직임과 관련된 다른 주제와 관련하여 연락을 취할 수 있다는 데 동의합니다. 데이터를 미국에 저장하고 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 개인정보보호정책]의 적용을 받는 데 동의합니다.",
 	"upload-more-photos-of-this-monument": "이 기념물의 더 많은 사진 올리기",
@@ -330,5 +332,9 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "확실치 않음",
 	"gadget-souspages-subpages": "하위 문서",
 	"ipinfo-global-contributions-url-label": "전역 기여",
-	"wikimedia-projects-label": "위키미디어 프로젝트"
+	"wikimedia-projects-label": "위키미디어 프로젝트",
+	"wikimedia-help-translate-prompt": "번역을 돕고 싶으세요? [$1 아직 번역되지 않은 메시지를 번역해 보세요].",
+	"wikimedia-nutshell-page-intro": "이 내용을 요약하면： $1",
+	"wikimedia-translation-disclaimer-nolink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, 영어 원본이 우선한다는 점을 주의하십시오.",
+	"wikimedia-translation-disclaimer-withlink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, [[$1|영어 원본]]이 우선한다는 점을 주의하십시오."
 }

@@ -6,6 +6,7 @@
 			"LoveIceLang",
 			"Maxí",
 			"Nemo bis",
+			"Nikki",
 			"S.Örvarr.S",
 			"Snævar",
 			"Spacebirdy",
@@ -96,5 +97,6 @@
 	"wikimedia-cookiestatement": "Yfirlýsing vegna vefkakna",
 	"action-edit-legal": "breyta síðum með hugsanlegum lagalegum afleiðingum",
 	"gadget-curidlink-link-by-id": "Tengill eftir auðkenni",
-	"gadget-curidlink-link-by-id-desc": "Sýna tengil á þessa síðu með auðkenni hennar"
+	"gadget-curidlink-link-by-id-desc": "Sýna tengil á þessa síðu með auðkenni hennar",
+	"gadget-souspages-subpages": "Undirsíður"
 }

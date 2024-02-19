@@ -12,7 +12,8 @@
 			"Njardarlogar",
 			"Ranveig",
 			"Roarjo",
-			"Sophie"
+			"Sophie",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke meldingar",
@@ -197,5 +198,6 @@
 	"wikimedia-centralauth-contribs-locked": "Denne kontoen er låst globalt.\nSjå [[m:Special:CentralAuth/$1|globale kontodetaljar]] for meir informasjon.",
 	"securepoll-dblist-securepollglobal": "Styreval",
 	"wikimedia-statslink": "Statistikk",
-	"wikimedia-cookiestatement": "Fråsegn om informasjonskapslar"
+	"wikimedia-cookiestatement": "Fråsegn om informasjonskapslar",
+	"wikimedia-nutshell-page-intro": "Denne sida i eit nøtteskal: $1"
 }

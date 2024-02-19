@@ -3,6 +3,7 @@
 		"authors": [
 			"Agusbou2015",
 			"Codex Sinaiticus",
+			"Varnent",
 			"Yeniesil"
 		]
 	},
@@ -16,5 +17,6 @@
 	"wikibase-sitelinks-wikivoyage": "ዊኪጉዞ",
 	"wikimedia-developers": "ገንቢ",
 	"wikimedia-statslink": "እስታትስቲክስ",
-	"wikimedia-cookiestatement": "የሚል ቃል"
+	"wikimedia-cookiestatement": "የሚል ቃል",
+	"wikimedia-help-translate-prompt": "በመተርጎም ለመርዳት የፈልጋሉ? [$1 የ የጎደሉ መልዕክቶችን ይተርጉሙ]"
 }

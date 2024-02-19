@@ -260,6 +260,11 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multibahasa",
 	"wikibase-sitelinks-sitename-species": "Wikispesies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-sources": "Perpustakaan konten bebas",
+	"wikimedia-taglines-wikidata": "Pusat pengetahuan bebas",
+	"wikimedia-taglines-wikinews": "Sumber berita bebas",
+	"wikimedia-taglines-wikivoyage": "Panduan perjalanan bebas",
+	"wikimedia-taglines-wiktionary": "Kamus bebas",
 	"apihelp-wbsearchentities-paramvalue-profile-language": "Profil untuk mencari butir tentang bahasa alami.",
 	"apihelp-query+wbsearch-paramvalue-profile-language": "Profil untuk mencari butir tentang bahasa alami.",
 	"cant-delete-main-page": "Anda tidak dapat menghapus atau memindahkan halaman utama.",
@@ -389,5 +394,14 @@
 	"ipinfo-global-contributions-url-label": "Kontribusi global",
 	"protect-level-edit-legal": "Hanya izinkan pengguna yang dapat menyunting halaman terkait hal-hal hukum",
 	"restriction-level-edit-legal": "dilindungi untuk alasan hukum",
-	"wikimedia-projects-label": "Proyek-Proyek Wikimedia"
+	"wikimedia-foundation-projects-label": "proyek Wikimedia Foundation",
+	"wikimedia-projects-label": "Proyek-Proyek Wikimedia",
+	"wikimedia-mailservices-label": "Layanan pos-el Wikimedia",
+	"wikimedia-movement-affiliates-shortlabel": "Para afiliasi gerakan",
+	"wikimedia-news-label": "Berita Wikimedia",
+	"wikimedia-help-translate-prompt": "Ingin membantu menerjemahkan? [$1 Terjemahkan pesan yang belum ada].",
+	"wikimedia-nutshell-page-intro": "Ringkasan halaman ini: $1",
+	"wikimedia-translation-disclaimer-nolink": "Harap ingat bahwa jika ada perbedaan dalam arti atau interpretasi antara versi bahasa Inggris asli dari pedoman ini dan terjemahannya, versi bahasa Inggris lah yang akan diutamakan.",
+	"wikimedia-translation-disclaimer-withlink": "Harap ingat bahwa jika ada perbedaan dalam arti atau interpretasi antara versi bahasa Inggris asli dari pedoman ini dan terjemahannya, [[$1|versi bahasa Inggris]] lah yang akan diutamakan.",
+	"wikimedia-talk-archive-page-intro": "Ini adalah '''arsip''' diskusi lawas. '''Jangan sunting halaman ini.''' Jika Anda ingin memulai diskusi baru atau menghidupkan kembali diskusi lama, harap lakukan di [[$1|halaman pembicaraan saat ini]]."
 }

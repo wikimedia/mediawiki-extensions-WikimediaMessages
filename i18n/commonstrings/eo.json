@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
+	"wm-commonstrings-contactus": "Kontaktu nin",
 	"wm-commonstrings-seealso": "Vidu ankaŭ"
 }
