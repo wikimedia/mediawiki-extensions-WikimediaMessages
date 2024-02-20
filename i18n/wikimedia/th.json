@@ -18,7 +18,9 @@
 			"Pilarbini",
 			"Trisorn Triboon",
 			"Woraponboonkerd",
-			"Ekminarin"
+			"Ekminarin",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "ข้อความเฉพาะของวิกิมีเดีย",
@@ -293,6 +295,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "ใช่",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "ไม่",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "ไม่แน่ใจ",
+	"gadget-souspages-subpages": "หน้ารอง",
 	"research-incentive-answer-positive": "ใช่",
 	"research-incentive-answer-negative": "ไม่",
 	"research-incentive-privacy": "ดูนโยบายความเป็นส่วนตัวของเราและเรียนรู้เพิ่มเติมเกี่ยวกับโครงการวิจัยของเรา[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program ที่นี่]",

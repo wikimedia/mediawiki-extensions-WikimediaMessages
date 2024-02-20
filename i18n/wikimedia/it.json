@@ -31,7 +31,9 @@
 			"Stefano-c",
 			"Superpes15",
 			"Una giornata uggiosa '94",
-			"Valerio Bozzolan"
+			"Valerio Bozzolan",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -277,5 +279,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
+	"gadget-souspages-subpages": "Sottopagine",
 	"readinglists-import-app": "Per importare questo elenco di lettura, installa l'ultima versione dell'app Wikipedia:"
 }

@@ -6,7 +6,8 @@
 			"GatoSelvadego",
 			"Iohanen",
 			"Nemo bis",
-			"Vajotwo"
+			"Vajotwo",
+			"Nikki"
 		]
 	},
 	"wikimediamessages-desc": "Mesaji speçifeghi de Wikimedia",
@@ -141,5 +142,6 @@
 	"wikimedia-statslink": "Statisteghe",
 	"wikimedia-cookiestatement": "Dichiarasion sui cookie",
 	"querypage-updates-half-monthly": "Sta pàjina ła vien ajornata dó ólte al mexe",
-	"querypage-updates-monthly": "Sta pàjina ła vien ajornada ogni mexe"
+	"querypage-updates-monthly": "Sta pàjina ła vien ajornada ogni mexe",
+	"gadget-souspages-subpages": "Sotopàzene"
 }

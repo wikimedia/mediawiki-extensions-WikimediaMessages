@@ -10,7 +10,9 @@
 			"Oop",
 			"Pikne",
 			"Platonides",
-			"WikedKentaur"
+			"WikedKentaur",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-eriomased sõnumid",
@@ -248,5 +250,6 @@
 	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
 	"ipinfo-feedback-button-label": "Jäta tagasisidet",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Jah",
+	"gadget-souspages-subpages": "Alamlehed",
 	"ipinfo-global-contributions-url-label": "Globaalne kaastöö"
 }

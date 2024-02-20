@@ -2,13 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Akpanufun",
-			"Uduakj"
+			"Uduakj",
+			"Akpan Ndifreke",
+			"Enojohn"
 		]
 	},
+	"sitesupport": "Baka",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "An si bot",
-	"wikimedia-statslink": "Nahga mkpo aba"
+	"wikimedia-statslink": "Nahga mkpo aba",
+	"wikimedia-cookiestatement": "Cookie statement"
 }
