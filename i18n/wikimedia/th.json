@@ -18,7 +18,9 @@
 			"Pilarbini",
 			"Trisorn Triboon",
 			"Woraponboonkerd",
-			"Ekminarin"
+			"Ekminarin",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "ข้อความเฉพาะของวิกิมีเดีย",
@@ -297,6 +299,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "ใช่",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "ไม่",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "ไม่แน่ใจ",
+	"gadget-souspages-subpages": "หน้ารอง",
 	"research-incentive-message": "คุณต้องการมีส่วนร่วมในการวิจัยผู้ใช้สำหรับวิกิพีเดียหรือไม่?",
 	"research-incentive-description": "กรอกแบบฟอร์มเพื่อลงทะเบียนในรายชื่อผู้เข้าร่วมของเรา คุณจะได้รับการติดต่อเป็นระยะเพื่อแจ้งโอกาสในการเข้าร่วมการศึกษาวิจัยของวิกิพีเดีย คุณสามารถลบตัวเองออกจากรายการได้ตลอดเวลา",
 	"research-incentive-answer-positive": "ใช่",

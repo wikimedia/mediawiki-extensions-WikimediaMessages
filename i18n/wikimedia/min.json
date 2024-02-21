@@ -5,7 +5,9 @@
 			"David Wadie Fisher-Freberg",
 			"Iwan Novirion",
 			"Naval Scene",
-			"Nemo bis"
+			"Nemo bis",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Pasan spesifik Wikimedia",
@@ -128,5 +130,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''Alamaik IP Sanak alah [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n*Mulo disakek: $4\n*Bateh maso sakek: $5\n\nAlamaik IP Sanak kini adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo disakek: $4\n* Bateh maso sakek: $5\n\nAlamaik proksi nan disakek adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
 	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Panyatoan kuki"
+	"wikimedia-cookiestatement": "Panyatoan kuki",
+	"gadget-souspages-subpages": "Sublaman"
 }

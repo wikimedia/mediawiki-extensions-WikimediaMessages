@@ -8,11 +8,14 @@
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया विशिष्ट अस्थायी संदेश",
-	"grouppage-oversight": "{{ns:project}}:ओवरसाईट",
-	"group-oversight": "ओवरसाईट अधिकारी",
-	"group-oversight-member": "{{GENDER:$1|ओवरसाईट}}",
+	"grouppage-oversight": "{{ns:project}}:ओवरसाइट",
+	"group-oversight": "ओवरसाइटर्स",
+	"group-oversight-member": "{{GENDER:$1|ओवरसाइट}}",
 	"hello": "नमस्ते",
-	"please-translate": "कृपया अपनी भाषा में अनुवाद करने में सहायता करें",
+	"please-translate": "कृपया अपनी भाषा में अनुवादित करने में सहायता करें",
 	"thank-you": "{{GENDER:$1|धन्यवाद।}}",
-	"specialblockfeedback": "प्रतिक्रिया"
+	"specialblockfeedback": "प्रतिक्रिया",
+	"specialinvestigate-feedback": "प्रतिक्रिया छोडें",
+	"graph-disabled-category": "अक्षम ग्राफ़ वाले पृष्ठ",
+	"graph-disabled-category-desc": "इस पृष्ठ पर एक <code><nowiki><graph></nowiki></code> टैग है, जो अस्थायी रूप से अनुपलब्ध है ([[phab:T334940|T334940]])।"
 }

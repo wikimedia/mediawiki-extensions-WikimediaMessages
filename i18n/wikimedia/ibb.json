@@ -2,13 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Akpanufun",
-			"Uduakj"
+			"Uduakj",
+			"Akpan Ndifreke",
+			"Enojohn"
 		]
 	},
+	"sitesupport": "Baka",
+	"wikimedia-copyright": "Nwed aba ke diak <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nmkpo nwen aya diana.\nSe <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Nagha Udu</a> kama mi.",
+	"wikimedia-copyrightwarning": "Adi yak ukpogho mkpo, ame yimme ke [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Se Atang], ye ame yimme afid uked adi sin se adiongho ke idak [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] ye [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAme yimme ke ebuana or URL akem ke idak Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "An si bot",
-	"wikimedia-statslink": "Nahga mkpo aba"
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) anam itiad ami.\nNtak asine ke ''$3''.\n\n* Ntongho itiad: $4\n* Ukwenghe itad: $5\n\nIdagha ami mfo IP address ado $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) anam itiad ami.\nNtak asine ke ''$3''.\n\n* Ntongho itiad: $4\n* Ukwenghe itad: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-statslink": "Nahga mkpo aba",
+	"wikimedia-cookiestatement": "Cookie statement"
 }

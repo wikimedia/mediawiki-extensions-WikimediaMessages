@@ -18,7 +18,8 @@
 			"Samat",
 			"Tacsipacsi",
 			"Tgr",
-			"Urbalazs"
+			"Urbalazs",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -191,11 +192,11 @@
 	"upload-more-photos-of-this-monument": "További fotók feltöltése erről a műemlékről",
 	"createacct-captcha-help-url": "{{ns:Project}}:Felhasználói fiók kérése",
 	"wikimedia-developers": "Fejlesztők",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nA blokkot $1 ($2) állította be.\nA blokkolás indoklása ''$3''.\n\n* Blokk kezdete: $4\n* Blokk lejárata: $5\n\nA jelenlegi IP-címed $6.\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nA blokkot $1 ($2) állította be.\nA blokkolás indoklása ''$3''.\n\n* Blokk kezdete: $4\n* Blokk lejárata: $5\n\nA jelenlegi IP-címed $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nA blokkot $1 ($2) hozta létre.\nA megadott indok: ''$3''.\n\nBlokk kezdete: $4\nBlokk vége: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-torblock-blocked": "Az IP-címed (<strong>$1</strong>) automatikusan blokkolva lett, mivel Tor-végpontként azonosítottuk.\nToron keresztül nem lehet szerkeszteni a visszaélések megakadályozása céljából.\nA legitim felhasználóknak szóló további információkért és útmutatóért lásd a [[m:Special:MyLanguage/No open proxies|Nincsenek nyílt proxyk]] globális irányelvet.",
-	"upload-form-label-own-work-message-commons": "Igazolom, hogy én birtoklom a fájl szerzői jogait, és egyetértek azzal, hogy visszavonhatatlanul közzéteszem a fájlt a Wikimédia Commonson a [https://creativecommons.org/licenses/by-sa/4.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 4.0] licenc alatt, és egyetértek a [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use felhasználási feltételekkel].",
-	"upload-form-label-not-own-work-message-commons": "Ha nem birtoklod a fájl szerzői jogait vagy más licenc alatt szeretnéd közzétenni, fontold meg a [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Feltöltésvarázslójának] használatát.",
+	"upload-form-label-own-work-message-commons": "Kijelentem, hogy én vagyok a fájl szerzői jogainak tulajdonosa, egyetértek azzal, hogy visszavonhatatlanul közzéteszem a fájlt a Wikimédia Commonson a [https://creativecommons.org/licenses/by-sa/4.0/deed.hu Creative Commons Nevezd meg! – Így add tovább! 4.0] licenc alatt, és elfogadom a [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu felhasználási feltételeket].",
+	"upload-form-label-not-own-work-message-commons": "Ha nem te vagy a fájl szerzői jogainak tulajdonosa, vagy más licenc alatt szeretnéd közzétenni, fontold meg a [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Feltöltésvarázslójának] használatát.",
 	"upload-form-label-not-own-work-local-commons": "Megpróbálhatod használni [[Special:Upload|a(z) {{SITENAME}} feltöltési lapját]] is, ha ezt a fájlt fel lehet tölteni az itteni irányelvek szerint.",
 	"wikimedia-upload-nolicenses": "A fájlfeltöltés ezen a wikin nem engedélyezett. Az itt használandó fájlokat a [[commons:Special:UploadWizard|Wikimédia Commonsra]] lehet feltölteni.\n\nAhhoz, hogy ezen a speciális lapon is lehessen feltölteni erre a wikire, egy adminisztrátornak hozzá kell adnia egy vagy több licencopciót a [[MediaWiki:Licenses]] laphoz a következő formátumban: <code>* Sablon neve|Címke</code>. Bármilyen egyéb szöveg hozzáadásával engedélyezhető a feltöltés licencopciók nélkül.",
 	"interlanguage-link-mul": "További nyelvek",

@@ -32,7 +32,9 @@
 			"TAndic (WMF)",
 			"Toniher",
 			"Vriullop",
-			"Xavier Dengra"
+			"Xavier Dengra",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -215,5 +217,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sí",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "No n’estic segur/a",
-	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Aquest sondeig anònim està dirigit per la Fundació Wikimedia ([https://meta.wikimedia.org/wiki/Community_Safety més informació] - [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaració de privacitat])."
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Aquest sondeig anònim està dirigit per la Fundació Wikimedia ([https://meta.wikimedia.org/wiki/Community_Safety més informació] - [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaració de privacitat]).",
+	"gadget-souspages-subpages": "Subpàgines"
 }
