@@ -4,6 +4,7 @@
 			"varnent"
 		]
 	},
+	"wm-commonstrings-activities": "String commonly used in navigation or headers for content related to an entity's happenings",
 	"wm-commonstrings-agenda": "String commonly used in navigation or headers for content related to an entity's meeting agenda",
 	"wm-commonstrings-background": "String commonly used in navigation or headers for content with historical or summary information on a given topic",
 	"wm-commonstrings-bylaws": "String commonly used in navigation or headers for content related to an entity's governing document",
@@ -11,7 +12,9 @@
 	"wm-commonstrings-connect": "String commonly used in navigation or headers for content with ways people can engage with other individuals on the main topic",
 	"wm-commonstrings-contactus": "String commonly used in navigation or headers to invite people to contact individuals primarily responsible for main topic",
 	"wm-commonstrings-events": "String commonly used in navigation or headers for content about activities happening related to the main topic",
-	"wm-commonstrings-mainpage-prompt": "String commonly used in navigation or hatnotes to label pages which contain the main content on the related topic\n\nParameters:\n* $1 - Local link to main content page with information on the related topic",
+	"wm-commonstrings-mainpage-prompt": "String commonly used in navigation or hatnotes to label a page which contain the main content on the related topic\n\nParameters:\n* $1 - Local link to main content page with information on the related topic\n* $2 - Number of pages",
+	"wm-commonstrings-mainarticle-prompt": "String commonly used in navigation or hatnotes to label an article which contain the main content on the related topic\n\nParameters:\n* $1 - Local link to main content article with information on the related topic\n* $2 - Number of articles",
+	"wm-commonstrings-noticeboard": "String commonly used in navigation or headers for areas of content containing notices or messages",
 	"wm-commonstrings-objectives": "String commonly used in navigation or headers for content about the aims and goals of the main topic",
 	"wm-commonstrings-ongoing": "String commonly used in timelines or documentation to indicate a topic is ongoing",
 	"wm-commonstrings-open": "String commonly used in timelines or documentation to indicate a topic is still open",
