@@ -13,5 +13,5 @@
 	"specialinvestigate-feedback": "Leave Feedback",
 	"graph-disabled": "",
 	"graph-disabled-category": "Pages with disabled graphs",
-	"graph-disabled-category-desc": "The page includes a <code><nowiki><graph></nowiki></code> tag, which is temporarily not available ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "The page includes a <code>&lt;graph&gt;</code> tag, which is temporarily not available ([[phab:T334940|T334940]])."
 }
