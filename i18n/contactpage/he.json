@@ -105,5 +105,13 @@
 	"contactpage-ombudscommission-affected-accounts": "על אילו חשבונות משפיעה התלונה הזאת? אם איש מלבדך לא מושפע, אפשר לדלג על השדה הזה.",
 	"contactpage-ombudscommission-proposed-solution": "איזה פתרון יש לך להציע? מה הציפיות שלך מהוועדה?",
 	"contactpage-ombudscommission-additional-information": "נא להוסיף כל מידע שנראה לך רלוונטי להבנת המקרה הזה.",
-	"contactpage-ombudscommission-disclaimer-label": "הגבלת אחריות: כל המידע שייכלל בטופס הזה נשלח אל חברי קהילה מתנדבים (בפרט, [[Special:MyLanguage/Ombuds commission|ועדת נציבי הפניות]]), מעובד על־ידיהם, ומקבל תגובה מהם, והדברים האלה אינם נעשים על־ידי קרן ויקימדיה. אין לכלול כאן שום מידע שאינך חש או חשה בנוח לשתף עם מתנדבי ויקימדיה. תגובות והתכתבויות אחרות שקשורים לעיבוד המידע שנשלח אינם יכולים להיחשב להצהרות רשמיות של קרן ויקימדיה. להתכתבות רשמית נא לפנות לקרן ויקימדיה בדרכים שמפורטות בדף https://wikimediafoundation.org/about/contact/."
+	"contactpage-ombudscommission-disclaimer-label": "הגבלת אחריות: כל המידע שייכלל בטופס הזה נשלח אל חברי קהילה מתנדבים (בפרט, [[Special:MyLanguage/Ombuds commission|ועדת נציבי הפניות]]), מעובד על־ידיהם, ומקבל תגובה מהם, והדברים האלה אינם נעשים על־ידי קרן ויקימדיה. אין לכלול כאן שום מידע שאינך חש או חשה בנוח לשתף עם מתנדבי ויקימדיה. תגובות והתכתבויות אחרות שקשורים לעיבוד המידע שנשלח אינם יכולים להיחשב להצהרות רשמיות של קרן ויקימדיה. להתכתבות רשמית נא לפנות לקרן ויקימדיה בדרכים שמפורטות בדף https://wikimediafoundation.org/about/contact/.",
+	"contactpage-fromname-accountvanishapps": "שם המבקש",
+	"contactpage-fromaddress-accountvanishapps": "כתובת הדוא\"ל של המבקש",
+	"contactpage-title-accountvanishapps": "טופס בקשת העלמת חשבון",
+	"contactpage-pagetext-accountvanishapps": "היעלמות היא '''מוצא אחרון''' ויש להשתמש בה '''רק כאשר ברצונך להפסיק לערוך לנצח''' וגם כדי להסתיר כמה שיותר מהשיוכים שלך בעבר. מחיקת חשבון בוויקיפדיה נעשית על־ידי שינוי שם החשבון שלך כך שאחרים לא יוכלו לזהות את התרומות שלך בתהליך שנקרא העלמת חשבון (account vanishing). '''היעלמות אינה מבטיחה אלמוניות מוחלטת או הסרה של תרומות למיזמים.''' למידע נוסף על העלמת החשבון, נא לבקר בדף המידע [[Special:MyLanguage/Right to vanish|Right to vanish]].\n\nכדי להמשיך בהתחלת תהליך ההיעלמות, יש למלא את טופס הבקשה להעלמת החשבון למטה.",
+	"contactpage-subject-accountvanishapps": "טופס בקשת העלמת חשבון",
+	"contactpage-emailsent-accountvanishapps": "הבקשה נשלחה",
+	"contactpage-emailsenttext-accountvanishapps": "בקשת העלמת החשבון שלך נשלחה להערכה. אם יש לך שאלות לגבי בקשתך בכל עת, אפשר לפנות אל {{NonSpamEmail|privacy|wikimedia.org}}.",
+	"contactpage-accountvanishapps-details": "פרטים נוספים לגבי הבקשה"
 }
