@@ -186,6 +186,8 @@ class Hooks implements
 			'jsonconfig-license-notice-license-unset',
 			// T340115
 			'campaignevents-edit-field-clickwrap-checkbox-label',
+			// T357869
+			'pt-movepage-page-count-limit',
 		];
 
 		static $allbutmetawikikeys = [
