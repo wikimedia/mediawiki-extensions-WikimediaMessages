@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Winston Sung"
+			"Winston Sung",
+			"Ktchankt",
+			"PB2008"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -9,9 +11,22 @@
 	"sitesupport": "慷慨解囊",
 	"tooltip-n-sitesupport": "撐我哋",
 	"nstab-timedtext": "字幕",
+	"group-image-reviewer": "圖片檢查者",
+	"group-image-reviewer-member": "{{GENDER:$1|圖片檢查者}}",
+	"grouppage-image-reviewer": "{{ns:project}}:圖片檢查者",
+	"group-extended-uploader": "進階上傳者",
+	"group-extended-uploader-member": "{{GENDER:$1|進階上傳者}}",
+	"grouppage-extended-uploader": "{{ns:project}}:進階上傳者",
+	"group-otrs-member": "VRT成員",
+	"group-otrs-member-member": "{{GENDER:$1|VRT成員}}",
+	"grouppage-otrs-member": "{{ns:project}}:VRT成員",
 	"group-abusefilter": "濫用過濾器編者",
 	"group-abusefilter-member": "{{GENDER:$1|濫用過濾器編者}}",
 	"grouppage-abusefilter": "{{ns:project}}:濫用過濾器編者",
+	"group-abusefilter-helper": "濫用過濾器助理",
+	"group-abusefilter-helper-member": "{{GENDER:$1|濫用過濾器助理}}",
+	"group-abusefilter-maintainer": "濫用過濾器維護者",
+	"group-abusefilter-maintainer-member": "{{GENDER:$1|濫用過濾器維護者}}",
 	"group-accountcreator": "開戶專員",
 	"group-accountcreator-member": "{{GENDER:$1|開戶專員}}",
 	"grouppage-accountcreator": "{{ns:project}}:開戶專員",
@@ -32,6 +47,9 @@
 	"grouppage-confirmed": "{{ns:project}}:確認用戶",
 	"group-editprotected": "保護頁面編者",
 	"group-editprotected-member": "{{GENDER:$1|保護咗嘅版編者}}",
+	"group-extendedconfirmed": "延伸確認用戶",
+	"group-extendedconfirmed-member": "{{GENDER:$1|延伸確認用戶}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}:延伸確認用戶",
 	"group-filemover": "搬檔案者",
 	"group-filemover-member": "{{GENDER:$1|搬檔專員}}",
 	"grouppage-filemover": "{{ns:project}}:搬檔專員",

@@ -11,7 +11,9 @@
 			"Spacebirdy",
 			"Sveinn í Felli",
 			"לערי ריינהארט",
-			"Steinninn"
+			"Steinninn",
+			"Nikki",
+			"Stefán Örvar Sigmundsson"
 		]
 	},
 	"wikimediamessages-desc": "Sérstök Wikimedia skilaboð",
@@ -96,5 +98,6 @@
 	"wikimedia-cookiestatement": "Yfirlýsing vegna vefkakna",
 	"action-edit-legal": "breyta síðum með hugsanlegum lagalegum afleiðingum",
 	"gadget-curidlink-link-by-id": "Tengill eftir auðkenni",
-	"gadget-curidlink-link-by-id-desc": "Sýna tengil á þessa síðu með auðkenni hennar"
+	"gadget-curidlink-link-by-id-desc": "Sýna tengil á þessa síðu með auðkenni hennar",
+	"gadget-souspages-subpages": "Undirsíður"
 }

@@ -31,7 +31,9 @@
 			"Stefano-c",
 			"Una giornata uggiosa '94",
 			"Valerio Bozzolan",
-			"Superpes15"
+			"Superpes15",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -279,5 +281,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",
-	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No"
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
+	"gadget-souspages-subpages": "Sottopagine"
 }

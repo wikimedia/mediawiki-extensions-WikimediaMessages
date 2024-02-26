@@ -23,7 +23,9 @@
 			"Srđan",
 			"Teoo3",
 			"Vlad5250",
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -316,5 +318,6 @@
 	"action-docseditor": "uređivanje dokumentacije",
 	"right-docseditor": "Uređivanje dokumentacije",
 	"ipinfo-feedback-button-label": "Napišite povratnu informaciju",
+	"gadget-souspages-subpages": "Podstranice",
 	"ipinfo-global-contributions-url-label": "Globalni doprinosi"
 }

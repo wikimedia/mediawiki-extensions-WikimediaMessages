@@ -20,7 +20,9 @@
 			"Tlustulimu",
 			"Yekrats",
 			"YvesNevelsteen",
-			"Ziko"
+			"Ziko",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Specifaj mesaĝoj de Wikimedia",
@@ -165,5 +167,6 @@
 	"interlanguage-link-wikipedia": "Vikipedio",
 	"eri-rcfilters-tour-help": "Lerni plu",
 	"wikimedia-statslink": "Statistikoj",
-	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj"
+	"wikimedia-cookiestatement": "Deklaro pri&nbsp;kuketoj",
+	"gadget-souspages-subpages": "Subpaĝoj"
 }

@@ -12,7 +12,10 @@
 			"Theklan",
 			"Unai Fdz. de Betoño",
 			"Xabier Armendaritz",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"Juele",
+			"Nikki",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimediaren mezu espezifikoak",
@@ -171,5 +174,6 @@
 	"securepoll-dblist-securepollglobal": "Batzordearen Hautaketa",
 	"wikimedia-statslink": "Estatistikak",
 	"wikimedia-cookiestatement": "Cookie adierazpena",
-	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ez"
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ez",
+	"gadget-souspages-subpages": "Azpiorrialdeak"
 }
