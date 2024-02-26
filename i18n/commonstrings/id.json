@@ -11,6 +11,8 @@
 	"wm-commonstrings-contactus": "Hubungi kami",
 	"wm-commonstrings-events": "Acara",
 	"wm-commonstrings-mainpage-prompt": "Halaman utama: $1",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Artikel utama: $1}}",
+	"wm-commonstrings-noticeboard": "Papan pengumuman",
 	"wm-commonstrings-objectives": "Tujuan",
 	"wm-commonstrings-ongoing": "Sedang berlangsung",
 	"wm-commonstrings-open": "Sedang terbuka",

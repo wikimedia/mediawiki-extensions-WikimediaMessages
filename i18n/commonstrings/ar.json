@@ -5,12 +5,15 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "الأنشطة",
 	"wm-commonstrings-background": "خلفية",
 	"wm-commonstrings-bylaws": "القوانين",
 	"wm-commonstrings-closed": "مغلق",
 	"wm-commonstrings-connect": "تواصل",
 	"wm-commonstrings-contactus": "اتصل بنا",
 	"wm-commonstrings-events": "فعاليات",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|مقال رئيسي: $1|مقالات رئيسية: $1}}",
+	"wm-commonstrings-noticeboard": "لوحة الإخطارات",
 	"wm-commonstrings-objectives": "أهداف",
 	"wm-commonstrings-ongoing": "قيد التنفيذ",
 	"wm-commonstrings-open": "مفتوحة",

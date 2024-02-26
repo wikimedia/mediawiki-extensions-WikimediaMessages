@@ -4,10 +4,13 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Atividades",
 	"wm-commonstrings-background": "Fundo",
 	"wm-commonstrings-closed": "Fechado",
 	"wm-commonstrings-connect": "Conecte-se",
 	"wm-commonstrings-events": "Eventos",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Artigo principal: $1|Artigos principais: $1}}",
+	"wm-commonstrings-noticeboard": "Quadro de avisos",
 	"wm-commonstrings-objectives": "Objetivos",
 	"wm-commonstrings-ongoing": "Em progresso",
 	"wm-commonstrings-open": "Aberto",

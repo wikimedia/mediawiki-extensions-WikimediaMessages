@@ -10,6 +10,7 @@
 	"wm-commonstrings-connect": "Forbind",
 	"wm-commonstrings-contactus": "Kontakt os",
 	"wm-commonstrings-events": "Begivenheder",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hovedartikel: $1|Hovedartikler: $1}}",
 	"wm-commonstrings-objectives": "Målsætninger",
 	"wm-commonstrings-ongoing": "Igangværende",
 	"wm-commonstrings-open": "Åben",

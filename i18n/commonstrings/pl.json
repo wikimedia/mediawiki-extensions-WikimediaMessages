@@ -5,12 +5,15 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Aktywność",
 	"wm-commonstrings-background": "Wprowadzenie",
 	"wm-commonstrings-bylaws": "Statut",
 	"wm-commonstrings-closed": "Zamknięte",
 	"wm-commonstrings-connect": "Zamknięte",
 	"wm-commonstrings-contactus": "Kontakt",
 	"wm-commonstrings-events": "Wydarzenia",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Główny artykuł: $1|Główne artykuły: $1}}",
+	"wm-commonstrings-noticeboard": "Tablica ogłoszeń",
 	"wm-commonstrings-objectives": "Cele",
 	"wm-commonstrings-ongoing": "Trwa",
 	"wm-commonstrings-open": "Otwarte",

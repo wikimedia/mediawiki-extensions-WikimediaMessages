@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": []
 	},
+	"wm-commonstrings-activities": "Aktivitäten",
 	"wm-commonstrings-agenda": "Agenda",
 	"wm-commonstrings-background": "Hintergrund",
 	"wm-commonstrings-bylaws": "Satzung",
@@ -9,7 +10,9 @@
 	"wm-commonstrings-connect": "Verbunden",
 	"wm-commonstrings-contactus": "Kontaktiere uns",
 	"wm-commonstrings-events": "Ereignisse",
-	"wm-commonstrings-mainpage-prompt": "Hauptseite: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hauptseite: $1|Hauptseiten: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hauptartikel: $1}}",
+	"wm-commonstrings-noticeboard": "Schwarzes Brett",
 	"wm-commonstrings-objectives": "Ziele",
 	"wm-commonstrings-ongoing": "Laufend",
 	"wm-commonstrings-open": "Offen",

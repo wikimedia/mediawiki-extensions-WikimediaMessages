@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jeeputer",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "فعالیت‌ها",
 	"wm-commonstrings-contactus": "ارتباط با ما",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|صفحهٔ اصلی: $1|صفحه‌های اصلی: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|مقاله اصلی: $1|مقاله‌های اصلی: $1}}",
+	"wm-commonstrings-noticeboard": "تابلوی اعلانات",
 	"wm-commonstrings-resolutions": "مصوبه‌ها"
 }

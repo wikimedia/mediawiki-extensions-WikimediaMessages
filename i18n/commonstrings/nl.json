@@ -1,18 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
+			"Iamthedutchdude",
 			"Mitsjol",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Activiteiten",
 	"wm-commonstrings-agenda": "Agenda",
 	"wm-commonstrings-background": "Achtergrond",
 	"wm-commonstrings-bylaws": "Reglement",
-	"wm-commonstrings-closed": "Sluiten",
+	"wm-commonstrings-closed": "Gesloten",
 	"wm-commonstrings-connect": "Verbinden",
 	"wm-commonstrings-contactus": "Contact",
 	"wm-commonstrings-events": "Gebeurtenissen",
 	"wm-commonstrings-mainpage-prompt": "Hoofdpagina: $1",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hoofdartikel: $1|Hoofdartikelen: $1}}",
+	"wm-commonstrings-noticeboard": "Prikbord",
 	"wm-commonstrings-objectives": "Doelen",
 	"wm-commonstrings-ongoing": "Doorlopend",
 	"wm-commonstrings-open": "Open",

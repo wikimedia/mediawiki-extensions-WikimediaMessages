@@ -4,6 +4,7 @@
 			"Amire80"
 		]
 	},
+	"wm-commonstrings-activities": "פעילויות",
 	"wm-commonstrings-agenda": "סדר יום",
 	"wm-commonstrings-background": "רקע",
 	"wm-commonstrings-bylaws": "תקנון",
@@ -11,7 +12,9 @@
 	"wm-commonstrings-connect": "להתחבר",
 	"wm-commonstrings-contactus": "יצירת קשר",
 	"wm-commonstrings-events": "אירועים",
-	"wm-commonstrings-mainpage-prompt": "עמוד ראשי: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|עמוד ראשי: $1|עמודים ראשיים: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|ערך ראשי: $1|ערכים ראשיים: $1}}",
+	"wm-commonstrings-noticeboard": "לוח מודעות",
 	"wm-commonstrings-objectives": "מטרות",
 	"wm-commonstrings-ongoing": "בטיפול",
 	"wm-commonstrings-open": "פתוח",

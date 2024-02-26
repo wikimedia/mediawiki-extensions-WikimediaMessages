@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"MF-Warburg"
+			"MF-Warburg",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Fó donativu ida",
 	"tooltip-n-sitesupport": "Tulun ami",
 	"group-steward": "Steward sira",
-	"group-steward-member": "{{GENDER:$1|Steward}}"
+	"group-steward-member": "{{GENDER:$1|Steward}}",
+	"wikibase-sitelinks-wiktionary": "Wiksionáriu",
+	"wikimedia-otherprojects-cloudservices": "Servisiu Kalohan Wikimedia"
 }

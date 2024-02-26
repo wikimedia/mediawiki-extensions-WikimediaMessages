@@ -5,11 +5,14 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Aktivity",
 	"wm-commonstrings-background": "Pozadí",
 	"wm-commonstrings-closed": "Uzavřeno",
 	"wm-commonstrings-connect": "Propojit",
 	"wm-commonstrings-contactus": "Kontaktní informace",
 	"wm-commonstrings-events": "Události",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hlavní článek: $1|Hlavní články: $1}}",
+	"wm-commonstrings-noticeboard": "Nástěnka",
 	"wm-commonstrings-objectives": "Cíle",
 	"wm-commonstrings-ongoing": "Probíhající",
 	"wm-commonstrings-open": "Otevřeno",

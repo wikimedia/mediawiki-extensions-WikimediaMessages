@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|مکيه مضمون: $1|مکيه مضمونَ: $1}}"
+}

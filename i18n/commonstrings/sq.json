@@ -9,6 +9,8 @@
 	"wm-commonstrings-closed": "Mbyllur",
 	"wm-commonstrings-connect": "Lidhu",
 	"wm-commonstrings-events": "Evente",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Artikull kryesor: $1|Artikuj kryesorë: $1}}",
+	"wm-commonstrings-noticeboard": "Tabela e njoftimeve",
 	"wm-commonstrings-objectives": "Qëllimet",
 	"wm-commonstrings-ongoing": "Në vazhdim",
 	"wm-commonstrings-open": "Hapur",

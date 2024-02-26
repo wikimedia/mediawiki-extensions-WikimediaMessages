@@ -5,12 +5,15 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Действия",
 	"wm-commonstrings-background": "Предыстория",
 	"wm-commonstrings-bylaws": "Устав",
 	"wm-commonstrings-closed": "Закрыто",
 	"wm-commonstrings-connect": "Связаться",
 	"wm-commonstrings-contactus": "Свяжитесь с нами",
 	"wm-commonstrings-events": "Мероприятия",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Основная статья: $1|Основные статьи: $1}}",
+	"wm-commonstrings-noticeboard": "Доска объявлений",
 	"wm-commonstrings-objectives": "Задачи",
 	"wm-commonstrings-ongoing": "В процессе",
 	"wm-commonstrings-open": "Открыто",

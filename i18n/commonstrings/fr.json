@@ -5,6 +5,7 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Activités",
 	"wm-commonstrings-background": "Contexte",
 	"wm-commonstrings-bylaws": "Statuts",
 	"wm-commonstrings-closed": "Fermé",
@@ -12,6 +13,8 @@
 	"wm-commonstrings-contactus": "Contactez-nous",
 	"wm-commonstrings-events": "Événements",
 	"wm-commonstrings-mainpage-prompt": "Page d'accueil : $1",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Article principal: $1|Articles principaux: $1}}",
+	"wm-commonstrings-noticeboard": "Tableau d’affichage",
 	"wm-commonstrings-objectives": "Objectifs",
 	"wm-commonstrings-ongoing": "En cours",
 	"wm-commonstrings-open": "Ouvert",

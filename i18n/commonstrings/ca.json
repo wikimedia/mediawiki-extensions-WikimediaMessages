@@ -10,6 +10,8 @@
 	"wm-commonstrings-connect": "Connecta",
 	"wm-commonstrings-contactus": "Contacteu amb nosaltres",
 	"wm-commonstrings-events": "Esdeveniments",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Article principal: $1|Articles principals: $1}}",
+	"wm-commonstrings-noticeboard": "Tauler de notícies",
 	"wm-commonstrings-objectives": "Objectius",
 	"wm-commonstrings-ongoing": "Actual",
 	"wm-commonstrings-open": "Obert",

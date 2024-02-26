@@ -5,10 +5,12 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "กิจกรรม",
 	"wm-commonstrings-background": "เบื้องหลัง",
 	"wm-commonstrings-closed": "ปิด",
 	"wm-commonstrings-connect": "เชื่อมต่อ",
 	"wm-commonstrings-events": "กิจกรรม",
+	"wm-commonstrings-noticeboard": "กระดานประกาศ",
 	"wm-commonstrings-objectives": "วัตถุประสงค์",
 	"wm-commonstrings-ongoing": "กำลังดำเนินการ",
 	"wm-commonstrings-open": "เปิด",

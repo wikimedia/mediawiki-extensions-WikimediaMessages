@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Dj",
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Tevékenységek",
 	"wm-commonstrings-agenda": "Napirend",
 	"wm-commonstrings-background": "Háttér",
 	"wm-commonstrings-bylaws": "Törvények",
@@ -13,6 +15,8 @@
 	"wm-commonstrings-contactus": "Kapcsolatfelvétel",
 	"wm-commonstrings-events": "Események",
 	"wm-commonstrings-mainpage-prompt": "Főlap: $1",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Bővebben: $1}}",
+	"wm-commonstrings-noticeboard": "Üzenőfal",
 	"wm-commonstrings-objectives": "Célok",
 	"wm-commonstrings-ongoing": "Folyamatban lévő",
 	"wm-commonstrings-open": "Megnyitás",

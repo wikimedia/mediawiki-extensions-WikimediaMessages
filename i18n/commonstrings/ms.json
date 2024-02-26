@@ -4,10 +4,13 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Aktiviti",
 	"wm-commonstrings-background": "Latar belakang",
 	"wm-commonstrings-closed": "Tertutup",
 	"wm-commonstrings-connect": "Sambungkan",
 	"wm-commonstrings-events": "Acara",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Rencana utama: $1}}",
+	"wm-commonstrings-noticeboard": "Papan pengumuman",
 	"wm-commonstrings-objectives": "Objektif",
 	"wm-commonstrings-ongoing": "Sedang berlangsung",
 	"wm-commonstrings-open": "Terbuka",

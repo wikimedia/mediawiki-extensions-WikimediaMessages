@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Varnent"
 		]
 	},
 	"wm-commonstrings-agenda": "Agenda",
@@ -12,6 +13,7 @@
 	"wm-commonstrings-contactus": "Kontakt oss",
 	"wm-commonstrings-events": "Arrangementer",
 	"wm-commonstrings-mainpage-prompt": "Hovedside: $1",
+	"wm-commonstrings-noticeboard": "Oppslagstavle",
 	"wm-commonstrings-objectives": "Formål",
 	"wm-commonstrings-ongoing": "Pågående",
 	"wm-commonstrings-open": "Åpen",

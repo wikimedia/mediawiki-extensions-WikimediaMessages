@@ -7,12 +7,15 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Actividades",
 	"wm-commonstrings-background": "Antecedentes",
 	"wm-commonstrings-bylaws": "Estatutos",
 	"wm-commonstrings-closed": "Cerrado",
 	"wm-commonstrings-connect": "Conectar",
 	"wm-commonstrings-contactus": "Contáctanos",
 	"wm-commonstrings-events": "Eventos",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Artículo principal: $1|Artículos principales: $1}}",
+	"wm-commonstrings-noticeboard": "Tablón de anuncios",
 	"wm-commonstrings-objectives": "Objetivos",
 	"wm-commonstrings-ongoing": "En curso",
 	"wm-commonstrings-open": "Abierto",

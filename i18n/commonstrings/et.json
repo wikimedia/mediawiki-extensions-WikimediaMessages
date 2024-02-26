@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Varnent"
+		]
+	},
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Põhiartikkel: $1|Põhiartiklid: $1}}"
+}

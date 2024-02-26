@@ -4,12 +4,15 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Aktiviteetit",
 	"wm-commonstrings-background": "Taustaa",
 	"wm-commonstrings-bylaws": "Säännöt",
 	"wm-commonstrings-closed": "Suljettu",
 	"wm-commonstrings-connect": "Yhdistä",
 	"wm-commonstrings-contactus": "Ota yhteyttä",
 	"wm-commonstrings-events": "Tapahtumat",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Pääartikkeli: $1|Pääartikkelit: $1}}",
+	"wm-commonstrings-noticeboard": "Ilmoitustaulu",
 	"wm-commonstrings-objectives": "Tavoitteet",
 	"wm-commonstrings-ongoing": "Jatkuva",
 	"wm-commonstrings-open": "Avoin",

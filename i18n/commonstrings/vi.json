@@ -4,6 +4,7 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Hoạt động",
 	"wm-commonstrings-background": "Bối cảnh",
 	"wm-commonstrings-bylaws": "Nội quy",
 	"wm-commonstrings-closed": "Đóng",
@@ -11,6 +12,8 @@
 	"wm-commonstrings-contactus": "Liên hệ với chúng tôi",
 	"wm-commonstrings-events": "Sự kiện",
 	"wm-commonstrings-mainpage-prompt": "Trang chính: $1",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Bài viết chính: $1|Các bài viết chính: $1}}",
+	"wm-commonstrings-noticeboard": "Bàn thông báo",
 	"wm-commonstrings-objectives": "Mục tiêu",
 	"wm-commonstrings-ongoing": "Đang diễn ra",
 	"wm-commonstrings-open": "Mở",

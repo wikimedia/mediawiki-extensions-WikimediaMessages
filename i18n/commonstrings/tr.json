@@ -5,11 +5,14 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Etkinlikler",
 	"wm-commonstrings-background": "Arkaplan",
 	"wm-commonstrings-closed": "Kapalı",
 	"wm-commonstrings-connect": "Bağlan",
 	"wm-commonstrings-contactus": "İletişim",
 	"wm-commonstrings-events": "Etkinlikler",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Ana madde: $1|Ana maddeler: $1}}",
+	"wm-commonstrings-noticeboard": "Duyuru panosu",
 	"wm-commonstrings-objectives": "Amaçlar",
 	"wm-commonstrings-ongoing": "Devam ediyor",
 	"wm-commonstrings-open": "Açık",

@@ -8,6 +8,8 @@
 	"wm-commonstrings-closed": "Uždaryti",
 	"wm-commonstrings-connect": "Sujungti",
 	"wm-commonstrings-events": "Renginiai",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Pagrindinis straipsnis: $1|Pagrindiniai straipsniai: $1}}",
+	"wm-commonstrings-noticeboard": "Pranešimų lenta",
 	"wm-commonstrings-objectives": "Tikslai",
 	"wm-commonstrings-ongoing": "Tebevykstantis",
 	"wm-commonstrings-open": "Atidaryta",

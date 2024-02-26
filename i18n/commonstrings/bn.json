@@ -5,6 +5,7 @@
 			"আফতাবুজ্জামান"
 		]
 	},
+	"wm-commonstrings-activities": "কার্যক্রম",
 	"wm-commonstrings-agenda": "আলোচ্যসূচি",
 	"wm-commonstrings-background": "পটভূমি",
 	"wm-commonstrings-bylaws": "গঠনতন্ত্র",
@@ -13,6 +14,7 @@
 	"wm-commonstrings-contactus": "যোগাযোগ করুন",
 	"wm-commonstrings-events": "ইভেন্ট",
 	"wm-commonstrings-mainpage-prompt": "প্রধান পাতা: $1",
+	"wm-commonstrings-noticeboard": "আলোচনাসভা",
 	"wm-commonstrings-objectives": "উদ্দেশ্য",
 	"wm-commonstrings-ongoing": "চলমান",
 	"wm-commonstrings-open": "খোলা",

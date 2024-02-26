@@ -5,12 +5,15 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Заходи",
 	"wm-commonstrings-background": "Передумови",
 	"wm-commonstrings-bylaws": "Статут",
 	"wm-commonstrings-closed": "Зачинено",
 	"wm-commonstrings-connect": "з'єднати",
 	"wm-commonstrings-contactus": "Зв'язок з нами",
 	"wm-commonstrings-events": "Події",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Основна стаття: $1|Основні статті: $1}}",
+	"wm-commonstrings-noticeboard": "Дошка оголошень",
 	"wm-commonstrings-objectives": "Цілі",
 	"wm-commonstrings-ongoing": "Триває",
 	"wm-commonstrings-open": "Відчинено",

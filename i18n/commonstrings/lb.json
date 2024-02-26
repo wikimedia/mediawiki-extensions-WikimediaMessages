@@ -5,11 +5,13 @@
 			"Volvox"
 		]
 	},
+	"wm-commonstrings-activities": "Aktivitéiten",
 	"wm-commonstrings-background": "Hannergrond",
 	"wm-commonstrings-closed": "Zou",
 	"wm-commonstrings-connect": "Verbannen",
 	"wm-commonstrings-events": "Evenementer",
-	"wm-commonstrings-mainpage-prompt": "Haaptsäit: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Haaptsäit: $1|Haaptsäiten: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Haaptartikel: $1|Haaptartikelen: $1}}",
 	"wm-commonstrings-objectives": "Ziler",
 	"wm-commonstrings-ongoing": "Lafend",
 	"wm-commonstrings-open": "Oppen",

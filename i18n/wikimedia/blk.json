@@ -3,6 +3,7 @@
 		"authors": [
 			"Khun Kt",
 			"Ninjastrikers",
+			"Varnent",
 			"ခွန်ဖန်ဒွဲ့",
 			"咽頭べさ"
 		]
@@ -56,6 +57,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "မီတာ-ဝိခီ",
 	"wikibase-sitelinks-sitename-sourceswiki": "ဘာႏသာႏငဝ်းငွါစွုမ်ႏ ဝီခီရွီးခိုႏ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ဝီခီဒေတာ",
+	"wikimedia-otherprojects-cloudservices": "ဝီခီမီဒီယာ Cloudခွုမ်မာꩻမုꩻဖိုင်ႏ",
 	"wikimedia-developers": "သော့ဝွဲးတဲမ်းထွင်ႏသားဖုံႏ",
 	"wikimedia-globalblocking-ipblocked": "''' နာꩻ ကေားသုင်ꩻသားမိဉ်ꩻ မွေးတဝ်းလဲ့ အုဲင်ပီလိပ်စာနဝ်ꩻ  [[m:Special:MyLanguage/Global blocks|ဝီခီကိုကားကအဝ်ႏပေ့ꩻခါꩻလဲဉ်းနဝ်ꩻသွူ]]။'''\n\nပေ့ꩻခါꩻမုꩻယိုနဝ်ꩻ  $1 ($2) ခွုမ်မာꩻဒျာႏနဝ်ꩻသွူ။\nပေ့ꩻဗာႏအကျောင်ꩻနဝ်ꩻ ပွိုး ''$3'' ဒျာႏသွူ။\n\n*ပေ့ꩻထိုꩻစခိန်ႏ: $4\n*ပေ့ꩻခါꩻလို့ထိုꩻခိန်ႏ: $5\n\nနာꩻအုဲင်ပီလိပ်စာယိုခါကျာꩻနဝ်ꩻ ထွာဒျာႏ  $6 သွူ။\n\nမိဉ်ႏတော် နာꩻနဝ်ꩻ ခံႏဗာႏဝင်ꩻပေ့ꩻထိုꩻမာႏနာꩻ နာꩻမိဉ်ႏယွုမ်းအံႏဒျာႏနဝ်ꩻ ထွားထီႏနွောင်ꩻဒျာႏ သꩻတင်ꩻအချက်လျက်အထဲင်းဖုံႏ တောမ်ႏ ယီးနယ်ချက်အထဲင်းဖုံႏ  [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy ကိုသြ။\nအနယ်ꩻလင်အနေႏ ဖေႏကအိုင်ကိုမ်နွောင်ꩻ ပေ့ꩻထိုꩻနာꩻယိုတာႏ ကွီကော့ꩻဖေႏကလꩻ ရောမ်ဒင်ႏဖေႏသွော့လိတ်  [[m:Steward requests/Global|post a request for review on Meta-Wiki ကိုသြ]]။",
 	"wikimedia-globalblocking-ipblocked-xff": "''' နာꩻကွီကော့ꩻချက်ကအဝ်ႏဒါႏ ပရောက်သီသာဗာ တဗာႏဗာႏကို လွိုထဲင်းဒါႏသာဗာနဝ်ꩻဖုံႏယို  [[m:Special:MyLanguage/Global blocks|ကားကအဝ်ႏနဝ်ꩻ ပေ့ꩻခါꩻဒျာႏနဝ်ꩻသွူ]]။'''\n\nပေ့ꩻခါꩻမုꩻယိုနဝ်ꩻ  $1 ($2) ခွုမ်မာꩻဒျာႏနဝ်ꩻသွူ။\nအကျောင်ꩻနဝ်ꩻ ပွိုး  ''$3'' ဒျာႏသွူ။\n\n*ပေ့ꩻထိုꩻစခိန်ႏ: $4\n*ပေ့ꩻထိုꩻထွူခိန်ႏ: $5\n\nနာꩻပရောက်သီသာဗာလိပ်စာနဝ်ꩻ ထွာဒျာႏ  $6 သွူ။\n\nမိဉ်ႏတော် နာꩻနဝ်ꩻ ခံႏဗာႏဝင်ꩻပေ့ꩻထိုꩻမာႏနာꩻ နာꩻမိဉ်ႏယွုမ်းအံႏဒျာႏနဝ်ꩻ ထွားထီႏနွောင်ꩻဒျာႏ သꩻတင်ꩻအချက်လျက်အထဲင်းဖုံႏ တောမ်ႏ ယီးနယ်ချက်အထဲင်းဖုံႏ  [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy ကိုသြ။\nအနယ်ꩻလင်အနေႏ ဖေႏကအိုင်ကိုမ်နွောင်ꩻ ပေ့ꩻထိုꩻနာꩻယိုတာႏ ကွီကော့ꩻဖေႏကလꩻ ရောမ်ဒင်ႏဖေႏသွော့လိတ် [[m:Steward requests/Global|post a request for review on Meta-Wiki ကိုသြ]]။",

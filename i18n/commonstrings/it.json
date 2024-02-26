@@ -5,12 +5,14 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Attività",
 	"wm-commonstrings-background": "Contesto",
 	"wm-commonstrings-closed": "Chiuso",
 	"wm-commonstrings-connect": "Connetti",
 	"wm-commonstrings-contactus": "Contattaci",
 	"wm-commonstrings-events": "Eventi",
 	"wm-commonstrings-mainpage-prompt": "Pagina principale: $1",
+	"wm-commonstrings-noticeboard": "Bacheca",
 	"wm-commonstrings-objectives": "Obiettivi",
 	"wm-commonstrings-ongoing": "In corso",
 	"wm-commonstrings-open": "Aperto",

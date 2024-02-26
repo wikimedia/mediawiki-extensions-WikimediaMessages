@@ -1,15 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
+			"Geraki",
 			"Nikki",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Δραστηριότητες",
+	"wm-commonstrings-agenda": "Ημερήσια διάταξη",
 	"wm-commonstrings-background": "Υπόβαθρο",
+	"wm-commonstrings-bylaws": "Καταστατικό",
 	"wm-commonstrings-closed": "Έκλεισε",
 	"wm-commonstrings-connect": "Σύνδεση",
 	"wm-commonstrings-contactus": "Επικοινωνήστε μαζί μας",
 	"wm-commonstrings-events": "Εκδηλώσεις",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Κύρια σελίδα: $1|Κύριες σελίδες: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Κύριο άρθρο: $1|Κύρια άρθρα: $1}}",
+	"wm-commonstrings-noticeboard": "Πίνακας ανακοινώσεων",
 	"wm-commonstrings-objectives": "Στόχοι",
 	"wm-commonstrings-ongoing": "Σε εξέλιξη",
 	"wm-commonstrings-open": "Ανοιχτό",

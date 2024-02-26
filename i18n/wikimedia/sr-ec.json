@@ -292,5 +292,9 @@
 	"wikimedia-help-translate-prompt": "Помозите у превођењу? [$1 Преведите недостајуће поруке].",
 	"wikimedia-foundation-mark-label": "Знак Задужбине Викимедије",
 	"wikimedia-nutshell-page-intro": "Ова страница укратко: $1",
+	"wikimedia-nutshell-content-alt-intro": "$1 укратко:",
+	"wikimedia-nutshell-guideline-intro": "Ова смерница укратко: $1",
+	"wikimedia-nutshell-policy-intro": "Ова политика укратко: $1",
+	"wikimedia-nutshell-section-intro": "Овај одељак укратко: $1",
 	"wikimedia-translation-disclaimer-withlink": "Имајте на уму да у случају недоследности у значењу или интерпретацији између оригиналне енглеске верзије и превода, [[$1|енглеска верзија]] има примат."
 }

@@ -5,9 +5,12 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Aktiviteter",
 	"wm-commonstrings-background": "Bakgrund",
 	"wm-commonstrings-connect": "Anslut",
 	"wm-commonstrings-contactus": "Kontakta oss",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Huvudartikel: $1|Huvudartiklar: $1}}",
+	"wm-commonstrings-noticeboard": "Anslagstavla",
 	"wm-commonstrings-ongoing": "Pågående",
 	"wm-commonstrings-open": "Öppen",
 	"wm-commonstrings-overview": "Översikt",

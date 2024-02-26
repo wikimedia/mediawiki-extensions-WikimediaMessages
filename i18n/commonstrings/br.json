@@ -5,13 +5,14 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Obererezhioù",
 	"wm-commonstrings-agenda": "Deiziataer",
 	"wm-commonstrings-background": "Drekleur",
 	"wm-commonstrings-closed": "Serret",
 	"wm-commonstrings-connect": "Kevreañ",
 	"wm-commonstrings-contactus": "Mont e darempred ganeomp",
 	"wm-commonstrings-events": "Darvoudoù",
-	"wm-commonstrings-mainpage-prompt": "Pajenn degemer: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Pajenn degemer: $1|Pajennoù degemer: $1}}",
 	"wm-commonstrings-objectives": "Palioù",
 	"wm-commonstrings-open": "Digor",
 	"wm-commonstrings-overview": "Rakwel",

@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"BukhariSaeed",
+			"Muhammad Shuaib",
 			"Obaid Raza"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:نگرانی",
 	"group-oversight": "نگران صارفین",
 	"group-oversight-member": "نگرانی",
-	"thank-you": "{{GENDER:$1|آپ کا شکریہ!}}"
+	"thank-you": "{{GENDER:$1|آپ کا شکریہ!}}",
+	"specialblockfeedback": "تاثرات"
 }
