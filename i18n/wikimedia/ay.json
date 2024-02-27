@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Ramañanaka",
+	"wikibase-sitelinks-wiktionary": "Wikiarupirwa",
 	"interlanguage-link-sitename-wikipedia": "Wikipidiya, tantachata yatiña jalaqtata"
 }

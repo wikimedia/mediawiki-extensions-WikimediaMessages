@@ -6,7 +6,8 @@
 			"Patriot Kor",
 			"Patriot Kur",
 			"Pols12",
-			"Гусейн"
+			"Гусейн",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Pul baxše",
@@ -18,6 +19,7 @@
 	"wikibase-sitelinks-wikiquote": "Vikisitot",
 	"wikibase-sitelinks-wikisource": "Vikisəvon",
 	"wikibase-sitelinks-wikivoyage": "Vikisəjohət",
+	"wikibase-sitelinks-wiktionary": "Vikisyxangyrd",
 	"wikibase-otherprojects-wikinews": "Vikixəbəon",
 	"wikimedia-developers": "Hozy kardəkəs",
 	"wikimedia-globalblocking-ipblocked": "'''Şımə IP-unvon [[m:Special:MyLanguage/Global blocks|həmmə vikinaxşonədə blok bıə]].'''\n\nBloki kardəkəs $1 ($2).\nSəbəb: ''$3''.\n\n* Bino karde be: $4 \n* Orəxə: $5 \n\nŞımə isətinə IP-unvon: $6.\nЗәһмәт ныбу, ыми һәммә бә ыштә елонон дәғандән.\n\nӘгәм шымә жәго зындәјон ки ноһәх дәбастә быәјон, ијән бәзнејон әтрофин мәлумот пәјдо карде бы сәһифәдә [[m:Special:MyLanguage/No open proxies|Ожә прокси-серверон әбыни око дој]] де умуми ғајдон.\nӘксинә бејәдә дәбасте барәдә мызокирә карде, [[m:Steward requests/Global|де парси бә Мета-вики бынывыштән]].",

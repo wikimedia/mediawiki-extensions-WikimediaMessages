@@ -4,7 +4,8 @@
 			"Nemo bis",
 			"PiefPafPier",
 			"Servien",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Systeemteksten veur Wikimedia",
@@ -65,6 +66,7 @@
 	"wikibase-sitelinks-wikisource": "Wikibron",
 	"wikibase-sitelinks-wikiversity": "Wikiversiteyt",
 	"wikibase-sitelinks-wikivoyage": "Wikireise",
+	"wikibase-sitelinks-wiktionary": "Wikiwoordebook",
 	"wikibase-otherprojects-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
