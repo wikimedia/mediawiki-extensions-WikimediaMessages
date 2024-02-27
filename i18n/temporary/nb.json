@@ -14,5 +14,5 @@
 	"specialblockfeedback": "Tilbakemelding",
 	"specialinvestigate-feedback": "Gi tilbakemelding",
 	"graph-disabled-category": "Sider med deaktiverte grafer",
-	"graph-disabled-category-desc": "Siden inneholder en <code><nowiki><graph></nowiki></code>-tagg, som er midlertidig utilgjengelig ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Siden inneholder en <code>&lt;graph&gt;</code>-tagg, som er midlertidig utilgjengelig ([[phab:T334940|T334940]])."
 }

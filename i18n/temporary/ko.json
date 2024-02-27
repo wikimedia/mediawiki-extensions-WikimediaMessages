@@ -18,5 +18,5 @@
 	"specialblockfeedback": "피드백",
 	"specialinvestigate-feedback": "피드백 남기기",
 	"graph-disabled-category": "비활성화된 그래프가 있는 문서",
-	"graph-disabled-category-desc": "이 문서는 일시적으로 사용이 불가능한 <code><nowiki><graph></nowiki></code> 태그를 포함합니다([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "이 문서는 일시적으로 사용이 불가능한 <code>&lt;graph&gt;</code> 태그를 포함합니다([[phab:T334940|T334940]])."
 }

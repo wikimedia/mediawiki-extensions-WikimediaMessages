@@ -17,5 +17,5 @@
 	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
 	"specialblockfeedback": "Názor",
 	"graph-disabled-category": "Stránky s vypnutými grafy",
-	"graph-disabled-category-desc": "Tato stránka obsahuje značku <code><nowiki><graph></nowiki></code>, která dočasně není k dispozici ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Tato stránka obsahuje značku <code>&lt;graph&gt;</code>, která dočasně není k dispozici ([[phab:T334940|T334940]])."
 }

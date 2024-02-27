@@ -19,5 +19,5 @@
 	"specialblockfeedback": "Povratne informacije",
 	"specialinvestigate-feedback": "Napišite povratnu informaciju",
 	"graph-disabled-category": "Stranice s onemogućenim grafikonima",
-	"graph-disabled-category-desc": "Ova stranica uključuje oznaku <code><nowiki><graph></nowiki></code>, koja trenutačno nije dostupna ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Ova stranica uključuje oznaku <code>&lt;graph&gt;</code>, koja trenutačno nije dostupna ([[phab:T334940|T334940]])."
 }

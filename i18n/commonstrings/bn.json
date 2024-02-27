@@ -13,7 +13,7 @@
 	"wm-commonstrings-connect": "সংযোগ করুন",
 	"wm-commonstrings-contactus": "যোগাযোগ করুন",
 	"wm-commonstrings-events": "ইভেন্ট",
-	"wm-commonstrings-mainpage-prompt": "প্রধান পাতা: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|প্রধান পাতা: $1}}",
 	"wm-commonstrings-noticeboard": "আলোচনাসভা",
 	"wm-commonstrings-objectives": "উদ্দেশ্য",
 	"wm-commonstrings-ongoing": "চলমান",

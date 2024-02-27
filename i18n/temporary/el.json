@@ -18,5 +18,5 @@
 	"specialblockfeedback": "Σχόλια",
 	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας",
 	"graph-disabled-category": "Σελίδες με απενεργοποιημένα γραφήματα",
-	"graph-disabled-category-desc": "Η σελίδα περιλαμβάνει μια <code><nowiki><graph></nowiki></code>ετικέτα, η οποία δεν είναι προσωρινά διαθέσιμη ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Η σελίδα περιλαμβάνει μια <code>&lt;graph&gt;</code>ετικέτα, η οποία δεν είναι προσωρινά διαθέσιμη ([[phab:T334940|T334940]])."
 }

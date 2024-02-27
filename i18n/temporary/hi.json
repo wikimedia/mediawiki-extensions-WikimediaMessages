@@ -17,5 +17,5 @@
 	"specialblockfeedback": "प्रतिक्रिया",
 	"specialinvestigate-feedback": "प्रतिक्रिया छोडें",
 	"graph-disabled-category": "अक्षम ग्राफ़ वाले पृष्ठ",
-	"graph-disabled-category-desc": "इस पृष्ठ पर एक <code><nowiki><graph></nowiki></code> टैग है, जो अस्थायी रूप से अनुपलब्ध है ([[phab:T334940|T334940]])।"
+	"graph-disabled-category-desc": "इस पृष्ठ पर एक <code>&lt;graph&gt;</code> टैग है, जो अस्थायी रूप से अनुपलब्ध है ([[phab:T334940|T334940]])।"
 }

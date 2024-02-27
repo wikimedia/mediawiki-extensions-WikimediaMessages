@@ -251,6 +251,7 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Den flerspråklige Wikikilden",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-otherprojects-cloudservices": "Wikimedia Cloud Services",
 	"wikimedia-taglines-cloudservices": "Vertsmiljø for fellesskapets verktøy",
 	"wikimedia-taglines-commons": "Bilder og mer til fri bruk",
 	"wikimedia-taglines-enterprise": "API-er for bruk med høyt volum",
@@ -376,6 +377,10 @@
 	"ipinfo-global-contributions-url-label": "Bidrag globalt",
 	"wikimedia-help-translate-prompt": "Vil du hjelpe til med å oversette? [$1 Oversett det som mangler]!",
 	"wikimedia-nutshell-page-intro": "Denne siden i et nøtteskall: $1",
+	"wikimedia-nutshell-guideline-intro": "Denne retningslinjen i et nøtteskall: $1",
+	"wikimedia-nutshell-policy-intro": "Denne policyen i et nøtteskall: $1",
+	"wikimedia-nutshell-section-intro": "Denne seksjonen i et nøtteskall: $1",
+	"wikimedia-questions-label": "Spørsmål til Wikimedia?",
 	"wikimedia-translation-disclaimer-nolink": "Vær oppmerksom på at ved forskjeller i betydning eller tolkning mellom den opprinnelige engelske versjonen av dette dokumentet og en oversettelse, har den opprinnelige versjonen på engelsk forrang.",
 	"wikimedia-translation-disclaimer-withlink": "Vær oppmerksom på at ved forskjeller i betydning eller tolkning mellom den opprinnelige engelske versjonen av dette dokumentet og en oversettelse, har den [[$1|opprinnelige versjonen på engelsk]] forrang."
 }

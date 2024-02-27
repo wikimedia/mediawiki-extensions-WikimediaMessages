@@ -13,5 +13,5 @@
 	"thank-you": "{{GENDER:$1|Suur tänu.}}",
 	"specialblockfeedback": "Tagasiside",
 	"graph-disabled-category": "Keelatud diagrammidega leheküljed",
-	"graph-disabled-category-desc": "See lehekülg sisaldab silti <code><nowiki><graph></nowiki></code>, mis ei ole ajutiselt saadaval ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "See lehekülg sisaldab silti <code>&lt;graph&gt;</code>, mis ei ole ajutiselt saadaval ([[phab:T334940|T334940]])."
 }

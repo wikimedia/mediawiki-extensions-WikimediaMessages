@@ -22,5 +22,5 @@
 	"specialblockfeedback": "Terugkoppeling",
 	"specialinvestigate-feedback": "Terugkoppeling geven",
 	"graph-disabled-category": "Pagina's met uitgeschakelde grafieken",
-	"graph-disabled-category-desc": "Deze pagina bevat een <code><nowiki><graph></nowiki></code>-tag. Deze tag is tijdelijk niet beschikbaar ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Deze pagina bevat een <code>&lt;graph&gt;</code>-tag. Deze tag is tijdelijk niet beschikbaar ([[phab:T334940|T334940]])."
 }

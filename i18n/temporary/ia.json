@@ -14,5 +14,5 @@
 	"specialblockfeedback": "Commentario",
 	"specialinvestigate-feedback": "Dar nos tu opinion",
 	"graph-disabled-category": "Paginas con graphicos disactivate",
-	"graph-disabled-category-desc": "Iste pagina contine un etiquetta <code><nowiki><graph></nowiki></code>, le qual es temporarimente indisponibile ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Iste pagina contine un etiquetta <code>&lt;graph&gt;</code>, le qual es temporarimente indisponibile ([[phab:T334940|T334940]])."
 }

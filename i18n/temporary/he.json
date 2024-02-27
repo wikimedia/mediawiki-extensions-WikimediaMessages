@@ -19,5 +19,5 @@
 	"specialblockfeedback": "משוב",
 	"specialinvestigate-feedback": "תנו לנו משוב",
 	"graph-disabled-category": "דפים עם תרשימים כבויים",
-	"graph-disabled-category-desc": "הדף מכיל תג <code><nowiki><graph></nowiki></code>, שאינו פעיל זמנית (ר' [[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "הדף מכיל תג <code>&lt;graph&gt;</code>, שאינו פעיל זמנית (ר' [[phab:T334940|T334940]])."
 }

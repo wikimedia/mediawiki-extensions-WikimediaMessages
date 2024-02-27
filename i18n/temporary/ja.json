@@ -21,5 +21,5 @@
 	"specialblockfeedback": "フィードバック",
 	"specialinvestigate-feedback": "フィードバックを投稿する",
 	"graph-disabled-category": "グラフが無効になっているページ",
-	"graph-disabled-category-desc": "一時的に利用できない<code><nowiki><graph></nowiki></code>タグを含むページ ([[phab:T334940|T334940]])。"
+	"graph-disabled-category-desc": "一時的に利用できない<code>&lt;graph&gt;</code>タグを含むページ ([[phab:T334940|T334940]])。"
 }

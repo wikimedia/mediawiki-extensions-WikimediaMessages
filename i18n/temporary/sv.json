@@ -18,5 +18,5 @@
 	"specialblockfeedback": "Återkoppling",
 	"specialinvestigate-feedback": "Lämna återkoppling",
 	"graph-disabled-category": "Sidor med inaktiverade grafer",
-	"graph-disabled-category-desc": "Sidan innehåller en<code><nowiki><graph></nowiki></code>-tagg, som tillfälligt inte är tillgänglig ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Sidan innehåller en<code>&lt;graph&gt;</code>-tagg, som tillfälligt inte är tillgänglig ([[phab:T334940|T334940]])."
 }

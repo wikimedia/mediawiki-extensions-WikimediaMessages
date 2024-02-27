@@ -17,5 +17,5 @@
 	"specialblockfeedback": "Rəy",
 	"specialinvestigate-feedback": "Fikrinizi bildirin",
 	"graph-disabled-category": "Söndürülmüş qrafik olan səhifələr",
-	"graph-disabled-category-desc": "Bu səhifə hal-hazırda söndürülmüş ([[phab:T334940|T334940]]) <code><nowiki><graph></nowiki></code> teqini ehtiva edir."
+	"graph-disabled-category-desc": "Bu səhifə hal-hazırda söndürülmüş ([[phab:T334940|T334940]]) <code>&lt;graph&gt;</code> teqini ehtiva edir."
 }

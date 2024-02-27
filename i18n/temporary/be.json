@@ -18,5 +18,5 @@
 	"specialblockfeedback": "Водгук",
 	"specialinvestigate-feedback": "Пакінуць Водгук",
 	"graph-disabled-category": "Старонкі з адключанымі графікамі",
-	"graph-disabled-category-desc": "Старонка змяшчае тэг <code><nowiki><graph></nowiki></code>, які часова не працуе ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Старонка змяшчае тэг <code>&lt;graph&gt;</code>, які часова не працуе ([[phab:T334940|T334940]])."
 }

@@ -5,6 +5,7 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Aktiviteter",
 	"wm-commonstrings-agenda": "Agenda",
 	"wm-commonstrings-background": "Bakgrunn",
 	"wm-commonstrings-bylaws": "Vedtekter",
@@ -12,7 +13,8 @@
 	"wm-commonstrings-connect": "Koble til",
 	"wm-commonstrings-contactus": "Kontakt oss",
 	"wm-commonstrings-events": "Arrangementer",
-	"wm-commonstrings-mainpage-prompt": "Hovedside: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hovedside|Hovedsider}}: $1",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hovedartikkel|Hovedartikler}}: $1",
 	"wm-commonstrings-noticeboard": "Oppslagstavle",
 	"wm-commonstrings-objectives": "Formål",
 	"wm-commonstrings-ongoing": "Pågående",

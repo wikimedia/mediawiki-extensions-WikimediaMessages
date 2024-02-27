@@ -22,5 +22,5 @@
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
 	"specialblockfeedback": "Comentário",
 	"specialinvestigate-feedback": "Deixe um comentário",
-	"graph-disabled-category-desc": "Essa página inclui uma etiqueta <code><nowiki><graph></nowiki></code>, que está temporariamente indisponível ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "Essa página inclui uma etiqueta <code>&lt;graph&gt;</code>, que está temporariamente indisponível ([[phab:T334940|T334940]])."
 }

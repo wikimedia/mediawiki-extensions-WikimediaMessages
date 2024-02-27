@@ -20,5 +20,5 @@
 	"specialblockfeedback": "بازخورد",
 	"specialinvestigate-feedback": "بازخورد بگذارید",
 	"graph-disabled-category": "صفحه‌های دارای نمودارهای غیرفعال",
-	"graph-disabled-category-desc": "صفحه حاوی یک برچسب <code><nowiki><graph></nowiki></code> است؛ برچسبی که موقتاً در دسترس نیست ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> است؛ برچسبی که موقتاً در دسترس نیست ([[phab:T334940|T334940]])."
 }
