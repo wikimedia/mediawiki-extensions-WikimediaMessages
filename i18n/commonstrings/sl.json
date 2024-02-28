@@ -5,11 +5,14 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-activities": "Dejavnosti",
 	"wm-commonstrings-background": "Ozadje",
 	"wm-commonstrings-closed": "Zaprto",
 	"wm-commonstrings-connect": "Poveži",
 	"wm-commonstrings-contactus": "Stik z nami",
 	"wm-commonstrings-events": "Dogodki",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Glavna stran: $1|Glavne strani: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|one=Glavni članek: $1|two=Glavna članka: $1|few=Glavni članki: $1|Glavni članki: $1}}",
 	"wm-commonstrings-noticeboard": "Obvestilni panel",
 	"wm-commonstrings-objectives": "Cilji",
 	"wm-commonstrings-ongoing": "Poteka",

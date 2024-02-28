@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Wladek92"
 		]
 	},
 	"wm-commonstrings-activities": "Activités",
@@ -12,7 +13,7 @@
 	"wm-commonstrings-connect": "Connecter",
 	"wm-commonstrings-contactus": "Contactez-nous",
 	"wm-commonstrings-events": "Événements",
-	"wm-commonstrings-mainpage-prompt": "Page d'accueil : $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Page d'accueil : $1|Pages d'accueil : $1}}",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Article principal: $1|Articles principaux: $1}}",
 	"wm-commonstrings-noticeboard": "Tableau d’affichage",
 	"wm-commonstrings-objectives": "Objectifs",
