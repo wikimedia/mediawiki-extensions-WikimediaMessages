@@ -15,6 +15,7 @@
 	"wikimedia-discussiontools-replywidget-terms-click": "เมื่อกดปุ่ม \"$1\" ถือว่าคุณยอมรับ[https://foundation.wikimedia.org/wiki/Terms_of_Use/th ข้อกำหนดการใช้งาน] และคุณตกลงที่จะเผยแพร่ข้อความของคุณ{{PLURAL:$3|ภายใต้}} $2 อย่างไม่อาจเพิกถอนได้",
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\nที่อยู่ไอพีปัจจุบันของคุณคือ $3\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\nที่อยู่ไอพีปัจจุบันของคุณคือ $3\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
+	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\n{{int:wikimedia-globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-sitematrix": "รายชื่อวิกิมีเดีย",
 	"wikimedia-sitematrix-others": "โครงการอื่น ๆ ของวิกิมีเดีย",
 	"wikimedia-sitematrix-summary": "หน้าพิเศษนี้แสดงรายชื่อวิกิมีเดียทั้งหมด",
@@ -22,7 +23,11 @@
 	"wikimedia-ipinfo-source-geoip2": "การใช้เครื่องมือนี้ของคุณอยู่ภายใต้[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางเครื่องมือข้อมูลไอพี]",
 	"wikimedia-ipinfo-infobox-use-terms": "เครื่องมือข้อมูลไอพีใช้ฐานข้อมูล MaxMind เพื่อแสดงรายละเอียด เช่น ตำแหน่งโดยประมาณ, พร็อกซี, และจำนวนอุปกรณ์ที่แบ่งปันที่อยู่ไอพีนี้ โปรดตรวจสอบ[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางปฏิบัติเกี่ยวกับเครื่องมือข้อมูลไอพี]ก่อนเปิดใช้งาน",
 	"wikimedia-ipinfo-preference-use-agreement": "ฉันยินยอมที่จะใช้เครื่องมือนี้ตาม[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines แนวทางเครื่องมือข้อมูลไอพี] เพื่อการตรวจสอบหรือป้องกันการก่อกวน และการละเมิดอื่น ๆ เท่านั้นของมูลนิธิวิกิมีเดียหรือนโยบายชุมชน",
+	"wikimedia-centralauth-admin-log-otherwiki": "บัญชีนี้ถูกล็อก ดู[[meta:Special:CentralAuth/$1|รายละเอียดบัญชีกลางในเมทาวิกิ]]สำหรับรายละเอียดเพิ่มเติม",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "เลขที่อยู่ไอพีของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกทุกวิกิ]]",
+	"wikimedia-globalblocking-blockedtext-on-range": "ที่อยู่ไอพีของคุณอยู่ในช่วงไอพีที่[[m:Special:MyLanguage/Global blocks|ถูกบล็อกในทุกวิกิของมูลนิธิวิกิมีเดีย]]",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "พร็อกซีเซิร์ฟเวอร์อย่างน้อยหนึ่งเซิร์ฟเวอร์ที่ใช้โดยคำขอของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกข้ามโครงการ]]",
 	"wikimedia-globalblocking-blockedtext-ip-range": "ช่วงที่ถูกบล็อกคือ $1",
-	"wikimedia-globalblocking-blockedtext-proxy": "ที่อยู่พร็อกซีที่ถูกบล็อกคือ $1"
+	"wikimedia-globalblocking-blockedtext-proxy": "ที่อยู่พร็อกซีที่ถูกบล็อกคือ $1",
+	"wikimedia-globalblocking-blockedtext-mistake": "หากคุณเชื่อว่าคุณถูกบล็อกโดยไม่ถูกต้อง คุณสามารถดูสารสนเทศอื่นเพิ่มเติมและขั้นตอนได้ที่นโยบายข้ามโครงการ[[m:Special:MyLanguage/No open proxies|อย่าใช้พร็อกซีเปิด]] หรืออภิปรายเกี่ยวกับการบล็อกนี้ได้โดยเขียนที่[[m:Steward requests/Global|การร้องขอการตรวจสอบบนเมทาวิกิ]]"
 }

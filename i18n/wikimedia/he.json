@@ -20,7 +20,8 @@
 			"דגש חזק",
 			"לואיקה",
 			"תומר ט",
-			"아라"
+			"아라",
+			"מקף"
 		]
 	},
 	"wikimediamessages-desc": "הודעות המיוחדות לוויקימדיה",
@@ -214,7 +215,7 @@
 	"wikimedia-copyrightwarning-ccbysa40only": "שמירת השינויים מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] ואת הסכמתך הבלתי־חוזרת לשחרר את תרומתך לפי תנאי רישיון [https://creativecommons.org/licenses/by-sa/4.0/deed.he CC BY-SA 4.0].\nזוהי גם הסכמתך לכך שקישור או כתובת URL הוא ייחוס מספיק בהתאם לרישיון קריאייטיב קומונז.",
 	"wikimedia-license-links": "רישיון [https://creativecommons.org/licenses/by-sa/4.0/deed.he CC BY-SA 4.0] ולרישיון [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.he CC BY-SA 4.0] ו־[https://www.gnu.org/licenses/fdl.html GFDL]",
-	"wikifunctions-site-footer-copyright": "כל הגדרות הפונקציות, התוויות, והתיעוד במרחב השם הראשי זמינים לפי תנאי <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.he\" title=\"Definition of the Creative Commons CC0 License\">רישיון קריאייטיב קומונז CC0</a>. כל קטעי הקוד והמימושים במרחב השם הראשי זמינים לפי תנאי <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">רישיון אפאצ'י 2.0</a>. טקסט במרחבי שם אחרים זמין לפי תנאי <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.he\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>; ייתכן שחלים תנאים נוספים. שימוש באתר הזה מהווה את הסכמתך ל<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">תנאי השימוש</a> ול<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\">מדיניות הפרטיות</a>.<a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\"></a>",
+	"wikifunctions-site-footer-copyright": "כל הגדרות הפונקציות, התוויות, והתיעוד במרחב השם הראשי זמינים לפי תנאי <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.he\" title=\"Definition of the Creative Commons CC0 License\">רישיון קריאייטיב קומונז CC0</a>. כל קטעי הקוד והמימושים במרחב השם הראשי זמינים לפי תנאי <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">רישיון אפאצ'י 2.0</a>. טקסט במרחבי שם אחרים זמין לפי תנאי <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.he\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">רישיון קריאייטיב קומונז ייחוס–שיתוף זהה</a>; ייתכן שחלים תנאים נוספים. שימוש באתר הזה מהווה את הסכמתך ל<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">תנאי השימוש</a> ול<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\">מדיניות הפרטיות</a>.",
 	"wikifunctions-edit-copyrightwarning-function": "לחיצה על \"פרסום\" מהווה את הסכמתך ל<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/he\">תנאי השימוש</a>, ואת הסכמתך הבלתי־חוזרת לשחרור התרומה שלך לפי תנאי <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.he\" title=\"Definition of the Creative Commons CC0 License\">רישיון קריאייטיב קומונז CC0</a>.",
 	"wikifunctions-edit-copyrightwarning-implementation": "לחיצה על \"פרסום\" מהווה את הסכמתך ל<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/he\">תנאי השימוש</a>, ואת הסכמתך הבלתי־חוזרת לשחרור התרומה שלך לפי תנאי <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">רישיון אפאצ'י 2.0</a>.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ברוך הבא|ברוכה הבאה|ברוך בואך}}, $1!",

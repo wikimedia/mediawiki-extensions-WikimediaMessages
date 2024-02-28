@@ -12,7 +12,8 @@
 			"SPQRobin",
 			"Servien",
 			"Spacebirdy",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia spesifieke boodskappe",
@@ -107,6 +108,7 @@
 	"wikibase-sitelinks-wikisource": "Wikibronne",
 	"wikibase-sitelinks-wikiversity": "Wikiversiteit",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-wiktionary": "Wikiwoordeboek",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",

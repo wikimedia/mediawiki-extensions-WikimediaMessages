@@ -6,7 +6,8 @@
 			"Patriot Kor",
 			"Patriot Kur",
 			"Pols12",
-			"Гусейн"
+			"Гусейн",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Pul baxše",
@@ -18,6 +19,7 @@
 	"wikibase-sitelinks-wikiquote": "Vikisitot",
 	"wikibase-sitelinks-wikisource": "Vikisəvon",
 	"wikibase-sitelinks-wikivoyage": "Vikisəjohət",
+	"wikibase-sitelinks-wiktionary": "Vikisyxangyrd",
 	"wikibase-otherprojects-wikinews": "Vikixəbəon",
 	"wikimedia-developers": "Hozy kardəkəs",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDəbastəše $1 ($2).\nSəbəb: ''$3''.\n\n* Bino karde be: $4\n* Orəxe: $5\n\nŠymə ysətnə IP-adres: — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",

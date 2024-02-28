@@ -19,7 +19,8 @@
 			"Vlad5250",
 			"Wizzard",
 			"Yardom78",
-			"Απεργός"
+			"Απεργός",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Správy špecifické pre Wikimedia",
@@ -128,6 +129,7 @@
 	"wikibase-sitelinks-wikiquote": "Stránky Wikicitátov prepojené s touto položkou",
 	"wikibase-sitelinks-wikisource": "Stránky Wikizdrojov prepojené s touto položkou",
 	"wikibase-sitelinks-wikivoyage": "Stránky Wikiciest prepojené s touto položkou",
+	"wikibase-sitelinks-wiktionary": "Wikislovník",
 	"wikibase-otherprojects-sources": "Viacjazyčné Wikizdroje",
 	"wikibase-otherprojects-wikidata": "Wikiúdaje",
 	"wikibase-otherprojects-wikipedia": "Wikipédia",

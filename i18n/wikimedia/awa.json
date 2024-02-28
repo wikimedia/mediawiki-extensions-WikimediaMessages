@@ -4,7 +4,8 @@
 			"1AnuraagPandey",
 			"1PandeyAnurag",
 			"Ajeetsinghawadh",
-			"Ajeetsinghawadhi"
+			"Ajeetsinghawadhi",
+			"Varnent"
 		]
 	},
 	"sitesupport": "दान किहा जाय",
@@ -15,6 +16,7 @@
 	"wikibase-sitelinks-wikiquote": "विकिकहावत",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",
 	"wikibase-sitelinks-wikivoyage": "विकियात्रा",
+	"wikibase-sitelinks-wiktionary": "विकीशब्दकोश",
 	"wikimedia-developers": "विकासकर्ता:",
 	"wikimedia-globalblocking-ipblocked": "'''आपका आईपी अड्रस [[m:Special:MyLanguage/Global blocks|सभी विकि पर ख़ारिज]] किया गया है.'''\n\nइस ख़ारिज को $1 ($2) ने किया.\nबताया गया कारण : ''$3'' .\n\n* ख़ारिज शुरू: $4\n* ख़ारिज बन्द्: $5\n\nआपका प्रस्तुत आईपी अड्रस् $6.\nकृपया ऊपर दी गईं बातें अपने पूछ्ताछ में शामिल करें।\n\nअगर आप मनते है कि यह ख़ारिज करना किसी गलती से हुआ है, तो आप अधिक जानकारी और निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस नही]] वैश्विक नीति पर पढें.\nया फिर, इस खारिज की चर्चा [[m:Steward requests/Global|यहाँ करें और मेटाविकि पर एक नया चर्चा शुरू करें]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''आपके अनुरोध के द्वारा उपयोग करा जाय वाला एक या जादा प्रॉक्सी सर्वर [[m:Special:MyLanguage/Global blocks|ग्लोबली अवरुद्ध]]' ''।\n\n ब्लॉक $1 ($2) द्वारा बनावा गा रहा।\n दिया गवा कारण '' $3 '' अहै।\n\n * ब्लॉक कय शुरुआत: $4\n * ब्लॉक कय समाप्ति: $5\n\n अवरुद्ध प्रॉक्सी पता $6 रहा।\n कृपया आपके द्वारा करा गवा कउनो भी प्रश्न मा उपरोक्त सब विवरण शामिल करैं।\n\n अगर आपका लागत है कि आप गलती से अवरुद्ध भा रहें, तौ आप [[m:Special:MyLanguage/No open proxies|कउनो खुला प्रॉक्सी नाहीं]] वैश्विक नीति मा जादा जानकारी अउर निर्देश पाय सकत हैं।\n नाहीं तौ, ब्लॉक पय चर्चा करै बरे कृपया  [[m:Steward requests/Global|मेटा विकी पय समीक्षा करय बरे एक अनुरोध पोस्ट करैं]]।",
