@@ -189,6 +189,8 @@ class Hooks implements
 			'jsonconfig-license-notice-license-unset',
 			// T340115
 			'campaignevents-edit-field-clickwrap-checkbox-label',
+			// T322209
+			'campaignevents-edit-form-questions-pii-notice',
 			// T357869
 			'pt-movepage-page-count-limit',
 		];
