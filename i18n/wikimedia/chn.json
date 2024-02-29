@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"POSSUM chowg"
 		]
 	},
-	"sitesupport": "Pałach dala",
+	"sitesupport": "Paɬach dala",
 	"wikimedia-copyright": "Nanich tsəm-ikta kikwili <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nNanich x̣luima la yakwa!\nNanich <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> pus maika tiki x̣luima kəmtəks.",
 	"wikimedia-copyrightwarning": "Pus maika mamuk-delet maika ts'əm-ikta, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], pi maika thəqsin [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] pi [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikibase-sitelinks-wikinews": "Wikinews",
@@ -12,8 +13,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Kanawi humhum-mashin-tilixam",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) mamuk-x̣auqał-mamuk-ts'əm maika, qiwa: \"$3\".\n\n* Ukuk chako yakwa: $4\n* Ukuk łatwa saya: $5\n\nMaika IP-k'winin-ikta $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) mamuk-x̣auqał-mamuk-ts'əm maika, qiwa: \"$3\".\n\n* Ukuk chako yakwa: $4\n* Ukuk łatwa saya: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) mamuk-x̣auqaɬ-mamuk-ts'əm maika, qiwa: \"$3\".\n\n* Ukuk chako yakwa: $4\n* Ukuk ɬatwa saya: $5\n\nMaika IP-k'winin-ikta $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) mamuk-x̣auqaɬ-mamuk-ts'əm maika, qiwa: \"$3\".\n\n* Ukuk chako yakwa: $4\n* Ukuk ɬatwa saya: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "K'winin-ikta",
 	"wikimedia-cookiestatement": "Libiskwi yaka wawa-ikta"
 }

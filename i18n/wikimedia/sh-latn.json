@@ -208,6 +208,8 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-taglines-wikidata": "Slobodna baza znanja",
+	"wikimedia-taglines-wikivoyage": "Slobodno gradivo vodiča za putovanja",
 	"cant-delete-main-page": "Ne možete izbrisati ili premjestiti glavnu stranicu",
 	"upload-more-photos-of-this-monument": "Otpremi još slika ovog spomenika",
 	"wikimedia-developers": "Programeri",
@@ -292,6 +294,11 @@
 	"right-edit-legal": "Uređivanje stranica s mogućim pravnim posljedicama",
 	"action-edit-legal": "uređivanje stranica s mogućim pravnim posljedicama",
 	"ipinfo-feedback-button-label": "Napišite povratnu informaciju",
+	"ext-quicksurveys-name": "Brze ankete",
 	"gadget-souspages-subpages": "Podstranice",
-	"ipinfo-global-contributions-url-label": "Globalni doprinosi"
+	"ipinfo-global-contributions-url-label": "Globalni doprinosi",
+	"wikimedia-projects-label": "Wikimedija projekti",
+	"wikimedia-help-translate-prompt": "Želite li pomoći s prevođenjem? [$1 Prevedite poruke koje nemaju prevod].",
+	"wikimedia-translation-disclaimer-nolink": "U slučaju nedosljednosti u značenju ili interpretaciji između izvorne engleske verzije i prijevoda, prednost ima engleska verzija.",
+	"wikimedia-translation-disclaimer-withlink": "U slučaju nedosljednosti u značenju ili interpretaciji između izvorne engleske verzije i prijevoda, prednost ima [[$1|engleska verzija]]."
 }

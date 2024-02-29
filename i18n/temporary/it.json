@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Beta16",
 			"Darth Kule",
 			"Fringio",
@@ -17,5 +18,5 @@
 	"specialblockfeedback": "Feedback",
 	"specialinvestigate-feedback": "Lascia feedback",
 	"graph-disabled-category": "Pagine con grafici disattivati",
-	"graph-disabled-category-desc": "La pagina include un tag <nowiki><graph></nowiki> che è temporaneamente non disponibile ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "La pagina include un tag <code>&lt;graph&gt;</code> che è temporaneamente non disponibile ([[phab:T334940|T334940]])."
 }

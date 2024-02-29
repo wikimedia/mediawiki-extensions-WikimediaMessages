@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"DavidL",
 			"Framawiki",
 			"Gomoko",
@@ -28,5 +29,5 @@
 	"specialblockfeedback": "Commentaire",
 	"specialinvestigate-feedback": "Laisser un commentaire",
 	"graph-disabled-category": "Pages avec des graphiques désactivés",
-	"graph-disabled-category-desc": "La page comprend une balise <nowiki><graph></nowiki>, qui est temporairement indisponible ([[phab:T334940|T334940]])."
+	"graph-disabled-category-desc": "La page comprend une balise <code>&lt;graph&gt;</code>, qui est temporairement indisponible ([[phab:T334940|T334940]])."
 }
