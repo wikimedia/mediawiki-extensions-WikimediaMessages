@@ -123,7 +123,7 @@
 	"group-mover-member": "{{GENDER:$1|ناقل|ناقلة}}",
 	"grouppage-mover": "{{ns:project}}:ناقلون",
 	"group-flood": "بوتات زائفة",
-	"group-flood-member": "{{GENDER:$1|بوت زائف}}",
+	"group-flood-member": "{{GENDER:$1|مفيض}}",
 	"grouppage-flood": "{{ns:project}}:بوتات زائفة",
 	"group-founder": "مؤسسون",
 	"group-founder-member": "{{GENDER:$1|مؤسس|مؤسسة}}",
