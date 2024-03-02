@@ -1,0 +1,74 @@
+@import 'mediawiki.skin.variables.less';
+
+body.skin--responsive .mw-parser-output {
+	.infobox {
+		// Unfloat tables and infoboxes:;
+		// A lot of templates introduce floating and horizontal margins inline styles
+		float: none !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		font-size: 90%;
+		position: relative;
+		border: @border-width-base @border-style-base @border-color-muted;
+		margin-bottom: 2em;
+		color: @color-base;
+		background-color: @background-color-interactive-subtle;
+		display: flex;
+		flex: 1 1 100%;
+		flex-flow: column nowrap;
+		width: 100% !important;
+		max-width: 100% !important;
+
+		caption {
+			padding: 10px 10px 0;
+			text-align: center;
+		}
+
+		th,
+		td {
+			vertical-align: top;
+			border: 0;
+			border-bottom: @border-width-base @border-style-base @border-color-muted;
+			padding: 7px 10px;
+		}
+
+		tbody > tr > td,
+		tbody > tr > th {
+			flex: 1 0;
+		}
+
+		td:only-child,
+		th:only-child {
+			width: 100%;
+		}
+
+		tr:last-child th,
+		tr:last-child td {
+			border: 0;
+		}
+
+		& > tbody,
+		& > caption {
+			display: flex;
+			flex-flow: column nowrap;
+		}
+
+		& > tbody > tr {
+			min-width: 100%;
+			display: flex;
+			flex-flow: row nowrap;
+		}
+	}
+
+	// Hack to assign info boxes properly when using RTL languages on LTR wiki
+	.mw-content-ltr .infobox {
+		/* @noflip */
+		text-align: left;
+	}
+
+	// Hack to assign info boxes properly when using LTR languages on RTL wiki
+	.mw-content-rtl .infobox {
+		/* @noflip */
+		text-align: right;
+	}
+}
