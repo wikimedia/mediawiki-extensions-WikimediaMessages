@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"HanV",
 			"Iamthedutchdude",
 			"Mitsjol",
 			"Varnent"
@@ -14,7 +15,7 @@
 	"wm-commonstrings-connect": "Verbinden",
 	"wm-commonstrings-contactus": "Contact",
 	"wm-commonstrings-events": "Gebeurtenissen",
-	"wm-commonstrings-mainpage-prompt": "Hoofdpagina: $1",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hoofdpagina: $1|Hoofdpagina's: $1}}",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hoofdartikel: $1|Hoofdartikelen: $1}}",
 	"wm-commonstrings-noticeboard": "Prikbord",
 	"wm-commonstrings-objectives": "Doelen",

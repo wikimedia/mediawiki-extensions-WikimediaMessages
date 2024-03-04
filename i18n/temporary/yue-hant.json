@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"H78c67c",
 			"Winston Sung"
 		]
 	},
@@ -10,5 +11,5 @@
 	"group-oversight-member": "監督",
 	"hello": "你好",
 	"please-translate": "請幫手去譯做你嘅語言",
-	"thank-you": "多謝。"
+	"thank-you": "{{GENDER:$1|多謝。}}"
 }

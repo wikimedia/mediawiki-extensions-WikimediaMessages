@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ninjastrikers",
 			"Varnent"
 		]
 	},
 	"wm-commonstrings-background": "နောက်ခံ",
-	"wm-commonstrings-bylaws": "စည်းမျဥ်းများ",
+	"wm-commonstrings-bylaws": "စည်းမျဉ်းများ",
 	"wm-commonstrings-events": "အဖြစ်အပျက်များ",
 	"wm-commonstrings-noticeboard": "ကြော်ငြာသင်ပုန်း",
 	"wm-commonstrings-overview": "ခြုံငုံသုံးသပ်ချက်",

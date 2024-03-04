@@ -4,6 +4,12 @@
 			"MthulisiNcube"
 		]
 	},
+	"wm-license-cc-free": "Wakansunhunguka:",
+	"wm-license-cc-free-to-share-header": "mupana",
+	"wm-license-cc-free-to-share-text": "Mukopa, pa ndetumila n'hingo",
+	"wm-license-cc-conditions": "Pasi kwezila dzinotebela:",
 	"wm-license-cc-conditions-attribution-header": "Mbumbiko",
-	"wm-license-cc-conditions-share_alike-header": "koba kulizane"
+	"wm-license-cc-conditions-attribution-text": "Kwakafanela uboke, ulonge linki yelayinsensi, ulakidze luntjintjo gwatiwa. Ungakuthama whoku ndezila dzose dzakatambunhuka, koga hayi ndezila inolayidza kuti mweni welayinsensi unovuma iwe kene hinga kuko.",
+	"wm-license-cc-conditions-share_alike-header": "koba kulizane",
+	"wm-license-cc-conditions-share_alike-text": "Hhapo uhanganyisa, untjintja, kene ubaka, kwakafanila kuti ulonge kwahisiwa pasi  [https://creativecommons.org/share-your-work/licensing\n-considerations/compatible-licenses same or compatible license] as the original."
 }
