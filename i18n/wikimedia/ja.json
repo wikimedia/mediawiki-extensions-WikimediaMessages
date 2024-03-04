@@ -55,7 +55,9 @@
 			"MagicAho",
 			"春春眠眠",
 			"Amayus",
-			"Chqaz"
+			"Chqaz",
+			"Mirror-kt",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -158,7 +160,7 @@
 	"group-propertycreator": "プロパティ作成者",
 	"group-propertycreator-member": "{{GENDER:$1|プロパティ作成者}}",
 	"grouppage-propertycreator": "{{ns:project}}:プロパティ作成者",
-	"group-researcher": "調査者",
+	"group-researcher": "研究者",
 	"group-researcher-member": "{{GENDER:$1|研究者}}",
 	"grouppage-researcher": "{{ns:project}}:調査者",
 	"group-rollbacker": "巻き戻し者",
@@ -271,6 +273,7 @@
 	"wikibase-otherprojects-testwikidata": "ウィキデータ",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "メタウィキ",
+	"wikibase-otherprojects-outreach": "ウィキメディア・アウトリーチ",
 	"wikibase-otherprojects-sources": "多言語ウィキソース",
 	"wikibase-otherprojects-species": "ウィキスピーシーズ",
 	"wikibase-otherprojects-wikibooks": "ウィキブックス",

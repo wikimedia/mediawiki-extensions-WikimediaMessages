@@ -19,7 +19,9 @@
 			"आलोक",
 			"राम प्रसाद जोशी",
 			"संजीव कुमार",
-			"రహ్మానుద్దీన్"
+			"రహ్మానుద్దీన్",
+			"Scblr",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया-विशिष्ट संदेश",
@@ -161,6 +163,7 @@
 	"wikibase-sitelinks-wikiquote": "विकिसूक्ति",
 	"wikibase-sitelinks-wikisource": "विकिस्रोत",
 	"wikibase-sitelinks-wikivoyage": "विकियात्रा",
+	"wikibase-sitelinks-wiktionary": "विक्षनरी",
 	"wikibase-otherprojects-commons": "विकिमीडिया कॉमन्स",
 	"wikibase-otherprojects-testwikidata": "विकिडेटा",
 	"wikibase-otherprojects-mediawiki": "मीडियाविकि",

@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Jeluang Terluang",
-			"Nemo bis"
+			"Nemo bis",
+			"Hakimi97"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Anda boleh melawati laman Keutamaan anda di [[m:Special:CentralAuth/$1 |projek Wikimedia lain yang telah anda sumbangkan]] untuk muat turun data akaun anda daripada projek tersebut.",
 	"wikimedia-createacct-imgcaptcha-help": "Tak nampak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon akaun]]",
 	"wikimedia-centralauth-groupname": "Yayasan Wikimedia",
 	"wikimedia-flow-terms-of-use-new-topic": "Dengan mengklik \"Tambah topik\", anda bersetuju dengan [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use Syarat-Syarat Penggunaan] kami dan juga sudi mengeluarkan gambar anda dengan [https://creativecommons.org/licenses/by-sa/3.0/ Lesen Creative Commons Attribution-ShareAlike 3.0] dan [https://ms.wikipedia.org/wiki/Wikipedia:Teks_Lesen_Dokumentasi_Bebas_GNU GFDL].",

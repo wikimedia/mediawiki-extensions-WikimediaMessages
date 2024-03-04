@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"MF-Warburg"
+			"MF-Warburg",
+			"Varnent"
 		]
 	},
 	"sitesupport": "Fó donativu ida",
 	"tooltip-n-sitesupport": "Tulun ami",
 	"group-steward": "Steward sira",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
-	"grouppage-steward": "{{ns:project}}:Steward sira"
+	"grouppage-steward": "{{ns:project}}:Steward sira",
+	"wikibase-sitelinks-wiktionary": "Wiksionáriu"
 }
