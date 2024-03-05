@@ -3,10 +3,12 @@
 		"authors": [
 			"MR973",
 			"З. ӘЙЛЕ",
-			"Айсар"
+			"Айсар",
+			"Bashkorttan"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(һайларға ярҙам итегеҙ)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Һеҙ [[m:Special:CentralAuth/$1|ҡатнашҡан башҡа Викимедиа проектарындағы]] иҫәп яҙма мәғлүмәттәрегеҙҙе күсереп алыр өсөн көйләүҙәр битен ҡарай алаһығыҙ.",
 	"wikimedia-createacct-imgcaptcha-help": "Һүрәтте күрмәйһегеҙме? [[{{MediaWiki:createacct-captcha-help-url}}|Иҫәп яҙмаһын һорағыҙ]]",
 	"wikimedia-centralauth-groupname": "Викимедиа Фондының",
 	"wikimedia-sitematrix": "Викимедианың вики-проекттары исемлеге",

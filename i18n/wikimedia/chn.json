@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"POSSUM chowg"
+			"POSSUM chowg",
+			"Amire80"
 		]
 	},
-	"sitesupport": "Pałach dala",
+	"sitesupport": "Paɬach dala",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
