@@ -354,6 +354,7 @@
 	"readinglists-import-app-with-link": "<a href=\"$1\">Ladda ned</a> och installera den senaste versionen av Wikipedia-appen:",
 	"readinglists-list-empty-message": "Du kan importera denna lista genom att installera Wikipedia-appen.",
 	"ipinfo-global-contributions-url-label": "Globala bidrag",
+	"wikimedia-foundation-projects-of-label-nolink": "Projekt i Wikimedia Foundation",
 	"wikimedia-projects-label": "Wikimediaprojekt",
 	"wikimedia-news-label": "Wikimedia-nyheter",
 	"wikimedia-help-translate-prompt": "Vill du hjälpa till att översätta? [$1 Översätt meddelanden som saknas].",

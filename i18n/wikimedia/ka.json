@@ -189,5 +189,6 @@
 	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]",
 	"wikimedia-statslink": "სტატისიკა",
 	"wikimedia-cookiestatement": "მზა ფაილების პოლიტიკა",
+	"wikimedia-foundation-projects-of-label-nolink": "ფონდ ვიკიმედიის პროექტები",
 	"wikimedia-help-translate-prompt": "გინდათ თარგმნაში დაგვეხმაროთ? [$1 თარგმნეთ გამოტოვებული შეტყობინებები]."
 }

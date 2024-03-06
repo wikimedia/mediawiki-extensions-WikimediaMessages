@@ -5,7 +5,8 @@
 			"AlefZet",
 			"Emperyan",
 			"Inabat Allanova",
-			"Nurlan"
+			"Nurlan",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikipediya arnawlı xabarları",
@@ -73,5 +74,6 @@
 	"interlanguage-link-commons": "Wikiqoyma",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Cookie bayanatı",
-	"ext-campaignevents-register-policy": "Dizimnen ótiw arqalı siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Paydalanıw shártleri], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Jasırınlıq siyasatı], [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universal minez-qulıq kodeksi] hám ilaj shólkemlestiriwshileri tárepinen usınıs etilgen hár qanday Jergilikli doslıq aymaǵı siyasatına razılıq bildiresiz."
+	"ext-campaignevents-register-policy": "Dizimnen ótiw arqalı siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Paydalanıw shártleri], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Jasırınlıq siyasatı], [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universal minez-qulıq kodeksi] hám ilaj shólkemlestiriwshileri tárepinen usınıs etilgen hár qanday Jergilikli doslıq aymaǵı siyasatına razılıq bildiresiz.",
+	"wikimedia-foundation-projects-of-label-nolink": "Wikimedia Fondınıń joybarları"
 }

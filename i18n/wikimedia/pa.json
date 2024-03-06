@@ -49,7 +49,7 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "ਵਿਕੀਡਾਟਾ",
 	"wikimedia-otherprojects-cloudservices": "ਵਿਕਿਮੀਡੀਆ ਕਲਾਉਡ ਸੇਵਾਵਾਂ",
 	"wikimedia-taglines-wikidata": "ਮੁਫ਼ਤ ਗਿਆਨ ਅਧਾਰ",
-	"wikimedia-taglines-wikivoyage": "ਮੁਫ਼ਤ ਯਾਤਰਾ ਰਾਹਬਰ",
+	"wikimedia-taglines-wikivoyage": "ਮੁਫ਼ਤ ਯਾਤਰਾ ਗਾਈਡ",
 	"createacct-captcha-help-url": "{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ",
 	"wikimedia-developers": "ਵਿਕਾਸਕਾਰ",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ( $2 ) ਦੁਆਰਾ ਬਲੌਕ ਕੀਤਾ ਗਿਆ ਸੀ।\nਇਸਦਾ ਕਾਰਨ '' $3 '' ਹੈ। \n\n* ਬਲੌਕ ਦੀ ਸ਼ੁਰੂਆਤ: $4 \n* ਬਲੌਕ ਦੀ ਸਮਾਪਤੀ: $5 \n\nਤੁਹਾਡਾ ਮੌਜੂਦਾ IP ਪਤਾ $6 ਹੈ।\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",

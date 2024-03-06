@@ -319,6 +319,7 @@
 	"protect-level-edit-legal": "อนุญาตเฉพาะผู้ใช้ที่สามารถแก้ไขหน้าที่เกี่ยวข้องกับกฎหมายได้",
 	"restriction-level-edit-legal": "ถูกป้องกันเนื่องจากเกี่ยวกับข้อกฎหมาย",
 	"wikimedia-foundation-projects-label": "โครงการมูลนิธิวิกิมีเดีย",
+	"wikimedia-foundation-projects-of-label-nolink": "โครงการของมูลนิธิวิกิมีเดีย",
 	"wikimedia-projects-label": "โครงการวิกิมีเดีย",
 	"wikimedia-mailservices-label": "บริการคลาวด์ของวิกิมีเดีย",
 	"wikimedia-news-label": "ข่าวสารวิกิมีเดีย",
