@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tofeiku"
+			"Tofeiku",
+			"Hakimi97"
 		]
 	},
+	"project-localized-name-group-wikipedia": "ويکيڤيديا",
 	"project-localized-name-mswiki": "ويکيڤيديا بهاس ملايو",
 	"project-localized-name-mswiktionary": "ويکيقاموس بهاس ملايو",
 	"project-localized-name-wikidatawiki": "ويکيداتا"

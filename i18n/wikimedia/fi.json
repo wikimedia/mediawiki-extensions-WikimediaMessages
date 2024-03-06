@@ -32,7 +32,8 @@
 			"Varusmies",
 			"Veikk0.ma",
 			"VezonThunder",
-			"Zache"
+			"Zache",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -271,6 +272,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Tämä on Wikimedia Foundationin suorittama anonyymi kyselytutkimus. Voit [https://meta.wikimedia.org/wiki/Community_Safety lukea lisää] tai tarkistaa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement tietosuojalausunnon].",
 	"gadget-souspages-subpages": "Alasivut",
 	"readinglists-import-app": "Tuo tämä lukulista asentamalla Wikipedia-sovelluksen uusin versio:",
+	"readinglists-import-app-with-link": "<a href=\"$1\">Lataa</a> ja asenna Wikipedia-sovelluksen uusin versio:",
 	"readinglists-list-empty-message": "Voit tuoda tämän listan asentamalla Wikipedia-sovelluksen.",
 	"research-incentive-confirm-msg": "Kiitos!",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset"

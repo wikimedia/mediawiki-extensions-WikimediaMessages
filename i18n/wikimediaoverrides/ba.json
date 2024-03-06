@@ -8,6 +8,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(һайларға ярҙам итегеҙ)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Һеҙ [[m:Special:CentralAuth/$1|ҡатнашҡан башҡа Викимедиа проектарындағы]] иҫәп яҙма мәғлүмәттәрегеҙҙе күсереп алыр өсөн көйләүҙәр битен ҡарай алаһығыҙ.",
 	"wikimedia-createacct-imgcaptcha-help": "Һүрәтте күрмәйһегеҙме? [[{{MediaWiki:createacct-captcha-help-url}}|Иҫәп яҙмаһын һорағыҙ]]",
 	"wikimedia-centralauth-groupname": "Викимедиа Фондының",
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлок ҡуйыусы: $1.\nСәбәбе: ''$2''.\n\n* Блоктың башланғыс датаһы: $8\n* Блоктың тамамланыу датаһы: $6\n\nАғымдағы IP-адресығыҙ: $3.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",

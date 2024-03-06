@@ -45,7 +45,8 @@
 			"عبد الإله صديقي",
 			"علاء",
 			"فيصل",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -122,7 +123,7 @@
 	"group-mover-member": "{{GENDER:$1|ناقل|ناقلة}}",
 	"grouppage-mover": "{{ns:project}}:ناقلون",
 	"group-flood": "بوتات زائفة",
-	"group-flood-member": "{{GENDER:$1|بوت زائف}}",
+	"group-flood-member": "{{GENDER:$1|مفيض}}",
 	"grouppage-flood": "{{ns:project}}:بوتات زائفة",
 	"group-founder": "مؤسسون",
 	"group-founder-member": "{{GENDER:$1|مؤسس|مؤسسة}}",
