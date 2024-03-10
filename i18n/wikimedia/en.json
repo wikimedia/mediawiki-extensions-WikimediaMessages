@@ -309,7 +309,6 @@
 	"wikimedia-torblock-blocked": "Your IP address, <strong>$1</strong>, has been automatically identified as a [https://en.wikipedia.org/wiki/Tor_(network) Tor] exit node.\nEditing through Tor is blocked to prevent abuse.\nFor additional information and instructions to legitimate users, see the [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies no open proxies] global policy.",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy]",
-	"grant-checkuser": "Access checkuser data",
 	"upload-form-label-own-work-message-commons": "I attest that I own the copyright on this file, and agree to irrevocably release this file to Wikimedia Commons under the [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike 4.0] license, and I agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use].",
 	"upload-form-label-not-own-work-message-commons": "If you do not own the copyright on this file, or you wish to release it under a different license, consider using the [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
 	"upload-form-label-not-own-work-local-commons": "You may also want to try using [[Special:Upload|the upload page on {{SITENAME}}]], if the site allows the upload of this file under their policies.",
