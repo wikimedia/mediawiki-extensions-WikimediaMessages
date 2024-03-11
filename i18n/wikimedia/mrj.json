@@ -2,8 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Amdf",
-			"Nemo bis"
+			"Nemo bis",
+			"Nadezhda"
 		]
 	},
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike лицензи</a> семӹнь анжыкталтеш, кӓнгӓш моло келеш гӹнь, вес условивлӓ шотыш нӓлмӹ лит. Шукыракым пӓлен нӓлӓш <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ru\">«Кычылтмы условивлӓм»</a> анжалда."
+	"sitesupport": "Подараш",
+	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike лицензи</a> семӹнь анжыкталтеш, кӓнгӓш моло келеш гӹнь, вес условивлӓ шотыш нӓлмӹ лит. Шукыракым пӓлен нӓлӓш <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/ru\">«Кычылтмы условивлӓм»</a> анжалда.",
+	"wikimedia-developers": "Разработчиквлӓ",
+	"wikimedia-statslink": "Статистика",
+	"wikimedia-cookiestatement": "Куки файлвлӓ гишан ядмаш"
 }
