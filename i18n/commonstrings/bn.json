@@ -5,6 +5,7 @@
 			"আফতাবুজ্জামান"
 		]
 	},
+	"wm-commonstrings-aboutme": "আমার সম্পর্কে",
 	"wm-commonstrings-activities": "কার্যক্রম",
 	"wm-commonstrings-agenda": "আলোচ্যসূচি",
 	"wm-commonstrings-background": "পটভূমি",
@@ -13,7 +14,10 @@
 	"wm-commonstrings-connect": "সংযোগ করুন",
 	"wm-commonstrings-contactus": "যোগাযোগ করুন",
 	"wm-commonstrings-events": "ইভেন্ট",
+	"wm-commonstrings-externallinks": "বহিঃসংযোগ",
+	"wm-commonstrings-follow": "অনুসরণ করুন",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|প্রধান পাতা: $1}}",
+	"wm-commonstrings-mywork": "আমার কাজ",
 	"wm-commonstrings-noticeboard": "আলোচনাসভা",
 	"wm-commonstrings-objectives": "উদ্দেশ্য",
 	"wm-commonstrings-ongoing": "চলমান",

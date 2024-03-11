@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Accuratecy051",
 			"Amire80",
 			"Edith Nwobu",
 			"Izuchi Onyeike",
@@ -54,5 +55,9 @@
 	"ext-quicksurveys-tst-internal-survey-question": "N'ime ụbọchị iri ato gara aga, i nweela mmetụta enweghị nchekwa ma ọ bụ mgbakasị ahụ ịtụnye ụtụ na {{SITENAME}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-name": "Nchọpụta ngwa ngwa",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "N'ime ụbọchị 30 gara aga, ọ dị gị ahụghị gị ma ọ bụ enweghị ahụ iru ala inye aka na {{SITENAME}} ({{SERVERNAME}})?",
-	"wikimedia-help-translate-prompt": "Ị chọrọ inye aka ịtụgharị asụsụ? [$1 ntụgharị-asụsụ Tụgharịa asụsụ ozi n'efu efu]."
+	"wikimedia-help-translate-prompt": "Ị chọrọ inye aka ịtụgharị asụsụ? [$1 ntụgharị-asụsụ Tụgharịa asụsụ ozi n'efu efu].",
+	"wikimedia-foundation-about-label-short": "Banyere Ntọala ahụ",
+	"wikimedia-foundation-footer-description-short": "Wikimedia Foundation, Inc bụ ọgbakọ ọrụ ebere na-anaghị akwụ ụgwọ raara onwe ya nye n'ịkwalite uto, mmepe na nkesa ọdịnaya n'efu, ọtụtụ asụsụ, yana inye ọha mmadụ ọdịnaya zuru oke nke ọrụ ndị a dabere na wiki n'efu.",
+	"wikimedia-capacity-development-label-short": "Mmepe ikike",
+	"wikimedia-movement-resources-label-short": "Ihe Ndị Na-eme n'Oge"
 }

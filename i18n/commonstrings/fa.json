@@ -5,10 +5,20 @@
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-aboutme": "دربارهٔ من",
 	"wm-commonstrings-activities": "فعالیت‌ها",
+	"wm-commonstrings-contacthuman": "تماس با یک انسان",
 	"wm-commonstrings-contactus": "ارتباط با ما",
+	"wm-commonstrings-enterquestion": "پرسش خود را وارد کنید.",
+	"wm-commonstrings-externallinks": "پیوند به بیرون",
+	"wm-commonstrings-follow": "دنبال‌کردن",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|صفحهٔ اصلی: $1|صفحه‌های اصلی: $1}}",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|مقاله اصلی: $1|مقاله‌های اصلی: $1}}",
+	"wm-commonstrings-mywork": "کار من",
+	"wm-commonstrings-news-events": "اخبار و رویدادها",
 	"wm-commonstrings-noticeboard": "تابلوی اعلانات",
-	"wm-commonstrings-resolutions": "مصوبه‌ها"
+	"wm-commonstrings-please-remember": "لطفاً به یاد داشته باشید که: $1",
+	"wm-commonstrings-projects-collaborations": "پروژه‌ها و همکاری‌ها",
+	"wm-commonstrings-resolutions": "مصوبه‌ها",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|میانبر|میانبرها}}"
 }
