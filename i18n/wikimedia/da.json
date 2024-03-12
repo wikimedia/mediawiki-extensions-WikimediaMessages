@@ -189,7 +189,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''Din IP-adresse er blevet [[m:Special:MyLanguage/Global blocks|blokeret på alle wikier]].'''\n\nBlokeringen blev foretaget af $1 ($2).\nBegrundelsen er ''$3''.\n\n* Start af blokeringen: $4 \n* udløb af blokeringen: $5 \n\nDin nuværende IP-adresse er $6.\nInkluder venligst alle ovenstående detaljer i eventuelle forespørgsler, du laver.\n\nHvis du tror, du blev blokeret ved en fejl, kan du finde flere oplysninger og instruktioner i den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].\nEllers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning om fornyet undersøgelse på Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''En eller flere proxyservere brugt af din anmodning er [[m:Special:MyLanguage/Global blocks|globalt blokeret]].'''\n\nBlokeringen blev foretaget af $1 ($2).\nBegrundelsen er ''$3''.\n\n* Start af blokeringen:  $4 \n* udløb af blokeringen:  $5 \n\nDen blokerede proxyadresse var $6.\nInkluder venligst alle ovenstående detaljer i eventuelle forespørgsler, du laver.\n\nHvis du tror, du blev blokeret ved en fejl, kan du finde flere oplysninger og instruktioner i den globale politik [[m:Special:MyLanguage/No open proxies|Ingen åbne proxier]].\nEllers, for at drøfte blokeringen [[m:Steward requests/Global|lav en anmodning om fornyet undersøgelse på Meta-Wiki]].",
 	"wikimedia-torblock-blocked": "Din IP-adresse, <strong>$1</strong>, er blevet automatisk identificeret som en [https://da.wikipedia.org/wiki/The_Onion_Router Tor]-exitnode.\nRedigering gennem Tor er blokeret for at forhindre misbrug.\nFor yderligere oplysninger og instruktioner til legitime brugere, se den globale [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies »ingen åbne proxyer«]-politik.",
-	"grant-checkuser": "Adgang til checkuserdata",
 	"interlanguage-link-mul": "Flere sprog",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, det frie leksikon",
@@ -204,6 +203,7 @@
 	"gadget-souspages-subpages": "Undersider",
 	"wikimedia-projects-label": "Wikimedia projekter",
 	"wikimedia-help-translate-prompt": "Vil du hjælpe med at oversætte? [$1 Oversæt de manglende beskeder].",
+	"wikimedia-foundation-department-shortname-communications": "Kommunikation",
 	"wikimedia-nutshell-page-intro": "Denne side i en nøddeskal: $1",
 	"wikimedia-translation-disclaimer-nolink": "Bemærk, at i tilfælde af uoverensstemmelser, i forhold til betydningen eller fortolkningen, mellem den oprindelige engelsksprogede version af dette dokument og en oversættelse, har den oprindelige engelsksprogede version forrang.",
 	"wikimedia-translation-disclaimer-withlink": "Bemærk, at i tilfælde af uoverensstemmelser, i forhold til betydningen eller fortolkningen, mellem den oprindelige engelsksprogede version af dette dokument og en oversættelse, har den [[$1|oprindelige engelsksprogede version]] forrang."

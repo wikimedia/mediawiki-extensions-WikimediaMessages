@@ -105,7 +105,6 @@
 	"wikimedia-developers": "Kreinti di la programo",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nVu blokusesis da $1 ($2).\nLa motivo esis '''$3'''.\n\n* Blokuso komencis: $4\n* Blokuso finos: $5\n\n* Vua nuna IP-adreso esas $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nLa blokuso facesis da $1 ($2).\nLa motivo por blokuso esis ''$3''.\n\n* Komenco: $4\n* Fino di la blokuso: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"grant-checkuser": "Acesar informi por verifikar uzeri",
 	"upload-form-label-not-own-work-message-commons": "Se vu ne havas autoroyuro pri ica arkivo, o vu deziras sendar ol sub diferanta autoroyuro-persmiso, konsiderez uzar l'utensilo [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
 	"interlanguage-link-mul": "Plusa lingui",
 	"interlanguage-link-wikipedia": "Wikipedio",

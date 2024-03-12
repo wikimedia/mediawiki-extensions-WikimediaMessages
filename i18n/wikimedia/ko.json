@@ -260,7 +260,6 @@
 	"wikimedia-torblock-blocked": "당신의 IP 주소인 <strong>$1</strong>은(는) 토르 끝 노드로 자동 판명되었습니다.\n토르를 통한 편집은 악용을 예방하기 위해 차단됩니다.\n정당한 사용자를 위한 추가 정보와 설명이 필요하다면, [[m:Special:MyLanguage/No open proxies|오픈 프록시 금지]] 전역 정책을 참조하십시오.",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ko",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 개인정보보호정책]",
-	"grant-checkuser": "체크유저 데이터에 접근",
 	"upload-form-label-own-work-message-commons": "나는 이 파일에 대한 저작권을 소유하고 있음을 입증하고, 영구히 위키미디어 공용에 이 파일을 [https://creativecommons.org/licenses/by-sa/4.0/deed.ko 크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0]에 따라 배포하는 데 동의하며, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 이용 약관]에 동의합니다.",
 	"upload-form-label-not-own-work-message-commons": "이 파일의 저작권을 소유하지 않거나 다른 라이선스로 배포하고 싶다면 [https://commons.wikimedia.org/wiki/Special:UploadWizard 공용 파일 올리기 마법사]를 사용하는 것을 고려해보세요.",
 	"upload-form-label-not-own-work-local-commons": "사이트가 정책에 따라 이 파일의 업로드를 허용할 경우 [[Special:Upload|{{SITENAME}}의 기본 파일 올리기 문서]]를 이용할 수도 있습니다.",
@@ -338,6 +337,7 @@
 	"ipinfo-global-contributions-url-label": "전역 기여",
 	"wikimedia-projects-label": "위키미디어 프로젝트",
 	"wikimedia-help-translate-prompt": "번역을 돕고 싶으세요? [$1 아직 번역되지 않은 메시지를 번역해 보세요].",
+	"wikimedia-foundation-department-shortname-communications": "커뮤니케이션",
 	"wikimedia-nutshell-page-intro": "이 내용을 요약하면： $1",
 	"wikimedia-translation-disclaimer-nolink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, 영어 원본이 우선한다는 점을 주의하십시오.",
 	"wikimedia-translation-disclaimer-withlink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, [[$1|영어 원본]]이 우선한다는 점을 주의하십시오."

@@ -140,7 +140,6 @@
 	"wikimedia-developers": "Vývojári",
 	"wikimedia-globalblocking-ipblocked": "'''Vaša IP adresa bola [[m:Special:MyLanguage/Global blocks|zablokovaná na všetkých wikipédiách]].'''\n\nZablokoval Vás $1 ($2).\nUdaným dôvodom bolo ''$3''.\n\n* Začiatok blokovania: $4\n* Zablokovanie vyprší: $5\n\nVaše súčasná IP adresa je $6.\nTieto údaje uvádzajte vo všetkých dotazoch.\n\nAk sa domnievate, že ste boli zablokovaní omylom, môžete nájsť viac informácií a pokyny v globálnom pravidle [[m:Special:MyLanguage/No open proxies|Žiadne otvorené proxy]].\nAk chcete zablokovanie prediskutovať, môžete [[m:Steward requests/Global|napísať žiadosť o preskúmanie na Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Vaša IP adresa bola [[m:Special:MyLanguage/Global blocks|zablokovaná na všetkých wikipédiách]].'''\n\nZablokoval Vás $1 ($2).\nUdaným dôvodom bolo ''$3''.\n\n* Začiatok blokovania: $4\n* Zablokovanie vyprší: $5\n\nVaše súčasná IP adresa je $6.\nTieto údaje uvádzajte vo všetkých dotazoch.\n\nAk sa domnievate, že ste boli zablokovaní omylom, môžete nájsť viac informácií a pokyny v globálnom pravidle [[m:Special:MyLanguage/No open proxies|Žiadne otvorené proxy]].\nAk chcete zablokovanie prediskutovať, môžete [[m:Steward requests/Global|napísať žiadosť o preskúmanie na Meta-Wiki]].",
-	"grant-checkuser": "Pristupovať k údajom kontroly používateľov",
 	"interlanguage-link-wikipedia": "Wikipédia",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia",
 	"protect-level-superprotect": "Povoliť iba používateľov superprotect",

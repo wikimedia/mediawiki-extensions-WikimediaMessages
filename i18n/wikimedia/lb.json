@@ -163,7 +163,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\nÄr aktuell IP-Adress ass $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\nÄr aktuell IP-Adress ass $6. {{int:globalblocking-blockedtext-ip-range|$7}} {{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nD'Spär gouf vum $1 ($2) decidéiert.\nDe Grond dofir ass ''$3''.\n\n* Ufank vun der Spär: $4\n* Enn vun der Spär: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"grant-checkuser": "Zougang op Checkuser-Donnéeën",
 	"interlanguage-link-mul": "Méi Sproochen",
 	"interlanguage-link-sitename-mul": "Méisproocheg {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",

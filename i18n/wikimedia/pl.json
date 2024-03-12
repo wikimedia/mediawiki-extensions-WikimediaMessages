@@ -267,7 +267,6 @@
 	"wikimedia-torblock-blocked": "Twój adres IP <strong>$1</strong> został automatycznie zidentyfikowany jako węzeł wyjściowy sieci Tor.\nEdytowanie na pośrednictwem [https://pl.wikipedia.org/wiki/Tor_(sie%C4%87_anonimowa) sieci Tor] jest zablokowane, aby zapobiec nadużyciom.\nAby uzyskać dodatkowe informacje i instrukcje dla uprawnionych użytkowników, zobacz politykę globalną [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies Bez otwartych serwerów proxy].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Zasady zachowania poufności]",
-	"grant-checkuser": "Dostęp do danych checkusera",
 	"upload-form-label-own-work-message-commons": "Oświadczam, że mam prawa autorskie do tego pliku, nieodwołalnie publikuję go na Wikimedia Commons na licencji [https://creativecommons.org/licenses/by-sa/4.0/deed.pl Creative Commons Uznanie autorstwa-Na tych samych warunkach 4.0] i zgadzam się na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/pl warunki użytkowania].",
 	"upload-form-label-not-own-work-message-commons": "Jeżeli nie masz praw autorskich do tego pliku albo chcesz go opublikować na innej licencji, rozważ użycie [https://commons.wikimedia.org/wiki/Special:UploadWizard kreatora przesyłania plików].",
 	"upload-form-label-not-own-work-local-commons": "Możesz spróbować użyć [[Special:Upload|strony przesyłania plików {{GRAMMAR:D.lp|{{SITENAME}}}}]], jeżeli zasady tej strony dopuszczają publikację tego pliku.",
@@ -352,6 +351,7 @@
 	"wikimedia-foundation-projects-of-label-nolink": "Projekty Wikimedia Foundation",
 	"wikimedia-projects-label": "Projekty Wikimedia",
 	"wikimedia-help-translate-prompt": "Chcesz pomóc w tłumaczeniu? [$1 Przetłumacz brakujące wiadomości].",
+	"wikimedia-foundation-department-shortname-communications": "Komunikacja",
 	"wikimedia-nutshell-page-intro": "Ta strona w pigułce: $1",
 	"wikimedia-translation-disclaimer-nolink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie treść w języku angielskim.",
 	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]]."

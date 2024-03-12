@@ -268,7 +268,6 @@
 	"wikimedia-torblock-blocked": "ไอพีของคุณ <strong>$1</strong> ถูกระบุว่าเป็นโหนดที่ระบุตัวตนโดย Tor อัตโนมัติ \nการแก้ไขโดยใช้ Tor จะถูกระงับโดยอัติโนมัติ สำหรับข้อมูลเพิ่มเติมและคำแนะนำสำหรับผู้ใช้ที่ปฏิบัติถูกต้องแล้ว ดูที่นโยบายการใช้งานทั่วโลก[[m:Special:MyLanguage/No open proxies|การไม่ได้เปิดใช้งานพร็อกซี่]]",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Policy:Terms_of_Use/th",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy นโยบายความเป็นส่วนตัว]",
-	"grant-checkuser": "เข้าถึงข้อมูลผู้ตรวจสอบผู้ใช้",
 	"upload-form-label-not-own-work-local-commons": "คุณอาจต้องการใช้[[Special:Upload|หน้าอัปโหลดไฟล์บน {{SITENAME}}]] ซึ่งอาจอนุญาตการอัปโหลดไฟล์ภายใต้สัญญาอนุญาตเสรีตามนโยบายของวิกิ",
 	"interlanguage-link-mul": "ภาษาเพิ่มเติม",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} พหุภาษา",
@@ -324,6 +323,7 @@
 	"wikimedia-mailservices-label": "บริการคลาวด์ของวิกิมีเดีย",
 	"wikimedia-news-label": "ข่าวสารวิกิมีเดีย",
 	"wikimedia-help-translate-prompt": "ต้องการช่วยแปลหรือไม่? [$1 แปลข้อความที่หายไป]",
+	"wikimedia-foundation-department-shortname-communications": "การสื่อสาร",
 	"wikimedia-nutshell-page-intro": "สรุปหน้านี้โดยสังเขป: $1",
 	"wikimedia-translation-disclaimer-nolink": "โปรดทราบว่าในกรณีที่เนื้อหานี้มีความแตกต่างในความหมายหรือการตีความระหว่างต้นฉบับภาษาอังกฤษและการแปล ให้ถือต้นฉบับภาษาอังกฤษเป็นสำคัญ",
 	"wikimedia-translation-disclaimer-withlink": "โปรดทราบว่าในกรณีที่เนื้อหานี้มีความแตกต่างในความหมายหรือการตีความระหว่างต้นฉบับภาษาอังกฤษและการแปล ให้ถือ[[$1|ต้นฉบับภาษาอังกฤษ]]เป็นสำคัญ"

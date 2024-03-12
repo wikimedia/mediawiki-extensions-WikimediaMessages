@@ -289,6 +289,7 @@
 	"wikibase-sitelinks-sitename-species": "ウィキスピーシーズ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ウィキデータ",
 	"wikimedia-otherprojects-cloudservices": "ウィキメディア・クラウド・サービス",
+	"wikimedia-otherprojects-enterprise": "ウィキメディア・エンタープライズ",
 	"wikimedia-otherprojects-foundationgovwiki": "ウィキメディア財団ガバナンスウィキ",
 	"wikimedia-taglines-foundationsite": "ウィキメディア財団の公式ウェブサイト",
 	"wikimedia-taglines-sources": "フリーコンテンツ図書館",
@@ -308,7 +309,6 @@
 	"wikimedia-torblock-blocked": "あなたの IP アドレス <strong>$1</strong> は、Tor の末端ノードであると自動的に認識されました。\n不正利用を防止するため、Tor を通じての編集はブロックされます。\n正当な利用者向けの追加情報と対処法については、グローバル方針である[[m:Special:MyLanguage/No open proxies|公開プロキシの規制]]をご覧ください。",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy プライバシー・ポリシー]",
-	"grant-checkuser": "チェックユーザー・データへのアクセス",
 	"upload-form-label-own-work-message-commons": "私は、このファイルの著作権を所有していることを宣誓し、取消し不能な形で  [https://creativecommons.org/licenses/by-sa/4.0/deed.ja クリエイティブ・コモンズ表示-継承 4.0 国際]ライセンスのもとでウィキメディア・コモンズに、このファイルを解放することに同意します。そして私は、  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に同意します。",
 	"upload-form-label-not-own-work-message-commons": "このファイルの著作権を所有していない場合、または別のライセンスの下でそれをリリースしたい場合には、 [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard] を使用することを検討してください。",
 	"upload-form-label-not-own-work-local-commons": "もしサイトが、それらの方針の下にて、このファイルのアップロードを許可している場合は、[[Special:Upload|{{SITENAME}}上でのアップロードページ]]の利用も検討できます。",
@@ -400,6 +400,7 @@
 	"wikimedia-projects-label": "ウィキメディアのプロジェクト群",
 	"wikimedia-news-label": "ウィキメディア・ニュース",
 	"wikimedia-help-translate-prompt": "翻訳にご協力願えますか？[$1 未訳のメッセージ]を翻訳してください。",
+	"wikimedia-foundation-department-shortname-communications": "コミュニケーション部門",
 	"wikimedia-nutshell-page-intro": "このページの要旨： $1",
 	"wikimedia-translation-disclaimer-nolink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、英語版の原文が優先されますので、ご注意ください。",
 	"wikimedia-translation-disclaimer-withlink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、[[$1|英語版の原文]]が優先されますので、ご注意ください。"

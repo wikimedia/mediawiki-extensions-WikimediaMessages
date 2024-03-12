@@ -298,7 +298,6 @@
 	"wikimedia-torblock-blocked": "Ваш IP-адрес <strong>$1</strong> был автоматически определён как выходной узел Tor.\nРедактирование через Tor заблокировано для предотвращения злоупотреблений.\nДополнительную информацию и инструкции для честных пользователей смотрите на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Политика_конфиденциальности Политика конфиденциальности]",
-	"grant-checkuser": "Доступ к данным проверок участников",
 	"upload-form-label-own-work-message-commons": "Я подтверждаю, что являюсь владельцем авторских прав на этот файл, и соглашаюсь на безотзывной основе разместить этот файл на Викискладе под лицензией [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike 4.0], а также соглашаюсь с [https://foundation.wikimedia.org/wiki/Условия_использования Условиями использования].",
 	"upload-form-label-not-own-work-message-commons": "Если вы не являетесь владельцем авторских прав на этот файл, или вы хотите выпустить его под другой лицензией, рассмотрите возможность использования [https://commons.wikimedia.org/wiki/Special:UploadWizard Мастера загрузки на Викисладе].",
 	"upload-form-label-not-own-work-local-commons": "В том случае, если этот файл может быть загружен в соответствии с правилами сайта {{SITENAME}}, вы также можете попробовать использовать его [[Special:Upload|страницу загрузки]].",
@@ -384,6 +383,7 @@
 	"wikimedia-movement-affiliates-shortlabel": "Партнёрские организации",
 	"wikimedia-news-label": "Новости Викимедиа",
 	"wikimedia-help-translate-prompt": "Хотите помочь с переводом? [$1 Переведите недостающие сообщения].",
+	"wikimedia-foundation-department-shortname-communications": "Коммуникации",
 	"wikimedia-nutshell-page-intro": "Об этой странице вкратце: $1",
 	"wikimedia-translation-disclaimer-nolink": "Обратите, пожалуйста, внимание на то, что в случае каких-либо различий в смысле или в интерпретации между оригинальной английской версией этого контента и переводом преимущество имеет оригинальная английская версия.",
 	"wikimedia-translation-disclaimer-withlink": "Обратите, пожалуйста, внимание на то, что в случае каких-либо различий в смысле или в интерпретации между оригинальной английской версией этого контента и переводом преимущество имеет [[$1|оригинальная английская версия]]."

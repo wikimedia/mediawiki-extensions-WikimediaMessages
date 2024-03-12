@@ -185,6 +185,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikimedia-otherprojects-wikistore": "Botiga de la Viquipèdia",
 	"wikimedia-taglines-wikidata": "Base de coneixements lliure",
 	"wikimedia-taglines-wikivoyage": "Guia de viatges lliure",
 	"cant-delete-main-page": "No podeu esborrar ni traslladar la portada.",
@@ -222,6 +223,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Aquest sondeig anònim està dirigit per la Fundació Wikimedia ([https://meta.wikimedia.org/wiki/Community_Safety més informació] - [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaració de privacitat]).",
 	"gadget-souspages-subpages": "Subpàgines",
 	"wikimedia-help-translate-prompt": "Voleu ajudar a traduir? [$1 Traduïu els missatges que falten].",
+	"wikimedia-foundation-department-shortname-communications": "Comunicació",
 	"wikimedia-nutshell-page-intro": "Fent-ne cinc cèntims: $1",
 	"wikimedia-translation-disclaimer-nolink": "Tingueu en compte que, en cas de diferències de significat o interpretació entre la versió original en anglès d'aquest document i una traducció, tindrà prevalència la versió original en anglès.",
 	"wikimedia-translation-disclaimer-withlink": "Tingueu en compte que, en cas de diferències de significat o interpretació entre la versió original en anglès d'aquest document i una traducció, tindrà prevalència la [[$1|versió original en anglès]]."

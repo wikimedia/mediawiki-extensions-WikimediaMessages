@@ -211,7 +211,6 @@
 	"wikimedia-torblock-blocked": "Вашият IP адрес, <strong>$1</strong>, е бил автоматично засечен като изходен възел на мрежата Tor.\nРедактирането през Tor е блокирано с цел предотвратяване на злоупотреби.\nЗа допълнителна информация и инструкции за легитимни потребители, вижте глобалната политика [[m:Special:MyLanguage/No open proxies|Без отворени прокси сървъри]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/bg",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Политика за поверителност]",
-	"grant-checkuser": "Достъп до данните на проверяващ",
 	"wikimedia-upload-nolicenses": "Качването на това уики не е активирано. Затова, [[commons:Special:UploadWizard|качвайте в Общомедия]].\n\nЗа да можете да качвате на уикито през тази специална страница, трябва да помолите администратора да добави една или повече опции за лиценз на страницата [[MediaWiki:Licenses]].\n\nИзползвайте следния формат: <code>* Име на шаблона|Надпис</code>. Използвайте който и да е текст, за да активирате качването без опции за лиценз.",
 	"interlanguage-link-mul": "Още езици",
 	"interlanguage-link-wikipedia": "Уикипедия",

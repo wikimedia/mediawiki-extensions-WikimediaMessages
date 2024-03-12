@@ -5,7 +5,8 @@
 			"Anass Sedrati",
 			"Ideophagous",
 			"Reda Benkhadra",
-			"SADIQUI"
+			"SADIQUI",
+			"Varnent"
 		]
 	},
 	"sitesupport": "عاون لفريق",
@@ -24,6 +25,7 @@
 	"wikibase-otherprojects-sources": "ويكي مصدر ب شلا لوغات",
 	"wikibase-otherprojects-species": "ويكي نواع",
 	"wikibase-sitelinks-sitename-species": "ويكي نواع",
+	"wikimedia-otherprojects-enterprise": "شركة ويكيميديا",
 	"wikimedia-developers": "مُطوِّرين",
 	"wikimedia-globalblocking-ipblocked": "'''عنوان پروطوكول لأنترنيت ديالك [[m:Special:MyLanguage/Global blocks|تّبلوكا فڭاع الويكيات]].'''\n\nلبلوك دارو $1 ($2).\nو&nbsp;السبب المعطي هو ''$3''.\n\n* بدية د لبلوك: $4\n* لمسالية د لبلوك: $5\n\nعنوان پروطوكول لأنترنيت ديالك هو $6.\nخاص تدكر ڭاع التفاصيل المدكورة لفوق فأي ستعلامات كاتديرها.\n\nيلا كنتي تاتشوف بلي تدار لبلوك ب لغالاط، فتقدر تلقا معلومات و إرشادات إضافية ف السياسة لعامة [[m:Special:MyLanguage/No open proxies|لا پروكسيات مفتوحة]].\nمن غير هادشي، يلا بغيتي تناقش لبلوك [[m:Steward requests/Global|دير طلب د لمراجعة ف ميطاويكي]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''واحد لپروكسي اللي طلبتيه ولاكثر [[m:Special:MyLanguage/Global blocks|تبلوكا من ڭاع لويكيات]].'''\n\nالمنع دارو $1 ($2).\nو&nbsp;السبب اللي عطا هو ''$3''.\n\n* بدا لمنع: $4\n* أيسالي لمنع: $5\n\nعنوان لپروكسي اللي تمنع هو $6.\nخاص تذكر كاع التفاصيل المذكورة لفوق فأي استعلامات تديرها.\n\nإلا كنتي تاتشوف بلي تدار المنع غلط، فتقدر تلقا معلومات وإرشادات إضافية فالسياسة لعامة [[m:Special:MyLanguage/No open proxies|لا پروكسيات مفتوحة]].\nمن غير داكشي، إلا بغيتي مناقشة المنع [[m:Steward requests/Global|صيفط طلب للمراجعة ف ميطا ويكي]].",

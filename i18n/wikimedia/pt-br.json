@@ -283,7 +283,6 @@
 	"wikimedia-torblock-blocked": "Seu endereço de IP, <strong>$1</strong>, foi identificado automaticamente como um nó de saída Tor.\nEditar através de Tor está bloqueado para evitar abusos.\nPara obter informações e instruções adicionais para usuários legítimos, veja a política global [[m:Special:MyLanguage/No open proxies|Sem proxies abertos]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/pt-br",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Política de privacidade]",
-	"grant-checkuser": "Acessar dados checkuser",
 	"upload-form-label-own-work-message-commons": "Eu atesto que eu possuo os direitos autorais sobre este arquivo, e concordo em liberar irrevogavelmente esse arquivo para o Wikimedia Commons sob a licença [https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR Creative Commons Attribution-ShareAlike 4.0] e eu concordo com [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termos de Uso].",
 	"upload-form-label-not-own-work-message-commons": "Se você não possui os direitos autorais sobre este arquivo, ou deseja liberá-lo sob uma licença diferente, considere usar o [https://commons.wikimedia.org/wiki/Special:UploadWizard Assistente de Envios Common].",
 	"upload-form-label-not-own-work-local-commons": "Você também pode tentar usar [[Special:Upload|a página de upload em {{SITENAME}}]], se o site permitir o carregamento deste arquivo sob suas políticas.",
@@ -395,6 +394,7 @@
 	"wikimedia-projects-label": "Projetos Wikimedia",
 	"wikimedia-mailservices-label": "Serviços de correio da Wikimedia",
 	"wikimedia-help-translate-prompt": "Quer ajudar a traduzir? [$1 Traduza as mensagens que faltam].",
+	"wikimedia-foundation-department-shortname-communications": "Comunicações",
 	"wikimedia-translation-disclaimer-nolink": "Em caso de discrepância no significado ou na interpretação entre a versão original em inglês deste documento e uma versão traduzida, prevalecerá a versão original em inglês.",
 	"wikimedia-translation-disclaimer-withlink": "Em caso de discrepância no significado ou na interpretação entre a versão original em inglês deste documento e uma versão traduzida, prevalecerá a [[$1|versão original em inglês]]."
 }

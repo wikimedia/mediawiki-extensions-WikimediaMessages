@@ -252,7 +252,6 @@
 	"wikimedia-torblock-blocked": "Vaše IP adresa, <strong>$1</strong>, byla automaticky rozpoznána jako [https://cs.wikipedia.org/wiki/Tor_(software) výstupní uzel] sítě Tor.\nEditace přes Tor je zakázána jako prevence zneužívání.\nVíce informací a pokyny pro oprávněné uživatele naleznete v globálním pravidle [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies žádné otevřené proxy].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/cs",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cs Ochrana osobních údajů]",
-	"grant-checkuser": "Přístup k údajům kontroly uživatele",
 	"upload-form-label-own-work-message-commons": "Potvrzuji, že jsem držitelem autorských práv k tomuto souboru a neodvolatelně souhlasím s jeho zveřejněním na Wikimedia Commons pod licencí [https://creativecommons.org/licenses/by-sa/4.0/deed.cs Creative Commons Uveďte původ – Zachovejte licenci 4.0] a souhlasím s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/cs Podmínkami užití].",
 	"upload-form-label-not-own-work-message-commons": "Pokud nejste držiteli autorských práv k tomuto souboru nebo si ho přejete zveřejnit pod jinou licencí, zvažte použití [https://commons.wikimedia.org/wiki/Special:UploadWizard Průvodce načítáním souborů na Commons].",
 	"upload-form-label-not-own-work-local-commons": "Také můžete zkusit [[Special:Upload|stránku pro načítání souborů na {{grammar:6sg|{{SITENAME}}}}]], pokud tamní pravidla načtení tohoto souboru dovolují.",
@@ -321,5 +320,6 @@
 	"ipinfo-global-contributions-url-label": "Globální příspěvky",
 	"wikimedia-projects-label": "Projekty Wikimedie",
 	"wikimedia-help-translate-prompt": "Chcete pomoci překládat? [$1 Přeložte chybějící zprávy].",
+	"wikimedia-foundation-department-shortname-communications": "Komunikace",
 	"wikimedia-nutshell-page-intro": "Tato stránka v kostce: $1"
 }

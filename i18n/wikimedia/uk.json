@@ -274,7 +274,6 @@
 	"wikimedia-torblock-blocked": "Ваша IP-адреса, <strong>$1</strong>, вже була автоматично ідентифікована як вузол виходу Tor.\nРедагування через Tor заблоковане для запобігання зловживанням.\nДля додаткової інформації та інструкцій для легальних користувачів перегляньте глобальну політику [[m:Special:MyLanguage/No open proxies|Без відкритих проксі]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/uk",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy  Політика приватності]",
-	"grant-checkuser": "Доступ до даних перевірки користувачів",
 	"upload-form-label-own-work-message-commons": "Я підтверджую, що я є власником авторських прав на цей файл та погоджуюся беззастережно поширити його у Вікісховищі на умовах ліцензії [https://creativecommons.org/licenses/by-sa/4.0/deed.uk Creative CommonsAttribution-ShareAlike 4.0], і я згоден з [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use умовами використання].",
 	"upload-form-label-not-own-work-message-commons": "Якщо ви не є власником авторських прав на цей файл або ви хочете розповсюджувати його на умовах іншої ліцензії, рекомендуємо використати [https://commons.wikimedia.org/wiki/Special:UploadWizard Майстер завантажень на Вікісховищі].",
 	"upload-form-label-not-own-work-local-commons": "Ви також можете спробувати використати [[Special:Upload|сторінку завантаження на {{GRAMMAR:locative|{{SITENAME}}}}]], якщо цей файл може бути завантажений на цей сайт згідно з його правилами.",
@@ -376,6 +375,7 @@
 	"wikimedia-projects-label": "Проєкти Вікімедіа",
 	"wikimedia-movement-affiliates-shortlabel": "Афіліати руху",
 	"wikimedia-help-translate-prompt": "Бажаєте допомогти з перекладом? [$1 Перекладіть решту сторінок].",
+	"wikimedia-foundation-department-shortname-communications": "Комунікації",
 	"wikimedia-nutshell-page-intro": "Ця сторінка, скорочено: $1",
 	"wikimedia-translation-disclaimer-nolink": "Будь ласка, зауважте, що у випадку розбіжностей у значенні чи інтерпретації між оригінальною англомовною версією цієї політики та перекладом оригінальна англомовна версія має перевагу.",
 	"wikimedia-translation-disclaimer-withlink": "Будь ласка, зауважте, що у випадку розбіжностей у значенні чи інтерпретації між оригінальною англомовною версією цієї політики та перекладом [[$1|оригінальна англомовна версія]] має перевагу."
