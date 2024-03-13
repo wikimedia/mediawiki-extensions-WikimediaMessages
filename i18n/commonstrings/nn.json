@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Varnent"
 		]
 	},
-	"wm-commonstrings-seealso": "Sjå òg"
+	"wm-commonstrings-seealso": "Sjå òg",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Snarveg|Snarvegar}}"
 }

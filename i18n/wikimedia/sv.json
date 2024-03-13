@@ -358,6 +358,9 @@
 	"wikimedia-news-label": "Wikimedia-nyheter",
 	"wikimedia-help-translate-prompt": "Vill du hjälpa till att översätta? [$1 Översätt meddelanden som saknas].",
 	"wikimedia-foundation-department-shortname-communications": "Kommunikation",
+	"wikimedia-talkheader-civility": "Diskutera [[$1|lugnt och civiliserat]].",
+	"wikimedia-talkheader-signature": "[[$1|Signera]] inlägg med fyra tilde-tecken (~~~~)",
+	"wikimedia-talkheader-pageprompt": "Den här sidan finns för att diskutera sidan $1.",
 	"wikimedia-translation-disclaimer-nolink": "Observera: Om det finns skillnader i betydelse eller tolkning mellan den engelska originalversionen av detta dokument och översättningen, har den engelska originalversionen företräde.",
 	"wikimedia-translation-disclaimer-withlink": "Observera: Om det finns skillnader i betydelse eller tolkning mellan den engelska originalversionen av detta dokument och översättningen, har den [[$1|engelska originalversionen]] företräde."
 }

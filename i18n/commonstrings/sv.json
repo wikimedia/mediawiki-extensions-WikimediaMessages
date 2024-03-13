@@ -15,11 +15,13 @@
 	"wm-commonstrings-open": "Öppen",
 	"wm-commonstrings-overview": "Översikt",
 	"wm-commonstrings-participate": "Delta",
+	"wm-commonstrings-please-remember": "Kom ihåg att: $1",
 	"wm-commonstrings-reports": "Rapporter",
 	"wm-commonstrings-resolutions": "Beslut",
 	"wm-commonstrings-questions": "Frågor?",
 	"wm-commonstrings-register-account": "Registrera konto",
 	"wm-commonstrings-scope": "Omfattning",
 	"wm-commonstrings-seealso": "Se även",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Genväg|Genvägs}}",
 	"wm-commonstrings-updates": "Uppdateringar"
 }

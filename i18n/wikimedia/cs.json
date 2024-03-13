@@ -321,5 +321,8 @@
 	"wikimedia-projects-label": "Projekty Wikimedie",
 	"wikimedia-help-translate-prompt": "Chcete pomoci překládat? [$1 Přeložte chybějící zprávy].",
 	"wikimedia-foundation-department-shortname-communications": "Komunikace",
-	"wikimedia-nutshell-page-intro": "Tato stránka v kostce: $1"
+	"wikimedia-nutshell-page-intro": "Tato stránka v kostce: $1",
+	"wikimedia-talkheader-civility": "Během diskuze zůstaňte [[$1|slušní a zdvořilí]].",
+	"wikimedia-talkheader-signature": "[[$1|Podepisovat]] příspěvky pomocí čtyř tild (~~~~)",
+	"wikimedia-talkheader-pageprompt": "Tato stránka je určena pro diskuse týkající se stránky $1."
 }

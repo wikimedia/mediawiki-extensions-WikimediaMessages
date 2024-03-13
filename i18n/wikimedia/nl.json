@@ -399,6 +399,8 @@
 	"wikimedia-help-translate-prompt": "Wilt u helpen vertalen? [$1 Vertaal de ontbrekende berichten].",
 	"wikimedia-foundation-department-shortname-legal": "Juridisch",
 	"wikimedia-nutshell-page-intro": "Deze pagina in een notendop: $1",
+	"wikimedia-talkheader-civility": "Blijf [[$1|beschaafd en beleefd]] tijdens discussies.",
+	"wikimedia-talkheader-signature": "[[$1|Onderteken]] berichten met behulp van de vier tildes (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Let op dat in het geval van strijdigheid tussen de betekenis of interpretatie in de originele Engelse versie van dit document en een vertaling, de originele Engelse versie voorrang zal hebben.",
 	"wikimedia-translation-disclaimer-withlink": "Let op dat in het geval van strijdigheid tussen de betekenis of interpretatie in de originele Engelse versie van dit document en een vertaling, de [[$1|originele Engelse versie]] voorrang zal hebben.",
 	"wikimedia-talk-archive-page-intro": "Dit is een '''archief''' van eerdere discussies. '''Bewerk de inhoud van deze pagina niet.'' Als u een nieuwe discussie wilt starten of een oude wilt doen herleven, doe dit dan op de [[$1|huidige overlegpagina]]."

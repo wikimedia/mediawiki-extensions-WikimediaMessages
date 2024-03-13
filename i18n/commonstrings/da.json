@@ -16,10 +16,12 @@
 	"wm-commonstrings-open": "Åben",
 	"wm-commonstrings-overview": "Oversigt",
 	"wm-commonstrings-participate": "Deltag",
+	"wm-commonstrings-please-remember": "Husk at: $1",
 	"wm-commonstrings-reports": "Rapporter",
 	"wm-commonstrings-questions": "Spørgsmål?",
 	"wm-commonstrings-scope": "Omfang",
 	"wm-commonstrings-seealso": "Se også",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Genvej|Genveje}}",
 	"wm-commonstrings-staff": "Personale",
 	"wm-commonstrings-talktous": "Tal med os",
 	"wm-commonstrings-updates": "Opdateringer"

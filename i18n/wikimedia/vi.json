@@ -365,6 +365,7 @@
 	"wikimedia-help-translate-prompt": "Bạn muốn giúp chúng tôi dịch thuật? [$1 Dịch các thông điệp bị thiếu].",
 	"wikimedia-foundation-department-shortname-legal": "Pháp lý",
 	"wikimedia-nutshell-page-intro": "Tóm tắt trang này: $1",
+	"wikimedia-talkheader-signature": "[[$1|Ký tên]] vào trang thảo luận sử dụng bốn dấu ngã (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Lưu ý rằng, trong trường hợp có bất kỳ sự khác biệt về ý nghĩa hoặc cách hiểu giữa bản gốc tiếng Anh của trang quy định này và một bản dịch nào đó, bản gốc tiếng Anh sẽ là phiên bản được ưu tiên.",
 	"wikimedia-translation-disclaimer-withlink": "Lưu ý rằng, trong trường hợp có bất kỳ sự khác biệt về ý nghĩa hoặc cách hiểu giữa bản gốc tiếng Anh của trang quy định này và một bản dịch nào đó, [[$1|bản gốc tiếng Anh]] sẽ là phiên bản được ưu tiên."
 }

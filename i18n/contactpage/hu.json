@@ -14,5 +14,13 @@
 	"contactpage-movecom-signup-affiliation-projects": "Wikimédia projektek",
 	"contactpage-movecom-signup-affiliate-label": "Nevezze meg a Wikimédia csoportját vagy partnerét (ha lehetséges)",
 	"contactpage-movecom-signup-display-name": "Név",
-	"contactpage-movecom-signup-display-username": "Felhasználónév"
+	"contactpage-movecom-signup-display-username": "Felhasználónév",
+	"contactpage-fromname-accountvanishapps": "A kérvényező szerkesztőneve",
+	"contactpage-fromaddress-accountvanishapps": "A kérvényező e-mail-címe",
+	"contactpage-title-accountvanishapps": "Fiókeltüntetés kérvényezése",
+	"contactpage-pagetext-accountvanishapps": "Az eltűnés egy '''utolsó lehetőség'''; '''csak akkor használd, ha örökre abba akarod hagyni a szerkesztést''', és az eddigi szerkesztéseiddel való összekapcsolhatóságot is a lehető legnagyobb mértékben meg akarod szüntetni. A fióktörlés a Wikipédián a szerkesztőnév olyanra módosításával történik, amitől mások nem ismerik fel a közreműködéseidet (ez az ún. fiókeltüntetés). '''Az eltűnés nem jelent se teljes anonimitást, se a közreműködéseid eltávolítását a projektekből.''' A fiókeltüntetéssel kapcsolatos további információkért lásd a [[Special:MyLanguage/Right to vanish|Jog az eltűnéshez]] lapot.\n\nAz eltűnési folyamat elindításához töltsd ki az alábbi űrlapot.",
+	"contactpage-subject-accountvanishapps": "Fiókeltüntetés kérvényezése",
+	"contactpage-emailsent-accountvanishapps": "Kérvény elküldve",
+	"contactpage-emailsenttext-accountvanishapps": "A fiókeltüntetési kérvényed elküldve elbírálásra. Ha további kérdésed merülne fel a kéréseddel kapcsolatban, a {{NonSpamEmail|privacy|wikimedia.org}} címre írhatod meg.",
+	"contactpage-accountvanishapps-details": "További részletek a kérvényről"
 }

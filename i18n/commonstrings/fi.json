@@ -24,6 +24,7 @@
 	"wm-commonstrings-register-account": "Luo tunnus",
 	"wm-commonstrings-scope": "Laajuus",
 	"wm-commonstrings-seealso": "Katso myös",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Oikopolku|Oikopolut}}",
 	"wm-commonstrings-staff": "Henkilökunta",
 	"wm-commonstrings-talktous": "Ota meihin yhteyttä",
 	"wm-commonstrings-updates": "Päivitykset"

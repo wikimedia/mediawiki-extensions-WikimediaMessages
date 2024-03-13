@@ -80,7 +80,7 @@
 	"grouppage-flood": "{{ns:project}}:روبہ صارف",
 	"group-founder": "بانیان",
 	"group-founder-member": "{{GENDER:$1|بانی}}",
-	"group-import": "بینک",
+	"group-import": "درآمد کنندگان",
 	"group-import-member": "{{GENDER:$1|درآمد کنندہ}}",
 	"grouppage-import": "{{ns:project}}:درآمد کنندگان",
 	"group-interface-editor": "انٹرفیس نویس",
@@ -215,5 +215,8 @@
 	"wikimedia-foundation-projects-of-label-nolink": "وکیمیڈیا فاؤنڈیشن کے منصوبے",
 	"wikimedia-projects-label": "ویکیمیڈیا منصوبہ جات",
 	"wikimedia-help-translate-prompt": "ترجمہ کرنے میں مدد کرنا چاہتے ہیں؟ [$1 رہ جانے والے پیغامات کا ترجمہ کریں].",
-	"wikimedia-nutshell-page-intro": "یہ صفحہ مختصر میں: $1"
+	"wikimedia-nutshell-page-intro": "یہ صفحہ مختصر میں: $1",
+	"wikimedia-talkheader-civility": "بحث کے دوران [[$1|شائستہ اور تہذیب یافتہ]] رہیں۔",
+	"wikimedia-talkheader-signature": "پوسٹس کو چار ٹائلڈ (~~~~) کا استعمال کرتے ہوئے [[$1|دستخط]] کریں",
+	"wikimedia-talkheader-pageprompt": "یہ صفحہ $1 صفحہ سے متعلقہ مباحثوں کے لیے ہے۔"
 }
