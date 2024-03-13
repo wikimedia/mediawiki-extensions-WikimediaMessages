@@ -5,7 +5,11 @@
 		]
 	},
 	"sitesupport": "Подараш",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike лицензи</a> семӹнь анжыкталтеш, кӓнгӓш моло келеш гӹнь, вес условивлӓ шотыш нӓлмӹ лит. Шукыракым пӓлен нӓлӓш <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru\">«Кычылтмы условивлӓм»</a> анжалда.",
+	"wikimedia-copyright": "Текстӹм <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a> лицензи доно кычылташ лиэш;\nситӓртӹш условивлӓ кычылталт кердӹт.\nРаскыдырак информацим <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use> кычылтмы условиштӹ </a> анжы.",
+	"wikibase-sitelinks-wikinews": "Викиувер",
+	"wikibase-sitelinks-wikiquote": "Викицитатник",
+	"wikibase-sitelinks-wikisource": "Викиваж",
+	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Разработчиквлӓ",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки файлвлӓ гишан ядмаш"
