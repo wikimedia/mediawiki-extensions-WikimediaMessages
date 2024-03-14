@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Abijeet Patro",
 			"Anamdas",
 			"Angpradesh",
 			"Ansumang",
@@ -202,6 +203,7 @@
 	"wikimedia-mailservices-label": "विकिमीडिया डाकसेवा",
 	"wikimedia-help-translate-prompt": "अनुवाद में सहायता करना चाहते हैं? [$1 बचे हुए संदेशों को अनुवादित करें]।",
 	"wikimedia-foundation-department-shortname-communications": "संचार",
+	"wikimedia-foundation-department-shortname-legal": "कानूनी",
 	"wikimedia-talkheader-civility": "चर्चा के दौरान [[$1|सिविल और विनम्र]] बने रहें।",
 	"wikimedia-talkheader-signature": "[[$1|साइन]] चार टिल्ड का उपयोग करने वाली पोस्ट (~~~~)",
 	"wikimedia-talkheader-pageprompt": "यह पृष्ठ $1 पृष्ठ से संबंधित चर्चाओं के लिए है।"
