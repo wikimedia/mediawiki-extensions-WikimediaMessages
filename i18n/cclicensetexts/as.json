@@ -9,9 +9,9 @@
 		]
 	},
 	"wm-license-cc-attribution": "স্বীকৃতিপ্ৰদান",
-	"wm-license-cc-by-1.0-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/1.0/|Attribution 1.0 Generic]] অনুজ্ঞাপত্ৰৰ আওতাত আছে।",
-	"wm-license-cc-by-1.0-fi-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/1.0/|Attribution 1.0 Generic]] অনুজ্ঞাপত্ৰৰ অধীনত আছে।",
-	"wm-license-cc-by-sa-3.0-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|ক্ৰিয়েটিভ কমন্স]] [[creativecommons:by-sa/3.0/deed.en|এট্ৰিবইউচন-চেয়াৰ এলাইক ৩.০ আন্প'ৰ্টেড]] অনুজ্ঞাপত্ৰৰ অধীনত।",
+	"wm-license-cc-by-1.0-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] অনুজ্ঞাপত্ৰৰ আওতাত আছে।",
+	"wm-license-cc-by-1.0-fi-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] অনুজ্ঞাপত্ৰৰ অধীনত আছে।",
+	"wm-license-cc-by-sa-3.0-text": "এই ফাইলটো [[{{int:wm-license-cc-wiki-link}}|ক্ৰিয়েটিভ কমন্স]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en এট্ৰিবইউচন-চেয়াৰ এলাইক ৩.০ আন্প'ৰ্টেড] অনুজ্ঞাপত্ৰৰ অধীনত।",
 	"wm-license-cc-free": "আপুনি স্বাধীনভাৱে:",
 	"wm-license-cc-free-to-share-header": "বিতৰণ কৰিব পাৰে",
 	"wm-license-cc-free-to-share-text": "কামটো নকল (কপি), বিতৰণ আৰু প্ৰেৰণ কৰিবলৈ",
