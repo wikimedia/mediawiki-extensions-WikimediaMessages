@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abijeet Patro",
 			"Varnent"
 		]
 	},
@@ -10,7 +9,6 @@
 	"wm-commonstrings-closed": "बंद",
 	"wm-commonstrings-connect": "जुड़ें",
 	"wm-commonstrings-contactus": "संपर्क करें",
-	"wm-commonstrings-mywork": "मेरा काम",
 	"wm-commonstrings-noticeboard": "नोटिसबोर्ड",
 	"wm-commonstrings-objectives": "उद्देश्य",
 	"wm-commonstrings-ongoing": "जारी",
