@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"122112ê",
 			"Protostar"
 		]
 	},
 	"sitesupport": "Gi kòpò",
 	"tooltip-n-sitesupport": "Sùppòrt wi",
-	"wikimedia-developers": "Devèlòpardèm"
+	"wikimedia-copyright": "Teks de ɔnda di <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike Laysens</a> ;\nɔda tin dɛn kin aplay.\nLuk <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">di Tɛm fɔ Yuz</a> fɔ di ditel dɛn.",
+	"wikimedia-developers": "Devèlòpardèm",
+	"wikimedia-statslink": "Statistik dɛn",
+	"wikimedia-cookiestatement": "Kuki stetmɛnt"
 }

@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"H78c67c"
+		]
+	},
+	"wm-commonstrings-please-remember": "請記得去：$1",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|捷徑}}"
+}

@@ -275,6 +275,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
 	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",
 	"protect-level-editautoreviewprotected": "Automaattiseulotut käyttäjät",
+	"action-docseditor": "muokata ohjeistusta",
 	"right-docseditor": "Muokata ohjeistusta",
 	"ipinfo-feedback-button-label": "Jätä palautetta",
 	"ext-quicksurveys-name": "Pikakyselyt",
@@ -290,6 +291,7 @@
 	"readinglists-import-app": "Tuo tämä lukulista asentamalla Wikipedia-sovelluksen uusin versio:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Lataa</a> ja asenna Wikipedia-sovelluksen uusin versio:",
 	"readinglists-list-empty-message": "Voit tuoda tämän listan asentamalla Wikipedia-sovelluksen.",
+	"research-incentive-answer-positive": "Kyllä",
 	"research-incentive-confirm-msg": "Kiitos!",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset",
 	"wikimedia-foundation-projects-label": "Wikimedia-säätiön projektit",
@@ -301,7 +303,10 @@
 	"wikimedia-news-label": "Wikimedian uutiset",
 	"wikimedia-help-translate-prompt": "Haluatko auttaa kääntämisessä? [$1 Käännä puuttuvia viestejä].",
 	"wikimedia-foundation-department-shortname-legal": "Oikeudellinen",
+	"wikimedia-foundation-about-label": "Tietoja Wikimedia Foundationista",
+	"wikimedia-foundation-about-label-short": "Tietoja säätiöstä",
 	"wikimedia-nutshell-page-intro": "Tämä sivu pähkinänkuoressa: $1",
+	"wikimedia-nutshell-content-alt-intro": "$1 pähkinänkuoressa: $2",
 	"wikimedia-translation-disclaimer-nolink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, alkuperäinen englanninkielinen versio pätee.",
 	"wikimedia-translation-disclaimer-withlink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, [[$1|alkuperäinen englanninkielinen versio]] pätee."
 }

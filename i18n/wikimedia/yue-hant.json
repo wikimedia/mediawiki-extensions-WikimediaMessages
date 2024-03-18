@@ -136,5 +136,6 @@
 	"wikimedia-statslink": "統計",
 	"wikimedia-cookiestatement": "Cookie聲明",
 	"technical-maintenance-soon": "就嚟系統維護：",
-	"technical-maintenance-edit": "期間你改嘅嘢可能儲存唔到。"
+	"technical-maintenance-edit": "期間你改嘅嘢可能儲存唔到。",
+	"wikimedia-talkheader-signature": "用四個波浪號（~~~~）[[$1|簽名]]"
 }

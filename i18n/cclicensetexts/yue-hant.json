@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"H78c67c",
 			"Winston Sung"
 		]
 	},
@@ -25,7 +26,7 @@
 	"wm-license-cc-by-2.5-br-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/br/deed.eo|Atribuite 2.5 Brazilo]].",
 	"wm-license-cc-by-2.5-cn-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/cn/deed.eo|Atribuite 2.5 Ĉinujo]].",
 	"wm-license-cc-by-2.5-dk-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/dk/deed.eo|Atribuite 2.5 Danujo]].",
-	"wm-license-cc-by-2.5-es-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/es/deed.eo|Atribuite 2.5 Hispanujo]].",
+	"wm-license-cc-by-2.5-es-text": "呢個檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [[creativecommons:by/2.5/es/deed.en|Attribution 2.5 西班牙]]牌照授權。",
 	"wm-license-cc-by-2.5-in-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/in/deed.eo|Atribuite 2.5 Barato]].",
 	"wm-license-cc-by-2.5-it-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/it/deed.eo|Atribuite 2.5 Italujo]].",
 	"wm-license-cc-by-2.5-my-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/2.5/my/deed.eo|Atribuite 2.5 Malajzio]].",
@@ -44,10 +45,10 @@
 	"wm-license-cc-by-3.0-us-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by/3.0/us/deed.eo|Atribuite 3.0 Usono]].",
 	"wm-license-cc-by-sa-1.0-fi-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/1.0/fi/deed.eo|Atribuite-Samkondiĉe 1.0 Suomujo]].",
 	"wm-license-cc-by-sa-1.0-nl-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/1.0/nl/deed.eo|Atribuite-Samkondiĉe 1.0 Nederlando]].",
-	"wm-license-cc-by-sa-2.0-at-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/at/deed.eo|Atribuite-Samkondiĉe 2.0 Aŭstrujo]].",
+	"wm-license-cc-by-sa-2.0-at-text": "呢個檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [[creativecommons:by-sa/2.0/at/deed.en|Attribution-Share Alike 2.0 奧地利]]牌照授權。",
 	"wm-license-cc-by-sa-2.0-au-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/au/deed.eo|Atribuite-Samkondiĉe 2.0 Aŭstralio]].",
 	"wm-license-cc-by-sa-2.0-be-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/be/deed.eo|Atribuite-Samkondiĉe 2.0 Belgujo]].",
-	"wm-license-cc-by-sa-2.0-br-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/br/deed.eo|Atribuite-Samkondiĉe 2.0 Brazilo]].",
+	"wm-license-cc-by-sa-2.0-br-text": "呢個檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [[creativecommons:by-sa/2.0/br/deed.en|Attribution-Share Alike 2.0 巴西]]牌照授權。",
 	"wm-license-cc-by-sa-2.0-ca-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/ca/deed.eo|Atribuite-Samkondiĉe 2.0 Kanado]].",
 	"wm-license-cc-by-sa-2.0-cl-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/cl/deed.eo|Atribuite-Samkondiĉe 2.0 Ĉilio]].",
 	"wm-license-cc-by-sa-2.0-de-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.0/de/deed.eo|Atribuite-Samkondiĉe 2.0 Germanujo]].",
@@ -64,7 +65,7 @@
 	"wm-license-cc-by-sa-2.5-br-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/br/deed.eo|Atribuite-Samkondiĉe 2.5 Brazilo]].",
 	"wm-license-cc-by-sa-2.5-ca-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/ca/deed.eo|Atribuite-Samkondiĉe 2.5 Kanado]].",
 	"wm-license-cc-by-sa-2.5-ch-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/ch/deed.eo|Atribuite-Samkondiĉe 2.5 Svisujo]].",
-	"wm-license-cc-by-sa-2.5-cn-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/cn/deed.eo|Atribuite-Samkondiĉe 2.5 Ĉinujo]].",
+	"wm-license-cc-by-sa-2.5-cn-text": "呢個檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [[creativecommons:by-sa/2.5/cn/deed.en|Attribution-Share Alike 2.5 中國大陸]]牌照授權。",
 	"wm-license-cc-by-sa-2.5-dk-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/dk/deed.eo|Atribuite-Samkondiĉe 2.5 Danujo]].",
 	"wm-license-cc-by-sa-2.5-es-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/es/deed.eo|Atribuite-Samkondiĉe 2.5 Hispanujo]].",
 	"wm-license-cc-by-sa-2.5-hu-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/2.5/hu/deed.eo|Atribuite-Samkondiĉe 2.5 Hungarujo]].",
@@ -83,7 +84,7 @@
 	"wm-license-cc-by-sa-3.0-at-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/at/deed.eo|Atribuite-Samkondiĉe 3.0 Aŭstrujo]].",
 	"wm-license-cc-by-sa-3.0-de-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/de/deed.eo|Atribuite-Samkondiĉe 3.0 Germanujo]].",
 	"wm-license-cc-by-sa-3.0-es-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/es/deed.eo|Atribuite-Samkondiĉe 3.0 Hispanujo]].",
-	"wm-license-cc-by-sa-3.0-gr-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/gr/deed.eo|Atribuite-Samkondiĉe 3.0 Grekujo]].",
+	"wm-license-cc-by-sa-3.0-gr-text": "呢個檔案採用[[{{int:wm-license-cc-wiki-link}}|共享創意]] [[creativecommons:by-sa/3.0/gr/deed.en|Attribution-Share Alike 3.0 希臘]]牌照授權。",
 	"wm-license-cc-by-sa-3.0-nl-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/nl/deed.eo|Atribuite-Samkondiĉe 3.0 Nederlando]].",
 	"wm-license-cc-by-sa-3.0-no-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/no/deed.eo|Atribuite-Samkondiĉe 3.0 Norvegujo]].",
 	"wm-license-cc-by-sa-3.0-nz-text": "Ĉi tiu dosiero estas disponebla laŭ la permesilo [[{{int:wm-license-cc-wiki-link}}|Krea Komunaĵo]] [[creativecommons:by-sa/3.0/nz/deed.eo|Atribuite-Samkondiĉe 3.0 Nov-Zelando]].",
