@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"U.T."
 		]
 	},
-	"wm-commonstrings-seealso": "参见"
+	"wm-commonstrings-aboutme": "关于我",
+	"wm-commonstrings-activities": "活动",
+	"wm-commonstrings-background": "背景",
+	"wm-commonstrings-contactus": "联系我们",
+	"wm-commonstrings-enterquestion": "输入您的问题。",
+	"wm-commonstrings-noticeboard": "布告板",
+	"wm-commonstrings-questions": "有问题？",
+	"wm-commonstrings-seealso": "参见",
+	"wm-commonstrings-staff": "职员"
 }

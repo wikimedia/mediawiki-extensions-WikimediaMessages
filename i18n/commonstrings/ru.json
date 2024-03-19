@@ -3,6 +3,7 @@
 		"authors": [
 			"Kaganer",
 			"Nikki",
+			"Okras",
 			"Varnent"
 		]
 	},
@@ -18,7 +19,7 @@
 	"wm-commonstrings-enterquestion": "Введите свой вопрос.",
 	"wm-commonstrings-events": "Мероприятия",
 	"wm-commonstrings-externallinks": "Внешние ссылки",
-	"wm-commonstrings-follow": "Следить",
+	"wm-commonstrings-follow": "Подписаться",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Основная страница: $1|Основные страницы: $1}}",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Основная статья: $1|Основные статьи: $1}}",
 	"wm-commonstrings-mywork": "Моя деятельность",

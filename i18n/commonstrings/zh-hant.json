@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"U.T.",
 			"Winston Sung"
 		]
 	},
+	"wm-commonstrings-aboutme": "關於我",
 	"wm-commonstrings-seealso": "參閱"
 }

@@ -8,6 +8,7 @@
 			"DDPAT",
 			"DannyS712",
 			"Dgstranz",
+			"Eulalio",
 			"Fitoschido",
 			"Hasley",
 			"Ice bulldog",
@@ -69,5 +70,6 @@
 	"wikimedia-globalblocking-blockedtext-proxy": "La dirección proxy bloqueada era $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Si crees que este bloqueo es incorrecto, puedes encontrar información e instrucciones adicionales en la política global de [[m:Special:MyLanguage/No open proxies|prohibición de proxies abiertos]]. También puedes [[m:Steward requests/Global|solicitar una revisión de este bloqueo en Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "También puede enviar un correo electrónico a la cola [[m:Special:MyLanguage/VRT|VRT]] de [[m:Special:MyLanguage/Stewards|stewards]] a <kbd>stewards@wikimedia.org</kbd> incluyendo todos los detalles anteriores.",
-	"wikimedia-jsonconfig-license-copyrightwarning": "Al publicar tus cambios, aceptas nuestros [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es Términos de uso], y aceptas irrevocablemente liberar su contribución bajo los términos de la licencia [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]."
+	"wikimedia-jsonconfig-license-copyrightwarning": "Al publicar tus cambios, aceptas nuestros [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es Términos de uso], y aceptas irrevocablemente liberar su contribución bajo los términos de la licencia [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
+	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Acepto manejar la información de los participantes, incluida la información de identificación personal del participante, recopilada durante el registro del suceso con cuidado y de acuerdo con los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] de la Fundación Wikimedia."
 }

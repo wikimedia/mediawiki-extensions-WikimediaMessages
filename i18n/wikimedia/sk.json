@@ -51,7 +51,7 @@
 	"group-arbcom-member": "{{GENDER:$1|člen arbitrážnej komisie}}",
 	"grouppage-arbcom": "{{ns:project}}:Členovia arbitrážnej komisie",
 	"group-autopatrolled": "Automatickí strážcovia",
-	"group-autopatrolled-member": "{{GENDER:$1|strážca|strážkyňa}}",
+	"group-autopatrolled-member": "{{GENDER:$1|používateľ|používateľka}} s automaticky preverenými úpravami",
 	"grouppage-autopatrolled": "{{ns:project}}:Strážcovia",
 	"group-autoreviewer": "Autokontrolóri",
 	"group-autoreviewer-member": "{{GENDER:$1|autokontrolór|autokontrolórka}}",
