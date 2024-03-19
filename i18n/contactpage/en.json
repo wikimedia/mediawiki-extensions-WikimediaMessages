@@ -116,5 +116,6 @@
 	"contactpage-subject-accountvanishapps": "Account Vanishing Request Form",
 	"contactpage-emailsent-accountvanishapps": "Request Sent",
 	"contactpage-emailsenttext-accountvanishapps": "Your account vanishing request has been sent for evaluation. Should you have questions about your request at any time, you may reach out to {{NonSpamEmail|privacy|wikimedia.org}}.",
-	"contactpage-accountvanishapps-details": "Additional details about request"
+	"contactpage-accountvanishapps-details": "Additional details about request",
+	"contactpage-blocked-message-accountvanishapps": "Sorry, it looks like your account or IP address is currently blocked from sending messages. You are not able to use the Account Vanishing Form while blocked. To proceed with account vanishing, please send an email to {{NonSpamEmail|privacy|wikimedia.org}}."
 }
