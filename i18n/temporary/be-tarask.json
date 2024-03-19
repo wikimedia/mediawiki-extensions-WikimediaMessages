@@ -3,14 +3,15 @@
 		"authors": [
 			"Jim-by",
 			"Red Winged Duck",
-			"Wizardist"
+			"Wizardist",
+			"Renessaince"
 		]
 	},
 	"wikimediamessages-desc": "Часовыя паведамленьні для Вікімэдыі",
 	"grouppage-oversight": "{{ns:project}}:Рэвізоры",
 	"group-oversight": "Рэвізоры",
 	"group-oversight-member": "{{GENDER:$1|рэвізор|рэвізорка}}",
-	"hello": "Прывітаньне",
+	"hello": "Вітаем",
 	"please-translate": "Калі ласка, дапамажыце перакласьці на вашую мову",
 	"thank-you": "{{GENDER:$1|Дзякуй.}}",
 	"specialblockfeedback": "Водгук"

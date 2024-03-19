@@ -28,7 +28,8 @@
 			"Doraemonluonbentoi",
 			"Flyplanevn27",
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Hide on Rosé"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -199,7 +200,8 @@
 	"group-translationadmin": "Bảo quản viên bản dịch",
 	"group-translationadmin-member": "{{GENDER:$1}}bảo quản viên bản dịch",
 	"grouppage-translationadmin": "{{ns:project}}:Bảo quản viên bản dịch",
-	"group-vrt-permissions": "Tư vấn viên cấp phép VRT",
+	"group-vrt-permissions": "Người xử lý cấp phép qua VRT",
+	"group-vrt-permissions-member": "{{GENDER:$1|Người xử lý cấp phép qua VRT}}",
 	"group-wmf-officeit": "Văn phòng CNTT WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1}}Văn phòng CNTT WMF",
 	"group-wmf-researcher": "Chuyên viên nghiên cứu WMF",
