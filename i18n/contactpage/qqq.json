@@ -121,5 +121,6 @@
 	"contactpage-subject-accountvanishapps": "Used as default email subject on [[meta:Special:Contact/accountvanishapps]]",
 	"contactpage-emailsent-accountvanishapps": "Title shown on confirmation page after submitting form on [[meta:Special:Contact/accountvanishapps]]",
 	"contactpage-emailsenttext-accountvanishapps": "Text shown on confirmation page after submitting form on [[meta:Special:Contact/accountvanishapps]]",
-	"contactpage-accountvanishapps-details": "Label for the freeform message field on [[meta:Special:Contact/accountvanishapps]]"
+	"contactpage-accountvanishapps-details": "Label for the freeform message field on [[meta:Special:Contact/accountvanishapps]]",
+	"contactpage-blocked-message-accountvanishapps": "Message shown to blocked users on [[meta:Special:Contact/accountvanishapps]]"
 }
