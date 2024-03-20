@@ -4,11 +4,13 @@
 			"Nadezhda"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Ти документым [[{{int:wm-license-fsf-wiki-link}}|Ирӹкӓн программе обеспеченисӹ фондын]] 1.2 верси ӓли хоть-махань пӹтӓртӹш верси,  \n\"'[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]\"' лицензи доно копим ӹштӓш, шӓрӓш дӓ/ӓли вашталташ лиэш; вашталтдымы раздел, анзыл монгыр текст гӹц пасна дӓ пӹтӓртӹш монгыр текст гӹц пасна. Лицензин копижӹм ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU ярӓ документаци лицензи]]'' разделӹш пыртымы.",
 	"wm-license-information-description": "Сирен анжыктымаш",
 	"wm-license-information-source": "Важ",
 	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Автор",
 	"wm-license-information-permission": "Права",
 	"wm-license-information-permission-reusing-text": "Ти файлым вес пачаш кычылтмаш",
-	"wm-license-own-work": "Ӹшкӹмемӹн пӓшӓ"
+	"wm-license-own-work": "Ӹшкӹмемӹн пӓшӓ",
+	"wm-license-self-multiple-licenses-select": "Тӹнь махань лицензи келеш, техеньӹм айырен кердӓт."
 }

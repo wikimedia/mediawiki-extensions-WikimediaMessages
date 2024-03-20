@@ -80,7 +80,7 @@
 	"grouppage-flood": "{{ns:project}}:روبہ صارف",
 	"group-founder": "بانیان",
 	"group-founder-member": "{{GENDER:$1|بانی}}",
-	"group-import": "بینک",
+	"group-import": "درآمد کنندگان",
 	"group-import-member": "{{GENDER:$1|درآمد کنندہ}}",
 	"grouppage-import": "{{ns:project}}:درآمد کنندگان",
 	"group-interface-editor": "انٹرفیس نویس",

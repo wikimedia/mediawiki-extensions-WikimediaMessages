@@ -16,7 +16,8 @@
 			"بدارين",
 			"ديفيد",
 			"LaMagiaaa",
-			"Lolekek"
+			"Lolekek",
+			"علاء"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في اليوم الأخير، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
@@ -56,7 +57,7 @@
 	"wikimedia-webauthn-ui-login-prompt": "يرجى لمس جهاز التحقق الخاص بك أو اتباع التعليمات من المتصفح. يرجى ملاحظة أنك ستحتاج إلى تسجيل الدخول إلى نفس الويكي حيث قمت بتسجيل جهاز التحقق الخاص بك في الأصل",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy]",
 	"wikimedia-notification-body-oathauth-disable-other": "إذا كان {{GENDER:$2| أنت}} لم تطلب هذا ، {{GENDER:$2| يجب عليك}} الاتصال بـ WMF Trust & Safety.",
-	"wikimedia-ipinfo-source-geoip2": "استخدامك لهذه الأداة محكوم ب [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي].",
+	"wikimedia-ipinfo-source-geoip2": "استخدامك لهذه الأداة محكوم [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines بإرشادات أداة معلومات الآي بي].",
 	"wikimedia-ipinfo-infobox-use-terms": "تستخدم أداة معلومات IP قواعد بيانات ماكسمايند لعرض التفاصيل مثل الموقع التقريبي والوكيل وعدد الأجهزة التي تشارك عنوان IP هذا. يرجى مراجعة [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي] قبل تمكينها.",
 	"wikimedia-ipinfo-preference-use-agreement": "أوافق على استخدام هذه الأداة وفقًا لـ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي]، فقط من أجل التحقيق أو منع التخريب أو الإساءة أو الانتهاكات الأخرى لمؤسسة ويكيميديا أو سياسات المجتمع.",
 	"wikimedia-similareditors-error-default": "حدث خطأ ما ، نحن نبحث فيه. إذا استمرت المشكلة ، يرجى التواصل معنا [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors هنا].",

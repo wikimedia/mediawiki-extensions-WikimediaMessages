@@ -260,6 +260,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
 	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",
 	"protect-level-editautoreviewprotected": "Automaattiseulotut käyttäjät",
+	"action-docseditor": "muokata ohjeistusta",
 	"right-docseditor": "Muokata ohjeistusta",
 	"ipinfo-feedback-button-label": "Jätä palautetta",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Kyllä",
@@ -274,6 +275,7 @@
 	"readinglists-import-app": "Tuo tämä lukulista asentamalla Wikipedia-sovelluksen uusin versio:",
 	"readinglists-import-app-with-link": "<a href=\"$1\">Lataa</a> ja asenna Wikipedia-sovelluksen uusin versio:",
 	"readinglists-list-empty-message": "Voit tuoda tämän listan asentamalla Wikipedia-sovelluksen.",
+	"research-incentive-answer-positive": "Kyllä",
 	"research-incentive-confirm-msg": "Kiitos!",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset"
 }
