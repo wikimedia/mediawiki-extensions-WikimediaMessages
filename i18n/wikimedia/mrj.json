@@ -15,5 +15,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1($2) питӹрмӓшӹм ӹштен.\nАнжыктымы вир: ''$3''.\n\n* Питӹрмӓшӹн тӹнгӓлтӹшӹжӹ: $4 \n* Питӹрмӓшӹн мычашыжы: $5 \n\nТӹньӹн кӹзӹтшӹ IP адресэт — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) питӹрмӓшӹм ӹштен.\nАнжыктымы вир: ''$3''.\n\n* Питӹрмӓшӹн тӹнгӓлтӹшӹжӹ: $4 \n* Питӹрмӓшӹн мычашыжы: $5  \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
-	"wikimedia-cookiestatement": "Куки файлвлӓ гишан ядмаш"
+	"wikimedia-cookiestatement": "Cookie файлвлӓ гишӓн ядмаш"
 }

@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bangrapip",
 			"Varnent"
 		]
 	},
 	"wm-commonstrings-background": "Natar belakang",
 	"wm-commonstrings-closed": "Ditutup",
-	"wm-commonstrings-connect": "Sambungin",
+	"wm-commonstrings-connect": "Bungselin",
 	"wm-commonstrings-events": "Kejadian",
 	"wm-commonstrings-noticeboard": "Ma'lumat",
 	"wm-commonstrings-objectives": "Sasaran",
