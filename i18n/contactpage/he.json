@@ -113,5 +113,6 @@
 	"contactpage-subject-accountvanishapps": "טופס בקשת העלמת חשבון",
 	"contactpage-emailsent-accountvanishapps": "הבקשה נשלחה",
 	"contactpage-emailsenttext-accountvanishapps": "בקשת העלמת החשבון שלך נשלחה להערכה. אם יש לך שאלות לגבי בקשתך בכל עת, אפשר לפנות אל {{NonSpamEmail|privacy|wikimedia.org}}.",
-	"contactpage-accountvanishapps-details": "פרטים נוספים לגבי הבקשה"
+	"contactpage-accountvanishapps-details": "פרטים נוספים לגבי הבקשה",
+	"contactpage-blocked-message-accountvanishapps": "מצטערים, נראה שהחשבון או כתובת ה־IP שלך חסומים כעת מלשלוח הודעות. אין לך אפשרות להשתמש בטופס העלמות החשבון בזמן חסימה. כדי להמשיך עם העלמות החשבון, יש לשלוח דוא\"ל אל {{NonSpamEmail|privacy|wikimedia.org}}."
 }

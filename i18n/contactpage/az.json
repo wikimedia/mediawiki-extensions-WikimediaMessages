@@ -17,5 +17,6 @@
 	"contactpage-wikimedia-trademark-wikispecies": "Vikinövlər",
 	"contactpage-wikimedia-trademark-wikiversity": "Vikiversitet",
 	"contactpage-wikimedia-trademark-wiktionary": "Vikilüğət",
-	"contactpage-title-stewards": "Stüardlarla əlaqə saxlayın"
+	"contactpage-title-stewards": "Stüardlarla əlaqə saxlayın",
+	"contactpage-blocked-message-accountvanishapps": "Üzr istəyirik, deyəsən hesabınız və ya IP ünvanınız hazırda mesaj göndərməkdən bloklanıb. Bloklanmış halda Siz Hesabın Silmə Formasından istifadə edə bilməyəcəksiniz. Hesabın silinməsinə davam etmək üçün {{NonSpamEmail|privacy|wikimedia.org}} ünvanına e-məktub göndərin."
 }

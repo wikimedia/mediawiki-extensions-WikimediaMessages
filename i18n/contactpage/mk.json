@@ -111,5 +111,6 @@
 	"contactpage-subject-accountvanishapps": "Образец за барање за гаснење на сметката",
 	"contactpage-emailsent-accountvanishapps": "Барањето е испратено",
 	"contactpage-emailsenttext-accountvanishapps": "Вашето барање за гаснење на сметката е испратено на разгледување. Ако имате некакви прашања во врска со ова, обратете ни се на {{NonSpamEmail|privacy|wikimedia.org}}.",
-	"contactpage-accountvanishapps-details": "Дополнителни поединости за барањето"
+	"contactpage-accountvanishapps-details": "Дополнителни поединости за барањето",
+	"contactpage-blocked-message-accountvanishapps": "За жал, се чини дека на вашата сметка или IP-адреса моментално ѝ е забрането да испраќа пораки. Не можете да го користите образецот за гаснење на сметка додека сте блокирани. За да продолжите без гаснење, пишете на {{NonSpamEmail|privacy|wikimedia.org}}."
 }

@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Alesaru",
+			"Cristina S",
 			"Fitoschido",
 			"XXN"
 		]
 	},
+	"project-localized-name-bewwiki": "Wikipedia Betawi",
+	"project-localized-name-kuswiki": "Wikipedia Kusaal",
 	"project-localized-name-lbewiki": "Lak Wikipedia",
 	"project-localized-name-thankyouwiki": "Mulțumesc",
 	"project-localized-name-wikidatawiki": "Wikidata"

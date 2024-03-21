@@ -100,5 +100,6 @@
 	"contactpage-subject-accountvanishapps": "Antragsformular für das Verschwindenlassen deines Kontos",
 	"contactpage-emailsent-accountvanishapps": "Anfrage geschickt",
 	"contactpage-emailsenttext-accountvanishapps": "Dein Antrag auf Verschwindenlassen deines Kontos wurde zur Prüfung gesendet. Solltest du irgendwann Fragen zu deiner Anfrage haben, kannst du dich auch an {{NonSpamEmail|privacy|wikimedia.org}} wenden.",
-	"contactpage-accountvanishapps-details": "Weitere Details zur Anfrage"
+	"contactpage-accountvanishapps-details": "Weitere Details zur Anfrage",
+	"contactpage-blocked-message-accountvanishapps": "Es tut uns leid, es sieht so aus, als ob dein Konto oder deine IP-Adresse derzeit für das Senden von Nachrichten gesperrt ist. Während du gesperrt bist, kannst du das Kontolöschungsformular nicht verwenden. Um mit der Löschung des Kontos fortzufahren, sende bitte eine E-Mail an {{NonSpamEmail|privacy|wikimedia.org}}."
 }

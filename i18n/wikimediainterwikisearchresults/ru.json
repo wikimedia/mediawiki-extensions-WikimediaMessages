@@ -3,6 +3,7 @@
 		"authors": [
 			"Abiyoyo",
 			"Alexandr Efremov",
+			"Dirruw'o",
 			"Fenixs-ru",
 			"Kaganer",
 			"Kareyac",
@@ -30,6 +31,7 @@
 	"search-interwiki-results-bawiki": "Результаты из [[:ba:|башкирской Википедии]]",
 	"search-interwiki-results-be_taraskwiki": "Результаты из [[:be-tarask:|белорусской Википедии на тарашкевице]]",
 	"search-interwiki-results-bewiki": "Результаты из [[:be:|белорусской Википедии]]",
+	"search-interwiki-results-bewwiki": "Показаны результаты из [[:bew:|Википедии на языке бетави]].",
 	"search-interwiki-results-bgwiki": "Результаты из [[:bg:|болгарской Википедии]]",
 	"search-interwiki-results-bxrwiki": "Результаты из [[:bxr:|бурятской Википедии]]",
 	"search-interwiki-results-cawiki": "Результаты из [[:ca:|каталанской Википедии]]",
@@ -60,6 +62,7 @@
 	"search-interwiki-results-kbdwiki": "Результаты из [[:kbd:|кабардинской Википедии]]",
 	"search-interwiki-results-kkwiki": "Результаты из [[:kk:|казахской Википедии]].",
 	"search-interwiki-results-kowiki": "Результаты из [[:ko:|корейской Википедии]]",
+	"search-interwiki-results-kuswiki": "Показаны результаты из [[:kus:|Kusaal Wikipedia]].",
 	"search-interwiki-results-kuwiki": "Результаты из [[:ku:|курдской Википедии]].",
 	"search-interwiki-results-lawiki": "Результаты из [[:la:|латинской Википедии]]",
 	"search-interwiki-results-lowiki": "Результаты из [[:lo:|лаосской Википедии]]",
