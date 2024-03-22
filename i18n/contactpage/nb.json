@@ -101,5 +101,6 @@
 	"contactpage-subject-accountvanishapps": "Søknadsskjema for å få en konto til å forsvinne",
 	"contactpage-emailsent-accountvanishapps": "Søknad sendt",
 	"contactpage-emailsenttext-accountvanishapps": "Søknaden din om å få en konto til å forsvinne har blitt sendt inn til vurdering. Hvis du har spørsmål om den kan du når som helst ta kontakt med {{NonSpamEmail|privacy|wikimedia.org}}.",
-	"contactpage-accountvanishapps-details": "Ytterligere detaljer om forespørselen"
+	"contactpage-accountvanishapps-details": "Ytterligere detaljer om forespørselen",
+	"contactpage-blocked-message-accountvanishapps": "Beklager, det ser ut til at IP-adressen din er blokkert fra å sende meldinger. Du kan ikke bruke kontoforsvinningsskjemaet mens du er blokkert. Send en e-post til {{NonSpamEmail|privacy|wikimedia.org}} i stedet."
 }

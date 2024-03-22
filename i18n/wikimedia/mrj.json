@@ -9,7 +9,7 @@
 	"wikimedia-copyrightwarning": "Вашталтмашвлӓм перегӹмӹ годым, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:кычылтмы услови доно] согласын лиӓт, тенгеок [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] дӓ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензи доно ӹшке вкладым лӹктӓш тӹрӹс согласын лиӓт. Тенгеок автор семынь анжыкташ Creative Commons лицензи доно гиперссӹлкӹм ӓли URL-адресым ажедмӹм ситӓ манын согласын лиӓт.",
 	"wikibase-sitelinks-wikinews": "Викиувер",
 	"wikibase-sitelinks-wikiquote": "Викицитатник",
-	"wikibase-sitelinks-wikisource": "Викиваж",
+	"wikibase-sitelinks-wikisource": "Викиисточник",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Разработчиквлӓ",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1($2) питӹрмӓшӹм ӹштен.\nАнжыктымы вир: ''$3''.\n\n* Питӹрмӓшӹн тӹнгӓлтӹшӹжӹ: $4 \n* Питӹрмӓшӹн мычашыжы: $5 \n\nТӹньӹн кӹзӹтшӹ IP адресэт — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
