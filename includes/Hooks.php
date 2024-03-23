@@ -1994,8 +1994,8 @@ class Hooks implements
 		// MediaWiki\IPInfo\HookHandler\InfoboxHandler
 		if (
 			!$permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
-			$isBetaFeaturesLoaded &&
-			!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' )
+			( $isBetaFeaturesLoaded &&
+				!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' ) )
 		) {
 			return;
 		}
