@@ -386,7 +386,7 @@
 	"ext-campaignevents-registration-form-policy": "Arrangementer som arrangeres eller sponses av Wikimedia Foundation må etterleve alle retningslinjene til Wikimedia Foundation, inkludert [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy trygghet for ungdom].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Se denne undersøkelsens [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement personvernserklæring].",
 	"readinglists-import-app": "Installer den nyeste versjonen av Wikipedia-appen for å importere denne leselista:",
-	"readinglists-import-app-with-link": "<a href=\"$1\">Last ned</a> og installer den nyeste versjonen av Wikipedia-appen:",
+	"readinglists-import-app-with-link": "[$1 Last ned] og installer den nyeste versjonen av Wikipedia-appen:",
 	"readinglists-list-empty-message": "Du kan importere denne lista ved å installere Wikipedia-appen.",
 	"ipinfo-global-contributions-url-label": "Bidrag globalt",
 	"wikimedia-foundation-projects-label": "Wikimedia Foundations prosjekter",

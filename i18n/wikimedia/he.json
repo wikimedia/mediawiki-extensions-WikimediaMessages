@@ -398,7 +398,7 @@
 	"ext-campaignevents-registration-form-policy": "אירועים שקרן ויקימדיה מארחת או מממנת חייבים לציית לכל כללי המדיניות של קרן ויקימדיה, כולל בנושא [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy בטיחות נוער].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "למידע נוסף, ניתן לעיין ב[https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement הצהרת הפרטיות] של הסקר הזה.",
 	"readinglists-import-app": "כדי לייבא את רשימת הקריאה הזאת, יש להתקין את הגרסה העדכנית של יישום ויקיפדיה:",
-	"readinglists-import-app-with-link": "<a href=\"$1\">להוריד</a> ולהתקין את הגרסה העדכנית של יישום ויקיפדיה:",
+	"readinglists-import-app-with-link": "[$1 להוריד] ולהתקין את הגרסה העדכנית של יישום ויקיפדיה:",
 	"readinglists-list-empty-message": "{{GENDER:|אתה יכול|את יכולה}} לייבא את הרשימה הזאת על־ידי התקנת יישום ויקיפדיה.",
 	"research-incentive-message": "האם מעניין אותך להשתתף במחקר משתמשים עבור ויקיפדיה?",
 	"research-incentive-description": "נא למלא את הטופס כדי להיכנס לרשימת המשתתפים שלנו. ניצור איתך קשר מדי פעם עם הזדמנויות להשתתף במחקרים על ויקיפדיה. באפשרותך להסיר את עצמך בכל זמן.",

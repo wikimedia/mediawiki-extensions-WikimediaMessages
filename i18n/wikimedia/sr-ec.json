@@ -280,7 +280,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Нисам сигуран",
 	"gadget-souspages-subpages": "Подстранице",
-	"readinglists-import-app-with-link": "<a href=\"$1\">Преузмите</a> и инсталирајте најновију верзију Википедијине апликације:",
+	"readinglists-import-app-with-link": "[$1 Преузмите] и инсталирајте најновију верзију Википедијине апликације:",
 	"research-incentive-answer-positive": "Да",
 	"research-incentive-answer-negative": "Не",
 	"research-incentive-confirm-msg": "Хвала вам!",
@@ -308,6 +308,9 @@
 	"wikimedia-nutshell-policy-intro": "Ова политика укратко: $1",
 	"wikimedia-nutshell-section-intro": "Овај одељак укратко: $1",
 	"wikimedia-talkheader-civility": "Будите [[$1|културни и учтиви]] током дискусије.",
+	"wikimedia-talkheader-signature": "[[$1|Потпишите]] објаву користећи четри тилде (~~~~)",
+	"wikimedia-talkheader-pageprompt": "Ова страница је за дискусију у вези странице $1.",
+	"wikimedia-foundation-search-label-short": "Претрага Задужбине",
 	"wikimedia-foundation-footer-description-short": "Задужбина Викимедије је невладина и непрофитна организација посвећена расту, развоју и дистрибуцији вишејезичног садржаја и пружању читавог садржаја вики базираних пројеката свима бесплатно.",
 	"wikimedia-translation-disclaimer-nolink": "Имајте на уму да у случају недоследности у значењу или интерпретацији између оригиналне енглеске верзије и превода, енглеска верзија има примат.",
 	"wikimedia-translation-disclaimer-withlink": "Имајте на уму да у случају недоследности у значењу или интерпретацији између оригиналне енглеске верзије и превода, [[$1|енглеска верзија]] има примат."

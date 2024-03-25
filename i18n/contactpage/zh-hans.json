@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Anterdc99",
 			"Colathewikian",
 			"GuoPC",
 			"Liuxinyu970226",
@@ -84,5 +85,6 @@
 	"contactpage-title-ombudscommission": "联系申诉委员会",
 	"contactpage-ombudscommission-case-explanation": "解释发生了什么：",
 	"contactpage-ombudscommission-relevant-links": "提供wiki动作或页面的网址：",
-	"contactpage-ombudscommission-violation-type": "简短地描述哪里违反了wiki政策："
+	"contactpage-ombudscommission-violation-type": "简短地描述哪里违反了wiki政策：",
+	"contactpage-blocked-message-accountvanishapps": "抱歉，您的账户或IP地址目前似乎已被阻止发送消息。被阻止时您无法使用账户隐退表单。要继续账户隐退，请发送电子邮件至{{NonSpamEmail|privacy|wikimedia.org}}。"
 }

@@ -366,7 +366,7 @@
 	"ext-campaignevents-registration-form-policy": "Dogodki, ki jih gosti ali financira Fundacija Wikimedia, morajo upoštevati vse pravilnike Fundacije Wikimedia, vključno s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy Pravilnikom o prijateljskem prostoru].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Za več informacij glejte [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement izjavo o zasebnosti] za to anketo.",
 	"readinglists-import-app": "Za uvoz tega bralnega seznama namestite zadnjo različico aplikacije Wikipedija:",
-	"readinglists-import-app-with-link": "<a href=\"$1\">Prenesite</a> in namestite zadnjo različico aplikacije Wikipedia:",
+	"readinglists-import-app-with-link": "[$1 Prenesite] in namestite zadnjo različico aplikacije Wikipedia:",
 	"readinglists-list-empty-message": "Ta seznam lahko uvozite tako, da namestite aplikacijo Wikipedija.",
 	"research-incentive-message": "Bi želeli sodelovati v plačanih raziskavah mnenja uporabnikov Wikipedije?",
 	"research-incentive-description": "Za prijavo na naš seznam udeležencev izpolnite obrazec. Občasno vas bomo kontaktirali glede priložnosti za plačane raziskave. S seznama se lahko kadar koli odstranite.",

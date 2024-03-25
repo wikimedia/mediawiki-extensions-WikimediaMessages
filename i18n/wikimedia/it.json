@@ -298,7 +298,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
 	"gadget-souspages-subpages": "Sottopagine",
 	"readinglists-import-app": "Per importare questo elenco di lettura, installa l'ultima versione dell'app Wikipedia:",
-	"readinglists-import-app-with-link": "<a href=\"$1\">Scarica</a> e installa l'ultima versione dell'app Wikipedia:",
+	"readinglists-import-app-with-link": "[$1 Scarica] e installa l'ultima versione dell'app Wikipedia:",
 	"wikimedia-foundation-projects-label": "Progetti della Fondazione Wikimedia",
 	"wikimedia-foundation-projects-of-label-link": "Progetti della [[$1|Wikimedia Foundation]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Progetti della Wikimedia Foundation",

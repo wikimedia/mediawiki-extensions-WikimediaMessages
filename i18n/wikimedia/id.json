@@ -382,7 +382,7 @@
 	"ext-campaignevents-registration-form-policy": "Acara yang diselenggarakan atau didanai oleh Yayasan Wikimedia harus mematuhi semua kebijakannya, termasuk [https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy kebijakan keamanan individu usia muda].",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "Untuk informasi lebih lanjut, lihat [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement pernyataan privasi untuk survei ini].",
 	"readinglists-import-app": "Untuk mengimpor daftar bacaan ini, instal aplikasi Wikipedia versi terbaru:",
-	"readinglists-import-app-with-link": "<a href=\"$1\">Unduh</a> dan pasang versi terbaru dari aplikasi Wikipedia:",
+	"readinglists-import-app-with-link": "[$1 Unduh] dan pasang versi terbaru dari aplikasi Wikipedia:",
 	"readinglists-list-empty-message": "Anda dapat mengimpor daftar ini dengan memasang aplikasi Wikipedia.",
 	"research-incentive-message": "Apakah Anda bersedia berpartisipasi dalam penelitian pengguna untuk Wikipedia dengan imbalan?",
 	"research-incentive-description": "Lengkapi formulir untuk didaftarkan ke daftar peserta kami. Anda akan dihubungi secara berkala dengan kesempatan untuk berpartisipasi dalam studi penelitian bagi Wikipedia. Anda dapat mengundurkan diri dari daftar kapan saja.",

@@ -334,6 +334,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "아니오",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "확실치 않음",
 	"gadget-souspages-subpages": "하위 문서",
+	"readinglists-import-app-with-link": "위키백과 앱의 최신 버전을 [$1 다운로드]하여 설치:",
 	"ipinfo-global-contributions-url-label": "전역 기여",
 	"wikimedia-projects-label": "위키미디어 프로젝트",
 	"wikimedia-help-translate-prompt": "번역을 돕고 싶으세요? [$1 아직 번역되지 않은 메시지를 번역해 보세요].",
