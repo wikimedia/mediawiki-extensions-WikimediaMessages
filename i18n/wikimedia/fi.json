@@ -32,7 +32,8 @@
 			"VezonThunder",
 			"Zache",
 			"Jack Phoenix",
-			"Valtlai"
+			"Valtlai",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -266,6 +267,7 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
 	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",
 	"protect-level-editautoreviewprotected": "Automaattiseulotut käyttäjät",
+	"action-docseditor": "muokata ohjeistusta",
 	"right-docseditor": "Muokata ohjeistusta",
 	"ipinfo-feedback-button-label": "Jätä palautetta",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Kyllä",
@@ -277,6 +279,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "En ole varma",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Tämä on Wikimedia Foundationin suorittama anonyymi kyselytutkimus. Voit [https://meta.wikimedia.org/wiki/Community_Safety lukea lisää] tai tarkistaa [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement tietosuojalausunnon].",
 	"gadget-souspages-subpages": "Alasivut",
+	"research-incentive-answer-positive": "Kyllä",
 	"research-incentive-confirm-msg": "Kiitos!",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset"
 }

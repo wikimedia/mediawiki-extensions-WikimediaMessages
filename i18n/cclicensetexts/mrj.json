@@ -6,11 +6,13 @@
 	},
 	"wm-license-cc-attribution": "Атрибуци",
 	"wm-license-cc-free": "Тӹнь ирӹкӹн кердӓт:",
-	"wm-license-cc-free-to-share-header": "пайылаш",
+	"wm-license-cc-free-to-share-header": "шӓрӹкӓлӓш",
 	"wm-license-cc-free-to-share-text": "Ти пӓшӓм копим ӹштӓш, шӓрӹкӓлӓш дӓ пуэн колташ",
-	"wm-license-cc-free-to-remix-header": "угӹц ӹштӓш",
+	"wm-license-cc-free-to-remix-header": "вашталтен угӹц ӹштӓш",
 	"wm-license-cc-free-to-remix-text": "ти пӓшӓм угӹц ӹштӓш",
-	"wm-license-cc-conditions": "Нӹнӹ условивлӓм кычымекы:",
+	"wm-license-cc-conditions": "Техень условивлӓм шоктымыкы:",
 	"wm-license-cc-conditions-attribution-header": "атрибуци",
-	"wm-license-cc-conditions-share_alike-header": "ик семӹнь пайылаш"
+	"wm-license-cc-conditions-attribution-text": "Тӹнь лицензилӓн ссылкым пуышаш дӓ вашталтымашым пуртымо ӓли уке манын пӓлдӓрӹшӓш ылат. Тидӹм керек-кузе ӹштен кердӓт, но лицензиар тӹньӹм ӓли ти произвденим кычылтметым ярыктышаш агыл.",
+	"wm-license-cc-conditions-share_alike-header": "ик семӹнь пайылаш",
+	"wm-license-cc-conditions-share_alike-text": "Тӹнь ремиксӹм ӹштет, материалым вашталтет ӓли виӓнгдет гӹнь, ӹшке материалвлӓэтӹм [https://creativecommons.org/share-your-work/licensing-considerations/тӹдӹ ганьок ӓли оригинал доно икань лицензим] кычылтын, шӓркӓлӹшӓшлык ылат."
 }

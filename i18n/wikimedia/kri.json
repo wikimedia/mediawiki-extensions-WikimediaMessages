@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Protostar"
+			"Protostar",
+			"122112ê"
 		]
 	},
 	"sitesupport": "Gi kòpò",
 	"tooltip-n-sitesupport": "Sùppòrt wi",
-	"wikimedia-developers": "Devèlòpardèm"
+	"wikimedia-developers": "Devèlòpardèm",
+	"wikimedia-statslink": "Statistik dɛn",
+	"wikimedia-cookiestatement": "Kuki stetmɛnt"
 }

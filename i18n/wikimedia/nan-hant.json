@@ -1,16 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"POSSUM chowg",
-			"Amire80"
+			"Winston Sung"
 		]
 	},
-	"sitesupport": "paɬach dala",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "kʰanawi humhum-mashin-tilixam",
-	"wikimedia-statslink": "k’winin-ikta",
-	"wikimedia-cookiestatement": "hayash wawa pus libiskwi"
+	"wikimedia-developers": "開發者",
+	"wikimedia-statslink": "統計"
 }
