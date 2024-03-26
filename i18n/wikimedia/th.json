@@ -279,6 +279,7 @@
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "ตรวจทานการแก้ไขได้อย่างมีประสิทธิภาพมากขึ้นโดยใช้ตัวกรอง เพิ่มความสามารถในการใช้ตัวกรอง การเน้นสีโดยผู้ใช้ และการปรับปรุงอื่น ๆ $1",
 	"eri-rcfilters-tour-intro-preferences-description": "เข้าถึงแท็บการเปลี่ยนแปลงล่าสุดในการตั้งค่าได้ตลอดเวลาเพื่อเลือกไม่รับการเปลี่ยนแปลงล่าสุดเวอร์ชันปรับปรุง",
 	"eri-rcfilters-tour-highlight-button": "ตกลง เข้าใจแล้ว",
+	"wikimedia-centralauth-contribs-locked": "บัญชีนี้ถูกล็อกข้ามโครงการ\nดูที่[[m:Special:CentralAuth/$1|รายละเอียดบัญชีส่วนกลาง]]สำหรับข้อมูลเพิ่มเติม",
 	"wikimedia-statslink": "สถิติ",
 	"wikimedia-cookiestatement": "นโยบายการใช้คุกกี้",
 	"ext-quicksurveys-performance-internal-survey-question": "หน้านี้โหลดเร็วพอหรือไม่?",
