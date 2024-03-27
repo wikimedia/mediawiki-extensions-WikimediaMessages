@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Brettchenweber"
+		]
 	},
 	"wm-commonstrings-aboutme": "Über mich",
 	"wm-commonstrings-activities": "Aktivitäten",
@@ -8,6 +10,7 @@
 	"wm-commonstrings-background": "Hintergrund",
 	"wm-commonstrings-bylaws": "Satzung",
 	"wm-commonstrings-closed": "Geschlossen",
+	"wm-commonstrings-conclusion": "Fazit",
 	"wm-commonstrings-connect": "Verbunden",
 	"wm-commonstrings-contacthuman": "Einen Menschen kontaktieren",
 	"wm-commonstrings-contactus": "Kontaktiere uns",
@@ -15,8 +18,8 @@
 	"wm-commonstrings-events": "Ereignisse",
 	"wm-commonstrings-externallinks": "Externe Links",
 	"wm-commonstrings-follow": "Folgen",
-	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hauptseite: $1|Hauptseiten: $1}}",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hauptartikel: $1}}",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hauptseite: $1|Hauptseiten: $1}}",
 	"wm-commonstrings-mywork": "Meine Arbeit",
 	"wm-commonstrings-news-events": "Neuigkeiten und Veranstaltungen",
 	"wm-commonstrings-noticeboard": "Schwarzes Brett",
@@ -26,11 +29,13 @@
 	"wm-commonstrings-overview": "Übersicht",
 	"wm-commonstrings-participate": "Teilnehmen",
 	"wm-commonstrings-please-remember": "Bitte denke daran: $1",
+	"wm-commonstrings-policies-guidelines": "Richtlinien und Leitlinien",
 	"wm-commonstrings-projects-collaborations": "Projekte und Kooperationen",
-	"wm-commonstrings-reports": "Berichte",
-	"wm-commonstrings-resolutions": "Entschlüsse",
+	"wm-commonstrings-purpose": "Zweck",
 	"wm-commonstrings-questions": "Fragen?",
 	"wm-commonstrings-register-account": "Account erstellen",
+	"wm-commonstrings-reports": "Berichte",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Beschluss|Beschlüsse}}",
 	"wm-commonstrings-scope": "Umfang",
 	"wm-commonstrings-seealso": "Siehe auch",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Kürzel}}",

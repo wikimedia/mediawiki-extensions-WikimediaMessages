@@ -396,8 +396,8 @@
 	"wikimedia-help-translate-prompt": "Quer ajudar a traduzir? [$1 Traduza as mensagens que faltam].",
 	"wikimedia-foundation-department-shortname-communications": "Comunicações",
 	"wikimedia-talkheader-civility": "Permanecer [[$1|civil e educado]] durante as discussões.",
-	"wikimedia-talkheader-signature": "[[$1|Assinar]] postagens usando os quatro tils (~~~~)",
 	"wikimedia-talkheader-pageprompt": "Esta página é para discussões relacionadas com a página de $1.",
+	"wikimedia-talkheader-signature": "[[$1|Assinar]] postagens usando os quatro tils (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Em caso de discrepância no significado ou na interpretação entre a versão original em inglês deste documento e uma versão traduzida, prevalecerá a versão original em inglês.",
 	"wikimedia-translation-disclaimer-withlink": "Em caso de discrepância no significado ou na interpretação entre a versão original em inglês deste documento e uma versão traduzida, prevalecerá a [[$1|versão original em inglês]]."
 }

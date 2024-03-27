@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
+			"Renessaince",
 			"Varnent"
 		]
 	},
@@ -17,6 +18,6 @@
 	"wm-commonstrings-reports": "Справаздачы",
 	"wm-commonstrings-scope": "Ахоп",
 	"wm-commonstrings-seealso": "Глядзіце таксама",
-	"wm-commonstrings-shortcut": "{{PLURAL:$1|Скарот|Скароты}}",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Скарот|Скароты|Скаротаў}}",
 	"wm-commonstrings-updates": "Абнаўленні"
 }

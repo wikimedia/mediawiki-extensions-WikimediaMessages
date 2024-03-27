@@ -13,6 +13,7 @@
 			"Varnent"
 		]
 	},
+	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=en",
 	"sitesupport": "ਦਾਨ",
 	"tooltip-n-sitesupport": "ਸਾਡੀ ਮਦਦ ਕਰੋ",
 	"wikimedia-copyright": "ਇਹ ਲਿਖਤ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਐਟਰੀਬਿਊਸ਼ਨ-ਸ਼ੇਅਰਅਲਾਈਕ ਲਸੰਸ ਤਹਿਤ ਉਪਲਬਧ ਹੈ</a>;\nਹੋਰ ਸ਼ਰਤਾਂ ਲਾਗੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।\nਹੋਰ ਜਾਣਕਾਰੀ ਲਈ</a>\nਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਵੇਖੋ<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">",
@@ -48,6 +49,9 @@
 	"wikibase-sitelinks-sitename-species": "ਵਿਕੀਕਿਸਮ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ਵਿਕੀਡਾਟਾ",
 	"wikimedia-otherprojects-cloudservices": "ਵਿਕਿਮੀਡੀਆ ਕਲਾਉਡ ਸੇਵਾਵਾਂ",
+	"wikimedia-taglines-commons": "ਮੁਫ਼ਤ ਮੀਡੀਆ ਸੰਗ੍ਰਹਿ",
+	"wikimedia-taglines-mediawiki": "ਮੁਫ਼ਤ ਅਤੇ ਖੁੱਲ੍ਹਾ ਵਿਕੀ ਸਾਫਟਵੇਅਰ",
+	"wikimedia-taglines-sources": "ਮੁਫ਼ਤ ਸਮੱਗਰੀ ਲਾਇਬ੍ਰੇਰੀ",
 	"wikimedia-taglines-wikidata": "ਮੁਫ਼ਤ ਗਿਆਨ ਅਧਾਰ",
 	"wikimedia-taglines-wikivoyage": "ਮੁਫ਼ਤ ਯਾਤਰਾ ਗਾਈਡ",
 	"createacct-captcha-help-url": "{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ",
@@ -60,5 +64,8 @@
 	"ext-quicksurveys-name": "ਤੇਜ਼ ਸਰਵੇਖਣ",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "ਤੁਹਾਡੇ ਫ਼ੀਡਬੈਕ ਲਈ ਮਿਹਰਬਾਨੀ।",
 	"wikimedia-projects-label": "ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟ",
-	"wikimedia-help-translate-prompt": "ਤਰਜਮਾ ਕਰਨ ਵਿਚ ਮਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? [$1 ਬਾਕੀ ਰਹਿੰਦੇ ਸੁਨੇਹਿਆਂ ਦਾ ਤਰਜਮਾ ਕਰੋ]।"
+	"wikimedia-help-translate-prompt": "ਤਰਜਮਾ ਕਰਨ ਵਿਚ ਮਦਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? [$1 ਬਾਕੀ ਰਹਿੰਦੇ ਸੁਨੇਹਿਆਂ ਦਾ ਤਰਜਮਾ ਕਰੋ]।",
+	"wikimedia-foundation-logo-label": "ਵਿਕੀਮੀਡੀਆ ਸੰਸਥਾ ਲੋਗੋ",
+	"wikimedia-foundation-contact-label": "ਵਿਕੀਮੀਡੀਆ ਸੰਸਥਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+	"wikimedia-foundation-contact-label-short": "ਸੰਸਥਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
 }

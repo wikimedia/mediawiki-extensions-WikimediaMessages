@@ -205,6 +205,6 @@
 	"wikimedia-foundation-department-shortname-communications": "संचार",
 	"wikimedia-foundation-department-shortname-legal": "कानूनी",
 	"wikimedia-talkheader-civility": "चर्चा के दौरान [[$1|सिविल और विनम्र]] बने रहें।",
-	"wikimedia-talkheader-signature": "[[$1|साइन]] चार टिल्ड का उपयोग करने वाली पोस्ट (~~~~)",
-	"wikimedia-talkheader-pageprompt": "यह पृष्ठ $1 पृष्ठ से संबंधित चर्चाओं के लिए है।"
+	"wikimedia-talkheader-pageprompt": "यह पृष्ठ $1 पृष्ठ से संबंधित चर्चाओं के लिए है।",
+	"wikimedia-talkheader-signature": "[[$1|साइन]] चार टिल्ड का उपयोग करने वाली पोस्ट (~~~~)"
 }

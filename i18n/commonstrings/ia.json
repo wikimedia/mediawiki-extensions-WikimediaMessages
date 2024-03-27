@@ -1,9 +1,43 @@
 {
 	"@metadata": {
 		"authors": [
+			"McDutchie",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-aboutme": "A proposito de me",
+	"wm-commonstrings-activities": "Activitates",
+	"wm-commonstrings-agenda": "Agenda",
 	"wm-commonstrings-background": "Contexto",
-	"wm-commonstrings-resolutions": "Resolutiones"
+	"wm-commonstrings-bylaws": "Statutos",
+	"wm-commonstrings-closed": "Claudite",
+	"wm-commonstrings-connect": "Connecter",
+	"wm-commonstrings-contacthuman": "Contactar un humano",
+	"wm-commonstrings-contactus": "Contactar nos",
+	"wm-commonstrings-enterquestion": "Insere tu question.",
+	"wm-commonstrings-events": "Eventos",
+	"wm-commonstrings-externallinks": "Ligamines externe",
+	"wm-commonstrings-follow": "Sequer",
+	"wm-commonstrings-mainarticle-prompt": "Articulo{{PLURAL:$2||s}} principal: $1",
+	"wm-commonstrings-mainpage-prompt": "Pagina{{PLURAL:$2||s}} principal: $1",
+	"wm-commonstrings-mywork": "Mi travalio",
+	"wm-commonstrings-news-events": "Novas e eventos",
+	"wm-commonstrings-noticeboard": "Pannello de notitias",
+	"wm-commonstrings-objectives": "Objectivos",
+	"wm-commonstrings-ongoing": "In curso",
+	"wm-commonstrings-open": "Aperte",
+	"wm-commonstrings-overview": "Vista general",
+	"wm-commonstrings-participate": "Participar",
+	"wm-commonstrings-please-remember": "Non oblida: $1",
+	"wm-commonstrings-projects-collaborations": "Projectos e collaborationes",
+	"wm-commonstrings-questions": "Questiones?",
+	"wm-commonstrings-register-account": "Crear conto",
+	"wm-commonstrings-reports": "Reportos",
+	"wm-commonstrings-resolutions": "Resolution{{PLURAL:$1||es}}",
+	"wm-commonstrings-scope": "Portata",
+	"wm-commonstrings-seealso": "Vide etiam",
+	"wm-commonstrings-shortcut": "Accesso{{PLURAL:$1||s}} directe",
+	"wm-commonstrings-staff": "Personal",
+	"wm-commonstrings-talktous": "Parlar a nos",
+	"wm-commonstrings-updates": "Actualisar"
 }

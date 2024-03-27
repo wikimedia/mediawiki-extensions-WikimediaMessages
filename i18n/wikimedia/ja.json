@@ -404,8 +404,8 @@
 	"wikimedia-foundation-department-shortname-communications": "コミュニケーション部門",
 	"wikimedia-nutshell-page-intro": "このページの要旨： $1",
 	"wikimedia-talkheader-civility": "討議にあたっては[[$1|良き市民として敬意を大切に]]した言動をお願いします。",
-	"wikimedia-talkheader-signature": "[[$1|署名]]はチルダ記号4個で添えること (~~~~)",
 	"wikimedia-talkheader-pageprompt": "このページでは、$1ページに関する討議を行います。",
+	"wikimedia-talkheader-signature": "[[$1|署名]]はチルダ記号4個で添えること (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、英語版の原文が優先されますので、ご注意ください。",
 	"wikimedia-translation-disclaimer-withlink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、[[$1|英語版の原文]]が優先されますので、ご注意ください。"
 }

@@ -323,6 +323,6 @@
 	"wikimedia-foundation-department-shortname-communications": "Komunikace",
 	"wikimedia-nutshell-page-intro": "Tato stránka v kostce: $1",
 	"wikimedia-talkheader-civility": "Během diskuze zůstaňte [[$1|slušní a zdvořilí]].",
-	"wikimedia-talkheader-signature": "[[$1|Podepisujte]] své příspěvky pomocí čtyř vlnovek (~~~~)",
-	"wikimedia-talkheader-pageprompt": "Tato stránka je určena pro diskuse týkající se stránky $1."
+	"wikimedia-talkheader-pageprompt": "Tato stránka je určena pro diskuse týkající se stránky $1.",
+	"wikimedia-talkheader-signature": "[[$1|Podepisujte]] své příspěvky pomocí čtyř vlnovek (~~~~)"
 }

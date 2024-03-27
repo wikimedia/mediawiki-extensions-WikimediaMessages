@@ -234,8 +234,8 @@
 	"wikimedia-foundation-department-shortname-communications": "Kommunikáció",
 	"wikimedia-foundation-department-shortname-legal": "Jogi ügyek",
 	"wikimedia-talkheader-civility": "[[$1|Viselkedj civilizáltan]] a megbeszélések során.",
-	"wikimedia-talkheader-signature": "[[$1|Írd alá]] a hozzászólásaidat négy hullámvonallal (~~~~)",
 	"wikimedia-talkheader-pageprompt": "Ez a(z) $1 lapon szükséges változtatások megbeszélésére szolgáló vitalap.",
+	"wikimedia-talkheader-signature": "[[$1|Írd alá]] a hozzászólásaidat négy hullámvonallal (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Felhívjuk figyelmét, hogy a dokumentum eredeti angol verziójának és a fordításnak a jelentésében vagy értelmezésében fennálló eltérések esetén az eredeti angol változat az irányadó.",
 	"wikimedia-translation-disclaimer-withlink": "Felhívjuk figyelmét, hogy a dokumentum eredeti angol verziójának és a fordításnak a jelentésében vagy értelmezésében fennálló eltérések esetén az [[$1|eredeti angol változat]] az irányadó."
 }

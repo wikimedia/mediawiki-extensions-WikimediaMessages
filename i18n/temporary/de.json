@@ -13,6 +13,7 @@
 	"group-oversight-member": "{{GENDER:$1|Oversighter|Oversighterin}}",
 	"hello": "Hallo",
 	"please-translate": "Hilf bitte mit, in deine Sprache zu übersetzen",
+	"please-translate-short": "Hilf beim Übersetzen",
 	"thank-you": "{{GENDER:$1|Vielen Dank.}}",
 	"specialblockfeedback": "Rückmeldung",
 	"specialinvestigate-feedback": "Rückmeldung geben",

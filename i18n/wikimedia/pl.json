@@ -354,8 +354,8 @@
 	"wikimedia-foundation-department-shortname-communications": "Komunikacja",
 	"wikimedia-nutshell-page-intro": "Ta strona w pigułce: $1",
 	"wikimedia-talkheader-civility": "Uczestnicz w dyskusji [[$1|w uprzejmy sposób]].",
-	"wikimedia-talkheader-signature": "[[$1|Podpisywaniu]] wypowiedzi czterema tyldami (~~~~)",
 	"wikimedia-talkheader-pageprompt": "Ta strona służy do prowadzenia dyskusji związanych ze stroną $1.",
+	"wikimedia-talkheader-signature": "[[$1|Podpisywaniu]] wypowiedzi czterema tyldami (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie treść w języku angielskim.",
 	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]]."
 }

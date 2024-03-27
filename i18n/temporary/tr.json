@@ -16,6 +16,7 @@
 	"group-oversight-member": "{{GENDER:$1|gözetmen}}",
 	"hello": "Merhaba",
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
+	"please-translate-short": "Çeviriye yardım edin",
 	"thank-you": "{{GENDER:$1|Teşekkürler.}}",
 	"specialblockfeedback": "Geri bildirim",
 	"specialinvestigate-feedback": "Geri Bildirim Bırak",

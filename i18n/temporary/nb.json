@@ -10,6 +10,7 @@
 	"group-oversight-member": "{{GENDER:$1|revisjonssletter}}",
 	"hello": "Hallo",
 	"please-translate": "Hjelp til med å oversette til ditt språk",
+	"please-translate-short": "Hjelp til med oversetting",
 	"thank-you": "{{GENDER:$1|Takk.}}",
 	"specialblockfeedback": "Tilbakemelding",
 	"specialinvestigate-feedback": "Gi tilbakemelding",

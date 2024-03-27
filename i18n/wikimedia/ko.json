@@ -341,8 +341,8 @@
 	"wikimedia-foundation-department-shortname-communications": "커뮤니케이션",
 	"wikimedia-nutshell-page-intro": "이 내용을 요약하면： $1",
 	"wikimedia-talkheader-civility": "토론하는 동안에 [[$1|예의와 공손함]]을 유지해 주세요.",
-	"wikimedia-talkheader-signature": "네 개의 물결 표시(~~~~)를 사용하여 [[$1|서명]]을 하세요.",
 	"wikimedia-talkheader-pageprompt": "이 페이지는 $1 페이지와 관련된 토론을 위한 것입니다.",
+	"wikimedia-talkheader-signature": "네 개의 물결 표시(~~~~)를 사용하여 [[$1|서명]]을 하세요.",
 	"wikimedia-translation-disclaimer-nolink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, 영어 원본이 우선한다는 점을 주의하십시오.",
 	"wikimedia-translation-disclaimer-withlink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, [[$1|영어 원본]]이 우선한다는 점을 주의하십시오."
 }

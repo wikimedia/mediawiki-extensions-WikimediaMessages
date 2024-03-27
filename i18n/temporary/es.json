@@ -5,6 +5,7 @@
 			"Armando-Martin",
 			"Clarkcj12",
 			"Dmaza",
+			"Eulalio",
 			"Fitoschido",
 			"Kroji",
 			"Macofe",
@@ -20,6 +21,7 @@
 	"group-oversight-member": "{{GENDER:$1|supresor|supresora}}",
 	"hello": "Hola",
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
+	"please-translate-short": "Ayuda en la traducción",
 	"thank-you": "{{GENDER:$1|Gracias.}}",
 	"specialblockfeedback": "Sugerencias",
 	"specialinvestigate-feedback": "Dejar comentarios"

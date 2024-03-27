@@ -237,7 +237,7 @@
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.ar رخصة المشاع الإبداعي المُلزِمة بنسب العمل للمؤلِّف وبترخيص المشتقات بالمثل 4.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] و[https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikifunctions-site-footer-copyright": "تتوفر جميع تعريفات الوظائف والتسميات والوثائق في النطاق الرئيسي ضمن <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">رخصة المشاع الإبداعي CC0</a>. تتوفر جميع أجزاء التعليمات البرمجية وعمليات التنفيذ في النطاق الرئيسي ضمن <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">رخصة أباتشي 2.0</a>. النصوص الموجودة في نطاقات أخرى متاحة تحت <a href=\"//creativecommons.org/licenses/by-sa/4.0/\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">\nرخصة المشاع الإبداعي النسبة-الترخيص بالمثل</a>، قد تُطبّق شروط إضافية. استخدامك لهذا الموقع هو موافقةٌ على <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">شروط الاستخدام/a> و<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\"> سياسة الخصوصية.</a>",
-	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|أهلاً بك}}، $1!",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|مرحبّا}}، $1!",
 	"wikibase-repo-name": "ويكي بيانات",
 	"wikibase-page-schema-publisher-name": "مؤسسة ويكيميديا",
 	"wikibase-page-schema-author-name": "المساهمون في مشاريع ويكيميديا",
@@ -391,8 +391,8 @@
 	"wikimedia-foundation-department-shortname-legal": "قانوني",
 	"wikimedia-nutshell-page-intro": "هذه الصفحة باختصار: $1",
 	"wikimedia-talkheader-civility": "يرجى التحلي [[$1|بالأدب واللباقة]] أثناء النقاش.",
-	"wikimedia-talkheader-signature": "[[$1|التوقيع]] على المنشورات مستخدما المدات الأربع (~~~~)",
 	"wikimedia-talkheader-pageprompt": "هذه الصفحة مخصصة لنقاش متعلق بصفحة $1.",
+	"wikimedia-talkheader-signature": "[[$1|التوقيع]] على المنشورات مستخدما المدات الأربع (~~~~)",
 	"wikimedia-foundation-footer-description-short": "مؤسسة ويكيميديا هي منظمة غير ربحية تدعم ويكيبيديا ، وغيرها من مشاريع المعرفة المجانية في ويكيميديا ، ومهمتنا المعرفة المجانية لكل شخص",
 	"wikimedia-translation-disclaimer-nolink": "يرجى ملاحظة أنه في حال وجود اختلافات في المعنى أو التفسير بين النص الإنجليزي الأصلي لهذه الوثيقة وترجمتها، تعطى الأولوية للنص الإنجليزي الأصلي.",
 	"wikimedia-translation-disclaimer-withlink": "يرجى ملاحظة أنه في حال وجود اختلافات في المعنى أو التفسير بين النص الإنجليزي الأصلي لهذه الوثيقة وترجمتها، تعطى الأولوية [[$1|للنص الإنجليزي الأصلي]]."

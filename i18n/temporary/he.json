@@ -15,6 +15,7 @@
 	"group-oversight-member": "{{GENDER:$1|מסתיר|מסתירה}}",
 	"hello": "שלום",
 	"please-translate": "אנא סייעו בתרגום הדף",
+	"please-translate-short": "עזרו לנו לתרגם",
 	"thank-you": "{{GENDER:$1|תודה רבה.}}",
 	"specialblockfeedback": "משוב",
 	"specialinvestigate-feedback": "תנו לנו משוב",

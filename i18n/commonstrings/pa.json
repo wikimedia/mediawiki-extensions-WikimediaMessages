@@ -1,20 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kuldeepburjbhalaike",
 			"Nikki",
 			"Varnent"
 		]
 	},
 	"wm-commonstrings-activities": "ਗਤੀਵਿਧੀਆਂ",
 	"wm-commonstrings-background": "ਪਿਛੋਕੜ",
+	"wm-commonstrings-conclusion": "ਸਿੱਟਾ",
 	"wm-commonstrings-events": "ਸਮਾਗਮ",
 	"wm-commonstrings-noticeboard": "ਸੂਚਨਾ ਤਖ਼ਤਾ",
 	"wm-commonstrings-objectives": "ਟੀਚਾ",
 	"wm-commonstrings-overview": "ਸੰਖੇਪ",
 	"wm-commonstrings-participate": "ਹਿੱਸਾ ਲਓ",
-	"wm-commonstrings-reports": "ਰਿਪੋਰਟਾਂ",
+	"wm-commonstrings-policies-guidelines": "ਨੀਤੀਆਂ ਅਤੇ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼",
+	"wm-commonstrings-purpose": "ਮਕਸਦ",
 	"wm-commonstrings-questions": "ਸਵਾਲ?",
 	"wm-commonstrings-register-account": "ਖਾਤਾ ਰਜਿਸਟਰ ਕਰੋ",
+	"wm-commonstrings-reports": "ਰਿਪੋਰਟਾਂ",
 	"wm-commonstrings-scope": "ਕਾਰਜ ਖੇਤਰ",
 	"wm-commonstrings-seealso": "ਹੋਰ ਵੇਖੋ",
 	"wm-commonstrings-updates": "ਅੱਪਡੇਟ"

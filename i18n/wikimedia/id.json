@@ -403,8 +403,8 @@
 	"wikimedia-help-translate-prompt": "Ingin membantu menerjemahkan? [$1 Terjemahkan pesan yang belum ada].",
 	"wikimedia-nutshell-page-intro": "Ringkasan halaman ini: $1",
 	"wikimedia-talkheader-civility": "Jaga [[$1|kesopanan]] selama berdiskusi.",
-	"wikimedia-talkheader-signature": "[[$1|tanda tangani]] komentar anda menggunakan empat tilde (~~~~)",
 	"wikimedia-talkheader-pageprompt": "Halaman ini untuk diskusi yang berhubungan dengan halaman $1.",
+	"wikimedia-talkheader-signature": "[[$1|tanda tangani]] komentar anda menggunakan empat tilde (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Harap ingat bahwa jika ada perbedaan dalam arti atau interpretasi antara versi bahasa Inggris asli dari pedoman ini dan terjemahannya, versi bahasa Inggris lah yang akan diutamakan.",
 	"wikimedia-translation-disclaimer-withlink": "Harap ingat bahwa jika ada perbedaan dalam arti atau interpretasi antara versi bahasa Inggris asli dari pedoman ini dan terjemahannya, [[$1|versi bahasa Inggris]] lah yang akan diutamakan.",
 	"wikimedia-talk-archive-page-intro": "Ini adalah '''arsip''' diskusi lawas. '''Jangan sunting halaman ini.''' Jika Anda ingin memulai diskusi baru atau menghidupkan kembali diskusi lama, harap lakukan di [[$1|halaman pembicaraan saat ini]]."
