@@ -45,12 +45,9 @@
 	},
 	"ResourceModules": {
 		"ext.wikimediamessages.contactpage": {
-			"localBasePath": "modules/ext.wikimediamessages.contactpage",
-			"remoteExtPath": "WikimediaMessages/modules/ext.wikimediamessages.contactpage",
-			"styles": [
-				"affcomchapthorg.css",
-				"affcomusergroup.css"
-			]
+			"localBasePath": "modules",
+			"remoteExtPath": "WikimediaMessages/modules",
+			"styles": "contactpage.css"
 		},
 		"mediawiki.special.block.feedback.request": {
 			"localBasePath": "modules",
