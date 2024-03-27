@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ekminarin"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|ผสาน}}บัญชีผู้ใช้ \"$4\" ($5) เข้ากับ {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|ลบ}}บัญชีผู้ใช้ \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "ประเภทของการกระทำ:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "การผสานบัญชีผู้ใช้",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "การลบบัญชีผู้ใช้",
+	"wikimedia-usermerge-logpage": "ปูมการผสานผู้ใช้",
+	"wikimedia-usermerge-logpagetext": "นี่คือปูมการผสานผู้ใช้"
+}

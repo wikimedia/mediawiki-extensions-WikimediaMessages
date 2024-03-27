@@ -19,7 +19,7 @@
 	"group-bigexport-member": "barraa exporter",
 	"grouppage-bigexport": "{{ns:project}}:Barraa exporter kare waala",
 	"group-uploader-member": "uploader",
-	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyright": "Jon text aap ke khaatir hae <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a> ke niche; saait aur sart bhi rahii.\n<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> ke dekho details ke khaatir.",
 	"wikimedia-copyrightwarning": "Badlao bachae se, aap maantaa hai [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Swagat}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
@@ -29,6 +29,7 @@
 	"cant-delete-main-page": "Aap pahila pana ke mitae nai to hatae nai saktaa hae",
 	"wikimedia-developers": "Banae waala log",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 block karis hai ($2).\nKaaran hai ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nAap ke IP address hai $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) iske block karis hae.\nKaaran hae ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Aakrraa",
 	"wikimedia-cookiestatement": "Cookie ke baare me"
 }

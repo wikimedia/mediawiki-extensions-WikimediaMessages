@@ -9,7 +9,8 @@
 			"Mahdy Saffar",
 			"Nemo bis",
 			"Reza1615",
-			"Rtemis"
+			"Rtemis",
+			"Ebraminio"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "مخاطبان این ویکی در روز گذشته {{PLURAL:$1|حساب کاربری}} با استفاده از نشانی آی‌پی شما ایجاد کرده‌اند، که این تعداد، حداکثر تعداد مجاز در این بازهٔ زمانی است.\nدر نتیجه، مخاطبانی که از این نشانی آی‌پی استفاده می‌کنند در حال حاضر قادر به ایجاد حساب‌های بیشتر نیستند.\nاگر شما در رویدادی قرار دارید که بر مشارکت در پروژه‌های ویکی‌مدیا متمرکز است، برای حل این مشکل لطفاً [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|درخواست برداشتن موقت سرپوش آی‌پی]] را ببینید.",
@@ -17,10 +18,10 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "شما می‎توانید صفحه ترجیحات خودتان را در [[m:Special:CentralAuth/$1|پروژه‌های دیگر ویکی‌مدیا که مشارکت داشتید]] مشاهده کنید تا داده حساب خودتان از این پروژه‌ها بارگیری کنید.",
 	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|یک حساب درخواست کنید]]",
 	"wikimedia-centralauth-groupname": "بنیاد ویکی‌مدیا",
-	"wikimedia-centralauth-login-error-locked": "<strong>این حساب کاربری [[m:Special:MyLanguage/Global locks|به‌صورت سراسری قفل شده‌است]].</strong>\n{{GENDER:$1|شما}} قادر به ورود به هیچ‌یک از ویکی‌های ویکی‌مدیا نخواهید بود. اگر هرگونه سؤالی {{GENDER:$1|دارید}}، لطفاً [[m:Special:Contact/stewards|با ویکی‌بدها تماس بگیرید]].",
+	"wikimedia-centralauth-login-error-locked": "<strong>این حساب کاربری [[m:Special:MyLanguage/Global locks|به‌صورت سراسری قفل شده است]].</strong>\n{{GENDER:$1|شما}} قادر به ورود به هیچ‌یک از ویکی‌های ویکی‌مدیا نخواهید بود. اگر هرگونه سؤالی {{GENDER:$1|دارید}}، لطفاً [[m:Special:Contact/stewards|با ویکی‌بدها تماس بگیرید]].",
 	"createacct-helpusername-url": "{{ns:Project}}:سیاست_نام_کاربری",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 global مشارکت‌ها] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} بازرسی‌ها] • [{{fullurl:Special:Block/$1}} قطع دسترسی محلی] یا [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 قطع دسترسی سراسری] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 بررسی نشانگر پروکسی] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
-	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است، بیش از $1 ویرایش. حذف صفحات دارای تاریخچهٔ پر ویرایش محدود شده‌است تا از به‌هم‌ریختگی اتفاقی {{SITENAME}} جلوگیری شود.\nبرای درخواست حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
+	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است، بیش از $1 ویرایش. حذف صفحات دارای تاریخچهٔ پر ویرایش محدود شده است تا از به‌هم‌ریختگی اتفاقی {{SITENAME}} جلوگیری شود.\nبرای درخواست حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
 	"wikimedia-discussiontools-replywidget-terms-click": "با کلیک روی «$1»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفادهٔ ما] را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان {{PLURAL:$3|تحت}} $2 موافقت می‌کنید.",
 	"wikimedia-feedback-termsofuse": "من موافقت می‌کنم یک بازخورد برای <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Terms of Use</a> تهیه شود.",
 	"wikimedia-flow-terms-of-use-new-topic": "با کلیک روی «{{int:flow-newtopic-save}}»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان تحت [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",
@@ -31,7 +32,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "با کلیک روی «{{int:flow-topic-action-unlock-topic}}»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان تحت [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید",
 	"wikimedia-globalrenamequeue-email-body-approved": "درخواست برای تغییر نام \"{{GENDER:$1|$1}}\" به \"{{GENDER:$1|$2}}\" تأیید شده است. به محض کامل شدن شما می‌توانید با استفاده از نام کاربری جدیدتان و رمز عبور قبلی‌تان وارد شوید. از اینکه در پروژه‌های ویکی‌مدیا مشارکت می‌کنید سپاسگذاریم.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "انجام درخواست تغییرنام \"{{GENDER:$1|$1}}\" به \"{{GENDER:$1|$2}}\" مقدور نیست.\n\nنکته:$3\n\nبرای اطلاعات بیشتر صفحه راهنمای زیر را مطالعه کنید:\n<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. برای بحث در مورد درخواست تغییرنام در صفحهٔ <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes> بنویسید. باید با حساب کاربریتان به سامانه وارد شده‌باشید.",
-	"wikimedia-interfaceadmin-info": "\n$1\n\nدسترسی‌ها برای ویرایش فایل‌های CSS/JS/JSON که اخیراً از دسترسی <code>editinterface</code> جدا شده‌اند. اگر نمی دانید که چرا این خطا رخ داده‌است [[mw:MediaWiki_1.32/interface-admin]] را مطالعه کنید.",
+	"wikimedia-interfaceadmin-info": "\n$1\n\nدسترسی‌ها برای ویرایش فایل‌های CSS/JS/JSON که اخیراً از دسترسی <code>editinterface</code> جدا شده‌اند. اگر نمی دانید که چرا این خطا رخ داده است [[mw:MediaWiki_1.32/interface-admin]] را مطالعه کنید.",
 	"wikimedia-mwoauthserver-invalid-user": "وارد شدن شما به حساب سراسری با مشکل مواجه شد. چنانچه به تازگی حساب کاربری‌تان را ایجاد کرده‌اید یک بار خارج شده و دوباره وارد شوید. چنانچه این حساب کاربری را از قبل دارید، از [https://meta.wikimedia.org/ meta.wikimedia.org] بازدید کنید. (کد خطا: E008)",
 	"wikimedia-sitematrix": "فهرست ویکی‌های ویکی‌مدیا",
 	"wikimedia-sitematrix-others": "دیگر پروژه‌های ویکی‌مدیا",
