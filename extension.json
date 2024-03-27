@@ -44,6 +44,11 @@
 		"MediaWiki\\Extension\\WikimediaMessages\\": "includes/"
 	},
 	"ResourceModules": {
+		"ext.wikimediamessages.styles": {
+			"localBasePath": "modules/ext.wikimediamessages.styles",
+			"remoteExtPath": "WikimediaMessages/modules/ext.wikimediamessages.styles",
+			"class": "MediaWiki\\Extension\\WikimediaMessages\\SiteAdminHelperModule"
+		},
 		"ext.wikimediamessages.contactpage": {
 			"localBasePath": "modules",
 			"remoteExtPath": "WikimediaMessages/modules",
@@ -70,6 +75,9 @@
 		}
 	},
 	"Hooks": {
+		"BeforePageDisplay": {
+			"handler": "WikimediaMessagesHooks"
+		},
 		"MessageCacheFetchOverrides": {
 			"handler": "WikimediaMessagesHooks"
 		},
@@ -118,6 +126,10 @@
 		"wikimedia-messages": "GlobalVarConfig::newInstance"
 	},
 	"config": {
+		"WikimediaStylesSkins": {
+			"value": [],
+			"description": "Define skins that should get Wikimedia styles. Empty by default to faciliate gradual roll out."
+		},
 		"WikimediaMessagesLicensing": {
 			"value": "standard",
 			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'mediawiki', 'wikidata', 'wikinews', 'wikifunctions'"

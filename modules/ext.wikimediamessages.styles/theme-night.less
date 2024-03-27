@@ -1,0 +1,102 @@
+@import 'mediawiki.skin.variables.less';
+@import 'mixins.less';
+
+/* TODO: Check matches https://github.com/wikimedia/mediawiki-skins-MinervaNeue/blob/master/resources/skins.minerva.base.styles/content/hacks.less#L188 onwards
+before merging. */
+
+/* T358385 */
+[ bgcolor ] {
+	// Important: this should correspond with the light mode theme version of color-base
+	color: #333;
+}
+
+html.skin-theme-clientpref-night {
+	// These colors become !important in night mode to avoid color contrast issues.
+	.hatnote:not( .notheme ),
+	.dablink:not( .notheme ),
+	.rellink:not( .notheme ),
+	.infobox:not( .notheme ) {
+		color: @color-base !important;
+		background-color: @background-color-interactive-subtle !important;
+	}
+
+	/* T357453 - attempt to strip colors from the majority of infoboxes in night mode (unless notheme specified) */
+	// please forgive me for bypassing the linter there is no easy way to keep all of the infobox classes grouped without
+	.infobox td,
+	.infobox th,
+	.infobox-above,
+	/* itwiki */
+	.sinottico th,
+	.infobox-header,
+	/* T358164 General case that templates/extensions can opt into */
+	.skin-nightmode-reset-color,
+	.navigation-box,
+	.metadata,
+	/* T357735 */
+	.quotebox,
+	/* T357726 */
+	.side-box,
+	.side-box div,
+	/* T358012 */
+	.navbox,
+	.navbox-subgroup,
+	.navbox-group,
+	.navbox-even,
+	.navbox-abovebelow,
+	.navbox-title {
+		&:not( .notheme ) {
+			.night-mode-strip-all-colors-when-safe();
+		}
+	}
+
+	// T358797 - if a background color is specified, assume they wanted the day mode font color
+	.mw-parser-output [ style*='background' ] {
+		color: #333; // not !important so that if a color is also specified it will take priority
+	}
+}
+
+@media ( prefers-color-scheme: dark ) {
+	html.skin-theme-clientpref-os {
+		/* T357453 */
+		.infobox td,
+		.infobox th,
+		.infobox-above,
+		/* itwiki */
+		.sinottico th,
+		.infobox-header,
+		/* T358164 General case that templates/extensions can opt into */
+		.skin-nightmode-reset-color,
+		.navigation-box,
+		.metadata,
+		/* T357735 */
+		.quotebox,
+		/* T357726 */
+		.side-box,
+		.side-box div,
+		/* T358012 */
+		.navbox,
+		.navbox-subgroup,
+		.navbox-group,
+		.navbox-even,
+		.navbox-abovebelow,
+		.navbox-title {
+			&:not( .notheme ) {
+				.night-mode-strip-all-colors-when-safe();
+			}
+		}
+
+		// These colors become !important in night mode to avoid color contrast issues.
+		.hatnote:not( .notheme ),
+		.dablink:not( .notheme ),
+		.rellink:not( .notheme ),
+		.infobox:not( .notheme ) {
+			color: @color-base !important;
+			background-color: @background-color-interactive-subtle !important;
+		}
+
+		// T358797 - if a background color is specified, assume they wanted the day mode font color
+		.mw-parser-output [ style*='background' ] {
+			color: #333; // not !important so that if a color is also specified it will take priority
+		}
+	}
+}

@@ -16,6 +16,7 @@ use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Extension\GuidedTour\GuidedTourLauncher;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
+use MediaWiki\Hook\BeforePageDisplayHook;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
@@ -23,6 +24,7 @@ use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
 use MediaWiki\MediaWikiServices;
+use MediaWiki\Output\OutputPage;
 use MediaWiki\Preferences\Hook\GetPreferencesHook;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
@@ -49,6 +51,7 @@ use Wikimedia\IPUtils;
  * @ingroup Extensions
  */
 class Hooks implements
+	BeforePageDisplayHook,
 	ChangesListSpecialPageStructuredFiltersHook,
 	EditPageCopyrightWarningHook,
 	GetPreferencesHook,
@@ -1747,6 +1750,20 @@ class Hooks implements
 				ORESHookHelpers::isModelEnabled( 'damaging' )
 				|| ORESHookHelpers::isModelEnabled( 'goodfaith' )
 			);
+	}
+
+	/**
+	 * Allows last minute changes to the output page, e.g. adding of CSS or JavaScript by extensions.
+	 *
+	 * @param OutputPage $out The Output page object
+	 * @param Skin $skin Skin object that will be used to generate the page
+	 */
+	public function onBeforePageDisplay( $out, $skin ): void {
+		$skins = $out->getConfig()->get( 'WikimediaStylesSkins' );
+
+		if ( in_array( $skin->getSkinName(), $skins ) ) {
+			$out->addModuleStyles( [ 'ext.wikimediamessages.styles' ] );
+		}
 	}
 
 	/**
