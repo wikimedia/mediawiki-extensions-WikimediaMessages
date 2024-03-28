@@ -36,7 +36,7 @@
 	"wm-commonstrings-questions": "Прашања?",
 	"wm-commonstrings-register-account": "Направи сметка",
 	"wm-commonstrings-reports": "Извештаи",
-	"wm-commonstrings-resolutions": "Одлуки",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Одлука|Одлуки}}",
 	"wm-commonstrings-scope": "Делокруг",
 	"wm-commonstrings-seealso": "Поврзано",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Кратенка|Кратенки}}",

@@ -24,9 +24,10 @@
 	"wm-commonstrings-please-remember": "Не заборавите да: $1",
 	"wm-commonstrings-policies-guidelines": "Политике и смернице",
 	"wm-commonstrings-projects-collaborations": "Пројекти и сарадња",
+	"wm-commonstrings-purpose": "Сврха",
 	"wm-commonstrings-questions": "Питања?",
 	"wm-commonstrings-reports": "Извештаји",
-	"wm-commonstrings-resolutions": "Резолуције",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Резолуција|Резолуције}}",
 	"wm-commonstrings-scope": "Делокруг",
 	"wm-commonstrings-seealso": "Види још",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Пречица|Пречице}}"

@@ -13,6 +13,7 @@
 	"group-oversight-member": "{{GENDER:$1|nəzarətçi}}",
 	"hello": "Salam",
 	"please-translate": "Zəhmət olmasa dilinizə tərcümə etməyə kömək edin",
+	"please-translate-short": "Tərcüməyə kömək edin",
 	"thank-you": "{{GENDER:$1|Təşəkkürlər.}}",
 	"specialblockfeedback": "Rəy",
 	"specialinvestigate-feedback": "Fikrinizi bildirin",
