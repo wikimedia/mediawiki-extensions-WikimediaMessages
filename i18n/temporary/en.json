@@ -2,7 +2,6 @@
 	"@metadata": {
 		"authors": []
 	},
-	"wikimediamessages-desc": "Wikimedia specific temporary messages",
 	"grouppage-oversight": "{{ns:project}}:Oversight",
 	"group-oversight": "Oversighters",
 	"group-oversight-member": "{{GENDER:$1|oversight}}",
