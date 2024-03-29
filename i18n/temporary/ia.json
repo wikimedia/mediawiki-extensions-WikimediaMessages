@@ -4,12 +4,12 @@
 			"McDutchie"
 		]
 	},
-	"wikimediamessages-desc": "Messages temporari specific de Wikimedia",
 	"grouppage-oversight": "{{ns:project}}:Supervisor",
 	"group-oversight": "Supervisores",
 	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora|supervisor(a)}}",
 	"hello": "Salute",
 	"please-translate": "Per favor, adjuta a traducer in tu lingua",
+	"please-translate-short": "Adjutar a traducer",
 	"thank-you": "{{GENDER:$1|Gratias.}}",
 	"specialblockfeedback": "Commentario",
 	"specialinvestigate-feedback": "Dar nos tu opinion",

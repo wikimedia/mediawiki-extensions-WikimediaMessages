@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Brettchenweber"
+			"Brettchenweber",
+			"TomatoCake"
 		]
 	},
 	"wm-commonstrings-aboutme": "Über mich",
@@ -29,7 +30,7 @@
 	"wm-commonstrings-overview": "Übersicht",
 	"wm-commonstrings-participate": "Teilnehmen",
 	"wm-commonstrings-please-remember": "Bitte denke daran: $1",
-	"wm-commonstrings-policies-guidelines": "Richtlinien und Leitlinien",
+	"wm-commonstrings-policies-guidelines": "Richt- und Leitlinien",
 	"wm-commonstrings-projects-collaborations": "Projekte und Kooperationen",
 	"wm-commonstrings-purpose": "Zweck",
 	"wm-commonstrings-questions": "Fragen?",
