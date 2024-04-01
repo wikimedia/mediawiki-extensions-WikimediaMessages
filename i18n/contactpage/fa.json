@@ -6,7 +6,8 @@
 			"Ladsgroup",
 			"Mjbmr",
 			"Reza1615",
-			"Rtemis"
+			"Rtemis",
+			"Ebraminio"
 		]
 	},
 	"contactpage-title-requestlicense": "فرم درخواست مجوز",
@@ -37,10 +38,10 @@
 	"contactpage-wikimedia-trademark-wikisource": "ویکی‌نبشته",
 	"contactpage-wikimedia-trademark-wiktionary": "ویکی‌واژه",
 	"contactpage-title-licenseabuse": "فرم گزارش نقض حق تکثیر",
-	"contactpage-pagetext-licenseabuse": "لطفاً فرم زیر را برای گزارش مواردی که ممکن است از نمادهای تجاری ویکی‌مدیا به نادرست استفاده شده‌است، پر کنید.",
+	"contactpage-pagetext-licenseabuse": "لطفاً فرم زیر را برای گزارش مواردی که ممکن است از نمادهای تجاری ویکی‌مدیا به نادرست استفاده شده است، پر کنید.",
 	"contactpage-subject-licenseabuse": "آگاه‌سازی برای سواستفاده از نشان مدیاویکی",
 	"contactpage-license-abuse-description": "سواستفاده را توضیح دهید",
-	"contactpage-license-abuse-selectmark": "از کدام نشان سواستفاده شده‌است؟",
+	"contactpage-license-abuse-selectmark": "از کدام نشان سواستفاده شده است؟",
 	"contactpage-license-abuse-location": "مکان سواستفاده (آنلاین/آفلاین)",
 	"contactpage-license-abuse-theircontact": "تماس فرد سواستفاده کنند (در صورتی که می‌دانید)",
 	"contactpage-license-abuse-yourcontact": "اطلاعات تماس شما (اگر قصد دارید با شما تماس گرفته شود)",

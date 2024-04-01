@@ -248,7 +248,7 @@
 	"wikimedia-copyrightwarning": "بالضغط على زر «{{int:savearticle}}»، فإنك توافق على [https://foundation.wikimedia.org/wiki/Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/3.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 رخصة المشاع الإبداعي المُلزِمة بنسب العمل للمؤلِّف وبترخيص المشتقات بالمثل 3.0] و[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ رخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 3.0] و[https://www.gnu.org/licenses/fdl.html رخصة جنو للوثائق الحرة]",
-	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|أهلاً بك}}، $1!",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|مرحبّا}}، $1!",
 	"wikibase-repo-name": "ويكي بيانات",
 	"wikibase-page-schema-publisher-name": "مؤسسة ويكيميديا",
 	"wikibase-page-schema-author-name": "المساهمون في مشاريع ويكيميديا",

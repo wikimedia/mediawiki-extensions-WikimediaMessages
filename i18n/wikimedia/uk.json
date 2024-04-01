@@ -37,7 +37,8 @@
 			"Ата",
 			"Максим Підліснюк",
 			"Тест",
-			"Пан Хаунд"
+			"Пан Хаунд",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -253,6 +254,7 @@
 	"wikibase-otherprojects-testwikidata": "Вікідані",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Мета-вікі",
+	"wikibase-otherprojects-outreach": "Вікімедіа Аутріч",
 	"wikibase-otherprojects-sources": "Багатомовні Вікіджерела",
 	"wikibase-otherprojects-species": "Віківиди",
 	"wikibase-otherprojects-wikibooks": "Вікіпідручник",
@@ -379,5 +381,11 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Це анонімне опитування проводить Фонд Вікімедіа. [https://meta.wikimedia.org/wiki/Community_Safety Почитайте докладніше] або ознайомтеся із [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заявою про приватність].",
 	"gadget-curidlink-link-by-id": "Посилання за ID",
 	"gadget-curidlink-link-by-id-desc": "Показати посилання за ID сторінки",
-	"gadget-souspages-subpages": "Підсторінки"
+	"gadget-souspages-subpages": "Підсторінки",
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement положенні про конфіденційність] цього опитування.",
+	"research-incentive-answer-positive": "Так",
+	"research-incentive-answer-negative": "Ні",
+	"research-incentive-privacy": "Перегляньте нашу політику конфіденційності та дізнайтеся більше про нашу дослідницьку програму [https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Research/Design_Research/Research_Participant_Program тут].",
+	"research-incentive-confirm-msg": "Дякуємо!",
+	"ipinfo-global-contributions-url-label": "Глобальний внесок"
 }

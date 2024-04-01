@@ -42,7 +42,8 @@
 			"Wayiran",
 			"ZxxZxxZ",
 			"아라",
-			"Amire80"
+			"Amire80",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -284,7 +285,7 @@
 	"interlanguage-link-mul": "زبان‌های بیشتر",
 	"interlanguage-link-sitename-mul": "چند زبانه {{SITENAME}}",
 	"interlanguage-link-wikipedia": "ویکی‌پدیا",
-	"interlanguage-link-sitename-wikipedia": "دانشنامه‌ی آزاد ویکی‌پدیا",
+	"interlanguage-link-sitename-wikipedia": "دانشنامهٔ آزاد ویکی‌پدیا",
 	"interlanguage-link-commons": "ویکی‌انبار",
 	"interlanguage-link-sitename-commons": "مخزن رسانه‌ای ویکی‌انبار",
 	"interlanguage-link-sitename-dmoz": "فهرست وب DMOZ",
@@ -313,7 +314,7 @@
 	"eri-rcfilters-tour-intro-welcome-description": "بازبینی ویرایش‌ها به صورت بهینه‌تر به کمک پالایه‌های جدید، امکان ذخیره مجموعه‌هایی از پالایه‌ها، پررنگ کردن تعریف‌شده توسط کاربر و قابلیت یادگیری ماشینی. $1",
 	"eri-rcfilters-tour-intro-welcome-no-ores-description": "بازبینی ویرایش‌ها به صورت بهینه‌تر، امکان ذخیره‌سازی مجموعه‌هایی از پالایه‌ها، پررنگ‌کردن‌های تعریف‌شده توسط کاربر و دیگر قابلیت‌های افزوده‌شده. $1",
 	"eri-rcfilters-tour-help": "اطلاعات بیشتر",
-	"eri-rcfilters-tour-intro-preferences-description": "در هر زمانی می‌توانید با رفتن به زبانه‌ی تغییرات اخیر در ترجیحات، از نسخه‌ی بهبودیافته‌ی تغییرات اخیر خارج شوید.",
+	"eri-rcfilters-tour-intro-preferences-description": "در هر زمانی می‌توانید با رفتن به زبانهٔ تغییرات اخیر در ترجیحات، از نسخهٔ بهبودیافتهٔ تغییرات اخیر خارج شوید.",
 	"eri-rcfilters-tour-intro-welcome-button": "اوکی، متوجه شدم",
 	"eri-rcfilters-tour-intro-disable-button": "همین حالا خارج شو",
 	"eri-rcfilters-tour-highlight-title": "کد رنگ نتایج شما",
@@ -323,7 +324,7 @@
 	"eri-rcfilters-tour-confirm-description": "دسترسی به <strong>امکانات آزمایشی صفحه</strong> برای ارسال بازخورد یا غیرفعال‌کردن آن، را دارید.",
 	"eri-wlfilters-tour-intro-welcome-title": "به پالایه بهبودیافته فهرست پیگیری خوش آمدید",
 	"eri-wlfilters-tour-intro-preferences-description": "همیشه می‌توانید با رفتن به قسمت فهرست پیگیری در ترجیحات، فهرست پیگیری بهبودیافته را غیرفعال کنید.",
-	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده‌است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
+	"wikimedia-centralauth-contribs-locked": "این حساب سراسری بسته‌شده است.\nبرای اطلاعات بیشتر [[m:Special:CentralAuth/$1|جزئیات حساب سراسری]] را ببینید.",
 	"action-viewdeletedfile": "مشاهدهٔ پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"right-viewdeletedfile": "مشاهدهٔ  پرونده‌ها و صفحه‌های حذف‌شده در فضاهای نام {{ns:file}} و {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "انتخابات هیئت مدیره",

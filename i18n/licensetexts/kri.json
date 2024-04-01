@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Protostar"
+			"Protostar",
+			"122112ê"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Dɛn gi pɔsin rayt fɔ kɔpi, sheb ɛn/ɔ chenj dis dɔkyumɛnt ɔnda di tin dɛn we de na di '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Fri Dokumɛnt Laysens]]''', Vɛshɔn 1.2 ɔ ɛni leta vɛshɔn we di [[{{int:wm-license-fsf-wiki-link}}|Fri Sɔftwɛl Fɔdayshɔn]] dɔn pablish; wit nɔ Invariant Sɛkshɔn, nɔ Frɔnt-Kɔva Tɛks, ɛn nɔ Bak-Kɔva Tɛks. Wan kɔpi fɔ di laysens de insay di sɛkshɔn we gɛt di taytul ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Fri Dokumɛnt Laysens]]''.",
+	"wm-license-information-description": "Dɛskripshɔn",
 	"wm-license-information-source": "Sòrs",
 	"wm-license-information-date": "Det",
 	"wm-license-information-author": "Authòr",
+	"wm-license-information-permission": "Alaw",
+	"wm-license-information-permission-reusing-text": "Yuz dis fayl agin",
 	"wm-license-own-work": "Yuzarim wòrk"
 }
