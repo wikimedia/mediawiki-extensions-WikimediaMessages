@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"AmaryllisGardener",
+			"Amire80",
 			"Avicennasis",
 			"CiphriusKane",
 			"Fitoschido",
@@ -31,6 +32,6 @@
 	"wikimedia-developers": "Deveelopers",
 	"wikimedia-globalblocking-ipblocked": "'''Yer IP address haes been [[m:Special:MyLanguage/Global blocks|blocked on aw wikis]].'''\n\nThe block wis made bi $1 ($2).\nThe reason gien is ''$3''.\n\n* Stairt o block: $4\n* Expiry o block: $5\n\nYer current IP address is $6.\nPlease include aw abuin details in ony queries ye mak.\n\nIf ye believe ye war blocked bi mistak, ye can find addeetional information an instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nItherwise, tae discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ane or mair proxy servers uised bi yer request is [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\nThe block wis made bi $1 ($2).\nThe reason gien is ''$3''.\n\n* Stairt o block: $4\n* Expiry o block: $5\n\nThe blocked proxy address wis $6.\nPlease include aw above details in ony queries ye mak.\n\nIf ye believe ye war blocked bi mistake, ye can find addeetional information an instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nItherwise, tae discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"interlanguage-link-sitename-wikipedia": "Wikipædia, the free encyclopædia",
+	"interlanguage-link-sitename-wikipedia": "Wikipaedia, the free encyclopaedia",
 	"wikimedia-help-translate-prompt": "ant tae help wi owersettins? [$1 Owersett the missing messages]."
 }

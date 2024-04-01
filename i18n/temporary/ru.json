@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ahonc",
+			"Dirruw'o",
 			"Facenapalm",
 			"Kaganer",
 			"Kareyac",
@@ -15,6 +16,7 @@
 	"group-oversight-member": "{{GENDER:$1|ревизор}}",
 	"hello": "Привет",
 	"please-translate": "Пожалуйста, помогите перевести на ваш язык",
+	"please-translate-short": "Помочь с переводом",
 	"thank-you": "{{GENDER:$1|Спасибо.}}",
 	"specialblockfeedback": "Обратная связь",
 	"specialinvestigate-feedback": "Оставить отзыв"

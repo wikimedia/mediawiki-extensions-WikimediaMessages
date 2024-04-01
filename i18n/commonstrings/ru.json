@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dirruw'o",
 			"Kaganer",
 			"Nikki",
 			"Okras",
@@ -38,7 +39,7 @@
 	"wm-commonstrings-questions": "Вопросы?",
 	"wm-commonstrings-register-account": "Зарегистрировать учётную запись",
 	"wm-commonstrings-reports": "Отчёты",
-	"wm-commonstrings-resolutions": "Решения",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1| Разрешение|Резолюции}}",
 	"wm-commonstrings-scope": "Область",
 	"wm-commonstrings-seealso": "См. также",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Сокращение|Сокращения}}",

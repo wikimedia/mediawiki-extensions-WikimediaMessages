@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Lc97",
 			"Varnent"
 		]
 	},
@@ -19,6 +20,8 @@
 	"wm-commonstrings-overview": "Visão geral",
 	"wm-commonstrings-participate": "Participar",
 	"wm-commonstrings-please-remember": "Por favor, lembre-se de: $1",
+	"wm-commonstrings-policies-guidelines": "Políticas e diretrizes",
+	"wm-commonstrings-purpose": "Propósito",
 	"wm-commonstrings-questions": "Questões?",
 	"wm-commonstrings-register-account": "Registar Conta",
 	"wm-commonstrings-reports": "Relatórios",
