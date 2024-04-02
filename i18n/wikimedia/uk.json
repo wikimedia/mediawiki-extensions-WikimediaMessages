@@ -37,7 +37,8 @@
 			"Ата",
 			"Максим Підліснюк",
 			"Пан Хаунд",
-			"Тест"
+			"Тест",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -230,6 +231,8 @@
 	"wikimedia-copyrightwarning-ccbysa30only": "Зберігаючи зміни, ви погоджуєтеся з [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Умовами використання] та безповоротно погоджуєтеся опублікувати свій внесок згідно з [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License ліцензією CC BY-SA 3.0].\nВи погоджуєтеся з тим, що гіперпосилання або URL-адреса є достатнім посиланням на джерело за ліцензією Creative Commons.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 ліцензія] та [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] і [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikifunctions-edit-copyrightwarning-function": "Натискаючи «опублікувати», ви погоджуєтеся з <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Умовами користування</a> і ви невідклично погоджуєтеся опублікувати свій внесок на умовах <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.uk\" title=\"Визначення ліцензії Creative Commons CC0\">ліцензії Creative Commons CC0</a>.",
+	"wikifunctions-edit-copyrightwarning-implementation": "Натискаючи «опублікувати», ви погоджуєтеся з <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Умовами користування</a>, та невідклично погоджуєтеся опублікувати свій внесок на умовах <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Визначення ліцензії Apache 2.0\">ліцензії Apache 2.0</a>.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ласкаво просимо}}, $1!",
 	"wikibase-repo-name": "Вікідані",
 	"wikibase-page-schema-publisher-name": "Фонд Вікімедіа",
@@ -246,6 +249,7 @@
 	"wikibase-otherprojects-testwikidata": "Вікідані",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Мета-вікі",
+	"wikibase-otherprojects-outreach": "Вікімедіа Аутріч",
 	"wikibase-otherprojects-sources": "Багатомовні Вікіджерела",
 	"wikibase-otherprojects-species": "Віківиди",
 	"wikibase-otherprojects-wikibooks": "Вікіпідручник",
@@ -372,5 +376,13 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Це анонімне опитування проводить Фонд Вікімедіа. [https://meta.wikimedia.org/wiki/Community_Safety Почитайте докладніше] або ознайомтеся із [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement заявою про приватність].",
 	"gadget-curidlink-link-by-id": "Посилання за ID",
 	"gadget-curidlink-link-by-id-desc": "Показати посилання за ID сторінки",
-	"gadget-souspages-subpages": "Підсторінки"
+	"gadget-souspages-subpages": "Підсторінки",
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "Детальнішу інформацію дивіться у [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement положенні про конфіденційність] цього опитування.",
+	"readinglists-import-app": "Щоб імпортувати цей список читання, встановіть останню версію програмки Вікіпедії:",
+	"readinglists-list-empty-message": "Ви можете імпортувати цей список, встановивши програмку Вікіпедії.",
+	"research-incentive-answer-positive": "Так",
+	"research-incentive-answer-negative": "Ні",
+	"research-incentive-privacy": "Перегляньте нашу політику конфіденційності та дізнайтеся більше про нашу дослідницьку програму [https://www.mediawiki.org/wiki/Special:MyLanguage/Wikimedia_Research/Design_Research/Research_Participant_Program тут].",
+	"research-incentive-confirm-msg": "Дякуємо!",
+	"ipinfo-global-contributions-url-label": "Глобальний внесок"
 }

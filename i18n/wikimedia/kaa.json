@@ -5,7 +5,8 @@
 			"AlefZet",
 			"Emperyan",
 			"Inabat Allanova",
-			"Nurlan"
+			"Nurlan",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikipediya arnawlı xabarları",
@@ -69,6 +70,8 @@
 	"wikimedia-developers": "Programmistler",
 	"wikimedia-globalblocking-ipblocked": "'''Siziń IP mánzilińiz [[m:Special:MyLanguage/Global blocks|bárshe Wikilarda bloklanǵan]].'''\n\nBloklanıw $1 ($2) tárepinen ámelge asırıldı.\nKórsetilgen sebep ''$3''.\n\n* Bloklanıwdıń baslanıwı: $4\n* Bloklanıwdıń ámel qılıw múddeti: $5\n\nSiziń ámeldegi IP mánzilińiz $6.\nMárhámát, joqarıdaǵı barlıq maǵlıwmatlardı sorawıńızǵa tolıq kiritiń..\n\nEger bloklanıw qátelik sebepli bolǵan dep esaplasańız, qosımsha maǵlıwmat hám kórsetpelerdi [[m:Special:MyLanguage/No open proxies|No open proxies]] global siyasatında tabıwıńız múmkin.\nKeri jaǵdayda, bloklanıwdı talqılaw ushın [[m:Steward requests/Global|Meta-Wikide kórip shıǵıw ushın soraw jiberiń]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sorawıńız boyınsha paydalanılatuǵın bir yamasa birneshe proksi-serverler [[m:Special:MyLanguage/Global blocks|global tárizde bloklanǵan]].'''\n\nBloklanıw $1 ($2) tárepinen ámelge asırıldı.\nKórsetilgen sebep ''$3''.\n\n* Bloklanıwdıń baslanıwı: $4\n* Bloklanıwdıń ámel qılıw múddeti: $5\n\nBloklanǵan proksi-mánzil $6 edi.\nMárhámát, joqarıdaǵı barlıq maǵlıwmatlardı sorawıńızǵa tolıq kiritiń.\n\nEgerde siz bloklanıw qátelik sebepli bolǵan dep esaplasańız, qosımsha maǵlıwmat hám kórsetpelerdi [[m:Special:MyLanguage/No open proxies|No open proxies]] global siyasatında tabıwıńız múmkin.\nKeri jaǵdayda, bloklanıwdı talqılaw ushın [[m:Steward requests/Global|Meta-Wikide kórip shıǵıw ushın soraw jiberiń]].",
+	"upload-form-label-not-own-work-message-commons": "Eger bul fayldıń avtorı siz ózińiz bolmasańız yamasa onı basqa licenziya astında járiyalaǵıńız kelse, [https://commons.wikimedia.org/wiki/Special:UploadWizard Júklew ustası]n qollanıńız.",
+	"upload-form-label-not-own-work-local-commons": "Eger sayt bul fayldı júklewge óz siyasatı sheńberinde ruqsat berse, siz [[Special:Upload|{{SITENAME}} joybarındaǵı júklew beti]]n de qollanıp kóriwińiz múmkin.",
 	"interlanguage-link-mul": "Taǵı tiller",
 	"interlanguage-link-commons": "Wikiqoyma",
 	"wikimedia-statslink": "Statistika",
