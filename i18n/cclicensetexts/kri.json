@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Protostar"
+			"Protostar",
+			"122112ê"
 		]
 	},
-	"wm-license-cc-free-to-share-header": "fòr sheb"
+	"wm-license-cc-attribution": "Atribiushɔn",
+	"wm-license-cc-free": "Yu bi fri:",
+	"wm-license-cc-free-to-share-header": "fòr sheb",
+	"wm-license-cc-free-to-share-text": "fɔ kɔpi, sheb ɛn transmit di wok",
+	"wm-license-cc-free-to-remix-header": "fɔ rimiks",
+	"wm-license-cc-free-to-remix-text": "fɔ adap di wok",
+	"wm-license-cc-conditions": "Ɔnda dɛn kɔndishɔn ya:",
+	"wm-license-cc-conditions-attribution-header": "atribiushɔn",
+	"wm-license-cc-conditions-attribution-text": "Yu fɔ gi di rayt kredit, gi link to di laysens, ɛn sho if dɛn chenj bin mɛk. Yu kin du am ɛni rizin, bɔt nɔto ɛni we we go sho se di pɔsin we gi yu di laysens ɛndɔs yu ɔ yu yuz.",
+	"wm-license-cc-conditions-share_alike-header": "sheb di sem we",
+	"wm-license-cc-conditions-share_alike-text": "If yu rimiks, transfɔm, ɔ bil pan di matirial, yu fɔ sheb yu kɔntribyushɔn dɛn ɔnda di [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses sem ɔ kɔmpatibl laysens] lɛk di ɔrijinal wan."
 }

@@ -5,7 +5,8 @@
 			"AlefZet",
 			"Emperyan",
 			"Inabat Allanova",
-			"Nurlan"
+			"Nurlan",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikipediya arnawlı xabarları",
@@ -69,6 +70,9 @@
 	"wikimedia-developers": "Programmistler",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlok $1 ($2) tárepinen ornatıldı.\nKórsetilgen sebep ''$3''.\n\n* Bloktıń baslanıw waqtı: $4\n* Bloktıń tamamlanıw waqtı: $5\n\nSiziń házirgi IP mánzilińiz $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext\n-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlok $1 ($2) tárepinen ornatıldı.\nKórsetilgen sebep ''$3''.\n\n* Bloktıń baslanıw waqtı: $4\n* Bloktıń tamamlanıw waqtı: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"upload-form-label-own-work-message-commons": "Men bul fayldıń avtorı ózim ekenligimdi tastıyıqlayman hám onı Wikiqoymaǵa [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] licenziyası astında qaytpasqa járiyalawǵa razılıq beremen, sonıń menen birge [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Qollanıw shártleri]ne de kelisim bildiremen.",
+	"upload-form-label-not-own-work-message-commons": "Eger bul fayldıń avtorı siz ózińiz bolmasańız yamasa onı basqa licenziya astında járiyalaǵıńız kelse, [https://commons.wikimedia.org/wiki/Special:UploadWizard Júklew ustası]n qollanıńız.",
+	"upload-form-label-not-own-work-local-commons": "Eger sayt bul fayldı júklewge óz siyasatı sheńberinde ruqsat berse, siz [[Special:Upload|{{SITENAME}} joybarındaǵı júklew beti]]n de qollanıp kóriwińiz múmkin.",
 	"interlanguage-link-mul": "Taǵı tiller",
 	"interlanguage-link-commons": "Wikiqoyma",
 	"wikimedia-statslink": "Statistika",
