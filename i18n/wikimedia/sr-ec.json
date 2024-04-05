@@ -99,6 +99,8 @@
 	"group-patroller": "Патролери",
 	"group-patroller-member": "{{GENDER:$1|патролер|патролерка|патролер}}",
 	"grouppage-patroller": "{{ns:project}}:Патролери",
+	"group-propertycreator": "Творци својстава",
+	"group-propertycreator-member": "{{GENDER:$1|творац својства}}",
 	"group-researcher": "Истраживачи",
 	"group-researcher-member": "{{GENDER:$1|истраживач|истраживачица|истраживач}}",
 	"grouppage-researcher": "{{ns:project}}:Истраживачи",
@@ -190,6 +192,7 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Вишејезични Викизворник",
 	"wikibase-sitelinks-sitename-species": "Викиврсте",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Википодаци",
+	"wikimedia-otherprojects-phabricator": "Викимедијин Фабрикатор",
 	"wikimedia-otherprojects-wikistore": "Википедијина продавница",
 	"wikimedia-taglines-commons": "Слободне фотографије и више",
 	"wikimedia-taglines-foundationsite": "Званичан веб-сајт Задужбине Викимедије",
@@ -257,6 +260,7 @@
 	"right-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-wikistats-label": "Викистатистика",
+	"wikimedia-wikistats-tagline": "Викимедијнина статистика",
 	"wikimedia-cookiestatement": "Изјава о колачићима",
 	"ext-quicksurveys-performance-internal-survey-question": "Да ли се ова страница учитала довољно брзо?",
 	"wikimedia-switchover-read-only": "Сада не можете да уређујете. То је због одржавања. Копирајте и сачувајте свој текст и покушајте поново за неколико минута.",
@@ -314,5 +318,6 @@
 	"wikimedia-foundation-search-label-short": "Претрага Задужбине",
 	"wikimedia-foundation-footer-description-short": "Задужбина Викимедије је невладина и непрофитна организација посвећена расту, развоју и дистрибуцији вишејезичног садржаја и пружању читавог садржаја вики базираних пројеката свима бесплатно.",
 	"wikimedia-translation-disclaimer-nolink": "Имајте на уму да у случају недоследности у значењу или интерпретацији између оригиналне енглеске верзије и превода, енглеска верзија има примат.",
-	"wikimedia-translation-disclaimer-withlink": "Имајте на уму да у случају недоследности у значењу или интерпретацији између оригиналне енглеске верзије и превода, [[$1|енглеска верзија]] има примат."
+	"wikimedia-translation-disclaimer-withlink": "Имајте на уму да у случају недоследности у значењу или интерпретацији између оригиналне енглеске верзије и превода, [[$1|енглеска верзија]] има примат.",
+	"wikimedia-foundation-staffdisclaimer-userpage": "Ја радим или пружам услуге Задужбини Викимедије и овај налог је за измене или изјаве које дајем у тој улози. Међутим Задужбина не контролише сву моју активност и измене, изјаве или друге доприносе које начиним овим налогом. Ти доприноси можда не одражавају ставове Задужбине."
 }

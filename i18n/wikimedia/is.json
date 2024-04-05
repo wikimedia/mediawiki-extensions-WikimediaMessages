@@ -98,5 +98,6 @@
 	"action-edit-legal": "breyta síðum með hugsanlegum lagalegum afleiðingum",
 	"gadget-curidlink-link-by-id": "Tengill eftir auðkenni",
 	"gadget-curidlink-link-by-id-desc": "Sýna tengil á þessa síðu með auðkenni hennar",
-	"gadget-souspages-subpages": "Undirsíður"
+	"gadget-souspages-subpages": "Undirsíður",
+	"ext-campaignevents-register-policy": "Með því að skrá þig samþykkir þú [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use notkunarskilmálana], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy friðhelgisstefnuna], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct altæku siðareglurnar] og allar staðbundnar stefnur um vinalegt rými sem veittar eru af skipuleggjendum viðburðarins."
 }
