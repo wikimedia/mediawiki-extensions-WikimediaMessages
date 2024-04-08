@@ -103,6 +103,8 @@
 	"group-patroller": "Патролери",
 	"group-patroller-member": "{{GENDER:$1|патролер|патролерка|патролер}}",
 	"grouppage-patroller": "{{ns:project}}:Патролери",
+	"group-propertycreator": "Творци својстава",
+	"group-propertycreator-member": "{{GENDER:$1|творац својства}}",
 	"group-researcher": "Истраживачи",
 	"group-researcher-member": "{{GENDER:$1|истраживач|истраживачица|истраживач}}",
 	"grouppage-researcher": "{{ns:project}}:Истраживачи",
