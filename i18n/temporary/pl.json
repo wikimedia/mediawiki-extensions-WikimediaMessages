@@ -10,6 +10,7 @@
 			"Rezonansowy",
 			"Sp5uhe",
 			"Tar Lócesilion",
+			"WaldiSt",
 			"Woytecr"
 		]
 	},
@@ -18,6 +19,7 @@
 	"group-oversight-member": "{{GENDER:$1|rewizor|rewizorka}}",
 	"hello": "Cześć",
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
+	"please-translate-short": "Pomóż w tłumaczeniu",
 	"thank-you": "{{GENDER:$1|Dziękuję.}}",
 	"specialblockfeedback": "Opinie",
 	"specialinvestigate-feedback": "Zostaw opinię",

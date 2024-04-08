@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"B3rnas",
 			"Nikki",
 			"Varnent"
 		]
@@ -21,7 +22,7 @@
 	"wm-commonstrings-questions": "Perguntas?",
 	"wm-commonstrings-register-account": "Registar conta",
 	"wm-commonstrings-reports": "Relatórios",
-	"wm-commonstrings-resolutions": "Resoluções",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1| Resolução|Resoluções}}",
 	"wm-commonstrings-scope": "Âmbito",
 	"wm-commonstrings-seealso": "Ver também",
 	"wm-commonstrings-staff": "Funcionários",
