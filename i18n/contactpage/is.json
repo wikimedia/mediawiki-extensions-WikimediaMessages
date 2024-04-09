@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sveinn í Felli"
+			"Sveinn í Felli",
+			"Stefán Örvar Sigmundsson"
 		]
 	},
 	"contactpage-license-request-username": "Notandanafn",
@@ -15,5 +16,6 @@
 	"contactpage-wikimedia-trademark-wikinews": "Wikinews",
 	"contactpage-wikimedia-trademark-wikisource": "Wikisource",
 	"contactpage-wikimedia-trademark-wiktionary": "Wiktionary",
-	"contactpage-wikimedia-trademark-wikivoyage": "Wikiferðir"
+	"contactpage-wikimedia-trademark-wikivoyage": "Wikiferðir",
+	"contactpage-affcom-chapter-thorg-coc-label": "Siðareglur"
 }
