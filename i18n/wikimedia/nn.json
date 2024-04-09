@@ -199,5 +199,6 @@
 	"securepoll-dblist-securepollglobal": "Styreval",
 	"wikimedia-statslink": "Statistikk",
 	"wikimedia-cookiestatement": "Fråsegn om informasjonskapslar",
+	"wikimedia-help-translate-prompt": "Ynskjer du å bidra med omsetjing? [$1 Set om meldingane som manglar].",
 	"wikimedia-nutshell-page-intro": "Denne sida i eit nøtteskal: $1"
 }
