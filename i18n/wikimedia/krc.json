@@ -4,7 +4,8 @@
 			"Ernác",
 			"Iltever",
 			"Nemo bis",
-			"Къарачайлы"
+			"Къарачайлы",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Викимедианы энчи билдириулери",
@@ -31,8 +32,8 @@
 	"group-eliminator": "Кетериучюле",
 	"group-eliminator-member": "{{GENDER:$1|кетериучю}}",
 	"grouppage-eliminator": "{{ns:project}}:Кетериучюле",
-	"group-flood": "Къошулуучула-ботла",
-	"group-flood-member": "бот къошулуучула",
+	"group-flood": "Псевдоботла",
+	"group-flood-member": "{{GENDER:$1|псевдоботла}}",
 	"group-import": "Импорт этиучюле",
 	"group-import-member": "{{GENDER:$1|импортчу}}",
 	"grouppage-import": "{{ns:project}}:Импортирчула",
@@ -44,7 +45,7 @@
 	"group-patroller-member": "{{GENDER:$1|патрулчу}}",
 	"grouppage-patroller": "{{ns:project}}:Патрулчула",
 	"group-transwiki": "Викиле арасы импорт этиучюле",
-	"group-transwiki-member": "Викиле арасы импорт этиучю",
+	"group-transwiki-member": "{{GENDER:$1|викиле арасы импорт этиучю}}",
 	"group-oauthadmin": "OAuth администраторла",
 	"group-steward": "Стюардла",
 	"shared-repo-name-shared": "Викигёзен",
