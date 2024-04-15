@@ -38,7 +38,6 @@ use MediaWiki\User\Options\UserOptionsManager;
 use MediaWiki\User\User;
 use MessageCache;
 use MessageLocalizer;
-use OOUI\IconWidget;
 use OOUI\Tag;
 use ORES\Hooks\Helpers as ORESHookHelpers;
 use Skin;
@@ -1943,47 +1942,7 @@ class Hooks implements
 	 * @param string|null $subPage
 	 */
 	public function onSpecialPageBeforeExecute( $special, $subPage ) {
-		$this->addBlockFeedbackLink( $special );
 		$this->addIPInfoLinks( $special, $subPage );
-	}
-
-	/**
-	 * @param SpecialPage $special
-	 */
-	private function addBlockFeedbackLink( $special ) {
-		if (
-			$special->getName() !== 'Block' ||
-			!$special->userCanExecute( $special->getUser() )
-		) {
-			return;
-		}
-
-		$output = $special->getOutput();
-
-		$output->enableOOUI();
-		$output->addModuleStyles( [
-			'mediawiki.special.block.feedback.request',
-			'oojs-ui.styles.icons-interactions'
-		] );
-
-		$icon = new IconWidget( [
-			'icon' => 'feedback',
-		] );
-
-		$link = Html::rawElement(
-			'a',
-			[
-				'href' => 'https://meta.wikimedia.org/wiki/Special:MyLanguage/' .
-					'Community_health_initiative/Blocking_tools_and_improvements/Feedback',
-				'target' => '_blank',
-				'class' => 'mw-feedbacklink',
-			],
-			$icon . $special->msg( 'specialblockfeedback' )->escaped()
-		);
-
-		$output->setIndicators(
-			[ 'mw-feedbacklink' => $link ]
-		);
 	}
 
 	/**
