@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Volvox"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Artikel-Kontroller",
@@ -10,6 +11,7 @@
 	"group-oversight-member": "Artikel-Kontroller",
 	"hello": "Salut",
 	"please-translate": "Hëlleft wgl. fir an Är Sprooch z'iwwersetzen",
+	"please-translate-short": "Hëlleft iwwersetzen",
 	"thank-you": "{{GENDER:$1|Villmools Merci.}}",
 	"specialblockfeedback": "Feedback",
 	"specialinvestigate-feedback": "Feedback ginn"
