@@ -15,7 +15,6 @@
 	"hello": "Pozdrav",
 	"please-translate": "Molimo Vas, pomozite prevođenju na Vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
-	"specialblockfeedback": "Povratne informacije",
 	"specialinvestigate-feedback": "Napišite povratnu informaciju",
 	"graph-disabled-category": "Stranice s onemogućenim grafikonima",
 	"graph-disabled-category-desc": "Ova stranica uključuje oznaku <code>&lt;graph&gt;</code>, koja trenutačno nije dostupna ([[phab:T334940|T334940]])."

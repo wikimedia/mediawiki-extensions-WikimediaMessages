@@ -17,7 +17,6 @@
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
-	"specialblockfeedback": "التغذية الراجعة",
 	"specialinvestigate-feedback": "شارك ملاحظاتك",
 	"graph-disabled-category": "صفحات ذات رسوم بيانية معطلة",
 	"graph-disabled-category-desc": "<code>&lt;graph&gt;</code> العلامة غير المتوفرة مؤقتًا ([[phab:T334940|T334940]])."

@@ -10,6 +10,5 @@
 	"hello": "Pozdrav",
 	"please-translate": "Pomozite pri prevođenju na Vaš jezik",
 	"thank-you": "{{GENDER:$1|Hvala lijepa!}}",
-	"specialblockfeedback": "Povratna informacija",
 	"specialinvestigate-feedback": "Napišite povratnu informaciju"
 }

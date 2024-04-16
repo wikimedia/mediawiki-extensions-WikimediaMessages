@@ -21,7 +21,6 @@
 	"please-translate": "Por favor, ajude a traduzir para o seu idioma",
 	"please-translate-short": "Ajude a traduzir",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
-	"specialblockfeedback": "Comentário",
 	"specialinvestigate-feedback": "Deixe um comentário",
 	"graph-disabled-category-desc": "Essa página inclui uma etiqueta <code>&lt;graph&gt;</code>, que está temporariamente indisponível ([[phab:T334940|T334940]])."
 }

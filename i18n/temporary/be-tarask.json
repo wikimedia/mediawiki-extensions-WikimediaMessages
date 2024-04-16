@@ -12,6 +12,5 @@
 	"group-oversight-member": "{{GENDER:$1|рэвізор|рэвізорка}}",
 	"hello": "Вітаем",
 	"please-translate": "Калі ласка, дапамажыце перакласьці на вашую мову",
-	"thank-you": "{{GENDER:$1|Дзякуй.}}",
-	"specialblockfeedback": "Водгук"
+	"thank-you": "{{GENDER:$1|Дзякуй.}}"
 }

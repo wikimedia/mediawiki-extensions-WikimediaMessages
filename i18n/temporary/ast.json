@@ -10,6 +10,5 @@
 	"group-oversight-member": "{{GENDER:$1|güeyador|güeyadora}}",
 	"hello": "Bones",
 	"please-translate": "Por favor, ayuda a traducilo a la to llingua",
-	"thank-you": "{{GENDER:$1|Gracies.}}",
-	"specialblockfeedback": "La to opinión"
+	"thank-you": "{{GENDER:$1|Gracies.}}"
 }

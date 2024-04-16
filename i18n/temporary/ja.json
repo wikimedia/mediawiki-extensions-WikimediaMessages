@@ -17,7 +17,6 @@
 	"hello": "こんにちは",
 	"please-translate": "あなたの言語への翻訳をお助けください",
 	"thank-you": "{{GENDER:$1|ありがとうございました。}}",
-	"specialblockfeedback": "フィードバック",
 	"specialinvestigate-feedback": "フィードバックを投稿する",
 	"graph-disabled-category": "グラフが無効になっているページ",
 	"graph-disabled-category-desc": "一時的に利用できない<code>&lt;graph&gt;</code>タグを含むページ ([[phab:T334940|T334940]])。"

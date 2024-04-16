@@ -12,6 +12,5 @@
 	"group-oversight-member": "{{GENDER:$1}}giám sát viên",
 	"hello": "Xin chào",
 	"please-translate": "Xin hãy giúp dịch sang ngôn ngữ của bạn",
-	"thank-you": "{{GENDER:$1}}Cảm ơn.",
-	"specialblockfeedback": "Phản hồi"
+	"thank-you": "{{GENDER:$1}}Cảm ơn."
 }

@@ -10,7 +10,6 @@
 	"hello": "Cià",
 	"please-translate": "Danne 'na màne a traducere 'a lènga toje",
 	"thank-you": "{{GENDER:$1|Grazie.}}",
-	"specialblockfeedback": "Segnalazione",
 	"specialinvestigate-feedback": "Lasse 'nu feedback",
 	"graph-disabled-category": "Pàggene cu le grafece disabbilitate",
 	"graph-disabled-category-desc": "'A pàgene ave 'nu tag <code>&lt;graph&gt;</code>, 'u quale jè teboraneamende non disponibbele ([[phab:T334940|T334940]])."

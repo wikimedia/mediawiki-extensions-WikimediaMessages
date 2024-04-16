@@ -12,7 +12,6 @@
 	"please-translate": "Помогнете со преводот на вашиот јазик",
 	"please-translate-short": "Помогнете со преводот",
 	"thank-you": "{{GENDER:$1|Благодариме.}}",
-	"specialblockfeedback": "Мислења",
 	"specialinvestigate-feedback": "Дајте ваше мислење",
 	"graph-disabled-category": "Страници со оневозможени графикони",
 	"graph-disabled-category-desc": "Оваа страница содржи ознака <code>&lt;graph&gt;</code>, која е привремено недостапна ([[phab:T334940|T334940]])."

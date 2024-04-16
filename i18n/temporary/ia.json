@@ -11,7 +11,6 @@
 	"please-translate": "Per favor, adjuta a traducer in tu lingua",
 	"please-translate-short": "Adjutar a traducer",
 	"thank-you": "{{GENDER:$1|Gratias.}}",
-	"specialblockfeedback": "Commentario",
 	"specialinvestigate-feedback": "Dar nos tu opinion",
 	"graph-disabled-category": "Paginas con graphicos disactivate",
 	"graph-disabled-category-desc": "Iste pagina contine un etiquetta <code>&lt;graph&gt;</code>, le qual es temporarimente indisponibile ([[phab:T334940|T334940]])."

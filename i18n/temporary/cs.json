@@ -14,7 +14,6 @@
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
 	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
-	"specialblockfeedback": "Názor",
 	"graph-disabled-category": "Stránky s vypnutými grafy",
 	"graph-disabled-category-desc": "Tato stránka obsahuje značku <code>&lt;graph&gt;</code>, která dočasně není k dispozici ([[phab:T334940|T334940]])."
 }

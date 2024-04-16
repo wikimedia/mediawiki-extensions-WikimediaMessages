@@ -9,6 +9,5 @@
 	"group-oversight": "Oversighters",
 	"group-oversight-member": "{{GENDER:$1|oversight}}",
 	"hello": "Ciau",
-	"thank-you": "{{GENDER:$1|Grazzi.}}",
-	"specialblockfeedback": "Feedback"
+	"thank-you": "{{GENDER:$1|Grazzi.}}"
 }
