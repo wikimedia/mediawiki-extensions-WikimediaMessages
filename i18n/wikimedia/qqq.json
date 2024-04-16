@@ -149,7 +149,7 @@
 	"group-noratelimit": "{{doc-group|noratelimit}}\nContains user rights 'noratelimit' ({{:MediaWiki:Right-noratelimit/en}}) and 'autoreview' ({{:MediaWiki:Right-autoreview/en}})",
 	"group-noratelimit-member": "{{doc-group|noratelimit|member}}\nContains user rights 'noratelimit' ({{:MediaWiki:Right-noratelimit/en}}) and 'autoreview' ({{:MediaWiki:Right-autoreview/en}})",
 	"grouppage-noratelimit": "{{doc-group|noratelimit|page}}\nContains user rights 'noratelimit' ({{:MediaWiki:Right-noratelimit/en}}) and 'autoreview' ({{:MediaWiki:Right-autoreview/en}})",
-	"group-patroller": "{{doc-group|patroller|prefix=wmf-}}",
+	"group-patroller": "{{doc-important|The translation of this message cannot be the same as {{msg-mw|group-checkuser}}}}\n{{doc-group|patroller|prefix=wmf-}}",
 	"group-patroller-member": "{{doc-group|patroller|member|prefix=wmf-}}",
 	"grouppage-patroller": "{{doc-group|patroller|page|prefix=wmf-}}",
 	"group-propertycreator": "{{doc-group|propertycreator}}",
