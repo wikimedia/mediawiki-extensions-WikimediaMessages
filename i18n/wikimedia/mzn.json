@@ -13,9 +13,9 @@
 	"wikimedia-copyright": "کل نوشتارون <a href='https://creativecommons.org/licenses/by-sa/4.0/'>موجوز Creative Commons Attribution-ShareAlike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
 	"wikimedia-copyrightwarning": "تغییرات ذخیره جه، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use استفاده شرایط] ره قبول کانّی و اتی که جبران نَوانه، تضمین کانّی که شمه تغییرات [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ِپیمون‌ها په تَنِک بَواشِن.\nشما قبول کاندی که اتا لینک نسبت‌هدائن کافیه که تحت کریتیو کامنز تنک بَواشه.",
 	"wikibase-repo-name": "ویکی‌دیتا",
-	"wikibase-sitelinks-wikinews": "ویکی‌خور",
+	"wikibase-sitelinks-wikinews": "ویکی‌خَوِر",
 	"wikibase-sitelinks-wikiquote": "ویکی‌بائوته",
-	"wikibase-sitelinks-wikisource": "ویکی‌بنویشته",
+	"wikibase-sitelinks-wikisource": "ویکی‌قالزم",
 	"wikibase-sitelinks-wikivoyage": "ویکی‌سفر",
 	"wikibase-otherprojects-commons": "ویکی‌تلمبار",
 	"wikibase-otherprojects-testwikidata": "ویکی‌دیتا",
@@ -25,9 +25,9 @@
 	"wikibase-sitelinks-sitename-species": "ویکی‌زیست",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ویکی‌دیتا",
 	"wikimedia-developers": "گت‌کَرون",
-	"wikimedia-globalblocking-ipblocked": "'''شمه آی‌پی [[m:Special:MyLanguage/Global blocks|تموم ویکی‌ئون]] دله قطع دسترسی بیه.'''\n\nقطع دسترسی ره $1 انجام هدائه ($2).\nونه دلیل هم «$3» بی‌یه.\n\n* شروع قطع دسترسی: $4\n* تموم بیّن زمون: $5\n\nشمه اِسایی آی‌پی $6 هسته.\nلطفاً همهٔ جزئیات بالا ره شه درخاست دله بنویسین.\n\nاگه خانّی باوّین که شما اشتباهاً قطع‌دسترسی بَیی، شما بتوندی اضافی اطلاعات و راهنماییون ره سراسری سیاست [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] دله پیدا هاکنی.\nدر غیر این صورت، گپ بزوئن وسّه [[m:Steward requests/Global|متاویکی دله درخاست هاده]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''اتا یا چنتا استفاده‌بیی پراکسی سرور دله شمه درخاست وسه [[m:Special:MyLanguage/Global blocks|سراسری حالت جه]] دَوسته بیّه.'''\n\nقطع دسترسی ره $1 انجام هدائه ($2).\nدلیل هم «$3» عنوان بیّه.\n\n* شروع قطع دسترسی: $4\n* قطع دسترسی ِتوم بیّن: $5\n\nدَوِسته‌بَیی پراکسی نشونی $6 بی‌یه.\nلطفاً همهٔ جزئیات بالا ره شه درخاست دله بنویسین.\n\nاگه فکر کانّی اشتباهاً قطع دسترسی بَیینی، بتونّی تموم اطلاعات و راهنمایی‌ئون ره [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] دله بَوینین.\nدر غیر این صورت، گپ بزوئن وسّه [[m:Steward requests/Global|متاویکی دله درخاست هادین]].",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nقطع دسترسی و دَوِستن ره $1 ($2) انجام هدا.\nونه دلیل این بی‌یه که ''$3''.\n\n* شروع: $4\n* اتمام: $5\n\nشمه آی‌پی اسا $6 هسته.\n{{int:blockedtext-include-details\n-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext\n-on-proxy}}'''\n\nقطع دسترسی ره $1 انجام هدائه ($2).\nونه دلیل «$3» بی‌یه.\n\n* قطع دسترسی ِشروع: $4\n* قطع دسترسی ِتوم بیّن: $5\n\n{{int:globalblocking\n-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-commons": "ویکی‌تلمبار",
 	"wikimedia-statslink": "آمار",
-	"wikimedia-cookiestatement": "کوکی خوری"
+	"wikimedia-cookiestatement": "کوکی خَوِری"
 }

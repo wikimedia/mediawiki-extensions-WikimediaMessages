@@ -4,5 +4,7 @@
 			"No se"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 объединил{{GENDER:$2||а}} учётную запись \"$4\" ($5) с {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|удалил|удалила}} учётную запись \"$4\" ($5)",
 	"wikimedia-usermerge-logpage": "Журнал объединения учетных записей пользователей"
 }
