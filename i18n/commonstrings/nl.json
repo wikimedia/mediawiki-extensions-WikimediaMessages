@@ -4,7 +4,8 @@
 			"HanV",
 			"Iamthedutchdude",
 			"Mitsjol",
-			"Varnent"
+			"Varnent",
+			"Siebrand"
 		]
 	},
 	"wm-commonstrings-activities": "Activiteiten",
@@ -34,7 +35,7 @@
 	"wm-commonstrings-questions": "Vragen?",
 	"wm-commonstrings-register-account": "Account registreren",
 	"wm-commonstrings-reports": "Rapporten",
-	"wm-commonstrings-resolutions": "Resoluties",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Resolutie|Resoluties}}",
 	"wm-commonstrings-scope": "Scope",
 	"wm-commonstrings-seealso": "Zie ook",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Verwijzing|Verwijzingen}}",
