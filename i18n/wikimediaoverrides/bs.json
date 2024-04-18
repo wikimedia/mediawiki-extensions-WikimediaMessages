@@ -16,5 +16,8 @@
 	"wikimedia-flow-terms-of-use-edit": "Čuvanjem izmjena prihvatate [https://foundation.wikimedia.org/wiki/Terms_of_Use uslove korištenja] i neopozivo se slažete da svoj doprinos objavite pod licencama [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-sitematrix": "Spisak Wikimedijinih wikija",
 	"wikimedia-sitematrix-others": "Ostali projekti Wikimedije",
-	"wikimedia-sitematrix-summary": "Ova posebna stranica prikazuje sve Wikimedia wikije."
+	"wikimedia-sitematrix-summary": "Ova posebna stranica prikazuje sve Wikimedia wikije.",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "Vaša IP-adresa [[m:Special:MyLanguage/Global blocks|blokirana je na svim wikijima]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Jedan ili više proxy-servera koji koristite [[m:Special:MyLanguage/Global blocks|globalno je blokiran]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Ako smatrate da ste greškom blokirani, dodatne informacije i uputstva možete pronaći na stranici o globalnoj smjernici \"[[m:Special:MyLanguage/No open proxies|Zabranjeni otvoreni proksiji]]\".\nU suprotnom, [[m:Steward requests/Global|zahtjev za blokadu postavite na Meta-Wikiju]]."
 }

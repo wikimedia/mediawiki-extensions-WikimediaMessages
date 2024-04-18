@@ -13,6 +13,7 @@
 	"group-oversight-member": "{{GENDER:$1|기록보호자}}",
 	"hello": "안녕하세요",
 	"please-translate": "당신의 언어로 번역해 주세요",
+	"please-translate-short": "변역 돕기",
 	"thank-you": "{{GENDER:$1|고맙습니다.}}",
 	"specialinvestigate-feedback": "피드백 남기기",
 	"graph-disabled-category": "비활성화된 그래프가 있는 문서",
