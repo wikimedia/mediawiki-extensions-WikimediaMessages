@@ -632,6 +632,7 @@
 	"project-localized-name-myvwiki": "{{ProjectNameDocumentation|url=https://myv.wikipedia.org|name=Erzya Wikipedia|language=myv}}",
 	"project-localized-name-mywiki": "{{ProjectNameDocumentation|url=https://my.wikipedia.org|name=Burmese Wikipedia|language=my}}",
 	"project-localized-name-mywikibooks": "{{ProjectNameDocumentation|url=https://my.wikibooks.org|name=Burmese Wikibooks|language=my}}",
+	"project-localized-name-mywikisource": "{{ProjectNameDocumentation|url=https://my.wikisource.org|name=Burmese Wikisource|language=my}}",
 	"project-localized-name-mywiktionary": "{{ProjectNameDocumentation|url=https://my.wiktionary.org|name=Burmese Wiktionary|language=my}}",
 	"project-localized-name-mznwiki": "{{ProjectNameDocumentation|url=https://mzn.wikipedia.org|name=Mazanderani Wikipedia|language=mzn}}",
 	"project-localized-name-nahwiki": "{{ProjectNameDocumentation|url=https://nah.wikipedia.org|name=Nāhuatl Wikipedia|language=nah}}",
