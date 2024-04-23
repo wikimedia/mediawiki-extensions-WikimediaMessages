@@ -16,6 +16,7 @@
 	"group-oversight-member": "{{GENDER:$1|秘匿者}}",
 	"hello": "こんにちは",
 	"please-translate": "あなたの言語への翻訳をお助けください",
+	"please-translate-short": "翻訳を手伝ってください",
 	"thank-you": "{{GENDER:$1|ありがとうございました。}}",
 	"specialinvestigate-feedback": "フィードバックを投稿する",
 	"graph-disabled-category": "グラフが無効になっているページ",
