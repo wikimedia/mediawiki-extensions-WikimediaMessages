@@ -111,8 +111,8 @@
 	},
 	"config": {
 		"WikimediaStylesSkins": {
-			"value": [],
-			"description": "Define skins that should get Wikimedia styles. Empty by default to faciliate gradual roll out."
+			"value": [ "vector-2022", "minerva" ],
+			"description": "Define skins that should get Wikimedia styles. This currently corresponds to skins that support the night (dark mode) theme."
 		},
 		"WikimediaMessagesLicensing": {
 			"value": "standard",
