@@ -13,9 +13,9 @@
 	"wikimedia-copyright": "کل نوشتارون <a href='http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License'>موجوز Creative Commons Attribution-ShareAlike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
 	"wikimedia-copyrightwarning": "تغییرات ذخیره جه، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use استفاده شرایط] ره قبول کانّی و اتی که جبران نَوانه، تضمین کانّی که شمه تغییرات [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ِپیمون‌ها په تَنِک بَواشِن.\nشما قبول کاندی که اتا لینک نسبت‌هدائن کافیه که تحت کریتیو کامنز تنک بَواشه.",
 	"wikibase-repo-name": "ویکی‌دیتا",
-	"wikibase-sitelinks-wikinews": "ویکی‌خور",
+	"wikibase-sitelinks-wikinews": "ویکی‌خَوِر",
 	"wikibase-sitelinks-wikiquote": "ویکی‌بائوته",
-	"wikibase-sitelinks-wikisource": "ویکی‌بنویشته",
+	"wikibase-sitelinks-wikisource": "ویکی‌قالزم",
 	"wikibase-sitelinks-wikivoyage": "ویکی‌سفر",
 	"wikibase-otherprojects-commons": "ویکی‌تلمبار",
 	"wikibase-otherprojects-testwikidata": "ویکی‌دیتا",
@@ -29,5 +29,5 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''اتا یا چنتا استفاده‌بیی پراکسی سرور دله شمه درخاست وسه [[m:Special:MyLanguage/Global blocks|سراسری حالت جه]] دَوسته بیّه.'''\n\nقطع دسترسی ره $1 انجام هدائه ($2).\nدلیل هم «$3» عنوان بیّه.\n\n* شروع قطع دسترسی: $4\n* قطع دسترسی ِتوم بیّن: $5\n\nدَوِسته‌بَیی پراکسی نشونی $6 بی‌یه.\nلطفاً همهٔ جزئیات بالا ره شه درخاست دله بنویسین.\n\nاگه فکر کانّی اشتباهاً قطع دسترسی بَیینی، بتونّی تموم اطلاعات و راهنمایی‌ئون ره [[m:Special:MyLanguage/No open proxies|هیچ پراکسی باز]] دله بَوینین.\nدر غیر این صورت، گپ بزوئن وسّه [[m:Steward requests/Global|متاویکی دله درخاست هادین]].",
 	"interlanguage-link-commons": "ویکی‌تلمبار",
 	"wikimedia-statslink": "آمار",
-	"wikimedia-cookiestatement": "کوکی خوری"
+	"wikimedia-cookiestatement": "کوکی خَوِری"
 }
