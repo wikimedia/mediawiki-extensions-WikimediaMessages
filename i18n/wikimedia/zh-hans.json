@@ -62,7 +62,8 @@
 			"铁桶",
 			"飞舞回堂前",
 			"아라",
-			"LittlePaw365"
+			"LittlePaw365",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -182,6 +183,7 @@
 	"group-wikidata-staff": "维基数据职员",
 	"group-wikidata-staff-member": "{{GENDER:$1|维基数据职员}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:维基数据职员",
+	"group-wikifunctions-staff": "Wikifunctions职员",
 	"group-apihighlimits-requestor": "API高限制请求者",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|API高限制请求者}}",
 	"group-captcha-exempt": "验证码豁免",
