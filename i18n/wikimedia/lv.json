@@ -9,7 +9,8 @@
 			"Silraks",
 			"Varnent",
 			"Xil",
-			"Yyy"
+			"Yyy",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia raksturīgi paziņojumi",
@@ -49,7 +50,7 @@
 	"group-import-member": "{{GENDER:$1|importētājs|importētāja}}",
 	"grouppage-import": "{{ns:project}}:Importētāji",
 	"group-ipblock-exempt": "IP bloķēšanas izņēmumi",
-	"group-patroller": "Pārbaudītāji",
+	"group-patroller": "Patrollers",
 	"group-patroller-member": "{{GENDER:$1|patrulētājs|patrulētāja}}",
 	"grouppage-patroller": "{{ns:project}}:Dalībnieku tiesības#Pārbaudītāji",
 	"group-researcher": "Pētnieki",

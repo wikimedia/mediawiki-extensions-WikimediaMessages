@@ -7,7 +7,8 @@
 			"Liuxinyu970226",
 			"Shizhao",
 			"Xiaomingyan",
-			"Yfdyh000"
+			"Yfdyh000",
+			"沈澄心"
 		]
 	},
 	"contactpage-title-requestlicense": "授权申请表单",
@@ -65,6 +66,8 @@
 	"contactpage-affcom-user-group-logo-wm-logo": "''如果您希望使用'''维基媒体标志'''，您需要[[Special:Contact/requestlicense|申请商标许可]]。''",
 	"contactpage-affcom-user-group-logo-community": "维基媒体社群标志",
 	"contactpage-affcom-user-group-logo-affiliate": "维基媒体附属机构标志",
+	"contactpage-affcom-chapter-thorg-inclusivity-label": "包容性",
+	"contactpage-affcom-chapter-thorg-elections-label": "选举",
 	"contactpage-title-stewards": "联络监管员",
 	"contactpage-stewards-disclaimer-label": "免责声明：您在此表单中包含的所有信息会发送到志愿者社群成员（特别是[[Special:MyLanguage/Stewards|监管员]]），并由他们处理并作出答复，而不是维基媒体基金会。请不要包含任何与维基媒体志愿者分享会使您感到不适的信息。与加工您提交信息相关的答复和其他函件不被认为是维基媒体基金会的官方陈述。如需官方函件，请通过此处列出的方法联络维基媒体基金会：https://wikimediafoundation.org/about/contact/ 。",
 	"contactpage-title-movecomsignup": "加入运动通讯组邮件列表",

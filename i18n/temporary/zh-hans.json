@@ -5,7 +5,8 @@
 			"Liuxinyu970226",
 			"Shizhao",
 			"Yfdyh000",
-			"Zazzzz"
+			"Zazzzz",
+			"沈澄心"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:监督",
@@ -13,6 +14,7 @@
 	"group-oversight-member": "{{GENDER:$1|监督员}}",
 	"hello": "您好",
 	"please-translate": "请帮助翻译至您的语言",
+	"please-translate-short": "帮助翻译",
 	"thank-you": "{{GENDER:$1|感谢您。}}",
 	"specialblockfeedback": "反馈",
 	"specialinvestigate-feedback": "意见反馈"

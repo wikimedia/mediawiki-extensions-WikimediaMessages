@@ -2,15 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"U.T."
+			"U.T.",
+			"沈澄心"
 		]
 	},
 	"wm-commonstrings-aboutme": "关于我",
 	"wm-commonstrings-activities": "活动",
 	"wm-commonstrings-background": "背景",
+	"wm-commonstrings-closed": "已关闭",
 	"wm-commonstrings-contactus": "联系我们",
 	"wm-commonstrings-enterquestion": "输入您的问题。",
+	"wm-commonstrings-events": "事件",
 	"wm-commonstrings-noticeboard": "布告板",
+	"wm-commonstrings-open": "开放中",
+	"wm-commonstrings-overview": "概览",
 	"wm-commonstrings-questions": "有问题？",
 	"wm-commonstrings-seealso": "参见",
 	"wm-commonstrings-staff": "职员"
