@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chqaz",
 			"Hiro884",
 			"MathXplore",
 			"Otokoume",
@@ -26,5 +27,6 @@
 	"contactpage-wikimedia-trademark-wikiversity": "ウィキバーシティ",
 	"contactpage-wikimedia-trademark-wiktionary": "ウィクショナリー",
 	"contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage",
-	"contactpage-affcom-chapter-thorg-elections-label": "選挙"
+	"contactpage-affcom-chapter-thorg-elections-label": "選挙",
+	"contactpage-movecom-signup-affiliation-foundation": "ウィキメディア財団"
 }

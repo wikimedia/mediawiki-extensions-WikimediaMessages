@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"StanProg",
 			"Varnent"
 		]
 	},
@@ -13,18 +14,18 @@
 	"wm-commonstrings-noticeboard": "Табло",
 	"wm-commonstrings-objectives": "Цели",
 	"wm-commonstrings-ongoing": "Текущо",
-	"wm-commonstrings-open": "Отвори",
+	"wm-commonstrings-open": "Отворено",
 	"wm-commonstrings-overview": "Общ преглед",
 	"wm-commonstrings-participate": "Участвайте",
-	"wm-commonstrings-policies-guidelines": "Политики и упътвания",
+	"wm-commonstrings-policies-guidelines": "Политики и насоки",
 	"wm-commonstrings-purpose": "Цел",
 	"wm-commonstrings-questions": "Въпроси?",
-	"wm-commonstrings-register-account": "Създаване на акаунт",
+	"wm-commonstrings-register-account": "Създаване на сметка",
 	"wm-commonstrings-reports": "Доклади",
 	"wm-commonstrings-scope": "Обхват",
 	"wm-commonstrings-seealso": "Вижте също",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Съкращение|Съкращения}}",
 	"wm-commonstrings-staff": "Персонал",
 	"wm-commonstrings-talktous": "Разговаряйте с нас",
-	"wm-commonstrings-updates": "Актуализации"
+	"wm-commonstrings-updates": "Обновления"
 }
