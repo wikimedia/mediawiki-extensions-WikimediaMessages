@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Lakejason0",
-			"Stang"
+			"Stang",
+			"沈澄心"
 		]
 	},
+	"wikimedia-log-action-filter-usermerge": "操作类型：",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "用户账号合并",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "用户账号删除",
 	"wikimedia-usermerge-logpage": "用户合并日志",
 	"wikimedia-usermerge-logpagetext": "这是用户合并操作的日志。"
 }
