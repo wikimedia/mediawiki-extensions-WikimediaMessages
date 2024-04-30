@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Dishual",
 			"Fulup",
 			"Huñvreüs"
@@ -329,6 +330,7 @@
 	"project-localized-name-iewiki": "Wikipedia en interlingue",
 	"project-localized-name-iewikibooks": "Wikilevrioù en interlingue",
 	"project-localized-name-iewiktionary": "Wikeriadur en interlingue",
+	"project-localized-name-iglwiki": "Wikipedia igalaek",
 	"project-localized-name-igwiki": "Wikipedia en igbo",
 	"project-localized-name-iiwiki": "Wikipedia e yieg Sichuan",
 	"project-localized-name-ikwiki": "Wikipedia en inupiaq",
@@ -364,10 +366,12 @@
 	"project-localized-name-jvwiki": "Wikipedia javanek",
 	"project-localized-name-jvwiktionary": "Wikeriadur javanek",
 	"project-localized-name-kaawiki": "Wikipedia e karakalpak",
+	"project-localized-name-kaawiktionary": "Wikeriadur karakalpakek",
 	"project-localized-name-kabwiki": "Wikipedia kabilek",
 	"project-localized-name-kawiki": "Wikipedia jorjianek",
 	"project-localized-name-kawikibooks": "Wikilevrioù jorjianek",
 	"project-localized-name-kawikiquote": "Wikiarroud jorjianek",
+	"project-localized-name-kawikisource": "Wikimammenn jorjianek",
 	"project-localized-name-kawiktionary": "Wikeriadur jorjianek",
 	"project-localized-name-kbdwiki": "Wikipedia kabardek",
 	"project-localized-name-kgwiki": "Wikipedia e kongo",
@@ -394,5 +398,7 @@
 	"project-localized-name-kowikisource": "Wikimammenn koreanek",
 	"project-localized-name-kowikiversity": "Wikiskolveur koreanek",
 	"project-localized-name-kowiktionary": "Wikeriadur koreanek",
+	"project-localized-name-mswikisource": "Wikimammenn malezek",
+	"project-localized-name-mywikisource": "Wikimammenn birmanek",
 	"project-localized-name-wikidatawiki": "Wikidata"
 }

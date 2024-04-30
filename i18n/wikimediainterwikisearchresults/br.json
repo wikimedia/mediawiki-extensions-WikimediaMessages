@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Adriendelucca",
 			"Fulup"
 		]
 	},
 	"search-interwiki-results-awawiki": "O tiskouez disoc'hoù eus [[:awa:|Wikipedia en Awadhi]].",
+	"search-interwiki-results-iglwiki": "O tiskouez disoc'hoù eus ar [[:igl:|Wikipedia ingalaek]].",
 	"search-interwiki-results-kcgwiki": "O tiskouez disoc'hoù eus [[:kcg:|Wikipedia e Tyap]]."
 }
