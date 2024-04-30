@@ -133,6 +133,8 @@ class Hooks implements
 			'checkuser-toollinks',
 			// T327281
 			'checkuser-tempaccount-enable-preference',
+			// T362548
+			'checkuser-investigateblock-warning-ips-and-users-in-targets',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			// T139797
