@@ -132,7 +132,7 @@ class Hooks implements
 			'checkuser-api-useragent-clienthints-explanation',
 			'checkuser-toollinks',
 			// T327281
-			'checkuser-tempaccount-enable-preference',
+			'checkuser-tempaccount-enable-preference-description',
 			// T362548
 			'checkuser-investigateblock-warning-ips-and-users-in-targets',
 			'createacct-helpusername',
