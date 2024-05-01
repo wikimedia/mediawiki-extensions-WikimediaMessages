@@ -6,7 +6,8 @@
 			"Otokoume",
 			"Shirayuki",
 			"Sujiniku",
-			"아라"
+			"아라",
+			"Chqaz"
 		]
 	},
 	"contactpage-pagetext-requestlicense": "ウィキメディアの商標利用に関するお問い合わせは、下記のフォームをご利用ください。",
@@ -26,5 +27,6 @@
 	"contactpage-wikimedia-trademark-wikiversity": "ウィキバーシティ",
 	"contactpage-wikimedia-trademark-wiktionary": "ウィクショナリー",
 	"contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage",
-	"contactpage-affcom-chapter-thorg-elections-label": "選挙"
+	"contactpage-affcom-chapter-thorg-elections-label": "選挙",
+	"contactpage-movecom-signup-affiliation-foundation": "ウィキメディア財団"
 }
