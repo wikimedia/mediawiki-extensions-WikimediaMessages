@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Waki285"
 		]
 	},
 	"wm-commonstrings-activities": "活動",
+	"wm-commonstrings-agenda": "議題",
 	"wm-commonstrings-background": "背景",
 	"wm-commonstrings-bylaws": "定款",
 	"wm-commonstrings-closed": "終了",
@@ -23,9 +25,10 @@
 	"wm-commonstrings-questions": "質問ですか？",
 	"wm-commonstrings-register-account": "アカウント登録",
 	"wm-commonstrings-reports": "報告",
-	"wm-commonstrings-resolutions": "決議",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|決議}}",
 	"wm-commonstrings-scope": "範囲",
 	"wm-commonstrings-seealso": "参照",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|ショートカット}}",
 	"wm-commonstrings-staff": "スタッフ",
 	"wm-commonstrings-talktous": "相談してください",
 	"wm-commonstrings-updates": "更新情報"
