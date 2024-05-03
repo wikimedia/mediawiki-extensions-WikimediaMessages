@@ -61,8 +61,7 @@
 			"class": "MediaWiki\\Extension\\WikimediaMessages\\Hooks",
 			"factory": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::factory",
 			"services": [
-				"MainConfig",
-				"UserOptionsManager"
+				"MainConfig"
 			]
 		},
 		"WikimediaMessagesCampaignEventsHooks": {
@@ -91,31 +90,18 @@
 		"UploadForm:initial": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"ChangesListSpecialPageStructuredFilters": {
-			"handler": "WikimediaMessagesHooks"
-		},
-		"LocalUserCreated": {
-			"handler": "WikimediaMessagesHooks"
-		},
 		"ResourceLoaderRegisterModules": {
-			"handler": "WikimediaMessagesHooks"
-		},
-		"GetPreferences": {
 			"handler": "WikimediaMessagesHooks"
 		},
 		"SpecialPageBeforeExecute": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"CheckUserSubtitleLinks": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onCheckUserSubtitleLinks",
 		"CampaignEventsGetPolicyMessageForRegistration": {
 			"handler": "WikimediaMessagesCampaignEventsHooks"
 		},
 		"CampaignEventsGetPolicyMessageForRegistrationForm": {
 			"handler": "WikimediaMessagesCampaignEventsHooks"
 		}
-	},
-	"DefaultUserOptions": {
-		"rcenhancedfilters-seen-highlight-button-counter": 0
 	},
 	"ConfigRegistry": {
 		"wikimedia-messages": "GlobalVarConfig::newInstance"
