@@ -23,6 +23,7 @@ use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
+use MediaWiki\MainConfigNames;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Output\OutputPage;
 use MediaWiki\Preferences\Hook\GetPreferencesHook;
@@ -100,11 +101,11 @@ class Hooks implements
 			ExtensionRegistry::getInstance(),
 			new ServiceOptions(
 				[
-					'DBname',
-					'ForceUIMsgAsContentMsg',
+					MainConfigNames::DBname,
+					MainConfigNames::ForceUIMsgAsContentMsg,
 					'WikimediaMessagesLicensing',
-					'LanguageCode',
-					'RightsText',
+					MainConfigNames::LanguageCode,
+					MainConfigNames::RightsText,
 				],
 				$mainConfig
 			),
@@ -217,7 +218,7 @@ class Hooks implements
 			$keys['privacypage'] = 'wikimedia-privacypage-labs';
 		}
 
-		$languageCode = $this->options->get( 'LanguageCode' );
+		$languageCode = $this->options->get( MainConfigNames::LanguageCode );
 
 		$transformationCallback = static function ( string $key, MessageCache $cache ) use ( $languageCode ): string {
 			$transformedKey = "wikimedia-$key";
@@ -250,14 +251,14 @@ class Hooks implements
 			$keys[$key] = $transformationCallback;
 		}
 
-		if ( $this->options->get( 'DBname' ) !== 'metawiki' ) {
+		if ( $this->options->get( MainConfigNames::DBname ) !== 'metawiki' ) {
 			foreach ( $allbutmetawikikeys as $key ) {
 				$keys[$key] = $transformationCallback;
 			}
 		}
 
 		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
-		$rightsText = $this->options->get( 'RightsText' );
+		$rightsText = $this->options->get( MainConfigNames::RightsText );
 
 		switch ( $licensing ) {
 			case 'mediawiki':
@@ -613,7 +614,7 @@ class Hooks implements
 	 * @throws ErrorPageError
 	 */
 	public function onUploadForm_initial( $upload ) {
-		$forceUIMsgAsContentMsg = $this->options->get( 'ForceUIMsgAsContentMsg' );
+		$forceUIMsgAsContentMsg = $this->options->get( MainConfigNames::ForceUIMsgAsContentMsg );
 
 		// TODO inject something to replace use of wfMessage
 		if ( !in_array( 'licenses', $forceUIMsgAsContentMsg )
