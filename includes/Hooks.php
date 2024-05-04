@@ -51,11 +51,16 @@ class Hooks implements
 	UploadForm_initialHook
 {
 
-	/** @var ExtensionRegistry */
-	private $extensionRegistry;
+	public const CONSTRUCTOR_OPTIONS = [
+		MainConfigNames::DBname,
+		MainConfigNames::ForceUIMsgAsContentMsg,
+		'WikimediaMessagesLicensing',
+		MainConfigNames::LanguageCode,
+		MainConfigNames::RightsText,
+	];
 
-	/** @var ServiceOptions */
-	private $options;
+	private ExtensionRegistry $extensionRegistry;
+	private ServiceOptions $options;
 
 	/**
 	 * @param ExtensionRegistry $extensionRegistry
@@ -65,6 +70,7 @@ class Hooks implements
 		ExtensionRegistry $extensionRegistry,
 		ServiceOptions $options
 	) {
+		$options->assertRequiredOptions( self::CONSTRUCTOR_OPTIONS );
 		$this->extensionRegistry = $extensionRegistry;
 		$this->options = $options;
 	}
@@ -77,16 +83,7 @@ class Hooks implements
 	public static function factory( Config $mainConfig ): Hooks {
 		return new self(
 			ExtensionRegistry::getInstance(),
-			new ServiceOptions(
-				[
-					MainConfigNames::DBname,
-					MainConfigNames::ForceUIMsgAsContentMsg,
-					'WikimediaMessagesLicensing',
-					MainConfigNames::LanguageCode,
-					MainConfigNames::RightsText,
-				],
-				$mainConfig
-			)
+			new ServiceOptions( self::CONSTRUCTOR_OPTIONS, $mainConfig )
 		);
 	}
 
