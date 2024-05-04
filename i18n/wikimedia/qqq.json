@@ -451,7 +451,6 @@
 	"right-docseditor": "Message for wikimediaapiportal-see-page-actions right\n{{Doc-right|docseditor}}",
 	"right-edit-legal": "{{doc-right|edit-legal}}\nRefers to a protection level",
 	"action-edit-legal": "{{doc-action|edit-legal}}",
-	"ipinfo-feedback-button-label": "Label for feedback button",
 	"ext-quicksurveys-tst-internal-survey-question": "TST internal survey question",
 	"ext-quicksurveys-name": "{{name}}\nFor displaying name of the QuickSurveys extension",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "The positive answer for the example internal survey\n{{Identical|Yes}}",

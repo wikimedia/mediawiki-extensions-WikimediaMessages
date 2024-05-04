@@ -1896,7 +1896,6 @@ class Hooks implements
 				'scripts' => 'infobox.js',
 				'styles' => 'infobox.less',
 				'messages' => [
-					'ipinfo-feedback-button-label',
 					'ipinfo-global-contributions-url-label',
 					'ipinfo-global-contributions-url',
 					'ipinfo-xtools-url-label',
@@ -1904,7 +1903,6 @@ class Hooks implements
 				],
 				'dependencies' => [
 					'ext.ipInfo',
-					'oojs-ui.styles.icons-interactions',
 				],
 			] );
 		}
