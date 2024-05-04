@@ -285,7 +285,7 @@ class Hooks implements
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
 
-		if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+		if ( $this->extensionRegistry->isLoaded( 'MobileFrontend' ) ) {
 			$keys['mainpage-title-loggedin'] = static function ( string $key ): string {
 				$context = MediaWikiServices::getInstance()->getService( 'MobileFrontend.Context' );
 
@@ -340,7 +340,7 @@ class Hooks implements
 
 		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
 
-		if ( ExtensionRegistry::getInstance()->isLoaded( 'MobileFrontend' ) ) {
+		if ( $this->extensionRegistry->isLoaded( 'MobileFrontend' ) ) {
 			$services = MediaWikiServices::getInstance();
 			$config = $services->getConfigFactory()->makeConfig( 'wikimedia-messages' );
 			$context = $services->getService( 'MobileFrontend.Context' );
