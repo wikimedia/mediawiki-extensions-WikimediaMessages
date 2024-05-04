@@ -8,7 +8,6 @@ namespace MediaWiki\Extension\WikimediaMessages;
 use ErrorPageError;
 use ExtensionRegistry;
 use HtmlArmor;
-use IContextSource;
 use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Config\Config;
@@ -39,7 +38,6 @@ use MediaWiki\User\Options\UserOptionsManager;
 use MediaWiki\User\User;
 use MessageCache;
 use MessageLocalizer;
-use OOUI\Tag;
 use ORES\Hooks\Helpers as ORESHookHelpers;
 use Skin;
 use Wikimedia\IPUtils;
@@ -1982,19 +1980,5 @@ class Hooks implements
 		}
 
 		$special->getOutput()->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
-	}
-
-	/**
-	 * Use this hook to modify the subtitle links on Special:Investigate.
-	 *
-	 * @param IContextSource $context
-	 * @param array &$links
-	 */
-	public static function onCheckUserSubtitleLinks( IContextSource $context, array &$links ) {
-		$text = $context->msg( 'specialinvestigate-feedback' )->text();
-		$links[] = ( new Tag( 'a' ) )->appendContent( $text )->setAttributes( [
-			'href' => 'https://meta.wikimedia.org/wiki/Special:MyLanguage/'
-				. 'Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/CheckUser_Improvements',
-		] );
 	}
 }

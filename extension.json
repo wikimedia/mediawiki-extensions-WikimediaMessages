@@ -106,7 +106,6 @@
 		"SpecialPageBeforeExecute": {
 			"handler": "WikimediaMessagesHooks"
 		},
-		"CheckUserSubtitleLinks": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onCheckUserSubtitleLinks",
 		"CampaignEventsGetPolicyMessageForRegistration": {
 			"handler": "WikimediaMessagesCampaignEventsHooks"
 		},
