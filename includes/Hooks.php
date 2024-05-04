@@ -8,12 +8,10 @@ namespace MediaWiki\Extension\WikimediaMessages;
 use ErrorPageError;
 use ExtensionRegistry;
 use HtmlArmor;
-use MediaWiki\Auth\Hook\LocalUserCreatedHook;
 use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Config\Config;
 use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
-use MediaWiki\Extension\GuidedTour\GuidedTourLauncher;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\BeforePageDisplayHook;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
@@ -25,20 +23,14 @@ use MediaWiki\Linker\Linker;
 use MediaWiki\MainConfigNames;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Output\OutputPage;
-use MediaWiki\Preferences\Hook\GetPreferencesHook;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
-use MediaWiki\SpecialPage\ChangesListSpecialPage;
-use MediaWiki\SpecialPage\Hook\ChangesListSpecialPageStructuredFiltersHook;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\Specials\SpecialUpload;
 use MediaWiki\Title\Title;
-use MediaWiki\User\Options\UserOptionsManager;
-use MediaWiki\User\User;
 use MessageCache;
 use MessageLocalizer;
-use ORES\Hooks\Helpers as ORESHookHelpers;
 use Skin;
 use Wikimedia\IPUtils;
 
@@ -50,10 +42,7 @@ use Wikimedia\IPUtils;
  */
 class Hooks implements
 	BeforePageDisplayHook,
-	ChangesListSpecialPageStructuredFiltersHook,
 	EditPageCopyrightWarningHook,
-	GetPreferencesHook,
-	LocalUserCreatedHook,
 	MessageCacheFetchOverridesHook,
 	ResourceLoaderRegisterModulesHook,
 	SkinAddFooterLinksHook,
@@ -68,33 +57,24 @@ class Hooks implements
 	/** @var ServiceOptions */
 	private $options;
 
-	/** @var UserOptionsManager */
-	private $userOptionsManager;
-
 	/**
 	 * @param ExtensionRegistry $extensionRegistry
 	 * @param ServiceOptions $options
-	 * @param UserOptionsManager $userOptionsManager
 	 */
 	public function __construct(
 		ExtensionRegistry $extensionRegistry,
-		ServiceOptions $options,
-		UserOptionsManager $userOptionsManager
+		ServiceOptions $options
 	) {
 		$this->extensionRegistry = $extensionRegistry;
 		$this->options = $options;
-		$this->userOptionsManager = $userOptionsManager;
 	}
 
 	/**
 	 * @param Config $mainConfig
-	 * @param UserOptionsManager $userOptionsManager
 	 *
 	 * @return Hooks
 	 */
-	public static function factory(
-		Config $mainConfig,
-		UserOptionsManager $userOptionsManager ): Hooks {
+	public static function factory( Config $mainConfig ): Hooks {
 		return new self(
 			ExtensionRegistry::getInstance(),
 			new ServiceOptions(
@@ -106,8 +86,7 @@ class Hooks implements
 					MainConfigNames::RightsText,
 				],
 				$mainConfig
-			),
-			$userOptionsManager
+			)
 		);
 	}
 
@@ -1741,20 +1720,6 @@ class Hooks implements
 	}
 
 	/**
-	 * Check if one or both of the 'damaging' and 'goodfaith' models are
-	 * available on the current wiki.
-	 *
-	 * @return bool
-	 */
-	private function isOresAvailable() {
-		return $this->extensionRegistry->isLoaded( 'ORES' ) &&
-			(
-				ORESHookHelpers::isModelEnabled( 'damaging' )
-				|| ORESHookHelpers::isModelEnabled( 'goodfaith' )
-			);
-	}
-
-	/**
 	 * Allows last minute changes to the output page, e.g. adding of CSS or JavaScript by extensions.
 	 *
 	 * @param OutputPage $out The Output page object
@@ -1769,126 +1734,11 @@ class Hooks implements
 	}
 
 	/**
-	 * - Prepare guided tours relevant to ChangesListSpecialPage.
-	 *   In MediaWiki core: RecentChanges, RecentChangesLinked, and Watchlist (depending
-	 *   on the current user's preferences).
-	 *
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ChangesListSpecialPageStructuredFilters
-	 *
-	 * @param ChangesListSpecialPage $special
-	 */
-	public function onChangesListSpecialPageStructuredFilters( $special ) {
-		if ( !$this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
-			return;
-		}
-		$title = $special->getPageTitle();
-		$user = $special->getUser();
-		$out = $special->getOutput();
-
-		if (
-			// If we're on Special:RecentChanges
-			$title->isSpecial( 'Recentchanges' ) &&
-			// And the user is one with an account
-			$user->isNamed() &&
-			// If RCFilters UI is enabled
-			$special->isStructuredFilterUiEnabled()
-		) {
-			if ( !$this->userOptionsManager->getOption( $user, 'rcenhancedfilters-seen-tour' ) ) {
-				GuidedTourLauncher::launchTour( 'RcFiltersIntro', 'Welcome' );
-				$out->addJsConfigVars( 'wgRCFiltersORESAvailable', $this->isOresAvailable() );
-			}
-
-			if ( !$this->userOptionsManager->getOption( $user, 'rcenhancedfilters-tried-highlight' ) ) {
-				$out->addModules( 'ext.guidedTour.tour.RcFiltersHighlight' );
-			}
-		} elseif (
-			$title->isSpecial( 'Watchlist' ) &&
-			$user->isNamed() &&
-			$special->isStructuredFilterUiEnabled() &&
-			!$this->userOptionsManager->getOption( $user, 'wlenhancedfilters-seen-tour' )
-		) {
-			// Show watchlist tour
-			GuidedTourLauncher::launchTour( 'WlFiltersIntro', 'Welcome' );
-			$out->addJsConfigVars( 'wgRCFiltersORESAvailable', $this->isOresAvailable() );
-		}
-	}
-
-	/**
-	 * This hook is called when a new user account is (auto-)created.
-	 *
-	 * It is used to prevent new users from seeing RCFilters guided tours
-	 *
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/LocalUserCreated
-	 *
-	 * @param User $user
-	 * @param bool $autocreated
-	 */
-	public function onLocalUserCreated( $user, $autocreated ) {
-		$this->userOptionsManager->setOption( $user, 'rcenhancedfilters-seen-tour', true );
-		$this->userOptionsManager->setOption( $user, 'wlenhancedfilters-seen-tour', true );
-	}
-
-	/**
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/ResourceLoaderRegisterModules
 	 *
 	 * @param ResourceLoader $resourceLoader
 	 */
 	public function onResourceLoaderRegisterModules( ResourceLoader $resourceLoader ): void {
-		if ( $this->extensionRegistry->isLoaded( 'GuidedTour' ) ) {
-			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersIntro', [
-				'localBasePath' => dirname( __DIR__ ) . '/modules',
-				'remoteExtPath' => 'WikimediaMessages/modules',
-				'scripts' => 'rcfilters-intro-tour.js',
-				'styles' => 'rcfilters-intro-tour.less',
-				'messages' => [
-					'eri-rcfilters-tour-intro-welcome-title',
-					'eri-rcfilters-tour-intro-welcome-description',
-					'eri-rcfilters-tour-help',
-					'eri-rcfilters-tour-intro-welcome-no-ores-description',
-					'eri-rcfilters-tour-intro-preferences-description',
-					'eri-rcfilters-tour-intro-welcome-button',
-				],
-				'dependencies' => [
-					'ext.guidedTour'
-				],
-			] );
-			$resourceLoader->register( 'ext.guidedTour.tour.WlFiltersIntro', [
-				'localBasePath' => dirname( __DIR__ ) . '/modules',
-				'remoteExtPath' => 'WikimediaMessages/modules',
-				'scripts' => 'wlfilters-intro-tour.js',
-				'styles' => 'rcfilters-intro-tour.less',
-				'messages' => [
-					'eri-wlfilters-tour-intro-welcome-title',
-					'eri-rcfilters-tour-intro-welcome-description',
-					'eri-rcfilters-tour-help',
-					'eri-rcfilters-tour-intro-welcome-no-ores-description',
-					'eri-wlfilters-tour-intro-preferences-description',
-					'eri-rcfilters-tour-intro-welcome-button',
-					'eri-rcfilters-tour-intro-disable-button',
-				],
-				'dependencies' => [
-					'ext.guidedTour'
-				],
-			] );
-			$resourceLoader->register( 'ext.guidedTour.tour.RcFiltersHighlight', [
-				'localBasePath' => dirname( __DIR__ ) . '/modules',
-				'remoteExtPath' => 'WikimediaMessages/modules',
-				'scripts' => [
-					'rcfilters-highlight-tour-hooks.js',
-					'rcfilters-highlight-tour.js',
-				],
-				'styles' => 'rcfilters-highlight-tour.less',
-				'messages' => [
-					'eri-rcfilters-tour-highlight-title',
-					'eri-rcfilters-tour-highlight-description',
-					'eri-rcfilters-tour-highlight-button',
-				],
-				'dependencies' => [
-					'ext.guidedTour'
-				],
-			] );
-		}
-
 		if ( $this->extensionRegistry->isLoaded( 'IPInfo' ) ) {
 			$resourceLoader->register( 'ext.wikimediaMessages.ipInfo.hooks', [
 				'localBasePath' => dirname( __DIR__ ) . '/modules/ext.wikimediaMessages.ipInfo.hooks',
@@ -1906,32 +1756,6 @@ class Hooks implements
 				],
 			] );
 		}
-	}
-
-	/**
-	 * Register extra preferences.
-	 *
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/GetPreferences
-	 *
-	 * @param User $user
-	 * @param array &$preferences
-	 */
-	public function onGetPreferences( $user, &$preferences ) {
-		$preferences['rcenhancedfilters-seen-tour'] = [
-			'type' => 'api',
-		];
-
-		$preferences['rcenhancedfilters-tried-highlight'] = [
-			'type' => 'api',
-		];
-
-		$preferences['rcenhancedfilters-seen-highlight-button-counter'] = [
-			'type' => 'api',
-		];
-
-		$preferences['wlenhancedfilters-seen-tour'] = [
-			'type' => 'api',
-		];
 	}
 
 	/**
