@@ -478,6 +478,8 @@
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "The negative for the AutoModerator Patroller Workstream Survey",
 	"gadget-curidlink-link-by-id": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-curidlink-link-by-id-desc": "Text of sidebar tooltip added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
+	"tooltip-gadget-purgetab-text": "Tooltip text of menu entry added via [[:c:MediaWiki:Gadget-purgetab.js|purgetab]] gadget",
+	"gadget-purgetab-error": "Text of message bubble that is shown when [[:c:MediaWiki:Gadget-purgetab.js|purgetab]] gadget fails",
 	"gadget-souspages-subpages": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-SousPages.js|SousPages]] gadget\n\n{{Identical|Subpage}}",
 	"ext-campaignevents-register-policy": "Legal disclaimer shown when a user tries to register for an event. The word for \"Registration\" should be consistent with the word used in the messages for the Campaign Events extension, for example {{msg-mw|Campaignevents-register-confirmation-top}}.",
 	"ext-campaignevents-registration-form-policy": "Policy message shown in the footer of the registration form at [[Special:EnableEventRegistration]] and [[Special:EditEventRegistration]].",

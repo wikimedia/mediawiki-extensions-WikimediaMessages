@@ -427,6 +427,8 @@
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "No",
 	"gadget-curidlink-link-by-id": "Link by ID",
 	"gadget-curidlink-link-by-id-desc": "Show link to this page by its ID",
+	"tooltip-gadget-purgetab-text": "Purge the server cache of this page",
+	"gadget-purgetab-error": "Purge failed",
 	"gadget-souspages-subpages": "Subpages",
 	"ext-campaignevents-register-policy": "By registering, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct Universal Code of Conduct], and any local Friendly Space Policy provided by the event organizers.",
 	"ext-campaignevents-registration-form-policy": "Events hosted or funded by the Wikimedia Foundation are required to adhere to all Wikimedia Foundation policies, including on [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy Youth Safety].",
