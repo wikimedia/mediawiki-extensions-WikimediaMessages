@@ -210,7 +210,6 @@
 	"action-editextendedsemiprotected": "modificar pàgines protegides amb \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"right-editextendedsemiprotected": "Modificar pàgines protegides amb \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permetre només autopatrullats",
-	"eri-rcfilters-tour-help": "Més informació",
 	"wikimedia-statslink": "Estadístiques",
 	"wikimedia-cookiestatement": "Declaració de cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "S'ha carregat prou de pressa, aquesta pàgina?",

@@ -62,8 +62,6 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nပေ့ꩻခါꩻမုꩻယိုနဝ်ꩻ  $1 ($2) ခွုမ်မာꩻဒျာႏနဝ်ꩻသွူ။\nပေ့ꩻဗာႏအကျောင်ꩻနဝ်ꩻ ပွိုး ''$3'' ဒျာႏသွူ။\n\n* ပေ့ꩻထိုꩻစခိန်ႏ: $4\n* ပေ့ꩻခါꩻလို့ထိုꩻခိန်ႏ: $5\n\nနာꩻအုဲင်ပီလိပ်စာယိုခါကျာꩻနဝ်ꩻ ထွာဒျာႏ\n$6 သွူ။\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nပေ့ꩻခါꩻမုꩻယိုနဝ်ꩻ  $1 ($2) ခွုမ်မာꩻဒျာႏနဝ်ꩻသွူ။\nပေ့ꩻဗာႏအကျောင်ꩻနဝ်ꩻ ပွိုး ''$3'' ဒျာႏသွူ။\n\n* ပေ့ꩻထိုꩻစခိန်ႏ: $4\n* ပေ့ꩻခါꩻလို့ထိုꩻခိန်ႏ: $5\n\nနာꩻအုဲင်ပီလိပ်စာယိုခါကျာꩻနဝ်ꩻ ထွာဒျာႏ\n$6 သွူ။\n {{int:blockedtext-include-details-queries}}\n {{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-commons": "ဝီခီမီဒီယာ ကောင်မွဥ်း",
-	"eri-rcfilters-tour-intro-welcome-no-ores-description": "ထူႏသုင်ꩻသွူ စဲစ်ထွားမုꩻတသာတဲင် ထွားစဲစ်စဲင်းချာသွော့ ခြပ်ချောꩻမုꩻဖုံႏဩ။ စဲစ်ထွားမုꩻဖုံႏအဗူႏကိုနဝ်ꩻ သိမ်ꩻဟဝ်နွောင်ꩻအာႏ၊ ကေားသုင်ꩻသား ကထွော့ခါꩻဒါႏ အွဉ်ႏနယ်ချက် တောမ်ႏ ဖျင်ဆင်မွဉ်းဖျင်ချက်အလင်ဖုံႏ အဝ်ႏပါနဝ်ꩻသွူ။ $1",
-	"eri-rcfilters-tour-help": "သွဉ်ꩻထူႏထဲင်းယင်း",
 	"wikimedia-statslink": "စာႏရင်ꩻဖုံႏ",
 	"wikimedia-cookiestatement": "ကွတ်ကီးထေပြန်ႏချက်",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "မွေး",

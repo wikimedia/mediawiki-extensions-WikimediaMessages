@@ -55,8 +55,6 @@
 	"wikimedia-developers": "Pamekar",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\nAlamat IP anjeun ayeuna $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nPeungpeuk ieu dilakukeun ku $1 ( $2 ).\nAlesan anu dipasihkeun nyaéta '' $3 ''. \n\n* Mimiti blok: $4 \n* Kadaluwarsa blok: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-kasalahan}}",
-	"eri-rcfilters-tour-highlight-title": "Hasil kodeu warna anjeun",
-	"eri-rcfilters-tour-highlight-button": "Okéh, ngarti",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Pernyataan réréméh",
 	"ext-quicksurveys-name": "Surveina nu Gancang",

@@ -18,18 +18,6 @@
 	"wikimedia-developers": "Viksok",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nHi adavni $1 ($2) hannem kelya.\nDil'lem karon zaun asa \"$3\".\n\n* Adavni suru: $4\n* Adavni bond: $5\n\nTuzo sod'deacho IP potto zaun asa $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nHi adavni $1 ($2) hannem kelya.\nDil'lem karon zaun asa ''$3''.\n\n* Adavni suru: $4\n* Adavni bond: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"eri-rcfilters-tour-intro-welcome-title": "Sudarit Halinchea Bodlachem challnnek ievkar",
-	"eri-rcfilters-tour-intro-welcome-description": "Noveo gallnneo, gallnneachem bosovp samballpachi xokeota, vaporpean vakhea kelolem vhodd-uzvadd ghalop ani iontrachea xikpachem boll vaprun sompadon odik boreponnim niall kor. $1",
-	"eri-rcfilters-tour-intro-welcome-no-ores-description": "Noveo gallnneo, gallnneachem bosovp samballpachi xokeota, vaporpean vakhea kelolem vhodd-uzvadd ghalop ani ani her sudaropam vaprun sompadon odik boreponnim niall kor. $1",
-	"eri-rcfilters-tour-help": "Odik xikun ghe",
-	"eri-rcfilters-tour-intro-preferences-description": "Halinchea Bodlachea sudarlolea avrutentlo kuxin sorunk, Halinchea Bodlachi vollokpott’ttent posontint khoincheai vellar proves kor .",
-	"eri-rcfilters-tour-intro-disable-button": "Bhair sorunk vinch",
-	"eri-rcfilters-tour-highlight-title": "Tujea porinnamank rongit sonket di",
-	"eri-rcfilters-tour-highlight-description": "Vinchlole gunn drixttin sor korunk vhodd-uzvadd vapor.<br/><br/>Tujean vhodd-uzvadd gallnne sangata zoddunk zata vo vhodd-uzvadd svotontrponnim vaprum ieta.",
-	"eri-rcfilters-tour-highlight-button": "Borem asa, {{GENDER:|somzolom|somzolim|somzolom/somzolim}}",
-	"eri-rcfilters-tour-confirm-title": "Noveo gallnneo atam xokeo keleat",
-	"eri-rcfilters-tour-confirm-description": "Protisad purovnni korunk vo sobhavgunn durboll korunk, tujean ''beta'' sobhavgunnachea panant proves korum ieta.",
-	"eri-wlfilters-tour-intro-welcome-title": "Sudarit Sadurvollerichem challnnek ievkar",
 	"wikimedia-statslink": "Ankddevari",
 	"wikimedia-cookiestatement": "Cookinchem vivoronn"
 }
