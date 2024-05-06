@@ -6,6 +6,8 @@
 			"沈澄心"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1将用户账户“$4”（$5）{{GENDER:$2|合并}}到{{GENDER:$8|$6}}（$7）",
+	"wikimedia-logentry-usermerge-deleteuser": "$1{{GENDER:$2|删除了}}用户账号“$4”（$5）",
 	"wikimedia-log-action-filter-usermerge": "操作类型：",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "用户账号合并",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "用户账号删除",
