@@ -57,7 +57,12 @@
 			"Vlad5250",
 			"WindEwriX",
 			"Александр Сигачёв",
-			"TAndic (WMF)"
+			"TAndic (WMF)",
+			"Bashkorttan",
+			"Butko",
+			"Dirruw'o",
+			"IKhitron",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -292,7 +297,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Один или несколько прокси-серверов, использованных в вашем запросе, [[m:Special:MyLanguage/Global blocks|глобально заблокированы]].'''\n\nБлокировка была сделана $1 ($2).\nУказанная причина: ''$3''.\n\n* начало блокировки: $4 \n* окончание блокировки: $5 \n\nЗаблокированным прокси-адресом был $6.\nПожалуйста, включайте все эти подробности в свои обращения.\n\nЕсли вы считаете, что были заблокированы по ошибке, то можете найти дополнительную информацию и инструкции на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.\nВ противном случае, чтобы обсудить блокировку, пожалуйста, [[m:Steward requests/Global|обратитесь с запросом о пересмотре на Мета-вики]].",
 	"wikimedia-torblock-blocked": "Ваш IP-адрес <strong>$1</strong> был автоматически определён как выходной узел Tor.\nРедактирование через Tor заблокировано для предотвращения злоупотреблений.\nДополнительную информацию и инструкции для честных пользователей смотрите на странице [[m:Special:MyLanguage/No open proxies|Недопустимость использования открытых прокси-серверов]] глобальных правил.",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru",
-	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Политика_конфиденциальности Политика конфиденциальности]",
+	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Политика конфиденциальности]",
 	"grant-checkuser": "Доступ к данным проверок участников",
 	"upload-form-label-own-work-message-commons": "Я подтверждаю, что являюсь владельцем авторских прав на этот файл, и соглашаюсь на безотзывной основе разместить этот файл на Викискладе под лицензией [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike 4.0], а также соглашаюсь с [https://foundation.wikimedia.org/wiki/Условия_использования Условиями использования].",
 	"upload-form-label-not-own-work-message-commons": "Если вы не являетесь владельцем авторских прав на этот файл, или вы хотите выпустить его под другой лицензией, рассмотрите возможность использования [https://commons.wikimedia.org/wiki/Special:UploadWizard Мастера загрузки на Викисладе].",
