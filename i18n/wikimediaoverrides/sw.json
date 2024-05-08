@@ -1,9 +1,14 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Amire80"
+		]
 	},
 	"wikimedia-centralauth-groupname": "Wakfu wa Wikimedia",
 	"wikimedia-sitematrix": "Orodha ya wiki za Wikimedia",
 	"wikimedia-sitematrix-others": "Miradi mingine ya Wikimedia",
-	"wikimedia-sitematrix-summary": "Ukurasa huu spesheli unaorodhesha Wiki zote za Wikimedia."
+	"wikimedia-sitematrix-summary": "Ukurasa huu spesheli unaorodhesha Wiki zote za Wikimedia.",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "Anwani yako ya IP imekuwa [[m:Special:MyLanguage/Global blocks|imezuiwa kwenye wikis zote]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Seva mbadala moja au zaidi zinazotumiwa na ombi lako ni [[m:Special:MyLanguage/Global blocks|zimezuiwa kimataifa]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Ikiwa unaamini kuwa ulizuiwa kimakosa, unaweza kupata maelezo na maagizo ya ziada katika sera ya kimataifa ya [[m:Special:MyLanguage/No open proxies|No open proxies]]. \nLa sivyo, ili kujadili kizuizi tafadhali [[m:Steward requests/Global|chapisha ombi la ukaguzi kwenye Meta-Wiki]]."
 }

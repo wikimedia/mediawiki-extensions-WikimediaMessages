@@ -9,7 +9,8 @@
 			"Matěj Suchánek",
 			"Raymond",
 			"Reedy",
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"Dreamy Jazz"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Error message at [[Special:CreateAccount]].\n\n\"in the last day\" precisely means: during the lasts 86400 seconds (24 hours) ending right now.\n\nParameters:\n* $1 - number of accounts",
@@ -45,7 +46,7 @@
 	"wikimedia-ipb-confirmhideuser": "Used as confirmation message in [[Special:Block]] before doing a HideUser block.\n\nSee also:\n* {{msg-mw|Ipb-blockingself}} and {{msg-mw|ipb-confirmhideuser}}",
 	"wikimedia-urlshortener-disabled": "Error message shown when the user tries to create a new shortened url on other wikis than meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Error message sent by API when the user tries to create a new shortened URL on wikis other than meta.wikimedia.org.",
-	"wikimedia-urlshortener-badaccessgroups": "Error message shown when user tries to create new shortned url without the needed rights, should only be shown on wikis other than meta.wikimedia.org.",
+	"wikimedia-urlshortener-badaccessgroups": "Error message shown when user tries to create new shortened url without the needed rights, should only be shown on wikis other than meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Error message sent by API when the user tries to create a new shortened URL without the necessary rights. Should only be shown on wikis other than meta.wikimedia.org.",
 	"wikimedia-webauthn-module-description": "Description of WebAuthn module used on Special:OATHManage",
 	"wikimedia-webauthn-ui-login-prompt": "Message explaining user-required actions on login",
