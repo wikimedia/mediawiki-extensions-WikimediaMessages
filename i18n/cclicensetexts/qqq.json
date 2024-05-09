@@ -180,7 +180,7 @@
 	"wm-license-cc-by-sa-2.5-tw-text": "{{CreativeCommonsLicense|by-sa|2.5|tw}}",
 	"wm-license-cc-by-sa-2.5-za-text": "{{CreativeCommonsLicense|by-sa|2.5|za}}",
 	"wm-license-cc-by-sa-3.0-text": "{{CreativeCommonsLicense|by-sa|3.0}}",
-	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "This is a combination of all Creative Commons Attribution-Share Alike templates. See [[:Commons:Template:Cc-by-sa-3.0,2.5,2.0,1.0]] for how it's used.\n\nRefers to {{msg-mw|Wm-license-cc-wiki-link}}.",
+	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "This is a combination of 3.0 and older Creative Commons Attribution-Share Alike templates. See [[:Commons:Template:Cc-by-sa-3.0,2.5,2.0,1.0]] for how it's used.\n\nRefers to {{msg-mw|Wm-license-cc-wiki-link}}.",
 	"wm-license-cc-by-sa-3.0-at-text": "{{CreativeCommonsLicense|by-sa|3.0|at}}",
 	"wm-license-cc-by-sa-3.0-au-text": "{{CreativeCommonsLicense|by-sa|3.0|au}}",
 	"wm-license-cc-by-sa-3.0-br-text": "{{CreativeCommonsLicense|by-sa|3.0|br}}",

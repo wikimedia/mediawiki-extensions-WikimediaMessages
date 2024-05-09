@@ -292,7 +292,7 @@
 	"protect-level-extendedconfirmed": "Dozwolone tylko dla doświadczonych redaktorów i administratorów",
 	"action-editeditorprotected": "edycji stron zabezpieczonych na poziomie „{{int:protect-level-editeditorprotected}}”",
 	"right-editeditorprotected": "Edycja stron zabezpieczonych na poziomie „{{int:protect-level-editeditorprotected}}”",
-	"protect-level-editeditorprotected": "Zezwalaj tylko redaktorom",
+	"protect-level-editeditorprotected": "Dozwolone tylko dla redaktorów",
 	"restriction-level-editeditorprotected": "zabezpieczone na poziomie redaktorów",
 	"action-editextendedsemiprotected": "edycji stron zabezpieczonych na poziomie „{{int:protect-level-editextendedsemiprotected}}”",
 	"right-editextendedsemiprotected": "Edycja stron zabezpieczonych na poziomie „{{int:protect-level-editextendedsemiprotected}}”",
