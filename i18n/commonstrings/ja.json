@@ -3,7 +3,8 @@
 		"authors": [
 			"Nikki",
 			"Varnent",
-			"Waki285"
+			"Waki285",
+			"春春眠眠"
 		]
 	},
 	"wm-commonstrings-activities": "活動",
@@ -15,6 +16,7 @@
 	"wm-commonstrings-connect": "接続",
 	"wm-commonstrings-contactus": "お問い合わせ",
 	"wm-commonstrings-events": "イベント",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|詳細: $1}}",
 	"wm-commonstrings-noticeboard": "掲示板",
 	"wm-commonstrings-objectives": "目的",
 	"wm-commonstrings-ongoing": "継続中",

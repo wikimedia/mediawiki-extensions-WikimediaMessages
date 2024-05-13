@@ -2,9 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"BamLifa",
+			"Eruedin",
 			"Moyogo"
 		]
 	},
 	"sitesupport": "Lisungi na misɔlɔ",
-	"wikimedia-developers": "Ba développeurs"
+	"wikibase-sitelinks-wikisource": "Wikintína",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Ba développeurs",
+	"wikimedia-statslink": "Mitúya"
 }

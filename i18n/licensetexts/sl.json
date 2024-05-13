@@ -114,5 +114,6 @@
 	"wm-license-self-one-license-with-author": "$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja pod naslednjo licenco:",
 	"wm-license-self-multiple-licenses": "Jaz, imetnik avtorskih pravic na tem delu, ga s tem objavljam pod naslednjimi licencami:",
 	"wm-license-self-multiple-licenses-with-author": "$1, imetnik avtorskih pravic na tem delu, ga s tem objavlja pod naslednjimi licencami:",
-	"wm-license-self-multiple-licenses-select": "Izberete lahko licenco po svoji izbiri."
+	"wm-license-self-multiple-licenses-select": "Izberete lahko licenco po svoji izbiri.",
+	"wm-license-self-invalid-parameter": "Neveljaven parameter. Ta predloga za javno domeno se ne sme uporabljati v predlogi za lastno delo."
 }
