@@ -14,7 +14,8 @@
 			"Tofeiku",
 			"Ultron90",
 			"Zulfadli51",
-			"Hakimi97"
+			"Hakimi97",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Pesanan-pesanan Wikimedia",
@@ -143,6 +144,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Penyelia penterjemahan",
 	"group-wmf-researcher": "Penyelidik WMF",
 	"tag-emoji": "Emoji",
+	"search-interwiki-custom": "wikt:Dari Wikikamus\nb:Dari Wikibuku\nn:Dari Wikiberita\nq:Dari Wikipetikan\ns:Dari Wikisumber\nv:Dari Wikiversiti\nvoy:Dari Wikikembara",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Teks disediakan dengan <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.ms\">Lesen Creative Commons Pengiktirafan/Perkongsian Serupa</a>; terma tambahan mungkin digunakan. Lihat <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use\">Terma Penggunaan</a> untuk butiran lanjut.",
 	"wikidata-copyright": "Kesemua data berstruktur dari ruang nama utama dan sifat terdapat di bawah <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\">Lesen Creative Commons CC0</a>;\nmaklumat dalam ruang-ruang nama yang lain pula terdapat di bawah <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" title=\"Definition of the Creative Commons Attribution-ShareAlike License\">Lesen Creative Commons Attribution-ShareAlike</a>;\ntertakluk pada sebarang syarat tambahan.\nRujuk <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">Syarat-Syarat Penggunaan</a> untuk butiran lanjut.",
@@ -156,6 +158,7 @@
 	"wikibase-sitelinks-wiktionary": "Wikikamus",
 	"wikibase-otherprojects-commons": "Wikimedia Commons",
 	"wikibase-otherprojects-testwikidata": "Wikidata",
+	"wikibase-otherprojects-sources": "Wikisumber Berbilang Bahasa",
 	"wikibase-otherprojects-species": "Wikispesies",
 	"wikibase-otherprojects-wikibooks": "Wikibuku",
 	"wikibase-otherprojects-wikidata": "Wikidata",
@@ -169,6 +172,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
+	"wikibase-sitelinks-sitename-sourceswiki": "Wikisumber Berbilang Bahasa",
 	"wikibase-sitelinks-sitename-species": "Wikispesies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Anda tidak boleh memadamkan atau memindahkan laman utama.",
