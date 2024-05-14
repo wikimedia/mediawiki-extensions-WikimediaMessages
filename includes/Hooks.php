@@ -1493,7 +1493,8 @@ class Hooks implements
 			],
 		];
 
-		$wgGrammarForms['sr-ec'] = [
+		$wgGrammarForms['sr-ec'] =
+		$wgGrammarForms['sr-cyrl'] = [
 			// genitive
 			'генитив' => [
 				'Викиречник'  => 'Викиречника',
@@ -1559,7 +1560,8 @@ class Hooks implements
 			],
 		];
 
-		$wgGrammarForms['sr-el'] = [
+		$wgGrammarForms['sr-el'] =
+		$wgGrammarForms['sr-latn'] = [
 			// genitive
 			'genitiv' => [
 				'Vikirečnik'  => 'Vikirečnika',
