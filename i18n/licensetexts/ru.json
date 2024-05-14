@@ -71,7 +71,7 @@
 	"wm-license-creator-linkback": "Обратная ссылка на шаблонную карточку автора",
 	"wm-license-fal-text": "Копилефт: Это свободное произведение искусства; вы можете распространять и/или изменять его в соответствии с условиями '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Условия этой лицензии можно найти на сайте [{{int:wm-license-fal-full-link}} Copyleft Attitude], а также [{{int:wm-license-fal-full-link-commons}} на других сайтах].",
 	"wm-license-fal-wiki-link": "w:ru:Лицензия Free Art",
-	"wm-license-fal-full-link": "http://artlibre.org/lal/en",
+	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/en",
 	"wm-license-fsf-wiki-link": "w:ru:Фонд свободного программного обеспечения",
 	"wm-license-free-software-wiki-link": "w:ru:Свободное программное обеспечение",
 	"wm-license-gfdl-1.2-and-later": "Разрешается копировать, распространять и/или изменять этот документ в соответствии с условиями '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' версии 1.2 или более поздней, опубликованной [[{{int:wm-license-fsf-wiki-link}}|Фондом свободного программного обеспечения]], без неизменяемых разделов, без текстов, помещаемых на первой и последней обложке. Копия лицензии включена в раздел, озаглавленный ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
