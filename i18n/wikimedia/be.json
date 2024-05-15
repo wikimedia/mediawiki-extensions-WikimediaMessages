@@ -16,7 +16,8 @@
 			"Vlad5250",
 			"Yury Tarasievich",
 			"ZlyiLev",
-			"Чаховіч Уладзіслаў"
+			"Чаховіч Уладзіслаў",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Спецыфічныя паведамленні «Вікімедыя»",
@@ -149,8 +150,8 @@
 	"upload-more-photos-of-this-monument": "Запампаваць болей здымкаў гэтага аб’екта",
 	"wikimedia-developers": "Распрацоўшчыкі",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлакіроўка была зроблена $1 ($2).\nНазваная прычына: ''$3''.\n\n* Пачатак блакіроўкі: $4 \n* Канец блакіроўкі: $5 \n\nВаш бягучы IP-адрас - $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-range": "'''Ваш IP-адрас у дыяпазоне, які быў [[m:Special:MyLanguage/Global blocks|заблакаваны на ўсіх вікі-праектах Фонда Вікімедыя]].'''\n\nБлакіроўка была зроблена $1 ($2).\nНазваная прычына: ''$3''.\n\n* Пачатак блакіроўкі: $4 \n* Канец блакіроўкі: $5 \n\nВаш бягучы IP-адрас - $6, а заблакаваны дыяпазон - $7.\nКалі ласка, уключайце ўсе гэтыя падрабязнасці ў свае звароты.\n\nКалі вы лічыце, што былі заблакаваныя па памылцы, вы можаце знайсці дадатковую інфармацыю і інструкцыі на старонцы [[m:Special:MyLanguage/No open proxies|Недапушчальнасць выкарыстання адкрытых проксі-сервераў]] глабальных правіл.\nУ адваротным выпадку, каб абмеркаваць блакіроўку, калі ласка, [[m:Steward requests/Global|звярніцеся з запытам пра перагляд на Мета-вікі]] ці адпраўце электроннае паведамленне ў чаргу [[m:Special:MyLanguage/VRT|VRT]] [[m:Special:MyLanguage/Stewards|stewards]] па адрасе <kbd>stewards@wikimedia.org</kbd>, уключаючы ўсе вышэйпералічаныя дэталі.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Адзін ці некалькі проксі-сервераў, выкарыстаных у вашым запыце, [[m:Special:MyLanguage/Global blocks|заблакаваны на ўсіх вікі-праектах]].'''\n\nБлок пастаўлены ўдзельнікам $1 ($2).\nНазвана прычына: ''$3''.\n\n* пачатак блакіроўкі: $4 \n* канец блакіроўкі: $5 \n\nАдрас заблакаванага проксі-сервера - $6.\nКалі ласка, уключайце ўсе гэтыя падрабязнасці ў свае звароты.\n\nКалі вы лічыце, што былі заблакаваны памылкова, вы можаце знайсці дадатковую інфармацыю і інструкцыі на старонцы [[m:Special:MyLanguage/No open proxies|Недапушчальнасць выкарыстання адкрытых проксі-сервераў]] глабальных правіл.\nУ іншым выпадку, каб абмеркаваць блакіроўку, калі ласка, [[m:Steward requests/Global|звярніцеся з запытам пра перагляд на Мета-вікі]].",
+	"wikimedia-globalblocking-ipblocked-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nБлакіроўка была зроблена $1 ($2).\nНазваная прычына: ''$3''.\n\n* Пачатак блакіроўкі: $4 \n* Канец блакіроўкі: $5 \n\nВаш бягучы IP-адрас - $6. {{int:globalblocking-blockedtext-ip-range|$7}} {{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлок пастаўлены ўдзельнікам $1 ($2).\nНазвана прычына: ''$3''.\n\n* Пачатак блакіроўкі: $4 \n* Канец блакіроўкі: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Палітыка прыватнасці]",
 	"grant-checkuser": "Доступ да даных праверкі ўдзельнікаў",
 	"upload-form-label-own-work-message-commons": "Я пацвярджаю, што з’яўляюся ўласнікам аўтарскіх правоў на гэты файл, і згодны незваротна перадаць гэты файл у Вікісховішча на ўмовах ліцэнзіі [https://creativecommons.org/licenses/by-sa/4.0/deed.be Creative Commons Attribution-ShareAlike 4.0], а таксама згодны з [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Умовамі Выкарыстання].",
