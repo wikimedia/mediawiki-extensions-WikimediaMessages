@@ -20,15 +20,18 @@ use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
+use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\MainConfigNames;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Output\OutputPage;
+use MediaWiki\Permissions\PermissionManager;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\Specials\SpecialUpload;
 use MediaWiki\Title\Title;
+use MediaWiki\User\Options\UserOptionsLookup;
 use MessageCache;
 use MessageLocalizer;
 use Skin;
@@ -60,30 +63,53 @@ class Hooks implements
 	];
 
 	private ExtensionRegistry $extensionRegistry;
+	private LinkRenderer $linkRenderer;
+	private PermissionManager $permissionManager;
 	private ServiceOptions $options;
+	private UserOptionsLookup $userOptionsLookup;
 
 	/**
 	 * @param ExtensionRegistry $extensionRegistry
+	 * @param LinkRenderer $linkRenderer
+	 * @param PermissionManager $permissionManager
 	 * @param ServiceOptions $options
+	 * @param UserOptionsLookup $userOptionsLookup
 	 */
 	public function __construct(
 		ExtensionRegistry $extensionRegistry,
-		ServiceOptions $options
+		LinkRenderer $linkRenderer,
+		PermissionManager $permissionManager,
+		ServiceOptions $options,
+		UserOptionsLookup $userOptionsLookup
 	) {
 		$options->assertRequiredOptions( self::CONSTRUCTOR_OPTIONS );
 		$this->extensionRegistry = $extensionRegistry;
+		$this->linkRenderer = $linkRenderer;
+		$this->permissionManager = $permissionManager;
 		$this->options = $options;
+		$this->userOptionsLookup = $userOptionsLookup;
 	}
 
 	/**
+	 * @param LinkRenderer $linkRenderer
 	 * @param Config $mainConfig
+	 * @param PermissionManager $permissionManager
+	 * @param UserOptionsLookup $userOptionsLookup
 	 *
 	 * @return Hooks
 	 */
-	public static function factory( Config $mainConfig ): Hooks {
+	public static function factory(
+		LinkRenderer $linkRenderer,
+		Config $mainConfig,
+		PermissionManager $permissionManager,
+		UserOptionsLookup $userOptionsLookup
+	): self {
 		return new self(
 			ExtensionRegistry::getInstance(),
-			new ServiceOptions( self::CONSTRUCTOR_OPTIONS, $mainConfig )
+			$linkRenderer,
+			$permissionManager,
+			new ServiceOptions( self::CONSTRUCTOR_OPTIONS, $mainConfig ),
+			$userOptionsLookup
 		);
 	}
 
@@ -289,8 +315,7 @@ class Hooks implements
 		}
 		if ( $rightsPage ) {
 			$title = Title::newFromText( $rightsPage );
-			$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
-			$link = $linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), [] );
+			$link = $this->linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), [] );
 		} elseif ( $rightsUrl ) {
 			$link = Linker::makeExternalLink( $rightsUrl, $rightsText, true, '', [] );
 		} else {
@@ -1786,16 +1811,13 @@ class Hooks implements
 
 		$accessingUser = $special->getUser();
 		$isBetaFeaturesLoaded = $this->extensionRegistry->isLoaded( 'BetaFeatures' );
-		$services = MediaWikiServices::getInstance();
-		$permissionManager = $services->getPermissionManager();
-		$userOptionsLookup = $services->getUserOptionsLookup();
 
 		// Check the same permissions and preferences as
 		// MediaWiki\IPInfo\HookHandler\InfoboxHandler
 		if (
-			!$permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
+			!$this->permissionManager->userHasRight( $accessingUser, 'ipinfo' ) ||
 			( $isBetaFeaturesLoaded &&
-				!$userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' ) )
+				!$this->userOptionsLookup->getOption( $accessingUser, 'ipinfo-beta-feature-enable' ) )
 		) {
 			return;
 		}

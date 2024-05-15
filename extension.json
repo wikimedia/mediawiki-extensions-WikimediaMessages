@@ -61,7 +61,10 @@
 			"class": "MediaWiki\\Extension\\WikimediaMessages\\Hooks",
 			"factory": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::factory",
 			"services": [
-				"MainConfig"
+				"LinkRenderer",
+				"MainConfig",
+				"PermissionManager",
+				"UserOptionsLookup"
 			]
 		},
 		"WikimediaMessagesCampaignEventsHooks": {
