@@ -5,7 +5,12 @@
 		]
 	},
 	"sitesupport": "𑄘𑄚𑄴 𑄉𑄧𑄢𑄚",
-	"wikimedia-copyright": "𑄃𑄨𑄠𑄮𑄖𑄴 𑄃𑄧𑄥𑄉𑄮𑄌𑄴𑄬 𑄣𑄬𑄊 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\n𑄢𑄬𑄚𑄨 𑄥𑄧 <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> 𑄝𑄬𑄌𑄴 𑄉𑄧𑄢𑄨 𑄥𑄬𑄝𑄖𑄴𑄬.",
+	"wikimedia-copyright": "𑄃𑄨𑄠𑄮𑄖𑄴 𑄃𑄧𑄥𑄉𑄮𑄌𑄴𑄬 𑄣𑄬𑄊 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\n𑄢𑄬𑄚𑄨 𑄥𑄧 <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> 𑄝𑄬𑄌𑄴 𑄉𑄧𑄢𑄨 𑄥𑄬𑄝𑄖𑄴𑄬𑅁",
+	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
+	"wikibase-sitelinks-wikinews": "𑄃𑄪𑄃𑄨𑄇𑄨𑄚𑄨𑄅𑄎𑄴",
+	"wikibase-sitelinks-wikiquote": "𑄃𑄪𑄃𑄨𑄇𑄨𑄇𑄮𑄑𑄴",
+	"wikibase-sitelinks-wikisource": "𑄃𑄪𑄃𑄨𑄇𑄨𑄥𑄮𑄢𑄴𑄥𑄴",
+	"wikibase-sitelinks-wikivoyage": "𑄃𑄪𑄃𑄨𑄇𑄨𑄞𑄧𑄠𑄬𑄎𑄴",
 	"wikimedia-developers": "𑄓𑄬𑄞𑄮𑄣𑄮𑄛𑄢𑄴𑄥𑄴",
 	"wikimedia-statslink": "𑄃𑄨𑄥𑄴𑄑𑄬𑄑𑄨𑄥𑄴𑄑𑄨𑄇𑄴𑄥𑄴",
 	"wikimedia-cookiestatement": "𑄇𑄫𑄇𑄩 𑄃𑄨𑄥𑄴𑄑𑄬𑄖𑄴𑄟𑄬𑄚𑄴𑄑𑄴"
