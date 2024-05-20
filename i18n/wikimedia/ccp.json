@@ -5,13 +5,13 @@
 		]
 	},
 	"sitesupport": "𑄘𑄚𑄴 𑄉𑄧𑄢𑄚",
-	"wikimedia-copyright": "𑄃𑄨𑄠𑄮𑄖𑄴 𑄃𑄧𑄥𑄉𑄮𑄌𑄴𑄬 𑄣𑄬𑄊 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\n𑄢𑄬𑄚𑄨 𑄥𑄧 <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> 𑄝𑄬𑄌𑄴 𑄉𑄧𑄢𑄨 𑄥𑄬𑄝𑄖𑄴𑄬𑅁",
-	"wikimedia-copyrightwarning": "By saving changes, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
+	"wikimedia-copyright": "𑄃𑄨𑄠𑄮𑄖𑄴 𑄃𑄧𑄥𑄉𑄮𑄌𑄴𑄬 𑄣𑄬𑄊 <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">𑄇𑄳𑄢𑄨𑄠𑄬𑄑𑄨𑄞𑄴 𑄇𑄧𑄟𑄧𑄚𑄴𑄥𑄴 𑄃𑄬𑄑𑄳𑄢𑄨𑄝𑄨𑄅𑄥𑄧𑄚𑄴-𑄥𑄬𑄠𑄢𑄴𑄃𑄬𑄣𑄭𑄇𑄴 𑄣𑄭𑄥𑄬𑄚𑄴𑄥𑄬𑄢𑄴</a>;\n𑄃𑄬𑄓𑄨𑄥𑄧𑄚𑄣𑄴 𑄒𑄢𑄴𑄟𑄴 𑄉𑄧𑄢𑄧𑄌𑄴 𑄦𑄮𑄃𑄨 𑄛𑄢𑄬𑅁\n𑄢𑄬𑄚𑄨 𑄥𑄧 <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">𑄣𑄢𑄴𑄌𑄢𑄧𑄢𑄴 𑄑𑄢𑄴𑄟𑄴</a> 𑄝𑄬𑄌𑄴 𑄉𑄧𑄢𑄨 𑄥𑄬𑄝𑄖𑄴𑄬𑅁",
 	"wikibase-sitelinks-wikinews": "𑄃𑄪𑄃𑄨𑄇𑄨𑄚𑄨𑄅𑄎𑄴",
 	"wikibase-sitelinks-wikiquote": "𑄃𑄪𑄃𑄨𑄇𑄨𑄇𑄮𑄑𑄴",
 	"wikibase-sitelinks-wikisource": "𑄃𑄪𑄃𑄨𑄇𑄨𑄥𑄮𑄢𑄴𑄥𑄴",
 	"wikibase-sitelinks-wikivoyage": "𑄃𑄪𑄃𑄨𑄇𑄨𑄞𑄧𑄠𑄬𑄎𑄴",
 	"wikimedia-developers": "𑄓𑄬𑄞𑄮𑄣𑄮𑄛𑄢𑄴𑄥𑄴",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n𑄝𑄳𑄣𑄧𑄇𑄴𑄮 $1 ($2) 𑄘𑄨𑄚𑄬𑄭 𑄝𑄚 𑄦𑄮𑄠𑄬𑅁 𑄖 𑄇𑄢𑄧𑄚𑄚𑄴 𑄦𑄧𑄣𑄧 ''$3''।\n\n* 𑄝𑄳𑄣𑄧𑄉𑄧𑄢𑄴 𑄃𑄢𑄴𑄉𑄚𑄨: $4\n* 𑄝𑄳𑄣𑄧𑄉𑄧𑄢𑄴 𑄃𑄨𑄠𑄮𑄖𑄴: $5\n\n𑄖𑄧𑄢𑄴 𑄃𑄨𑄢𑄪𑄇𑄴 𑄃𑄭𑄛𑄨 𑄒𑄨𑄊𑄚 $6।\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "𑄃𑄨𑄥𑄴𑄑𑄬𑄑𑄨𑄥𑄴𑄑𑄨𑄇𑄴𑄥𑄴",
 	"wikimedia-cookiestatement": "𑄇𑄫𑄇𑄩 𑄃𑄨𑄥𑄴𑄑𑄬𑄖𑄴𑄟𑄬𑄚𑄴𑄑𑄴"
 }
