@@ -46,7 +46,8 @@
 			"Yfdyh000",
 			"捍粵者",
 			"星海",
-			"飞舞回堂前"
+			"飞舞回堂前",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -254,6 +255,7 @@
 	"wikibase-otherprojects-species": "維基物種",
 	"wikibase-otherprojects-wikibooks": "維基教科書",
 	"wikibase-otherprojects-wikidata": "維基數據",
+	"wikibase-otherprojects-wikifunctions": "Wikifunctions",
 	"wikibase-otherprojects-wikinews": "維基新聞",
 	"wikibase-otherprojects-wikiquote": "維基語錄",
 	"wikibase-otherprojects-wikipedia": "維基百科",

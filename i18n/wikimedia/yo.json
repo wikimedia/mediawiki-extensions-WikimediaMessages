@@ -4,7 +4,8 @@
 			"Demmy",
 			"Nemo bis",
 			"Oyatopeabioye",
-			"Wikicology"
+			"Wikicology",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Àwọn ìránṣẹ́ Wikimedia nìkan",
@@ -14,7 +15,7 @@
 	"group-flood-member": "{{GENDER:$1|oníṣe bot}}",
 	"group-sysadmin": "Àwọn olùmójútó sístẹ́mù",
 	"group-sysadmin-member": "{{GENDER:$1|olùmójútó sístẹ́mù}}",
-	"wikimedia-copyright": "Gbogbo ìkọ wà lábẹ́ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn ó tún wà.\nẸ wo <a href=\"https://foundation.wikimedia.org/Terms_of_Use\">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.",
+	"wikimedia-copyright": "Ìkọsílẹ̀ wà lábẹ́ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.yo\">Creative Commons Attribution-ShareAlike License</a>; ó ṣe é ṣe kí àwọn ọ̀rọ̀ àdéhùn míràn ó tún wà.\nẸ wo <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Àwọn Ọ̀rọ̀ Àdéhùn Ìlò</a> fún ẹ̀kúnrẹ́rẹ́.",
 	"wikimedia-copyrightwarning": "Nípa mímúpamọ́, ẹ gbà láláìṣeédápadà láti fi àfikún yín sílẹ̀ lábẹ́ [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] àti [https://www.gnu.org/copyleft/fdl.html GFDL].\nẸ gbà kí àwọn olùtúnlò míràn, o kéréjù pelú ìjápò tàbí URL sí ojúewé tí ẹ ṣàfikún sí, pe kí wọn ó dárúkọ yín.\nẸ wo [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Àwọn Ọ̀rọ̀ Àdéhùn Ìlò] fún ẹ̀kúnrẹ́rẹ́.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Kú àbò}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
