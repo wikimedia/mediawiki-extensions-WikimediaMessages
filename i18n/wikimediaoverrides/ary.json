@@ -5,7 +5,9 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(عاونّي ف لإختيار)]]",
+	"createacct-helpusername-url": "{{ns:Project}}:لحكام د السمية د لخدايمي",
 	"wikimedia-sitematrix": "ليستة د لويكيات د ويكيميديا",
+	"wikimedia-sulrenamewarning-usenew": "من دابا ل لڭدام، خاصك تلوڭا ب السمية د لخدايمي الجديدة ديالك <strong>$1</strong>، السمية د لخدايمي الجديدة ديالك فريدة ف جميع لپروجيات د ويكيميديا، و يلا تلوڭيتي ف شي پروجي محدد و زرتي واحد أخور، لكونط ديالك كيمشي معاك، [[:m:Special:MyLanguage/Help:Unified_login|صفحة لمعاونة ديال اللوڭين لموحد]] فيها معلومات زايدة على اللوڭين د خدايمي، زيادة على ليستة د لأسئلة الشايعة، يلا كنتي محتاج باش تجدد لإيميل ديالك ؤلا تبدال لموضپاس ف [[Special:Preferences|التفضيلات]]، يقدر يكون هادا هوّ لوقت لمناسب. \n\nباش تبدّل السمية د لخدايمي، سير ل [[Special:GlobalRenameRequest]]. شكرا على لمشاركة ديالك ف لپروجيات د ويكيميديا.",
 	"wikimedia-urlshortener-disabled": "الليانات لقصار مايقدرو يتصاوبو غير ب صفحة [[:m:Special:UrlShortener|خاص:مقصر الليانات]] على meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "الليانات لقصار مايقدرو يتصاوبو غير ب صفحة [[:m:Special:UrlShortener|خاص:مقصر الليانات]] على meta.wikimedia.org."
 }

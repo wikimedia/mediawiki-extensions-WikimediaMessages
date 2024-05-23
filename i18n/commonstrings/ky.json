@@ -1,13 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"Bosogo"
 		]
 	},
 	"wm-commonstrings-background": "Таржымал",
 	"wm-commonstrings-closed": "Жабык",
 	"wm-commonstrings-connect": "Байланышуу",
+	"wm-commonstrings-enterquestion": "Сурооңузду териңиз.",
 	"wm-commonstrings-events": "Иш-чаралар",
+	"wm-commonstrings-externallinks": "Тышкы шилтемелер",
 	"wm-commonstrings-mainpage-prompt": "Башкы бет: $1",
 	"wm-commonstrings-noticeboard": "Маалымдоо тактасы",
 	"wm-commonstrings-objectives": "Милдеттер",
@@ -15,10 +18,12 @@
 	"wm-commonstrings-open": "Ачык",
 	"wm-commonstrings-overview": "Сереп",
 	"wm-commonstrings-participate": "Катышуу",
+	"wm-commonstrings-policies-guidelines": "Саясаттар жана көрсөтмөлөр",
+	"wm-commonstrings-purpose": "Максат",
 	"wm-commonstrings-questions": "Суроолор ?",
 	"wm-commonstrings-register-account": "Катталуу",
 	"wm-commonstrings-reports": "Отчёттор",
-	"wm-commonstrings-resolutions": "Чечимдер",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Чечим|Чечимдер}}",
 	"wm-commonstrings-scope": "Жаат",
 	"wm-commonstrings-seealso": "Дагы караңыз",
 	"wm-commonstrings-staff": "Кызматкерлер",
