@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|fusionou}} a conta de usuario \"$4\" ($5) con {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|eliminou}} a conta de usuario \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Tipo de acción:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusión de contas de usuario",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Eliminación de contas de usuario",
+	"wikimedia-usermerge-logpage": "Rexistro de fusión de usuarios",
+	"wikimedia-usermerge-logpagetext": "Este é un rexistro das accións de fusión de usuarios."
+}

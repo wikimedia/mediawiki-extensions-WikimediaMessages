@@ -4,9 +4,11 @@
 			"Nikki",
 			"Varnent",
 			"Waki285",
-			"春春眠眠"
+			"春春眠眠",
+			"Apple TD"
 		]
 	},
+	"wm-commonstrings-aboutme": "私について",
 	"wm-commonstrings-activities": "活動",
 	"wm-commonstrings-agenda": "議題",
 	"wm-commonstrings-background": "背景",
@@ -17,12 +19,15 @@
 	"wm-commonstrings-contactus": "お問い合わせ",
 	"wm-commonstrings-events": "イベント",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|詳細: $1}}",
+	"wm-commonstrings-mywork": "私の仕事",
 	"wm-commonstrings-noticeboard": "掲示板",
 	"wm-commonstrings-objectives": "目的",
 	"wm-commonstrings-ongoing": "継続中",
 	"wm-commonstrings-open": "未解決",
 	"wm-commonstrings-overview": "概要",
 	"wm-commonstrings-participate": "参加する",
+	"wm-commonstrings-please-remember": "以下のことを忘れないでください: $1",
+	"wm-commonstrings-policies-guidelines": "方針とガイドライン",
 	"wm-commonstrings-purpose": "目的",
 	"wm-commonstrings-questions": "質問ですか？",
 	"wm-commonstrings-register-account": "アカウント登録",

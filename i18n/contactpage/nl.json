@@ -100,5 +100,11 @@
 	"contactpage-ombudscommission-affected-accounts": "Op welke accounts is deze klacht van toepassing? Als niemand anders dan u getroffen is, kunt u dit veld overslaan.",
 	"contactpage-ombudscommission-proposed-solution": "Welke oplossing zou u voorstellen? Wat verwacht u van de commissie?",
 	"contactpage-ombudscommission-additional-information": "Voeg alle andere gegevens toe waarvan u denkt dat ze relevant zijn voor een goed begrip van deze zaak.",
-	"contactpage-ombudscommission-disclaimer-label": "Disclaimer: alle informatie die u in dit formulier opneemt wordt verzonden naar, verwerkt door en beantwoord door vrijwillige leden van de gemeenschap (met name leden van de [[Special:MyLanguage/Ombuds commission|ombudscommissie]]) en niet door de Wikimedia Foundation. Voeg geen informatie toe die u niet wilt delen met Wikimedia-vrijwilligers. Reacties en andere correspondentie met betrekking tot de verwerking van uw ingediende informatie mogen niet worden beschouwd als officiële verklaringen van de Wikimedia Foundation. Voor officiële correspondentie kunt u contact opnemen met de Wikimedia Foundation via de methoden die zijn vermeld op https://wikimediafoundation.org/about/contact/."
+	"contactpage-ombudscommission-disclaimer-label": "Disclaimer: alle informatie die u in dit formulier opneemt wordt verzonden naar, verwerkt door en beantwoord door vrijwillige leden van de gemeenschap (met name leden van de [[Special:MyLanguage/Ombuds commission|ombudscommissie]]) en niet door de Wikimedia Foundation. Voeg geen informatie toe die u niet wilt delen met Wikimedia-vrijwilligers. Reacties en andere correspondentie met betrekking tot de verwerking van uw ingediende informatie mogen niet worden beschouwd als officiële verklaringen van de Wikimedia Foundation. Voor officiële correspondentie kunt u contact opnemen met de Wikimedia Foundation via de methoden die zijn vermeld op https://wikimediafoundation.org/about/contact/.",
+	"contactpage-fromname-accountvanishapps": "Gebruikersnaam van de aanvrager",
+	"contactpage-fromaddress-accountvanishapps": "E-mailadres van de aanvrager",
+	"contactpage-title-accountvanishapps": "Verzoekformulier voor accountverdwijning",
+	"contactpage-subject-accountvanishapps": "Aanvraagformulier voor het laten verdwijnen van het account",
+	"contactpage-emailsent-accountvanishapps": "Aanvraag verzonden",
+	"contactpage-accountvanishapps-details": "Aanvullende gegevens over de aanvraag"
 }

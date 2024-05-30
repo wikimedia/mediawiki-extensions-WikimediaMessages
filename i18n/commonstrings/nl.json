@@ -5,9 +5,11 @@
 			"Iamthedutchdude",
 			"Mitsjol",
 			"Varnent",
-			"Siebrand"
+			"Siebrand",
+			"McDutchie"
 		]
 	},
+	"wm-commonstrings-aboutme": "Over mij",
 	"wm-commonstrings-activities": "Activiteiten",
 	"wm-commonstrings-agenda": "Agenda",
 	"wm-commonstrings-background": "Achtergrond",
@@ -15,6 +17,7 @@
 	"wm-commonstrings-closed": "Gesloten",
 	"wm-commonstrings-conclusion": "Conclusie",
 	"wm-commonstrings-connect": "Verbinden",
+	"wm-commonstrings-contacthuman": "Contact met een mens opnemen",
 	"wm-commonstrings-contactus": "Contact",
 	"wm-commonstrings-enterquestion": "Vul uw vraag in.",
 	"wm-commonstrings-events": "Gebeurtenissen",
@@ -22,6 +25,7 @@
 	"wm-commonstrings-follow": "Volgen",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hoofdartikel: $1|Hoofdartikelen: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hoofdpagina: $1|Hoofdpagina's: $1}}",
+	"wm-commonstrings-mywork": "Mijn werk",
 	"wm-commonstrings-news-events": "Nieuws en evenementen",
 	"wm-commonstrings-noticeboard": "Prikbord",
 	"wm-commonstrings-objectives": "Doelen",
@@ -31,6 +35,7 @@
 	"wm-commonstrings-participate": "Deelnemen",
 	"wm-commonstrings-please-remember": "Vergeet niet om: $1",
 	"wm-commonstrings-policies-guidelines": "Beleid en richtlijnen",
+	"wm-commonstrings-projects-collaborations": "Projecten en samenwerkingen",
 	"wm-commonstrings-purpose": "Doel",
 	"wm-commonstrings-questions": "Vragen?",
 	"wm-commonstrings-register-account": "Account registreren",
