@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Dreamy Jazz",
 			"Nemo bis",
 			"Sasan700",
 			"Саид Мисарбиев",
@@ -24,7 +25,7 @@
 	"group-otrs-member": "OTRSн декъашхой",
 	"group-otrs-member-member": "{{GENDER:$1|OTRSн декъашхо}}",
 	"grouppage-otrs-member": "{{ns:project}}:OTRSн декъашхой",
-	"group-abusefilter": "Зулам литтаран тадархой",
+	"group-abusefilter": "Abuse filter editors",
 	"group-abusefilter-member": "{{GENDER:$1|Зулам литтаран редактор}}",
 	"grouppage-abusefilter": "{{ns:project}}:Зулам литтаран тадархой",
 	"group-abusefilter-helper": "Зулам литтаран тадархой",

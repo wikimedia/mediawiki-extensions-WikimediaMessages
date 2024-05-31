@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Dicto23456",
+			"Dreamy Jazz",
 			"Gazeb",
 			"Gramo6",
 			"KHMELNYTSKYIA",
@@ -71,7 +72,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:Выняткы з блокованя IP адрес",
 	"group-patroller": "Патролы",
 	"group-patroller-member": "патрола",
-	"group-researcher": "Бадателї",
+	"group-researcher": "Researchers",
 	"group-researcher-member": "бадатель",
 	"grouppage-researcher": "{{ns:project}}:Бадателї",
 	"group-rollbacker": "Бадателї",

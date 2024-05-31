@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"CoderSI",
+			"Dreamy Jazz",
 			"Malikxan",
 			"Nataev",
 			"Nemo bis",
@@ -31,7 +32,7 @@
 	"group-abusefilter": "Suiisteʼmollar filtri muharrirlari",
 	"group-abusefilter-member": "{{GENDER:$1|suiisteʼmollar filtri muharriri}}",
 	"grouppage-abusefilter": "{{ns:project}}:Suiisteʼmollar filtri muharrirlari",
-	"group-abusefilter-helper": "Suiisteʼmollar filtri muharrirlari",
+	"group-abusefilter-helper": "Abuse filter helpers",
 	"group-accountcreator": "Hisob yozuvi yaratuvchilar",
 	"group-accountcreator-member": "{{GENDER:$1|hisob yozuvi yaratuvchi}}",
 	"grouppage-accountcreator": "{{ns:project}}:Hisob yozuvi yaratuvchilar",
