@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xqt"
+			"Xqt",
+			"Dreamy Jazz"
 		]
 	},
-	"group-flood": "Waddefresser",
+	"group-flood": "Pseudobots",
 	"group-flood-member": "{{GENDER:$1|Yuuser vun em Waddefresser}}",
 	"grouppage-flood": "{{ns:project}}:Waddefresser",
 	"group-founder": "Grinder",

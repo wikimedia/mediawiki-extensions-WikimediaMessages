@@ -9,7 +9,9 @@
 			"Smihael",
 			"Upwinxp",
 			"Yerpo",
-			"Amire80"
+			"Amire80",
+			"Dreamy Jazz",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Posebna sporočila Wikimedie",
@@ -106,7 +108,7 @@
 	"group-noratelimit": "Računi z neomejeno pogostostjo dejanj",
 	"group-noratelimit-member": "{{GENDER:$1|račun z neomejeno pogostostjo dejanj}}",
 	"grouppage-noratelimit": "{{ns:project}}:Računi z neomejeno pogostostjo dejanj",
-	"group-patroller": "Pregledovalci",
+	"group-patroller": "Patrollers",
 	"group-patroller-member": "{{GENDER:$1|pregledovalec|pregledovalka|pregledovalec_ka}}",
 	"grouppage-patroller": "{{ns:project}}:Pregledovalci",
 	"group-propertycreator": "Ustvarjalci lastnosti",
