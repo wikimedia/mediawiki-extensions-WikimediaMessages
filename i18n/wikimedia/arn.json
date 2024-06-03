@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Cuatro Remos",
 			"Fiestoforo",
 			"Lin linao",
 			"Manke ruLpa",
@@ -9,7 +10,7 @@
 	},
 	"sitesupport": "Elungechi",
 	"tooltip-n-sitesupport": "Kellumuiñ",
-	"wikimedia-copyright": "Kom wirin pefali may <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"></a> mew; kake zungu pepi müleay.\nMüngel lelinienge <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\"></a>.",
+	"wikimedia-copyright": "Kom wirin pefali may <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0</a> mew; kake zungu pepi müleay.\nMüngel lelinienge <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">tüfachi mellka</a>.",
 	"wikimedia-copyrightwarning": "Eltun mew mi kakünun maypifimi chi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/es Términos de uso], feymew rumel pengelzuguaymi tami kellukonel femngeci ñi pilen [https://creativecommons.org/licenses/by-sa/4.0/ licencia CC BY-SA 4.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] mew.\nFeymew maypiayimi ñi konael Creative Commons mew xarintuku kam URL mew.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Küme akukonpaymi}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
@@ -17,8 +18,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Zewmamekelu",
-	"wikimedia-globalblocking-ipblocked": "'''Tami IP ñi üy [[m:Special:MyLanguage/Global blocks|katrütungey kom wiki mew]].'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\nFewla tami IP ñi üy ta $6.\nMüngel wirintukuaymi kom wünetu pingelu tüfa mi ramtuael.\n\nTrokifimi welulkan mew mi katrütungen kom zungu pepi penieafimi [[m:Special:MyLanguage/No open proxies|ngeno nüla proxy]].\nKakelu zungu mew pepi [[m:Steward requests/Global|pengelkünuaymi Meta-Wiki]] mew mi nütramkawael.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Kiñe rume tami proxy pünelelu pin mew ta [[m:Special:MyLanguage/Global blocks|katrütungey itrokom]].'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\nChi katrütungechi proxy ta $6.\nMüngel wirintukuaymi kom wünetu pingelu tüfa mi ramtuael.\n\nTrokifimi welulkan mew mi katrütungen kom zungu pepi penieafimi [[m:Special:MyLanguage/No open proxies|ngeno nüla proxy]].\nKakelu zungu mew pepi [[m:Steward requests/Global|pengelkünuaymi ñi wüñokintungeael Meta-Wiki]] mew mi",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\nFewla tami IP ñi üy ta $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\nMüngel wirintukuaymi kom wünetu pingelu tüfa mi ramtuael.\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Chuntelen",
 	"wikimedia-cookiestatement": "Cookie ñi pikünuel"
 }

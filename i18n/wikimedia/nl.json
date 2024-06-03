@@ -428,7 +428,7 @@
 	"wikimedia-nutshell-guideline-intro": "Deze richtlijn in een notendop: $1",
 	"wikimedia-nutshell-policy-intro": "Dit beleid in een notendop: $1",
 	"wikimedia-nutshell-section-intro": "Dit gedeelte in een notendop: $1",
-	"wikimedia-talkheader-archives": "Voor oudere gesprekken {{#FORMAL:kun je|kunt u}} de [[$1|archiefindex]] bekijken.",
+	"wikimedia-talkheader-archives": "Voor oudere gesprekken {{#FORMAL:kunt u|kun je}} de [[$1|archiefindex]] bekijken.",
 	"wikimedia-talkheader-civility": "Blijf [[$1|beschaafd en beleefd]] tijdens discussies.",
 	"wikimedia-talkheader-pageprompt": "Deze pagina is bedoeld voor overleg met betrekking tot de pagina $1.",
 	"wikimedia-talkheader-signature": "[[$1|Onderteken]] berichten met behulp van de vier tildes (~~~~)",
