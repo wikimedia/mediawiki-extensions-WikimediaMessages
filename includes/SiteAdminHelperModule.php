@@ -53,7 +53,6 @@ class SiteAdminHelperModule extends FileModule {
 		'ambox' => [ 'ambox.less' ],
 		'infobox' => [ 'infobox.less' ],
 		'hatnote' => [ 'hatnote.less' ],
-		'navbox' => [ 'navbox.less' ],
 		'theme-night' => [ 'theme-night.less' ],
 		'theme-night-mainpage' => [ 'theme-night-mainpage.less' ],
 	];
