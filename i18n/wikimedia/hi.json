@@ -21,7 +21,9 @@
 			"राम प्रसाद जोशी",
 			"संजीव कुमार",
 			"రహ్మానుద్దీన్",
-			"Varnent"
+			"Varnent",
+			"Abijeet Patro",
+			"Dreamy Jazz"
 		]
 	},
 	"wikimediamessages-desc": "विकिमीडिया-विशिष्ट संदेश",
@@ -45,7 +47,7 @@
 	"group-abusefilter": "दुरुपयोग छननी संपादक",
 	"group-abusefilter-member": "{{GENDER:$1|दुरुपयोग छननी संपादक}}",
 	"grouppage-abusefilter": "{{ns:project}}:दुरुपयोग छननी संपादक",
-	"group-abusefilter-helper": "दुरुपयोग छननी संपादक",
+	"group-abusefilter-helper": "",
 	"group-accountcreator": "खाता निर्माता",
 	"group-accountcreator-member": "{{GENDER:$1|खाता निर्माता}}",
 	"grouppage-accountcreator": "{{ns:project}}:खाता निर्माता",

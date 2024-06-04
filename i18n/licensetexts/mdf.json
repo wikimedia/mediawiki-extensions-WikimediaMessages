@@ -1,16 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Валгриш"
+			"Валгриш",
+			"Numulunj pilgae"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Мярьгови копировндамс, полафнемс и/или полафнемс тя документть \"[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]\" од условиятнень мяльса кирдезь 1.2 или сяда од версия, кона нолдаф [[{{int:wm-license-fsf-wiki-link}}|программань максомань воляшинь Фондса]], апак полафтт  пялькснень, тексттнень эса, конат путфт васенце и мекольце лангаксса. Лицензиять копияц сувафтф пяльксти и лемтьф \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",
-	"wm-license-information-description": "Сембе ширде няфтема-азондома",
-	"wm-license-information-source": "Лихтибря",
-	"wm-license-information-date": "Цифраса пингонь няфтемась: шись, ковсь, кизось",
-	"wm-license-information-author": "Арьсись",
-	"wm-license-information-permission": "Прават",
-	"wm-license-information-permission-reusing-text": "Фкя и тяка файлать тага весть тевс нолдамац",
-	"wm-license-own-work": "Эсь тифце",
-	"wm-license-self-multiple-licenses-select": "Кочкасак лецензиять мяльцень коряс."
+	"wm-license-gfdl-1.2-and-later": "Мярьгови ламолгафнемс, явондомс, ди/ эли илякстопнемс кагодть \"[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]\" од вешфкснень мяльса кирдезь 1.2 или сяда од верзие, кона нолдаф [[{{int:wm-license-fsf-wiki-link}}|программань максомань панжада Фондса]], апак полафтт  пялькснень, сёрматфкснень эса, конат путфт васенце и мекольце лангаксть эса. Кемокстамать копияц сувафтф пакшти ди лемтьф \"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]\".",
+	"wm-license-information-description": "Сёрмадома",
+	"wm-license-information-source": "Лисьмапря",
+	"wm-license-information-date": "Пинге",
+	"wm-license-information-author": "Арьсиня",
+	"wm-license-information-permission": "Мярьговома",
+	"wm-license-information-permission-reusing-text": "Файлать одукс тевс нолдамац",
+	"wm-license-own-work": "Эсь тифсь",
+	"wm-license-self-multiple-licenses-select": "Кочкак кемокстамать эсь мяльцень коряс."
 }
