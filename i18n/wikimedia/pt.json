@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			555,
 			"Athena in Wonderland",
 			"Caiofernandes",
 			"Capmo",
@@ -37,8 +38,7 @@
 			"Varnent",
 			"Vitorvicentevalente",
 			"Waldir",
-			"Yanguas",
-			555
+			"Yanguas"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
