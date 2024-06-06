@@ -453,6 +453,8 @@
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "The survey question being asked for the AutoModerator Patroller Workstream Survey",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-link": "The survey link for the AutoModerator Patroller Workstream Survey",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "The survey privacy policy for the AutoModerator Patroller Workstream Survey",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "The positive answer for the AutoModerator Patroller Workstream Survey",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "The negative for the AutoModerator Patroller Workstream Survey",
 	"gadget-curidlink-link-by-id": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-curidlink-link-by-id-desc": "Text of sidebar tooltip added via [[:meta:MediaWiki:Gadget-CurIDLink.js|CurIDLink]] gadget",
 	"gadget-souspages-subpages": "Text of sidebar link added via [[:meta:MediaWiki:Gadget-SousPages.js|SousPages]] gadget\n\n{{Identical|Subpage}}",

@@ -402,6 +402,8 @@
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "Are you interested in taking a short survey on reviewing or reverting edits on your wiki?",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-link": "https://wikimedia.qualtrics.com/jfe/form/SV_cYJbaX8rOmvMgei",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "Survey provided by Qualtrics. See the [//www.qualtrics.com/privacy-statement/ privacy policy]",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Yes",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "No",
 	"gadget-curidlink-link-by-id": "Link by ID",
 	"gadget-curidlink-link-by-id-desc": "Show link to this page by its ID",
 	"gadget-souspages-subpages": "Subpages",
