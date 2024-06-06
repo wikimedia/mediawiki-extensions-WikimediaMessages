@@ -7,7 +7,8 @@
 			"KHMELNYTSKYIA",
 			"Krinkle",
 			"Tkalyn",
-			"Vlad5250"
+			"Vlad5250",
+			"Dreamy Jazz"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлїня, характерістічны про Вікімедію",
@@ -71,7 +72,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:Выняткы з блокованя IP адрес",
 	"group-patroller": "Патролы",
 	"group-patroller-member": "патрола",
-	"group-researcher": "Бадателї",
+	"group-researcher": "Researchers",
 	"group-researcher-member": "бадатель",
 	"grouppage-researcher": "{{ns:project}}:Бадателї",
 	"group-rollbacker": "Бадателї",
