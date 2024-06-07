@@ -2,21 +2,21 @@
 
 /**
  * Ambox classes are nested in a top-level class
- * for the page issues A/B test.
  * This class is appended to the DOM via JS
+ * THESE RULES ONLY APPLY TO MINERVA skin.
  **/
 @ambox-padding: 8px;
 @ambox-icon-padding: @ambox-padding * 4;
 @line-height-content: 1.65;
 
-body.skin--responsive .mw-parser-output .ambox,
+body.skin-minerva .mw-parser-output .ambox,
 /* Be more specific than .content table styles in Minerva */
-body.skin--responsive .mw-parser-output table.ambox {
+body.skin-minerva .mw-parser-output table.ambox {
 	display: block;
 	margin: 0;
 }
 
-.client-js body.skin--responsive .mw-parser-output .ambox {
+.client-js body.skin-minerva .mw-parser-output .ambox {
 	cursor: pointer;
 	width: auto;
 	// !important needed to override core ambox styles
