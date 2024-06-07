@@ -275,6 +275,7 @@
 	"wikimedia-otherprojects-endowment": "維基媒體捐贈基金",
 	"wikimedia-otherprojects-wikistore": "維基百科商店",
 	"wikimedia-taglines-cloudservices": "社群工具的託管環境",
+	"wikimedia-taglines-commons": "自由的媒體庫",
 	"wikimedia-taglines-foundationsite": "維基媒體基金會官方網站",
 	"wikimedia-taglines-incubator": "用於正在發展的語言版本",
 	"wikimedia-taglines-mediawiki": "自由與開放的wiki軟體",
@@ -388,6 +389,18 @@
 	"wikimedia-foundation-projects-of-label-nolink": "維基媒體基金會專案",
 	"wikimedia-projects-label": "維基媒體專案",
 	"wikimedia-mailservices-label": "維基媒體郵件服務",
+	"wikimedia-movement-affiliates-label": "維基媒體運動自治體",
+	"wikimedia-movement-affiliates-shortlabel": "運動自治體",
+	"wikimedia-movement-affiliates-oneword": "自治體",
 	"wikimedia-news-label": "維基媒體新聞",
-	"wikimedia-foundation-mark-label": "維基媒體基金會標誌"
+	"wikimedia-foundation-news-label": "維基媒體基金會新聞",
+	"wikimedia-foundation-logo-label": "維基媒體基金會標誌",
+	"wikimedia-foundation-mark-label": "維基媒體基金會標誌",
+	"wikimedia-foundation-department-shortname-ceo": "執行長辦公室",
+	"wikimedia-foundation-department-shortname-financeadmin": "財務與行政",
+	"wikimedia-foundation-department-shortname-legal": "法務",
+	"wikimedia-foundation-department-shortname-producttech": "產品與技術",
+	"wikimedia-foundation-about-label": "關於維基媒體基金會",
+	"wikimedia-foundation-about-label-short": "關於基金會",
+	"wikimedia-foundation-search-label-short": "搜尋基金會"
 }

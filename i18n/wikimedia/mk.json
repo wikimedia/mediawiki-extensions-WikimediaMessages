@@ -372,6 +372,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Не",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Не знам",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Оваа анонимна анкета ја спроведува Фондацијата Викимедија. [https://meta.wikimedia.org/wiki/Community_Safety Прочитајте повеќе] или погледајте ја [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement изјавата за лични податоци].",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "Дали би биле заинтересирани да пополните кратка анкета за проверката и отповикувањето на уредувања на вашето вики?",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "Анкетата ја овозможи Qualtrics. Погледајте ги [//www.qualtrics.com/privacy-statement/ правилата за лични податоци]",
 	"gadget-curidlink-link-by-id": "Врска по назнака",
 	"gadget-curidlink-link-by-id-desc": "Прикажи ја врската до страницава според нејзината назнака",
 	"gadget-souspages-subpages": "Потстраници",

@@ -352,6 +352,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Io non es secur",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Iste sondage anonyme es conducite per le Fundation Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Lege plus] o consulta le [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement declaration de confidentialitate].",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "Ha tu interesse in prender un curte sondage sur le revision e reversion de modificationes sur tu wiki?",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "Sondage fornite per Qualtrics. Vide le [//www.qualtrics.com/privacy-statement/ politica de confidentialitate]",
 	"gadget-curidlink-link-by-id": "Ligamine per ID",
 	"gadget-curidlink-link-by-id-desc": "Monstrar un ligamine a iste pagina per su ID",
 	"gadget-souspages-subpages": "Subpaginas",
