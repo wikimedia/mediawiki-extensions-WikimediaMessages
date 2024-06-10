@@ -367,6 +367,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Я не знаю",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Этот анонимный опрос проводит Фонд Викимедиа. [https://meta.wikimedia.org/wiki/Community_Safety Ознакомьтесь подробнее] или просмотрите [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement Положение о конфиденциальности].",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Да",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Нет",
 	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
 	"gadget-souspages-subpages": "Подстраницы",

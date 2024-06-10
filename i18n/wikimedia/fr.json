@@ -418,6 +418,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Non",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Je ne suis pas sûr{{GENDER:||e}}",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Cette enquête anonyme est menée par la Fondation Wikimédia. [https://meta.wikimedia.org/wiki/Community_Safety En savoir plus] ou consulter [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement la déclaration de confidentialité].",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Oui",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Non",
 	"gadget-curidlink-link-by-id": "Lien par identifiant",
 	"gadget-curidlink-link-by-id-desc": "Afficher un lien vers cette page par son identifiant",
 	"gadget-souspages-subpages": "Sous-pages",

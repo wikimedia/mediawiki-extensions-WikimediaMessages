@@ -378,6 +378,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "הסקר האלמוני הזה נערך על־ידי קרן ויקימדיה. באפשרותך [https://meta.wikimedia.org/wiki/Community_Safety לקרוא עוד מידע עליו] או לבדוק את [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement הצהרת פרטיות].",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "האם {{GENDER:|אתה מעוניין|את מעוניינת}} להשתתף בסקר קצר בנושא ניטור או שחזור של עריכות בוויקי שלך?",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "הסקר מסופק על־ידי Qualtrics. ר' את [//www.qualtrics.com/privacy-statement/ מדיניות הפרטיות]",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "כן",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "לא",
 	"gadget-curidlink-link-by-id": "קישור לפי מזהה",
 	"gadget-curidlink-link-by-id-desc": "הצגת קישור לדף הזה באמצעות המזהה שלו",
 	"gadget-souspages-subpages": "דפי־משנה",
