@@ -6,9 +6,9 @@ use MediaWiki\Config\HashConfig;
 use MediaWiki\Extension\WikimediaMessages\Hooks;
 use MediaWiki\Output\OutputPage;
 use MediaWiki\Tests\Unit\MockServiceDependenciesTrait;
+use MediaWiki\Title\Title;
 use MediaWikiUnitTestCase;
 use Skin;
-use Title;
 
 /**
  * @covers \MediaWiki\Extension\WikimediaMessages\Hooks
