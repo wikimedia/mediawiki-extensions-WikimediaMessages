@@ -3,13 +3,15 @@
 		"authors": [
 			"Ajiniyaz Nurniyazov",
 			"Arystanbek",
-			"Nurlan"
+			"Nurlan",
+			"Casserium"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(қатысушы есімін таңдауыма анықтама)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Кескінді көре алмадыңыз ба? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтқа сұраным беріңіз]]",
 	"wikimedia-centralauth-groupname": "Уикимедиа Қоры",
 	"createacct-helpusername-url": "Уикипедия:Қатысушы есім ережесі",
+	"wikimedia-discussiontools-replywidget-terms-click": "«$1» басқанда, біздің [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Қолдану шарттарымызбен] келісесіз, сонымен бірге $2 лицензиясы негізінде мәтініңізді қайтарымсыз жариялауға келісесіз.",
 	"wikimedia-flow-terms-of-use-edit": "Бетті сақтасаңыз, біздің [https://foundation.wikimedia.org/wiki/Terms_of_Use қолдану шарттары] және [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] және [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] аясында мәтініңізді қайтарымсыз жариялағаныңызға келіскеніңіз болып табылады.",
 	"wikimedia-sitematrix": "Wikimedia уики тізімі",
 	"wikimedia-sitematrix-others": "Басқа Wikimedia жобалары",
