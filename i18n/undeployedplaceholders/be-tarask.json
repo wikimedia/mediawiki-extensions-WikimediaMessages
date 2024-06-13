@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Red Winged Duck"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|аб’яднаў|аб’яднала}} рахунак «$4» ($5) у {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|выдаліў|выдаліла}} рахунак «$4» ($5)",
+	"wikimedia-log-action-filter-usermerge": "Тып дзеяньня:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Аб’яднаньне рахункаў",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Выдаленьне рахункаў",
+	"wikimedia-usermerge-logpage": "Журнал аб’яднаньня рахункаў",
+	"wikimedia-usermerge-logpagetext": "Гэта журнал аб’яднаньняў рахункаў удзельнікаў."
+}

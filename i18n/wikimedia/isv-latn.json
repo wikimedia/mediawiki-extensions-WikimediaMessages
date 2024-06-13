@@ -12,6 +12,8 @@
 	"wikibase-sitelinks-wikisource": "Vikiizvornik",
 	"wikibase-sitelinks-wikivoyage": "Vikiputovanje",
 	"wikimedia-developers": "Programisti",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokada byla naložena koristnikom: $1 ($2).\nPodana pričina jest: ''$3''.\n\n* Početok blokady: $4\n* Konec blokady: $5\n\nVaš tekuči IP-adres jest $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokada byla naložena koristnikom: $1 ($2).\nPodana pričina jest: ''$3''.\n\n* Početok blokady: $4\n* Konec blokady: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Soobčenje o kuki"
 }
