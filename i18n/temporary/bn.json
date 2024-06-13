@@ -3,10 +3,11 @@
 		"authors": [
 			"Abdullah Harun Jewel",
 			"Aftabuzzaman",
-			"আফতাবুজ্জামান"
+			"আফতাবুজ্জামান",
+			"MdsShakil"
 		]
 	},
-	"grouppage-oversight": "{{ns:project}}:গোপন পর্যবেক্ষক",
+	"grouppage-oversight": "{{ns:project}}:গোপনকারী",
 	"group-oversight": "গোপন পর্যবেক্ষকবৃন্দ",
 	"group-oversight-member": "{{GENDER:$1|গোপন পর্যবেক্ষক}}",
 	"hello": "হ্যালো",

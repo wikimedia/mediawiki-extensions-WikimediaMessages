@@ -3,7 +3,8 @@
 		"authors": [
 			"Amankel'dy",
 			"Hedeyohu22",
-			"СеніңШешең"
+			"СеніңШешең",
+			"Casserium"
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуция",
@@ -203,7 +204,7 @@
 	"wm-license-cc-sa-1.0-nl-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.en|Share Alike 1.0 Netherlands]] лицензиясы бойынша қолжетімді.",
 	"wm-license-cc-sa-2.0-jp-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.en|Share Alike 2.0 Japan]] лицензиясы бойынша қолжетімді.",
 	"wm-license-cc-zero-text": "Бұл файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.en CC0 1.0 Universal Public Domain Dedication] шарттарының аясында қолжетімді.",
-	"wm-license-cc-zero-explanation": "Бұл туындының істелуіне қатысты тұлғалар осы туындыны әлем бойынша барлық заң шеңберінде авторлық құқықтардан (сондай-ақ байланысқан және сабақтас құқықтардан) бас тартып, [[{{int:wm-license-pd-wiki-link}}|қоғамдық қазына]] өткізуді шешкен. Сіз бұл туындының көшірмесін алуға, оны таратуға, кез-келген мақсатта қолдануыңызға болады. Сондай-ақ автордың рұқсатынсыз коммерциялық мақсатта да қолдана аласыз.",
+	"wm-license-cc-zero-explanation": "Бұл туындының істелуіне қатысты тұлғалар осы туындыны әлем бойынша барлық заң шеңберінде авторлық құқықтардан (сондай-ақ байланысқан және сабақтас құқықтардан) бас тартып, [[{{int:wm-license-pd-wiki-link}}|қоғамдық қазына]] өткізуді шешкен. Сіз бұл туындының көшірмесін алуға, оны таратуға, кез келген мақсатта қолдануыңызға болады. Сондай-ақ автордың рұқсатынсыз коммерциялық мақсатта да қолдана аласыз.",
 	"wm-license-cc-free": "Сіз келесі әрекеттерге еркінсіз:",
 	"wm-license-cc-free-to-share-header": "бөлісу",
 	"wm-license-cc-free-to-share-text": "туындыны көшіру, тарату және тапсыру",
