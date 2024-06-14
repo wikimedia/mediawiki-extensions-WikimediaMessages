@@ -1,6 +1,9 @@
 @import 'mediawiki.skin.variables.less';
 
-body.skin--responsive .mw-parser-output {
+// FIXME [T367519] This is temporarily restricted to .skin-minerva to provide a short term fix for T367462
+// The expectation is that this CSS will be revised to exclude the .skin-minerva class in future,
+// and/or appropriate bits limited to the Minerva skin via a skinStyle.
+body.skin--responsive.skin-minerva .mw-parser-output {
 	.infobox {
 		// Unfloat tables and infoboxes:;
 		// A lot of templates introduce floating and horizontal margins inline styles
@@ -75,7 +78,7 @@ body.skin--responsive .mw-parser-output {
 
 /* Tablet specific styling */
 @media all and ( min-width: @min-width-breakpoint-tablet ) {
-	body.skin--responsive .mw-parser-output {
+	body.skin-minerva.skin--responsive .mw-parser-output {
 		// Float infoboxes to the right of the page
 		.infobox {
 			margin: 0.5em 0 1em 35px !important;
