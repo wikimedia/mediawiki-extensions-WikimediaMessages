@@ -1,6 +1,9 @@
 @import 'mediawiki.skin.variables.less';
 
-body.skin--responsive .mw-parser-output {
+// FIXME: [T367519] This is temporarily restricted to .skin-minerva to provide a short term fix for T367462.
+// The expectation is that this CSS will be revised to exclude the .skin-minerva class in future,
+// or limited to the Minerva skin via a skinStyle.
+body.skin--responsive.skin-minerva .mw-parser-output {
 	.hatnote,
 	.dablink,
 	.rellink {
