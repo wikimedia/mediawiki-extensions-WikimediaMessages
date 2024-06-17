@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"BadDog",
 			"Winston Sung"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "U posljednjem danu s Vaše IP adrese su već napravili {{PLURAL:$1|jedan račun|$1 računa}}, što je najveći dopušteni broj tijekom jednog dana. Kao rezultat ne može trenutno praviti više računa za ovaj period.\n\nAko ste na događaju na kojem je doprinos Wikipedijinim projektima u fokusu, unesite [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|zahtjev za privremeno ukidanje IP ograničenja]].",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi u izboru)]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomoć oko izbora)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Možete posjetiti Vašu stranicu Postavki na [[m:Special:CentralAuth/$1|drugim projektima Wikimedije gdje ste doprinosili]] kako biste učitali podatke Vašega računa s tih projekata.",
-	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite korisnički račun]]",
+	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite račun]]",
 	"wikimedia-centralauth-groupname": "Wikimedija Fondacija",
 	"wikimedia-delete-toobig": "Ova stranica ima veliku historiju promjena, preko $1 {{PLURAL:$1|izmjene|izmjena}}.\nBrisanje takvih stranica nije dopušteno da bi se spriječilo slučajno preopterećenje projekta {{SITENAME}}.\nMolimo kontaktirajte [[m:Special:MyLanguage/Stewards|stjuarde]] na [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] kako biste zatražili brisanje ove stranice.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Klikom na \"$1\" pristajete na [https://foundation.wikimedia.org/wiki/Terms_of_Use Uslove korištenja] i nepozivo pristajete na objavu Vašeg teksta {{PLURAL:$3|pod licencijom|pod licencijama}} $2.",
