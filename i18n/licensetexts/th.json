@@ -13,7 +13,8 @@
 			"Patsagorn Y.",
 			"TMo3289",
 			"YURi",
-			"Bebiezaza"
+			"Bebiezaza",
+			"Ekminarin"
 		]
 	},
 	"wm-license-attribution-with-author-text": "$1 ซึ่งเป็นผู้ถือลิขสิทธิ์ของไฟล์นี้ อนุญาตให้นำไฟล์นี้ไปใช้ได้''ในทุกวัตถุประสงค์'' รวมไปถึงการทำซ้ำ การนำไฟล์นี้ไปใช้ในการสร้างไฟล์ใหม่ การใช้เพื่อการค้า และการใช้อื่น ๆ โดยมีเงื่อนไขว่า '''ต้องระบุชื่อผู้ถือลิขสิทธิ์ของไฟล์นี้อย่างเหมาะสมเมื่อนำไฟล์นี้ไปใช้'''",
@@ -83,7 +84,7 @@
 	"wm-license-lgpl-wiki-link": "w:th:สัญญาอนุญาตสาธารณะทั่วไปแบบผ่อนปรนของกนู",
 	"wm-license-licensing-update-text": "ป้ายแสดงสถานะลิขสิทธิ์นี้ถูกเพิ่มเพื่อให้เป็นไปตาม[[{{int:wm-license-licensing-update-wiki-link}}|การเปลี่ยนแปลงสัญญาอนุญาตของมูลนิธิวิกิมีเดีย]] จาก GFDL ไปยัง GFDL ควบคู่กับ CC-BY-SA 3.0",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/th",
-	"wm-license-original-upload-log": "บันทึกการอัพโหลด",
+	"wm-license-original-upload-log": "ปูมการอัปโหลดต้นฉบับ",
 	"wm-license-own-work": "งานของตัว",
 	"wm-license-pd-author-self-text": "ข้าพเจ้า ผู้ถือลิขสิทธิ์ในงานนี้ ขอมอบงานให้เป็น'''[[{{int:wm-license-pd-wiki-link}}|สาธารณสมบัติ]]''' ประกาศนี้มีผลทั่วโลก",
 	"wm-license-pd-author-with-author-text": "งานนี้ได้ถูกเผยแพร่สู่'''[[{{int:wm-license-pd-wiki-link}}|สาธารณสมบัติ]]'''โดยเจ้าของ '''$1''' ซึ่งมีผลทั่วโลก",
