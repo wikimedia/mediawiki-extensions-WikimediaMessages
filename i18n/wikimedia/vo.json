@@ -3,7 +3,8 @@
 		"authors": [
 			"Malafaya",
 			"Robin van der Vliet",
-			"Smeira"
+			"Smeira",
+			"IJzeren Jan"
 		]
 	},
 	"sitesupport": "Födagivots",
@@ -32,5 +33,6 @@
 	"wikibase-sitelinks-wikinews": "Vükinüns",
 	"wikibase-sitelinks-wikiquote": "Vükisaitot",
 	"wikibase-sitelinks-wikisource": "Vükifonät",
-	"wikimedia-developers": "Programans"
+	"wikimedia-developers": "Programans",
+	"wikimedia-statslink": "Statits"
 }

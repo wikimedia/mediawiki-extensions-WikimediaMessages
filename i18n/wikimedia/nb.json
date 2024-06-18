@@ -18,7 +18,8 @@
 			"Pmt",
 			"Stigmj",
 			"SuperPotato",
-			"Telaneo"
+			"Telaneo",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-spesifikke beskjeder",
@@ -232,7 +233,7 @@
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",
-	"wikibase-otherprojects-outreach": "Wikimedia Oppsøking",
+	"wikibase-otherprojects-outreach": "Wikimedia Outreach",
 	"wikibase-otherprojects-sources": "Den flerspråklige Wikikilden",
 	"wikibase-otherprojects-species": "Wikispecies",
 	"wikibase-otherprojects-wikibooks": "Wikibøker",

@@ -14,7 +14,8 @@
 			"Vlad5250",
 			"W",
 			"Wizardist",
-			"Zedlik"
+			"Zedlik",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»",
@@ -38,9 +39,9 @@
 	"group-abusefilter": "Рэдактары фільтру злоўжываньняў",
 	"group-abusefilter-member": "{{GENDER:$1|рэдактар фільтру злоўжываньняў|рэдактарка фільтру злоўжываньняў}}",
 	"grouppage-abusefilter": "{{ns:project}}:Рэдактары фільтру злоўжываньняў",
-	"group-accountcreator": "Стваральнікі рахункаў",
+	"group-accountcreator": "Стваральнікі ўліковых запісаў",
 	"group-accountcreator-member": "{{GENDER:$1|стваральнік рахункаў|стваральніца рахункаў}}",
-	"grouppage-accountcreator": "{{ns:project}}:Стваральнікі рахункаў",
+	"grouppage-accountcreator": "{{ns:project}}:Стваральнікі ўліковых запісаў",
 	"group-arbcom": "Чальцы арбітражнага камітэту",
 	"group-arbcom-member": "{{GENDER:$1|чалец арбітражнага камітэту|чалец арбітражнага камітэту}}",
 	"grouppage-arbcom": "{{ns:project}}:Чальцы арбітражнага камітэту",
