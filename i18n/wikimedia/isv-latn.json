@@ -6,7 +6,14 @@
 	},
 	"sitesupport": "Darovati",
 	"wikimedia-copyright": "Tekst jest dostupny pod dozvolenjem <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>; priměniti se mogut dodatne uslovja.\nDetalje najdete v <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Uslovjah za upotrěbjanje</a>.",
+	"wikimedia-copyrightwarning": "Zapisyvajuči svoje pravky vy suglašajete se s [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use uslovjami upotrěbjanja],a takože s bezvozvratnym izpuščanjem svojego vklada pod dozvolenjem [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License]. Vy suglašajete se, že link ili URL-adres jest dostatočno pripisany pod dozvolenjami [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. \nVy takože suglašajete s tym, že do pripisanja vašego avtorstva dostatočny jest hiperlink ili URL.",
+	"wikibase-sitelinks-wikinews": "Vikinoviny",
+	"wikibase-sitelinks-wikiquote": "Vikicitatnik",
+	"wikibase-sitelinks-wikisource": "Vikiizvornik",
+	"wikibase-sitelinks-wikivoyage": "Vikiputovanje",
 	"wikimedia-developers": "Programisti",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokada byla naložena koristnikom: $1 ($2).\nPodana pričina jest: ''$3''.\n\n* Početok blokady: $4\n* Konec blokady: $5\n\nVaš tekuči IP-adres jest $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokada byla naložena koristnikom: $1 ($2).\nPodana pričina jest: ''$3''.\n\n* Početok blokady: $4\n* Konec blokady: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Soobčenje o kuki"
 }

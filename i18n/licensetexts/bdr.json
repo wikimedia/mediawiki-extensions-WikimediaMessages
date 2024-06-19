@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tofeiku"
+			"Tofeiku",
+			"Ultron90"
 		]
 	},
 	"wm-license-information-description": "Keterangan",
@@ -10,5 +11,6 @@
 	"wm-license-information-author": "Tukang muat",
 	"wm-license-information-permission": "Penekebana",
 	"wm-license-information-permission-reusing-text": "Penakay balik pail tu",
-	"wm-license-own-work": "Kerjo dediri"
+	"wm-license-own-work": "Kerjo dediri",
+	"wm-license-self-multiple-licenses-select": "Kam buli mene' lisin kenginan bi."
 }

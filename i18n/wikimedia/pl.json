@@ -154,6 +154,7 @@
 	"group-wikidata-staff-member": "{{GENDER:$1|pracownik|pracowniczka}} Wikidanych",
 	"grouppage-wikidata-staff": "{{ns:project}}:Pracownicy Wikidanych",
 	"group-wikifunctions-staff": "Personel Wikifunkcji",
+	"group-wikifunctions-staff-member": "{{GENDER:$1|Personel Wikifunkcji}}",
 	"group-apihighlimits-requestor": "Użytkownicy z wysokimi limitami na żądania API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Użytkownik|Użytkowniczka}} z wysokimi limitami na żądania API",
 	"group-captcha-exempt": "Niepodlegający CAPTCHA",
