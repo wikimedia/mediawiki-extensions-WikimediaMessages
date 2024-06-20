@@ -154,6 +154,7 @@
 	"group-wikidata-staff-member": "{{GENDER:$1|pracownik|pracowniczka}} Wikidanych",
 	"grouppage-wikidata-staff": "{{ns:project}}:Pracownicy Wikidanych",
 	"group-wikifunctions-staff": "Personel Wikifunkcji",
+	"group-wikifunctions-staff-member": "{{GENDER:$1|Personel Wikifunkcji}}",
 	"group-apihighlimits-requestor": "Użytkownicy z wysokimi limitami na żądania API",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Użytkownik|Użytkowniczka}} z wysokimi limitami na żądania API",
 	"group-captcha-exempt": "Niepodlegający CAPTCHA",
@@ -251,9 +252,14 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidane",
+	"wikimedia-otherprojects-wikistore": "Sklep Wikipedii",
+	"wikimedia-taglines-cloudservices": "Środowisko hostingowe dla narzędzi społeczności",
+	"wikimedia-taglines-enterprise": "Interfejsy API do użytku na dużą skalę",
+	"wikimedia-taglines-meta": "Koordynacja społeczności i dokumentacja",
 	"wikimedia-taglines-sources": "Wolna biblioteka treści źródłowych",
 	"wikimedia-taglines-wikidata": "Wolna baza wiedzy",
 	"wikimedia-taglines-wikinews": "Wolny serwis informacyjny",
+	"wikimedia-taglines-wikitech": "Dokumentacja techniczna Wikimedia",
 	"wikimedia-taglines-wikivoyage": "Wolny przewodnik turystyczny",
 	"wikimedia-taglines-wiktionary": "Wolny słownik",
 	"cant-delete-main-page": "Nie możesz usunąć lub przenieść strony głównej.",
@@ -357,5 +363,6 @@
 	"wikimedia-talkheader-pageprompt": "Ta strona służy do prowadzenia dyskusji związanych ze stroną $1.",
 	"wikimedia-talkheader-signature": "[[$1|Podpisywaniu]] wypowiedzi czterema tyldami (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie treść w języku angielskim.",
-	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]]."
+	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]].",
+	"wikimedia-talk-archive-page-intro": "To jest '''archiwum''' wcześniejszych dyskusji. '''Nie edytuj zawartości tej strony.''' Jeśli chcesz rozpocząć nową dyskusję lub ożywić starą, zrób to na [[$ |bieżącej stronie dyskusji]]."
 }

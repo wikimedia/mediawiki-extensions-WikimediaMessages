@@ -1,12 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tofeiku"
+			"Tofeiku",
+			"Ultron90"
 		]
 	},
+	"wm-license-cc-attribution": "Sian ampun",
 	"wm-license-cc-free": "Pinekebana:",
 	"wm-license-cc-free-to-share-header": "binagi",
+	"wm-license-cc-free-to-share-text": "untuk sinalin, niidar, kok binagi kerjo",
 	"wm-license-cc-free-to-remix-header": "segul",
+	"wm-license-cc-free-to-remix-text": "jadi bioso kok kerjo",
 	"wm-license-cc-conditions": "Nuut aturan begitu:",
 	"wm-license-cc-conditions-attribution-header": "ampun",
 	"wm-license-cc-conditions-share_alike-header": "sesomo bagi"

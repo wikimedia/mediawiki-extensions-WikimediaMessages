@@ -46,7 +46,8 @@
 			"عبد الإله صديقي",
 			"علاء",
 			"فيصل",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Dreamy Jazz"
 		]
 	},
 	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
@@ -139,7 +140,7 @@
 	"group-noratelimit": "حسابات بلا حد معدل",
 	"group-noratelimit-member": "{{GENDER:$1|حساب بلا حد معدل}}",
 	"grouppage-noratelimit": "{{ns:project}}:حسابات بلا حد معدل",
-	"group-patroller": "مراجعون",
+	"group-patroller": "Patrollers",
 	"group-patroller-member": "{{GENDER:$1|مراجع|مراجعة}}",
 	"grouppage-patroller": "{{ns:project}}:مراجعون",
 	"group-propertycreator": "منشئو الخواص",

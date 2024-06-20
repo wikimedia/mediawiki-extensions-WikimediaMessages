@@ -4,11 +4,13 @@
 			"IJzeren Jan"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Dozvaljaje se kopirovanje, razprostranjenje i/ili izměnjenje tutogo dokumenta pod uslovjami licencije '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', versija 1.2 ili koja-nebud pozdnějša versija publikovana od [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; bez neizměnnyh razdělov i bez tekstov na prědnjej ili na zadnjej obložkě. Kopija licencije nahodi se v razdělě ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Opis",
 	"wm-license-information-source": "Izvor",
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Avtor",
 	"wm-license-information-permission": "Dozvoljenje",
 	"wm-license-information-permission-reusing-text": "Povtorno upotrěbjenje togo fajla",
-	"wm-license-own-work": "Vlastna rabota"
+	"wm-license-own-work": "Vlastna rabota",
+	"wm-license-self-multiple-licenses-select": "Vy možete izbrati kakukoli iz tyh licencij."
 }
