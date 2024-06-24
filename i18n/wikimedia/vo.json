@@ -3,6 +3,7 @@
 		"authors": [
 			"IJzeren Jan",
 			"Malafaya",
+			"Morozof",
 			"Robin van der Vliet",
 			"Smeira"
 		]
@@ -27,11 +28,14 @@
 	"group-global-bot-member": "{{GENDER:$1|bot valöpik}}",
 	"group-sysadmin": "Sitiguvans",
 	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
+	"wikimedia-copyright": "Vödem binon dagetovik bai stips ela <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nbüdakips zuik kanons dabinön.\nLogolös: <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> demü pats kuratikum.",
+	"wikimedia-copyrightwarning": "Dub kiped votükamas baiodol ko [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], e nesädunoviko baiodol ad notükön keblünoti olik bai dälazöt: [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] < e bai [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBaiodol, das resodayüm u ladet leäktronik binons saidiks ad fümükön lautani bai dälazöt: ‚Creative Commons’.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benokömö}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Vükibuks",
 	"wikibase-sitelinks-wikinews": "Vükinüns",
 	"wikibase-sitelinks-wikiquote": "Vükisaitot",
 	"wikibase-sitelinks-wikisource": "Vükifonät",
 	"wikimedia-developers": "Programans",
-	"wikimedia-statslink": "Statits"
+	"wikimedia-statslink": "Statits",
+	"wikimedia-cookiestatement": "Nomem dö geb elas ‚cookies’"
 }
