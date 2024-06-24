@@ -15,7 +15,9 @@
 			"Zoranzoki21",
 			"Bgo eiu",
 			"McDutchie",
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Apple TD",
+			"Zabe"
 		]
 	},
 	"project-localized-name-aawiki": "{{ProjectNameDocumentation|url=https://aa.wikipedia.org|name=Afar Wikipedia|language=aa}}",
@@ -319,7 +321,7 @@
 	"project-localized-name-gawikibooks": "{{ProjectNameDocumentation|url=https://ga.wikibooks.org|name=Irish Wikibooks|language=ga}}",
 	"project-localized-name-gawikiquote": "{{ProjectNameDocumentation|url=https://ga.wikiquote.org|name=Irish Wikiquote|language=ga}}",
 	"project-localized-name-gawiktionary": "{{ProjectNameDocumentation|url=https://ga.wiktionary.org|name=Irish Wiktionary|language=ga}}",
-	"project-localized-name-gcrwiki": "{{ProjectNameDocumentation|url=https:://gcr.wikipedia.org|name=Guianan Creole Wikipedia|language=gcr}}",
+	"project-localized-name-gcrwiki": "{{ProjectNameDocumentation|url=https://gcr.wikipedia.org|name=Guianan Creole Wikipedia|language=gcr}}",
 	"project-localized-name-gdwiki": "{{ProjectNameDocumentation|url=https://gd.wikipedia.org|name=Scottish Gaelic Wikipedia|language=gd}}",
 	"project-localized-name-gdwiktionary": "{{ProjectNameDocumentation|url=https://gd.wiktionary.org|name=Scottish Gaelic Wiktionary|language=gd}}",
 	"project-localized-name-gewikimedia": "Note: This is the Republic of Georgia, and not the State of Georgia in the U.S.A.\n\n{{ProjectNameDocumentation|url=https://ge.wikimedia.org|name=Wikimedia Community User Group Georgia}}",

@@ -23,7 +23,7 @@
 	"group-import-member": "importlawshı",
 	"grouppage-import": "{{ns:project}}:Importlawshılar",
 	"group-ipblock-exempt": "IP bloklawdan azat etilgenler",
-	"group-ipblock-exempt-member": "{{GENDER:$1|IP bloklawdan azat etilgen}}",
+	"group-ipblock-exempt-member": "{{GENDER:$1|IP bloklawdan azat etilgen}} paydalanıwshı",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP bloklawdan azat etilgen",
 	"group-transwiki": "Wikiaralıq importlawshılar",
 	"group-transwiki-member": "{{GENDER:$1|wikiaralıq importlawshılar}}",
