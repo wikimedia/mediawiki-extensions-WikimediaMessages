@@ -35,7 +35,10 @@
 	"wikibase-sitelinks-wikinews": "Vükinüns",
 	"wikibase-sitelinks-wikiquote": "Vükisaitot",
 	"wikibase-sitelinks-wikisource": "Vükifonät",
+	"wikibase-sitelinks-wikivoyage": "Vükatäv",
 	"wikimedia-developers": "Programans",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nNelet proibik pejäfidükon fa $1 ($2).\nKod penunöl binon: ''$3''.\n\n* Primadät neleta: $4\n* Nelet ofinikon tü $5\n\nLadet: ‚IP’ nuik ola binon $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nNelet proibik pejäfidükon fa $1 ($2).\nKod penunöl binon: ''$3''.\n\n* Primadät neleta: $4\n* Nelet ofiniköl tü $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statits",
 	"wikimedia-cookiestatement": "Nomem dö geb elas ‚cookies’"
 }
