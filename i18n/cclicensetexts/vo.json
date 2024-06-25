@@ -2,8 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Malafaya"
+			"Malafaya",
+			"Morozof"
 		]
 	},
-	"wm-license-cc-free": "Binol libik:"
+	"wm-license-cc-free": "Binol libik:",
+	"wm-license-cc-free-to-share-header": "gevön ad kobädadalab",
+	"wm-license-cc-free-to-share-text": "kopiedön, pakön e lovegivön voboti",
+	"wm-license-cc-conditions-attribution-header": "dut",
+	"wm-license-cc-conditions-share_alike-header": "paköl ön mod ot"
 }
