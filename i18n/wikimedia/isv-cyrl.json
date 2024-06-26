@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Qiorly"
+		]
+	},
+	"sitesupport": "Даровати",
+	"wikimedia-copyright": "Текст јест доступны под дозволењем <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>; примєнити се могут додатне условја.\nДетаље најдете в <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Условијах за употрєбјање</a>.",
+	"wikimedia-copyrightwarning": "Записывајучу своје правкы вы суглашаете се с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use уловјами употрєбјања], a такоже s безвозвратным изпушчањем својего вклада под дозволењем \n[https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License]. Вы суглашајете се, же линк или URL-адрес јест достаточно приписаны под дозволењами [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. \nВы такоже суглашаете с тым, же до приписања вашего авторства достаточны јест хиперлинк или URL.",
+	"wikibase-sitelinks-wikinews": "Викиновины",
+	"wikibase-sitelinks-wikiquote": "Викицитатник",
+	"wikibase-sitelinks-wikisource": "Викиизворник",
+	"wikibase-sitelinks-wikivoyage": "Википутовање",
+	"wikimedia-developers": "Програмисти",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлокада была наложена користником: $1 ($2).\nПодана причина јест: ''$3''.\n\n* Почеток блокады: $4\n* Конец блокады: $5\n\nВаш текучи IP-адрес јест $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокада была наложена користником: $1 ($2).\nПодана причина јест: ''$3''.\n\n* Почеток блокады: $4\n* Конец блокады: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-statslink": "Статистика",
+	"wikimedia-cookiestatement": "Сообченје о куки"
+}
