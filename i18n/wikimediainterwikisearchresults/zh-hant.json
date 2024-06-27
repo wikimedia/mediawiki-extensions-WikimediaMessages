@@ -6,7 +6,8 @@
 			"Kly",
 			"LNDDYL",
 			"Liuxinyu970226",
-			"Winston Sung"
+			"Winston Sung",
+			"Cookai1205"
 		]
 	},
 	"search-interwiki-results-abwiki": "顯示來自[[:ab:|阿布哈茲語維基百科]]的結果。",
@@ -38,10 +39,11 @@
 	"search-interwiki-results-barwiki": "顯示來自[[:bar:|巴伐利亞語維基百科]]的結果。",
 	"search-interwiki-results-bat_smgwiki": "顯示來自[[:bat-smg:|薩莫吉提亞語維基百科]]的結果。",
 	"search-interwiki-results-bawiki": "顯示來自[[:ba:|巴什基爾語維基百科]]的結果。",
-	"search-interwiki-results-bbcwiki": "顯示來自[[:bbc:|托巴巴塔克語維基百科]]的結果。",
+	"search-interwiki-results-bbcwiki": "顯示來自[[:bbc:|巴塔克托巴語維基百科]]的結果。",
 	"search-interwiki-results-bclwiki": "顯示來自[[:bcl:|中比科爾語維基百科]]的結果。",
 	"search-interwiki-results-be_taraskwiki": "顯示來自[[:be-tarask:|白俄羅斯語 (Taraškievica) 維基百科]]的結果。",
 	"search-interwiki-results-bewiki": "顯示來自[[:be:|白俄羅斯語維基百科]]的結果。",
+	"search-interwiki-results-bewwiki": "顯示來自[[:bew:|巴達維語維基百科]]的結果。",
 	"search-interwiki-results-bgwiki": "顯示來自[[:bg:|保加利亞語維基百科]]的結果。",
 	"search-interwiki-results-bhwiki": "顯示來自[[:bh:|博杰普爾語維基百科]]的結果。",
 	"search-interwiki-results-biwiki": "顯示來自[[:bi:|比斯拉馬語維基百科]]的結果。",
@@ -164,6 +166,7 @@
 	"search-interwiki-results-krcwiki": "顯示來自[[:krc:|卡拉恰伊－巴爾卡爾語維基百科]]的結果。",
 	"search-interwiki-results-kshwiki": "顯示來自[[:ksh:|利普里安語維基百科]]的結果。",
 	"search-interwiki-results-kswiki": "顯示來自[[:ks:|喀什米爾語維基百科]]的結果。",
+	"search-interwiki-results-kuswiki": "顯示來自[[:kus:|庫薩爾語維基百科]]的結果。",
 	"search-interwiki-results-kuwiki": "顯示來自[[:ku:|庫德語維基百科]]的結果。",
 	"search-interwiki-results-kvwiki": "顯示來自[[:kv:|科米語維基百科]]的結果。",
 	"search-interwiki-results-kwwiki": "顯示來自[[:kw:|康瓦爾語維基百科]]的結果。",

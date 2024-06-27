@@ -2,8 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Malafaya"
+			"Malafaya",
+			"Morozof"
 		]
 	},
-	"wm-license-cc-free": "Binol libik:"
+	"wm-license-cc-attribution": "Dut",
+	"wm-license-cc-by-sa-3.0-text": "Nüned at pegebidükon bai dälazöt: [[{{int:wm-license-cc-wiki-link}}|‚Creative Commons’]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
+	"wm-license-cc-free": "Binol libik:",
+	"wm-license-cc-free-to-share-header": "gevön ad kobädadalab",
+	"wm-license-cc-free-to-share-text": "kopiedön, pakön e lovegivön voboti",
+	"wm-license-cc-free-to-remix-header": "votabevobön",
+	"wm-license-cc-free-to-remix-text": "lönedükön voboti",
+	"wm-license-cc-conditions": "Bai stips sököl:",
+	"wm-license-cc-conditions-attribution-header": "dut",
+	"wm-license-cc-conditions-attribution-text": "Mutol nunön lautanagitätanüni pötöfik, gevön yümi lä dälazöt e mäkön, üf votükams pädunons. Dalol dunön osi ön mod suemovik alik, ab no ön mod alseimik ut, kel tikodükon, äsif gitätan bai dälazöt lobülon-la oli u gebi olik.",
+	"wm-license-cc-conditions-share_alike-header": "paköl ön mod ot",
+	"wm-license-cc-conditions-share_alike-text": "If votabevobol, votafomol u lölöfükol materi, mutol pakön keblünotis olik asä rigädikis bai stips ela [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license]."
 }

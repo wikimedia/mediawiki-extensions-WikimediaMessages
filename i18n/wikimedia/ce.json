@@ -206,5 +206,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Тоъал сиха схьаеллаелан хӀара агӀо?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Кхин сов хаа, хьажа [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement къайлаха политике] хӀокху хаттарш хьокъехь.",
 	"passwordpolicies-policy-blockattacker": "ГӀарадаьлла тӀелатарш кӀаддеш болу паролийн низам, хаамаш схьабелла новкъарло йирайолун",
-	"querypage-updates-half-monthly": "ХӀара агӀо хӀора баттахь шозза карлайоккхуш йу."
+	"querypage-updates-half-monthly": "ХӀара агӀо хӀора баттахь шозза карлайоккхуш йу.",
+	"wikimedia-help-translate-prompt": "Лаьий хьуна гӀодан? [$1 Гочбе тоьаш боцу хаамаш]."
 }

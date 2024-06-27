@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"Qiorly"
+		]
+	},
+	"wm-license-gfdl-1.2-and-later": "Дозваљаје се копированје, разпрострањенје и/или измєњенје тутого документа под условјами лиценције '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', версија 1.2 или која-небуд позднєјша версија публикована од [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; без неизмєнных раздєлов и без текстов на прєдњеј или на задњеј обложкє. Копија лиценције находи се в раздєлє ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-information-description": "Опис",
+	"wm-license-information-source": "Извор",
+	"wm-license-information-date": "Дата",
+	"wm-license-information-author": "Автор",
+	"wm-license-information-permission": "Дозвољење",
+	"wm-license-information-permission-reusing-text": "Повторно употрєбјење того фајла",
+	"wm-license-own-work": "Властна работа",
+	"wm-license-self-multiple-licenses-select": "Вы можете избрати какуколи из тых лиценциј."
+}

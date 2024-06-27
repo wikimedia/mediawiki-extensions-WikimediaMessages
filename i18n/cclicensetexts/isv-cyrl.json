@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Qiorly"
+		]
+	},
+	"wm-license-cc-attribution": "Приписање авторства",
+	"wm-license-cc-by-sa-3.0-text": "Тутој фајл јест дозвољены под лиценцијеју [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
+	"wm-license-cc-free": "Вы можете свободно:",
+	"wm-license-cc-free-to-share-header": "дєлити се",
+	"wm-license-cc-free-to-share-text": "копировати, разпрострањати и прєдавати тој твор",
+	"wm-license-cc-free-to-remix-header": "модификовати",
+	"wm-license-cc-free-to-remix-text": "прєработати тој твор",
+	"wm-license-cc-conditions": "Под слєдујучими условјами:",
+	"wm-license-cc-conditions-attribution-header": "признање авторства",
+	"wm-license-cc-conditions-attribution-text": "Трбујете указати авторство тутого твора, надати линк к лиценцији и примєтити, был ли он како-небуд ихмєњены. Вы можете то сдєлати было какым способом, але не тако,же може издавити се, же лиценцијат поддрживаје вас иди ваше употребјење твора.",
+	"wm-license-cc-conditions-share_alike-header": "разпространити на тыхже самых условјах",
+	"wm-license-cc-conditions-share_alike-text": "Ако вы измєните или прєобратите тутој твор, или створите ины твор на јего основє, можете разпространити своје дєло једино под [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses тојуже самоју или сумєстимоју лиценцијеју] како оригинал."
+}

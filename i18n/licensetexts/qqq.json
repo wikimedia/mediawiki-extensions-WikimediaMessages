@@ -28,7 +28,10 @@
 			"Saurmandal",
 			"Shirayuki",
 			"Siebrand",
-			"Umherirrender"
+			"Umherirrender",
+			"Jon Harald Søby",
+			"Pppery",
+			"Tacsipacsi"
 		]
 	},
 	"wm-license-attribution-with-author-text": "This message will be used at [[Commons:Template:Attribution]] when an author is set.\n\nParameters:\n* $1 - the copyright holder\nSee also:\n* {{msg-mw|Wm-license-attribution-without-author-text}}",
@@ -134,11 +137,11 @@
 	"wm-license-pd-usgov-noaa-text": "Refers to:\n* {{msg-mw|Wm-license-pd-usgov-noaa-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-work-wiki-link}}\n* {{msg-mw|Wm-license-pd-usgov-wiki-link}}\n* {{msg-mw|Wm-license-pd-wiki-link}}",
 	"wm-license-pd-usgov-noaa-wiki-link": "{{Optional}}",
 	"wm-license-pd-wiki-link": "{{optional}}",
-	"wm-license-self": "You can peek at [[Commons:Template:Self]].\n\nParameters:\n* $1 - The number of licenses specified\n{{Related|Wm-license-self}}",
-	"wm-license-self-with-author": "Formerly used at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder (We cannot know the gender of someone, who may not be a registered user)\n* $2 The number of licenses specified\n{{Related|Wm-license-self}}",
-	"wm-license-self-one-license": "Formerly used at [[Commons:Template:Self]], deprecated in favor of wm-license-self.\n{{Related|Wm-license-self}}",
-	"wm-license-self-one-license-with-author": "Formerly used at [[Commons:Template:Self]], deprecated in favor of wm-license-self-with-author. Parameters:\n* $1 - the copyright holder (We cannot know the gender of someone, who may not be a registered user)\n{{Related|Wm-license-self}}",
-	"wm-license-self-multiple-licenses": "Formerly used at [[Commons:Template:Self]], deprecated in favor of wm-license-self.\n{{Related|Wm-license-self}}",
-	"wm-license-self-multiple-licenses-with-author": "This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]]. Deprecated in favor of wm-license-self-with-author.\n\nParameters:\n* $1 - the copyright holder. We cannot know the gender of the copyright holder, who may be not a registered user.\n{{Related|Wm-license-self}}",
+	"wm-license-self": "A never-finished attempt at replacing {{msg-mw|Wm-license-self-one-license}}/{{msg-mw|Wm-license-self-multiple-licenses}} at [[Commons:Template:Self]].\n\nParameters:\n* $1 - The number of licenses specified\n{{Related|Wm-license-self}}",
+	"wm-license-self-with-author": "A never-finished attempt at replacing {{msg-mw|Wm-license-self-one-license-with-author}}/{{msg-mw|Wm-license-self-multiple-licenses-with-author}} at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder (We cannot know the gender of someone, who may not be a registered user)\n* $2 The number of licenses specified\n{{Related|Wm-license-self}}",
+	"wm-license-self-one-license": "You can peek at [[Commons:Template:Self]].\n{{Related|Wm-license-self}}",
+	"wm-license-self-one-license-with-author": "You can peek at [[Commons:Template:Self]]. Parameters:\n* $1 - the copyright holder (We cannot know the gender of someone, who may not be a registered user)\n{{Related|Wm-license-self}}",
+	"wm-license-self-multiple-licenses": "You can peek at [[Commons:Template:Self]].\n{{Related|Wm-license-self}}",
+	"wm-license-self-multiple-licenses-with-author": "This is for when the author is set and multiple licenses are included. You can peek at [[Commons:Template:Self]].\n\nParameters:\n* $1 - the copyright holder. We cannot know the gender of the copyright holder, who may be not a registered user.\n{{Related|Wm-license-self}}",
 	"wm-license-self-multiple-licenses-select": "You may select the license of your choice."
 }

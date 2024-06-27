@@ -57,7 +57,8 @@
 			"ネイ",
 			"春春眠眠",
 			"青子守歌",
-			"아라"
+			"아라",
+			"Apple TD"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -421,10 +422,12 @@
 	"wikimedia-movement-affiliates-oneword": "提携団体",
 	"wikimedia-news-label": "ウィキメディア・ニュース",
 	"wikimedia-foundation-news-label": "ウィキメディア財団ニュース",
+	"wikimedia-movement-blog-label": "運動ブログ",
 	"wikimedia-movement-calendar-label": "運動カレンダー",
 	"wikimedia-help-translate-prompt": "翻訳にご協力願えますか？[$1 未訳のメッセージ]を翻訳してください。",
 	"wikimedia-foundation-logo-label": "ウィキメディア財団のロゴ",
 	"wikimedia-foundation-mark-label": "ウィキメディア財団のマーク",
+	"wikimedia-foundation-department-shortname-ceo": "財団CEO",
 	"wikimedia-foundation-department-shortname-communications": "コミュニケーション部門",
 	"wikimedia-foundation-department-shortname-legal": "法務",
 	"wikimedia-foundation-department-shortname-producttech": "製品と技術",
@@ -440,6 +443,8 @@
 	"wikimedia-talkheader-civility": "討議にあたっては[[$1|良き市民として敬意を大切に]]した言動をお願いします。",
 	"wikimedia-talkheader-pageprompt": "このページでは、$1ページに関する討議を行います。",
 	"wikimedia-talkheader-signature": "[[$1|署名]]はチルダ記号4個で添えること (~~~~)",
+	"wikimedia-movement-resources-label-short": "運動リソース",
 	"wikimedia-translation-disclaimer-nolink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、英語版の原文が優先されますので、ご注意ください。",
-	"wikimedia-translation-disclaimer-withlink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、[[$1|英語版の原文]]が優先されますので、ご注意ください。"
+	"wikimedia-translation-disclaimer-withlink": "本内容の原文である英語版と翻訳版で意味や解釈に相違が生じた場合は、[[$1|英語版の原文]]が優先されますので、ご注意ください。",
+	"wikimedia-talk-archive-page-intro": "これは過去の議論の'''過去ログ'''です。'''このページを編集しないでください。'''新しい議論を開始したり、古い議論を復活させたい場合は、[[$1|現在の議論ページ]] で行ってください。"
 }

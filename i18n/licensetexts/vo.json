@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Diebuche",
-			"Malafaya"
+			"Malafaya",
+			"Morozof"
 		]
 	},
 	"wm-license-artwork-artist": "Jilekanan/Mekal",
@@ -18,5 +19,7 @@
 	"wm-license-information-date": "Dät",
 	"wm-license-information-author": "Lautan",
 	"wm-license-information-permission": "Däl",
-	"wm-license-own-work": "Vobot okik"
+	"wm-license-information-permission-reusing-text": "Dönugebön nünedi at",
+	"wm-license-own-work": "Vobot okik",
+	"wm-license-self-multiple-licenses-select": "Dalol välön dälazöti ma plüd ola."
 }
