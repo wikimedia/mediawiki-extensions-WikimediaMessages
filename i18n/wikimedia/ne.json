@@ -93,6 +93,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "विकिस्रोत",
 	"wikibase-sitelinks-sitename-species": "विकिप्रजाति",
 	"wikibase-sitelinks-sitename-wikidatawiki": "विकिडाटा",
+	"wikimedia-otherprojects-foundationgovwiki": "विकिमिडिया फाउन्डेसन प्रशासन विकी",
+	"wikimedia-taglines-foundationsite": "आधिकारिक विकिमिडिया फाउन्डेसनको वेबसाइट",
 	"wikimedia-developers": "विकासकर्ताहरू",
 	"wikimedia-globalblocking-ipblocked": "'''तपाईंको आईपी ठेगानालाई [[m:Special:MyLanguage/Global blocks|सबै विकिहरूमा ]] रोक लगाइएको छ।'''\n\nयो रोक $1 ($2) ले लगाएका हुन्।\nउल्लिखित कारण ''$3'' रहेको छ।\n\n* रोक शुरू: $4\n* रोक बन्द: $5\n\nतपाईंको आईपी ठेगाना $6 हो।\nकृपया माथिको सबै विवरणहरू आफ्नो सोधपुछमा शामिल गर्नुहोस्।\n\nयदि तपाईं मान्नुहुन्छ कि यो रोक कुनै गल्तीले भएको हो, तपाईंले अधिक जानकारी र निर्देश [[m:Special:MyLanguage/No open proxies|ओपन प्रोक्जिज]] वैश्विक नीतिमा पाउन सक्नुहुनेछ। अन्यथा, रोक माथिको छलफलको लागि [[m:Steward requests/Global|मेटाविकिमा पुनर्विचार अनुरोध राख्नुहोस्]]।",
 	"wikimedia-globalblocking-ipblocked-xff": "'''तपाईंको आईपी ठेगानालाई [[m:Special:MyLanguage/Global blocks|सबै विकिहरूमा रोक]] लगाइएको छ ।'''\n\nयो रोक $1 ($2) ले लगाए ।\nकारण : ''$3'' ।\n\n* रोक शुरू: $4\n* रोक बन्द: $5\n\nतपाईंको प्रस्तुत आईपी ठेगाना $6.\nकृपया माथी दिइएका कुराहरूमा आफ्नो सोधपूछमा शामिल गर्नुहोस् ।\n\nयदी तपाईं मान्नु हुन्छ कि यो रोक कुनै गल्तीले भएको हो भने  तपाईं अधिक जानकारी र निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस हैन]] विश्वव्यापी नीतिमा पढ्नुहोस् ।\nअथवा, यस रोकको चर्चा [[m:Steward requests/Global|यहाँ गर्नुहोस् र मेटाविकिमा एक नयाँ चर्चा शुरू गर्नुहोस् ]] ।",
@@ -117,7 +119,12 @@
 	"research-incentive-confirm-msg": "धन्यवाद!",
 	"ipinfo-global-contributions-url-label": "विश्वव्यापी योगदानहरू",
 	"wikimedia-projects-label": "विकिमिडिया परियोजनाहरू",
+	"wikimedia-news-label": "विकिमिडिया समाचार",
+	"wikimedia-foundation-news-label": "विकिमिडिया समाचार",
+	"wikimedia-movement-blog-label": "आन्दोलन ब्लग",
+	"wikimedia-movement-calendar-label": "आन्दोलन पात्रो",
 	"wikimedia-help-translate-prompt": "अनुवादमा सहयोग गर्न चाहनुहुन्छ? [$1 छुटेका सन्देश अनुवाद गर्नुहोस्]",
+	"wikimedia-questions-label": "विकिमिडियाका लागि प्रश्नहरू?",
 	"wikimedia-translation-disclaimer-nolink": "कृपया यस सामग्रीको मूल अङ्ग्रेजी संस्करण र अनुवादबीच अर्थ वा व्याख्यामा कुनै भिन्नता भएमा ध्यान दिनुहोस्, मूल अङ्ग्रेजी संस्करणले प्राथमिकता लिएको छ।",
 	"wikimedia-translation-disclaimer-withlink": "कृपया यस सामग्रीको मूल अङ्ग्रेजी संस्करण र अनुवादबीच अर्थ वा व्याख्यामा कुनै भिन्नता भएमा ध्यान दिनुहोस्, [[$1|मूल अङ्ग्रेजी संस्करण]]ले प्राथमिकता लिएको छ।"
 }

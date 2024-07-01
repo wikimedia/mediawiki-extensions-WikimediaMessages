@@ -1,13 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"पर्वत सुबेदी"
 		]
 	},
 	"wm-commonstrings-activities": "क्रियाकलापहरू",
 	"wm-commonstrings-background": "पृष्ठभूमि",
 	"wm-commonstrings-closed": "बन्द गरिएको",
 	"wm-commonstrings-connect": "जोडिनुहोस्",
+	"wm-commonstrings-contactus": "हामीलाई सम्पर्क गर्नुहोस्",
 	"wm-commonstrings-events": "कार्यक्रमहरू",
 	"wm-commonstrings-noticeboard": "सूचनापाटी",
 	"wm-commonstrings-objectives": "उद्देश्यहरू",

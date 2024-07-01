@@ -11,10 +11,12 @@
 	},
 	"contactpage-license-request-username": "प्रयोगकर्ता नाम",
 	"contactpage-license-request-use-other": "अन्य",
+	"contactpage-wikimedia-trademark-foundation": "विकिमिडिया फाउन्डेसन",
 	"contactpage-wikimedia-trademark-wiktionary": "विक्सनरी",
 	"contactpage-license-abuse-location": "दुरूपयोगको स्थान (अनलाइन/अफलाइन)",
 	"contactpage-title-affcomusergroup": "प्रयोगकर्ता समूह शुरू गर्न आवेदन गर्नुहोस्",
 	"contactpage-affcom-user-group-logo-community": "विकिमिडिया समूदायको लोगो",
 	"contactpage-affcom-user-group-logo-affiliate": "विकिमिडिया सहभागीको लोगो",
-	"contactpage-affcom-chapter-thorg-coc-label": "आचार संहिता"
+	"contactpage-affcom-chapter-thorg-coc-label": "आचार संहिता",
+	"contactpage-movecom-signup-affiliation-foundation": "विकिमिडिया फाउन्डेसन"
 }
