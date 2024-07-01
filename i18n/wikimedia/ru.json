@@ -57,7 +57,12 @@
 			"Vlad5250",
 			"WindEwriX",
 			"Александр Сигачёв",
-			"TAndic (WMF)"
+			"TAndic (WMF)",
+			"Bashkorttan",
+			"Butko",
+			"Dirruw'o",
+			"IKhitron",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -267,6 +272,7 @@
 	"wikibase-otherprojects-testwikidata": "Викиданные",
 	"wikibase-otherprojects-mediawiki": "Медиавики",
 	"wikibase-otherprojects-meta": "Мета-вики",
+	"wikibase-otherprojects-outreach": "Популяризация Викимедиа",
 	"wikibase-otherprojects-sources": "Многоязычная Викитека",
 	"wikibase-otherprojects-species": "Викивиды",
 	"wikibase-otherprojects-wikibooks": "Викиучебник",
