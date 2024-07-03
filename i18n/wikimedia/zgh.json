@@ -18,6 +18,8 @@
 	"group-interface-editor": "ⴰⵎⵙⵏⴼⵍⵓⵍ ⵏ ⵓⵏⴳⵔⵓⴷⵎ",
 	"group-patroller": "ⴰⵎⵣⵣⵔⴰⵢ",
 	"group-templateeditor": "ⴰⵎⵙⵏⴼⵍⵓⵍ ⵏ ⵉⵍⴱⵓⴹⵏ",
+	"group-oauthadmin": "ⵉⵎⵙⵙⵓⴳⵓⵔⵏ ⵏ OAuth",
+	"group-sysadmin": "ⵉⵎⵙⵙⵓⴳⵓⵔⵏ ⵏ ⵓⵏⴳⵔⴰⵡ",
 	"wikimedia-copyright": "ⵉⵙⴰⴳⴰ ⵓⴹⵕⵉⵚ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">ⴷⴷⴰⵡ ⵜⵓⵔⴰⴳⵜ ⵏ Creative Commons Attribution-ShareAlike</a>;\nⵉⵖⵢ ⴰⴷ ⵜⵜⵓⵙⵏⵉⵙⵏⵜ ⵜⴼⴰⴷⵉⵡⵉⵏ ⵢⴰⴹⵏⵉⵏ. ⵥⵕ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ⵜⵉⴼⴰⴷⵉⵡⵉⵏ ⵏ ⵓⵙⵎⵔⵙ</a> ⵉ ⵉⴼⵔⵓⵔⵉⵜⵏ.",
 	"wikimedia-copyrightwarning": "ⵙ ⵓⵃⵟⵟⵓ ⵏ ⵉⵙⵏⴼⴰⵍ, ⵜⵎⵙⴰⵙⴰⴷ ⵖⴼ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ⵜⴼⴰⴷⵉⵡⵉⵏ ⵏ ⵓⵙⵙⵎⵔ], ⴷ ⵜⵎⵙⴰⵙⴰⴷ ⵙ ⵓⴳⵉⵔⴰⵏ ⴰⴷ ⵜⵕⵥⵎⴷ ⵉ ⵡⴰⵔⵔⴰⴳⵏ {{GENDER:ⵏⵏⴽ|ⵏⵏⵎ}} ⴷⴷⴰⵡ [https://creativecommons.org/licenses/by-sa/4.0/deed.en ⵜⵓⵔⴰⴳⵜ ⵏ CC BY-SA 4.0] ⴷ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nⵜⵎⵙⴰⵙⴰⴷ ⵎⴰⵙ ⴷ ⴽⵔⴰ ⵏ ⵓⵙⵖⵏ ⵏⵖ URL ⵉⴳⴰ ⴰⴱⴷⴰⵔ ⵢⵓⴷⴰⵏ ⴷⴷⴰⵡ ⵜⵓⵔⴰⴳⵜ ⵏ ⴽⵔⵉⵢⴰⵜⵉⴼ ⴽⴰⵎⵏⵣ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ⴱⵔⵔⴽ}}, $1!",

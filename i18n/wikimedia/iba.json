@@ -5,11 +5,15 @@
 		]
 	},
 	"sitesupport": "Beri duit",
+	"wikimedia-copyright": "Teks bisi ba baruh <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Lisin Atribusyen-BekunsiSebaka Kreatif Commons</a>;\nterma tambah tau dikena.\nPeda <a href=\"https://foundation.wikimedia.org/wiki/Spisil:JakuAku/Polisi:Syarat_Guna\"> Syarat Ngena</a> kena nemu enggau silik.",
+	"wikimedia-copyrightwarning": "Enggau nyimpan ubah, nuan setuju enggau [https://foundation.wikimedia.org/wiki/SSpecial:MyLanguage/Terms_of_Use/iba Syarat Ngena], lalu nuan setuju enggau enda ulih ditarit pulai deka ngelepaska pemeri ari [https://creativecommons.org/licenses/by-sa/4.0/deed.en] enggau [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nNuan setuju hyperlink tauka URL nya chukup nyadika atribusyen ari baruh lisin Creative Commons .",
 	"wikibase-sitelinks-wikinews": "Wikiberita",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikibunsu",
 	"wikibase-sitelinks-wikivoyage": "Wikilayar",
 	"wikimedia-developers": "Pengerembai",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nAlit digaga $1 ( $2 ).\nKebuah ti diberi '' $3 ''. \n\n* Pemungkal alit: $4 \n* Pengambis alit: $5 \n\nAdress IP nuan ke maya tu nya $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nAlit digaga $1 ($2).\nKebuah diberi ''$3''. \n\n* Pemungkal alit: $4 \n* Pengabis alit: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Jaku kue"
 }
