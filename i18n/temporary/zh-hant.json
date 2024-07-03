@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Cwlin0416",
+			"Ericliu1912",
 			"Justincheng12345",
 			"Kly",
 			"LNDDYL",
@@ -17,5 +18,6 @@
 	"hello": "您好",
 	"please-translate": "請協助翻譯成您使用的語言",
 	"thank-you": "{{GENDER:$1|感謝您。}}",
-	"specialinvestigate-feedback": "留下意見回饋"
+	"specialinvestigate-feedback": "留下意見回饋",
+	"graph-disabled-category": "含有暫時停用圖表的頁面"
 }

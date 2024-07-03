@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ericliu1912",
 			"Hydra",
 			"Liuxinyu970226",
 			"Shizhao",
@@ -16,5 +17,6 @@
 	"please-translate": "请帮助翻译至您的语言",
 	"please-translate-short": "帮助翻译",
 	"thank-you": "{{GENDER:$1|感谢您。}}",
-	"specialinvestigate-feedback": "意见反馈"
+	"specialinvestigate-feedback": "意见反馈",
+	"graph-disabled-category": "含有暂时停用图表的页面"
 }
