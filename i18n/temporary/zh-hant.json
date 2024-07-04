@@ -8,7 +8,8 @@
 			"Liuxinyu970226",
 			"Maskers",
 			"Simon Shek",
-			"Xiplus"
+			"Xiplus",
+			"Ericliu1912"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:監督",
@@ -18,5 +19,6 @@
 	"please-translate": "請協助翻譯成您使用的語言",
 	"thank-you": "{{GENDER:$1|感謝您。}}",
 	"specialblockfeedback": "意見回饋",
-	"specialinvestigate-feedback": "留下意見回饋"
+	"specialinvestigate-feedback": "留下意見回饋",
+	"graph-disabled-category": "含有暫時停用圖表的頁面"
 }

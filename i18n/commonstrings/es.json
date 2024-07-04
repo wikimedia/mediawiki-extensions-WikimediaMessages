@@ -5,7 +5,8 @@
 			"MarcoAurelio",
 			"Nikki",
 			"No se",
-			"Varnent"
+			"Varnent",
+			"ZebaX2010"
 		]
 	},
 	"wm-commonstrings-aboutme": "Sobre mí",
@@ -17,7 +18,7 @@
 	"wm-commonstrings-connect": "Conectar",
 	"wm-commonstrings-contacthuman": "Contacta con un humano",
 	"wm-commonstrings-contactus": "Contáctanos",
-	"wm-commonstrings-enterquestion": "Introduzca su pregunta.",
+	"wm-commonstrings-enterquestion": "Introduce tu pregunta.",
 	"wm-commonstrings-events": "Eventos",
 	"wm-commonstrings-externallinks": "Enlaces externos",
 	"wm-commonstrings-follow": "Seguir",
@@ -30,7 +31,7 @@
 	"wm-commonstrings-open": "Abierto",
 	"wm-commonstrings-overview": "Resumen",
 	"wm-commonstrings-participate": "Participar",
-	"wm-commonstrings-please-remember": "Por favor, recuerde: $1",
+	"wm-commonstrings-please-remember": "Por favor, recuerda: $1",
 	"wm-commonstrings-policies-guidelines": "Políticas y directrices",
 	"wm-commonstrings-projects-collaborations": "Proyectos y colaboraciones",
 	"wm-commonstrings-purpose": "Propósito",

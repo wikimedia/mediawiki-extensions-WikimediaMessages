@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tofeiku"
+			"Tofeiku",
+			"Syafiq.y"
 		]
 	},
 	"sitesupport": "Tabang",
 	"tooltip-n-sitesupport": "Tabang kam",
+	"wikimedia-copyright": "Tiks sinedio media' <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ms\">Lesen Creative Commons Pengiktirapan/Begian Serupo</a>; terma tinambah mungkin pinakai. Ngenda' <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terma Ginuno</a> jadi rejukan lanjut.",
+	"wikimedia-copyrightwarning": "Boi nagu' ubaan, kam sepakat ko' [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], engko' pan kam setuju ko' nyaun daya narik balik untuk ngeleba pemuanan bi media' tu [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nKam sepakat sambungan aiper atau pan URL sian ampun media' Lisin Kritip Commons.",
 	"wikibase-sitelinks-wikinews": "Wikiabar",
 	"wikibase-sitelinks-wikiquote": "Wikipetikan",
 	"wikibase-sitelinks-wikisource": "Wikipoon",

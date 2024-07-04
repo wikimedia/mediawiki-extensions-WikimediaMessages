@@ -6,7 +6,8 @@
 			"Shizhao",
 			"Yfdyh000",
 			"Zazzzz",
-			"沈澄心"
+			"沈澄心",
+			"Ericliu1912"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:监督",
@@ -17,5 +18,6 @@
 	"please-translate-short": "帮助翻译",
 	"thank-you": "{{GENDER:$1|感谢您。}}",
 	"specialblockfeedback": "反馈",
-	"specialinvestigate-feedback": "意见反馈"
+	"specialinvestigate-feedback": "意见反馈",
+	"graph-disabled-category": "含有暂时停用图表的页面"
 }

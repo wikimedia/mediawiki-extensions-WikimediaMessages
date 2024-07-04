@@ -16,7 +16,8 @@
 			"Trizek (WMF)",
 			"Urhixidur",
 			"Verdy p",
-			"Wladek92"
+			"Wladek92",
+			"SleaY"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Masquage de modifications",
@@ -24,6 +25,7 @@
 	"group-oversight-member": "masqueu{{GENDER:$1|r|se}} de modifications",
 	"hello": "Bonjour",
 	"please-translate": "Aidez-nous à traduire dans votre langue",
+	"please-translate-short": "Aider à traduire",
 	"thank-you": "{{GENDER:$1|}}Merci.",
 	"specialblockfeedback": "Commentaire",
 	"specialinvestigate-feedback": "Laisser un commentaire",
