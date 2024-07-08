@@ -269,7 +269,7 @@
 	"wikimedia-torblock-blocked": "เลขที่อยู่ไอพีของคุณ <strong>$1</strong> ถูกระบุว่าเป็นโหนดที่ระบุตัวตนโดย[https://th.wikipedia.org/wiki/ทอร์_(เครือข่ายนิรนาม) ทอร์]อัตโนมัติ \nการแก้ไขโดยใช้ทอร์จะถูกระงับโดยอัติโนมัติ\nสำหรับข้อมูลเพิ่มเติมและคำแนะนำสำหรับผู้ใช้ที่ปฏิบัติถูกต้องแล้ว ดูที่นโยบายการใช้งานข้ามโครงการ[https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies อย่าใช้พร็อกซีเปิด]",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Policy:Terms_of_Use/th",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy นโยบายความเป็นส่วนตัว]",
-	"upload-form-label-not-own-work-local-commons": "คุณอาจต้องการใช้[[Special:Upload|หน้าอัปโหลดไฟล์บน {{SITENAME}}]] ซึ่งอาจอนุญาตการอัปโหลดไฟล์ภายใต้สัญญาอนุญาตเสรีตามนโยบายของวิกิ",
+	"upload-form-label-not-own-work-local-commons": "คุณอาจต้องการใช้[[Special:Upload|หน้าอัปโหลดไฟล์บน{{SITENAME}}]]ซึ่งอาจอนุญาตการอัปโหลดไฟล์ภายใต้สัญญาอนุญาตเสรีตามนโยบายของวิกิ",
 	"interlanguage-link-mul": "ภาษาเพิ่มเติม",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} พหุภาษา",
 	"interlanguage-link-wikipedia": "วิกิพีเดีย",
