@@ -5,10 +5,12 @@
 			"Умар"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Хьан IP-адресца хӀокху вики чу баьхкинчара тӀаьххьарчу дийнахь кхоьллина {{PLURAL:$1|1 аккаунт}}, иза цу хенан уггар дукха барам бу.\nИ бахьана долуш, оцу IP-адресца болчеран кхин аьтто бац кху муьрехь аккаунташ кхолла.\n\nНагахь ахьа Викимедиа-проекташкахь дакъа лацарна тӀе тидам тӀебахийтинехь, хьажа [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Хенна IP-доза совдаккхаран дехар]] хӀара хаттар дӀадаккхарехь гӀо лаха.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Хьан аьтту бу [[m:Special:CentralAuth/$1|кхечу Викимедиа проекташкара]] нисдаран гӀирсан агӀонга хьажа, оцу проекташкахь хьан къинхьегам балахь, декъашхочун агӀонан хаамаш чубаха таро йу.",
 	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Йеха аккаунт]]",
 	"wikimedia-centralauth-groupname": "Викимедин фондан",
+	"wikimedia-centralauth-login-error-locked": "<strong>ХӀара аккаунт [[m:Special:MyLanguage/Global locks|глобалан дӀайайина йу]]</strong>. {{GENDER:$1|Хьо}} аьтто хир бац цхьана а Викимедиа вики чохь авторизаци йан. [[m:Special:Contact/stewards|Стюардашка гӀо деха]], нагахь санна {{GENDER:$1|хьан}} хаттарш делахь.",
 	"createacct-helpusername-url": "{{ns:Project}}:Декъашхойн_цӀерш",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" тӀетаӀийна, хьо реза хуьлу тхан [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use], цул совнах реза хуьлу йухадокхийла доцуш хьан йоза [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] а, [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] а лицензешца арахеца.",
 	"wikimedia-flow-terms-of-use-new-topic": "«{{int:flow-newtopic-save}}» тӀетаӀийна, хьо реза хуьлу тхан [https://foundation.wikimedia.org/wiki/Terms_of_Use/en лелоран хьелашца], цул совнах реза хуьлу йухадокхийла доцуш хьан йоза [https://creativecommons.org/licenses/by-sa/3.0/deed.ru CC BY-SA 3.0] а, [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] а лицензешца арахеца.",
