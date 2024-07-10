@@ -7,8 +7,9 @@
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизораш",
 	"group-oversight": "Ревизораш",
-	"group-oversight-member": "левисорхо",
+	"group-oversight-member": "{{GENDER:$1|ревизор}}",
 	"hello": "Маршалла",
+	"please-translate": "Дехар до, хьайн матте гочдан гӀо дехьа",
 	"thank-you": "{{GENDER:$1|Баркалла.}}",
 	"specialblockfeedback": "Йуханехьа зӀе",
 	"specialinvestigate-feedback": "Йазде хьайна хетарг"
