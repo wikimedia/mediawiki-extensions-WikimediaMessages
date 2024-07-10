@@ -144,6 +144,7 @@ class Hooks implements
 			'globalblocking-blockedtext-ip',
 			'globalblocking-blockedtext-range',
 			'globalblocking-blockedtext-xff',
+			'globalblocking-blockedtext-user',
 			'globalblocking-ipblocked',
 			'globalblocking-ipblocked-range',
 			'globalblocking-ipblocked-xff',
