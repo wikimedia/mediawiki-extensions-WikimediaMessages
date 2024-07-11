@@ -48,7 +48,8 @@
 			"捍粵者",
 			"星海",
 			"飞舞回堂前",
-			"WiiUf"
+			"WiiUf",
+			"SCP-2000"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -233,7 +234,7 @@
 	"wikimedia-commons-copyright": "檔案基於在它們的描述頁面裡所指定的授權條款可用。所有來自檔案命名空間的結構化資料在<a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW\" title=\"Definition of the Creative Commons CC0 License\">創用 CC0 授權條款</a>下提供，所有非結構化文字在<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">創用 CC 姓名標示-相同方式分享授權條款</a>下提供，並可能適用其他附加條款。\n依據使用此網站，代表您同意<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\" title=\"Wikimedia Foundation Terms of Use\">使用條款</a>以及<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\" title=\"Wikimedia Foundation Privacy Policy\">隱私政策</a>。",
 	"wikidata-copyright": "本網站主命名空間、Property、Lexeme和EntitySchema命名空間的所有結構化數據採用<a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.zh\" title=\"創用CC0授權協議定義\">創用CC0授權協議</a>授權；其他命名空間的文字內容採用<a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.zh\" title=\"創用CC姓名標示-相同方式分享授權協議之定義\">創用CC姓名標示-相同方式分享授權協議</a>授權；附加條款可能應用。通過使用此網站，您同意<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">使用條款</a>及<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\">隱私政策。</a>",
 	"wikidata-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant CC BY-SA 4.0]",
-	"wikimedia-copyrightwarning": "保存變更即表示您同意[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並不可復原地同意採用[https://creativecommons.org/licenses/by-sa/4.0/deed.zh CC BY-SA 4.0授權協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文檔授權條款文本 GFDL]發表您貢獻的內容。您同意，在創用CC授權協議下，超連結或URL足以姓名標示您的內容。",
+	"wikimedia-copyrightwarning": "保存變更即表示您同意[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並不可復原地同意採用[https://creativecommons.org/licenses/by-sa/4.0/deed.zh CC BY-SA 4.0授權協議]和[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文檔授權條款文本 GFDL]發表您貢獻的內容。您同意，在創用CC授權協議下，超連結或URL足以署名標示您的內容。",
 	"wikimedia-copyrightwarning-ccbysa40only": "儲存變更即代表您同意[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]並且同意不反悔以 [https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant CC BY-SA 4.0 授權條款]發表您的貢獻。您同意超連結或URL足以作為創用CC授權條款的姓名標示。",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.zh CC BY-SA 4.0 授權條款]與 [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant CC BY-SA 4.0]與 [https://www.gnu.org/licenses/fdl.html GFDL]",

@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zakaria Tunsung"
+			"Zakaria Tunsung",
+			"Majorh"
 		]
 	},
 	"sitesupport": "Soŋ neŋ e sumbu",
+	"wikimedia-copyright": "Sɛgere be la a puli kyɛ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> nyɛ duoro yaga",
 	"wikimedia-developers": "maalemaaleba",
 	"wikimedia-statslink": "Gyɛre maahitaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"
