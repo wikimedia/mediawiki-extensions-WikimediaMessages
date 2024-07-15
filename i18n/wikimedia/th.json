@@ -261,7 +261,7 @@
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.wikimedia.org/wiki/Terms_of_Use/th",
 	"wikimedia-oauth-privacy-link": "[https://meta.wikimedia.org/wiki/Privacy_policy/th นโยบายความเป็นส่วนตัว]",
 	"grant-checkuser": "เข้าถึงข้อมูลผู้ตรวจสอบผู้ใช้",
-	"upload-form-label-not-own-work-local-commons": "คุณอาจต้องการใช้[[Special:Upload|หน้าอัปโหลดไฟล์บน {{SITENAME}}]] ซึ่งอาจอนุญาตการอัปโหลดไฟล์ภายใต้สัญญาอนุญาตเสรีตามนโยบายของวิกิ",
+	"upload-form-label-not-own-work-local-commons": "คุณอาจต้องการใช้[[Special:Upload|หน้าอัปโหลดไฟล์บน{{SITENAME}}]]ซึ่งอาจอนุญาตการอัปโหลดไฟล์ภายใต้สัญญาอนุญาตเสรีตามนโยบายของวิกิ",
 	"interlanguage-link-mul": "ภาษาเพิ่มเติม",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} พหุภาษา",
 	"interlanguage-link-wikipedia": "วิกิพีเดีย",
