@@ -7,6 +7,11 @@
 	},
 	"sitesupport": "Soŋ neŋ e sumbu",
 	"wikimedia-copyright": "Sɛgere be la a puli kyɛ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> nyɛ duoro yaga",
+	"wikimedia-copyrightwarning": "Ka e naŋ wa a leuhibu ŋa biŋ soŋ, be la wuloŋ ka e sagɛɛ a [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], ane e la sagɛɛ sagebu meŋa ka e na bahɛɛ e tuma ko [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ane a [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nE sagɛɛ ka a hyperlink bii URL eɛ ko a yɛlɛ maalebu goɔloŋ.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "maalemaaleba",
 	"wikimedia-statslink": "Gyɛre maahitaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"
