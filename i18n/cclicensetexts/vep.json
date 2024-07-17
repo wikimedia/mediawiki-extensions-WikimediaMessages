@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Игорь Бродский",
-			"Лариса Чиркова"
+			"Лариса Чиркова",
+			"Ростислав Мельников"
 		]
 	},
 	"wm-license-cc-attribution": "Tegii",
@@ -36,14 +37,14 @@
 	"wm-license-cc-by-sa-3.0-tw-text": "Nece fail sab kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.ru Attribution-Share Alike 3.0 Taivan]-licenzijan mödhe.",
 	"wm-license-cc-by-sa-3.0-us-text": "Nece fail sab kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by-sa/3.0/at/deed.ru Attribution-Share Alike 3.0 AÜV]-licenzijan mödhe.",
 	"wm-license-cc-sa-1.0-fi-text": "Nece fail sab kävutada [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/fi/deed.ru Share Alike 1.0 Suomenma]-licenzijan mödhe.",
-	"wm-license-cc-free": "Sinä oled valdal",
+	"wm-license-cc-free": "Sinä oled valdal:",
 	"wm-license-cc-free-to-share-header": "jagadas",
-	"wm-license-cc-free-to-share-text": "kopiruida, levenzoitta da oigeta radon",
+	"wm-license-cc-free-to-share-text": "kopiruida, levenzoitta da oigeta tön",
 	"wm-license-cc-free-to-remix-header": "koheta",
 	"wm-license-cc-free-to-remix-text": "kebnenzoitta radon",
 	"wm-license-cc-conditions": "Mugoižiden sändoiden mödhe:",
 	"wm-license-cc-conditions-attribution-header": "tegii",
-	"wm-license-cc-conditions-attribution-text": "Sinei pidab arvostada, antta tarkendusen licenzijale, da homaita, om-ik tehtud vajehtusid. Sinä void tehta necidä hot' miččes taht formas, no ala meleta, miše licenzijan pidäi hüväksib sindai libo sinun kävutandad.",
+	"wm-license-cc-conditions-attribution-text": "Sinei pidab arvostada, antta tarkendusen licenzijale, da homaita, om-ik tehtud vajehtusid. Sinä void tehta necidä hot’ miččes taht formas, no ala meleta, miše licenzijan pidäi hüväksib sindai libo sinun kävutandad.",
 	"wm-license-cc-conditions-share_alike-header": "ühtejitte jagamine",
 	"wm-license-cc-conditions-share_alike-text": "Ku sinä vajehtad, libo parembzoitad materialad, sinei pidab painda sidä [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] originaližes variantas."
 }
