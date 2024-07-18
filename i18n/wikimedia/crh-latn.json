@@ -16,7 +16,7 @@
 	"wikibase-sitelinks-wikisource": "Vikimenba",
 	"wikibase-sitelinks-wikivoyage": "Vikiseyaat",
 	"wikibase-otherprojects-wikipedia": "Vikipediya",
-	"wikimedia-developers": "Keliştiriciler",
+	"wikimedia-developers": "Programmacılar",
 	"wikimedia-globalblocking-ipblocked": "'''Sizin kimligiñiz [[m:Special:MyLanguage/Global blocks|bütün vikilerge bloklanğan]].'''\n\n$1 ($2) tarafından bloklanğansiñiz.\nNedeni ise '''$3'''.\n\n* Bloknıñ başlağan vaqtı: $4\n* Bloknıñ soñ tapacaq vaqtı: $5\n\nSizin kimligiñiz $6.\nSoracaq oldıñız bütün sorularda lütfen bu bilgilerni beriñiz.\n\nEger haqsız yerge blok etildim derseñiz, daa bilgi [[m:Special:MyLanguage/No open proxies|açıq proksi yoq]] denilgen yerde tapabilirsiñiz. Ya da, blok aqqında tartışmaq içün\n[[m:Steward requests/Global|Meta-Vikige]] yazabilirsiñiz.",
 	"interlanguage-link-wikipedia": "Vikipediya",
 	"wikimedia-statslink": "Statistik",
