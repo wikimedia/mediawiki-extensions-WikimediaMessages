@@ -15,7 +15,8 @@
 			"ترجمان05",
 			"ديفيد",
 			"علاء",
-			"مصعب"
+			"مصعب",
+			"Lucas Werkmeister"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ar:مشاع إبداعي",
@@ -172,7 +173,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [[creativecommons:by-sa/2.5/si/|نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 سلوفينيا]]",
 	"wm-license-cc-by-sa-2.5-tw-text": "هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [[creativecommons:by-sa/2.5/tw/|نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 التايوانية]]",
 	"wm-license-cc-by-sa-2.5-za-text": "هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [[creativecommons:by-sa/2.5/za/|نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 2.5 جنوب إفريقيا]]",
-	"wm-license-cc-by-sa-3.0-text": "هذا الملفُّ مُرخَّص بموجب رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع الإبداعي]] [[creativecommons:by-sa/3.0/|نسبة المُصنَّف إِلى مُؤَلِّفه - المشاركة بالمثل 3.0 العامة]]",
+	"wm-license-cc-by-sa-3.0-text": "هذا الملفُّ مُرخَّص بموجب رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع الإبداعي]] [[creativecommons:by-sa/3.0/deed.ar|نسبة المُصنَّف إِلى مُؤَلِّفه - المشاركة بالمثل 3.0 العامة]]",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "هذا الملف مرخص تحت [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] مؤلفه [[creativecommons:by-sa/3.0/|3.0 بلا رجعة]], [[creativecommons:by-sa/2.5/|2.5 عام]], [[creativecommons:by-sa/2.0/|2.0 عام]] و [[creativecommons:by-sa/1.0/|1.0 عام]] الترخيص.",
 	"wm-license-cc-by-sa-3.0-at-text": "هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [[creativecommons:by-sa/3.0/at/|نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 3.0 النمساوية]]",
 	"wm-license-cc-by-sa-3.0-au-text": "هذا الملف مُرخص تحت رخصة [[{{int:wm-license-cc-wiki-link}}|المشاع المبدع]] [[creativecommons:by-sa/3.0/au/|نسبة المصنف إلى مؤلفه - المشاركة على قدم المساواة 3.0 الأسترالية]]",
