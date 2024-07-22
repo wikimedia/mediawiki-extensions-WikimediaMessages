@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Aursani",
+			"Charoo",
 			"Indus Asia",
 			"JogiAsad",
 			"Kaleem Bhatti",
@@ -131,7 +132,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "وڌيڪ ٻوليون",
 	"interlanguage-link-wikipedia": "وڪيپيڊيا",
-	"interlanguage-link-sitename-wikipedia": "وڪيپيڊيا، کليل ڄاڻ چيڪلو",
+	"interlanguage-link-sitename-wikipedia": "وڪيپيڊيا، کليل انسائيڪلوپيڊيا",
 	"interlanguage-link-commons": "وڪيميڊيا العام",
 	"action-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" طور تحفظيل صفحا سنواريو",
 	"right-editeditorprotected": "\"{{int:protect-level-editeditorprotected}}\" طور تحفظيل صفحا سنواريو",
