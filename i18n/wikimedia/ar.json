@@ -50,7 +50,7 @@
 			"Dreamy Jazz"
 		]
 	},
-	"wikimediamessages-desc": "رسائل خاصة بويكيميديا",
+	"wikimediamessages-desc": "رسائل ويكيميديا المحددة",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ar",
 	"sitesupport": "تبرع",
 	"tooltip-n-sitesupport": "ادعمنا",
@@ -281,6 +281,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "كومنز",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "ميدياويكي",
 	"wikibase-sitelinks-sitename-metawiki": "ميتا ويكي",
+	"wikibase-sitelinks-sitename-sourceswiki": "ويكي مصدر متعدد اللغات",
 	"wikibase-sitelinks-sitename-species": "ويكي الأنواع",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويكي بيانات",
 	"cant-delete-main-page": "لا يمكنك حذف الصفحة الرئيسية أو نقلها.",

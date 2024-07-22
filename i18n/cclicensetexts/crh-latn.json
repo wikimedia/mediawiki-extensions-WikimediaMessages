@@ -1,14 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"TayfunEt."
+			"TayfunEt.",
+			"Don Alessandro",
+			"Zolgoyo"
 		]
 	},
-	"wm-license-cc-free": "Azatsıñız:",
-	"wm-license-cc-free-to-share-header": "paylaşuv",
-	"wm-license-cc-free-to-share-text": "qopyaluv, dağıtuv ve iletüv",
-	"wm-license-cc-free-to-remix-header": "remiks etüv",
-	"wm-license-cc-free-to-remix-text": "uyğunlaştıruv",
-	"wm-license-cc-conditions": "Bu şartlar astında:",
+	"wm-license-cc-free": "Şunı yapmaq serbestsiñiz:",
+	"wm-license-cc-free-to-share-header": "paylaşmaq",
+	"wm-license-cc-free-to-share-text": "eserni kopiyalamaq, tarqatmaq ve başqasına bermek",
+	"wm-license-cc-free-to-remix-header": "remiks etmek",
+	"wm-license-cc-free-to-remix-text": "deñiştirip uyğunlaştırmaq",
+	"wm-license-cc-conditions": "Şu şartlar astında:",
 	"wm-license-cc-conditions-share_alike-header": "aynı şekilde paylaşuv"
 }
