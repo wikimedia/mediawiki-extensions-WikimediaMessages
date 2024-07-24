@@ -10,7 +10,8 @@
 			"StarrySky",
 			"Winston Sung",
 			"Wxyveronica",
-			"Xiplus"
+			"Xiplus",
+			"Dabao qian"
 		]
 	},
 	"sitesupport": "捐助",
@@ -27,7 +28,7 @@
 	"grouppage-extendedconfirmed": "{{ns:project}}:延伸確認用戶",
 	"group-global-bot": "全域機械人",
 	"group-global-bot-member": "{{GENDER:$1|全域機械人}}",
-	"wikimedia-copyright": "文字依據<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.zh_HK\">共享創意 姓名標示-相同方式分享特許條款</a>提供；並應用一些額外條款。詳情參考<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">使用條款</a>。",
+	"wikimedia-copyright": "文字依據<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant\">共享創意 姓名標示-相同方式分享特許條款</a>提供；並應用一些額外條款。詳情參考<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">使用條款</a>。",
 	"wikimedia-developers": "開發人員",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 私隱政策]",
 	"wikimedia-statslink": "統計",

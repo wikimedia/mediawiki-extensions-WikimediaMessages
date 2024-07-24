@@ -2,11 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Gustave London",
-			"Tšepo"
+			"Tšepo",
+			"Maryam AlAkini"
 		]
 	},
 	"sitesupport": "Dimpho",
 	"tooltip-n-sitesupport": "Re tšehetse",
+	"wikimedia-copyright": "Mongolo o fumaneha tlasa <a href=\"https://creativecommons\n.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\ndipehelo tse eketsehileng di ka sebetsa.\nSheba <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Melao ya Tšebeliso</a> bakeng sa lintlha tse ling.",
 	"wikimedia-developers": "Baetsi ba Software",
 	"wikimedia-statslink": "Dipalopalo",
 	"wikimedia-cookiestatement": "Polelo ka cookie"
