@@ -1,6 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"MAL MALDIVE"
+		]
 	},
-	"sitesupport": "ޚައިރާތުތައް"
+	"sitesupport": "ޚައިރާތުތައް",
+	"wikibase-sitelinks-wikinews": "\tވިކީޚަބަރު",
+	"wikibase-sitelinks-wikiquote": "ވިކިބުނުން",
+	"wikibase-sitelinks-wikisource": "ވިކިމަސްދަރު",
+	"wikibase-sitelinks-wikivoyage": "ވިކިވޮޔޭޖް"
 }
