@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"TayfunEt.",
-			"Zolgoyo"
+			"Zolgoyo",
+			"Don Alessandro"
 		]
 	},
 	"wm-license-information-description": "Tasvir",
@@ -12,5 +13,5 @@
 	"wm-license-information-permission": "İzin",
 	"wm-license-information-permission-reusing-text": "Faylnı yañıdan qullanuv",
 	"wm-license-own-work": "Öz işi",
-	"wm-license-self-multiple-licenses-select": "İstedigiñiz lisansnı seçebilirsiñiz."
+	"wm-license-self-multiple-licenses-select": "İstegen litsenziyañızñı saylay bilesiñiz."
 }

@@ -33,7 +33,8 @@
 			"Varusmies",
 			"Veikk0.ma",
 			"VezonThunder",
-			"Zache"
+			"Zache",
+			"Samoasambia"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian käyttämiä järjestelmäviestejä.",
@@ -240,7 +241,7 @@
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Tietosuojakäytäntö]",
 	"upload-form-label-own-work-message-commons": "Vakuutan, että omistan tämän tiedoston tekijänoikeudet, ja sitoudun siihen, että luovutan peruuttamattomasti tämän tiedoston Wikimedia Commonsiin niillä ehdoilla, jotka liittyvät lisenssiin [https://creativecommons.org/licenses/by-sa/4.0/deed.fi Creative Commons Nimeä-JaaSamoin 4.0]. Sitoudun myös noudattamaan [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use käyttöehtoja].",
 	"upload-form-label-not-own-work-message-commons": "Jos sinulla ei ole tähän tiedostoon tekijänoikeutta tai jos haluat luovuttaa tiedoston käyttäen jotain toista lisenssiä, voit käyttää erityistä [https://commons.wikimedia.org/wiki/Special:UploadWizard Ohjattu tiedoston tallentaminen] -toimintoa.",
-	"upload-form-label-not-own-work-local-commons": "Voit myös kokeilla [[Special:Upload|tallennussivua sivustolla {{SITENAME}}]]. Saattaa olla, että sivusto antaa tallentaa tämän tiedoston sinne siellä voimassa olevien käytäntöjen mukaisesti.",
+	"upload-form-label-not-own-work-local-commons": "Voit myös kokeilla [[Special:Upload|tallennussivua {{GRAMMAR:inessive|{{SITENAME}}}}]], jos sivusto antaa tallentaa tämän tiedoston sinne siellä voimassa olevien käytäntöjen mukaisesti.",
 	"interlanguage-link-mul": "Lisää kieliä",
 	"interlanguage-link-sitename-mul": "Monikielinen {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipedia",
@@ -283,7 +284,7 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Kyllä",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ei",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Kiitos palautteestasi.",
-	"ext-quicksurveys-internal-gdi-safety-survey-question": "Oletko viimeisten 30 päivän aikana tuntenut olosi turvattomaksi tai epämukavaksi muokatessasi sivustolla {{SITENAME}} ({{SERVERNAME}})?",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Oletko viimeisten 30 päivän aikana tuntenut olosi turvattomaksi tai epämukavaksi muokatessasi {{GRAMMAR:inessive|{{SITENAME}}}} ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Kyllä",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Ei",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "En ole varma",

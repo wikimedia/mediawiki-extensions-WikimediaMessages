@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Умар"
+			"Умар",
+			"Робин"
 		]
 	},
 	"wm-license-cc-attribution": "Авторан цӀе дӀайазйар",
@@ -156,7 +157,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/si/deed.ru|Attribution-Share Alike 2.5 Словени]] лицензица.",
 	"wm-license-cc-by-sa-2.5-tw-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/tw/deed.ru|Attribution-Share Alike 2.5 Тайвань]] лицензица.",
 	"wm-license-cc-by-sa-2.5-za-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/za/deed.ru|Attribution-Share Alike 2.5 Къилба-Африкин Республика]] лицензица.",
-	"wm-license-cc-by-sa-3.0-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.ru|Attribution-Share Alike 3.0 Unported]] лицензица.",
+	"wm-license-cc-by-sa-3.0-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] лицензица.",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [[creativecommons:by-sa/3.0/deed.ru|3.0 Unported]], [[creativecommons:by-sa/2.5/deed.ru|2.5 Generic]], [[creativecommons:by-sa/2.0/deed.ru|2.0 Generic]], [[creativecommons:by-sa/1.0/deed.ru|1.0 Generic]] лицензица.",
 	"wm-license-cc-by-sa-3.0-at-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/at/deed.ru|Attribution-Share Alike 3.0 Австри]] лицензица.",
 	"wm-license-cc-by-sa-3.0-au-text": "ХӀара файл лело йиш йу [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/3.0/au/deed.ru|Attribution-Share Alike 3.0 Австрали]] лицензица.",

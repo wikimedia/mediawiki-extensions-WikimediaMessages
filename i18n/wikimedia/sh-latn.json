@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Vlad5250",
-			"Winston Sung"
+			"Winston Sung",
+			"BadDog"
 		]
 	},
 	"wikimediamessages-desc": "Poruke koje se odnose na Wikimediju",
@@ -233,7 +234,7 @@
 	"restriction-level-superprotect": "superzaštita",
 	"action-templateeditor": "uređivanje zaštićenih predložaka",
 	"right-templateeditor": "Uređivanje zaštićenih predložaka",
-	"restriction-level-templateeditor": "dopušteno samo uređivačima predložaka",
+	"restriction-level-templateeditor": "dopušteno samo urednicima šablona",
 	"protect-level-templateeditor": "Dopusti samo uređivačima predložaka i administratorima",
 	"action-extendedconfirmed": "uređivanje zaštićenih stranica",
 	"right-extendedconfirmed": "Uređivanje zaštićenih stranica",
@@ -241,11 +242,11 @@
 	"protect-level-extendedconfirmed": "Dopusti samo dokazanim korisnicima i administratorima",
 	"action-editeditorprotected": "uređivanje stranica pod zaštitom \"{{int:protect-level-editeditorprotected}}\"",
 	"right-editeditorprotected": "Uređivanje stranica pod zaštitom \"{{int:protect-level-editeditorprotected}}\"",
-	"protect-level-editeditorprotected": "Dopušteno samo uređivačima",
+	"protect-level-editeditorprotected": "dopušteno samo urednicima",
 	"restriction-level-editeditorprotected": "onemogućeno uređivanje",
 	"action-editextendedsemiprotected": "uređivanje stranica pod zaštitom \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"right-editextendedsemiprotected": "Uređivanje stranica pod zaštitom \"{{int:protect-level-editextendedsemiprotected}}\"",
-	"protect-level-editextendedsemiprotected": "Dopusti samo autopatrolerima",
+	"protect-level-editextendedsemiprotected": "dopušteno samo autopatrolerima",
 	"restriction-level-editextendedsemiprotected": "zaštićeno (autopatroleri)",
 	"action-banner-protect": "zaštitu prevodivih stranicā s kojima radi proširenje i uključenih u središnje obavjesnice",
 	"eri-rcfilters-tour-intro-welcome-title": "Dobro došli u poboljšano filtriranje Nedavnih promjena",
@@ -278,7 +279,7 @@
 	"restriction-level-editautoreviewprotected": "zaštićeno (automatski ocjenjivači)",
 	"right-editautoreviewprotected": "Uređivanje stranica pod zaštitom \"{{int:protect-level-editautoreviewprotected}}\"",
 	"action-editautoreviewprotected": "uređivanje stranica pod zaštitom \"{{int:protect-level-editautoreviewprotected}}\"",
-	"protect-level-editautopatrolprotected": "Dopusti samo autopatrolerima",
+	"protect-level-editautopatrolprotected": "dopušteno samo autopatrolerima",
 	"restriction-level-editautopatrolprotected": "zaštićeno (autopatroleri)",
 	"right-editautopatrolprotected": "Uređivanje stranica pod zaštitom \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "uređivanje stranica pod zaštitom \"{{int:protect-level-editautopatrolprotected}}\"",

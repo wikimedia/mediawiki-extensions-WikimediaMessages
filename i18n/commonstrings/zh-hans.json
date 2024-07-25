@@ -4,7 +4,8 @@
 			"Nikki",
 			"U.T.",
 			"沈澄心",
-			"LittlePaw365"
+			"LittlePaw365",
+			"Cookai1205"
 		]
 	},
 	"wm-commonstrings-aboutme": "关于我",
@@ -24,7 +25,7 @@
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|主条目：$1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|主页面：$1}}",
 	"wm-commonstrings-mywork": "我的作品",
-	"wm-commonstrings-news-events": "新闻与事件",
+	"wm-commonstrings-news-events": "新闻与活动",
 	"wm-commonstrings-noticeboard": "公告栏",
 	"wm-commonstrings-objectives": "目标",
 	"wm-commonstrings-ongoing": "进行中",
