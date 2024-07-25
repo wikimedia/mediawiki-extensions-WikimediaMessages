@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"ऐक्टिवेटेड्"
 		]
 	},
 	"wm-commonstrings-background": "पृष्ठभूमि",
@@ -17,7 +18,7 @@
 	"wm-commonstrings-questions": "प्रश्न?",
 	"wm-commonstrings-register-account": "पञ्जीकरण खाता",
 	"wm-commonstrings-reports": "बिवरण",
-	"wm-commonstrings-resolutions": "प्रस्ताव",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|प्रस्ताव}}",
 	"wm-commonstrings-scope": "ब्यापकता",
 	"wm-commonstrings-seealso": "एकरो देखी",
 	"wm-commonstrings-staff": "कर्मचारी",
