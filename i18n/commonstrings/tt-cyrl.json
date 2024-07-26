@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Don Alessandro",
 			"Varnent"
 		]
 	},
@@ -12,7 +13,7 @@
 	"wm-commonstrings-ongoing": "Эштә",
 	"wm-commonstrings-open": "Ачык",
 	"wm-commonstrings-overview": "Күзәтү",
-	"wm-commonstrings-participate": "Катнашырга",
+	"wm-commonstrings-participate": "Катнашу",
 	"wm-commonstrings-questions": "Сораулар?",
 	"wm-commonstrings-register-account": "Аккаунтны теркәргә",
 	"wm-commonstrings-reports": "Нәтиҗәләр",

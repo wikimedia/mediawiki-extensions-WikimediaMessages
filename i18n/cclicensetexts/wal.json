@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ella Lachow"
+			"Ella Lachow",
+			"Malaalaa"
 		]
 	},
 	"wm-license-cc-attribution": "Eeshshaa",
-	"wm-license-cc-by-sa-3.0-text": "Ha fayilee hagaan [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]]eenotaa immiis.",
+	"wm-license-cc-by-sa-3.0-text": "Ha fayliyawu eenotay [{{int:wm-license-cc-wiki-link}}|Creative Commons hagani]nne [creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported hagan] eenotaa immiis.",
 	"wm-license-cc-free": "Neeni la'a",
 	"wm-license-cc-free-to-share-header": "Gattanaassi",
 	"wm-license-cc-free-to-share-text": "duuqqanaassi, oosuwaa harasaa gattanne pintta",

@@ -11,6 +11,10 @@
 	"group-oversight": "Supervisores",
 	"group-oversight-member": "{{GENDER:$1|supervisor|supervisora}}",
 	"hello": "Ola",
-	"please-translate": "Por favor, axude a traducir á súa lingua",
-	"thank-you": "{{GENDER:$1|Grazas.}}"
+	"please-translate": "Axuda a traducir á túa lingua",
+	"please-translate-short": "Axuda coas traducións",
+	"thank-you": "{{GENDER:$1|Grazas.}}",
+	"specialinvestigate-feedback": "Deixa comentarios",
+	"graph-disabled-category": "Páxinas cos gráficos desactivados",
+	"graph-disabled-category-desc": "A páxina inclúe unha etiqueta <code>&lt;graph&gt;</code>, que non está dispoñible temporalmente ([[phab:T334940|T334940]])."
 }

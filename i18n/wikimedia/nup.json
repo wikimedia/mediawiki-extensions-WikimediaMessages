@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Misbahu umar"
+			"Misbahu umar",
+			"Umar Ahmad2345"
 		]
 	},
 	"sitesupport": "Twaria",
+	"wikimedia-copyrightwarning": "Be suso ebanzhe zhi, wo'a yeda jin be kundi\nlulo[https://foundation.wikimedia.org/wiki/special:\nMyLanguage/policy:Terms_of_Use]'i,wo man\nkezhe'a yeda jin gan wo'a la egwaso toh kpikpe\nwo'e dan [https://creative commons.org/lecenses/\nby-sa/4.0/deed.en CC BY-SA 4.0 License]kebe\nbe[https://en.wikipedia.org/wiki/Wikipedia:Text\n_of_the_GNU_Free_Documentation_License\nGFDL].'i\nWo'a yeda jin gan hyperlink koma URL ah ge laku dan\nCreative Commons License.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Etun yetuci",
 	"wikimedia-statslink": "Tsunwan\\Lisafi",
 	"wikimedia-cookiestatement": "Ganmi daka"
