@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Kiranpoojary",
+			"Mahaveer Indra",
 			"VASANTH S.N.",
 			"Vishwanatha Badikana"
 		]
@@ -9,7 +10,7 @@
 	"wm-license-gfdl-1.2-and-later": "ಈ ಲೇಕನೊನು [[{{int:wm-license-fsf-wiki-link}}|ಫ್ರೀ ಸಾಫ್ಟ್‌ವೇರ್ ಫೌಂಡೇಶನ್]]ಡ್ದ್ ಪ್ರಕಟನೆ ಆಯಿನ '''[[{{int:wm-license-gfdl-wiki-link}}|ಜಿ‌ಎನ್‌ಯು ಫ್ರೀ ಡಾಕ್ಯುಮೆಂಟೇಶನ್ ಲೈಸೆನ್ಸ್]]''', ಆವೃತ್ತಿ 1.2 ಅತ್ತ್‌ಡ ಬೊಕ್ಕ ಪ್ರಕಟನೆ ಆಯಿನ ಒವ್ವೇ ಆವೃತ್ತಿದ ನಿಬಂದನೆದಡಿಟ್; ಬದಲ್ ಮಲ್ಪೆರಾವಂದಿನ ವಿಬಾಗೊಲು ದಾಂತೆ, ಫ್ರಂಟ್-ಕವರ್ ಬರವು ದಾಂತೆ, ಬೊಕ್ಕ ಬ್ಯಾಕ್-ಕವರ್ ಬರವು ದಾಂತೆ; ನಕಲ್ ಮಲ್ಪೆರೆ, ವಿತರಣೆ ಮಲ್ಪೆರೆ ಅತ್ತ್‌ಡ ಬದಲ್ ಮಲ್ಪೆರೆ ಒಪ್ಪಿಗೆ ಉಂಡು. ಈ ಲೈಸೆನ್ಸ್‌ದ ಒಂಜಿ ಪ್ರತಿ ''[[{{int:wm-license-gfdl-full-1.2-link}}|ಜಿ‌ಎನ್‌ಯು ಫ್ರೀ ಡಾಕ್ಯುಮೆಂಟೇಶನ್ ಲೈಸೆನ್ಸ್]]'' ಪನ್ಪಿ ವಿಬಾಗೊಡು ಉಂಡು.",
 	"wm-license-information-description": "ವಿವರಣೆ",
 	"wm-license-information-source": "ಮೂಲೊ",
-	"wm-license-information-date": "ದಿನೊ",
+	"wm-license-information-date": "ತಾರೀಕ್",
 	"wm-license-information-author": "ಲೇಕಕೆರ್",
 	"wm-license-information-permission": "ಒಪ್ಪುಗೆ",
 	"wm-license-information-permission-reusing-text": "ಈ ಫೈಲ್‍ನ್ ಕುಡ ಗಲಸೊಂದುಂಡು",

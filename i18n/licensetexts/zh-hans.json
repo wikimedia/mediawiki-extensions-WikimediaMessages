@@ -85,7 +85,7 @@
 	"wm-license-information-permission-reusing-text": "二次使用本文件",
 	"wm-license-information-permission-see-below": "见下方。",
 	"wm-license-information-other-versions": "其他版本",
-	"wm-license-lgpl-text": "本软件库为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]，您可以依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的'''[[{{int:wm-license-lgpl-wiki-link}}|GNU次级公众许可协议]]'''2.1版或任意后续版本的条款，传播和/或修改本软件库。本软件库发表时预期有用，但对此'''无任何保证'''，亦无隐含的'''可以销售'''或'''适合特定目的'''的保证。详情请见[{{int:wm-license-lgpl-2.1-full-link}} GNU次级公众许可协议2.1版]和[{{int:wm-license-lgpl-3-full-link}} 第3版]。",
+	"wm-license-lgpl-text": "本软件库为[[{{int:wm-license-free-software-wiki-link}}|自由软件]]，您可以依据[[{{int:wm-license-fsf-wiki-link}}|自由软件基金会]]发行的'''[[{{int:wm-license-lgpl-wiki-link}}|GNU宽通用公共许可证]]'''2.1版或任意后续版本的条款，传播和/或修改本软件库。本软件库发表时预期有用，但对此'''无任何保证'''，亦无隐含的'''可以销售'''或'''适合特定目的'''的保证。详情请见[{{int:wm-license-lgpl-2.1-full-link}} GNU宽通用公共许可证2.1版]和[{{int:wm-license-lgpl-3-full-link}} 第3版]。",
 	"wm-license-lgpl-wiki-link": "w:zh:GNU宽通用公共许可证",
 	"wm-license-licensing-update-text": "本许可协议标签作为GFDL[[{{int:wm-license-licensing-update-wiki-link}}|许可协议更新]]的组成部分被添加至本文件。",
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/zh-hans",

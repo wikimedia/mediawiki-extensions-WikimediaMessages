@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"AmaryllisGardener",
+			"CiphriusKane",
 			"John Reid",
 			"MJL"
 		]
 	},
 	"wm-license-creator-description": "Descreeption",
-	"wm-license-fal-text": "Copyleft: This wairk o airt is free; ye can redistreebute it n/or modifie it accordin til the terms o the '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ye'll fynd ae specimen o this license oan the [{{int:wm-license-fal-full-link}} Copyleft Attitude steid] aes weel aes [{{int:wm-license-fal-full-link-commons}} oan ither steids].",
+	"wm-license-fal-text": "Copyleft: This wark o airt is free; ye can redistribut it an/or modify it accordin til the terms o the '''[[{{int:wm-license-fal-wiki-link}}|Free Art License]]'''. Ye'll find ae specimen o this license on the [{{int:wm-license-fal-full-link}} Copyleft Attitude steid] as weel as [{{int:wm-license-fal-full-link-commons}} on ither steids].",
 	"wm-license-gfdl-1.2-and-later": "Permission is grantit tae copy, distribute an/or modify this document unner the terms o the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 or ony later version published bi the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; wi no Invariant Sections, no Front-Cover Texts, an no Back-Cover Texts. A copy o the license is includit in the section enteetled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-wiki-link": "w:sco:GFDL",
 	"wm-license-information-description": "Descreeption",

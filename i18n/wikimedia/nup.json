@@ -12,6 +12,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Etun yetuci",
+	"wikimedia-globalblocking-ipblocked": "\"'{{int:wikimedia-globalblocking-blo\nckedtext-all-wikis}}\"' kikan wuncin bebe\ndagan $1 ($2). Dalili yi \"$3\". Chaba kikan:\n$4 *zuzo kikan:$5 IP nyan wo'e gbani yi $6.\n{{int: blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-all-}}",
+	"wikimedia-globalblocking-ipblocked-xff": "\"'{{int:wikimedia-globalblocking-blockedte\nxt-on-proxy}}\"' kikan wuncin yi dagan $1 ($2)\nbo. Dalili yi $3 bo. *Chaba kikan: $4 *zuzo kikan:\n$5 {int: globalblocking-blockedtext-proxy|$7}}\n{{int: blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-all-}}",
 	"wikimedia-statslink": "Tsunwan\\Lisafi",
 	"wikimedia-cookiestatement": "Ganmi daka"
 }
