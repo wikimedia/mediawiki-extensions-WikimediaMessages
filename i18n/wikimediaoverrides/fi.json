@@ -6,13 +6,15 @@
 			"Kyykaarme",
 			"Nemo bis",
 			"Pyscowicz",
-			"Stryn"
+			"Stryn",
+			"Samoasambia"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Voit käydä Asetukset-sivulla [[m:Special:CentralAuth/$1|muissa Wikimedia-hankkeissa, jossa olet muokannut]] ladataksesi tilitietosi näistä hankkeista.",
 	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
-	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
+	"wikimedia-centralauth-groupname": "Wikimedia-säätiö",
+	"wikimedia-centralauth-login-error-locked": "<strong>Tämä käyttäjätunnus on [[m:Special:MyLanguage/Global locks|estetty järjestelmänlaajuisesti]].</strong> {{GENDER:$1|Et}} voi kirjautua sisään mihinkään Wikimedia-wikiin. [[m:Special:Contact/stewards|Ota yhteyttä ylivalvojiin]], jos {{GENDER:$1|sinulla}} on kysymyksiä.",
 	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnus",
 	"wikimedia-discussiontools-replywidget-terms-click": "Klikkaamalla \"$1\" hyväksyt [https://foundation.wikimedia.org/wiki/Terms_of_Use käyttöehdot] ja suostut peruuttamattomasti julkaisemaan tekstisi [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0]- ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-lisensseillä.",
 	"wikimedia-sitematrix": "Luettelo Wikimedian wikeistä",

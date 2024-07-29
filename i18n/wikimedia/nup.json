@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Misbahu umar"
+			"Misbahu umar",
+			"Umar Ahmad2345"
 		]
 	},
 	"sitesupport": "Twaria",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Etun yetuci",
 	"wikimedia-statslink": "Tsunwan\\Lisafi",
 	"wikimedia-cookiestatement": "Ganmi daka"

@@ -6,11 +6,13 @@
 			"Zolgoyo"
 		]
 	},
+	"wm-license-cc-attribution": "Atıf",
 	"wm-license-cc-free": "Şunı yapmaq serbestsiñiz:",
 	"wm-license-cc-free-to-share-header": "paylaşmaq",
 	"wm-license-cc-free-to-share-text": "eserni kopiyalamaq, tarqatmaq ve başqasına bermek",
 	"wm-license-cc-free-to-remix-header": "remiks etmek",
 	"wm-license-cc-free-to-remix-text": "deñiştirip uyğunlaştırmaq",
 	"wm-license-cc-conditions": "Şu şartlar astında:",
+	"wm-license-cc-conditions-attribution-header": "atıf",
 	"wm-license-cc-conditions-share_alike-header": "aynı şekilde paylaşuv"
 }

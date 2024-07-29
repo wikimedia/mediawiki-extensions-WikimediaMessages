@@ -5,10 +5,12 @@
 			"MITO",
 			"Nike",
 			"Pyscowicz",
-			"Valtlait"
+			"Valtlait",
+			"Samoasambia",
+			"Valtlai"
 		]
 	},
-	"contactpage-title-requestlicense": "Tavaramerkin uudelleenkäyttölomake",
+	"contactpage-title-requestlicense": "Pyydä lisenssiä -lomake",
 	"contactpage-pagetext-requestlicense": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä Wikimedian tavaramerkin käytöstä.",
 	"contactpage-subject-requestlicense": "Wikimedian tavaramerkin käyttöpyyntö",
 	"contactpage-license-request-username": "Käyttäjänimi",
@@ -42,8 +44,8 @@
 	"contactpage-wikimedia-trademark-wikiversity": "Wikiopisto",
 	"contactpage-wikimedia-trademark-wiktionary": "Wikisanakirja",
 	"contactpage-wikimedia-trademark-wikivoyage": "Wikimatkat",
-	"contactpage-title-licenseabuse": "Tekijänoikeusrikkomusten yhteydenottolomake",
-	"contactpage-pagetext-licenseabuse": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä tavaramerkin väärinkäyttöepäillyissä",
+	"contactpage-title-licenseabuse": "Ilmoita väärinkäytöstä -lomake",
+	"contactpage-pagetext-licenseabuse": "Käytä alla olevaa lomaketta, kun haluat ottaa meihin yhteyttä kertoaksesi epäileväsi jonkun väärinkäyttävän Wikimedian tavaramerkkiä.",
 	"contactpage-subject-licenseabuse": "Wikimedian tavaramerkin väärinkäyttöilmoitus",
 	"contactpage-license-abuse-description": "Kuvaile väärinkäyttö",
 	"contactpage-license-abuse-selectmark": "Mitä merkkiä väärinkäytetään?",

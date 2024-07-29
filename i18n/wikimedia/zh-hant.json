@@ -48,7 +48,9 @@
 			"Tiger",
 			"Cookai1205",
 			"Varnent",
-			"WiiUf"
+			"WiiUf",
+			"Dabao qian",
+			"SCP-2000"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -218,8 +220,8 @@
 	"group-recursive-export": "遞迴匯出員",
 	"group-recursive-export-member": "{{GENDER:$1|遞迴匯出員}}",
 	"grouppage-recursive-export": "m:Recursive export/zh",
-	"group-staff": "工作人員",
-	"group-staff-member": "{{GENDER:$1|工作人員}}",
+	"group-staff": "員工",
+	"group-staff-member": "{{GENDER:$1|員工}}",
 	"group-steward": "監管員",
 	"group-steward-member": "{{GENDER:$1|監管員}}",
 	"grouppage-steward": "m:Stewards/zh",
@@ -287,6 +289,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "多語言維基文庫",
 	"wikibase-sitelinks-sitename-species": "維基物種",
 	"wikibase-sitelinks-sitename-wikidatawiki": "維基數據",
+	"apihelp-wbsearchentities-paramvalue-profile-language": "用於搜尋有關自然語言項目的個人設定。",
+	"apihelp-query+wbsearch-paramvalue-profile-language": "用於搜尋有關自然語言項目的個人設定。",
 	"cant-delete-main-page": "您不能刪除或移動主頁。",
 	"wikimedia-translationnotifications-signup-legal": "你同意提供維基媒體基金會此資訊，維基媒體基金會可能就有關翻譯或我們認為你有興趣的維基媒體發展事項去聯絡你。你亦同意我們將你的資料根據[https://foundation.wikimedia.org/wiki/Privacy_policy 私隱政策]存放於美國。",
 	"upload-more-photos-of-this-monument": "上傳更多此古蹟的圖片",
@@ -383,12 +387,17 @@
 	"ext-quicksurveys-tst-internal-survey-question": "在過去的30天內，您是否對為{{SITENAME}}（{{SERVERNAME}}）做出貢獻感到不安全或不舒服？",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "是",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "否",
+	"ext-quicksurveys-tst-internal-survey-privacy-policy": "這項匿名調查由維基媒體基金會舉辦。[https://meta.wikimedia.org/wiki/Community_Safety 閱讀更多]或瀏覽[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 隱私聲明]。",
+	"ext-quicksurveys-tst-internal-survey-additional-info": "如果您有經歷過或目睹到騷擾，[https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources 請採用這些資源]。",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "感謝您的回饋。",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "在過去的30天內，您是否對為{{SITENAME}}（{{SERVERNAME}}）做出貢獻感到不安全或不舒服？",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "是",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "否",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "我不確定",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "這項匿名調查由維基媒體基金會舉辦。[https://meta.wikimedia.org/wiki/Community_Safety 閱讀更多]或瀏覽[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 隱私聲明]。",
+	"gadget-curidlink-link-by-id": "透過 ID 連結",
+	"gadget-curidlink-link-by-id-desc": "顯示透過該 ID 連至此頁面的連結",
 	"gadget-souspages-subpages": "子頁面",
+	"ext-quicksurveys-similareditors-survey-privacy-policy": "更多資訊請參見此調查的[https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement 隱私聲明]。",
 	"ipinfo-global-contributions-url-label": "全域貢獻"
 }
