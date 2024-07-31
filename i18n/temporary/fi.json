@@ -6,7 +6,8 @@
 			"Nike",
 			"Pxos",
 			"Pyscowicz",
-			"Stryn"
+			"Stryn",
+			"Samoasambia"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedian väliaikaiset viestit",
@@ -14,7 +15,9 @@
 	"group-oversight": "häivyttäjät",
 	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
+	"please-translate": "Auta kääntämisessä kielellesi",
 	"thank-you": "{{GENDER:$1|Kiitos.}}",
 	"specialblockfeedback": "Palaute",
-	"specialinvestigate-feedback": "Jätä palautetta"
+	"specialinvestigate-feedback": "Jätä palautetta",
+	"graph-disabled-category": "Sivut, joissa on käytöstä poistettuja kaavioita"
 }

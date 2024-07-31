@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Volvox"
 		]
 	},
 	"wikimediamessages-desc": "Spezifesch temporär Message vu Wikimedia",
@@ -13,5 +14,6 @@
 	"please-translate": "Hëlleft wgl. fir an Är Sprooch z'iwwersetzen",
 	"thank-you": "{{GENDER:$1|Villmools Merci.}}",
 	"specialblockfeedback": "Feedback",
-	"specialinvestigate-feedback": "Feedback ginn"
+	"specialinvestigate-feedback": "Feedback ginn",
+	"graph-disabled-category": "Säite mat desaktivéierte Graphiken"
 }
