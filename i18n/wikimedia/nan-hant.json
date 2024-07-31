@@ -1,13 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"SupaplexTW",
 			"Winston Sung"
 		]
 	},
+	"sitesupport": "寄付",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "開發者",
-	"wikimedia-statslink": "統計"
+	"wikimedia-statslink": "統計",
+	"wikimedia-cookiestatement": "Cookie 聲明"
 }

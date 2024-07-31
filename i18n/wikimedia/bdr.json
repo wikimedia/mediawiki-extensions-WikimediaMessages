@@ -14,6 +14,8 @@
 	"wikibase-sitelinks-wikisource": "Wikipoon",
 	"wikibase-sitelinks-wikivoyage": "Wikilaanlaan",
 	"wikimedia-developers": "Pemuat",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nPinonggol binuat ole' $1 ($2).\nPodo boi binanan iyo no ''$3''.\n\n* Boi pinonggol: $4\n* Selasai pingonggol: $5\n\nAlamat IP bi iyo no $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nPingonggol binuat ole' $1 ($2).\nPunsa' boi bineraan iyo no ''$3''.\n\n* Boi pinonggol: $4\n* selasai pinonggol: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Kiroon",
 	"wikimedia-cookiestatement": "Keterangan kuki"
 }

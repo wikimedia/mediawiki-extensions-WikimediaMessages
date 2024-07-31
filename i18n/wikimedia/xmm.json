@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mbee-wiki",
 			"Murasaki"
 		]
 	},
+	"wikibase-sitelinks-wikinews": "Wikikabar",
+	"wikibase-sitelinks-wikiquote": "Wikikutip",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
+	"wikibase-sitelinks-wikivoyage": "Wikipasiar",
 	"wikimedia-developers": "Depe pengembang",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Depe pernyataan kuki"

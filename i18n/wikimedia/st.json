@@ -8,15 +8,7 @@
 	},
 	"sitesupport": "Dimpho",
 	"tooltip-n-sitesupport": "Re tšehetse",
-	"wikimedia-copyright": "Mongolo o fumaneha tlasa <a href=\"https://creativecommons\n.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\ndipehelo tse eketsehileng di ka sebetsa.\nSheba <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Melao ya Tšebeliso</a> bakeng sa lintlha tse ling.",
-	"wikimedia-copyrightwarning": "Ka ho boloka liphetoho o lumellana le [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] mme o dumela ruri ho lokolla tlatsetso ya hao tlasa [https://creativecommons. org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] le [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]\nUa lumela hore hyperlink kapa URL e lekane tlas a laesense ea Creative Commons.",
-	"wikibase-sitelinks-wikinews": "Wikinews",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Baetsi ba Software",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking\nblockedtext-all-wikis}}'''\n\nSebaka sena se entsoe ka $ 1 ($ 2).\nLebaka le fanoeng ke ''$3''.\n\n* Qala ea block: $4\n* Ho felloa ke nako ha block: $5\n\nAterese ea hau ea IP ea hajoale ke $6.\n{{int:blockedtext-include-details\nqueries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSebaka sena se entsoe ka $1 ($2).\nLebaka le fanoeng ke ''$3''.\n\n* Qala ea block: $4\n* Ho felloa ke nako ha block: $5\n\n{{int:globalblocking\n-e leng moemeli oa mongolo o thibetsoeng|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Dipalopalo",
 	"wikimedia-cookiestatement": "Polelo ka cookie"
 }

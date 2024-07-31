@@ -3,6 +3,7 @@
 		"authors": [
 			"Alshamiri1",
 			"Asma",
+			"Bachounda",
 			"Dr-Taher",
 			"Dyolf77 (WMF)",
 			"FShbib",
@@ -66,5 +67,6 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "خادم وكيل واحد أو أكثر يستخدمه طلبك هو [[m: Special: MyLanguage / Global block | محظور عالميًا]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "النطاق المحظور هو $1 .",
 	"wikimedia-globalblocking-blockedtext-proxy": "كان عنوان الوكيل المحظور $1 .",
-	"wikimedia-globalblocking-blockedtext-mistake": "إذا كنت تعتقد أنه تم حظرك عن طريق الخطأ ، فيمكنك العثور على معلومات وإرشادات إضافية في السياسة العالمية [[m: Special: MyLanguage / No open proxies | لا وكلاء مفتوحون]].! N! وإلا ، لمناقشة الحظر ، من فضلك [[ m: طلبات Steward / عالمية | انشر طلبًا للمراجعة على Meta-Wiki]]."
+	"wikimedia-globalblocking-blockedtext-mistake": "إذا كنت تعتقد أنه تم حظرك عن طريق الخطأ ، فيمكنك العثور على معلومات وإرشادات إضافية في السياسة العالمية [[m: Special: MyLanguage / No open proxies | لا وكلاء مفتوحون]].! N! وإلا ، لمناقشة الحظر ، من فضلك [[ m: طلبات Steward / عالمية | انشر طلبًا للمراجعة على Meta-Wiki]].",
+	"wikimedia-campaignevents-edit-form-questions-pii-notice": "لعرض الردود المجمعة للمشاركين والتي تحتوي على معلومات شخصية، سيُطلب منك التعامل مع معلومات المشاركين، بما في ذلك معلومات التعريف الشخصية للمشاركين، التي تم جمعها أثناء التسجيل في الفعالية بعناية ووفقًا لشروط الاستخدام الخاصة بمؤسسة ويكيميديا [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام]."
 }
