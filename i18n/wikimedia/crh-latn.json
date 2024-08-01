@@ -8,8 +8,8 @@
 		]
 	},
 	"sitesupport": "Bağışlar",
-	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Qullanuv Şartları</a>na baqıñız.",
-	"wikimedia-copyrightwarning": "Yapqan deñiştirmeleriñizni saqlap siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Qullanuv Şartları]nen razı olıp [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike 4.0] ve [https://www.gnu.org/copyleft/fdl.html GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde derc etilgenini qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
+	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Qullanuv Şartları</a>na baqıñız.",
+	"wikimedia-copyrightwarning": "Yapqan deñiştirmeleriñizni yayınlap siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Qullanuv Şartları]nen razı olıp [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] ve [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde yayınlanmasını qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Hoş keldiñiz}}, $1!",
 	"wikibase-sitelinks-wikinews": "Vikihaber",
 	"wikibase-sitelinks-wikiquote": "Vikisöz",
@@ -17,8 +17,9 @@
 	"wikibase-sitelinks-wikivoyage": "Vikiseyaat",
 	"wikibase-otherprojects-wikipedia": "Vikipediya",
 	"wikimedia-developers": "Programmacılar",
-	"wikimedia-globalblocking-ipblocked": "'''Sizin kimligiñiz [[m:Special:MyLanguage/Global blocks|bütün vikilerge bloklanğan]].'''\n\n$1 ($2) tarafından bloklanğansiñiz.\nNedeni ise '''$3'''.\n\n* Bloknıñ başlağan vaqtı: $4\n* Bloknıñ soñ tapacaq vaqtı: $5\n\nSizin kimligiñiz $6.\nSoracaq oldıñız bütün sorularda lütfen bu bilgilerni beriñiz.\n\nEger haqsız yerge blok etildim derseñiz, daa bilgi [[m:Special:MyLanguage/No open proxies|açıq proksi yoq]] denilgen yerde tapabilirsiñiz. Ya da, blok aqqında tartışmaq içün\n[[m:Steward requests/Global|Meta-Vikige]] yazabilirsiñiz.",
+	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlok $1 ($2) tarafından yapılğan.\nSebebi ise '''$3'''.\n\n* Bloknıñ başlanğan vaqtı: $4\n* Bloknıñ bitecek vaqtı: $5\n\nŞimdiki IP adresiñiz: $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlok $1 ($2) tarafından yapılğan.\nSebebi ise '''$3'''.\n\n* Bloknıñ başlanğan vaqtı: $4\n* Bloknıñ bitecek vaqtı: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-wikipedia": "Vikipediya",
-	"wikimedia-statslink": "Statistik",
-	"wikimedia-cookiestatement": "Qurabiye beyanı"
+	"wikimedia-statslink": "Statistika",
+	"wikimedia-cookiestatement": "Cookies politikası"
 }

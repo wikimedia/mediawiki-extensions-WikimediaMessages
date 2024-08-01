@@ -62,7 +62,8 @@
 			"Varnent",
 			"Vlad5250",
 			"WindEwriX",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"Adam-Yourist"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -391,10 +392,21 @@
 	"wikimedia-foundation-projects-of-label-nolink": "Проекты Фонда Викимедиа",
 	"wikimedia-projects-label": "Проекты Викимедиа",
 	"wikimedia-movement-affiliates-shortlabel": "Партнёрские организации",
+	"wikimedia-movement-affiliates-oneword": "Филиалы",
 	"wikimedia-news-label": "Новости Викимедиа",
+	"wikimedia-foundation-news-label": "Новости Фонда Викимедиа",
+	"wikimedia-movement-blog-label": "Блог движения",
+	"wikimedia-movement-calendar-label": "Календарь движения",
 	"wikimedia-help-translate-prompt": "Хотите помочь с переводом? [$1 Переведите недостающие сообщения].",
 	"wikimedia-foundation-logo-label": "Логотип Фонда Викимедиа",
+	"wikimedia-foundation-department-shortname-advancement": "Продвижение",
+	"wikimedia-foundation-department-shortname-ceo": "Офис CEO",
 	"wikimedia-foundation-department-shortname-communications": "Коммуникации",
+	"wikimedia-foundation-department-shortname-financeadmin": "Финансы и администрирование",
+	"wikimedia-foundation-department-shortname-legal": "Юридические вопросы",
+	"wikimedia-foundation-department-shortname-producttech": "Продукт и технология",
+	"wikimedia-foundation-department-shortname-talentculture": "Талант и культура",
+	"wikimedia-foundation-about-label-short": "О Фонде",
 	"wikimedia-foundation-contact-label": "Контакты Фонда Викимедиа",
 	"wikimedia-foundation-contact-label-short": "Связь с Фондом",
 	"wikimedia-nutshell-page-intro": "Об этой странице вкратце: $1",
@@ -402,7 +414,10 @@
 	"wikimedia-talkheader-civility": "Оставайтесь [[$1|вежливыми и уважительными]] во время дискуссий.",
 	"wikimedia-talkheader-pageprompt": "Эта страница для обсуждений связанных со страницей $1.",
 	"wikimedia-talkheader-signature": "[[$1|Подписать]] сообщения используя четыре тильды (~~~~)",
+	"wikimedia-foundation-search-label-short": "Узнать о Фонде",
 	"wikimedia-foundation-footer-description-short": "Фонд Викимедиа (Wikimedia Foundation) — некоммерческая организация, поддерживающая инфраструктуру Википедии и других проектов Викимедиа по созданию и распространению свободных знаний и считающая своей миссией свободный доступ к знаниям для каждого человека.",
+	"wikimedia-capacity-development-label-short": "Развитие потенциала",
+	"wikimedia-movement-resources-label-short": "Ресурсы движения",
 	"wikimedia-translation-disclaimer-nolink": "Обратите, пожалуйста, внимание на то, что в случае каких-либо различий в смысле или в интерпретации между оригинальной английской версией этого контента и переводом преимущество имеет оригинальная английская версия.",
 	"wikimedia-translation-disclaimer-withlink": "Обратите, пожалуйста, внимание на то, что в случае каких-либо различий в смысле или в интерпретации между оригинальной английской версией этого контента и переводом преимущество имеет [[$1|оригинальная английская версия]]."
 }

@@ -5,6 +5,16 @@
 			"Misbahu umar"
 		]
 	},
+	"wm-license-cc-attribution": "\nLadaku",
+	"wm-license-cc-by-sa-3.0-text": "Daka nana de yeda jin ya\ngwata[[{{int:wm-license-cc-wiki-link}}|creative\nCommons]]\n[Creativecommons:by-sa/3.0/deed.en|\nAttribution-Share Alike 3.0 unported]]yeda jin.",
+	"wm-license-cc-free": "Wo'e de egwa gan:",
+	"wm-license-cc-free-to-share-header": "Wo'e gan",
+	"wm-license-cc-free-to-share-text": "La etun za",
+	"wm-license-cc-free-to-remix-header": "Wo'e tswa be etun",
+	"wm-license-cc-free-to-remix-text": "Wo'e jin manyin be etun'i",
+	"wm-license-cc-conditions": "Dan kundi nan zhi dana",
 	"wm-license-cc-conditions-attribution-header": " [Ladaku]",
-	"wm-license-cc-conditions-share_alike-header": "cin gbere lie"
+	"wm-license-cc-conditions-attribution-text": "dole wun yi nan wo'a ya egwadu nan,la link nan\nlo license nan be, wo'e man'o wu ebanzhe ndondo\nga danbo nan. Wo'e jin achinga wo eko wangi\nndondo,ama wun jin eko nan licensor'a li wo'e ko\nnyana wo'e lo nan'a",
+	"wm-license-cc-conditions-share_alike-header": "cin gbere lie",
+	"wm-license-cc-conditions-share_alike-text": "Wo'e ga yetswa,yejin koma yetu ta enyan\nwuncin'o,dole wun yi nan wo'a gan titafindozhi\nnyan wo'e dan[https://creativecommons.org/share\n-your-work/licensing-considerations/compatible\n-licenses yiri nini koma license nan a pa keba wo'e\nnan]ke nyan gboko nan."
 }

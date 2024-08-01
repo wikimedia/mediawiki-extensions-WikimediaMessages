@@ -6,14 +6,19 @@
 			"Nike",
 			"Pxos",
 			"Pyscowicz",
-			"Stryn"
+			"Stryn",
+			"Samoasambia"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Häivytysoikeudet",
 	"group-oversight": "häivyttäjät",
 	"group-oversight-member": "{{GENDER:$1|häivyttäjä}}",
 	"hello": "Hei",
+	"please-translate": "Auta kääntämisessä kielellesi",
+	"please-translate-short": "Auta kääntämisessä",
 	"thank-you": "{{GENDER:$1|Kiitos.}}",
 	"specialblockfeedback": "Palaute",
-	"specialinvestigate-feedback": "Jätä palautetta"
+	"specialinvestigate-feedback": "Jätä palautetta",
+	"graph-disabled-category": "Sivut, joissa on käytöstä poistettuja kaavioita",
+	"graph-disabled-category-desc": "Sivu sisältää <code>&lt;graph&gt;</code>-merkintöjä, jotka ovat väliaikaisesti pois käytöstä ([[phab:T334940|T334940]])."
 }
