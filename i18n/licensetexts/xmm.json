@@ -4,6 +4,8 @@
 			"Mbee-wiki"
 		]
 	},
+	"wm-license-information-source": "Sumber",
 	"wm-license-information-date": "Tanggal",
-	"wm-license-information-permission": "Izin"
+	"wm-license-information-permission": "Izin",
+	"wm-license-information-permission-reusing-text": "Pake ulang ini fail"
 }

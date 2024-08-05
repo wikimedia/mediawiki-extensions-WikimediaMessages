@@ -5,7 +5,9 @@
 		]
 	},
 	"sitesupport": "Kià-hù",
+	"wikimedia-copyright": "Só͘-ū ê bûn-jī lóng siū-tio̍h <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Tshòng-iōng CC Sìnn-miâ Piau-sī Sio-kâng Hong-sik Hun-hióng Siū-khuân Tiâu-khuán</a> ê pó-hōo. Tû-liáu tiâu-khuán pún-sin í-guā, mā-khó-lîng sik-iōng kî-tha ê hù-ka tiâu-khuán.\nTsham-ua̍t  <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Sú-iōng Tiâu-khuán</a> lâi khuànn siông-suè ê tsu-sìn.",
 	"wikimedia-developers": "Khai-huat-tsiá",
 	"wikimedia-statslink": "Thóng-kè",
-	"wikimedia-cookiestatement": "Cookie sing-bîng"
+	"wikimedia-cookiestatement": "Cookie sing-bîng",
+	"wikimedia-help-translate-prompt": "Bueh tàu-sann-kāng huan-i̍k--bô? [$1 Lâi huan-i̍k khiàm-kuat ê bûn-jī]."
 }
