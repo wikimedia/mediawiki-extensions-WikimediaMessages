@@ -22,5 +22,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''Sini IP tere ba [[m:Special:MyLanguage/Global blocks|gemu wiki ci horihe]] oho.'''\n\nHorihe baitalasi oci $1 ($2)inu.\nJalin oci ''$3''.\n\n* Horihe erin: $4\n* Horire erin: $5\n\nTe sini IP tere ba oci $6.\nHorire de fonjin bici ninggu i medege be kamcirao.\n\nSi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nHorire de fudaraci [[m:Steward requests/Global|Metawiki de horire be jai fonjimbi]]be unggi.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sini baitalaha daiselara agvra [[m:Special:MyLanguage/Global blocks|yooni horihe]] oho.'''\n\nHorihe baitalasi oci $1 ($2)inu.\nJalin oci ''$3''.\n\n* Horihe erin: $4\n* Horire erin: $5\n\nTe sini IP tere ba oci $6.\nHorire de fonjin bici ninggu i medege be kamcirao.\n\nSi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nHorire de fudaraci [[m:Steward requests/Global|Metawiki de horire be jai fonjimbi]]be unggi.s",
 	"wikimedia-statslink": "Geren ton",
-	"wikimedia-cookiestatement": "G'oki jonombi"
+	"wikimedia-cookiestatement": "Cookie jonombi"
 }

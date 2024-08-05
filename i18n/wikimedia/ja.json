@@ -57,7 +57,9 @@
 			"Amayus",
 			"Chqaz",
 			"Mirror-kt",
-			"Varnent"
+			"Varnent",
+			"Apple TD",
+			"Kocgs"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -381,12 +383,13 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "いいえ",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "わからない",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "この匿名のアンケートは、ウィキメディア財団によって実施されています。[https://meta.wikimedia.org/wiki/Community_Safety 続きを読む]もしくは[https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement 個人情報保護方針]をご覧ください",
+	"gadget-curidlink-link-by-id": "ID別リンク",
 	"gadget-souspages-subpages": "下位ページ",
 	"research-incentive-message": "報酬付きの、ウィキペディア利用者調査に参加しませんか？",
 	"research-incentive-description": "フォームに必要事項を記入し、参加者リストにご登録ください。報酬付きの調査の実施について、定期的にご連絡を差し上げます。登録はご自身でいつでも解除できます。",
 	"research-incentive-answer-positive": "はい",
 	"research-incentive-answer-negative": "いいえ",
-	"research-incentive-link": "https://airtable.com/shrucwUlzH0ZLEqHH",
+	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。",
 	"research-incentive-confirm-msg": "ありがとうございました。",
 	"ipinfo-global-contributions-url-label": "グローバル投稿記録"

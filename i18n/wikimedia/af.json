@@ -13,7 +13,8 @@
 			"Servien",
 			"Spacebirdy",
 			"පසිඳු කාවින්ද",
-			"Varnent"
+			"Varnent",
+			"Rooiratel"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia spesifieke boodskappe",
@@ -50,7 +51,7 @@
 	"group-bigexport-member": "groot eksporteur",
 	"grouppage-bigexport": "{{ns:project}}:Groot eksporteurs",
 	"group-botadmin": "Bots met administrateur regte",
-	"group-confirmed": "bevestigde gebruikers",
+	"group-confirmed": "Bevestigde gebruikers",
 	"group-confirmed-member": "bevestigde gebruiker",
 	"grouppage-confirmed": "{{ns:project}}:Bevestigde gebruikers",
 	"group-editprotected": "Wysigers van beskermde bladsye",

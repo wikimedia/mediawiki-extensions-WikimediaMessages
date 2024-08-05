@@ -4,5 +4,15 @@
 			"Maryam AlAkini"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "tlhahiso"
+	"wm-license-cc-attribution": "Attribution",
+	"wm-license-cc-free": "U lokolohile:",
+	"wm-license-cc-free-to-share-header": "ho arolelana",
+	"wm-license-cc-free-to-share-text": "ho kopitsa ho aba le ho fetisa mosebetsi",
+	"wm-license-cc-free-to-remix-header": "ho kopanya",
+	"wm-license-cc-free-to-remix-text": "ho ikamahanya le mosebetsi",
+	"wm-license-cc-conditions": "Tlas'a maemo a latelang:",
+	"wm-license-cc-conditions-attribution-header": "tlhahiso",
+	"wm-license-cc-conditions-attribution-text": "U tlameha ho fana ka mokoloto o loketseng u fane ka sehokelo sa laesense me u bontše haeba ho entsoe liphetoho U ka etsa joalo ka mokhoa ofe kapa ofe o utloahalang empa eseng ka tsela leha e le efe e fanang ka maikutlo a hore mofani oa laesense o u lumella kapa tšebeliso ea hau.",
+	"wm-license-cc-conditions-share_alike-header": "arolelana ka ho tshoana",
+	"wm-license-cc-conditions-share_alike-text": "Haeba u kopanya fetola kapa u haha ​​holim a thepa\no tlameha ho aba menehelo ea hau tlasa [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] joalo ka ea mantlha."
 }

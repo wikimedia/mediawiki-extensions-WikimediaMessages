@@ -1,11 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Misbahu umar"
+			"Misbahu umar",
+			"Umar Ahmad2345"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Yeda danbo ya zhizhe,gingan toh/koma\nyiyetswa nyan daka nana dan gwata ganmin\n'\"[[{{int:wm-license-gtdl-wiki-link}}|GNU free\nDocumentation License]]\"'\n, Version 2 koma version\nndondo nan ga be tinya gwata [[{{int:wm-licensegtdl-wiki-link}}|free\nsoftware Foundation]];babu efo\nzhi,babu nyanka bango,koma nyanka Zuma daka.\nnyankaci dozhi yeda nana dan efo nan de sunna\n\"[[{{int:wm-license-gfdl-full-1.2-link}}|GNU free\nDocumentation License]''.",
 	"wm-license-information-description": "Yeji",
 	"wm-license-information-source": "Gbere",
 	"wm-license-information-date": "Efo",
-	"wm-license-information-author": "Enyankaci"
+	"wm-license-information-author": "Enyankaci",
+	"wm-license-information-permission": "Yeda laya",
+	"wm-license-information-permission-reusing-text": "Yiyelo nyan daka nan",
+	"wm-license-own-work": "Etun titacin",
+	"wm-license-self-multiple-licenses-select": "Wo'e li yeda nyan banba wo'e wo"
 }
