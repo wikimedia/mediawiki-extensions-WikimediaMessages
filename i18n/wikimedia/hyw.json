@@ -4,14 +4,15 @@
 			"ArmenBakkalian",
 			"Azniv Stepanian",
 			"Kareyac",
-			"Rajemian"
+			"Rajemian",
+			"Շահէն"
 		]
 	},
 	"sitesupport": "Նուիրատուութիւն ընել",
 	"tooltip-n-sitesupport": "Աջակցեցէ՛ք մեզի",
 	"shared-repo-name-shared": "Ուիքիպահեստ",
-	"wikimedia-copyright": "Գրութիւնը տրամադրելի է <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.hy\">Վերագրումի – Նոյնապայման տարածումի արտօնագիրով</a>յաւելեալ պայմաններ ի զօրու կրնան ըլլալ։ Մանրամասնութիւններու համար տես՝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Օգտագործումի պայմաններ</a>։",
-	"wikimedia-copyrightwarning": "Պահելով փոփոխութիւնները, համաձայնութիւն կու տաք ձեր ներդրումը անդառնալի կերպով տրամադրել  [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] եւ [https://www.gnu.org/copyleft/fdl.html GFDL] արտօնագրին ներքոյ։\n\nՀամաձայն էք որ URLի յղում մը կամ գերյղում մը բաւարար է որպէս վարձատրութիւն ըստ Creative Commons արտօնագրին։",
+	"wikimedia-copyright": "Գրութիւնը հասանելի է <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.hy\">Creative Commons Attribution-ShareAlike License</a> թույլատրագրի մէջ, առանձին դեպքերով հնարաւոր է յաւելեալ պայմաններ ունենալ։ Մանրամասնութիւններու համար այցելեցէք՝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Օգտագործման պայմաններ</a>։",
+	"wikimedia-copyrightwarning": "Փոփոխութիւնները պահպանելով, համաձայն էք [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], եւ համաձայն էք հրապարակելու ձեր խմբագրումը [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] պայմանագրի տակ, ինչպէս նաեւ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\n\nՀամաձայն էք որ URLի յղում մը կամ գերյղում մը բաւարար է որպէս վարձատրութիւն ըստ Creative Commons արտօնագրին։",
 	"wikibase-repo-name": "Ուիքիտուեալներ",
 	"wikibase-sitelinks-wikibooks": "Ուիքիգիրքեր",
 	"wikibase-sitelinks-wikinews": "Ուիքիլուրեր",
@@ -33,6 +34,7 @@
 	"interlanguage-link-wikipedia": "Ուիքիփետիա",
 	"interlanguage-link-commons": "Ուիքիպահեստ",
 	"wikimedia-statslink": "Վիճակագրութիւն",
+	"wikimedia-cookiestatement": "Քուքիներու հաստատում",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Այո",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Ոչ"
 }
