@@ -384,6 +384,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nee",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Ik weet het niet zeker",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Dit anonieme onderzoek wordt uitgevoerd door de Wikimedia Foundation. [https://meta.wikimedia.org/wiki/Community_Safety Lees meer] of bekijk de [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement privacyverklaring].",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Ja",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Nee",
 	"gadget-curidlink-link-by-id": "Koppeling naar ID",
 	"gadget-curidlink-link-by-id-desc": "Koppeling naar deze pagina weergeven aan de hand van de pagina-ID",
 	"gadget-souspages-subpages": "Subpagina's",

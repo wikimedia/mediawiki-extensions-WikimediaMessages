@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Исмаил Садуев"
+			"Исмаил Садуев",
+			"Умар"
 		]
 	},
-	"wm-codeofconduct": "Леларан кодекс"
+	"wm-codeofconduct": "Леларан кодекс",
+	"wm-techcodeofconduct": "Леларан кодекс"
 }

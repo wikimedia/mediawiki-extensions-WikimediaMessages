@@ -4,6 +4,14 @@
 			"SupaplexTW"
 		]
 	},
+	"wm-license-cc-attribution": "Piau-sī miâ-sìnn",
+	"wm-license-cc-free": "Lí ē-sái tsū-iû:",
+	"wm-license-cc-free-to-share-header": "hun-hióng",
+	"wm-license-cc-free-to-share-text": "Khoo-pih, huat-pòo kap thuân-pòo pún tsok",
+	"wm-license-cc-free-to-remix-header": "tiông-sin siu-kái",
+	"wm-license-cc-free-to-remix-text": "kái-pian pún tsok-phín",
+	"wm-license-cc-conditions": "Ài i-hā ê tiâu-kiānn",
 	"wm-license-cc-conditions-attribution-header": "Piau-sī miâ-sìnn",
-	"wm-license-cc-conditions-share_alike-header": "Kâng-khuán hong-sik hun-hióng"
+	"wm-license-cc-conditions-share_alike-header": "Kâng-khuán hong-sik hun-hióng",
+	"wm-license-cc-conditions-share_alike-text": "Lí nā kái-tōng, piàn-khuán, ia̍h-sī kun-kù pún tsok tshòng-tsō, lí ka-thiam ē-tàng īng kap pún tsok kâng-khuán ia̍h-sī sann-tshiūnn ê hí-khó lâi huat-pòo tsuè--tshut-lâi ê tsok-phín."
 }
