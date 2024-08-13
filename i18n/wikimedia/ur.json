@@ -187,8 +187,6 @@
 	"upload-more-photos-of-this-monument": "اس یادگار کی مزید تصاویر زبر اثقال (اپ لوڈ) کریں",
 	"createacct-captcha-help-url": "{{ns:Project}}:کھاتے کے لیے درخواست دیں",
 	"wikimedia-developers": "ترقی دہندگان",
-	"wikimedia-globalblocking-ipblocked": "'''آپ کے آئی پی پتہ پر [[m:Special:MyLanguage/Global blocks|تمام ویکیوں میں پابندی]] عائد کر دی گئی ہے۔''' \n\nیہ پابندی $1 ($2) کی جانب سے لگائی گئی ہے۔\nاس کی وجہ ''$3''  درج کی گئی تھی۔\n\n* پابندی کا آغاز: $4\n* پابندی کا اختتام: $5\n\nآپ کا موجودہ آئی پی پتہ $6 ہے۔\nبراہ مہربانی کسی بھی قسم کے استفسار میں درج بالا تمام تفصیلات شامل کریں۔\n\nاگر آپ سمجھتے ہیں کہ آپ پر غلطی سے پابندی لگی ہے تو آپ اضافی معلومات و ہدایات [[m:Special:MyLanguage/No open proxies|پراکسی باز ممنوع]] عالمی پالیسی میں پا سکتے ہیں۔\nبصورت دیگر، پابندی کے متعلق تبادلہ خیال کریں اور یہاں [[m:Steward requests/Global|نظر ثانی کے لیے میٹا پر درخواست دیں]]۔",
-	"wikimedia-globalblocking-ipblocked-xff": "'''آپ کے آئی پی ایڈریس پر [[m:Special:MyLanguage/Global blocks|تمام ویکیوں]] میں پابندی لگادی گئی ہے۔''' \n\nیہ پابندی $1 کیجانب سے لگائی گئی ہے ($2)۔\nاس کی وجہ ''$3''  بتائی گئی تھی۔\n\n* پابندی کا آغاز: $4\n* پابندی کا اختتام: $5\n\nآپ کا موجودہ آئی پی ایڈریس $6 ہے۔\nPlease include all above details in any queries you make.\n\nاگر آپ سمجھتے ہیں کہ آپ پر غلطی سے پابندی لگی ہے تو آپ مزید معلومات [[m:Special:MyLanguage/No open proxies|نو اوپن پراکسی]] عالمی پالیسی میں پاسکتے ہیں۔\nدوسری صورت میں، پابندی کے متعلق تبادلہ خیال کریں اور یہاں [[m:Steward requests/Global|نظر ثانی کیلئے میٹا پر درخواست دیں]]",
 	"interlanguage-link-mul": "مزید زبانیں",
 	"interlanguage-link-sitename-mul": "کثیر اللسانی {{SITENAME}}",
 	"interlanguage-link-wikipedia": "ویکیپیڈیا",

@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "ڤیکی سٱرچاٛشمٱ",
 	"wikibase-sitelinks-wikivoyage": "ڤیکی گٛولگٱشت",
 	"wikimedia-developers": "تۉسئٱ داڌٱندیٱل",
-	"wikimedia-globalblocking-ipblocked": "'''ئادرس ئای پی ایشا [[m:Special:MyLanguage/Global blocks|مئنه ۉیکی یل بسه ۉابیه]].'''\n\nبسه ۉابیدھ تۉسط $1 ($2).\nدلیل دادھ بیه هی \"$3\".\n\n* شرۉع بسه بیدن: $4 \n* مدت زمان بسه بیدن: $5\n\nئادرس ئای پی جاری ایشا هی $6\nلطفا کل ای اصلاعاتنه مئنه هر نمایشی که راس ایکنیت قرار بیتۉ.\n\nار فکر ایکنیت که اشتباھ بسه بیتۉ،ایترید اصلاعات اضافی ۉ دستۉرالعملنه مئنه سیاست بین المللی [[m:Special:MyLanguage/No open proxies|No open proxies]] بینیتۉ.\nۉگرنه، سی قسھ راجع ۉھ بسه بیدن لطفا [[m:Steward requests/Global|یه پست سی تجدید نظر ری ۉیکی مدیۉ بنیت ]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''یه سرۉر پرۉکسی یا هنی که د طریق درخۉاست ایشا استفادھ بیدن [[m:Special:MyLanguage/Global blocks|د سطح بین المللی بسه بیدن]].'''\n\nبسه بیدیته تۉسط $1 ($2).\nدلیل دادھ بیه هی \"$3\".\n\n* شروع بسه بیدن: $4 \n* مدت زمان بسه بیدن: $5\n\nآدرس پرۉکسی بسه بیدھ هی $6.\nلطفا کل ای اصلاعاتنه مئنه هر نمایشی که درست ایکنیت قرار بیتۉ.\n\nار فکر ایکنیت که اشتباھ بسه بیتۉ،ایترید اصلاعات اضافی و دستۉرالعملنه مئنه سیاست بین المللی [[m:Special:MyLanguage/No open proxies|No open proxies]] بینیتۉ.\nۉگرنه، سی قسھ راجع ۉھ بسه بیدن لطفا [[m:Steward requests/Global|یه پست سی تجدید نظر ری ۉیکی مدیۉ بنیت ]].",
 	"wikimedia-statslink": "آمارٱل",
 	"wikimedia-cookiestatement": "نوتق کٛۊکی"
 }

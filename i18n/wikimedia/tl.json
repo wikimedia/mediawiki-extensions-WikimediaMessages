@@ -125,8 +125,6 @@
 	"cant-delete-main-page": "Hindi mo mabubura o maililipat ang pangunahing pahina.",
 	"wikimedia-translationnotifications-signup-legal": "Sumasang-ayon ka na sa pamamagitan ng pagbibigay sa Pundasyon ng Wikimedia ng ganitong impormasyon, maaari kaming makipag-ugnayan sa iyo hinggil sa mga salinwika o ibang mga paksa na may kaugnayan sa kilusan ng Wikimedia na maiisip namin na marahil ay makakatawag ng iyong pansin. Sumasang-ayon ka na marahil ang dato mo ay maiimbak sa Nagkakaisang mga Estado ng Amerika at masasaklawan ng aming [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy patakaran sa pagkapribado].",
 	"wikimedia-developers": "Mga Developer",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nGinawa ni $1 ($2) ang pagharang.\nNarito ang dahilan: ''$3''\n\n* Simula: $4\n* Hanggang: $5\n\nAng IP address mo ngayon ay $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nGinawa ni $1 ($2) ang pagharang.\nNarito ang dahilan: ''$3''.\n\n* Simula: $4\n* Hanggang: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Estadistika",
 	"wikimedia-cookiestatement": "Tungkol sa Cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Mabilis ba ang pag-load ng page?",

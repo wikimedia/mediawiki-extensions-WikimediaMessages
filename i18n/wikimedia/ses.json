@@ -12,7 +12,5 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Cinakey",
-	"wikimedia-globalblocking-ipblocked": "'''[[m:Special:MyLanguage/Global blocks|kayandi wikiyaŋ kul ga]] na war IP aderesoo hode.'''\n\nHodeyan teekaa $1 ($2).\nDaliloo kaŋ noondi ''$3''.\n\n* Hodeyan šintinoo: $4\n* Hodeyan benantaa: $5\n\nWar sohõda IP aderesoo ti $6.\n\nWa war tammaasawey wey kul dam hãayaney kaŋ war g'i tee ra. make.\n\nNda war ga tammahã kaŋ war n' ka hodandi dereyan ra, war ga hin ka duu tontoni bayray nda boŋfeeray [[m:Special:MyLanguage/No open proxies|Tokore ferante kul šii]] adduɲɲaa-me alaada takaddaa ra.\nNd'a manti woo, hoderoo šennoo tee [[m:Steward requests/Global|korošiyan hãayan sanba Meta-Wiki ga]] ga.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Tokore feršikaw foo wala tanayaŋ kaŋ war hãayanoo n'i ka goy ti [[m:Special:MyLanguage/Global blocks|globally blocked]].'''\n\n$1 ($2) ka hodeyanoo tee.\nDaliloo kaŋ noondi ti ''$3''.\n\n* Hodeyan šintinoo: $4\n* Hodeyan benantaa: $5\n\nTokore aderesu hodantaa ti $6.\nWar beene tammaasawey kul dam hãayaney kul kaŋ war g'i tee ra.\n\nNda war ga tammahã war n' ka hodandi dereyan ra, war ga hin ka duu bayray tontoni wala boŋfeeray [[m:Special:MyLanguage/No open proxies|Tokore feerante kul šii]] adduɲɲaa-mee alaada takaddaa ra.\nNd'a manti woo, wa hoderoo šennoo tee [[m:Steward requests/Global|korošiyan hãayan sanba Meta-Wiki ga]] ga."
+	"wikimedia-developers": "Cinakey"
 }

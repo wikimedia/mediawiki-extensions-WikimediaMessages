@@ -148,8 +148,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викимәғлүмәт",
 	"cant-delete-main-page": "Төп битте юя йәки күсерә алмайһығыҙ.",
 	"wikimedia-developers": "Эшләүселәр",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) бикләне.\nСәбәбе ''$3''.\n\n* Бикләү башлана: $4\n* Бикләү тамамлана: $5\n\nҺеҙҙең ағымдағы IP-адрес $6.\n{{int:blockedtext-include-details-queries}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n $1 ($2) бикләнгән.\nСәбәбе: ''$3''.\n\n* Бикләү башлана: $4 \n* Бикләү тамамлана: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"upload-form-label-own-work-message-commons": "Ошо файлдың авторы икәнемде раҫлайым һәм уны Викимилеккә [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike 4.0] лицензияһы буйынса кире ҡайтара алмаҫлыҡ итеп күсерәм, шулай уҡ [https://foundation.wikimedia.org/wiki/ҡулланыу шарттары] менән килешәм.",
 	"upload-form-label-not-own-work-message-commons": "Әгәр ошо файлдың авторы булмаһағыҙ һәм уны икенсе лицензия менән сығарырға теләһәгеҙ,  [https://commons.wikimedia.org/wiki/Special:UploadWizard Викимилеккә күсереү оҫтаһын] ҡулланығыҙ.",
 	"upload-form-label-not-own-work-local-commons": "Файлды сайт талаптарына ярашлы йөкләп булһа, уны [[Special:Upload| {{SITENAME}} йөкләү бите]]ндә файҙаланып ҡарағыҙ.",

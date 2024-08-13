@@ -40,8 +40,6 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-sourceswiki": "Maaŋgâkielâlâš Wikiamnâstâh",
 	"wikimedia-developers": "Ovdedeijeeh",
-	"wikimedia-globalblocking-ipblocked": "'''IP-čujottâsâd lii [[m:Special:MyLanguage/Global blocks|estum puoh wikijn]].'''\n\nEstim lii adelâm $1 ($2).\nAdelum suijâ lii  ''$3''.\n\n* Estim älgimäigi: $4\n* Estim nuuhâmäigi: $5\n\nTuu tááláš IP-čujottâs lii $6.\nLahte puoh paijeen nomâttum tiäđuid jieijâd máhđulijd koijâdâlmijd.\n\nJis nabdah et tun lah estum vahâgist, puávtáh uuccâđ lasetiäđuid já ravvuid systeemvijđosii vuáháduvâst [[m:Special:MyLanguage/No open proxies|Iä ávus toimâttempalvâlmeh]].\nMudoi, jis sáárnuh iästust, [[m:Steward requests/Global|kyeđe viestâ árvuštâllâm várás Meta-Wikin]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Ohtâ teikâ eenâb toimâttempalvâlmeh lii/láá  [[m:Special:MyLanguage/Global blocks|estum puoh wikijn]].'''\n\nEstim lii adelâm $1 ($2).\nAdelum suijâ lii  ''$3''.\n\n* Estim älgimäigi: $4\n* Estim nuuhâmäigi: $5\n\nEstum toimâttempalvâlem čujottâs lâi $6.\nLahte puoh paijeen nomâttum tiäđuid jieijâd máhđulijd koijâdâlmijd.\n\nJis nabdah et tun lah estum vahâgist, puávtáh uuccâđ lasetiäđuid já ravvuid systeemvijđosii vuáháduvâst [[m:Special:MyLanguage/No open proxies|Iä ávus toimâttempalvâlmeh]].\nMudoi, jis sáárnuh iästust, [[m:Steward requests/Global|kyeđe viestâ árvuštâllâm várás Meta-Wikin]].",
 	"interlanguage-link-wikipedia": "Wikipedia",
 	"interlanguage-link-commons": "Wikimedia Commons",
 	"wikimedia-statslink": "Statistiik",

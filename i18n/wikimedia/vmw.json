@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Anamaroohela ottayiwene",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nOttipihiwa wenno ovariwe ni $1 ($2).\nMwaha wooniheriwe waari ''$3''.\n\n* Opaceriwa ottipihiwa: $4\n* Omalamala wa okathi woottipihiwa: $5\n\nEthoonyeryo-anyu IP ya naanano ti $6.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nOwaleliwe ni $1 ($2).\nMwahaya tiwi ''$3''.\n\n* Owaliwe okhuma: $4\n* Onrowa ohuleliwa: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Namaalakela",
 	"wikimedia-cookiestatement": "Olipiheriwa yoolavuliwa"
 }

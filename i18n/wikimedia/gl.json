@@ -235,8 +235,6 @@
 	"upload-more-photos-of-this-monument": "Cargar máis fotografías deste monumento",
 	"createacct-captcha-help-url": "{{ns:Project}}:Solicitar unha conta",
 	"wikimedia-developers": "Desenvolvedores",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) realizou o bloqueo.\nO motivo achegado é ''$3''.\n\n* Inicio do bloqueo: $4\n* Caducidade do bloqueo: $5\n\nO teu enderezo IP actual é $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) realizou o bloqueo.\nO motivo achegado é ''$3''.\n\n* Inicio do bloqueo: $4\n* Caducidade do bloqueo: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-torblock-blocked": "O seu enderezo IP, <strong>$1</strong>, foi identificado automaticamente como un nodo de saída Tor.\nA edición a través de Tor está bloqueada para previr o abuso.\nPara atopar información adicional e instrucións para os usuarios lexítimos, consulte a política global [[m:Special:MyLanguage/No open proxies|contra os proxies abertos]].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/gl Política de protección de datos]",

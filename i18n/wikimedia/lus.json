@@ -22,8 +22,6 @@
 	"wikibase-sitelinks-wikisource": "Wikihnar",
 	"wikibase-sitelinks-wikivoyage": "Wikizin",
 	"wikimedia-developers": "Software hmasawntute",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDânna hi $1 ($2)-in siam a ni.\nA chhan sawi chy ''$3'' a ni.\n\n* Danna ṭanna hun: $4\n* Danna tawpna hun: $5\n\nI IP chenna hmun hman mek chu $6 a ni.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDânna hi $1 ( $2 )-in siam a ni.\nA chhan sawi chu '' $3 '' a ni. \n\n* Dânna ṭanna hun: $4 \n* Dânna tawpna hun: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-khawvel pum huapablocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Thilzâtchhiarna",
 	"wikimedia-cookiestatement": "Cookie thuchhuah"
 }

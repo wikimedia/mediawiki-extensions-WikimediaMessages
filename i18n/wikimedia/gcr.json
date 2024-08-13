@@ -21,7 +21,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivwayaj",
 	"cant-delete-main-page": "Ou pa pouvé siprimen oben déplasé paj prensipal-a.",
 	"wikimedia-developers": "Dévlòpò",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokaj té fèt pa $1 ($2).\nMotif ki envoké sa ''$3''.\n\n* Koumamsman blokaj : $4\n* Finisman blokaj : $5\n\nOu adrès IP atchwèl a $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokaj té fèt pa $1 ($2).\nMotif ki envoké sa ''$3''.\n\n* Koumamsman blokaj : $4\n* Finisman blokaj : $5\n\nOu adrès IP atchwèl a $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipédja, lansiklopédi lib"
 }

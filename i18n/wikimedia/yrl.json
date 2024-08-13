@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikiwoyage",
 	"wikimedia-developers": "Developsara-itá",
-	"wikimedia-globalblocking-ipblocked": "'''Ne IP ikurẽdawa uso'ana [[m:Special:MyLanguage/Global blocks|sikĩdawa panhẽ wiki upé]].'''\n\nSikĩdawa munhãgara: $1 ($2).\nĨdé reikú sikĩdawa nhaãçé: ''$3''.\n\n* Sikĩdawa yupirũgawa: $4\n* Sikĩdawa upawa: $5\n\nNe IP ikurẽdawa kuiriwara i $6.\nKatuçawa rupí, e-meẽ panhẽ pukatua'etá ĩdé resó renheẽ yãdé irũ ramẽ.\n\nĨdé remaité ramẽ yawá yepé ganariçawa, repurú rewaçẽmu mbeuçawa açui kuauçawa píri opaĩwara rekô [[m:Special:MyLanguage/No open proxies|''proxies'' sikĩdawa]].\nTiramẽ, unheẽ kuá sikĩdawa reçé, katuçawa rupí [[m:Steward requests/Global|e-munhã yepé amũmaãgawa yururewa]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Yepé ã píri miaçuwa proxy taupuru'ana ne yururewa rupí tauso'ana [[m:Special:MyLanguage/Global blocks|sikĩdawa panhẽ wiki upé]].'''\n\nAwata umunhã'ana sikĩdawa: $1 ($2).\nYawá uso'ana sikĩdawa nhaãçé: ''$3''.\n\n* Sikĩdawa yupirũgawa: $4\n* Sikĩdawa upawa: $5\n\nProxy ikurẽdawa sikĩdawa i $6.\nKatuçawa rupí, e-meẽ panhẽ pukatua'etá ĩdé resó ramẽ repurãdu yepé maã yãdé çupé.\n\nĨdé remaité ramẽ yawá yepé ganariçawa, repurú rewaçẽmu kuauçawa'etá mburipíriwara açui mbeuçawa'etá opaĩwara rekô upé [[m:Special:MyLanguage/No open proxies|proxies sikĩdawa]].\nTiramẽ, unheẽ kuá sikĩdawa reçé, [[m:Steward requests/Global|e-munhã amũmaãgawa yururewa Meta-Wiki upé]].",
 	"wikimedia-statslink": "Papasawa-itá",
 	"wikimedia-cookiestatement": "Cookie rekô"
 }

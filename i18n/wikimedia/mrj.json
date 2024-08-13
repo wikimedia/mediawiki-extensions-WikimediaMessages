@@ -12,8 +12,6 @@
 	"wikibase-sitelinks-wikisource": "Викиисточник",
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikimedia-developers": "Разработчиквлӓ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1($2) питӹрӹмӓшӹм ӹштен.\nАнжыктымы вир: ''$3''.\n\n* Питӹрӹмӓшӹн тӹнгӓлтӹшӹжӹ: $4 \n* Питӹрӹмӓшӹн мычашыжы: $5 \n\nТӹньӹн кӹзӹтшӹ IP адресет — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) питӹрӹмӓшӹм ӹштен.\nАнжыктымы вир: ''$3''.\n\n* Питӹрӹмӓшӹн тӹнгӓлтӹшӹжӹ: $4 \n* Питӹрӹмӓшӹн мычашыжы: $5  \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie файлвлӓ гишӓн ядмаш"
 }

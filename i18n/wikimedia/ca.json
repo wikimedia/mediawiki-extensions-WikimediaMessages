@@ -192,8 +192,6 @@
 	"upload-more-photos-of-this-monument": "Carrega més fotos d'aquest monument",
 	"createacct-captcha-help-url": "{{ns:Project}}:Sol·licitar un compte",
 	"wikimedia-developers": "Desenvolupadors",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nEl blocatge ha estat realitzat per $1 ($2).\nEl motiu adduït és ''$3''.\n\n* Inici del blocatge: $4\n* Caducitat del blocatge: $5\n\nLa vostra adreça IP actual és $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nEl blocatge ha estat realitzat per $1 ($2).\nEl motiu adduït és ''$3''.\n\n* Inici del blocatge: $4\n* Fi del blocatge: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ca",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Política de privadesa]",
 	"upload-form-label-not-own-work-local-commons": "També podeu provar d'utilitzar [[Special:Upload|la pàgina de càrrega a {{SITENAME}}]], si el lloc permet la càrrega d'aquest fitxer segons les polítiques d'admissió.",

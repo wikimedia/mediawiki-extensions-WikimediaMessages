@@ -21,8 +21,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Mga developer",
-	"wikimedia-globalblocking-ipblocked": "'''An imo IP address in [[m:Special:MyLanguage/Global blocks|ginpugngan ha ngatanan nga mga wiki]].'''\n\nAn pagpugong in ginhimo ni $1 ($2).\nAn rason nga ginhatag in ''$3''.\n\n* Pagtikang han pagpugong: $4\n* Matatapos an pagpugong: $5\n\nAn IP address mo yanan in $6.\nAlayon iglakip an ngatanan nga mga detalye ha igbaw ha ngatanan nga queries nga hihimoon mo.\n\nKun natoo ka nga sayop an pagpugong ha imo, makakabiling ka hin kadugangan nga impormasyon ngan instructions ha [[m:Special:MyLanguage/No open proxies|No open proxies]] polisiya global.\nKun diri, para ighiruhimangraw an imo pagpugong alayon [[m:Steward requests/Global|pag-post hin request para hin pag-review ha Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Usa o durudamo pa nga proxy servers nga gingamit han imo pag-request in [[m:Special:MyLanguage/Global blocks|ginpugngan ha global]].'''\n\nAn pagpugong in ginhimo ni $1 ($2).\nAn rason nga ginhatag in ''$3''.\n\n* Pagtikang han pagpugong: $4\n* Matatapos an pagpugong: $5\n\nAn nakapugong nga proxy address in $6.\nAlayon iglakip an ngatanan nga mga detalye ha igbaw ha bisan ano nga queries nga hihimoon mo.\n\nKun natoo ka nga sayop an pagpugong ha imo, makakabiling ka hin kadugangan nga impormasyon ngan instructions ha [[m:Special:MyLanguage/No open proxies|No open proxies]] polisiya global. Kun diri, para ighiruhimangraw an imo pagpugong alayon [[m:Steward requests/Global| pag-post hin request para hin pag-review ha Meta-Wiki]].",
 	"wikimedia-statslink": "Estadistika",
 	"wikimedia-cookiestatement": "Pasabot hiunong han cookie"
 }

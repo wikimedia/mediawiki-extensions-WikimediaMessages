@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikivambo",
 	"wikibase-sitelinks-wikivoyage": "Wikirwendo",
 	"wikimedia-developers": "Vagadziri",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nUdzivo wakagadzirwa na $1 ($2)\nChikonzero chakapuhwa ndechokuti '' $3 ''. \n\n* Pakatanga udzivo: $4 \n* Pachapera udzivo: $5 \n\nKero ye DD (IP) yako parizvino i$6.\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nUdzivo wakagadzirwa na $1 ($2)\nChikonzero chakapuhwa ndechokuti '' $3 ''. \n\n* Pakatanga udzivo: $4 \n* Pachapera udzivo: $5 \n\n{{int:globalblocking-blockedtext\n-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Manumeri",
 	"wikimedia-cookiestatement": "Kuki re chareketwa",
 	"wikimedia-projects-label": "Mabasa e Wikimidhiya"

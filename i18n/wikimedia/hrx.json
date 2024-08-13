@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Entwickler",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDie Sperr waar dorrichgefeerd fun $1 ($2).\nDie geliwerde Begrindung is ''$3''.\n\n* De Sperre eere Beginn: $4\n* De Sperre eere Enn: $5\n\nDein aktuaale IP-Adress is $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDie Sperr waar dorrichgefeerd fun $1 ($2).\nDie geliwerde Begrindung is ''$3''.\n\n* De Sperre eere Beginn: $4\n* De Sperre eere Enn: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistike",
 	"wikimedia-cookiestatement": "Stellungnaame zu Cookies"
 }

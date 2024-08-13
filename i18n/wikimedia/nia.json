@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Pengembang",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nSomba'agö $1 ($2).\nBörö nibe'enia \"$3\".\n\n* Tebörögö womba'agö: $4\n* Ahori womba'agö: $5\n\nAlamat IP-mö iada'a $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext\n-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSomba'agö $1 ($2).\nBörö \"$3\".\n\n* Tebörötaigö womba'agö: $4\n* Ahori womba'agö: $5\n\n{{int:globalblocking-blockedtext-proxy\n|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-sitename-wikipedia": "Wikipedia, ensiklopedia zato",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Sanandrösa ba kuki"

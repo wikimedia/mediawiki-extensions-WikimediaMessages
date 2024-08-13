@@ -170,8 +170,6 @@
 	"upload-more-photos-of-this-monument": "Na zıyarık  ra zewbi fotrafi barkerê",
 	"createacct-captcha-help-url": "{{ns:Project}}:Hesab bıwaz",
 	"wikimedia-developers": "Raverberdoği",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBloqe kerdoğ $1 ($2).\nSebebê bloqeyi ''$3''.\n\n* Demê Bloqei: $4\n* Qediyena bloqeyi: $5\n\nMewcud adresê  IP ya şoma $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBloqe kerdoğ $1 ($2).\nSebebê bloqeyi ''$3''.\n\n* Demê Bloqei: $4\n* Qediyena bloqeyi: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "Zewbi zıwani",
 	"interlanguage-link-sitename-mul": "Multizıwan {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Wikipediya",

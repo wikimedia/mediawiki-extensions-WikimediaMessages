@@ -17,7 +17,5 @@
 	"wikibase-sitelinks-wikiquote": "Vikicėtatas",
 	"wikibase-sitelinks-wikisource": "Vikišaltėnē",
 	"wikibase-sitelinks-wikivoyage": "Vikižīgē",
-	"wikimedia-developers": "Dėrbiejē",
-	"wikimedia-globalblocking-ipblocked": "'''Tamstas IP adresos bova [[m:Special:MyLanguage/Global blocks|ožgints vėsūs wiki poslapiūs]].'''\n\nOžgīnėms padėrbts $1 ($2).\nDingstės tuokė īrː ''$3''.\n\n* Ožgīnėma pradė: $4\n* Ožgīnėma pabonga: $5\n\nTamstas nūns IP adresos īr $6.\nVėsus tūs dalīkus ožrašīkėt, jē kor rašīsat prašīma.\n\nJēgo mėslījat, ka bovat ožgints par klaida, veiziekat [[m:Special:MyLanguage/No open proxies|„ne vėišiem proxyǃ“]] puolėtėka.\nAtvėrkštē, [[m:Steward requests/Global|rašīkat prašīma ka atgintu wiki vėršėninkam]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Vėins aba daugiau Tamstas nauduotu proksi serveriu [[m:Special:MyLanguage/Global blocks|bova vėsoutėnā ožgintė]].'''\n\nOžgīnėma padėrba $1 ($2).\nDingstės: ''$3''.\n\n* Ožginėms prasidiejė: $4\n* Ožginėms bėngsės: $5\n\nOžgints proksi adresos bova $6.\nJēb kor tās rašīsat, ka nojimtom ožginėma, doukat tou adreso.\n\nJēb mėslėnat, ka esat ožgints ba rēkala, pradiuo pasiskaitīkat aple vėsoutėnė [[m:Special:MyLanguage/No open proxies|rieda diel atvėrū proksi serveriu]].\nDiel atbloukavėma galat pasirokoutė so [[m:Steward requests/Global|Meta Wiki ūkvedēs]]."
+	"wikimedia-developers": "Dėrbiejē"
 }

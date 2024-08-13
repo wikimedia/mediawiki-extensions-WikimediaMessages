@@ -18,8 +18,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Zewmamekelu",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\nFewla tami IP ñi üy ta $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nMi katrütunieetew $1 ($2).\nTüfachi zungu mew ''$3''.\n\n* Llitun: $4\n* Afpun: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\nMüngel wirintukuaymi kom wünetu pingelu tüfa mi ramtuael.\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Chuntelen",
 	"wikimedia-cookiestatement": "Cookie ñi pikünuel"
 }

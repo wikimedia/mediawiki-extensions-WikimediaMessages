@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikiappus",
 	"wikibase-sitelinks-wikivoyage": "Wikipintegas",
 	"wikimedia-developers": "Kurtajai",
-	"wikimedia-globalblocking-ipblocked": "Twajā IP adressi pastāi [[m:Special:MyLanguage/Global blocks|blōkitan na wissans wīkins]].'''\n\nBlōkisnan ast segīwuns $1 ($2).\nDatā brewīnsli ast ''$3''.\n\nBlōkisnas pagaūsenis: $4\nBlōkisnas wangā: $5\n\nTwajā aktuāla IP adressi ast $6.\nMadli preidātun wissans šins malkans en prasīsenin prēipalu.\n\nIk tu mīri, kāi tu pastāi blōkitan kurtīsnas paggan, tu mazzi aupaltun tuls infōrmaciōnins be instrukciōnins en glōbalin ensadīnsnan pāusu [[m:Special:MyLanguage/No open proxies|Šlāit etwertans proxy sērwerins]].\nEn kitsmu prēipalin, kāi waițālai ezze blōkisnan, [[m:Steward requests/Global|tenginnais izkīninsnan ezze pawīstis izbandāsnan na Meta-wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Aīns adder tūls proxy sērwerei tērpawintei ezze twajasmu izkīninsenin ast [[m:Special:MyLanguage/Global blocks|blōkitan glōbalai]].'''\n\nBlōkisnan ast segīwuns $1 ($2).\nDatā brewīnsli ast ''$3''.\n\nBlōkisnas pagaūsenis: $4\nBlōkisnas wangā: $5\n\nBlōkita proxy adressi ast $6.\nMadli preidātun wissans šins malkans en prasīsenin prēipalu.\n\nIk tu mīri, kāi tu pastāi blōkitan kurtīsnas paggan, tu mazzi aupaltun tuls infōrmaciōnins be instrukciōnins en pōlitikei: [[m:Special:MyLanguage/No open proxies|Šlāit etwertans proxy sērwerins]].\nEn kitsmu prēipalin, kāi waițālai ezze blōkisnan, [[m:Steward requests/Global|tenginnais izkīninsnan ezze pawīstis izbandāsnan na Meta-wiki]].",
 	"wikimedia-statslink": "Statistiki",
 	"wikimedia-cookiestatement": "Pawakīsenis ezze kepinnins"
 }

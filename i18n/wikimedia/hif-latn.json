@@ -28,8 +28,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"cant-delete-main-page": "Aap pahila pana ke mitae nai to hatae nai saktaa hae",
 	"wikimedia-developers": "Banae waala log",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 block karis hai ($2).\nKaaran hai ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nAap ke IP address hai $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) iske block karis hae.\nKaaran hae ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Aakrraa",
 	"wikimedia-cookiestatement": "Cookie ke baare me"
 }

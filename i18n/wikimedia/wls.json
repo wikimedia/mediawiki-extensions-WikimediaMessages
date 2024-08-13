@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Vikimatapuna",
 	"wikibase-sitelinks-wikivoyage": "Vikifolau",
 	"wikimedia-developers": "Tufuga",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nNe'e ta'ofi e $1 ($2).\nTupu ko te ''$3''.\n\n* Kamata ta'ofi: $4\n* Faka'osi ta'ofi: $5\n\nKo te tu'asila IP e ke faka'aoga'i nei ko $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nNe'e ta'ofi e $1 ($2).\nTupu ko te ''$3''.\n\n* Kamata ta'ofi: $4\n* Faka'osi ta'ofi: $5\n\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Lau nūmelo",
 	"wikimedia-cookiestatement": "Muli'i"
 }

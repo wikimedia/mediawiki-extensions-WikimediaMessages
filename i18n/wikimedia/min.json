@@ -129,8 +129,6 @@
 	"upload-more-photos-of-this-monument": "Muek labiah banyak foto dari monumen ko",
 	"createacct-captcha-help-url": "{{ns:Project}}:Mohon buekkan akun",
 	"wikimedia-developers": "Pangambang",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokir dilakukan dek $1 ($2).\nAlasan pamblokiran: ''$3''.\n\n* Awal blokir balaku: $4\n* Blokir salasai: $5\n\nAlamaik IP Sanak adolah $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Ciek atau labiah server proksi nan digunokan dalam pamintaan Sanak [[m:Special:MyLanguage/Global blocks|disakek pado sado wiki]].'''\n\nSakek dilakukan dek $1 ($2).\nAlasan nan diagiah adolah ''$3''.\n\n* Mulo disakek: $4\n* Bateh maso sakek: $5\n\nAlamaik proksi nan disakek adolah $6.\nHarap saratokan sado rincian di ateh dalam satiok patanyoan Sanak.\n\nKok Sanak yakin Sanak disakek marupokan sabuah kasalahan, Sanak buliah manamukan informasi tambahan jo patunjuak di Kabijakan global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukak]].\nKok indak, untuak marundiangkan hal ko, silakan [[m:Steward requests/Global|mangirim pamintaan untuak dipareso di Meta-Wiki]].",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Panyatoan kuki",
 	"gadget-souspages-subpages": "Sublaman"

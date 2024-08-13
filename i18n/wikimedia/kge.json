@@ -12,8 +12,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisumber",
 	"wikibase-sitelinks-wikivoyage": "Wikimidang",
 	"wikimedia-developers": "Pengembang",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokir diguwai bak $1 ( $2 ).\nAlasan sai tiunjukko joda da  '' $3 ''. \n\n* Awal pamblokiran: $4 \n* Kadaluwarsa pamblokiran: $5 \n\nAlamat IP mu ganta sa joda da $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokir diguwai bak $1 ($2).\nAlasan sai tiunjukko joda da  ''$3''. \n\n* Awal pamblokiran: $4 \n* Kadaluwarsa pamblokiran: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-torblock-blocked": "Alamat IP mu, <strong>$1</strong> kok tiidentifikasi sacara otomatis sabagai [https://en.wikipedia.org/wiki/Tor_(network) Tor] simpul akhir tor. Panyuntingan ngaliyu'i tor ganta sa sodong tiblokir untuk ngahalang panyalahgunaan. Untuk informasi tambahan rik instruksi untuk pangguna sai sah, liyak [https://meta.wikimedia.org/Wiki/Special:MyLanguage/No_open_proxies no open proxies] kabijakan global.",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Parnyataan kuki"

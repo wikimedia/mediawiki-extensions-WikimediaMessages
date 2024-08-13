@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Divelopa-dem",
-	"wikimedia-globalblocking-ipblocked": "'''Your IP adres don dey [[m:Special:MyLanguage/Global blocks|for blok for evri wiki-dem]].'''\n\nNa $1 ($2) mek di blok.\nDi reason na sey ''$3''.\n\n* Di blok go stat for: $4\n* Di blok go end for: $5\n\nDi IP adres wey you dey yuz nau na $6.\nAbeg mek you put evri infomeshon wey dey for top for your komplen.\n\nIf you tink sey dis blok na mistek, you fit get oda infomeshon an instroshon inside [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nAbi, if you wan tok abaut di blok abeg [[m:Steward requests/Global|post rikwest mek dem chek-am again for Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''One abi plenti proxy server-dem wey you yuz tek dey rikwest don dey [[m:Special:MyLanguage/Global blocks|for global blok]].'''\n\nNa $1 ($2) mek di blok.\nDem blok you bikos of sey ''$3''.\n\n* Di blok go stat for: $4\n* Di blok go end for: $5\n\nDi proxy adres wey dem blok na $6.\nAbeg mek you put evri infomeshon wey dey for top for your komplen.\n\nIf you tink sey dis blok na mistek, you fit get oda infomeshon an instroshon inside [[m:Special:MyLanguage/No open proxies|No opun proxies]] global policy.\nAbi, if you wan tok abaut di blok abeg [[m:Steward requests/Global|post rikwest mek dem chek-am again for Meta-Wiki]].",
 	"wikimedia-statslink": "Statistiks",
 	"wikimedia-cookiestatement": "Kuki stetment"
 }

@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "A̱tyinwuki",
 	"wikibase-sitelinks-wikivoyage": "Wukia̱ka̱cyet",
 	"wikimedia-developers": "Á̱nietnok",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nA̱tyufwun wu wa yet $1 ($2).\nJat ji a̱ ku nwuak a̱ni jija yet ''$3''.\n\n* Tsa fwun hu: $4\n* Tyiai fwun hu: $5\n\nA̱vwuonswat IP ang ka mi̱ di̱ yong huni kya yet $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nA̱tyufwun wu wa yet $1 ($2).\nJat ji a̱ ku nwuak a̱ni jija yet ''$3''.\n\n* Tsa fwun hu: $4\n* Tyiai fwun hu: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Lung lulung",
 	"wikimedia-cookiestatement": "Shei a̱lyiat kuki na"
 }

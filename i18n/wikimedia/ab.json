@@ -8,7 +8,6 @@
 	"sitesupport": "Ацхыраара зылшо",
 	"wikimedia-copyright": "Атекст ахьыманшәалоу <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike алицензиала</a>  иҟоуп; ахарҭәааратә ԥҟарақәа рылша рныруеит.\nШәахә. Инарҭбааны шәахә. убас <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ахархәаразы аԥҟарақәа</a>.",
 	"wikimedia-developers": "Аҭҵааҩцәа",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nАанкылара ииҭан: $1 ($2).\nИарбоу амзыз: \"$3\"\n\n* Аанкылара алагамҭа: $4\n* Аанкылара алгамҭа: $5\n\nШәара изаамҭанытәуи IP-адрес: $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Астатистика",
 	"wikimedia-cookiestatement": "Кукиз аҳәара"
 }

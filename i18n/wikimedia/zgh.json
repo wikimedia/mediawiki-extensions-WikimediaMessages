@@ -106,8 +106,6 @@
 	"wikibase-otherprojects-wikipedia": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ",
 	"wikibase-otherprojects-wikimania": "ⵡⵉⴽⵉⵎⴰⵏⵢⴰ",
 	"wikimedia-developers": "ⵉⵎⵙⵖⵉⵡⵙⵏ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nⵉⵙⴽⵔ $1 ($2) ⴰⴳⴷⴷⵓⵍ.\nⵜⴰⵎⵏⵜⵉⵍⵜ ⵉⵜⵜⵓⴼⴽⴰⵏ: ''$3''.\n\n* ⵜⵓⴷⴷⵎⴰ ⵏ ⵓⴳⴷⴷⵓⵍ: $4\n* ⵜⵉⴳⵉⵔⴰ ⵏ ⵓⴳⴷⴷⵓⵍ: $5\n\nⴰⵏⵙⴰ ⵏ IP {{GENDER:ⵏⵏⴽ|ⵏⵏⵎ}} ⴰⵎⵉⵔⴰⵏ: $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nⵉⵙⴽⵔ $1 ($2) ⴰⴳⴷⴷⵓⵍ.\nⵜⴰⵎⵏⵜⵉⵍⵜ ⵉⵜⵜⵓⴼⴽⴰⵏ: ''$3''.\n\n* ⵜⵓⴷⴷⵎⴰ ⵏ ⵓⴳⴷⴷⵓⵍ: $4\n* ⵜⵉⴳⵉⵔⴰ ⵏ ⵓⴳⴷⴷⵓⵍ: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-wikipedia": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ",
 	"wikimedia-statslink": "ⵉⵙⵏⵎⴽⵜⴰⵜⵏ",
 	"wikimedia-cookiestatement": "ⵜⴰⵏⵎⵎⴰⵍⵜ ⵏ ⵓⴽⵓⴽⵉ",

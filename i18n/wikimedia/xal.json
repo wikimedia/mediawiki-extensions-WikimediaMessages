@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "Вики-саң",
 	"wikibase-sitelinks-wikivoyage": "Вики-айлл",
 	"wikimedia-developers": "Көгҗүләчнрт",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБөгләг $1 ($2) кев.\nШилтәнь ''$3''.\n\n* Бөглә эклсн цаг: $4\n* Бөглә дуусх цаг: $5\n\nТана одаһин IP хайг болхла, $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}''' \nБөгләг $1 ($2) кев. \nШилтәнь ''$3''. \n* Бөглә эклсн цаг: $4 \n* Бөглә дуусх цаг: $5 \n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-sitename-wikipedia": "Википедь, чөләтә невтркә толь",
 	"wikimedia-statslink": "Статистик",
 	"wikimedia-cookiestatement": "Кукиһин таларк медәлл"

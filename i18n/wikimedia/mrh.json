@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "Wikihnawh",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Ataotuhpazy",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) ta taopa block.\nPiepa chhâna cha ''$3'' a châ.\n\n* Block pathaona: $4\n* Block chhâna: $5\n\nTahmâta nâna IP address cha $6 a châ.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlock he $1 ($2) ta taopa a châ.\nPiepa chhâna cha ''$3'' a châ.\n\n* Block pathaona: $4\n* Block chhâna: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistics",
 	"wikimedia-cookiestatement": "Cookie phuahna"
 }

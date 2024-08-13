@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "maalemaaleba",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBone naŋ e ko page la $1 ($2).\nKa ananso la ''$3''.\n\n* A pagebo piili la $4\n* O baaroo la $5\n\nFo pampana saseɛ miri youri la $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nNeɛ naŋ na maale a sɛgre $1 ($2).\nBa teɛroo wala''$3''.\n\n* Piili sɛgrɛ: $4\n* O baaroŋ bibiri: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Gyɛre maahitaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"
 }

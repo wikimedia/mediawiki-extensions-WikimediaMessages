@@ -12,8 +12,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wiki y'ingendo",
 	"wikimedia-developers": "Abahinyanyuzi",
-	"wikimedia-globalblocking-ipblocked": "'''Indangakintu (IP) yawe [[m:Special:MyLanguage/Global blocks|yahagaritswe kuri wiki zose]].'''\n\nGuhagarikwa vyakozwe na $1 ($2).\nImvo yatanzwe ni ''$3''.\n\n* Guhagarikwa vyatanguye: $4\n* Guhagarikwa bizorangira: $5\n\nIndangakintu (IP) yawe y'ubu ni $6.\nUsabwe gushira insiguro zose ziri musi mubibazo vyose usaba.\n\nMugihe wibaza ko woba wahagaritwe kubwo kwihenda, ushobora gusanga inkuru z'inyongera n'amabwirizwa muri [[m:Special:MyLanguage/No open proxies|Nta proxies zuguruye]] indinganizo rusangi.\natari ukwo naho, kuyaga k'uguhagarikwa, gerageza [[m:Steward requests/Global|rungika kuri Meta-Wiki igisabo co gusubiramwo]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Sereveri imwe canke nyinshi zikoreshwa n'igisabo cawe ni[[m:Special:MyLanguage/Global blocks|ihagaritswe muri rusangi]].'''\n\n\nGuhagarikwa vyakozwe na $1 ($2).\nImvo yatanzwe ni ''$3''.\n\n* Guhagarikwa vyatanguye: $4\n* Guhagarikwa bizorangira: $5\n\nIndangakintu (IP) yawe y'ubu ni $6.\nUsabwe gushira insiguro zose ziri musi mubibazo vyose usaba.\n\nMugihe wibaza ko woba wahagaritwe kubwo kwihenda, ushobora gusanga inkuru z'inyongera n'amabwirizwa muri [[m:Special:MyLanguage/No open proxies|Nta proxies zuguruye]] indinganizo rusangi.\natari ukwo naho, kuyaga k'uguhagarikwa, gerageza [[m:Steward requests/Global|rungika kuri Meta-Wiki igisabo co gusubiramwo]].",
 	"wikimedia-statslink": "Ibitigiri",
 	"wikimedia-cookiestatement": "Insiguro za cookie"
 }

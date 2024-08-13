@@ -83,8 +83,6 @@
 	"wikimedia-taglines-wikivoyage": "саякат колдонмосу",
 	"wikimedia-taglines-wiktionary": "эркин лицензияланган сөздүк",
 	"wikimedia-developers": "Иштеп чыгуучулар",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБөгөттөгөн колдонуучу: $1 ($2)\nКөрсөтүлгөн себеп: ''$3''\n\n* Бөгөттөөнүн башталышы: $4\n* Бөгөттөөнүн аякташы: $5\n\nАзыркы IP-дарегиңиз: $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБөгөттөгөн колдонуучу: $1 ($2)\nКөрсөтүлгөн себеп: ''$3''\n\n* Бөгөттөөнүн башталышы: $4\n* Бөгөттөөнүн аякташы: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ky Купуялык саясаты]",
 	"interlanguage-link-wikipedia": "Википедия",
 	"interlanguage-link-commons": "Викиказына",

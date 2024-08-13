@@ -12,8 +12,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Moun dévlòpman konpyouta",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlòk-la té fèt pa $1 ($2).\nWézon li bay: ''$3''.\n\n* Blòk-la koumansé: $4\n* Blòk-la fini: $5\n\nAdwésé IP'w sé $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlòk-la té fèt pa $1 ($2).\nWézon li bay sé ''$3''.\n\n* Blòk-la koumansé: $4\n* Blòk-la fini: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Sé statistik",
 	"wikimedia-cookiestatement": "Déklawasyon cookie"
 }

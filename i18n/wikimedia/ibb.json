@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "An si bot",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) anam itiad ami.\nNtak asine ke ''$3''.\n\n* Ntongho itiad: $4\n* Ukwenghe itad: $5\n\nIdagha ami mfo IP address ado $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) anam itiad ami.\nNtak asine ke ''$3''.\n\n* Ntongho itiad: $4\n* Ukwenghe itad: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Nahga mkpo aba",
 	"wikimedia-cookiestatement": "Cookie statement"
 }

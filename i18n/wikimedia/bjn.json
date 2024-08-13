@@ -46,8 +46,6 @@
 	"wikibase-otherprojects-sources": "WikiNaskah multibasa",
 	"wikibase-sitelinks-sitename-sourceswiki": "WikiNaskah multibasa",
 	"wikimedia-developers": "Pangambang",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlukir diulah ulih $1 ($2).\nAlasan nang diunjukakan adalah ''$3''.\n\n* Mulai blukir: $4\n* Ampih blukir: $5\n\nAlamat IP Pian damini adalah $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlukir diulah ulih $1 ($2).\nAlasan nang diunjukakan adalah ''$3''.\n\n* Mulai blukir: $4\n* Ampih blukir: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Parnyataan kuki"
 }

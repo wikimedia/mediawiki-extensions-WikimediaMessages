@@ -18,8 +18,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "maalmaalba",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBone naŋ e ko page la $1 ($2).\nKa ananso la ''$3''.\n\n* A pagebo piili la $4\n* O baaroo la $5\n\nFo pampana saseɛ miri youri la $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nNeɛ naŋ na maale a sɛgre $1 ($2).\nBa teɛroo wala''$3''.\n\n* Piili sɛgrɛ: $4\n* O baaroŋ bibiri: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-torblock-blocked": "A fo IP bambo magere, <strong>$1</strong>, eɛ la  [https://en.wikipedia.org/wiki/Tor_(network) Tor] yiibu tuobuzie.\nMaale emmo yineŋ Tor taa la beɛgebo ka neɛ zaa ta sãã o.\nKa yɛlɛ yaga nyabo aneŋ wulibu ko noba mine naŋ tona a toma, kaa a [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies no open proxies] tendaa zaa yɛlɛ.",
 	"wikimedia-statslink": "Gyɛre mannetaa",
 	"wikimedia-cookiestatement": "Cookie yɛleyaga"

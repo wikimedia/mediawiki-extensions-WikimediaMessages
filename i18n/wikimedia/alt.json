@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "Викитека",
 	"wikibase-sitelinks-wikivoyage": "Викиулаачы",
 	"wikimedia-developers": "Шиҥдеечилер",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nТуйукташ эдилди $1 ($2).\nШылтактары ''$3''.\n\n* Туйукташтыҥ башталганы: $4\n* Ттуйукташтыҥ божооры: $5\n\nСлердиҥ эмдиги IP-адрезер $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nТуйукташ эдилди $1 ($2).\nШылтактары ''$3''.\n\n* Туйукташтыҥ башталганы: $4\n* Туйукташтыҥ божооры: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки керегинде заявление"
 }

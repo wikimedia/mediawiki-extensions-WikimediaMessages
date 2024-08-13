@@ -12,7 +12,5 @@
 	"wikibase-sitelinks-wikiquote": "وکی اقتباسات",
 	"wikibase-sitelinks-wikisource": "ویکی سورس",
 	"wikibase-sitelinks-wikivoyage": "ویکی سفرنامہ",
-	"wikimedia-developers": "فراخ کوراک",
-	"wikimedia-globalblocking-ipblocked": "'''تمام ویکیپیڈیا تہ آئی  پی باند کورونو بتی شیر[[m:Special:MyLanguage/Global blocks|blocked on all wikis]].''' The block was made by $1 ($2). The reason given is ''$3''. * Start of block: $4 * Expiry of block: $5 Your current IP address is $6. Please include all above details in any queries you make. If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy. Otherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''تہ  آئی پی ایڈریسو سورا [[m:Special:MyLanguage/Global blocks|تمام ویکیپیڈیا]] پاوبندی لیگئنو بیتی شیر۔''' \n\nھیہ پوابندی $1 ووشکیاری لیگئینو بیتی شیر ($2)۔\nاس کی وجہ ''$3''  بتائی گئی تھی۔\n\n* پاوبندیو آغاز: $4\n* پابندیو اختتام: $5\n\nتہ موجودہ آئی پی ایڈریس $6 شیر۔\nPlease include all above details in any queries you make.\n\nاگر تو کہ ھموش جشوسان کہ تہ سورا غلطیو سورا پاوبندی لیگی شیر تھے تو مزید معلومات [[m:Special:MyLanguage/No open proxies|نو اوپن پراکسی]] عالمی پالیسیا لودیکوبوس۔\nجوو صورتہ، پاوبندیو متعلقہ تبادلہ خیال کورے وا ھیارا [[m:Steward requests/Global|نظر ثانیو بچے میٹا درخواست دیت]]"
+	"wikimedia-developers": "فراخ کوراک"
 }

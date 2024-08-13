@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "ヰキソース",
 	"wikibase-sitelinks-wikivoyage": "ヰキボヤージュ",
 	"wikimedia-developers": "開発者",
-	"wikimedia-globalblocking-ipblocked": "'''うんじゅがIPアドレスや[[m:Special:MyLanguage/Global blocks|むるぬヰキでブロック]]さりやびたん。'''\n\nブロックしたぬや $1 ($2) やいびーん。\n理由ぉー ''$3'' とされているさ。\n\n* ブロックぬ始み: $4\n* ブロックぬ終わい: $5\n\nうんじゅがなまぬIPアドレスー $6 やいびーん。\n問い合わしする際ねー、くぬくとぅむる含みてくぃみそーれー。\n\nくぬブロックぬ誤りやんんでぃうかんげーらんばー、[[m:Special:MyLanguage/No open proxies|公開プロキシぬ規制]]というグローバル方ーーいでよりふすさん情報しーゆんくとぅがなやびーん。\nうぬ他、くぬブロックにちぃてぃ議論提起しぶさんばーや、[[m:Steward requests/Global|メタウィキっし審議依頼]]してくぃみそーれー。",
-	"wikimedia-globalblocking-ipblocked-xff": "'''うんじゅがIPアドレスや[[m:Special:MyLanguage/Global blocks|むるぬヰキでブロック]]さりやびたん。'''\n\nブロックしたぬや $1 ($2) やいびーん。\n理由ぉー ''$3'' とされているさ。\n\n* ブロックぬ始み: $4\n* ブロックぬ終わい: $5\n\nうんじゅがなまぬIPアドレスー $6 やいびーん。\n問い合わしする際ねー、くぬくとぅむる含みてくぃみそーれー。\n\nくぬブロックぬ誤りやんんでぃうかんげーらんばー、[[m:Special:MyLanguage/No open proxies|公開プロキシぬ規制]]というグローバル方ーーいでよりふすさん情報しーゆんくとぅがなやびーん。\nうぬ他、くぬブロックにちぃてぃ議論提起しぶさんばーや、[[m:Steward requests/Global|メタウィキっし審議依頼]]してくぃみそーれー。",
 	"wikimedia-statslink": "統計",
 	"wikimedia-cookiestatement": "Cookieんかい関する声明"
 }

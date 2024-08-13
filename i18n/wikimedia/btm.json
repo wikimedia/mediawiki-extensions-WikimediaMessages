@@ -18,8 +18,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Pangembang",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokir on ibaen sian $1 ($2).\nAlasan na ilehen nia ima ''$3''. \n\n* Parjolo pas atia pamblokiran nai: $4 \n* Mandung bari pemblokiran: $5 \n\nAlamat IP muyu nasannari Ima $6\n\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokir on ibaen sian $1 ($2).\nAlasan na ilehen nia ima ''$3''. \n\n* Parjolo pas ataia pamblokiran nai: $4 \n* Mandung bari pemblokiran: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Obar Kue"
 }

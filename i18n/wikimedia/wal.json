@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Wikkiixaafettidabaa",
 	"wikibase-sitelinks-wikivoyage": "Wikkiimandaraa",
 	"wikimedia-developers": "Dichiyaageeta",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:globalblocking-blockedtext-all-wikis}}'''\n\nTeqqidaagee $1 ($2)\nImettida gaasoy ''$3''\n\n* Teqettay doommidoy: $4\n* Teqettay gidiyoy: $5\n\nHa'i ne IPee beettiyoosay $6\n{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nTeqqidaagee $1 ($2)\nImettida gaasoy ''$3''\n\n* Teqettay doommidoy: $4\n* Teqettay gidiyoy: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:globalblocking-blockedtext-details-queries}}\n\n{{int:globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Istaatistikisiya",
 	"wikimedia-cookiestatement": "Qonccissota"
 }

@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Үикитека",
 	"wikibase-sitelinks-wikivoyage": "Үикигид",
 	"wikimedia-developers": "Эшләтеүцеләр",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) тыйыу ултысҡан.\nСәбәп: ''$3''.\n\n* Тыйыуның пашланыуы: $4\n* Тыйыуның пөтөүө: $5\n\n$6 сеснең ҡәсерге IP адресығыс.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext\n-on-proxy}}'''\n\n$1 ($2) тыйыу ултысҡан.\nСәбәп: ''$3''.\n\n* Тыйыуның пашланыуы: $4\n* Тыйыуның пөтөүө: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Куки турынта пелтереү"
 }

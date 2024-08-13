@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "Wikiainehisto",
 	"wikibase-sitelinks-wikivoyage": "Wikigiidu",
 	"wikimedia-developers": "Luadijat",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nLukičuksen luadi $1 ($2).\nAnnettu syy: ''$3''.\n\n* Lukičuksen algavunduaigu: $4\n* Lukičuksen lopunduaigu: $5\n\nSinun nygöine IP-adressi on $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nLUkičuksen luadi $1 ($2).\nAnnettu syy: ''$3''.\n\n* Lukičuksen algavunduaigu: $4\n* Lukičuksen lopunduaigu: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistiekat",
 	"wikimedia-cookiestatement": "Cookie-tiijostoloin käytändy"
 }

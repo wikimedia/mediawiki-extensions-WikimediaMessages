@@ -18,8 +18,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupadôrs",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finìs il: $5\n\nLa tô direzion IP e je $6.\n{{int\n:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nIl bloc al è stât fat di $1 ($2).\nPal motîf: ''$3''.\n\n* Il bloc al è tacât il: $4\n* Il bloc al finìs il: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistichis",
 	"wikimedia-cookiestatement": "Declarazion sui cookies"
 }

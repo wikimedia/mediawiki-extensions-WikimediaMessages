@@ -123,8 +123,6 @@
 	"wikimedia-taglines-wiktionary": "ਮੁਫਤ ਸ਼ਬਦਕੋਸ਼",
 	"createacct-captcha-help-url": "{{ns:Project}}:ਖਾਤੇ ਲਈ ਮੰਗ ਕਰੋ",
 	"wikimedia-developers": "ਵਿਕਾਸਕਾਰ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ( $2 ) ਦੁਆਰਾ ਬਲੌਕ ਕੀਤਾ ਗਿਆ ਸੀ।\nਇਸਦਾ ਕਾਰਨ '' $3 '' ਹੈ। \n\n* ਬਲੌਕ ਦੀ ਸ਼ੁਰੂਆਤ: $4 \n* ਬਲੌਕ ਦੀ ਸਮਾਪਤੀ: $5 \n\nਤੁਹਾਡਾ ਮੌਜੂਦਾ IP ਪਤਾ $6 ਹੈ।\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ( $2 ) ਦੁਆਰਾ ਬਲੌਕ ਕੀਤਾ ਗਿਆ ਸੀ।\nਇਸਦਾ ਕਾਰਨ '' $3 '' ਹੈ। \n\n* ਬਲੌਕ ਦੀ ਸ਼ੁਰੂਆਤ: $4 \n* ਬਲੌਕ ਦੀ ਸਮਾਪਤੀ: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-sitename-mul": "ਬਹੁ-ਭਾਸ਼ਾਈ {{SITENAME}}",
 	"interlanguage-link-wikipedia": "ਵਿਕੀਪੀਡੀਆ",
 	"wikimedia-statslink": "ਅੰਕੜੇ",

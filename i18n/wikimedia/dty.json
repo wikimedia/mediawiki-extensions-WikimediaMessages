@@ -19,8 +19,6 @@
 	"wikibase-sitelinks-wikivoyage": "विकिभोयेज",
 	"wikibase-otherprojects-wikipedia": "विकिपिडिया",
 	"wikimedia-developers": "विकासकर्ताअन",
-	"wikimedia-globalblocking-ipblocked": "'''तमरो आईपी ठेगाना [[m:Special:MyLanguage/Global blocks|सबै विकिमी ब्लक]] गरियाको छ ।'''\n\nयै ब्लकलाई $1 ($2) ले गर्याहुन् ।\nबतायाको कारण : ''$3'' .\n\n* ब्लक शुरू: $4\n* ब्लक बन्द्: $5\n\nतमरो प्रस्तुत आईपी ठेगाना $6.\nकृपया माथीका कुरडीहरू आफ्नो सोधपुछमी शामिल गर्या ।\n\nयदी तम मानन्छौ कि यो ब्लक गर्नु कुनै गल्ती बठे भयाको हो भण्या तमी अधिक जानकारी और निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस नाही]] वैश्विक नीतिमी पढ ।\nया , यै ब्लकको कुरडी [[m:Steward requests/Global|यहाँ गर और मेटाविकिमी एक नयाँ कुरडी शुरू गर]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''एक भन्दा धेरै प्रोक्सी सर्वरहरूले तमरो अनुरोधलाई  [[m:Special:MyLanguage/Global blocks|सबै विकिमी ब्लक]]मी प्रयोग गर्याछन् ।'''\n\nयै ब्लकलाई $1 ($2) ले गर्याहुन् ।\nबतायाको कारण : ''$3'' .\n\n* ब्लक शुरू: $4\n* ब्लक बन्द्: $5\n\nतमरो प्रस्तुत आईपी ठेगाना $6.\nकृपया माथीका कुरडीहरू आफ्नो सोधपुछमी शामिल गर्या ।\n\nयदी तम मानन्छौ कि यो ब्लक गर्नु कुनै गल्ती बठे भयाको हो भण्या तमी अधिक जानकारी और निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस नाही]] वैश्विक नीतिमी पढ ।\nया , यै ब्लकको कुरडी [[m:Steward requests/Global|यहाँ गर और मेटाविकिमी एक नयाँ कुरडी शुरू गर]].",
 	"interlanguage-link-wikipedia": "विकिपिडिया",
 	"interlanguage-link-sitename-wikipedia": "विकिपिडिया, एक स्वतन्त्र ज्ञानभँणार",
 	"wikimedia-cookiestatement": "कुकी विवरण"

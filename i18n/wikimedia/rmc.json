@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikizdrojos",
 	"wikibase-sitelinks-wikivoyage": "Wikidrom",
 	"wikimedia-developers": "Programara",
-	"wikimedia-globalblocking-ipblocked": "'''Tiri IP adresa sas [[m:Special:MyLanguage/Global blocks|zablokinďi pe cale wikipediji]].'''\n\nO zablokinďipen sas kerdo $1 ($2).\nO dvovodis sas ''$3''.\n\n* Kana sas kerdo o blokipen: $4\n* O zablokinďipen končinela: $5\n\nTiri akarutňi IP adresa hin $6.\nKala udaje thov andre savore mangipena.\n\nTe peske gondoľines hoj salas blokimen chibnes, šaj arakhes buter informaciji the inštrukciji andro [[m:Special:MyLanguage/No open proxies|No open proxies]] globalno pravidlos.\nBo,te kames te phenel vareso palo blokipen šaj [[m:Steward requests/Global|irines mangipen te rodel o dvovodi Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Jekh abo buter proxi servera sas [[m:Special:MyLanguage/Global blocks|blokinde pre cale wikipediji]].'''\n\nO zablokinďipen sas kerdo $1 ($2).\nO dvovodis sas ''$3''.\n\n* Kana sas kerdo o blokipen: $4\n* O zablokinďipen končinela: $5\n\nBlokinďi proxi adresa sas $6.\nKala udaje thov andre savore mangipena.\n\nTe peske gondoľines hoj salas blokimen chibnes, šaj arakhes buter informaciji the inštrukciji andro [[m:Special:MyLanguage/No open proxies|No open proxies]] globalno pravidlos.\nBo,te kames te phenel vareso palo blokipen šaj [[m:Steward requests/Global|irines mangipen te rodel o dvovodi Meta-Wiki]].",
 	"wikimedia-statslink": "Štatistiki",
 	"wikimedia-cookiestatement": "Informaciji pal o cookies"
 }

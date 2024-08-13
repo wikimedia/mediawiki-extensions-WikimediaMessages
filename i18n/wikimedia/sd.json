@@ -128,8 +128,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "وڪيڊيٽا",
 	"wikimedia-taglines-outreach": "وڪيميڊيا آئوٽريچ وڪي",
 	"wikimedia-developers": "سِٽاڪار",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\nتوهانجو موجوده آئپي پتو $6 آهي.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nبندش $1 ($2) پاران وڌي وئي آھي.\nسبب ''$3'' ۾ ڏنل آهي.\n\n*بندش جي شروعات: $4\n*بندش جو خاتمو: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "وڌيڪ ٻوليون",
 	"interlanguage-link-wikipedia": "وڪيپيڊيا",
 	"interlanguage-link-sitename-wikipedia": "وڪيپيڊيا، کليل انسائيڪلوپيڊيا",

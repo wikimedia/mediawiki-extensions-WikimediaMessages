@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Dévélopeur",
-	"wikimedia-globalblocking-ipblocked": "'''Bé djranni amoun adressi IP [[m:Special:MyLanguage/Global blocks|wikis kloua moun bé sou]].'''\n$1 ($2) yè ô djranni i ô.\nLiké nga ôman ô yé sô yè ''$3''.\n\n* Djranlè i bobolè: $4\n* Djranlè i aviéliè: $5\n\nDô nga sou amoun adressi IP yô lé $6.\nAmoun yatchi, amoun fa ndè nga bé wo nglo wafan moun bé klouaa fa sié i sa klouaa nga amoun woussa noun.\n\nSè amoun boui kè bé sa to fouan li tiè bé djranni amoun, amoun kloua woun ndè ouflè ôni afôtuè [[m:Special:MyLanguage/No open proxies|No open proxies]] i lika klouaa nantilè sou mmla noun. \nAnnzè, sè amoun kounndè koko amoun djranlè i sou djôlè, amoun yatchi [[m:Steward requests/Global|amoun fa amoun sa woussalè bla Meta-Wiki sou]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Proxi serveur koun annzè i kpangban, nga amoun sa woussalè sin noun moun [[m:Special:MyLanguage/Global blocks|ba djran bé lika klouaa wiki sou]].'''\n\n$1 ($2) yè ô djranni i ô.\nLiké nga ôman ô yé sô yè ''$3''.\n\n* Djranlè i bobolè: $4\n* Djranlè i aviéliè: $5\n\nDô nga sou amoun adressi IP yô lé $6.\nAmoun yatchi, amoun fa ndè nga bé wo nglo wafan moun bé klouaa fa sié i sa klouaa nga amoun woussa noun.\n\nSè amoun boui kè bé sa to fouan li tiè bé djranni amoun, amoun kloua woun ndè ouflè ôni afôtuè [[m:Special:MyLanguage/No open proxies|No open proxies]] i lika klouaa nantilè sou mmla noun. \nAnnzè, sè amoun kounndè koko amoun djranlè i sou djôlè, amoun yatchi [[m:Steward requests/Global|amoun fa amoun sa woussalè bla Meta-Wiki sou]].",
 	"wikimedia-statslink": "Ndè i sin kalè",
 	"wikimedia-cookiestatement": "Cookie i sou djôlè"
 }

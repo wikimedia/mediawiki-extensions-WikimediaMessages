@@ -15,7 +15,5 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikibase-sitelinks-wiktionary": "Wikbaatukaay",
-	"wikimedia-developers": "Suqalikat",
-	"wikimedia-globalblocking-ipblocked": "'''Sa màkkaanu IP dañ koo téye [[m:Special:MyLanguage/Global blocks|ci wiki yépp]].'''\n\nKi amal téye gi mooy $1($2)\nNgirte gi mu joxe mooy ''$3''.\n\n*Ndoorteelu téye gi:$4\n*Njeextalu téye gi: $5\n\nNii-nii sa màkkaanu IP mooy $4.\nBépp càkkutéef booy def boolewaale ci xibaar yi ñu bind ci kaw.\n\nSoo jàppee ne dañu laa téye ci njuumte, man nga fekk yeneeni xibaar aki gindikaay ci politig gu daj gu  [[m:Special:MyLanguage/No open proxies|proxy bu ubbeekuwul]]. \nWalla, ngir waxtaanee téye gi, noo ngi lay ñaan nga [[m:Steward requests/Global|yónnee ab càkkutéef ngir ñu seetaat ko ci Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Benn walla ay joxekaay yu proxy dañ leen téye [[m:Special:MyLanguage/Global blocks|fépp]].'''\n\nKi amal téye gi mooy $1($2)\nNgirte gi mu joxe mooy ''$3''.\n\n*Ndoorteelu téye gi:$4\n*Njeextalu téye gi: $5\n\nMàkkaanu proxy giñ téye mooy $6.\nBépp càkkutéef booy def boolewaale ci xibaar yi ñu bind ci kaw.\n\nSoo jàppee ne dañu laa téye ci njuumte, man nga fekk yeneeni xibaar aki gindikaay ci politig gu daj gu  [[m:Special:MyLanguage/No open proxies|proxy bu ubbeekuwul]]. \nWalla, ngir waxtaanee téye gi, noo ngi lay ñaan nga [[m:Steward requests/Global|yónnee ab càkkutéef ngir ñu seetaat ko ci Meta-Wiki]]."
+	"wikimedia-developers": "Suqalikat"
 }

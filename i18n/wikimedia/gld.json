@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Викитакто",
 	"wikibase-sitelinks-wikivoyage": "Викибэлэмди",
 	"wikimedia-developers": "Аӈгой гурун",
-	"wikimedia-globalblocking-ipblocked": "'''IP-адресасу [[m:Special:MyLanguage/Global blocks|хэм вики-проектаду камалихачи]].'''\n\nКамалихачи $1 ($2).\nХайми: ''$3''.\n\n* камалилохачи: $4 \n* халиа ая: $5 \n\nЭси IP-адресасу - $6.\n\nБай туй тахачи осини, тэй страницаду халаосу\n[[m:Special:MyLanguage/No open proxies|прокси-сервераду дёбоми ачаси]] буэ колиди.\n[[m:Steward requests/Global|нирусу, мурчигуачи]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''IP-адресасу [[m:Special:MyLanguage/Global blocks|хэм вики-проектаду камалихачи]].'''\n\nКамалихачи $1 ($2).\nХайми: ''$3''.\n\n* камалилохачи: $4 \n* халиа ая: $5 \n\nЭси IP-адресасу - $6.\n\nБай туй тахачи осини, тэй страницаду халаосу\n[[m:Special:MyLanguage/No open proxies|прокси-сервераду дёбоми ачаси]] буэ колиди.\n[[m:Steward requests/Global|нирусу, мурчигуачи]].",
 	"wikimedia-statslink": "Гой-гой дяка хаду",
 	"wikimedia-cookiestatement": "Кукивэ"
 }

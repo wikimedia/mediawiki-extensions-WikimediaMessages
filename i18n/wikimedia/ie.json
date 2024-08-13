@@ -24,8 +24,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Developatores",
-	"wikimedia-globalblocking-ipblocked": "'''Tui adresse de IP ha esset [[m:Special:MyLanguage/Global blocks|blocat in omni wikis]].'''\n\nLi blocada esset fat per $1 ($2).\nLi rason dat es ''$3''.\n\n* Orígine del blocada: $4\n* Expiration del blocada: $5\n\nTui current adresse de IP es $6.\nPleser includer omni li detallies supra in qualcunc question que vu far.\n\nSi vu crede que vu esset blocat per errore, vu posse constatar additional information e instructiones in li politica global de [[m:Special:MyLanguage/No open proxies|nequant surogates apert]].\nAltrimen, por discusser li blocada pleser [[m:Steward requests/Global|inaugura un petition por revision in Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Un o plu servitores de surogate usat per tui petition es [[m:Special:MyLanguage/Global blocks|globalmen blocat]].'''\n\nLi blocada esset fat per $1 ($2).\nLi rason dat es ''$3''.\n\n* Orígine del blocada: $4\n* Expiration del blocada: $5\n\nLi adresse de surogate blocat esset $6.\nPleser includer omni li detallies supra in qualcunc question que vu far.\n\nSi vu crede que vu esset blocat per errore, vu posse constatar additional information e instructiones in li politica global de [[m:Special:MyLanguage/No open proxies|nequant surogates apert]].\nAltrimen, por discusser li blocada pleser [[m:Steward requests/Global|inaugura un petition por revision in Meta-Wiki]].",
 	"wikimedia-statslink": "Statisticas",
 	"wikimedia-cookiestatement": "Declaration pri cookies"
 }

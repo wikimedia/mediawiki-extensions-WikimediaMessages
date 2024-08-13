@@ -46,8 +46,6 @@
 	"wikibase-sitelinks-sitename-species": "Викифайти",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Википодатки",
 	"wikimedia-developers": "За програмерох",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nзаблокировал/ла Вас $1 ($2).\nПричина: ''$3''.\n\n* Початок блокади: $4\n* Конєц блокади: $5\n\nВаша хвилькова IP адреса $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nЗаблокировал/ла Вас је $1 ($2).\nПричина: ''$3''.\n\n* Початок блокади: $4\n* Конєц блокади: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "Вецей язики",
 	"interlanguage-link-wikipedia": "Википедия",
 	"interlanguage-link-commons": "Викисклад",

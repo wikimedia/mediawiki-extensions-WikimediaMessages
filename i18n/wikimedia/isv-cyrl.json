@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Викиизворник",
 	"wikibase-sitelinks-wikivoyage": "Википутовање",
 	"wikimedia-developers": "Програмисти",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлокада была наложена користником: $1 ($2).\nПодана причина јест: ''$3''.\n\n* Почеток блокады: $4\n* Конец блокады: $5\n\nВаш текучи IP-адрес јест $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокада была наложена користником: $1 ($2).\nПодана причина јест: ''$3''.\n\n* Почеток блокады: $4\n* Конец блокады: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Сообченје о куки"
 }

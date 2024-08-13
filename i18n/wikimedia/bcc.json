@@ -49,8 +49,6 @@
 	"wikibase-sitelinks-wikisource": "ویکی سرچممگ",
 	"wikibase-sitelinks-wikivoyage": "ویکی سئیل",
 	"wikimedia-developers": "دݔمابرۏکان",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nشمارا $1 ($2) ئا بلاک کُتگ پچے کہ شما ''$3'' ءِ کار کُتگ۔\n\n* شمئی بلاک کنگ ءِ بُنگݔجی: $4\n* شمئی بلاک بییگءِ ھلاسی ٹݔم: $5\n\nشمئی ھنیگݔن آیپیءِ ڈس $6 اِنت\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nشمارا $1 ($2) ئا بلاک کُتگ پچے کہ شما ''$3'' ءِ کار کُتگ۔\n\n* شمئی بلاک کنگ ءِ بُنگݔجی: $4\n* شمئی بلاک بییگءِ ھلاسی ٹݔم: $5\n\nشمئی ھنیگݔن آیپیءِ ڈس $7 اِنت\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"right-superprotect": "تغیر داتین  سوپر حپاظتی ین سطحی",
 	"protect-level-superprotect": "تانا اجازه په سوپر حپاظتی ین کار گیروکان",
 	"restriction-level-superprotect": "سوپر حپاظت",

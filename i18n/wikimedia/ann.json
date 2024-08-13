@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisọọs",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyaji",
 	"wikimedia-developers": "Ebi nrom",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nÎre $1 ($2) otap ugban.\nIbot ìre ''$3''.\n\n* Igban ìbene me: $4\n* Igban ìbota me: $5\n\nIP address kwun̄ eyi mgbọ keyi ìre $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nÎre $1 ($2) otap ugban.\nIbot ìre ''$3''.\n\n* Igban ìbene me: $4\n* Igban ìbota me: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Ifuk-ndọmọ",
 	"wikimedia-cookiestatement": "Utumu eyi mbek"
 }

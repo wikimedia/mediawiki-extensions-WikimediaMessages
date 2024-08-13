@@ -22,8 +22,6 @@
 	"wikibase-sitelinks-wikisource": "Wiki bithe i boo",
 	"wikibase-sitelinks-wikivoyage": "Wiki saraxan",
 	"wikimedia-developers": "Ilibusisa",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nere block amaga de araha $1 ($2).\nkūbulin oci ''$3''.\n\n* block be deribun: $4\n* block i wajihangga: $5\n\nne sini IP $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nere block amaga de araha $1 ($2).\nkūbulin oci ''$3''.\n\n* block be deribun: $4\n* block i wajihangga: $5\n\nne sini IP $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Geren ton",
 	"wikimedia-cookiestatement": "Cookie jonombi"
 }

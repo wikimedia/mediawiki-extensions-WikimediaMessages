@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikivoyage": "Викигид",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викидата",
 	"wikimedia-developers": "Зузалтал",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nЛавкьабу дунну дур $1 ($2).\nКкаккан дурса савав: ''$3''.\n\n* дайдихьу лакьабул: $4\n* къуртал даву лакьабул: $5\n\nЗул цӀанасса IP-адрес — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Ца ягу цаппара прокси-серверду, ишла дурса зул цӀуххорив, [[m:Special:MyLanguage/Global blocks|глобально ларкьуссар]].'''\n\nЛакьаву дия дурну $1 ($2).\nКкаккан дурса савав: ''$3''.\n\n* дейдихьу лакьавул: $4\n* къуртал шаву лакьоврил: $5\n\nЛавкьумур прокси-адрес дуя $6.\nМиннатри, лахъара цинав ве биялшавру зулда цӀухашивурдабу.\n\nБалики зу пикри буллей бухьурча, зуба лакьун бушибу хавар бакьулий, бучӀиссар лякъин ххи хунса информациярдуба  инструкциярду чӀапӀул лажинналий  [[m:Special:MyLanguage/No open proxies|КьабучӀисса ишла данса тӀив тӀусса прокси-серверду]].\nЯла, хавар бан цей бухьурча лакьаву, миннатри, [[m:Steward requests/Global|буругияра запросрашал ххал баншуврул Мета-викилин]].",
 	"wikimedia-statslink": "Аьдадрал хавар",
 	"wikimedia-cookiestatement": "КканпӀитӀрал аьрза"
 }

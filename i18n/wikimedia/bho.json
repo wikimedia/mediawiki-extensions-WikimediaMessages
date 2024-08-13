@@ -23,8 +23,6 @@
 	"wikibase-otherprojects-wikidata": "विकिडेटा",
 	"wikibase-sitelinks-sitename-wikidatawiki": "विकिडेटा",
 	"wikimedia-developers": "डेवलपर लोग",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nरोक लगावे वाला $1 ($2).\nदिहल गइल कारन ''$3''.\n\n* रोक के शुरुआत: $4\n* रोक के समाप्ती: $5\n\nराउर वर्तमान आइपी पता $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nरोक (ब्लॉक) लगावे वाला $1 ($2).\nदिहल गइल कारन ''$3''.\n\n* रोक के शुरुआत: $4\n* रोक के समाप्ती: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "आँकड़ा",
 	"wikimedia-cookiestatement": "कुकी इस्टेटमेंट"
 }

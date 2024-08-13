@@ -17,7 +17,5 @@
 	"wikibase-otherprojects-wikidata": "Wikipòdôwczi",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikipòdôwczi",
 	"wikimedia-developers": "Rozwijarze",
-	"wikimedia-globalblocking-ipblocked": "'''Twòjô IP adresa òsta [[m:Special:MyLanguage/Global blocks|zablokòwónô na wszëtczich wiki]].'''\n\nBlokadã założëł $1 ($2).\nPòdónô przëczëna: „$3”.\n\n* Zôczątk blokadë: $4 \n* Kùńc blokadë: $5 \n\nTwòjô akùratnô IP adresa to $6.\nProszã pòdac ne wszëtczé detale w przëtrôfkù zapëtań.\n\nJeżlë jes ti dbë, że blokada pòwsta przez zmiłkã, dobëjesz wicy wëdowiédzë ë jinstrukcëje na starnie globalnych reglów [[m:Special:MyLanguage/No open proxies|Bez òtemkłich serwerów proxy]].\nW jinnym przëtrôfkù, dlô òminiãcô blokadë, [[m:Steward requests/Global|złożë wniosk ò rozpatrzenié twòji sprawë na Meta-wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Jeden abò wicy serwerów proxy ùzëwónych przez ce òstôł [[m:Special:MyLanguage/Global blocks|globalno zblokòwóny]].'''\n\nBlokadã założëł $1 ($2).\nPòdónô przëczëna: „$3”.\n\n* Zôczątk blokadë: $4 \n* Kùńc blokadë: $5 \n\nZblokòwónô adresa proxy to $6.\nProszã pòdac ne wszëtczé detale w przëtrôfkù zapëtań.\n\nJeżlë jes ti dbë, że blokada pòwsta przez zmiłkã, dobëjesz wicy wëdowiédzë ë jinstrukcëje na starnie globalnych reglów [[m:Special:MyLanguage/No open proxies|Bez òtemkłich serwerów proxy]].\nW jinnym przëtrôfkù, dlô òminiãcô blokadë, [[m:Steward requests/Global|złożë wniosk ò rozpatrzenié twòji sprawë na Meta-wiki]].",
 	"wikimedia-cookiestatement": "Ò kùszkach"
 }

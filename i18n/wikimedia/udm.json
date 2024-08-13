@@ -28,8 +28,6 @@
 	"wikibase-otherprojects-wikisource": "Викитека",
 	"wikibase-otherprojects-wikivoyage": "Викигид",
 	"wikimedia-developers": "Лэсьтӥсьёс",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБорӟет лэсьтэмын вал $1 ($2).\nВозьматэм мугез: ''$3''.\n\n* Борӟанлэн кутсконэз: $4 \n* Борӟанлэн йылпумъяськемез: $5 \n\nТӥляд алиез IP-интыпусты — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:викимедиа-быдэсак борӟам-борӟам гожтос-янгыш}}",
-	"wikimedia-globalblocking-ipblocked-xff": "Борӟетэз лэсьтӥз  $1 ($2).\nВозьматэмын мугез: $3.\n* Борӟанлэн кутсконэз: $4\n* Борӟанлэн чаклам дырыз: $5\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n{{int:викимедиа-быдэсак борӟам-борӟам гожтос-янгыш}}",
 	"wikimedia-centralauth-contribs-locked": "Та учётной запись глобально ӵогамын.\nУчке [[m:Special:CentralAuth/$1|огъя учётной записьлэсь даннойёссэ]] пыр-поч информация понна.",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie-файлъёс сярысь положение"

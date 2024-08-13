@@ -156,8 +156,6 @@
 	"upload-more-photos-of-this-monument": "Dalše fota tutoho pomnika nahrać",
 	"createacct-captcha-help-url": "{{ns:Project}}:Konto požadać",
 	"wikimedia-developers": "Wuwiwarjo",
-	"wikimedia-globalblocking-ipblocked": "'''Twoja IP-adresa je so [[m:Special:MyLanguage/Global blocks|na wšěch wikijach zablokowała]].'''\n\nBlokowanje je so wot $1 ($2) přewjedło.\nPodata přičina je \"$3\".\n\n* Spočatk blokowanja: $4\n* Kónc blokowanja: $5\n\nWaša aktualna IP-adresa je $6.\nProšu zapřijmi hornje podrobnosće do wšěch naprašowanjow, kotrež přewjedźeš.\n\nJeli wěriš, zo sy so zmylnje zablokował, móžeš přidatne informacije a instrukcije w globalnej směrnicy [[m:Special:MyLanguage/No open proxies|Žane wočinjene proksy]] namakać. Hewak pósćel prošu [[m:Steward requests/Global|naprašowanje za přepruwowanjom na Meta-Wiki]], zo by blokowanje diskutował.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Jedyn abo wjacore proxy serwery, kotrež wužiwaš je so [[m:Special:MyLanguage/Global blocks|globalnje wuzamknył]].'''\n\nBlokowanje je přewjedł $1 ($2).\nPodata přičina je \"$3\".\n\n* Spočatk blokowanja: $4\n* Kónc blokowanja: $5\n\nWuzamknjena adresa proxy serwera bě $6.\nProšu podaj wšitke podrobnosće we wšěch naprašowanjach, kotrež přewjedźeš.\n\nJeli sej mysliš, zo sy so zmylnje wuzamknył, móžeš přidatne informacije a instrukcije w globalnej směrnicy [[m:Special:MyLanguage/No open proxies|Žane wočinjene proxy serwery]] namakać. Hewak staj prošu [[m:Steward requests/Global|naprašowanje k přepruwowanju na Meta-Wiki]], zo by so blokowanje diskutowało.",
 	"interlanguage-link-mul": "Dalše rěče",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} we wjacorych rěčach",
 	"interlanguage-link-sitename-wikipedia": "Wikipedija, swobodna encyklopedija",

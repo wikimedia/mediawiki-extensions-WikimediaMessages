@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupadoris",
-	"wikimedia-globalblocking-ipblocked": "'''Ant [[m:Special:MyLanguage/Global blocks|siddau in totu is wikis]] s'indiritzu IP tuu.'''\n\nSa frimada dd'at fata $1 ($2).\nS'arraxoni chi at donau est ''$3''.\n\n* Inghitzu de sa frimada: $4\n* Acabbu de sa frimada: $5\n\nS'indiritzu IP tuu atuali est $6.\nPo praxeri indita totu is particularis chi funt innoi asuba in calisisiat pregonta bollast fai.\n\nChi pensas ca t'ant frimau po una faddina, as a podi agatai àterus informus e inditus in is normas globalis [[m:Special:MyLanguage/No open proxies|Perunu server abertu]].\nO sinuncas, po discuti de sa frimada, po praxeri [[m:Steward requests/Global|intrega una pregonta de averigu in Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Unu o prus server proxy imperaus de sa pregonta tua funt [[m:Special:MyLanguage/Global blocks|siddaus apetotu]].'''\n\nSa frimada dd'at fata $1 ($2).\nS'arraxoni chi at donau est ''$3''.\n\n* Inghitzu de sa frimada: $4\n* Acabbu de sa frimada: $5\n\nS'indiritzu proxy siddau est $6.\nPo praxeri indita totu is particularis chi funt innoi asuba in calisisiat pregonta bollast fai.\n\nChi pensas ca t'ant frimau po una faddina, as a podi agatai àterus informus e inditus in is normas globalis [[m:Special:MyLanguage/No open proxies|Perunu server abertu]].\nO sinuncas, po discuti sa frimada, po praxeri [[m:Steward requests/Global|intrega una pregonta de averigu in Meta-Wiki]].",
 	"wikimedia-statslink": "Statìsticas",
 	"wikimedia-cookiestatement": "Decraradura po is cookie de arretza"
 }

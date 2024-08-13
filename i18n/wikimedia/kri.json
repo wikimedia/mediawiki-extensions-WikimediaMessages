@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisɔs",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Devèlòpardèm",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDɛn mek di blɔk bay $1 ( $2 ).\nDi rizin we dɛn gi na '' $3 ''. \n\n* Start fɔ blɔk: $4 \n* Di blɔk dɔn: $5 \n\nYu IP adrɛs naw na $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimidia-globalblɔk-blɔk-tɛks-mistek}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDɛn mek di blɔk bay $1 ( $2 ).\nDi rizin we dɛn gi na '' $3 ''. \n\n* Start fɔ blɔk: $4 \n* Di blɔk dɔn: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blɔk tɛks-inklud-ditel-kwɛshɔn}}\n\n{{int:wikimidia-globalblɔk-blɔktɛks-mistek}}",
 	"wikimedia-statslink": "Statistik dɛn",
 	"wikimedia-cookiestatement": "Kuki stetmɛnt"
 }

@@ -205,8 +205,6 @@
 	"upload-more-photos-of-this-monument": "Unggah foto liyané ngenani monumèn iki",
 	"createacct-captcha-help-url": "{{ns:Project}}:Nyuwun gawèkaké akun",
 	"wikimedia-developers": "Juru pangembang",
-	"wikimedia-globalblocking-ipblocked": "'''Alamat IP panjenengan wis [[m:Special:MyLanguage/Global blocks|dipalang ing kabèh wiki]].'''\n\nPalangan digawé déning $1 ($2).\nJalarané ya iku ''$3''.\n\n* Wiwit dipalang: $4\n* Rampung dipalang: $5\n\nAlamat IP panjenengan saiki ya iku $6.\nKabèh rerincèn ing ndhuwur kudu dituduhaké manawa panjenengan ana pitakon.\n\nYèn panjenengan pracaya sampéyan klèru dipalang, panjenengan bisa golèk katerangan lan panuntun luwih ing wewaton sadonya bab [[m:Special:MyLanguage/No open proxies|larangan proksi kabuka]].\nUtawa, manawa nedya ngrembug bab palangan bisa [[m:Steward requests/Global|ngirim panjaluking ulasan menyang Méta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Paladi proksi sing sampéyan anggo njaluk ulasan [[m:Special:MyLanguage/Global blocks|dipalang ing saindenging donya]].'''\n\nPalangan digawé déning $1 ($2).\nJalarané ya iku ''$3''.\n\n* Wiwit dipalang: $4\n* Rampung dipalang: $5\n\nAlamat IP panjenengan saiki ya iku $6.\nKabèh rerincèn ing ndhuwur kudu dituduhaké manawa panjenengan ana pitakon.\n\nYèn panjenengan pracaya sampéyan klèru dipalang, panjenengan bisa golèk katerangan lan panuntun luwih ing wewaton sadonya bab [[m:Special:MyLanguage/No open proxies|larangan proksi kabuka]].\nUtawa, manawa nedya ngrembug bab palangan bisa [[m:Steward requests/Global|ngirim panjaluking ulasan nyang Méta-Wiki]].",
 	"interlanguage-link-mul": "Basa liyané",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} manéka basa",
 	"interlanguage-link-wikipedia": "Wikipédia",

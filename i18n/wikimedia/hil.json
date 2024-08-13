@@ -67,8 +67,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikibiyahe",
 	"wikimedia-developers": "Mga manugdevelop",
-	"wikimedia-globalblocking-ipblocked": "''Ang imong adres IP [[m:Special:MyLanguage/Global blocks|ginblokear sa tanang wiki]].'''\n\nSi $1 ($2) ang nagblokear.\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nYour current IP address is $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''One or more proxy servers used by your request is [[m:Special:MyLanguage/Global blocks|Ginblokear sa tanang wiki]] ang isa o pila pang serbidor nga gigamit sg imong pangayo.'''\n\nSi $1 ($2) ang nagblokear.\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\nThe blocked proxy address was $6.\nPlease include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
 	"wikimedia-statslink": "Estadistiká",
 	"wikimedia-cookiestatement": "Kasayóran sa Internet cookies"
 }

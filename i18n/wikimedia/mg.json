@@ -85,8 +85,6 @@
 	"wikibase-sitelinks-wikisource": "Wikiloharano",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Mpanitatra",
-	"wikimedia-globalblocking-ipblocked": "'''Ny adiresy IP-nao dia sakanana amin'ny [[m:Special:MyLanguage/Global blocks|wiki rehetra]].'''\n\nNy sakana dia nataon'i $1 ($2).\nNy antony nomeny dia \"$3\".\n\n* Fihatombohan'ny sakana: $4\n* Fitsaharan'ny sakana: $5\n\nNy adiresy IP-nao ankehitriny dia $6.\nRaha heverinao fa nosakanana an-kadisoana ianao, dia ho hitanao ao amin'ny fitsipika momba ny  [[m:Special:MyLanguage/No open proxies|fandavana proxy misokatra]].\nRaha tsy izany, dia afaka miresaka momba ilay sakana ao amin'i [[m:Steward requests/Global|fangataham-panadihadiana ao amin'i Meta-Wiki]] ianao.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''[[m:Special:MyLanguage/Global blocks|voasakana maneran-tontolo]] ny lohamilina proxy iray na mihoatra nampaisain'ny hatakao.'''\n\nNy sakana dia nataon'i $1 ($2).\nNy antony nomena dia ''$3''.\n\n* Fihatombohan'ny sakana: $4\n* Fitsaharan'ny sakana: $5\n\nNy adiresy proxy nosakanana dia $6.\nAmpiaraho amin'ny hataka ho ataonao ny antsipirihiny voalaza eo ambony.\n\nRaha mino ianao fa niharan'ny hadisoana, dia hitanao ao amin'i \nfitsipika maneran-tontolo [[m:Special:MyLanguage/No open proxies|mikasika ny fandavana proxy]]. Raha tsy izany dia [[m:Steward requests/Global|mametraha hata-panadihadiana eo amin'i Meta-Wiki]].",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Filazana momba ny kokizy",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Eny",

@@ -112,8 +112,6 @@
 	"wikibase-otherprojects-wiktionary": "ವಿಕ್ಷನರಿ",
 	"wikibase-otherprojects-wikimania": "ವಿಕಿಮೇನಿಯಾ",
 	"wikimedia-developers": "ಡೆವೆಲಪರ್‌ಗಳು",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ( $2 ) ಅವರಿಂದ ನಿರ್ಬಂಧನೆಯನ್ನು ಮಾಡಲಾಗಿದೆ.\nಕಾರಣ: '' $3 ''. \n\n* ನಿರ್ಬಂಧನೆ ಪ್ರಾರಂಭ: $4 \n* ನಿರ್ಬಂಧದ ಅವಧಿ: $5 \n\nನಿಮ್ಮ ಪ್ರಸ್ತುತ IP ವಿಳಾಸ $6.\nint:blockedtext-include-details\n-queries\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ( $2 ) ಅವರಿಂದ ನಿರ್ಬಂಧನೆಯನ್ನು ಮಾಡಲಾಗಿದೆ.\nಕಾರಣ: '' $3 ''. \n\n* ನಿರ್ಬಂಧನೆ ಪ್ರಾರಂಭ: $4 \n* ನಿರ್ಬಂಧದ ಅವಧಿ: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-sitename-wikipedia": "ವಿಕಿಪೀಡಿಯಾ, ಇದು ಸ್ವತಂತ್ರ ವಿಶ್ವಕೋಶ",
 	"wikimedia-statslink": "ಅಂಕಿ ಅಂಶಗಳು",
 	"wikimedia-cookiestatement": "ಕುಕಿ ಹೇಳಿಕೆ",

@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": " WikiOburigo",
 	"wikibase-sitelinks-wikivoyage": "Wikitambura",
 	"wikimedia-developers": "Abahangu",
-	"wikimedia-globalblocking-ipblocked": "'''IP adreess yawe [[m:Special:MyLanguage/Global blocks|yazibirwa aha wiki zoona]].'''\n\nOkuzibirwa kwakorwa $1 ($2).\nEnshonga eyahebwa ni ''$3''.\n\n* Okutandika kwa okuzibirwa: $4\n* Okuhwayo kwa okuzibirwa: $5\n\nIP address yawe eriho hati ni $6\nTekamu  byoona ebikukwata ahiguru omu bibuzo ebyorakore\n\nWa noyikiriza bakuzibirira omu'nshobi, nobasa kubona erikukyiraho nana endagiriro omu [[m:Special:MyLanguage/No open proxies|No open proxies]] Enkora yensi Yoona. Kwihaho kuhajana aha kuzibirwa [[m:Steward requests/Global|tayo $2 okushaba kwawe ba kureebemu aha Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Mujwekyera eyejunisibwe okushaba kwawe [[m:Special:MyLanguage/Global blocks|ezibirwe omunsi yoona]].'''\n\nOkuzibirwa kwakorwa $1 ($2)\nEnshoga eyahebwa ni ''$3''.\n\n* Okutandika kwa okuzibirwa: $4\n* Okuhwayo kwa okuzibirwa: $5\n\nAddress ya Mujwekyera eyejunisibwe ni $6.\nTekamu byoona ebikukwata ahiguru omu bibuzo bi orakore.\n\nWa noyikiriza bakuzibirira omu'nshobi, nobasa kuronda ebirikukiraho na endagiriro [[m:Special:MyLanguage/No open proxies|No open proxies]] omumateka ga ensi.\nKwihaho, kuhajana aha kuzibirwa [[m:Steward requests/Global|tekayo okushaba kwawe aha kuhinduramu aha Meta-Wiki]].",
 	"wikimedia-statslink": "Ebibazirwe",
 	"wikimedia-cookiestatement": "Eb'ikwata aha kuki"
 }

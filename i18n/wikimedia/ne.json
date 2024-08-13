@@ -101,8 +101,6 @@
 	"wikimedia-taglines-foundationgovwiki": "आधिकारिक विकिमिडिया फाउन्डेसन प्रशासन दस्तावेज",
 	"wikimedia-taglines-foundationsite": "आधिकारिक विकिमिडिया फाउन्डेसनको वेबसाइट",
 	"wikimedia-developers": "विकासकर्ताहरू",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nरोक $1 ($2)द्वारा लागू गरिएको हो।\nयसको कारण '' $3'' हो। \n\n* रोक म्याद सुरुवात: $4 \n* रोक म्याद समाप्ति: $5 \n\nतपाईको हालको आइपी ठेगाना $6 हो।\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''तपाईंको आईपी ठेगानालाई [[m:Special:MyLanguage/Global blocks|सबै विकिहरूमा रोक]] लगाइएको छ ।'''\n\nयो रोक $1 ($2) ले लगाए ।\nकारण : ''$3'' ।\n\n* रोक शुरू: $4\n* रोक बन्द: $5\n\nतपाईंको प्रस्तुत आईपी ठेगाना $6.\nकृपया माथी दिइएका कुराहरूमा आफ्नो सोधपूछमा शामिल गर्नुहोस् ।\n\nयदी तपाईं मान्नु हुन्छ कि यो रोक कुनै गल्तीले भएको हो भने  तपाईं अधिक जानकारी र निर्देश [[m:Special:MyLanguage/No open proxies|ओपेन प्राक्सीस हैन]] विश्वव्यापी नीतिमा पढ्नुहोस् ।\nअथवा, यस रोकको चर्चा [[m:Steward requests/Global|यहाँ गर्नुहोस् र मेटाविकिमा एक नयाँ चर्चा शुरू गर्नुहोस् ]] ।",
 	"interlanguage-link-mul": "थप भाषाहरू",
 	"interlanguage-link-sitename-mul": "बहुभाषिक {{SITENAME}}",
 	"interlanguage-link-wikipedia": "विकिपिडिया",

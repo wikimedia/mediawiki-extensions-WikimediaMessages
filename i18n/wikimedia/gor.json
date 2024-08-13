@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Wikibungo",
 	"wikibase-sitelinks-wikivoyage": "Wikimoleleyangi",
 	"wikimedia-developers": "Ta lomongu",
-	"wikimedia-globalblocking-ipblocked": "'''Alamat IP olemu ma [[m:Special:MyLanguage/Global blocks|diblokir to nga'amila wiki]].'''\n\nPemblokiran pilohutu lo $1 ($2).\nAlasaniliyo yito ''$3''.\n\n*Mulai di blokir: $4\n*Pulitiyo di blokir: $5\n\nAlamat IP olemu sa'ati botiye da'uwito $6.\nMusti popobilohe nga'amila rincian to yitaato to delomo nga'amila yiyintumu.\n\nWonu Yi'o yakini diblokir sababu ja ototala, Yi'o mo'otapu habari duhengiyo wawu potunu to Tinepo global\n [[m:Special:MyLanguage/No open proxies|tanpa proksi terbuka]].\nWonu diila, u mobisala leeye, toduwolo [[m:Steward requests/Global|molawo hihile me'i parakisa to Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Tuwawu meyalo limbata server proksi u pilopohuna to delomo hihilemu [[m:Special:MyLanguage/Global blocks|diblokir to nga'amila wiki wiki]].'''\n\nTa yiloblokir olemu $1 ($2).\nAlasani limongoliyo ''$3''.\n\n* Mulai diblokir: $4\n* Pulitiyo diblokir: $5\n\nAlamat proksi u diblokir de'uwwito $6.\nMusti popobilohe nga'amila rincian to yitaato to delomo yiyintumu.\n\nWonu Yi'o yakini ja ototala diblokir, Yi'o mo'otapu duhengo habari wawu potunu to Tinepo global [[m:Special:MyLanguage/No open proxies|tanpa proksi terbuka]].\nWonu diila, u mobisala leeye, toduwolo [[m:Steward requests/Global|molawo hihile me'iparakisa to Meta-Wiki]].",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Pernyataan kuki"
 }

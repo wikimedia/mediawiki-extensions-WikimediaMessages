@@ -23,8 +23,6 @@
 	"wikibase-otherprojects-wikinews": "Vikixəbəon",
 	"wikimedia-otherprojects-cloudservices": "Vikimedijə Avə xydməton",
 	"wikimedia-developers": "Hozy kardəkəs",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDəbastəše $1 ($2).\nSəbəb: ''$3''.\n\n* Bino karde be: $4\n* Orəxe: $5\n\nŠymə ysətnə IP-adres: — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDəbastəše $1 ($2).\nSəbəb: ''$3''.\n\n* dəbaste bino bıə: $4 \n* dəbaste obərəxe: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Kuki barədə"
 }

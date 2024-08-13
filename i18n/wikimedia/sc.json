@@ -22,8 +22,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-otherprojects-cloudservices": "Servìtzios de Nue de Wikimedia",
 	"wikimedia-developers": "Isvilupadores",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nSu blocu l'at fatu $1 ($2).\nSa resone frunida est ''$3''.\n\n* Incumintzu de su blocu: $4\n* Iscadèntzia de su blocu: $5\n\nS'indiritzu IP atuale tuo est $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSu blocu l'at fatu $1 ($2).\nSa resone frunida est ''$3''.\n\n* Incumintzu de su blocu: $4\n* Iscadèntzia de su blocu: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Istatìsticas",
 	"wikimedia-cookiestatement": "Decraratzione in subra de sos testimòngios"
 }

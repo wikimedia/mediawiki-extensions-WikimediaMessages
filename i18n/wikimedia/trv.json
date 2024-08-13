@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Skuan patas Wiki",
 	"wikibase-sitelinks-wikivoyage": "Powda qmita Wiki",
 	"wikimedia-developers": "Seejiq mnda plealay qmqah",
-	"wikimedia-globalblocking-ipblocked": "'''Meysa dmuuy su da kingal aji uri o lala sspug kingal pririh suhuchi, wada powda [[m:Special:MyLanguage/Global blocks|qtaan kana hmuk]].'''\n\nPaah $1 ($2) hmuk.\nPusu asaw ''$3''.\n\n* Hmuk prajing jiyax: $4\n* Hmuk mnhdu jiyax: $5\n\nIsu sayang ka ga niqan IP asaw $6.\nAna manu qnpahan suu ana manu meysa, powda pqita rnngaw saw brah pngkla.\n\nNasi su saw kiya su yaa bi bi powda mqnuqu hmuk, isu mtduwa ka [[m:Special:MyLanguage/No open proxies|hmtur dmuuy rmawah pririh]] pqita qmangaw kingal Qatar duri pniyahan kari ni pgkla quri.\nAji uri o, powda nii [[m:Steward requests/Global|Meta-Wiki meysa qmita]] pprngaw hmuk pusu.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Meysa su dmuuy kingal aji uri o lala sspug kingal pririh suhuchi, wada powda [[m:Special:MyLanguage/Global blocks|qtaan kana hmuk]].'''\nPaah $1 ($2) hmuk.\nPusu asaw ''$3''.\n\n* Prajing jiyax hmuk: $4\n* Mnhdu jiyax hmuk: $5\n\nIsu sayang ka ga niqan IP asaw $6.\nAna manu qnpahan su ana manu meysa, powda pqita rnngaw saw brah pngkla.\n\nNasi su saw kiya isuu yaa bi powda mqnuqu hmuk, mtduwa su mniq [[m:Special:MyLanguage/No open proxies|hmtur dmuuy rmawah pririh]] pqita qmangaw kingal Qatar pnyahan kari ni pgkla quri.\nAji uri o, powda nii [[m:Steward requests/Global|Meta-Wiki meysa qmita]] pprngaw pusu hmuk.",
 	"wikimedia-statslink": "spuun kana",
 	"wikimedia-cookiestatement": "Cookie patas dmayaw pgkla"
 }

@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "Vikitekstiq",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Edendäjäq",
-	"wikimedia-globalblocking-ipblocked": "'''Suq puutri võrgoaadrõs [[m:Special:MyLanguage/Global blocks|kõigin vikiden kinniq peet]].'''\n\nKinniqpitäi: $1 ($2).\nPõhjus: ''$3''.\n\n* Kinnipidämisaig: $4\n* Kinniqpidämine lõpõs: $5\n\nSuq parhillanõ puutri võrgoaadrõs om $6.\nOlõq hää, näütäq ülevän tuuduid ütsikasjo kõigin perräküsümiisin, midä tiit.\n\nKu usut, et sinno om ilma as'anda kinniq peet, lövvät lisateedüst ja oppuisi [[m:Special:MyLanguage/No open proxies|vallaliidsi  proksidõ kiildmimist]] puudutavast vikidõvaihõlidsõst säädüisikogost.\nMuul juhul [[m:Steward requests/Global|saadaq pallõsi kinniqpidämise arotamisõs pallõminõ]], miä metavikin üle kaias.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Vähämbält üts suq perräküsümisen pruugituist proksiserveriist om [[m:Special:MyLanguage/Global blocks|kõigin vikiden kinniq peet]].'''\n\nKinniqpitäi: $1 ($2).\nPõhjus: ''$3''.\n* Kinniqpidämisaig: $4\n* Kinniqpidämise lõpp: $5\nKinniqpeet proksiaadrõs oll' $6.\n\nOlõq hää, panõq üleväntuuduq ütsikas'aq mano kõigilõ perräküsümiisile, miä sa tiit.\n\nKu usut, et sinno om kinniq peet ilma as'andaq, lövvät lisateedüst ja säädüisi [[m:Special:MyLanguage/No open proxies|vallaliidsi proksidõ kiildmist]] puututavast vikidevaihõlidsõst säädüisikogost.\nMuul juhul [[m:Steward requests/Global|kirodaq metavikihte kinniqpidämise arotamisõ taotlus]].",
 	"wikimedia-statslink": "Statistiga",
 	"wikimedia-cookiestatement": "Prännikidõ teedäqandminõ"
 }

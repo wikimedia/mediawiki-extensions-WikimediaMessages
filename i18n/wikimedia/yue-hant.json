@@ -124,8 +124,6 @@
 	"wikibase-sitelinks-sitename-species": "維基物種",
 	"cant-delete-main-page": "你刪唔到、郁唔到頭版。",
 	"wikimedia-developers": "開發人員",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n由$1（$2）封鎖。\n理由係''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖完結時間：$5\n\n您而家嘅IP地址係$6。\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n由$1（$2）封鎖，\n理由係''$3''。\n\n* 封鎖開始時間：$4\n* 封鎖完結時間：$5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "多啲話",
 	"interlanguage-link-sitename-mul": "有多種話{{SITENAME}}",
 	"interlanguage-link-wikipedia": "維基百科",

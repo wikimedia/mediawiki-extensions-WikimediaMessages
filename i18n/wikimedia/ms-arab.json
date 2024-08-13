@@ -58,8 +58,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويکيداتا",
 	"createacct-captcha-help-url": "{{ns:Project}}:موهون اکاءون",
 	"wikimedia-developers": "ڤمباڠون",
-	"wikimedia-globalblocking-ipblocked": "'''علامت اءي. ڤي. اندا تله [[m:Special:MyLanguage/Global blocks|دسکت   دکسموا ويکي]].'''\n\nسکتن دلاکوکن اوليه $1 ($2).\nسبب دبري اياله ''$3''.\n\n* مولا سکتن: $4\n* تمت سکتن: $5\n\nعلامت اءي. ڤي. سماس اندا اياله $6.\nسيلا سرتاکن سموا ڤرينچين دأتس دالم سبارڠ ڤرتاڽاءن.\n\nجک اندا راس ترساله دسکت، اندا بوليه منداڤت معلومت دان ڤتونجوق تمبهن دالم داسر سجاݢت [[m:Special:MyLanguage/No open proxies|تياد ڤروکسي تربوک]].\nسلاءين ايت، اونتوق ممبينچڠکن سکتن اين سيلا [[m:Steward requests/Global|کيريم ڤرموهونن اونتوق دکاجي سمولا دمتا-ويکيi]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''ساتو اتاو لبيه ڤلاين ڤروکسي دݢونا اوليه ڤرموهونن اندا [[m:Special:MyLanguage/Global blocks|gدسکت سجاݢت]].'''\n\nسکتن دلاکوکن اوليه $1 ($2).\nسبب دبري اياله ''$3''.\n\n* مولا سکتن: $4\n* تمت سکتن: $5\n\nعلامت ڤروکسي يڠ دسکت اياله $6.\nجک اندا ايڠين ممبوات سبارڠ ادوان، سيلا سرتاکن سموا بوتيرن دأتس.\n\nجک اندا ڤرچاي بهاوا اندا ترساله دسکت، اندا بوليه منچاري معلومت دان ارهن تمبهن دالم داسر سجاݢت [[m:Special:MyLanguage/No open proxies|تياد ڤروکسي تربوک]].\nسلاءين ايت، اونتوق ممبينچڠکن سکتن سيلا [[m:Steward requests/Global|کيريم ڤرمينتاءن اونتوق دکاجي سمولا دمتا-ويکي]].",
 	"interlanguage-link-wikipedia": "ويکيڤيديا",
 	"interlanguage-link-sitename-wikipedia": "ويکيڤيديا، اينسيکلوڤيديا بيبس",
 	"interlanguage-link-commons": "ويکيميديا کومن‌س",

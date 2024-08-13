@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "維基藏書樓",
 	"wikibase-sitelinks-wikivoyage": "维基导游",
 	"wikimedia-developers": "开发者",
-	"wikimedia-globalblocking-ipblocked": "'''尔亇IP地址已经[[m:Special:MyLanguage/Global blocks|在所有维基网站被封禁]]。'''\n\n啯封禁是$1（$2）设置亇。给出亇原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n尔目前亇IP地址是$6。请在尔提出亇任何质疑中包括以上所有信息。\n\n如果尔认为尔被错误地封禁，尔可以在[[m:Special:MyLanguage/No open proxies|唔要使用开放代理]]全域方针找到更多信息跟噠指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论啯次封禁。",
-	"wikimedia-globalblocking-ipblocked-xff": "'''尔亇访问请求所使用亇一只或多只代理服务器被[[m:Special:MyLanguage/Global blocks|全域封禁]]。'''\n\n啯封禁是$1（$2）设置亇。给出亇原因是''$3''。\n\n* 封禁开始时间：$4\n* 封禁到期时间：$5\n\n被封禁亇代理服务器地址是$6。请在尔提出亇任何质疑中包括以上所有信息。\n\n如果尔认为尔被错误封禁，尔可以在[[m:Special:MyLanguage/No open proxies|唔要使用开放代理]]全域方针找到更多信息跟噠指导。另外，请[[m:Steward requests/Global|在元维基发表复审请求]]讨论啯次封禁。",
 	"wikimedia-statslink": "统计",
 	"wikimedia-cookiestatement": "Cookie声明"
 }

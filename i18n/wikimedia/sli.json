@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Entwickler",
-	"wikimedia-globalblocking-ipblocked": "'''Denne IP-Adresse wurde [[m:Special:MyLanguage/Global blocks|uff alla Wikis gesperrt]].'''\n\nDe Sperre wurde durchgefiehrt vu $1 ($2).\nDe oagegebene Begrindung ies ''$3''.\n\n* Beginn der Sperre: $4\n* Obloof der Sperre: $5\n\nDenne aktuelle IP-Adresse ies $6.\nBitte gib olle obign Details ei olla gemachta Oafroaga oa.\n\nWenn du gloobst, dass de Sperre a Fehler ies, koast du zusätzliche Informationen und Hilfestellunga ei der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Keine offenen Proxys]]“ finda.\nAndernfolls stalle bitte [[m:Steward requests/Global|eine Anfrage im Meta-Wiki]], im de Sperre zu diskuriren.",
-	"wikimedia-globalblocking-ipblocked-xff": "'''A oder mehrere Proxyserver, de vu denner Oafroage verwendet waan, ies [[m:Special:MyLanguage/Global blocks|global gesperrt]].'''\n\nDe Sperre wurde durchgefiehrt vu $1 ($2).\nDe oagegebene Begrindung ies ''$3''.\n\n* Beginn der Sperre: $4\n* Obloof der Sperre: $5\n\nDe gesperrte Proxyadresse war $6.\nBitte gib olle obiga Details ei olla gemachta Oafroaga oa.\n\nWenn du gloobst, dass de Sperre a Fehler ies, koast du zusätzliche Informationen und Anweisunga ei der globalen Richtlinie „[[m:Special:MyLanguage/No open proxies|Kenne uffena Proxys]]“ finda.\nAndernfolls stalle bitte [[m:Steward requests/Global|anne Priefoafrooge eim Meta-Wiki]], im de Sperre zu diskuriren.",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Stellungnoahme zu Cookies"
 }

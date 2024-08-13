@@ -12,8 +12,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupature",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBloku ju bu te $1 ($2).\nPër ''$3''.\n\n* Zufill te: $4\n* Soset te: $5\n\nNdirizzi IP ësht $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBloku ju bu te $1 ($2).\nPër ''$3''.\n\n* Zufill te: $4\n* Soset te: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistike",
 	"wikimedia-cookiestatement": "Diqarazjun mi li cookie"
 }

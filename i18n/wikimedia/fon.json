@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Nulɛnmɔzɔwatɔ lɛ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n$6 wɛ nyi mɛsɔxlɛ wekwin mitɔn.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) wɛ ɖo alɔ té na.\nNu é wutu wɛ ɔ ɖyé ''$3''.\n\n* Alɔ ɖo té ɔ sin: $4\n* Alɔ ɖo té ɔ na fo ɖo: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Nu lilɛn lɛ",
 	"wikimedia-cookiestatement": "Nu é kan kooki lɛ é"
 }

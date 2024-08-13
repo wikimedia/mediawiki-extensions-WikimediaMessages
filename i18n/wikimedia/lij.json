@@ -41,8 +41,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikiviâgi",
 	"wikibase-otherprojects-wikisource": "Wikivivàgna",
 	"wikimedia-developers": "Svilupatoî",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nO blòcco o l'é stæto ezegoîo da $1 ($2).\nA raxón dæta a l'é ''$3''.\n\n* Prinçìpio do blòcco: $4\n* Fìn do blòcco: $5\n\nO tò indirìsso IP atoâle o l'é $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nO blòcco o l'é stæto ezegoîo da $1 ($2).\nA raxón dæta a l'é ''$3''.\n\n* Prinçìpio do blòcco: $4\n* Fìn do blòcco: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-centralauth-contribs-locked": "Sto uténte o l'é blocòu globalménte.\nVéddi i [[Special:CentralAuth/$1|detàggi de l'uténza globâle]] pe ciù informaçioìn.",
 	"wikimedia-statslink": "Statìstiche",
 	"wikimedia-cookiestatement": "Diciaraçión in scî cookie"

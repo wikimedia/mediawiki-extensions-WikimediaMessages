@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "ꠃꠁꠇꠤꠎꠠ",
 	"wikibase-sitelinks-wikivoyage": "ꠃꠁꠇꠤꠎꠣꠔ꠆ꠞꠣ",
 	"wikimedia-developers": "ꠃꠘ꠆ꠘꠔꠤ ꠇꠞ꠆ꠞꠣ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nꠛ꠆ꠟꠇ ꠁꠇꠣꠘ $1 ($2)-ꠄ ꠝꠣꠞꠍꠤꠟ।\nꠈꠣꠞꠘ ꠅꠁꠟꠧ ꠉꠤꠀ ''$3''।\n\n* ꠛ꠆ꠟꠇ ꠡꠥꠞꠥ: $4\n* ꠛ꠆ꠟꠇ ꠡꠦꠡ ꠅꠁꠛꠧ: $5\n\nꠀꠚꠘꠣꠞ ꠅꠘꠇꠥꠞ ꠀꠁꠙꠤ ꠑꠤꠇꠣꠘꠣ $6।\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nꠛ꠆ꠟꠇ ꠁꠇꠣꠘ $1 ($2)-ꠄ ꠈꠞꠍꠤꠟꠣ।\nꠈꠣꠞꠘ ꠅꠁꠟꠧ ꠉꠤꠀ ''$3''।\n\n* ꠛ꠆ꠟꠇ ꠡꠥꠞꠥ: $4\n* ꠛ꠆ꠟꠇ ꠡꠦꠡ ꠅꠁꠛꠧ: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "ꠉꠘꠣ",
 	"wikimedia-cookiestatement": "ꠉꠥꠙꠘ ꠈꠛꠞ ꠘꠤꠛꠣꠞ ꠇꠕꠣ",
 	"readinglists-list-empty-message": "ꠃꠁꠇꠤꠙꠤꠒꠤꠀ ꠄꠙ ꠁꠘꠍ꠆ꠐꠟ ꠇꠞꠟꠦ ꠁ ꠟꠤꠍ꠆ꠐ ꠢꠣꠞꠣꠁꠔꠣ ꠙꠣꠞꠛꠣ"

@@ -15,8 +15,6 @@
 	"wikibase-sitelinks-wikisource": "ဝီကီအရင်းမြစ်",
 	"wikibase-sitelinks-wikivoyage": "ဝီကီခရီးသွား",
 	"wikimedia-developers": "တီထွင်ဖန်တီးရေလူတိ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nဘလောက်ကို $1 ($2)နန့် ပြုလုပ်ခရေ။\nအကြောင်းပြချက်က ''$3'' ဖြစ်ရေ။\n\n* ပိတ်ဆို့ခြင်းဧ့အစ- $4\n* ဘလောက်ဧသက်တမ်းကုန်ဆုံးရက်- $5\n\nမင်းလက်ဟိ IP လိပ်စာစွာ $6 ဖြစ်ရေ။\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nဘလောက်ကို $1 ($2)နန့် ပြုလုပ်ခရေ။\nအကြောင်းပြချက်က ''$3'' ဖြစ်ရေ။\n\n* ပိတ်ဆို့ခြင်းဧ့အစ- $4\n* ဘလောက်ဧ့သက်တမ်းကုန်ဆုံးရက်- $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "စာရင်းအင်း",
 	"wikimedia-cookiestatement": "ကွတ်ကီး ထုတ်ပြန်ချက်",
 	"ext-campaignevents-register-policy": "မှတ်တမ်းတင်ခြင်းဖြင့် ဒေအရာတိကိုသဘောတူရေ\nBy registering, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy], [https://foundation.wikimedia.org/wiki/Universal_Code_of_Conduct Universal Code of Conduct] and any local Friendly Space Policy provided by the event organizers."

@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "ဝီႇၶီႇငဝ်ႈငႃႇ",
 	"wikibase-sitelinks-wikivoyage": "ဝီႇၶီႇဝွႆးဢဵတ်ႇꩡ်",
 	"wikimedia-developers": "ၽူႈၶူင်သၢင်ႈ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nလွင်ႈႁႄႉတတ်းၼႆႉ $1 ($2) ၵေႃႉႁဵတ်းဝႆႉ။\nလွင်ႈတၢင်းမၼ်း ဢၼ်လႆႈပၼ်ဝႆႉတႄႉ ပဵၼ် ''$3''။\n\n* တႄႇ လွင်ႈႁႄႉတတ်း : $4\n* ဝၼ်းသုတ်းသဵင်ႈ လွင်ႈႁႄႉတတ်း : $5\n\nႁဵၼ်းလိၵ်ႈ ဢၢႆႇပီႇၸဝ်ႈၵဝ်ႇယၢမ်းလဵဝ် ၼႆႉ ပဵၼ် $6 ။\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nလွင်ႈႁႄႉတတ်းၼႆႉ $1 ($2) ၵေႃႉႁဵတ်းဝႆႉ။\nလွင်ႈတၢင်းမၼ်း ဢၼ်ပၼ်ဝႆႉတႄႉ ပဵၼ် ''$3''။\n\n* တႄႇ လွင်ႈႁႄႉတတ်း : $4\n* ဝၼ်းသုတ်းသဵင်ႈ လွင်ႈႁႄႉတတ်း : $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "သဵၼ်ႈသၢႆမၢႆ",
 	"wikimedia-cookiestatement": "ၶေႃႈပိုၼ်ၽၢဝ်ႇ ၶူၵ်ႉၶီး"
 }

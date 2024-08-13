@@ -20,6 +20,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-captcha-help-url": "{{ns:Project}}:Bílegg eina konto",
 	"wikimedia-developers": "Mennarar",
-	"wikimedia-globalblocking-ipblocked": "'''Tín IP adressa er blivin [[m:Special:MyLanguage/Global blocks|sperrað á øllum wikium]].'''\n\nSperringin var framd av $1 ($2).\nOrsøkin verður søgd at vera ''$3''.\n\n* Byrjan av sperring: $4\n* Sperringin gongur út: $5\n\nTín núverandi IP adressa er $6.\nVinarliga tak allar hesar upplýsingar við í fyrispurningum, ið tú møguliga hevur.\n\nUm tú heldur, at tað var ein feilur at tú bleiv sperrað/ur, so kanst tú finna aðra kunning og leiðbeining í alheims mannagongdunum  [[m:Special:MyLanguage/No open proxies|Ongar opnar proxiir]].\nAnnars, fyri at kjakast um sperringina vinarliga [[m:Steward requests/Global|send eina umbøn til endurskoðan á Meta-Wiki]].",
 	"wikimedia-help-translate-prompt": "Vilt tú hjálpa við at týða? [$1 Umset tey manglandi boðini]."
 }

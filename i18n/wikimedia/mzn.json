@@ -29,8 +29,6 @@
 	"wikibase-sitelinks-sitename-species": "ویکی‌زیست",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ویکی‌دیتا",
 	"wikimedia-developers": "گت‌کَرون",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nقطع دسترسی و دَوِستن ره $1 ($2) انجام هدا.\nونه دلیل این بی‌یه که ''$3''.\n\n* شروع: $4\n* اتمام: $5\n\nشمه آی‌پی اسا $6 هسته.\n{{int:blockedtext-include-details\n-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext\n-on-proxy}}'''\n\nقطع دسترسی ره $1 انجام هدائه ($2).\nونه دلیل «$3» بی‌یه.\n\n* قطع دسترسی ِشروع: $4\n* قطع دسترسی ِتوم بیّن: $5\n\n{{int:globalblocking\n-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-commons": "ویکی‌تلمبار",
 	"wikimedia-statslink": "آمار",
 	"wikimedia-cookiestatement": "کوکی خَوِری"

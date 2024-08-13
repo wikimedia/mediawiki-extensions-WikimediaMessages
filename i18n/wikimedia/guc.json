@@ -14,8 +14,6 @@
 	"wikibase-sitelinks-wikisource": "Wikiekirajaaya",
 	"wikibase-sitelinks-wikivoyage": "WikiO'unajawaa",
 	"wikimedia-developers": "Na akumajüliikana",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nA'alijitnüsü pünülia natuma $1 ($2).\nSüka jamüin ''$3''.\n\n* A'alijitneerü pünüliayaasüka sünainjee: $4\n* Jutateerü suchukuwa'a tü pünüliayaasüka sünainjee: $5\n\nTü püyaawaseka IP shia $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nThe block was made by $1 ($2).\nThe reason given is ''$3''.\n\n* Start of block: $4\n* Expiry of block: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Ayaawajia",
 	"wikimedia-cookiestatement": "Pütchi saa'uje ayaatütchon"
 }

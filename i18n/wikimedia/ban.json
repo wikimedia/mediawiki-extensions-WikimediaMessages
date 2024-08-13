@@ -229,8 +229,6 @@
 	"upload-more-photos-of-this-monument": "Unggah malih potrék saking monumen puniki",
 	"createacct-captcha-help-url": "{{ns:Project}}:Nunas kakardiang akun",
 	"wikimedia-developers": "Juru nglimbakang",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nSané ngempet inggih punika $1 ($2).\nSané ngawinan asapunika ''$3''.\n\n* Awit kaempet: $4\n* Usan kaempet: $5\n\nAlamat IP ragané sané mangkin inggih punika $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSané ngawé kablokir inggih punika $1 $2\nSané ngawinan asapunika ''$3''.\n\n*Ngawit kablokir: $4\n*Kedaluarsa blokir: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Awig-awig indik data paragan]",
 	"interlanguage-link-mul": "Basa liyanan",
 	"interlanguage-link-sitename-mul": "{{SITENAME}} Multibasa",

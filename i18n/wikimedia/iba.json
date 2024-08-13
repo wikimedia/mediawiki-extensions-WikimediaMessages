@@ -12,8 +12,6 @@
 	"wikibase-sitelinks-wikisource": "Wikibunsu",
 	"wikibase-sitelinks-wikivoyage": "Wikilayar",
 	"wikimedia-developers": "Pengerembai",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nAlit digaga $1 ( $2 ).\nKebuah ti diberi '' $3 ''. \n\n* Pemungkal alit: $4 \n* Pengambis alit: $5 \n\nAdress IP nuan ke maya tu nya $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nAlit digaga $1 ($2).\nKebuah diberi ''$3''. \n\n* Pemungkal alit: $4 \n* Pengabis alit: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Jaku kue"
 }

@@ -13,7 +13,5 @@
 	"wikibase-sitelinks-wikiquote": "Wikikuot‎",
 	"wikibase-sitelinks-wikisource": "Wikisuos‎",
 	"wikibase-sitelinks-wikivoyage": "Wikivayij‎",
-	"wikimedia-developers": "Developer",
-	"wikimedia-globalblocking-ipblocked": "'''Yu IP ajres get [[m:Special:MyLanguage/Global blocks|blak pah aal wiki]].'''\n\nDi blak eh mek bai $1 ($2).\nDi riizn deh gi a ''$3''.\n\n* Taat a blak: $4\n* Expairi a blak: $5\n\nYu korant IP ajres a $6.\nPliiz ingkluud aal tapsaid ditiel ina eni kueri yu mek.\n\nEf yu biliiv se yu get blak bai mistiek, yu kiah fain adishanal infamieshan ah inschrokshan ina di [[m:Special:MyLanguage/No open proxies|No uopm praxi]] gluobal palisi.\nAdawaiz, fi diskos di blak pliiz [[m:Steward requests/Global|puos rikues fi rivyuu pah Meta-Wiki]].‎",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Wan ar muo praxi saaba yuuz bai yu rikues get [[m:Special:MyLanguage/Global blocks|gluobali blak]].'''\n\nDi blak eh mek bai $1 ($2).\nDi riizn deh gi a ''$3''.\n\n* Taat a blak: $4\n* Expairi a blak: $5\n\nDi blak praxi ajres eh $6.\nPliiz ingkluud aal ditiel tapsaid ina eni kueri yu mek.\n\nEf yu biliib se yu get blak bai mistiek, yu kiah fain adishanal infamieshan ah inschrokshan ina di [[m:Special:MyLanguage/No open proxies|No uopm praxi]] gluobal palisi.\n\nAdawaiz, fi diskos di blak pliiz [[m:Steward requests/Global|puos rikues fi rivyuu pah Meta-Wiki]].‎Edita"
+	"wikimedia-developers": "Developer"
 }

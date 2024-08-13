@@ -13,7 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Ŵalembi",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nWakubuloka wakaŵa $1 ($2).\nChifukwa ntchakuti ''$3''.\n\n* Kwamba kwa kubuloka: $4\n* Kumala kwa kubuloka: $5\n\nIP adilesi yinu yasono ni $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Viŵelengelo",
 	"wikimedia-cookiestatement": "Chilolelezo chinu"
 }

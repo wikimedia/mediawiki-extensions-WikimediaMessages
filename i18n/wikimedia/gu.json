@@ -173,8 +173,6 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "વિકિડેટા",
 	"cant-delete-main-page": "તમે મુખ્ય પાનાંને દૂર કરી અથવા ખસેડી શકશો નહી.",
 	"wikimedia-developers": "ડેવલપર્સ",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nઆ પ્રતિબંધ $1 ($2) દ્વારા લગાવાયો છે.\nતે માટેનું કારણ ''$3'' છે.\n\n* પ્રતિબંધની શરૂઆત: $4\n* પ્રતિબંધની સમાપ્તિ: $5\n\nતમારૂ આઇપી સરનામું $6 છે.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nઆ પ્રતિબંધ $1 ($2) દ્વારા લગાવાયો હતો.\nતે માટેનું કારણ ''$3'' છે.\n\n* પ્રતિબંધની શરુઆત: $4\n* પ્રતિબંધની સમાપ્તિ: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "વધુ ભાષાઓ",
 	"interlanguage-link-sitename-mul": "બહુભાષી {{SITENAME}}",
 	"interlanguage-link-wikipedia": "વિકિપીડિયા",

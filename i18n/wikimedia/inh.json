@@ -63,8 +63,6 @@
 	"wikibase-otherprojects-wikipedia": "Википеди",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викидараш",
 	"wikimedia-developers": "Кийчдархой",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлок техай $1 ($2).\nБелгалдаьккха бахьан: ''$3''.\n\n* Блок тохар доладеннад: $4 \n* Блок тохар чакхдоалл: $5 \n\nХьа хӀанзара IP-цӀай — $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлок техай доакъашхочо $1 ($2).\nБелгалдаьккха бахьан: ''$3''.\n\n* Блок тохар доладаьд: $4 \n* Блок тохар йистедоалл: $5 \n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-wikipedia": "Википеди",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie лаьца баь барт"

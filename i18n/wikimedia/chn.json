@@ -13,8 +13,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "kʰanawi humhum-mashin-tilixam",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) mamuk-x̣auqaɬ-mamuk-ts'əm maika, qiwa: \"$3\".\n\n* Ukuk chako yakwa: $4\n* Ukuk ɬatwa saya: $5\n\nMaika IP-k'winin-ikta $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n$1 ($2) mamuk-x̣auqaɬ-mamuk-ts'əm maika, qiwa: \"$3\".\n\n* Ukuk chako yakwa: $4\n* Ukuk ɬatwa saya: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "k’winin-ikta",
 	"wikimedia-cookiestatement": "hayash wawa pus libiskwi"
 }

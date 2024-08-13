@@ -16,8 +16,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Svilupadëures",
-	"wikimedia-globalblocking-ipblocked": "'''Tüa misciun IP é gnüda [[m:Special:MyLanguage/Global blocks|blocada globalmënter]].'''\n\nLa blocada é gnüda fata da $1 ($2).\nLa motivaziun dan man é ''$3''.\n\n* Mëte man dla blocada: $4\n* Fin dla blocada: $5\n\nTüa misciun IP atuala é $6.\nPrëibel dá ite düc i detais dessura te dötes les domandes che fejes.\n\nSce arates da ester gnü bloché por n fal, pos ciafé deplü informaziuns tla policy globala [[m:Special:MyLanguage/No open proxies|Degügn proxies daverc]].\nPor daurí na desciusciun en cunt de tüa blocada pos [[m:Steward requests/Global|dé ite na domanda da ciaré do sön Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Un o deplü server utilisá por tüa archirida é gnüs [[m:Special:MyLanguage/Global blocks|blocá globalmënter]].'''\n\nLa blocada é gnüda fata da $1 ($2).\nLa motivaziun dan man é ''$3''.\n\n* Mëte man dla blocada: $4\n* Fin dla blocada: $5\n\nLa misciun proxy blocada é $6.\nDá ite düc i detais dessura te dötes les domandes che fejes.\n\nSce arates che es gnü bloché por n fal, pos ciafé deplü informaziuns tla policiy globala [[m:Special:MyLanguage/No open proxies|Degügn proxies daverc]].\nPor daurí na descusciun en cunt dla blocada pos[[m:Steward requests/Global|dé ite na domanda da ciaré do sön Meta-Wiki]].",
 	"wikimedia-statslink": "Statistiches",
 	"wikimedia-cookiestatement": "Declarazion sui cookie"
 }

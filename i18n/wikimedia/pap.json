@@ -15,7 +15,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Desaroyadó tékniko",
-	"wikimedia-globalblocking-ipblocked": "'''Bo direkshon di IP ta [[m:Special:MyLanguage/Global blocks|blòkiá na tur wiki]].'''\n\n$1 ($2)a hasi e blòkeo.\nSu motibu ta ''$3''.\n\n* Kuminsamentu di e blòkeo: $4\n* E blòkeo ta kaduká: $5\n\nBo direkshon aktual di IP  IP ta $6.\nPor fabor inkluí tur e detayenan menshoná ariba den kualke pregunta ku bo hasi.\n\nSi bo ta kere ku a blòkiabo eroneamente bo por haña informashon adishonal i instrukshon den e manego global [[m:Special:MyLanguage/No open proxies|prohibishon di proxies habrí]] \nDen otro kaso, pa diskutí e blòkeo, por fabor [[m:Steward requests/Global|entregá un petishon di revishon na Meta-Wiki]].",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Deklarashon tokante cookies"
 }

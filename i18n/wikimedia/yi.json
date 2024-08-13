@@ -167,8 +167,6 @@
 	"upload-more-photos-of-this-monument": "ארויפֿלאָדן נאך פֿאטאגראַפֿיעס פון דעם מאנומענט",
 	"createacct-captcha-help-url": "{{ns:Project}}:בעטן א קאנטע",
 	"wikimedia-developers": "אנטוויקלער",
-	"wikimedia-globalblocking-ipblocked": "'''אייער IP-אדרעס איז געווארן   [[m:Special:MyLanguage/Global blocks|בלאקירט אויף אלע וויקיס]].'''\n\nדעם בלאק האט געמאכט $1 ($2).\nדי געגעבענע אורזאך איז ''$3''.\n\n* אנהייב פון בלאק: $4\n* אפ לויף פון בלאק: $5\n\nאייער אקטועלער current IP-אדרעס $6.\nזייט אזוי גוט include all above details in any queries you make.\n\nIf you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/No open proxies|No open proxies]] global policy.\nOtherwise, to discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''איינער אדער מערערע פראקסי סארווערס געניצט דורך אייער בקשה איז געווארן   [[m:Special:MyLanguage/Global blocks|בלאקירט גלאבאל]].'''\n\nדעם בלאק האט געמאכט $1 ($2).\nדי געגעבענע אורזאך איז ''$3''.\n\n* אנהייב פון בלאק: $4\n* אפ לויף פון בלאק: $5\n\nבלאקירט ער פראקסי-אדרעס איז געווען $6.\nזייט אזוי גוט שליסט איין אלע אויבנדיקע פרטים אין יעדער פֿראגא װאָס איר מאכט.\n\nטאמער האַלט איר אַז איר זענט געװארן בלאקירט בטעות, קענט איר טרעפֿן נאך אינפֿארמאַציע און אָנװײזונגען אינעם [[m:Special:MyLanguage/No open proxies|קיין אפֿענע פראקסיס]] גלאבאלן פאליטיק.\nאַנדערש, איבערצושמועסן דעם בלאק זייט אזוי גוט [[m:Steward requests/Global|שטעלט א בקשה פֿאַר רעצענזירן ביי מעטא־װיקי]].",
 	"interlanguage-link-mul": "נאך שפראכן",
 	"interlanguage-link-sitename-mul": "פֿילשפראכיקער {{SITENAME}}",
 	"interlanguage-link-wikipedia": "וויקיפעדיע",

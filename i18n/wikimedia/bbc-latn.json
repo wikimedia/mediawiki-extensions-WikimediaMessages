@@ -18,8 +18,6 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Angka sipabangkit",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\nAlamat IP-mi saonari i ma $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDibahen $1 ($2) do pangambatonna.\nMarhitehite \"$3\".\n\n*Mulamula diambati: $4\n*Ujung ni pangambaton: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Panataon taringot tu kuki",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Olo",

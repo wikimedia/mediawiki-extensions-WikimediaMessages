@@ -62,8 +62,6 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Гёзен",
 	"wikibase-sitelinks-sitename-species": "Викитюрле",
 	"wikimedia-developers": "Джарашдырыучула",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлок ($2 проектде) $1 джанындан этилгенди. Берилген чурум: ''$3''.\n\n* Блокну башланнганы: $4\n* Блокну бошалгъаны: $5\n\nЁтген IP-адресигиз: $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокну салгъан: $1 ($2).\nБерилген чурум: \"$3\".\n\n* Блокну башланнганы: $4\n* Блокну бошалгъаны: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-commons": "Викигёзен",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-cookiestatement": "Cookie'ни юсюнден келишиу",

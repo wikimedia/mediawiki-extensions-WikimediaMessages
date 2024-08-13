@@ -25,8 +25,6 @@
 	"wikibase-sitelinks-sitename-species": "ဝဳကဳသတ်ဇဳဝ",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ဝဳကဳဒါတာ",
 	"wikimedia-developers": "ညးမခၞံဗဒှ်သပ်ဝဴဂမၠိုင်",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nပရေင်ကမာတ်လဒဵုဂှ် ကၠောန်ပလဝ် နကဵု $1 ($2)။ ဟိုတ်ဍေဟ်ဂှ် ဗၟံက်ထ္ၜးလဝ် ''$3''.\n\n* ကမာတ်လဒဵု စ: $4\n* ကမာတ်လဒဵု အိုတ်: $5\n\nဌာန်ဒမံင်အာင်ပဳ မၞး လၟုဟ်ဂှ် $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nပရေင်ကမာတ်လဒဵုဂှ် ကၠောန်ပလဝ် နကဵု $1 ($2).\nဟိုတ်ဍေဟ်ဂှ် ဗၟံက်ထ္ၜးလဝ် ''$3''.\n\n* ကမာတ်လဒဵု စ: $4\n* ကမာတ်လဒဵု အိုတ်: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"interlanguage-link-mul": "အရေဝ်ဘာသာထပ်ပၠန်ဂမၠိုၚ်",
 	"interlanguage-link-commons": "ဝဳကဳမဳဒဳယာ ခမ်မောန်",
 	"wikimedia-statslink": "စရင်အင်",

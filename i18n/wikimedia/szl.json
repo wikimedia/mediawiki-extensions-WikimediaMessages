@@ -53,8 +53,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikirajzy",
 	"wikibase-otherprojects-wikipedia": "Wikipedyjŏ",
 	"wikimedia-developers": "Dlŏ deweloperōw",
-	"wikimedia-globalblocking-ipblocked": "'''Twoja adresa IP była [[m:Special:MyLanguage/Global blocks|globalnie zablokowanŏ]].'''\n\nBlokadã była nałożōnŏ ôd $1 ($2).\nPodany powōd „$3”.\n\n* Poczōntek blokady: $4 \n* Kōniec blokady: $5 \n\nTwoja terŏźnŏ adresa IP to $6.\nProszymy ô wkludzynie wszyjskich tych informacyji we wszyjskich swojich pytaniach.\n\nJeźli myślisz, iże blokada to przipadek, możesz znojś wiyncyj informacyji na strōnie globalnych prawideł [[m:Special:MyLanguage/No open proxies|Bez ôtwartych proxy serwerōw]].\nW inkszym przipadku, żeby przedyskutować blokadã, [[m:Steward requests/Global|wkludź prośbã na Meta-wiki]].",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Jedyn abo wiyncyj serwerōw proxy użytych ôd Twojigo żōndaniŏ je [[m:Special:MyLanguage/Global blocks|globalnie zablokowany]].'''\n\nBlokadã była nałożōnŏ ôd $1 ($2).\nPodany powōd „$3”.\n\n* Poczōntek blokady: $4 \n* Kōniec blokady: $5 \n\nZablokowanŏ adresa IP to $6.\nProszymy ô wkludzynie wszyjskich tych informacyji we wszyjskich swojich pytaniach.\n\nJeźli myślisz, iże blokada to przipadek, możesz znojś wiyncyj informacyji na strōnie globalnych prawideł [[m:Special:MyLanguage/No open proxies|Bez ôtwartych proxy serwerōw]].\nW inkszym przipadku, żeby przedyskutować blokadã, [[m:Steward requests/Global|wkludź prośbã na Meta-wiki]].",
 	"interlanguage-link-wikipedia": "Wikipedyjŏ",
 	"wikimedia-statslink": "Sztatystyki",
 	"wikimedia-cookiestatement": "Kōmunikat ô cookies"

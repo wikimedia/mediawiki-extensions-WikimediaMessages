@@ -163,8 +163,6 @@
 	"upload-more-photos-of-this-monument": "Muar bilen faan detdiar seenksteed huuchsjüür",
 	"createacct-captcha-help-url": "{{ns:Project}}:Am en brükerkonto uunfraage",
 	"wikimedia-developers": "Software ferbeedre",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDet sper as maaget wurden faan $1 ($2).\nDi grünj diarför as ''$3''.\n\n* Began faan't sper: $4\n* Aanj faan't sper: $5\n\nDin aktuel IP adres as $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDet sper as maaget wurden faan $1 ($2).\nDi grünj diarför as ''$3''.\n\n* Began faan't sper: $4\n* Aanj faan't sper: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-torblock-blocked": "Din IP-addres, <strong>$1</strong>, as käänd wurden üs en ''Tor-exit-node''.\nDet bewerkin mä ''Tor'' as ei tuläät, am masbrük tu ferhanrin.\nDü fanjst muar informatsioon an uunwisangen uun a reegeln för \"[[m:Special:MyLanguage/No open proxies|Nian eeben proxys]]\".",
 	"wikimedia-upload-nolicenses": "Üüb detheer Wiki kön nian datein huuchsjüürd wurd. Wees so gud an sjüür jo tu [[commons:Special:UploadWizard|Wikimedia Commons]].\n\nAm detheer spezial-sidj för't huuchsjüüren tu brüken, skal en administraator det sidj [[MediaWiki:Licenses]] mä lisensen apfal.\n\nBrük det formaat: <code>* Nööm faan't föörlaag|Betiaknang</code>. Brük irgent en tekst, am det huuchsjüüren saner lisensföörslacher mögelk tu maagin.",
 	"interlanguage-link-mul": "Muar spriaken",

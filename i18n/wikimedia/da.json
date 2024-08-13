@@ -191,8 +191,6 @@
 	"upload-more-photos-of-this-monument": "Overfør flere fotos af monumentet",
 	"createacct-captcha-help-url": "{{ns:Project}}:Anmod om en konto",
 	"wikimedia-developers": "Udviklere",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokeringen blev foretaget af $1 ($2).\nBegrundelsen er ''$3''.\n\n* Start af blokeringen: $4\n* Udløb af blokeringen: $5\n\nDin nuværende IP-adresse er $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokeringen blev foretaget af $1 ($2).\nBegrundelsen er ''$3''.\n\n* Start af blokeringen: $4\n* Udløb af blokeringen: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-torblock-blocked": "Din IP-adresse, <strong>$1</strong>, er blevet automatisk identificeret som en [https://da.wikipedia.org/wiki/The_Onion_Router Tor]-exitnode.\nRedigering gennem Tor er blokeret for at forhindre misbrug.\nFor yderligere oplysninger og instruktioner til legitime brugere, se den globale [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies »ingen åbne proxyer«]-politik.",
 	"interlanguage-link-mul": "Flere sprog",
 	"interlanguage-link-wikipedia": "Wikipedia",

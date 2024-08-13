@@ -78,8 +78,6 @@
 	"wikibase-otherprojects-wikidata": "Vikiandmused",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Vikiandmused",
 	"wikimedia-developers": "Tegijad",
-	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nSaubatuz oli tehtud $1 ($2).\nSü om siš, miše ''$3''.\n\n* Saubatusen augotiž: $4\n* Saubatusen loppäiv: $5\n\nSinun nügüdläine IP-adres om $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nSaubatuz oli tehtud $1 ($2).\nSü om siš, miše ''$3''.\n\n* Saubatusen augotiž: $4\n* Saubatusen loppäiv: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Tedod kukiden polhe"
 }
