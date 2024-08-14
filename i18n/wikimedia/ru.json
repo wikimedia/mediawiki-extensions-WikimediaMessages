@@ -62,7 +62,9 @@
 			"Butko",
 			"Bashkorttan",
 			"Dirruw'o",
-			"Varnent"
+			"Varnent",
+			"Adam-Yourist",
+			"Умар"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -188,7 +190,7 @@
 	"group-captcha-exempt-member": "{{GENDER:$1|освобождённый|освобождённая}} от капчи",
 	"group-centralnoticeadmin": "Администраторы централизованных уведомлений",
 	"group-centralnoticeadmin-member": "{{GENDER:$1|администратор централизованных уведомлений}}",
-	"grouppage-centralnoticeadmin": "{{ns:project}}:Central notice administrators",
+	"grouppage-centralnoticeadmin": "{{ns:project}}:Администратор централизованных уведомлений",
 	"group-curator": "Кураторы",
 	"group-curator-member": "{{GENDER:$1|кураторы}}",
 	"grouppage-curator": "{{ns:project}}:Кураторы",

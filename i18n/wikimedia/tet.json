@@ -2,12 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"MF-Warburg",
-			"Varnent"
+			"Varnent",
+			"Diamantino Soares"
 		]
 	},
 	"sitesupport": "Fó donativu ida",
 	"tooltip-n-sitesupport": "Tulun ami",
 	"group-steward": "Steward sira",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
-	"wikibase-sitelinks-wiktionary": "Wiksionáriu"
+	"wikibase-sitelinks-wiktionary": "Wiksionáriu",
+	"wikimedia-developers": "Dezenvolvimentu sira",
+	"wikimedia-statslink": "Estatístika",
+	"wikimedia-cookiestatement": "Afirmasaun kuki (Cookie statement)."
 }
