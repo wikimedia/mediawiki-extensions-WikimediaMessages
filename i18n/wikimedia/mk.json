@@ -324,7 +324,7 @@
 	"protect-level-editextendedsemiprotected": "Допуштај само автопатролери",
 	"restriction-level-editextendedsemiprotected": "заштитено (само автопатролери)",
 	"action-banner-protect": "заштита на преводливи страници со кои работи додатокот и вклучени во централниот разглас",
-	"wikimedia-centralauth-contribs-locked": "Оваа сметка е глобално заклучена.\nПовеќе информации ќе најдете во [[m:Special:CentralAuth/$1|подробностите за глобалната сметка]].",
+	"wikimedia-centralauth-contribs-locked": "Оваа сметка е глобално заклучена.\nПовеќе информации ќе најдете во [[m:Special:CentralAuth/$1|поединостите за глобалната сметка]].",
 	"action-viewdeletedfile": "преглед на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
 	"right-viewdeletedfile": "Прегледување на избришани податотеки и страници во именските простори {{ns:file}} и {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Избори за членови на одборот",
