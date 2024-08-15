@@ -169,7 +169,7 @@
 	"group-uploader-member": "{{GENDER:$1|رافع ملفَّات|رافعة ملفَّات}}",
 	"grouppage-uploader": "{{ns:project}}:رافعو ملفَّات",
 	"group-wikidata-staff": "طاقم ويكي بيانات",
-	"group-wikidata-staff-member": "{{GENDER:$1|موظف ويكي داتا|موظفة ويكي داتا}}",
+	"group-wikidata-staff-member": "{{GENDER:$1|موظف ويكي بيانات|موظفة ويكي بيانات}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:أعضاء طاقم ويكي بيانات",
 	"group-wikifunctions-staff": "موظفو ويكي الدوال",
 	"group-wikifunctions-staff-member": "{{GENDER:$1|موظفو ويكي دالة }}",
