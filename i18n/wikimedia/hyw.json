@@ -4,14 +4,15 @@
 			"ArmenBakkalian",
 			"Azniv Stepanian",
 			"Kareyac",
-			"Rajemian"
+			"Rajemian",
+			"Շահէն"
 		]
 	},
 	"sitesupport": "Նուիրատուութիւն ընել",
 	"tooltip-n-sitesupport": "Աջակցեցէ՛ք մեզի",
 	"shared-repo-name-shared": "Ուիքիպահեստ",
-	"wikimedia-copyright": "Գրութիւնը տրամադրելի է <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.hy\">Վերագրումի – Նոյնապայման տարածումի արտօնագիրով</a>յաւելեալ պայմաններ ի զօրու կրնան ըլլալ։ Մանրամասնութիւններու համար տես՝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Օգտագործումի պայմաններ</a>։",
-	"wikimedia-copyrightwarning": "Պահելով փոփոխութիւնները, համաձայնութիւն կու տաք ձեր ներդրումը անդառնալի կերպով տրամադրել  [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] եւ [https://www.gnu.org/copyleft/fdl.html GFDL] արտօնագրին ներքոյ։\n\nՀամաձայն էք որ URLի յղում մը կամ գերյղում մը բաւարար է որպէս վարձատրութիւն ըստ Creative Commons արտօնագրին։",
+	"wikimedia-copyright": "Գրութիւնը հասանելի է <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.hy\">Creative Commons Attribution-ShareAlike License</a> թույլատրագրի մէջ, առանձին դեպքերով հնարաւոր է յաւելեալ պայմաններ ունենալ։ Մանրամասնութիւններու համար այցելեցէք՝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Օգտագործման պայմաններ</a>։",
+	"wikimedia-copyrightwarning": "Փոփոխութիւնները պահպանելով, համաձայն էք [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], եւ համաձայն էք հրապարակելու ձեր խմբագրումը [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] պայմանագրի տակ, ինչպէս նաեւ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\n\nՀամաձայն էք որ URLի յղում մը կամ գերյղում մը բաւարար է որպէս վարձատրութիւն ըստ Creative Commons արտօնագրին։",
 	"wikibase-repo-name": "Ուիքիտուեալներ",
 	"wikibase-sitelinks-wikibooks": "Ուիքիգիրքեր",
 	"wikibase-sitelinks-wikinews": "Ուիքիլուրեր",
@@ -32,5 +33,6 @@
 	"wikimedia-globalblocking-ipblocked-xff": "'''Ձեր խնդրանքին ընթացքին օգտագործուած մէկ կամ աւելի փոխանորդ սպասարկիչներ  [[m:Special:MyLanguage/Global blocks|արգելակուած են]]:'''\n\nԱրգելակումը կատարած է $1 մասնակիցը ($2):\nՆշուած պատճառը՝ \"$3\":\n\n* Արգելակման սկիզբ` $4 \n* Արգելակման աւարտ` $5 \n\nԱրգելակուած IP հասցէն է $6:\n\nԿը խնդրենք որ բոլոր այս մանրամասնութիւնները նշէք ձեր կատարելիք հարցադրումներուն մէջ:\n\nԵթէ կը խորհիք թէ արգելակումը եղած է սխալմամբ, յաւելեալ տեղեկութիւններ եւ ցուցմունքներ կրնաք գտնել [[m:Special:MyLanguage/No open proxies|բաց փոխանորդ սպասարկիչներու արգիլման մասին]] համընդհանուր քաղաքականութեան էջին վրայ:\n \nԱյլապէս՝ արգելակումը վերանայելու համար, կը խնդրուի [[m:Steward requests/Global|վերանայման համար խնդրանք ներկայացնել ՄեթաՈւիքիին]]:",
 	"interlanguage-link-wikipedia": "Ուիքիփետիա",
 	"interlanguage-link-commons": "Ուիքիպահեստ",
-	"wikimedia-statslink": "Վիճակագրութիւն"
+	"wikimedia-statslink": "Վիճակագրութիւն",
+	"wikimedia-cookiestatement": "Քուքիներու հաստատում"
 }

@@ -44,5 +44,6 @@
 	"wikimedia-ipinfo-source-geoip2": "이 도구의 사용은 [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP 정보 도구 지침]을 따릅니다.",
 	"wikimedia-ipinfo-infobox-use-terms": "IP 정보 도구는 MaxMind 데이터베이스를 사용하여 IP 주소의 대략적인 위치, 프록시, 함께 공유하는 장치 수와 같은 상세 정보를 표시합니다. 도구를 활성화하기 전에 [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP 정보 도구 지침]을 검토해 주십시오.",
 	"wikimedia-ipinfo-preference-use-agreement": "나는 [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP 정보 도구 지침]에 따라 위키미디어 재단 또는 커뮤니티 정책에서의 문서 훼손, 악용 또는 기타 위반에 대한 조사 또는 예방에만 이 도구를 사용하는 데 동의합니다.",
-	"wikimedia-centralauth-admin-log-otherwiki": "이 계정은 잠겼습니다. 자세한 내용은 [[meta:Special:CentralAuth/$1|메타위키의 전역 계정 세부 정보]]를 참조하세요."
+	"wikimedia-centralauth-admin-log-otherwiki": "이 계정은 잠겼습니다. 자세한 내용은 [[meta:Special:CentralAuth/$1|메타위키의 전역 계정 세부 정보]]를 참조하세요.",
+	"wikimedia-oathauth-step1-test": "2요소 인증을 위한 프로그램을 다운로드하세요. 제안되는 클라이언트의 경우 [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication 도움말:2요소 인증]을 참고하세요."
 }

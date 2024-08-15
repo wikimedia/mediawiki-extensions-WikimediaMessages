@@ -5,7 +5,7 @@
 			"MRidhaAJ"
 		]
 	},
-	"sitesupport": "أتبرع",
+	"sitesupport": "اتبرع",
 	"wikimedia-copyright": "النصوص مُرخصة <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">برخصة المُشاع الإبداعي: النسبة-الترخيص بالمثل</a>.\nًقد تنطبق بنود أخرى أيضا.\nانظر <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">شروط الاستخدام</a> للتفاصيل.",
 	"wikimedia-copyrightwarning": "بالضغط على زر «{{int:savearticle}}»، فإنك توافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/4.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 4.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
 	"wikifunctions-edit-copyrightwarning-function": "إذا تدوس \"إنشرها\"، لازم تثق بـ<a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\"><a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition of the Creative Commons CC0 License\"></a></a>",
@@ -17,5 +17,5 @@
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nالحظر سواه $1 ($2)\nالسبب هو ''$3''\n\n*بداية المنع:$4\n*إنتهاء المنع:$5\n\nالآيبي مالك هو $6\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nالحظر سواه $1 ($2)\nالسبب هو ''$3''\n\n* بداية المنع: $4\n* إنتهاء المنع: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "احصائيات",
-	"wikimedia-cookiestatement": "بيان تعريف إلارتباطات"
+	"wikimedia-cookiestatement": "بيان الكوكيز"
 }

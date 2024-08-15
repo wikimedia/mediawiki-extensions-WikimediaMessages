@@ -3,9 +3,11 @@
 		"authors": [
 			"B3rnas",
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Eduardo Augusto"
 		]
 	},
+	"wm-commonstrings-aboutme": "Sobre mim",
 	"wm-commonstrings-activities": "Atividades",
 	"wm-commonstrings-background": "Antecedentes",
 	"wm-commonstrings-closed": "Fechado",
@@ -13,6 +15,7 @@
 	"wm-commonstrings-contactus": "Contacte-nos",
 	"wm-commonstrings-events": "Eventos",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Artigo principal: $1|Artigos principais: $1}}",
+	"wm-commonstrings-mywork": "Meu trabalho",
 	"wm-commonstrings-noticeboard": "Quadro de avisos",
 	"wm-commonstrings-objectives": "Objetivos",
 	"wm-commonstrings-ongoing": "Em progresso",
