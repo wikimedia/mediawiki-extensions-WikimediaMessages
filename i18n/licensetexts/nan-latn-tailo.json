@@ -4,8 +4,13 @@
 			"SupaplexTW"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Siū-khuân hōo lí i-tsiàu [[{{int:wm-license-fsf-wiki-link}}|Tsū-iû Nńg-thé Ki-kim-huē]] huat-pòo ê bô kòo-tīng bûn-jī, hong-bīn bûn-jī kah hong-té bûn-jī'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Tsū-iû Bûn-kiānn Siū-khuân Tiâu-khuán]]'''1.2 pán ia̍h-sī koh-lâi ê jīm-ì pán-pún, tuì pún tóng-àn tsìn-hîng hok-tsè, thuân-pòo, kah／ia̍h-sī siu-kái.Tsit-ê hia̍p-gī ê hù-pún khǹg tī [[{{int:wm-license-gfdl-full-1.2-link}}|GNU Tsū-iû Bûn-kiānn Siū-khuân Tiâu-khuán]] tang-tiong.",
 	"wm-license-information-description": "Suat-bîng",
 	"wm-license-information-source": "Tshut-tshù",
 	"wm-license-information-date": "Ji̍t-kî",
-	"wm-license-information-author": "Tsok-tsiá"
+	"wm-license-information-author": "Tsok-tsiá",
+	"wm-license-information-permission": "Siū-khuân ún-tsún",
+	"wm-license-information-permission-reusing-text": "Koh iōng tsit-ê tóng-àn",
+	"wm-license-own-work": "Ka-tī tsuè--ê",
+	"wm-license-self-multiple-licenses-select": "Lí ē-tàng suán-ti̍k lí su-iàu ê siū-khuân tiâu-khuán."
 }
