@@ -9,11 +9,12 @@
 			"PPerviz",
 			"Vago",
 			"Vugar 1981",
-			"Şeyx Şamil"
+			"Şeyx Şamil",
+			"Nemoralis"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:az:Creative Commons",
-	"wm-license-cc-attribution": "İstinad",
+	"wm-license-cc-attribution": "Atribut",
 	"wm-license-cc-by-1.0-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.az Attribution 1.0 Generic] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-1.0-fi-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  Finlandiya] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-1.0-il-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.az Attribution 1.0  İsrail] lisenziyası altında yayımlanır.",
@@ -166,14 +167,15 @@
 	"wm-license-cc-by-sa-3.0-th-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/th/deed.az Attribution-Share Alike 3.0 Tayland] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-3.0-tw-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/tw/deed.az Attribution-Share Alike 3.0 Tayvan] lisenziyası altında yayımlanır.",
 	"wm-license-cc-by-sa-3.0-us-text": "Bu fayl [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/3.0/us/deed.az Attribution-Share Alike 3.0 ABŞ] lisenziyası altında yayımlanır.",
-	"wm-license-cc-free": "Azadsınız:",
-	"wm-license-cc-free-to-share-header": "paylaşmaq",
-	"wm-license-cc-free-to-share-text": "əsəri köçürmək, paylamaq və ötürmək üçün",
-	"wm-license-cc-free-to-remix-header": "remiks etmək",
-	"wm-license-cc-free-to-remix-text": "əsəri adaptasiya etmək",
-	"wm-license-cc-conditions": "Aşağıdakı şərtlərə riayət etməklə:",
-	"wm-license-cc-conditions-attribution-header": "istinad",
-	"wm-license-cc-conditions-attribution-text": "Müvafiq kredit verməlisiniz, lisenziyaya bir keçid verməlisiniz və dəyişikliklərin olub olmadığını bildirməlisiniz. Bunu hər hansı bir ağlabatan şəkildə edə bilərsiniz, ancaq lisenziyalaşdırıcının sizi və ya istifadənizi təsdiqləməsini təklif edən bir şəkildə deyil.",
+	"wm-license-cc-free": "Siz heç bir məhdudiyyət olmadan:",
+	"wm-license-cc-free-to-share-header": "paylaşa bilərsiniz",
+	"wm-license-cc-free-to-share-text": "əsəri köçürə, paylaya və ötürə bilərsiniz",
+	"wm-license-cc-free-to-remix-header": "remiks edə bilərsiniz",
+	"wm-license-cc-free-to-remix-text": "əsəri adaptasiya edə bilərsiniz",
+	"wm-license-cc-conditions": "Aşağıdakı şərtlərə əməl etməklə:",
+	"wm-license-cc-conditions-attribution-header": "İstinad vermək",
+	"wm-license-cc-conditions-attribution-text": "Müvafiq istinad verməli, lisenziyaya keçid əlavə etməli və dəyişikliklər edilib-edilmədiyini bildirməlisiniz . Siz bunu istənilən şəkildə edə bilərsiniz, lakin lisenziya verənin sizə şəxsən icazə verdiyini göstərən formada yox.",
 	"wm-license-cc-conditions-share_alike-header": "bənzər paylaşma",
-	"wm-license-cc-conditions-share_alike-text": "Əsəri remix edirsinizsə, dəyişdirirsinizsə və ya üzərində iş aparırsınızsa, öz töhfələrinizi orijinalda olduğu kimi [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses eyni və ya uyğun lisenziya] altında yayımlamalısınız."
+	"wm-license-cc-conditions-share_alike-text": "Əsəri remix edirsinizsə, dəyişdirirsinizsə və ya üzərində iş aparırsınızsa, öz töhfələrinizi orijinalda olduğu kimi [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses eyni və ya uyğun lisenziya] altında yayımlamalısınız.",
+	"wm-license-cc-pd-mark-text": "Bu fayl bütün əlaqəli və qonşu hüquqlar da daxil olmaqla, müəllif hüquqları qanununa əsasən məlum məhdudiyyətlərdən azad olduğu müəyyən edilmişdir."
 }

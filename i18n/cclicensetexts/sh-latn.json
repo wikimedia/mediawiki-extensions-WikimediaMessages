@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Winston Sung"
+			"Winston Sung",
+			"BadDog"
 		]
 	},
 	"wm-license-cc-attribution": "Pripisivanje",
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "prilagođavati djelo",
 	"wm-license-cc-conditions": "Pod sljedećim uslovima:",
 	"wm-license-cc-conditions-attribution-header": "pripisivanje",
-	"wm-license-cc-conditions-attribution-text": "Morate pripisati odgovarajuće autorske zasluge, osigurati link ka licenci i naznačiti jesu li napravljene izmjene. To možete uraditi na bilo koji razumni način, ali ne tako da se sugerira da davalac licence odobrava Vas ili Vašu upotrebu njegovog djela.",
+	"wm-license-cc-conditions-attribution-text": "Morate pripisati odgovarajuće autorske zasluge, osigurati vezu do licence i naznačiti jesu li napravljene izmjene. To možete uraditi na bilo koji razumni način, ali ne tako da se sugerira da davalac licence odobrava Vas ili Vašu upotrebu njegovog djela.",
 	"wm-license-cc-conditions-share_alike-header": "dijeljenje pod istim uslovima",
 	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses istom ili sličnom licencom] poput ove."
 }
