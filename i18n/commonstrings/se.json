@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"Yupik"
 		]
 	},
+	"wm-commonstrings-contactus": "Váldde oktavuođa minguin",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Jođánisgeaidnu|Jođánisgeainnut}}"
 }
