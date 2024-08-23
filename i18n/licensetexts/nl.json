@@ -63,6 +63,7 @@
 	"wm-license-gfdl-1.2-only-header": "alleen&nbsp;1.2",
 	"wm-license-gfdl-1.3-and-later": "Toestemming wordt verleend voor het kopiëren, verspreiden en/of wijzigen van dit document onder de voorwaarden van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie voor vrije documentatie]]''', versie 1.3 of enige latere versie als gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonder Invariant Sections, zonder Front-Cover Texts, en zonder Back-Cover Texts. Een kopie van de licentie is opgenomen in de sectie ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-licentie voor vrije documentatie]]''.",
 	"wm-license-gfdl-1.3-only": "Toestemming wordt verleend voor het kopiëren, verspreiden en/of wijzigen van dit document onder de voorwaarden van de '''[[{{int:wm-license-gfdl-wiki-link}}|GNU-licentie voor vrije documentatie]]''', alleen versie 1.3 als gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; zonder Invariant Sections, zonder Front-Cover Texts, en zonder Back-Cover Texts. Een kopie van de licentie is opgenomen in de sectie ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU-licentie voor vrije documentatie]]''.",
+	"wm-license-gfdl-1.3-only-header": "alleen&nbsp;1.3",
 	"wm-license-gfdl-wiki-link": "w:nl:GNU-licentie voor vrije documentatie",
 	"wm-license-gpl-text": "Dit werk is [[{{int:wm-license-free-software-wiki-link}}|vrije software]];\nu mag de software heruitgeven en/of aanpassen in overeenkomst met de voorwaarden van de '''[[{{int:wm-license-gpl-wiki-link}}|GNU Lesser General Public License]]''' zoals gepubliceerd door de [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]].\nDe geldende versie is 2 van de Licentie, of enige latere versie.\nDit werk wordt gedistribueerd in de hoop dat het bruikbaar is, maar '''zonder enige garantie''';\nzelfs zonder de impliciete garantie van '''goede werking''' of '''geschiktheid voor een bepaald doel'''.\nZie [{{int:wm-license-gpl-2-full-link}} versie 2] en [{{int:wm-license-gpl-3-full-link}} versie 3 van de GNU General Public License] voor meer details.",
 	"wm-license-gpl-wiki-link": "w:nl:GNU General Public License",
@@ -109,5 +110,6 @@
 	"wm-license-self-one-license-with-author": "$1, de auteursrechthebbende van dit werk, maakt het hierbij onder de volgende licentie beschikbaar:",
 	"wm-license-self-multiple-licenses": "Ik, de auteursrechthebbende van dit werk, maak het hierbij onder de volgende licenties beschikbaar:",
 	"wm-license-self-multiple-licenses-with-author": "$1, de auteursrechthebbende van dit werk, maakt het hierbij onder de volgende licenties beschikbaar:",
-	"wm-license-self-multiple-licenses-select": "U mag zelf één van de licenties kiezen."
+	"wm-license-self-multiple-licenses-select": "U mag zelf één van de licenties kiezen.",
+	"wm-license-self-invalid-parameter": "Ongeldige parameter. Dit sjabloon voor publiek domein mag niet worden gebruikt in het sjabloon ‘self’."
 }
