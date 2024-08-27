@@ -11,7 +11,7 @@
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
 	"requires": {
-		"MediaWiki": ">= 1.42.0"
+		"MediaWiki": ">= 1.43"
 	},
 	"MessagesDirs": {
 		"WikimediaMessages": [
@@ -111,7 +111,10 @@
 	},
 	"config": {
 		"WikimediaStylesSkins": {
-			"value": [ "vector-2022", "minerva" ],
+			"value": [
+				"vector-2022",
+				"minerva"
+			],
 			"description": "Define skins that should get Wikimedia styles. This currently corresponds to skins that support the night (dark mode) theme."
 		},
 		"WikimediaMessagesLicensing": {
