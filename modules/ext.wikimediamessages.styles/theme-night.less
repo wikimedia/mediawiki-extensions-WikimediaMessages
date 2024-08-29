@@ -10,6 +10,22 @@ before merging. */
 	color: #333;
 }
 
+@selector-inline-style-color: ~'[style*="background"]:not( [style*="transparent"] ):not( [style*="inherit"] )';
+
+.mixin-links-in-styled-tables-readable() {
+	table:not( .infobox ):not( .navbox-inner ):not( .navbox ) {
+		[bgcolor],
+		th@{selector-inline-style-color},
+		td@{selector-inline-style-color},
+		tr@{selector-inline-style-color} td {
+			a:not( .mw-selflink ) {
+				color: var( --color-base-fixed, #202122 );
+				text-decoration: underline;
+			}
+		}
+	}
+}
+
 @media screen {
 	html.skin-theme-clientpref-night {
 		// These colors become !important in night mode to avoid color contrast issues.
@@ -65,6 +81,8 @@ before merging. */
 			/* @color-base */
 			color: #202122; // not !important so that if a color is also specified it will take priority
 		}
+
+		.mixin-links-in-styled-tables-readable();
 	}
 }
 
@@ -122,5 +140,7 @@ before merging. */
 			/* @color-base */
 			color: #202122; // not !important so that if a color is also specified it will take priority
 		}
+
+		.mixin-links-in-styled-tables-readable();
 	}
 }
