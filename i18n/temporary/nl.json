@@ -17,6 +17,7 @@
 	"group-oversight-member": "{{GENDER:$1|toezichthouder}}",
 	"hello": "Hallo",
 	"please-translate": "Help met het vertalen in uw taal",
+	"please-translate-short": "Helpen met vertalen",
 	"thank-you": "{{GENDER:$1|Dank u.}}",
 	"specialblockfeedback": "Terugkoppeling",
 	"specialinvestigate-feedback": "Terugkoppeling geven",
