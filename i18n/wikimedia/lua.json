@@ -1,8 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chrisdanielkazadi",
 			"Shayi ngolu"
 		]
 	},
-	"wikimedia-developers": "Kuya kumpala"
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Kuya kumpala",
+	"wikimedia-statslink": "Bipeta bia bunyi",
+	"wikimedia-cookiestatement": "Dijikudi ditangila ma cookies"
 }
