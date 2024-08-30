@@ -104,6 +104,9 @@
 		},
 		"CampaignEventsGetPolicyMessageForRegistrationForm": {
 			"handler": "WikimediaMessagesCampaignEventsHooks"
+		},
+		"SkinTemplateNavigation::Universal": {
+			"handler": "WikimediaMessagesHooks"
 		}
 	},
 	"ConfigRegistry": {
@@ -120,6 +123,10 @@
 		"WikimediaMessagesLicensing": {
 			"value": "standard",
 			"description": "Style of licensing messages to display, one of 'standard', 'commons', 'mediawiki', 'wikidata', 'wikinews', 'wikifunctions'"
+		},
+		"WikimediaMessagesAnonDonateLink": {
+			"value": false,
+			"description": "Move the donate link for anonymous users from the menu sidebar to login/account creation area"
 		}
 	},
 	"manifest_version": 2

@@ -16,6 +16,7 @@ use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
+use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
 use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
@@ -35,6 +36,7 @@ use MediaWiki\User\Options\UserOptionsLookup;
 use MessageCache;
 use MessageLocalizer;
 use Skin;
+use SkinTemplate;
 use Wikimedia\IPUtils;
 
 /**
@@ -50,6 +52,7 @@ class Hooks implements
 	ResourceLoaderRegisterModulesHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
+	SkinTemplateNavigation__UniversalHook,
 	SpecialPageBeforeExecuteHook,
 	UploadForm_initialHook
 {
@@ -1821,5 +1824,27 @@ class Hooks implements
 		}
 
 		$special->getOutput()->addModules( 'ext.wikimediaMessages.ipInfo.hooks' );
+	}
+
+	/**
+	 * Add a donate link to the user links menu for anonymous users on vector '22, if feature flag is turned on
+	 *
+	 * @param SkinTemplate $skin
+	 * @param array &$links
+	 */
+	public function onSkinTemplateNavigation__Universal( $skin, &$links ): void {
+		$context = $skin->getContext();
+		$config = $skin->getConfig();
+		$user = $skin->getUser();
+
+		if ( $skin->getSkinName() === 'vector-2022' ) {
+			if ( $config->get( 'WikimediaMessagesAnonDonateLink' ) && $user->isAnon() ) {
+				$links['user-page']['sitesupport'] = [
+					'text' => $context->msg( 'sitesupport' )->text(),
+					'href' => $context->msg( 'sitesupport-url' )->text(),
+					'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
+				];
+			}
+		}
 	}
 }
