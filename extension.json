@@ -107,6 +107,9 @@
 		},
 		"SkinTemplateNavigation::Universal": {
 			"handler": "WikimediaMessagesHooks"
+		},
+		"SkinBuildSidebar": {
+			"handler": "WikimediaMessagesHooks"
 		}
 	},
 	"ConfigRegistry": {

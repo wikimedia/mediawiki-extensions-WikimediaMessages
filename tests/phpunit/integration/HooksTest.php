@@ -26,12 +26,16 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		);
 	}
 
-	public function provideOnSkinTemplateNavigation__UniversalNotApplicable() {
+	public function provideShouldMoveDonateLink() {
 		return [
-			[ false, 1, 'vector' ],
-			[ false, 0, 'vector-2022' ],
-			[ true, 1, 'vector-2022' ],
-			[ true, 0, 'vector' ],
+			[ false, 1, 'vector', false ],
+			[ false, 0, 'vector', false ],
+			[ true, 1, 'vector', false ],
+			[ true, 0, 'vector', false ],
+			[ false, 1, 'vector-2022', false ],
+			[ false, 0, 'vector-2022', false ],
+			[ true, 1, 'vector-2022', false ],
+			[ true, 0, 'vector-2022', true ]
 		];
 	}
 
@@ -39,12 +43,13 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 	 * Tests the cases where we do not want to add the donate link to the user menu
 	 *
 	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::onSkinTemplateNavigation__Universal
-	 * @dataProvider provideOnSkinTemplateNavigation__UniversalNotApplicable
+	 * @dataProvider provideShouldMoveDonateLink
 	 * @param bool $featureFlag whether the flag is on or off
 	 * @param int $userId user ID to pass in - functionally whether the user is anon or not
 	 * @param string $skinName name of skin, as this is only for vector '22
+	 * @param bool $expected result of shouldMoveDonateLink
 	 */
-	public function testOnSkinTemplateNavigation__UniversalNotApplicable( $featureFlag, $userId, $skinName ) {
+	public function testShouldMoveDonateLink( $featureFlag, $userId, $skinName, $expected ) {
 		$hooks = $this->newWikimediaMessagesHooks();
 
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => $featureFlag ] );
@@ -53,11 +58,8 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		RequestContext::getMain()->setUser( $user );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( $skinName );
-		$links = [];
 
-		$hooks->onSkinTemplateNavigation__Universal( $skin, $links );
-
-		$this->assertSame( [], $links );
+		$this->assertSame( $expected, $hooks->shouldMoveDonateLink( $skin ) );
 	}
 
 	/**
@@ -105,5 +107,40 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->assertSame( $donateLink['href'], RequestContext::getMain()->msg( 'sitesupport-url' )->text() );
 		$this->assertArrayHasKey( 'title', $donateLink );
 		$this->assertSame( $donateLink['title'], RequestContext::getMain()->msg( 'tooltip-n-sitesupport' )->text() );
+	}
+
+	public function provideOnSkinBuildSidebar() {
+		return [
+			[
+				[ [ 'id' => '0' ] ],
+				[ [ 'id' => '0' ] ],
+			],
+			[
+				[ [ 'id' => '0' ], [ 'id' => '1' ] ],
+				[ [ 'id' => '0' ], [ 'id' => '1' ] ],
+			],
+			[
+				[ [ 'id' => '0' ], [ 'id' => 'n-sitesupport' ] ],
+				[ [ 'id' => '0' ] ],
+			]
+		];
+	}
+
+	/**
+	 * Tests the cases where we want to remove the donate link from the sidebar menu
+	 *
+	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::onSkinBuildSidebar
+	 * @dataProvider provideOnSkinBuildSidebar
+	 */
+	public function testOnSkinBuildSidebar( $linkData, $expected ) {
+		$hooks = $this->newWikimediaMessagesHooks();
+
+		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
+
+		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
+		$links = [ 'navigation' => $linkData ];
+
+		$hooks->onSkinBuildSidebar( $skin, $links );
+		$this->assertSame( $expected, $links[ 'navigation' ] );
 	}
 }

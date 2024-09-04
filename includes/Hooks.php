@@ -15,6 +15,7 @@ use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
+use MediaWiki\Hook\SkinBuildSidebarHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
 use MediaWiki\Hook\UploadForm_initialHook;
@@ -53,6 +54,7 @@ class Hooks implements
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
 	SkinTemplateNavigation__UniversalHook,
+	SkinBuildSidebarHook,
 	SpecialPageBeforeExecuteHook,
 	UploadForm_initialHook
 {
@@ -1827,6 +1829,26 @@ class Hooks implements
 	}
 
 	/**
+	 * Whether or not the donate link should be moved from the sidebar to the user menu
+	 *
+	 * @param SkinTemplate $skin
+	 * @return bool
+	 */
+	public function shouldMoveDonateLink( $skin ): bool {
+		$config = $skin->getConfig();
+		$user = $skin->getUser();
+
+		if (
+			$skin->getSkinName() === 'vector-2022' &&
+			$config->get( 'WikimediaMessagesAnonDonateLink' ) &&
+			$user->isAnon()
+		) {
+			return true;
+		}
+		return false;
+	}
+
+	/**
 	 * Add a donate link to the user links menu for anonymous users on vector '22, if feature flag is turned on
 	 *
 	 * @param SkinTemplate $skin
@@ -1834,16 +1856,27 @@ class Hooks implements
 	 */
 	public function onSkinTemplateNavigation__Universal( $skin, &$links ): void {
 		$context = $skin->getContext();
-		$config = $skin->getConfig();
-		$user = $skin->getUser();
+		if ( $this->shouldMoveDonateLink( $skin ) ) {
+			$links['user-page']['sitesupport'] = [
+				'text' => $context->msg( 'sitesupport' )->text(),
+				'href' => $context->msg( 'sitesupport-url' )->text(),
+				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
+			];
+		}
+	}
 
-		if ( $skin->getSkinName() === 'vector-2022' ) {
-			if ( $config->get( 'WikimediaMessagesAnonDonateLink' ) && $user->isAnon() ) {
-				$links['user-page']['sitesupport'] = [
-					'text' => $context->msg( 'sitesupport' )->text(),
-					'href' => $context->msg( 'sitesupport-url' )->text(),
-					'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
-				];
+	/**
+	 * Remove donate link in sidebar menu for anonymous users on vector '22, if feature flag is turned on
+	 *
+	 * @param Skin $skin
+	 * @param array &$bar
+	 * @return bool|void True or no return value to continue or false to abort
+	 */
+	public function onSkinBuildSidebar( $skin, &$bar ) {
+		$links = &$bar[ 'navigation' ];
+		foreach ( $links as $key => $value ) {
+			if ( $value[ 'id' ] === 'n-sitesupport' ) {
+				unset( $links[ $key ] );
 			}
 		}
 	}
