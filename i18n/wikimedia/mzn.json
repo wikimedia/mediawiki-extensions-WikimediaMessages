@@ -15,6 +15,7 @@
 	"shared-repo-name-shared": "ویکی‌تلمبار",
 	"wikimedia-copyright": "کل نوشتارون <a href='https://creativecommons.org/licenses/by-sa/4.0/'>موجوز Creative Commons Attribution-ShareAlike</a> اساس شمه دسترس درنه؛ مومکنه ای بعدن اته سری نو شرط و شروط ایضافه بوه. اگه اطلاعات ویشتری خواننی <a href='http://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use'>قوانین و موقررات ایستفاده</a> ره هارشین.",
 	"wikimedia-copyrightwarning": "تغییرات ذخیره جه، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use استفاده شرایط] ره قبول کانّی و اتی که جبران نَوانه، تضمین کانّی که شمه تغییرات [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ِپیمون‌ها په تَنِک بَواشِن.\nشما قبول کاندی که اتا لینک نسبت‌هدائن کافیه که تحت کریتیو کامنز تنک بَواشه.",
+	"wikimedia-mobile-mainpage-title-loggedin": "$1، {{GENDER:$1|خش بمونی!}}",
 	"wikibase-repo-name": "ویکی‌دیتا",
 	"wikibase-sitelinks-wikinews": "ویکی‌خَوِر",
 	"wikibase-sitelinks-wikiquote": "ویکی‌بائوته",
