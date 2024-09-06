@@ -42,7 +42,7 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 	/**
 	 * Tests the cases where we do not want to add the donate link to the user menu
 	 *
-	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::onSkinTemplateNavigation__Universal
+	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::shouldMoveDonateLink
 	 * @dataProvider provideShouldMoveDonateLink
 	 * @param bool $featureFlag whether the flag is on or off
 	 * @param int $userId user ID to pass in - functionally whether the user is anon or not
@@ -82,6 +82,27 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 	}
 
 	/**
+	 * Make sure we're not adding the donate link to the user page unless the user is logged out
+	 *
+	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::onSkinTemplateNavigation__Universal
+	 */
+	public function testOnSkinTemplateNavigation__UniversalNotApplicable() {
+		$hooks = $this->newWikimediaMessagesHooks();
+
+		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
+
+		$user = \User::newFromId( 1 );
+		RequestContext::getMain()->setUser( $user );
+
+		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
+		$links = [];
+
+		$hooks->onSkinTemplateNavigation__Universal( $skin, $links );
+
+		$this->assertSame( [], $links );
+	}
+
+	/**
 	 * Tests the attributes of the donate link to ensure we're correctly using messages
 	 *
 	 * Note: it would be great if this could do more to test the localization aspect,
@@ -110,19 +131,32 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 	}
 
 	public function provideOnSkinBuildSidebar() {
+		$baseSidebar = [
+			'test section 1' => [
+				[ 'id' => '0' ],
+				[ 'id' => '1' ],
+			],
+			'test section 2' => [
+				[ 'id' => '2' ],
+			],
+		];
+
 		return [
+			[ $baseSidebar, $baseSidebar ],
 			[
-				[ [ 'id' => '0' ] ],
-				[ [ 'id' => '0' ] ],
+				array_merge(
+					$baseSidebar,
+					[ 'test section 1' => [ [ 'id' => '0' ], [ 'id' => '1' ], [ 'id' => 'n-sitesupport' ] ] ],
+				),
+				$baseSidebar,
 			],
 			[
-				[ [ 'id' => '0' ], [ 'id' => '1' ] ],
-				[ [ 'id' => '0' ], [ 'id' => '1' ] ],
+				array_merge(
+					$baseSidebar,
+					[ 'test section 2' => [ [ 'id' => '2' ], [ 'id' => 'n-sitesupport' ] ] ],
+				),
+				$baseSidebar,
 			],
-			[
-				[ [ 'id' => '0' ], [ 'id' => 'n-sitesupport' ] ],
-				[ [ 'id' => '0' ] ],
-			]
 		];
 	}
 
@@ -132,15 +166,36 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::onSkinBuildSidebar
 	 * @dataProvider provideOnSkinBuildSidebar
 	 */
-	public function testOnSkinBuildSidebar( $linkData, $expected ) {
+	public function testOnSkinBuildSidebar( $links, $expected ) {
 		$hooks = $this->newWikimediaMessagesHooks();
 
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
-		$links = [ 'navigation' => $linkData ];
 
 		$hooks->onSkinBuildSidebar( $skin, $links );
-		$this->assertSame( $expected, $links[ 'navigation' ] );
+		$this->assertSame( $expected, $links );
+	}
+
+	/**
+	 * Make sure we're only removing the donate link from the sidebar if it's being moved to the user page
+	 *
+	 * @covers MediaWiki\Extension\WikimediaMessages\Hooks::onSkinBuildSidebar
+	 * @dataProvider provideOnSkinBuildSidebar
+	 */
+	public function testOnSkinBuildSidebarNotApplicable( $links ) {
+		$hooks = $this->newWikimediaMessagesHooks();
+
+		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
+
+		$user = \User::newFromId( 1 );
+		RequestContext::getMain()->setUser( $user );
+
+		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
+
+		$expected = $links;
+
+		$hooks->onSkinBuildSidebar( $skin, $links );
+		$this->assertSame( $expected, $links );
 	}
 }

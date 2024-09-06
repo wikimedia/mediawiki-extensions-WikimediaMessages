@@ -1831,7 +1831,7 @@ class Hooks implements
 	/**
 	 * Whether or not the donate link should be moved from the sidebar to the user menu
 	 *
-	 * @param SkinTemplate $skin
+	 * @param Skin $skin
 	 * @return bool
 	 */
 	public function shouldMoveDonateLink( $skin ): bool {
@@ -1873,10 +1873,15 @@ class Hooks implements
 	 * @return bool|void True or no return value to continue or false to abort
 	 */
 	public function onSkinBuildSidebar( $skin, &$bar ) {
-		$links = &$bar[ 'navigation' ];
-		foreach ( $links as $key => $value ) {
-			if ( $value[ 'id' ] === 'n-sitesupport' ) {
-				unset( $links[ $key ] );
+		if ( $this->shouldMoveDonateLink( $skin ) ) {
+			// the donate link is not guaranteed to be in a particular section, so we must traverse them all
+			// this feels acceptable as the array length is practically bounded
+			foreach ( $bar as $section => $links ) {
+				foreach ( $links as $key => $value ) {
+					if ( $value[ 'id' ] === 'n-sitesupport' ) {
+						unset( $bar[ $section ][ $key ] );
+					}
+				}
 			}
 		}
 	}
