@@ -55,6 +55,7 @@ class SiteAdminHelperModule extends FileModule {
 		'hatnote' => [ 'hatnote.less' ],
 		'theme-night' => [ 'theme-night.less' ],
 		'theme-night-mainpage' => [ 'theme-night-mainpage.less' ],
+		'theme-night-portal' => [ 'theme-night-portal.less' ],
 	];
 
 	/**

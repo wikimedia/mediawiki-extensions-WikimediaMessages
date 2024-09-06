@@ -13,7 +13,8 @@ before merging. */
 @selector-inline-style-color: ~'[style*="background"]:not( [style*="transparent"] ):not( [style*="inherit"] )';
 
 .mixin-links-in-styled-tables-readable() {
-	table:not( .infobox ):not( .navbox-inner ):not( .navbox ) {
+	/* Limited to article namespace. This should not be added to namespaces which reset colors e.g. Portal (100) */
+	body.ns-0 table:not( .infobox ):not( .navbox-inner ):not( .navbox ) {
 		[bgcolor],
 		th@{selector-inline-style-color},
 		td@{selector-inline-style-color},
