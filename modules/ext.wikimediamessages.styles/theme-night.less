@@ -16,12 +16,18 @@ before merging. */
 	/* Limited to article namespace. This should not be added to namespaces which reset colors e.g. Portal (100) */
 	body.ns-0 table:not( .infobox ):not( .navbox-inner ):not( .navbox ) {
 		[bgcolor],
+		&[style*="background"]:not([style*="transparent"]):not([style*="inherit"]),
 		th@{selector-inline-style-color},
 		td@{selector-inline-style-color},
 		tr@{selector-inline-style-color} td {
 			a:not( .mw-selflink ) {
 				color: var( --color-base-fixed, #202122 );
 				text-decoration: underline;
+			}
+
+			// For red links use a wavy underline, to distinguish them from standard links.
+			a.new {
+				text-decoration-style: wavy;
 			}
 		}
 	}
