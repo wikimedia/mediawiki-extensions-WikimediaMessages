@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bbeshir"
+			"Bbeshir",
+			"IdrisSeid"
 		]
 	},
+	"sitesupport": "ትበርዑ",
 	"wikimedia-developers": "ምጠውር",
-	"wikimedia-statslink": "እሕሳእ"
+	"wikimedia-statslink": "እሕሳእ",
+	"wikimedia-cookiestatement": "ክልመት ኩኪ"
 }
