@@ -35,6 +35,7 @@
 			"Umherirrender",
 			"Varnent",
 			"Vogone",
+			"WikiBayer",
 			"Wnme",
 			"XanonymusX",
 			"Απεργός"
@@ -339,7 +340,7 @@
 	"protect-level-editextendedsemiprotected": "Nur automatischen Kontrolleuren erlauben",
 	"restriction-level-editextendedsemiprotected": "geschützt (nur automatische Kontrolleure)",
 	"action-banner-protect": "übersetzbare Nachrichten zu schützen, die durch die Erweiterung „Translate“ verwaltet werden und in CentralNotice-Vorlagen enthalten sind",
-	"wikimedia-centralauth-contribs-locked": "Dieses Benutzerkonto ist global gesperrt.\nFür weitere Informationen siehe die [[m:Special:CentralAuth/$1|Einzelheiten zum globalen Benutzerkonto]].",
+	"wikimedia-centralauth-contribs-locked": "Dieses Benutzerkonto ist global geschlossen.\nFür weitere Informationen siehe die [[m:Special:CentralAuth/$1|Einzelheiten zum globalen Benutzerkonto]].",
 	"action-viewdeletedfile": "gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ anzusehen",
 	"right-viewdeletedfile": "Gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ ansehen",
 	"securepoll-dblist-securepollglobal": "Vorstandswahl",
