@@ -381,7 +381,7 @@
 	"querypage-updates-half-monthly": "يتم تشغيل تحديثات هذه الصفحة مرتين في الشهر.",
 	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر.",
 	"protect-level-editautoreviewprotected": "السماح للمستخدمين المراجعين تلقائيا فقط",
-	"restriction-level-editautoreviewprotected": "حماية جزئية - السماح للمراجعين تلقائيًا",
+	"restriction-level-editautoreviewprotected": "محمية على مستوى المراجعين تلقائيًا",
 	"right-editautoreviewprotected": "تعديل الصفحات المحمية على مستوى \"{{int:protect-level-editautoreviewprotected}}\"",
 	"action-editautoreviewprotected": "تعديل الصفحات المحمية على مستوى \"{{int:protect-level-editautoreviewprotected}}\"",
 	"protect-level-editautopatrolprotected": "السماح فقط للمراجعين تلقائيا",
