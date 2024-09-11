@@ -35,7 +35,10 @@
 			"Umherirrender",
 			"Vogone",
 			"Wnme",
-			"Απεργός"
+			"Απεργός",
+			"Varnent",
+			"WikiBayer",
+			"XanonymusX"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -326,7 +329,7 @@
 	"eri-rcfilters-tour-confirm-description": "Du kannst auf die <strong>Seite für die Betafunktionen</strong> gehen, um Rückmeldungen zu hinterlassen oder die Funktion wieder zu deaktivieren.",
 	"eri-wlfilters-tour-intro-welcome-title": "Willkommen bei der verbesserten Filterung der Beobachtungsliste",
 	"eri-wlfilters-tour-intro-preferences-description": "Gehe jederzeit zum Reiter „Beobachtungsliste“ in den Einstellungen, um die verbesserte Beobachtungsliste zu deaktivieren.",
-	"wikimedia-centralauth-contribs-locked": "Dieses Benutzerkonto ist global gesperrt.\nFür weitere Informationen siehe die [[m:Special:CentralAuth/$1|Einzelheiten zum globalen Benutzerkonto]].",
+	"wikimedia-centralauth-contribs-locked": "Dieses Benutzerkonto ist global geschlossen.\nFür weitere Informationen siehe die [[m:Special:CentralAuth/$1|Einzelheiten zum globalen Benutzerkonto]].",
 	"action-viewdeletedfile": "gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ anzusehen",
 	"right-viewdeletedfile": "Gelöschte Dateien und Seiten in den Namensräumen „{{ns:file}}“ und „{{ns:file_talk}}“ ansehen",
 	"securepoll-dblist-securepollglobal": "Vorstandswahl",
