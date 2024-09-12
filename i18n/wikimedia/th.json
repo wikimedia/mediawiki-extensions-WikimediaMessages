@@ -251,7 +251,7 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "วิกิสนเทศ",
 	"wikimedia-otherprojects-cloudservices": "บริการคลาวด์วิกิมีเดีย",
 	"wikimedia-taglines-endowment": "การประกันความรู้ฟรีสําหรับรุ่นหน้า",
-	"wikimedia-taglines-sources": "แหล่งเอกสารต้นฉบับเสรี",
+	"wikimedia-taglines-sources": "ห้องสมุดเนื้อหาเสรี",
 	"wikimedia-taglines-wikidata": "ฐานความรู้เสรี",
 	"wikimedia-taglines-wikifunctions": "ห้องสมุดฟังก์ชันเสรี",
 	"wikimedia-taglines-wikinews": "แหล่งเนื้อหาข่าวเสรี",
@@ -327,6 +327,7 @@
 	"wikimedia-help-translate-prompt": "ต้องการช่วยแปลหรือไม่? [$1 แปลข้อความที่หายไป]",
 	"wikimedia-foundation-department-shortname-communications": "การสื่อสาร",
 	"wikimedia-nutshell-page-intro": "สรุปหน้านี้โดยสังเขป: $1",
+	"wikimedia-foundation-search-label-short": "ค้นหามูลนิธิ",
 	"wikimedia-translation-disclaimer-nolink": "โปรดทราบว่าในกรณีที่เนื้อหานี้มีความแตกต่างในความหมายหรือการตีความระหว่างต้นฉบับภาษาอังกฤษและการแปล ให้ถือต้นฉบับภาษาอังกฤษเป็นสำคัญ",
 	"wikimedia-translation-disclaimer-withlink": "โปรดทราบว่าในกรณีที่เนื้อหานี้มีความแตกต่างในความหมายหรือการตีความระหว่างต้นฉบับภาษาอังกฤษและการแปล ให้ถือ[[$1|ต้นฉบับภาษาอังกฤษ]]เป็นสำคัญ"
 }

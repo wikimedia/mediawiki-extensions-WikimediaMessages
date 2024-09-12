@@ -4,10 +4,12 @@
 			"Muisha wiki hke"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Uwete rubu lwe kopiye, shanchanya neri ihingya andokima ino, kwe kulikirana na bumpfikane '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', numero ya 1.2 neri indi numero yoshi yoshi ishanchanyibwe na [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; butsira kinwa ndáhíngibwa, butsira kashshali ka kixwiko kye mbere neri kye'nyuma. Hali ndolerwako ya bumpfikane mwa kiche kyokilukwa ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-source": "Xoko",
 	"wm-license-information-date": "Biro",
 	"wm-license-information-author": "Muandiki",
 	"wm-license-information-permission": "Rubu",
 	"wm-license-information-permission-reusing-text": "Kolesa kandi afishiye ino",
-	"wm-license-own-work": "Mulimo wani"
+	"wm-license-own-work": "Mulimo wani",
+	"wm-license-self-multiple-licenses-select": "Ulondole bumpfikane boroshashire"
 }
