@@ -15,7 +15,6 @@ use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
-use MediaWiki\Hook\SkinBuildSidebarHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
 use MediaWiki\Hook\UploadForm_initialHook;
@@ -54,7 +53,6 @@ class Hooks implements
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
 	SkinTemplateNavigation__UniversalHook,
-	SkinBuildSidebarHook,
 	SpecialPageBeforeExecuteHook,
 	UploadForm_initialHook
 {
@@ -1862,27 +1860,6 @@ class Hooks implements
 				'href' => $context->msg( 'sitesupport-url' )->text(),
 				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
 			];
-		}
-	}
-
-	/**
-	 * Remove donate link in sidebar menu for anonymous users on vector '22, if feature flag is turned on
-	 *
-	 * @param Skin $skin
-	 * @param array &$bar
-	 * @return bool|void True or no return value to continue or false to abort
-	 */
-	public function onSkinBuildSidebar( $skin, &$bar ) {
-		if ( $this->shouldMoveDonateLink( $skin ) ) {
-			// the donate link is not guaranteed to be in a particular section, so we must traverse them all
-			// this feels acceptable as the array length is practically bounded
-			foreach ( $bar as $section => $links ) {
-				foreach ( $links as $key => $value ) {
-					if ( $value[ 'id' ] === 'n-sitesupport' ) {
-						unset( $bar[ $section ][ $key ] );
-					}
-				}
-			}
 		}
 	}
 }
