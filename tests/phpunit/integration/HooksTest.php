@@ -129,4 +129,88 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->assertArrayHasKey( 'title', $donateLink );
 		$this->assertSame( $donateLink['title'], RequestContext::getMain()->msg( 'tooltip-n-sitesupport' )->text() );
 	}
+
+	/**
+	 * Tests the cases where the sidebar should keep the donate link, to make sure we don't remove it unintentionally
+	 *
+	 * @dataProvider provideShouldMoveDonateLink
+	 * @param bool $featureFlag whether the flag is on or off
+	 * @param int $userId user ID to pass in - functionally whether the user is anon or not
+	 * @param string $skinName name of skin, as this is only for vector '22
+	 * @param bool $expected result of shouldMoveDonateLink
+	 */
+	public function testOnSidebarBeforeOutputConditions( $featureFlag, $userId, $skinName, $expected ) {
+		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => $featureFlag ] );
+		$user = \User::newFromId( $userId );
+		RequestContext::getMain()->setUser( $user );
+		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( $skinName );
+
+		$hooks = $this->newWikimediaMessagesHooks();
+
+		$sidebar = [ 'test section' => [ [ 'id' => 'n-sitesupport' ] ] ];
+		$unchangedSidebar = $sidebar;
+		$changedSidebar = [ 'test section' => [] ];
+
+		$hooks->onSidebarBeforeOutput( $skin, $sidebar );
+
+		if ( $expected ) {
+			$this->assertSame( $sidebar, $changedSidebar );
+		} else {
+			$this->assertSame( $sidebar, $unchangedSidebar );
+		}
+	}
+
+	/**
+	 * Tests to make sure we're skipping the LANGUAGES section, as it could potentially be a long array to loop over
+	 */
+	public function testOnSidebarBeforeOutputSkipLanguages() {
+		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
+
+		$hooks = $this->newWikimediaMessagesHooks();
+		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
+
+		$sidebar = [ 'LANGUAGES' => [ [ 'id' => 'n-sitesupport' ] ], 'section' => [ [ 'id' => 'n-sitesupport' ] ] ];
+		$expected = [ 'LANGUAGES' => [ [ 'id' => 'n-sitesupport' ] ], 'section' => [] ];
+
+		$hooks->onSidebarBeforeOutput( $skin, $sidebar );
+
+		$this->assertSame( $expected, $sidebar );
+	}
+
+	public function provideOnSidebarBeforeOutput() {
+		$baseSidebar = [
+			'test section 1' => [ [ 'id' => 0 ], [ 'id' => 1 ] ],
+			'test section 2' => [ [ 'id' => 2 ] ]
+		];
+
+		$firstSection = $baseSidebar;
+		$firstSection['test section 1'][] = [ 'id' => 'n-sitesupport' ];
+
+		$secondSection = $baseSidebar;
+		$secondSection['test section 2'][] = [ 'id' => 'n-sitesupport' ];
+
+		return [
+			[ $baseSidebar, $baseSidebar ],
+			[ $firstSection, $baseSidebar ],
+			[ $secondSection, $baseSidebar ],
+		];
+	}
+
+	/**
+	 * Tests the basic functionality of removing the donate link, making sure we are checking all sections
+	 *
+	 * @dataProvider provideOnSidebarBeforeOutput
+	 * @param array $sidebar - the test sidebar, which may contain a donate link
+	 * @param array $expected - the expected sidebar, without the donate link
+	 */
+	public function testOnSidebarBeforeOutput( $sidebar, $expected ) {
+		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
+
+		$hooks = $this->newWikimediaMessagesHooks();
+		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
+
+		$hooks->onSidebarBeforeOutput( $skin, $sidebar );
+
+		$this->assertSame( $expected, $sidebar );
+	}
 }

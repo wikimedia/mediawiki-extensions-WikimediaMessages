@@ -14,6 +14,7 @@ use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
+use MediaWiki\Hook\SidebarBeforeOutputHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
@@ -50,6 +51,7 @@ class Hooks implements
 	EditPageCopyrightWarningHook,
 	MessageCacheFetchOverridesHook,
 	ResourceLoaderRegisterModulesHook,
+	SidebarBeforeOutputHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
 	SkinTemplateNavigation__UniversalHook,
@@ -1860,6 +1862,31 @@ class Hooks implements
 				'href' => $context->msg( 'sitesupport-url' )->text(),
 				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
 			];
+		}
+	}
+
+	/**
+	 * Remove the donate link for anonymous users on vector '22, if the feature flag is turned on
+	 *
+	 * @param Skin $skin
+	 * @param array &$sidebar
+	 */
+	public function onSidebarBeforeOutput( $skin, &$sidebar ): void {
+		// we want to be sure we're only removing this link if it's going to appear elsewhere
+		if ( $this->shouldMoveDonateLink( $skin ) ) {
+			// the donate link is not guaranteed to be in a particular section, so we must traverse them all
+			foreach ( $sidebar as $section => $links ) {
+				// every other array length is bounded by practicality, but skip looping over language for peformance
+				if ( $section === 'LANGUAGES' ) {
+					continue;
+				}
+
+				foreach ( $links as $index => $link ) {
+					if ( isset( $link['id'] ) && $link['id'] === 'n-sitesupport' ) {
+						unset( $sidebar[$section][$index] );
+					}
+				}
+			}
 		}
 	}
 }
