@@ -4,6 +4,11 @@
 			"Muisha wiki hke"
 		]
 	},
+	"wm-license-cc-attribution": "Mulimo wa kinsi mundu",
+	"wm-license-cc-free": "Uwete rubu",
+	"wm-license-cc-free-to-share-header": "kwe shanchanya",
+	"wm-license-cc-free-to-share-text": "kwe shushanya ne shanchanya amulimo",
+	"wm-license-cc-conditions": "Kwekulikirana na miomba ino:",
 	"wm-license-cc-conditions-share_alike-header": "shancha byo ko biri",
 	"wm-license-cc-conditions-share_alike-text": "Ukexubanya, neri ukehingya, neri ukekolesa akitabo iki, ushushire ishanchanya asancharangi sawe ku [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] nga kyamira."
 }

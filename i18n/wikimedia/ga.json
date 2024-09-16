@@ -4,7 +4,9 @@
 			"Alison",
 			"Dowlinme",
 			"MinecraftAustralia",
-			"Tem"
+			"Tem",
+			"Kscanne",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Teachtaireachtaí sainiúil an Viciméid",
@@ -44,7 +46,7 @@
 	"group-steward-member": "maor",
 	"group-sysadmin": "Riarthóirí",
 	"group-sysadmin-member": "riarthóir",
-	"shared-repo-name-shared": "an Cómhaoin Vicíméid",
+	"shared-repo-name-shared": "Cómhaoin Wikimedia",
 	"wikibase-sitelinks-wikinews": "Vicínuacht",
 	"wikibase-sitelinks-wikiquote": "Vicíshliocht",
 	"wikibase-sitelinks-wikisource": "Vicífhoinse",
