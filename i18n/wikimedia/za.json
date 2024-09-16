@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"Midleading",
 			"唐吉訶德的侍從"
 		]
 	},
 	"sitesupport": "Gien",
+	"wikibase-sitelinks-wikinews": "Veizgiek Sinhvwnz",
+	"wikibase-sitelinks-wikiquote": "Veizgiek Yijluz",
+	"wikibase-sitelinks-wikisource": "Veizgiek Vwnzgu",
+	"wikibase-sitelinks-wikivoyage": "Veizgiek Lijyouz",
 	"wikibase-otherprojects-commons": "Veizgiek Gunghyungh",
 	"wikibase-otherprojects-testwikidata": "Veizgiek Soqgi",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",

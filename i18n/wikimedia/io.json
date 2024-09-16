@@ -103,6 +103,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Vu tacite konkordas, furnisante ica informi a Wikimedia Foundation, ke ni povos kontaktar vu pri tradukuri od altra temi quin ni konsideros interesanta por vu relate la movado Wikimedia. Vu konkordas ke la datumi pri vu povos konservesor en Usa, e submisesos a nia [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy politiko pri privateso].",
 	"upload-more-photos-of-this-monument": "Sendar plusa fotografuri pri ica monumento",
 	"wikimedia-developers": "Kreinti di la programo",
+	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Politiko pri privateso]",
 	"upload-form-label-not-own-work-message-commons": "Se vu ne havas autoroyuro pri ica arkivo, o vu deziras sendar ol sub diferanta autoroyuro-persmiso, konsiderez uzar l'utensilo [https://commons.wikimedia.org/wiki/Special:UploadWizard Commons Upload Wizard].",
 	"interlanguage-link-mul": "Plusa lingui",
 	"interlanguage-link-wikipedia": "Wikipedio",
@@ -121,5 +122,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Yes",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Yes",
-	"gadget-souspages-subpages": "Subpagini"
+	"gadget-souspages-subpages": "Subpagini",
+	"wikimedia-help-translate-prompt": "Ka tu deziras helpar tradukar? [$1 Tradukez mankanta mesaji]."
 }
