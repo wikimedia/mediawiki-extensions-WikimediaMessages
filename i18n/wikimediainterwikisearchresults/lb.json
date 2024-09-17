@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Les Meloures",
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"search-interwiki-results-afwiki": "Resultater vun der [[:af:|Wikipedia op Afrikaans]].",
@@ -31,6 +32,7 @@
 	"search-interwiki-results-hywiki": "Resultater vun der [[:hy:|armenescher Wikipedia]]",
 	"search-interwiki-results-itwiki": "Resultater vun der [[:it:|italienescher Wikipedia]]",
 	"search-interwiki-results-jawiki": "Resultater vun der [[:ja:|Japanescher Wikipedia]].",
+	"search-interwiki-results-kgewiki": "Resultater vun der [[:kge:|Komering-Wikipedia]].",
 	"search-interwiki-results-kowiki": "Resultater vun der [[:ko:|Koreanescher Wikipedia]].",
 	"search-interwiki-results-kshwiki": "Resultater vun der [[:ksh:|Wikipedia op ripuaresch]]",
 	"search-interwiki-results-kuwiki": "Resultater vun der [[:ku:|Kurdescher Wikipedia]].",
@@ -40,6 +42,7 @@
 	"search-interwiki-results-lmowiki": "Resultater vun der [[:lmo:|Lombardescher Wikipedia]].",
 	"search-interwiki-results-ltwiki": "Resultater vun der [[:lt:|litauescher Wikipedia]]",
 	"search-interwiki-results-mnwiki": "Resultater vun der [[:mn:|Wikipedia op mongolesch]].",
+	"search-interwiki-results-moswiki": "Resultater vun der [[:mos:|Mooré-Wikipedia]].",
 	"search-interwiki-results-mowiki": "Resultater vun der [[:mo:|Moldawescher Wikipedia]].",
 	"search-interwiki-results-mtwiki": "Resultater vun der [[:mt:|maltesescher Wikipedia]]",
 	"search-interwiki-results-napwiki": "Resultater vun der [[:nap:|Wikipedia op neapolitanesch]].",

@@ -3,6 +3,7 @@
 		"authors": [
 			"NR Deblocked",
 			"Nemo bis",
+			"Некто участник",
 			"ОйЛ"
 		]
 	},
@@ -10,7 +11,7 @@
 	"tooltip-n-sitesupport": "помоꙃи намъ",
 	"group-steward": "приставьници",
 	"group-steward-member": "{{GENDER:$1|приставьникъ|приставьница}}",
-	"wikimedia-copyright": "подъ прощєниѥмь <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙\nꙀьри <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/cu\">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма",
+	"wikimedia-copyright": "подъ прощєниѥмь <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"></a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙\nꙀьри <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма",
 	"wikimedia-copyrightwarning": "ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тѣ бѫди съгласьнъ съ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєниѥма [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0] и [https://www.gnu.org/copyleft/fdl.html GFDL] ⁙\nсъгласьнь бѫди бо съвѧꙁь (URL) добро оукаꙁаниѥ творьца прощєниꙗ Creative Commons дѣлꙗ ѥстъ",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|радоуи сѧ}} · $1",
 	"wikibase-sitelinks-wikinews": "Викивѣсти",
@@ -24,5 +25,8 @@
 	"wikibase-otherprojects-wikinews": "Викивѣсти",
 	"wikibase-otherprojects-wikipedia": "Википєдїꙗ",
 	"wikibase-otherprojects-wikisource": "Викиѳика",
+	"wikimedia-developers": "съмѣтатєл҄ꙗ алгорѷѳма сътворитѣли",
+	"wikimedia-statslink": "статїстїка",
+	"wikimedia-cookiestatement": "Е҆писто́лїа о Cookies",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "нѣтъ"
 }
