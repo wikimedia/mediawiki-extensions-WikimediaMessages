@@ -14,7 +14,7 @@ before merging. */
 
 .mixin-links-in-styled-tables-readable() {
 	/* Limited to article namespace. This should not be added to namespaces which reset colors e.g. Portal (100) */
-	body.ns-0 table:not( .infobox ):not( .navbox-inner ):not( .navbox ) {
+	body.ns-0 .mw-parser-output table:not( .infobox ):not( .navbox-inner ):not( .navbox ) {
 		[bgcolor],
 		&[style*="background"]:not([style*="transparent"]):not([style*="inherit"]),
 		th@{selector-inline-style-color},
