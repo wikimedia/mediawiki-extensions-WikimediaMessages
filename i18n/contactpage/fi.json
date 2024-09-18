@@ -15,6 +15,7 @@
 	"contactpage-subject-requestlicense": "Wikimedian tavaramerkin käyttöpyyntö",
 	"contactpage-license-request-username": "Käyttäjänimi",
 	"contactpage-license-request-relevantsite": "Asiaan liittyvä Wikimedia-sivusto (valinnainen)",
+	"contactpage-license-request-group": "Wikimedia-osasto, -temaattinen organisaatio tai -käyttäjäryhmä & nimi (jos sellainen on)",
 	"contactpage-license-request-title": "Titteli (tarvittaessa)",
 	"contactpage-license-request-organization": "Organisaatio (valinnainen)",
 	"contactpage-license-request-organization-type": "Organisaatiotyyppi (tarvittaessa)",
@@ -52,12 +53,16 @@
 	"contactpage-license-abuse-location": "Väärinkäytön tapahtumapaikka (verkossa/verkon ulkopuolella)",
 	"contactpage-license-abuse-theircontact": "Tavaramerkkiä väärin käyttävän henkilön yhteystiedot (mikäli tiedossa)",
 	"contactpage-license-abuse-yourcontact": "Yhteystietosi (jos saamme ottaa yhteyttä sinuun)",
-	"contactpage-affcom-user-group-logo-wm-logo": "”Jos haluat käyttää '''Wikimedia logoa''', voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].”",
+	"contactpage-affcom-user-group-logo-wm-logo": "''Jos haluat käyttää '''Wikimedia logoa''', voit [[Special:Contact/requestlicense|pyytää tavaramerkkilisenssiä]].''",
 	"contactpage-affcom-chapter-thorg-elections-label": "Vaalit",
 	"contactpage-title-stewards": "Ota yhteyttä ylivalvojiin",
+	"contactpage-movecom-signup-username-label": "Käyttäjänimesi",
+	"contactpage-movecom-signup-affiliation-label": "Pääasiallinen yhteytesi Wikimedia-liikkeen viestintään",
 	"contactpage-movecom-signup-affiliation-foundation": "Wikimedia Foundation",
 	"contactpage-movecom-signup-affiliation-projects": "Wikimedia-hankkeet (Wikipedia, Wikidata, Wikisanakirja, yms.)",
 	"contactpage-movecom-signup-display-name": "Nimi",
 	"contactpage-movecom-signup-display-username": "Käyttäjänimi",
-	"contactpage-movecom-signup-display-nameusername": "Nimi ja käyttäjänimi"
+	"contactpage-movecom-signup-display-nameusername": "Nimi ja käyttäjänimi",
+	"contactpage-title-ombudscommission": "Ota yhteyttä tietosuojavalvontakomissioon",
+	"contactpage-ombudscommission-case-explanation": "Selitä mitä on tapahtunut:"
 }

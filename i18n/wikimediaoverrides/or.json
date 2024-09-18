@@ -1,8 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Psubhashish"
+		]
 	},
 	"wikimedia-centralauth-groupname": "ଉଇକିମିଡ଼ିଆ ଫାଉଣ୍ଡେସନ",
+	"wikimedia-flow-terms-of-use-edit": "ବଦଳସବୁ ପ୍ରକାଶ କରି ଆପଣ ଆମର [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ]ରେ ସହମତ ହେଲେ ଏବଂ ଆପଣଙ୍କ ଲେଖାକୁ ଅପରିବର୍ତ୍ତନୀୟ ଭାବେ $1 {{PLURAL:$2|ଅଧୀନରେ}} ପ୍ରକାଶ କଲେ ।",
 	"wikimedia-sitematrix": "ଉଇକିମିଡ଼ିଆ ଉଇକିମାନଙ୍କର ତାଲିକା",
 	"wikimedia-sitematrix-others": "ଉଇକିମିଡ଼ିଆର ବାକି ପ୍ରକଳ୍ପ",
 	"wikimedia-sitematrix-summary": "ଏହି ବିଶେଷ ପୃଷ୍ଠାଟିରେ ସବୁଯାକ ଉଇକିମିଡ଼ିଆ ଉଇକିର ତାଲିକା ଅଛି ।"
