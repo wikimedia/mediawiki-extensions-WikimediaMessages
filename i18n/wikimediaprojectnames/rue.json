@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tkalyn"
+			"Tkalyn",
+			"Constraque"
 		]
 	},
-	"project-localized-name-commonswiki": "Вікісклад"
+	"project-localized-name-commonswiki": "Вікісклад",
+	"project-localized-name-ruewiki": "Русиньска Вікіпедія"
 }

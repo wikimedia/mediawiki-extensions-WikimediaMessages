@@ -10,7 +10,8 @@
 			"Kenrick95",
 			"Mnam23",
 			"Nemo bis",
-			"Veracious"
+			"Veracious",
+			"Ezagren"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Pengunjung wiki ini telah membuat {{PLURAL:$1|1 akun|$1 akun}} menggunakan alamat IP Anda selama 24 jam terakhir, yang merupakan banyak pembuatan maksimum yang diperbolehkan selama periode waktu ini. Akibatnya, pengunjung yang menggunakan alamat IP ini tidak bisa membuat lebih banyak akun pada saat ini.\n\nJika Anda berada di acara yang berfokus pada berkontribusi ke proyek Wikimedia, tolong lihat [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Meminta penangguhan sementara batas IP]] untuk membantu menyelesaikan masalah ini.",
@@ -48,5 +49,6 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Kebijakan Privasi]",
 	"wikimedia-notification-body-oathauth-disable-other": "Jika {{GENDER:$2|Anda}} tidak meminta ini, {{GENDER:$2|Anda}} sebaiknya menghubungi WMF Trust & Safety.",
 	"wikimedia-ipinfo-source-geoip2": "Pemakaian perangkat ini oleh Anda diatur oleh [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines pedoman perangkat Informasi IP].",
-	"wikimedia-similareditors-error-default": "Ada yang tidak beres, kami sedang menyelidikinya. Jika masalah berlanjut, hubungi kami [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors di sini]."
+	"wikimedia-similareditors-error-default": "Ada yang tidak beres, kami sedang menyelidikinya. Jika masalah berlanjut, hubungi kami [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors di sini].",
+	"wikimedia-oathauth-step1-test": "Unduh program untuk autentikasi dua faktor. Lihat [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication] untuk klien yang disarankan."
 }

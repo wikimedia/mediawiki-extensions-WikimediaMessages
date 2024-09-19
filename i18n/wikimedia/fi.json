@@ -328,7 +328,7 @@
 	"eri-rcfilters-tour-highlight-button": "Selvä",
 	"eri-rcfilters-tour-confirm-title": "Uudet suodattimet ovat nyt käytössä",
 	"wikimedia-centralauth-contribs-locked": "Tämä käyttäjätunnus on lukittu järjestelmänlaajuisesti.\nKatso [[m:Special:CentralAuth/$1|järjestelmänlaajuisen tunnuksen tiedot]] lisätietoja varten.",
-	"securepoll-dblist-securepollglobal": "Hallituksen vaalit",
+	"securepoll-dblist-securepollglobal": "Johtokunnan vaalit",
 	"wikimedia-statslink": "Tilastot",
 	"wikimedia-wikistats-label": "Wikistats",
 	"wikimedia-wikistats-tagline": "Wikimedia-tilastot",
@@ -403,5 +403,7 @@
 	"wikimedia-foundation-questions-prompt": "Kysymyksiä Wikimedia-säätiöstä tai hankkeistamme? Ota yhteyttä tiimiimme.",
 	"wikimedia-foundation-questions-prompt-withemail": "Kysymyksiä Wikimedia-säätiölle? Ota yhteyttä tiimiimme sähköpostitse osoitteessa '''answers@wikimedia.org'''",
 	"wikimedia-translation-disclaimer-nolink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, alkuperäinen englanninkielinen versio pätee.",
-	"wikimedia-translation-disclaimer-withlink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, [[$1|alkuperäinen englanninkielinen versio]] pätee."
+	"wikimedia-translation-disclaimer-withlink": "Huomioi, että mikäli tämän sisällön alkuperäisen englanninkielisen version ja käännetyn version välillä on eroja merkityksessä tai tulkinnassa, [[$1|alkuperäinen englanninkielinen versio]] pätee.",
+	"wikimedia-foundation-staffdisclaimer-userpage": "Työskentelen tai tarjoan palveluita Wikimedia-säätiölle, ja yritän käyttää tämä käyttäjätunnusta muokkauksiin tai lausuntoihin, joita teen siinä roolissa. Säätiö ei kuitenkaan valvo kaikkea toimintaani, eivätkä tämän tunnuksen tekemät muokkaukset, lausunnot tai muut toimenpiteet välttämättä kuvasta säätiön näkemyksiä.",
+	"wikimedia-talk-archive-page-intro": "Tämä on '''arkisto''' aiemmista keskusteluista. '''Älä muokkaa tämän sivun sisältöä.''' Jos haluat aloittaa uuden keskustelun tai nostaa esiin vanhan keskustelun, tee se [[$1|nykyisellä keskustelusivulla]]."
 }
