@@ -1,9 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bbeshir"
+			"Bbeshir",
+			"IdrisSeid"
 		]
 	},
+	"wm-license-information-description": "ሸርሕ",
+	"wm-license-information-source": "ዒን",
 	"wm-license-information-date": "ዕለት",
+	"wm-license-information-author": "ኬትባይ",
 	"wm-license-own-work": "ናይ ኖስ ሽቁል"
 }
