@@ -7,6 +7,7 @@
 			"Hydra",
 			"Impersonator 1",
 			"Liuxinyu970226",
+			"Midleading",
 			"Multichill",
 			"Mys 721tx",
 			"Mywood",
@@ -118,5 +119,6 @@
 	"wm-license-self-one-license-with-author": "$1，本作品著作权人，特此采用以下许可协议发表本作品：",
 	"wm-license-self-multiple-licenses": "我，本作品著作权人，特此采用以下许可协议发表本作品：",
 	"wm-license-self-multiple-licenses-with-author": "$1，本作品著作权人，特此采用以下许可协议发表本作品：",
-	"wm-license-self-multiple-licenses-select": "您可以选择您需要的许可协议。"
+	"wm-license-self-multiple-licenses-select": "您可以选择您需要的许可协议。",
+	"wm-license-self-invalid-parameter": "参数无效。此公有领域模板不应使用在自身模板。"
 }
