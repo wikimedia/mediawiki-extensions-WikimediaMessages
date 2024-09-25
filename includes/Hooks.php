@@ -328,12 +328,10 @@ class Hooks implements
 		}
 
 		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
+		$isMobile = $this->mobileContext && $this->mobileContext->shouldDisplayMobileView();
 
-		if ( $this->mobileContext && $this->mobileContext->shouldDisplayMobileView() ) {
-			$msg = 'mobile-frontend-copyright';
+		if ( $isMobile ) {
 			$link = $this->getShortenedLicenseLink();
-			self::skinCopyrightFooterMobile( $msg );
-			return;
 		}
 
 		switch ( $licensing ) {
@@ -352,10 +350,11 @@ class Hooks implements
 				break;
 			case 'standard':
 				// Almost all Wikimedia wikis using CC-BY-SA 4.0 are also dual-licensed under GFDL.
-				$msg = 'wikimedia-copyright';
+				$msg = $isMobile ? 'mobile-frontend-copyright' : 'wikimedia-copyright';
 				break;
 			case 'wikinews':
 				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
+				$msg = $isMobile ? 'mobile-frontend-copyright' : $msg;
 				break;
 			case 'wikifunctions':
 				// Wikifunctions like Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. The data is
@@ -395,42 +394,6 @@ class Hooks implements
 				break;
 			case 'wikinews':
 				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
-				break;
-			default:
-				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
-		}
-	}
-
-	/**
-	 * Override for copyright message (MobileFrontend extension).
-	 *
-	 * @param string &$msg
-	 */
-	private static function skinCopyrightFooterMobile( &$msg ) {
-		global $wgWikimediaMessagesLicensing;
-		$licensing = $wgWikimediaMessagesLicensing;
-
-		switch ( $licensing ) {
-			case 'wikidata':
-				// Wikidata needs its own special message. See T112088
-				$msg = 'wikidata-copyright';
-				break;
-			case 'mediawiki':
-				// MediaWiki.org also needs its own special message, to mention the Help: namespace.
-				$msg = 'mediawiki.org-copyright';
-				break;
-			case 'commons':
-				// Commons also needs its own special message, to mention the structured data.
-				$msg = 'wikimedia-commons-copyright';
-				break;
-			case 'standard':
-			case 'wikinews':
-				// Use the default MobileFrontend message.
-				break;
-			case 'wikifunctions':
-				// Wikifunctions is licensed under CC-BY-SA 4.0 only, no GFDL. The data is under CC0.
-				// The code is under Apache 2.0.
-				$msg = 'wikifunctions-site-footer-copyright';
 				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
