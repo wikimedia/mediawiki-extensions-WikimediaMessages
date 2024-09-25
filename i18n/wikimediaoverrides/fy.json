@@ -8,6 +8,6 @@
 	"wikimedia-createacct-imgcaptcha-help": "Ofbyld net te sjen? [[{{MediaWiki:createacct-captcha-help-url}}|Freegje in akkount]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Meidochnammebelied",
 	"wikimedia-discussiontools-replywidget-terms-click": "Mei it klikken op \"$1\" stimme jo yn mei ús [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/fy Gebrûksbetingsten], en geane jo akkoart jo tekst ûnwerroplik frij te jaan {{PLURAL:$3|ûnder}} $2.",
-	"wikimedia-feedback-termsofuse": "Ik gean akkoart om weromkeppeling te jaan neffens de <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Gebrûksbetingsten</a>.",
+	"wikimedia-feedback-termsofuse": "Ik gean akkoart om weromkeppeling te jaan neffens de [https://foundation.wikimedia.org/wiki/Terms_of_Use Gebrûksbetingsten].",
 	"wikimedia-sitematrix": "List fan Wikimedia-wiki's"
 }

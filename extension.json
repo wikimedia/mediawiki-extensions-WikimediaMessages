@@ -37,8 +37,7 @@
 		"wikidata-copyright",
 		"wikifunctions-site-footer-copyright",
 		"wikifunctions-edit-copyrightwarning-function",
-		"wikifunctions-edit-copyrightwarning-implementation",
-		"wikimedia-feedback-termsofuse"
+		"wikifunctions-edit-copyrightwarning-implementation"
 	],
 	"AutoloadNamespaces": {
 		"MediaWiki\\Extension\\WikimediaMessages\\": "includes/"
