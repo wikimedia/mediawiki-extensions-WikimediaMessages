@@ -17,12 +17,14 @@ use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SidebarBeforeOutputHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
 use MediaWiki\Hook\SkinCopyrightFooterHook;
+use MediaWiki\Hook\SkinCopyrightFooterMessageHook;
 use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
 use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
 use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\MainConfigNames;
+use MediaWiki\Message\Message;
 use MediaWiki\Output\Hook\BeforePageDisplayHook;
 use MediaWiki\Output\OutputPage;
 use MediaWiki\Permissions\PermissionManager;
@@ -39,6 +41,7 @@ use MobileContext;
 use Skin;
 use SkinTemplate;
 use Wikimedia\IPUtils;
+use Wikimedia\Message\MessageSpecifier;
 
 /**
  * Hooks for WikimediaMessages extension
@@ -54,6 +57,7 @@ class Hooks implements
 	SidebarBeforeOutputHook,
 	SkinAddFooterLinksHook,
 	SkinCopyrightFooterHook,
+	SkinCopyrightFooterMessageHook,
 	SkinTemplateNavigation__UniversalHook,
 	SpecialPageBeforeExecuteHook,
 	UploadForm_initialHook
@@ -288,7 +292,7 @@ class Hooks implements
 		};
 	}
 
-	private function getShortenedLicenseLink(): string {
+	private function getShortRightsLink(): string {
 		$rightsText = $this->options->get( MainConfigNames::RightsText );
 		$rightsPage = $this->options->get( MainConfigNames::RightsPage );
 		$rightsUrl = $this->options->get( MainConfigNames::RightsUrl );
@@ -313,7 +317,7 @@ class Hooks implements
 	}
 
 	/**
-	 * Override for copyright message in skin footer.
+	 * Override for copyright message in skin footer. (DEPRECATED HOOK)
 	 *
 	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinCopyrightFooter
 	 *
@@ -331,7 +335,7 @@ class Hooks implements
 		$isMobile = $this->mobileContext && $this->mobileContext->shouldDisplayMobileView();
 
 		if ( $isMobile ) {
-			$link = $this->getShortenedLicenseLink();
+			$link = $this->getShortRightsLink();
 		}
 
 		switch ( $licensing ) {
@@ -360,6 +364,59 @@ class Hooks implements
 				// Wikifunctions like Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. The data is
 				// under CC0. The code is under Apache 2.0.
 				$msg = 'wikifunctions-site-footer-copyright';
+				break;
+			default:
+				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
+		}
+	}
+
+	/**
+	 * Override for copyright message in skin footer.
+	 *
+	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinCopyrightFooterMessage
+	 *
+	 * @param Title $title
+	 * @param string $type
+	 * @param MessageSpecifier &$msgSpec
+	 */
+	public function onSkinCopyrightFooterMessage( $title, $type, &$msgSpec ) {
+		if ( $type === 'history' ) {
+			return;
+		}
+
+		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
+		$isMobile = $this->mobileContext && $this->mobileContext->shouldDisplayMobileView();
+
+		switch ( $licensing ) {
+			case 'wikidata':
+				// Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. (Also, the data is under CC0.)
+				$msgSpec = Message::newFromSpecifier( 'wikidata-copyright-footer' );
+				break;
+			case 'mediawiki':
+				// MediaWiki.org has a special licence for the Help: namespace.
+				$msgSpec = Message::newFromSpecifier( 'mediawiki.org-copyright-footer' );
+				break;
+			case 'commons':
+				// Commons has a special licence for the structured data.
+				// TODO: Should we also mention the special Data: namespace?
+				$msgSpec = Message::newFromSpecifier( 'wikimedia-commons-copyright-footer' );
+				break;
+			case 'standard':
+				// Almost all Wikimedia wikis using CC-BY-SA 4.0 are also dual-licensed under GFDL.
+				$msgSpec = $isMobile
+					? Message::newFromSpecifier( 'mobile-frontend-copyright' )->rawParams( $this->getShortRightsLink() )
+					: Message::newFromSpecifier( 'wikimedia-copyright-footer' );
+				break;
+			case 'wikinews':
+				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
+				$msgSpec = $isMobile
+					? Message::newFromSpecifier( 'mobile-frontend-copyright' )->rawParams( $this->getShortRightsLink() )
+					: $msgSpec;
+				break;
+			case 'wikifunctions':
+				// Wikifunctions like Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. The data is
+				// under CC0. The code is under Apache 2.0.
+				$msgSpec = Message::newFromSpecifier( 'wikifunctions-site-footer-copyright-footer' );
 				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );

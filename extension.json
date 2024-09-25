@@ -81,6 +81,9 @@
 		"SkinCopyrightFooter": {
 			"handler": "WikimediaMessagesHooks"
 		},
+		"SkinCopyrightFooterMessage": {
+			"handler": "WikimediaMessagesHooks"
+		},
 		"EditPageCopyrightWarning": {
 			"handler": "WikimediaMessagesHooks"
 		},
