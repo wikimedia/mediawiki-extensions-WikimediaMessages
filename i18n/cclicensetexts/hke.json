@@ -8,7 +8,11 @@
 	"wm-license-cc-free": "Uwete rubu",
 	"wm-license-cc-free-to-share-header": "kwe shanchanya",
 	"wm-license-cc-free-to-share-text": "kwe shushanya ne shanchanya amulimo",
+	"wm-license-cc-free-to-remix-header": "kwekola remix",
+	"wm-license-cc-free-to-remix-text": "kwe hingya amulimo",
 	"wm-license-cc-conditions": "Kwekulikirana na miomba ino:",
+	"wm-license-cc-conditions-attribution-header": "rubu",
+	"wm-license-cc-conditions-attribution-text": "Ushushire itubwerekya kushe kushe amuandiki, ne leta amwerekero kwa bumpfikane, ni waba ne neena tikuno hali byowahingyaa. Ni wakola byo mu ndee sikwirire, butsire hema mbu amuandiki akuhe rubu lwe kolesa byo kwaukola.",
 	"wm-license-cc-conditions-share_alike-header": "shancha byo ko biri",
 	"wm-license-cc-conditions-share_alike-text": "Ukexubanya, neri ukehingya, neri ukekolesa akitabo iki, ushushire ishanchanya asancharangi sawe ku [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] nga kyamira."
 }
