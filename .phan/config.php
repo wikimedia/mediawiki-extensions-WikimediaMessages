@@ -7,6 +7,7 @@ $cfg['directory_list'] = array_merge(
 	[
 		'../../extensions/CampaignEvents',
 		'../../extensions/GuidedTour',
+		'../../extensions/MobileFrontend',
 		'../../extensions/ORES',
 		'../../skins/MinervaNeue',
 	]
@@ -17,6 +18,7 @@ $cfg['exclude_analysis_directory_list'] = array_merge(
 	[
 		'../../extensions/CampaignEvents',
 		'../../extensions/GuidedTour',
+		'../../extensions/MobileFrontend',
 		'../../extensions/ORES',
 		'../../skins/MinervaNeue',
 	]

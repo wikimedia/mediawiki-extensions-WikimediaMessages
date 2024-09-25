@@ -23,7 +23,6 @@ use MediaWiki\Html\Html;
 use MediaWiki\Linker\Linker;
 use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\MainConfigNames;
-use MediaWiki\MediaWikiServices;
 use MediaWiki\Output\Hook\BeforePageDisplayHook;
 use MediaWiki\Output\OutputPage;
 use MediaWiki\Permissions\PermissionManager;
@@ -36,6 +35,7 @@ use MediaWiki\Title\Title;
 use MediaWiki\User\Options\UserOptionsLookup;
 use MessageCache;
 use MessageLocalizer;
+use MobileContext;
 use Skin;
 use SkinTemplate;
 use Wikimedia\IPUtils;
@@ -65,6 +65,8 @@ class Hooks implements
 		'WikimediaMessagesLicensing',
 		MainConfigNames::LanguageCode,
 		MainConfigNames::RightsText,
+		MainConfigNames::RightsPage,
+		MainConfigNames::RightsUrl,
 	];
 
 	private ExtensionRegistry $extensionRegistry;
@@ -72,20 +74,15 @@ class Hooks implements
 	private PermissionManager $permissionManager;
 	private ServiceOptions $options;
 	private UserOptionsLookup $userOptionsLookup;
+	private ?MobileContext $mobileContext;
 
-	/**
-	 * @param ExtensionRegistry $extensionRegistry
-	 * @param LinkRenderer $linkRenderer
-	 * @param PermissionManager $permissionManager
-	 * @param ServiceOptions $options
-	 * @param UserOptionsLookup $userOptionsLookup
-	 */
 	public function __construct(
 		ExtensionRegistry $extensionRegistry,
 		LinkRenderer $linkRenderer,
 		PermissionManager $permissionManager,
 		ServiceOptions $options,
-		UserOptionsLookup $userOptionsLookup
+		UserOptionsLookup $userOptionsLookup,
+		?MobileContext $mobileContext = null
 	) {
 		$options->assertRequiredOptions( self::CONSTRUCTOR_OPTIONS );
 		$this->extensionRegistry = $extensionRegistry;
@@ -93,28 +90,23 @@ class Hooks implements
 		$this->permissionManager = $permissionManager;
 		$this->options = $options;
 		$this->userOptionsLookup = $userOptionsLookup;
+		$this->mobileContext = $mobileContext;
 	}
 
-	/**
-	 * @param LinkRenderer $linkRenderer
-	 * @param Config $mainConfig
-	 * @param PermissionManager $permissionManager
-	 * @param UserOptionsLookup $userOptionsLookup
-	 *
-	 * @return Hooks
-	 */
 	public static function factory(
 		LinkRenderer $linkRenderer,
 		Config $mainConfig,
 		PermissionManager $permissionManager,
-		UserOptionsLookup $userOptionsLookup
+		UserOptionsLookup $userOptionsLookup,
+		?MobileContext $mobileContext = null
 	): self {
 		return new self(
 			ExtensionRegistry::getInstance(),
 			$linkRenderer,
 			$permissionManager,
 			new ServiceOptions( self::CONSTRUCTOR_OPTIONS, $mainConfig ),
-			$userOptionsLookup
+			$userOptionsLookup,
+			$mobileContext
 		);
 	}
 
@@ -290,23 +282,16 @@ class Hooks implements
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
 		}
 
-		if ( $this->extensionRegistry->isLoaded( 'MobileFrontend' ) ) {
-			$keys['mainpage-title-loggedin'] = static function ( string $key ): string {
-				$context = MediaWikiServices::getInstance()->getService( 'MobileFrontend.Context' );
-
-				return $context->shouldDisplayMobileView() ? 'wikimedia-mobile-mainpage-title-loggedin' : $key;
-			};
-		}
+		$keys['mainpage-title-loggedin'] = function ( string $key ): string {
+			return ( $this->mobileContext && $this->mobileContext->shouldDisplayMobileView() ) ?
+				'wikimedia-mobile-mainpage-title-loggedin' : $key;
+		};
 	}
 
-	/**
-	 * @param Config $config
-	 * @return string
-	 */
-	private function shortenLicenseLink( Config $config ): string {
-		$rightsText = $config->get( 'RightsText' );
-		$rightsPage = $config->get( 'RightsPage' );
-		$rightsUrl = $config->get( 'RightsUrl' );
+	private function getShortenedLicenseLink(): string {
+		$rightsText = $this->options->get( MainConfigNames::RightsText );
+		$rightsPage = $this->options->get( MainConfigNames::RightsPage );
+		$rightsUrl = $this->options->get( MainConfigNames::RightsUrl );
 		$commonLicenses = [
 			'Creative Commons Attribution-Share Alike 4.0' => 'CC BY-SA 4.0',
 			'Creative Commons Attribution-Share Alike 3.0' => 'CC BY-SA 3.0',
@@ -344,16 +329,11 @@ class Hooks implements
 
 		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
 
-		if ( $this->extensionRegistry->isLoaded( 'MobileFrontend' ) ) {
-			$services = MediaWikiServices::getInstance();
-			$config = $services->getConfigFactory()->makeConfig( 'wikimedia-messages' );
-			$context = $services->getService( 'MobileFrontend.Context' );
-			if ( $context->shouldDisplayMobileView() ) {
-				$msg = 'mobile-frontend-copyright';
-				$link = $this->shortenLicenseLink( $config );
-				self::skinCopyrightFooterMobile( $msg );
-				return;
-			}
+		if ( $this->mobileContext && $this->mobileContext->shouldDisplayMobileView() ) {
+			$msg = 'mobile-frontend-copyright';
+			$link = $this->getShortenedLicenseLink();
+			self::skinCopyrightFooterMobile( $msg );
+			return;
 		}
 
 		switch ( $licensing ) {

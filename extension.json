@@ -64,6 +64,9 @@
 				"MainConfig",
 				"PermissionManager",
 				"UserOptionsLookup"
+			],
+			"optional_services": [
+				"MobileFrontend.Context"
 			]
 		},
 		"WikimediaMessagesCampaignEventsHooks": {
