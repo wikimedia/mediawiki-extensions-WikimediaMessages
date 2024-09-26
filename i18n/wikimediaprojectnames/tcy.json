@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"ChiK",
+			"Pragathi. BH",
 			"Ravi Mundkur"
 		]
 	},
+	"project-localized-name-gorwikiquote": "ಗೊರೊಂಟಾಲೊ ವಿಕಿಉಲ್ಲೇಖ",
 	"project-localized-name-group-wikibooks": "ವಿಕಿಪುಸ್ತಕೊಲು",
 	"project-localized-name-group-wikinews": "ವಿಕಿನ್ಯೂಸ್",
 	"project-localized-name-group-wikipedia": "ವಿಕಿಪೀಡಿಯ",
@@ -12,5 +14,8 @@
 	"project-localized-name-group-wikisource": "ವಿಕಿಸೋರ್ಸ್",
 	"project-localized-name-group-wikiversity": "ವಿಕಿವರ್ಸಿಟಿ",
 	"project-localized-name-group-wikivoyage": "ವಿಕಿವೊಯೇಜ್",
-	"project-localized-name-punjabiwikimedia": "ಪಂಜಾಬಿ ವಿಕಿಮೀಡಿಯದಕುಲು"
+	"project-localized-name-punjabiwikimedia": "ಪಂಜಾಬಿ ವಿಕಿಮೀಡಿಯದಕುಲು",
+	"project-localized-name-rskwiki": "ಪನ್ನೋನಿಯನ್ ರುಸಿನ್ ವಿಕಿಪೀಡಿಯ",
+	"project-localized-name-shnwikinews": "ಶಾನ್ ವಿಕಿನ್ಯೂಸ್",
+	"project-localized-name-tddwiki": "ತೈ ನುವಾ ವಿಕಿಪೀಡಿಯ"
 }
