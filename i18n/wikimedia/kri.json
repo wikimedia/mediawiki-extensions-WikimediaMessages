@@ -5,17 +5,17 @@
 			"Protostar"
 		]
 	},
-	"sitesupport": "Gi kòpò",
+	"sitesupport": "Gi kɔpɔ",
 	"tooltip-n-sitesupport": "Sùppòrt wi",
-	"wikimedia-copyright": "Teks de ɔnda di <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike Laysens</a> ;\nɔda tin dɛn kin aplay.\nLuk <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">di Tɛm fɔ Yuz</a> fɔ di ditel dɛn.",
+	"wikimedia-copyright": "Tɛks avelebul ɔnda di <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike Laysens</a> ;\nɔda tin dɛn kin aplay.\nLuk <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">di Tɛm fɔ Yuz</a> fɔ di ditel dɛn.",
 	"wikimedia-copyrightwarning": "We yu kip di chenj dɛn, yu gri wit di [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Tɛm fɔ Yuz], ɛn yu gri fɔ rilis yu kɔntribyushɔn ɔnda di [https://creativecommons. org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 Laysens] ɛn di [https://en.wikipedia.org/wiki/Wikipedia:Tɛks_fɔ_di_GNU_Fri_Dokumɛnt_Laysens GFDL].\nYu gri se wan haypa link ɔ URL na inof atribiushɔn ɔnda di Krio Kɔmɔns laysens.",
 	"wikibase-sitelinks-wikinews": "Wikinyuz",
 	"wikibase-sitelinks-wikiquote": "Wikikwot",
 	"wikibase-sitelinks-wikisource": "Wikisɔs",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Devèlòpardèm",
+	"wikimedia-developers": "Divɛlɔpadɛm",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nDɛn mek di blɔk bay $1 ( $2 ).\nDi rizin we dɛn gi na '' $3 ''. \n\n* Start fɔ blɔk: $4 \n* Di blɔk dɔn: $5 \n\nYu IP adrɛs naw na $6 .\n{{int:blockedtext-include-details-queries}} \n\n{{int:wikimidia-globalblɔk-blɔk-tɛks-mistek}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nDɛn mek di blɔk bay $1 ( $2 ).\nDi rizin we dɛn gi na '' $3 ''. \n\n* Start fɔ blɔk: $4 \n* Di blɔk dɔn: $5 \n\n{{int:globalblocking-blockedtext-proxy| $7 }}\n{{int:blɔk tɛks-inklud-ditel-kwɛshɔn}}\n\n{{int:wikimidia-globalblɔk-blɔktɛks-mistek}}",
-	"wikimedia-statslink": "Statistik dɛn",
+	"wikimedia-statslink": "Statistikdɛm",
 	"wikimedia-cookiestatement": "Kuki stetmɛnt"
 }

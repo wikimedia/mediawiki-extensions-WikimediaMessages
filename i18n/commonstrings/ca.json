@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Lluis Cat"
 		]
 	},
 	"wm-commonstrings-background": "Rerefons",
@@ -19,7 +20,7 @@
 	"wm-commonstrings-participate": "Participa-hi",
 	"wm-commonstrings-questions": "Preguntes",
 	"wm-commonstrings-reports": "Informes",
-	"wm-commonstrings-resolutions": "Resolucions",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Resolució|Resolucions}}",
 	"wm-commonstrings-scope": "Àmbit",
 	"wm-commonstrings-seealso": "Vegeu també",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Drecera|Dreceres}}",
