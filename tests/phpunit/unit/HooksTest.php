@@ -20,7 +20,7 @@ class HooksTest extends MediaWikiUnitTestCase {
 	/** @dataProvider provideOnBeforePageDisplay */
 	public function testOnBeforePageDisplay( $wikimediaStyleSkins, $currentSkin, $expectedModuleStyles ) {
 		/** @var Hooks $hooks */
-		$hooks = $this->newServiceInstance( Hooks::class, [] );
+		$hooks = $this->newServiceInstance( Hooks::class, [ 'mobileContext' => null ] );
 		// Make Skin::getSkinName return $currentSkin
 		$skin = $this->createMock( Skin::class );
 		$skin->method( 'getSkinName' )
@@ -49,7 +49,7 @@ class HooksTest extends MediaWikiUnitTestCase {
 		// Calls ::onSkinCopyrightFooter with the $type argument as history and expect that it just returns without
 		// doing anything else. This is checked by ensuring the $msg and $link provided by reference is not modified.
 		/** @var Hooks $hooks */
-		$hooks = $this->newServiceInstance( Hooks::class, [] );
+		$hooks = $this->newServiceInstance( Hooks::class, [ 'mobileContext' => null ] );
 		$msg = 'msg';
 		$link = 'link';
 		$hooks->onSkinCopyrightFooter( $this->createMock( Title::class ), 'history', $msg, $link );
