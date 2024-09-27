@@ -191,7 +191,7 @@
 	"wikimedia-copyrightwarning": "Хийцамаш дӀайазбина, хьо реза хуьлу [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru лелоран билламан], цул сов, хьо реза хуьлу йухайоккхила доцу лицензешца [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] а, [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] а хьан къинхьегам дӀайазбан. Цул сов хьо реза хуьлу, хьан къинхьегам баржош Creative Commons лицензица гиперхьажорг йа агӀонан URL йира хиларна.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 лицензи] йа [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] а, [https://www.gnu.org/licenses/fdl.html GFDL] а",
-	"wikifunctions-edit-copyrightwarning-implementation": "«ДӀайазйан» тӀетаӀийна, хьо реза хуьйла <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Лелоран билламашца</a>, иштта хьо бехкам боцуш реза хуьйла хьайн къинхьегам дӀабала <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">Apache 2.0 лицензица</a>",
+	"wikifunctions-editing-copyrightwarning-implementation": "«ДӀайазйан» тӀетаӀийна, хьо реза хуьйла [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Лелоран билламашца], иштта хьо бехкам боцуш реза хуьйла хьайн къинхьегам дӀабала [https://www.apache.org/licenses/LICENSE-2.0 Apache 2.0 лицензица]",
 	"wikimedia-mobile-mainpage-title-loggedin": "Марша догӀийла, $1!",
 	"wikibase-repo-name": "Викихаамаш",
 	"wikibase-statementsection-constraints": "Дозатохарш",
