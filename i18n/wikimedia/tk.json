@@ -96,7 +96,7 @@
 	"group-steward-member": "stýuard",
 	"group-sysadmin": "Ulgam administratorlary",
 	"group-sysadmin-member": "ulgam administratory",
-	"wikimedia-copyright": "Tekst <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike lisenziýasyna</a> laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ulanyş şertleri</a>ne serediň.",
+	"wikimedia-copyright-footer": "Tekst [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike lisenziýasyna] laýyklykda elýeterlidir; goşmaça şertler bolmagy mümkin. Jikme-jiklikler üçin [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ulanyş şertleri]ne serediň.",
 	"wikimedia-copyrightwarning": "Ýazdyrmak bilen, goşandyňyzyň yzyna alyp bolmajak ýagdaýda [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] we [https://www.gnu.org/copyleft/fdl.html GFDL] boýunça neşir edilmegine ylalaşýarsyňyz. Bu mazmuny ulanjaklaryň size iň bolmanda goşant eden sahypaňyzyň URL çykgydy bilen salgylanjakdygyny hem kabul edýärsiňiz. Jikme-jiklikler üçin [https://foundation.wikimedia.org/wiki/ Ulanyş şertlerine] serediň.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Hoş geldiňiz}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikitäzelikler",

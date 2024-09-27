@@ -14,7 +14,7 @@
 	"group-ipblock-exempt": "Mga IP nga pinabaliwaray an pagpugong",
 	"group-transwiki": "Mga man-aambit hin transwiki",
 	"group-steward": "Mga tinapuran",
-	"wikimedia-copyright": "May-ada teksto nga nahipapailarom han <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nkadugangan nga mga termino in puyde mag-apply.\nKitaa an<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">mga Termino han Paggamit</a> para han mga detalye.",
+	"wikimedia-copyright-footer": "May-ada teksto nga nahipapailarom han [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nkadugangan nga mga termino in puyde mag-apply.\nKitaa an[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use mga Termino han Paggamit] para han mga detalye.",
 	"wikimedia-copyrightwarning": "Han pag-save han mga ginbag-o, ikaw in natugot han [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use mga Termino hit Paggamit], ngan ikaw in waray atrasan nga natugot nga ihatag an imo amot ha ilarom han [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ngan an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Natugot ka nga sadang na iton hyperlink o URL para han attribution ha ilarom han Creative Commons nga paglisensya.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

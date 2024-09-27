@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "Donirajte",
 	"tooltip-n-sitesupport": "Donirajte",
-	"wikimedia-copyright": "Tekst je dostupan pod licencom <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Imenovanje/Dijeli pod istim uslovima</a>; dodatni uslovi se mogu primjenjivati. Pogledajte <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Uslovi upotrebe</a> za detalje.",
+	"wikimedia-copyright-footer": "Tekst je dostupan pod licencom [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Imenovanje/Dijeli pod istim uslovima]; dodatni uslovi se mogu primjenjivati. Pogledajte [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Uslovi upotrebe] za detalje.",
 	"wikimedia-copyrightwarning": "Snimanjem/čuvanjem izmjena, slažete se sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Uslovima upotrebe], i neopozivo se slažete da vaš doprinos objavite pod [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] i [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] licencom.\nSlažete se da su hiperlink ili URL adresa dovoljni za priznanje autorstva pod Creative Commons licencom.",
 	"wikibase-sitelinks-wikinews": "Vikinovosti",
 	"wikibase-sitelinks-wikiquote": "Vikicitat",

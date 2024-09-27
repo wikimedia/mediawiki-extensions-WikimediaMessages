@@ -18,7 +18,7 @@
 	"group-rollbacker-member": "{{GENDER:$1|revertor}}",
 	"grouppage-rollbacker": "{{ns:project}}:Revertores",
 	"shared-repo-name-shared": "Vicimedia Communia",
-	"wikimedia-copyright": "Nonobstantibus ceteris condicionibus hunc textum tractare licet secundum <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">\"Creative Commons Attribution-ShareAlike License\"</a>.\nVide <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">modos et condiciones</a>.",
+	"wikimedia-copyright-footer": "Nonobstantibus ceteris condicionibus hunc textum tractare licet secundum [https://creativecommons.org/licenses/by-sa/4.0/ \"Creative Commons Attribution-ShareAlike License\"].\nVide [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use modos et condiciones].",
 	"wikimedia-copyrightwarning": "Confirmando pressorium \"{{int:savearticle}}\" [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use conventionem utendi] nostram approbas. Praeterea consentis conlationem tuam sub licentia [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] et [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] publicari.\n\nEtiam confirmas nexum vel URL contributioni sufficere sub Creative Commons licentia.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Salve, $1!",
 	"wikibase-sitelinks-wikibooks": "Vicilibri",

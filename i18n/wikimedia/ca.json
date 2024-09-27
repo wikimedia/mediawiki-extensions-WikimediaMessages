@@ -159,7 +159,7 @@
 	"group-wmf-supportsafety": "Confiança i seguretat de la WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Confiança i seguretat de la WMF}}",
 	"tag-emoji": "Emojis",
-	"wikimedia-copyright": "Text disponible sota la <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ca\">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.\nVegeu les <a href=\"https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca\">condicions d'ús</a> per a més informació.",
+	"wikimedia-copyright-footer": "Text disponible sota la [https://creativecommons.org/licenses/by-sa/4.0/deed.ca Llicència de Creative Commons Reconeixement/Compartir-Igual]; es poden aplicar termes addicionals.\nVegeu les [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca condicions d'ús] per a més informació.",
 	"wikimedia-copyrightwarning": "En desar els canvis esteu acceptant les [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca condicions d'ús] i esteu acceptant, de manera irrevocable, que la vostra contribució s'alliberi sota la [https://creativecommons.org/licenses/by-sa/4.0/deed.ca llicència CC BY-SA 4.0] i la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. També \naccepteu que un hiperenllaç o URL és atribució d'autoria suficient sota la llicència Creative Commons.",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.ca CC BY-SA 4.0] i [https://www.gnu.org/licenses/fdl-1.3.ca.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benvingut|Benvinguda}}, $1!",

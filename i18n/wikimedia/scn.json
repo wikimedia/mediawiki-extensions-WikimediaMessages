@@ -54,7 +54,7 @@
 	"group-sysadmin": "Amministratura di sistema",
 	"group-sysadmin-member": "{{GENDER:$1|amministraturi di sistema|amministratrici di sistema|amministraturi o amministratrici di sistema}}",
 	"tag-emoji": "Emoji",
-	"wikimedia-copyright": "Stu testu è dispunìbbili sutta â <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\">Licenza Creative Commons Attribuzzioni/Spartuta dâ stissa manera</a>;\nsi ponnu applicari àutri cunnizzioni.\nTalìa li <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Cunnizzioni d'usu</a> pî dittagghî.",
+	"wikimedia-copyright-footer": "Stu testu è dispunìbbili sutta â [https://creativecommons.org/licenses/by-sa/4.0/deed.it Licenza Creative Commons Attribuzzioni/Spartuta dâ stissa manera];\nsi ponnu applicari àutri cunnizzioni.\nTalìa li [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Cunnizzioni d'usu] pî dittagghî.",
 	"wikimedia-copyrightwarning": "Sarvannu lu canciamentu, accetti li [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it Cunnizzioni d'Usu], e sî d'accordu pi rènniri dispunìbbili nun rivucabbilmenti lu tò cuntribbutu sutta ê licenzi [https://creativecommons.org/licenses/by-sa/4.0/deed.it Creative Commons Attribuzzioni-Spartuta dâ stissa manera] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nSî d'accordu ca nu culligamentu ipirtistuali o n'URL custituìscinu n'attribbuzzioni vàlida dû tò travagghiu ê senzi dâ licenza Creative Commons.",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] e [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bimminutu|Bimminuta|Bimminutu/a}}, $1!",

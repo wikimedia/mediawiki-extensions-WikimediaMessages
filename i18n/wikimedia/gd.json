@@ -15,7 +15,7 @@
 	"group-centralnoticeadmin": "Rianairean nam prìomh-shanasan",
 	"group-centralnoticeadmin-member": "rianaire nam prìomh-shanasan",
 	"grouppage-centralnoticeadmin": "{{ns:project}}:Rianairean nam prìomh-shanasan",
-	"wikimedia-copyright": "Tha an teacsa seo ri làimh fo cheadachas <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nfaodaidh gu bheil e buailteach do theirmichean a bharrachd.\nFaic <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">teirmichean a’ chleachdaidh</a> airson mion-fhiosrachadh.",
+	"wikimedia-copyright-footer": "Tha an teacsa seo ri làimh fo cheadachas [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike License];\nfaodaidh gu bheil e buailteach do theirmichean a bharrachd.\nFaic [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use teirmichean a’ chleachdaidh] airson mion-fhiosrachadh.",
 	"wikimedia-copyrightwarning": "Nuair a shàbhaileas tu na dh'atharraich thu, aontaichidh tu ri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use teirmichean a' chleachdaidh] agus aontaichidh tu gun tilleadh gum foillsich thu na chuir thu ann fo [https://creativecommons.org/licenses/by-sa/4.0/ ceadachas CC BY-SA 4.0] agus [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAontaichidh tu gum foghainn ceangal-lìn no URL mar urram a-rèir ceadachas Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Fàilte ort}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",

@@ -11,7 +11,7 @@
 	"tooltip-n-sitesupport": "помоꙃи намъ",
 	"group-steward": "приставьници",
 	"group-steward-member": "{{GENDER:$1|приставьникъ|приставьница}}",
-	"wikimedia-copyright": "подъ прощєниѥмь <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\"></a> пьсано ѥстъ · доплънитєл҄ьнꙑ оуставлєниꙗ тако жє могѫтъ бꙑти ⁙\nꙀьри <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">польꙃєваниꙗ оуставъ</a> пльна расъмощрѥниꙗ дѣл̑ьма",
+	"wikimedia-copyright-footer": "подъ прощєниѥмь [https://creativecommons.org/licenses/by-sa/4.0/deed.en польꙃєваниꙗ оуставъ] пльна расъмощрѥниꙗ дѣл̑ьма",
 	"wikimedia-copyrightwarning": "ащє жьмєши ⁖ {{int:savearticle}} ⁖ · тѣ бѫди съгласьнъ съ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use польꙃєваниꙗ оуставомь] · и сътворѥниѥмь твоꙗ добродѣꙗнии подъ прощєниѥма [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0] и [https://www.gnu.org/copyleft/fdl.html GFDL] ⁙\nсъгласьнь бѫди бо съвѧꙁь (URL) добро оукаꙁаниѥ творьца прощєниꙗ Creative Commons дѣлꙗ ѥстъ",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|радоуи сѧ}} · $1",
 	"wikibase-sitelinks-wikinews": "Викивѣсти",

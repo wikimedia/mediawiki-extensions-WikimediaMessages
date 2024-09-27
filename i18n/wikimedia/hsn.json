@@ -8,7 +8,7 @@
 	"sitesupport": "资助",
 	"group-global-flow-create": "全域Flow创建者",
 	"group-global-flow-create-member": "{{GENDER:$1|全域Flow创建者}}",
-	"wikimedia-copyright": "箇网站文字内容采用<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.zh\">知识共享署名-相同方式共享许可协议</a>授权，可能需实行附加条款。详情望下<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">使用条款</a>。",
+	"wikimedia-copyright-footer": "箇网站文字内容采用[https://creativecommons.org/licenses/by-sa/4.0/deed.zh 知识共享署名-相同方式共享许可协议]授权，可能需实行附加条款。详情望下[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]。",
 	"wikimedia-copyrightwarning": "保存更改即表示尔同意[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，跟噠唔可撤销地同意采用[https://zh.wikipedia.org/wiki/Wikipedia:CC_BY-SA_4.0协议文本 CC BY-SA 4.0许可协议]跟噠[https://zh.wikipedia.org/wiki/Wikipedia:GNU自由文档许可证文本 GFDL]发表尔贡献亇内容。咯也表示尔同意在知识共享许可协议下，以标注超链接或URL亇形式署名是十分合理亇。",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|欢迎}}，$1！",
 	"wikibase-sitelinks-wikinews": "維基要聞",

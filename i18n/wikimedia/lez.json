@@ -8,7 +8,7 @@
 	"sitesupport": "Сайтдиз куьмек гун",
 	"tooltip-n-sitesupport": "Жи пад хуьн",
 	"grouppage-oauthadmin": "{{ns:project}}:OAuth администраторар",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike</a> лицензиядал гъил агакьдай я, чара-чара гьалара алава шартӀар хьун мумкин я.\nГегьеншдиз, килига <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru\">Кардик кутунин шартӀар</a>.",
+	"wikimedia-copyright-footer": "Текст [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike] лицензиядал гъил агакьдай я, чара-чара гьалара алава шартӀар хьун мумкин я.\nГегьеншдиз, килига [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru Кардик кутунин шартӀар].",
 	"wikimedia-copyrightwarning": "МасакӀавилер хуьналди куьн [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru ишлемишунин шартӀар]ал рази жезва, ва гьакӀни куьн лицензиядалди отзыв авачир публикациядал рази жезва [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] ва [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Куьн атуй, рагъ атуй}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викихабарар",

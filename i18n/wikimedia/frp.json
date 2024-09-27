@@ -101,7 +101,7 @@
 	"group-translationadmin": "Administrators de traduccion",
 	"group-translationadmin-member": "administrat{{GENDER:$1|or|rice}} de traduccion",
 	"grouppage-translationadmin": "{{ns:project}}:Administrators de traduccion",
-	"wikimedia-copyright": "Los tèxtos sont disponiblos desot <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fr\">licence Creative Commons atribucion-partâjo du mémo 4.0</a> ;\nd’ôtres condicions sè pôvont aplicar.\nVêde les <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/fr\">condicions d’usâjo</a> por més de dètalys.",
+	"wikimedia-copyright-footer": "Los tèxtos sont disponiblos desot [https://creativecommons.org/licenses/by-sa/4.0/deed.fr licence Creative Commons atribucion-partâjo du mémo 4.0] ;\nd’ôtres condicions sè pôvont aplicar.\nVêde les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/fr condicions d’usâjo] por més de dètalys.",
 	"wikimedia-copyrightwarning": "En enregistrent los changements, vos accèptâd les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use condicions d’usâjo] et pués de betar, por de bon, voutra contribucion desot les licences [https://creativecommons.org/licenses/by-sa/4.0/deed.fr Creative Commons atribucion-partâjo du mémo 4.0] et [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nVos accèptâd qu’un hipèrlim ou ben n’URL seye n’atribucion sufisenta desot la licence Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Benvegnua, {{GENDER:$1|}}$1 !",
 	"wikibase-sitelinks-wikinews": "Vouiquinovèles",

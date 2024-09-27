@@ -22,7 +22,7 @@
 	"group-staff-member": "{{GENDER:$1|ажиллах гишүүд}}",
 	"group-steward": "Үйлчлэгчид",
 	"group-steward-member": "үйлчлэгч",
-	"wikimedia-copyright": "Тус хуудасны текстийг <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike лицензийн</a> дагуу ашиглах боломжтой; нэмэлт мэдээллийг <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Хэрэглэх нөхцөл</a> хуудаснаас авна уу",
+	"wikimedia-copyright-footer": "Тус хуудасны текстийг [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike лицензийн] дагуу ашиглах боломжтой; нэмэлт мэдээллийг [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Хэрэглэх нөхцөл] хуудаснаас авна уу",
 	"wikimedia-copyrightwarning": "Өөрчлөлтүүдийг хадгалснаар та [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use]-ийг зөвшөөрч, өөрийн оруулсан хувь нэмрийг [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] болон [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]-ийн доор нийтлэхийг зөвшөөрөх болно.\nТа гипер холбоос эсвэл URL нь Creative Commons лицензийн дагуу хангалттай нэршил юм.",
 	"wikimedia-mobile-mainpage-title-loggedin": "$1 та тавтай морилно уу!",
 	"wikibase-sitelinks-wikinews": "Вики мэдээ",

@@ -12,7 +12,7 @@
 	"sitesupport": "Tanga impano",
 	"group-global-deleter": "Gusiba kw'isi yose",
 	"group-global-deleter-member": "{{GENDER:$1|gusiba kwisi yose}}",
-	"wikimedia-copyright": "Inyandiko ziboneka kuri <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nAyandi majambo ashobora gukurikizwa.\nRaba <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> uronke ibisobanuro.",
+	"wikimedia-copyright-footer": "Inyandiko ziboneka kuri [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nAyandi majambo ashobora gukurikizwa.\nRaba [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] uronke ibisobanuro.",
 	"wikimedia-copyrightwarning": " Nubika ibyahindutse , uraba wemeye  [https://foundation.wikimedia.org/wiki/Amabwiriza_y'imikorere Amabwiriza y'imikorere], kandi wemera bidasubirwaho kurekura umusanzu wawe kuri [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] hamwe na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nWemeye ko Ihuza cyangwa URL ari ikiranga gihagije cya licensi ya creative commons.",
 	"wikifunctions-editing-copyrightwarning-implementation": "Ukanze \"gutangaza\", wemera kuri [//foundation.wikimedia.org/wiki/Amagambo Amagambo yo gukoresha], kandi wemera bidasubirwaho kurekura umusanzu wawe munsi ya [https://www.apache.org/impushya/URUHUSHYA-2.0 Apache 2.0 uruhushya].",
 	"wikibase-sitelinks-wikivoyage": "Wikingendo",

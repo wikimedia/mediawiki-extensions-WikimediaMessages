@@ -106,7 +106,7 @@
 	"group-translationadmin": "Pśełožowańske administratory",
 	"group-translationadmin-member": "{{GENDER:$1|pśełožowaski administrator|pśełožowańska administratorka}}",
 	"grouppage-translationadmin": "{{ns:project}}:Pśełožowańke administratory",
-	"wikimedia-copyright": "Tekst stoj pód <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licencu Creative Commons Attribution-ShareAlike</a> k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Wužywańske wuměnjenja</a> za drobnostki.",
+	"wikimedia-copyright-footer": "Tekst stoj pód [https://creativecommons.org/licenses/by-sa/4.0/ licencu Creative Commons Attribution-ShareAlike] k dispoziciji; pśidatne wuměnjenja mógu se nałožowaś. Glědaj [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Wužywańske wuměnjenja] za drobnostki.",
 	"wikimedia-copyrightwarning": "Pśez składowanje změnow pśigłosujoš [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use wužywańskim wuměnjenjam] a wugronijoš definitiwnje swóju wobjadnosć, až stajijoš swój pśinosk pód licency [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0] a [https://www.gnu.org/copyleft/fdl.html GFDL].\nPśigłosujoš, až wótkaz abo URL jo dosegajuce pśipokazanje pod licencu Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Witaj, $1",
 	"wikibase-otherprojects-wikibooks": "Wikiknigły",

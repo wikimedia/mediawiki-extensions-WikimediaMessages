@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "Цадакьа",
 	"tooltip-n-sitesupport": "Жущал чӀарав бацӀира",
-	"wikimedia-copyright": "Хавар аьварахъну бур <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">сиппат Creative Commons Attribution-ShareAlike</a>, цирив ца чӀумал бюхъай ялунсса шартӀру зун.\nЯлагу биялну яб. <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Мюнпат баврил шартӀру</a>.",
+	"wikimedia-copyright-footer": "Хавар аьварахъну бур [https://creativecommons.org/licenses/by-sa/4.0/deed.ru сиппат Creative Commons Attribution-ShareAlike], цирив ца чӀумал бюхъай ялунсса шартӀру зун.\nЯлагу биялну яб. [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Мюнпат баврил шартӀру].",
 	"wikimedia-copyrightwarning": "Дуруччин дуллай вил дахханашивурту ина рязи хьуссара [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ru ишла баврил шарт|ру], ялагу ина рязи хьуссара махъун лассун къащайсса лицензиялул публикациящал [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] ва [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Ина рязи хъуссара вай баранрув лайкьсса чӀапӀирайн ягу ванил URL-кӀанурду гьассар для шартӀру атрибуциялул лицензиялул Creative Commons биттур бан.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Чаувкра}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викихавартув",

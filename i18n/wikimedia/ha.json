@@ -12,7 +12,7 @@
 	},
 	"sitesupport": "Ba da kyauta",
 	"tooltip-n-sitesupport": "Tallafa mana",
-	"wikimedia-copyright": "An samar da muƙaloli a ƙarƙashin lasisin <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; mai yiwuwa da kwai sauran sharudda. Ku duba <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ka'idojin Amfani</a> na Gidauniyar Wikimedia domin karin bayani.",
+	"wikimedia-copyright-footer": "An samar da muƙaloli a ƙarƙashin lasisin [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License]; mai yiwuwa da kwai sauran sharudda. Ku duba [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ka'idojin Amfani] na Gidauniyar Wikimedia domin karin bayani.",
 	"wikimedia-copyrightwarning": "Idan kuka adana wannan canji, yana nufin kun yarda da [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ƙa'idojin Amfani], sannan kun amince baki ɗaya da [https://creativecommons.org/licenses/by-sa/4.0/ Lasisin CC BY-SA 4.0] da kuma na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Kun yarda cewa adireshin yanar gizo ya isa matsayin shaidar asalin bayanai a lasisin Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Sannunka da zuwa|Sannunki da zuwa}}, $1",
 	"wikibase-sitelinks-wikinews": "Wikinews",

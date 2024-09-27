@@ -5,7 +5,7 @@
 		]
 	},
 	"sitesupport": "Dash moni",
-	"wikimedia-copyright": "Wetin kova tins hie dey for <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nOda kondishon fit dey.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">How You Go Yuz Wetin Dey Hie</a> for tori wey pas di one wey dey hie.",
+	"wikimedia-copyright-footer": "Wetin kova tins hie dey for [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nOda kondishon fit dey.\nSee [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use How You Go Yuz Wetin Dey Hie] for tori wey pas di one wey dey hie.",
 	"wikimedia-copyrightwarning": "If you kip wetin you chenj, E min sey you gri to [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use How You Go Yuz Wetin Dey Hie], an you gri sey you go dash tins wey you put onda di [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] an di [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou gri sey  hyperlink abi URL dey OK for atribushon onda Creative Commons license.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welkom}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",

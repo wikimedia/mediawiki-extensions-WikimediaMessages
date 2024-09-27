@@ -7,7 +7,7 @@
 		]
 	},
 	"sitesupport": "Хандиб үргэхэ",
-	"wikimedia-copyright": "зүбшөөрэлөөр бэшэлгэ эндэ байха <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike</a>, зарим ушарнуудта нэмэлтэ гуримууд табигданхай байжа болохо. Тодорхойгоор эндэ харагты <a href=\"https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru\"> Хэрэглэлгын гуримууд </a>.",
+	"wikimedia-copyright-footer": "зүбшөөрэлөөр бэшэлгэ эндэ байха [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike], зарим ушарнуудта нэмэлтэ гуримууд табигданхай байжа болохо. Тодорхойгоор эндэ харагты [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru  Хэрэглэлгын гуримууд ].",
 	"wikimedia-copyrightwarning": "Хубилалтануудые сахин үлөөхэдөө, та\n[https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru хэрэглэлгын эрилтэнүүдые] зүбшөөнэт, мүн баһа [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] зүбшөөрэлнүүдээр һөөргэнь бусаалтагүйгөөр хэблүүлгые зүбшөөһэн болонот. Creative Commons зүбшөөрэлэй эрилтэнүүдээр тодоруулга хэхын тула гиперссылкэ гү, али хуудаһанай URL заахада болоно гэһэниие та мүн лэ зүбшөөнэт.",
 	"wikibase-sitelinks-wikinews": "Викимэдээсэлнүүд",
 	"wikibase-sitelinks-wikiquote": "Вики - эшэ татагша",

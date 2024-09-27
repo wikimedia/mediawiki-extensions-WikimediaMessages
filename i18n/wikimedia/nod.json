@@ -5,7 +5,7 @@
 		]
 	},
 	"sitesupport": "ᨷᩁᩥᨧᩣ᩠ᨣ",
-	"wikimedia-copyright": "ᩋᨶᩩᨬᩣ᩠ᨲᩉᩨ᩶ᨹᩮᩥ᩠ᨿ​ᨻᩕᩯ᩵​ᨡᩬᩴ᩶​ᨤ᩠ᩅᩣ᩠ᨾ​ᨻᩣ᩠ᨿ​ᨲᩲ᩶<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">ᩈᩢᨬ᩠ᨬᩣᩋᨶᩩᨬᩣ᩠ᨲᨤᩕᩦᩋᩮᨵᩦ᩠ᨷᨼ᩼ᨤᩬᨾᨾᩬᨶ᩠ᩈ᩼ ᨷᩯ᩠ᨷ​ᩈᨯᩯ᩠ᨦ​ᨴᩦ᩵​ᨾᩣ-ᩋᨶᩩᨬᩣ᩠ᨲᩀ᩵ᩣ᩠ᨦᨯ᩠ᨿᩅᨠᩢ᩠ᨶ</a>; ᩉᩖ᩶ᩣ᩠ᨦᨧᩢᨾᩦᨦᩮᩬᩥ᩵ᩁᨡᩱᩋᩨ᩠᩵ᨶᨽᩮᩥ᩠᩵ᨾ ᨹᩬᩴ᩵​ᨶᩮᩬᩥ᩶ᩋ​ᨤ᩠ᩅᩣ᩠ᨾ​ᩃᩋ᩠ᨿᨯᨴᩦ᩵ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ᨡᩬᩴ᩶ᨠᩣᩴ​ᩉ᩠ᨶᩫ᩠ᨯ​ᨠᩣ᩠ᩁ​ᨩᩲ᩶​ᨦᩣ᩠ᨶ​</a>",
+	"wikimedia-copyright-footer": "ᩋᨶᩩᨬᩣ᩠ᨲᩉᩨ᩶ᨹᩮᩥ᩠ᨿ​ᨻᩕᩯ᩵​ᨡᩬᩴ᩶​ᨤ᩠ᩅᩣ᩠ᨾ​ᨻᩣ᩠ᨿ​ᨲᩲ᩶[https://creativecommons.org/licenses/by-sa/4.0/ ᩈᩢᨬ᩠ᨬᩣᩋᨶᩩᨬᩣ᩠ᨲᨤᩕᩦᩋᩮᨵᩦ᩠ᨷᨼ᩼ᨤᩬᨾᨾᩬᨶ᩠ᩈ᩼ ᨷᩯ᩠ᨷ​ᩈᨯᩯ᩠ᨦ​ᨴᩦ᩵​ᨾᩣ-ᩋᨶᩩᨬᩣ᩠ᨲᩀ᩵ᩣ᩠ᨦᨯ᩠ᨿᩅᨠᩢ᩠ᨶ]; ᩉᩖ᩶ᩣ᩠ᨦᨧᩢᨾᩦᨦᩮᩬᩥ᩵ᩁᨡᩱᩋᩨ᩠᩵ᨶᨽᩮᩥ᩠᩵ᨾ ᨹᩬᩴ᩵​ᨶᩮᩬᩥ᩶ᩋ​ᨤ᩠ᩅᩣ᩠ᨾ​ᩃᩋ᩠ᨿᨯᨴᩦ᩵ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ᨡᩬᩴ᩶ᨠᩣᩴ​ᩉ᩠ᨶᩫ᩠ᨯ​ᨠᩣ᩠ᩁ​ᨩᩲ᩶​ᨦᩣ᩠ᨶ​]",
 	"wikimedia-copyrightwarning": "ᨳ᩵ᩣ​ᨷᩢ᩠ᨶᨵᩧ᩠ᨠ​ᨠᩣ᩠ᩁ​ᨸᩖ᩠᩵ᨿᩁ​ᨷᩕᩯ ᨣᩴ​ᨳᩨ​ᩅ᩵ᩤ​ᨴ᩵ᩤ᩠ᨶ​ᨿᩬᨾ​ᩁᩢ᩠ᨷ​[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ᨡᩬᩴ᩶​ᨠᩣᩴᩉ᩠ᨶᩫ᩠ᨯ​ᨠᩣ᩠ᩁ​ᨩᩲ᩶​ᨦᩣ᩠ᨶ] ᩓ​ᨣᩴ​ᨿᩬᨾ​ᩉᩨ᩶​ᨹᩮᩥ᩠ᨿ​ᨻᩕᩯ᩵​ᨠᩣ᩠ᩁ​ᨾᩦ​ᩈ᩠ᩅ᩵ᩁ​ᩁ᩠ᩅ᩵ᨾ​ᨡᩬᨦ​ᨴ᩵ᩤ᩠ᨶ​ᨻᩣ᩠ᨿ​ᨲᩲ᩶​ᩈᩢᨬ᩠ᨬᩣ​ᩋᨶᩩᨬᩣ᩠ᨲ [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ᩓ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ᨯᩰᩫ᩠ᨿ​ᨧᩢ​ᨷᩴ​ᨡᩨ᩠ᨶᨣᩤᩴ​ᨯᩱ᩶\nᨴ᩵ᩤ᩠ᨶ​ᨿᩬᨾ​ᩁᩢ᩠ᨷ​ᩅ᩵ᩤ​ᨠᩣ᩠ᩁ​ᩈᨯᩯ᩠ᨦ​ᨴᩦ᩵​ᨾᩣ​ᨯᩰᩫ᩠ᨿ​ᩌᩱᨻᩮᩬᩥᩁ᩼ᩃᩥᨦ᩠ᨣ᩼​ᨣᩤ​ᩅ᩵ᩤ​ᩀᩪ​ᩋᩣᩁ᩼​ᩋᩯ᩠ᩃ​ᨣᩴ​ᨶᩢ᩠ᨷ​ᩅ᩵ᩤ​ᨻᩬᩴ​ᩓ᩠ᩅ ᨻᩣ᩠ᨿ​ᨲᩲ᩶​ᩈᩢᨬ᩠ᨬᩣ​ᩋᨶᩩᨬᩣ᩠ᨲ​ᨤᩕᩦᩋᩮᨵᩦ᩠ᨷᨼ᩼​ᨤᩬᨾᨾᩬᨶ᩠ᩈ᩺",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ᨿᩥ᩠ᨯᨯᩦᨲᩬ᩶ᩁᩁᩢ᩠ᨷ}} $1!",
 	"wikibase-sitelinks-wikinews": "ᩅᩥᨠᩥᨡ᩵ᩣ᩠ᩅ",

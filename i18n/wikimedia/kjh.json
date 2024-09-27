@@ -10,7 +10,7 @@
 	},
 	"sitesupport": "Ахчалығ полызығ пирерге",
 	"tooltip-n-sitesupport": "Писке полызығ кирек",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses\n/by-sa/4.0/deed.en\">  Creative Commons Attribution-ShareAlike лицензия</a> хоостыра азых, хоза правилолар кирiлерге айабас.\nАннаңар алғыда <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Тузаланар оңдайлар\">Terms of Use</a> кӧріңер.",
+	"wikimedia-copyright-footer": "Текст [https://creativecommons.org/licenses   Creative Commons Attribution-ShareAlike лицензия] хоостыра азых, хоза правилолар кирiлерге айабас.\nАннаңар алғыда [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Тузаланар Terms of Use] кӧріңер.",
 	"wikimedia-copyrightwarning": "Тӱзедіглерні артызып, сiрер   [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru тузаланар оңдайларнаң] чарасчазар, ідӧк [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0]  [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензия хоостыра ӱндезіг чох сығарарға чарасчазар . Creative Commons лицензия хоостыра  гиперссылка паза страницаның URL кӧзідері читкіҷе поларынаң чарасчазар.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Аалҷы полыңар}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викихабарлар",

@@ -124,7 +124,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|traduka administranto}}",
 	"grouppage-translationadmin": "{{ns:project}}:Tradukaj administrantoj",
 	"tag-emoji": "Emoĝio",
-	"wikimedia-copyright": "La teksto disponeblas laŭ la permesilo <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.eo\">Krea Komunaĵo Atribuite-Samkondiĉe 4.0 Neadaptita</a>; eble aldonaj kondiĉoj aplikeblas.\nVidu la <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">uzkondiĉojn</a> por detaloj.",
+	"wikimedia-copyright-footer": "La teksto disponeblas laŭ la permesilo [https://creativecommons.org/licenses/by-sa/4.0/deed.eo Krea Komunaĵo Atribuite-Samkondiĉe 4.0 Neadaptita]; eble aldonaj kondiĉoj aplikeblas.\nVidu la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use uzkondiĉojn] por detaloj.",
 	"wikimedia-copyrightwarning": "Se vi konservas la ŝanĝojn, per tio vi konsentas al la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Uzkondiĉoj], kaj konsentas nemalfareble liberigi vian kontribuon laŭ la permesiloj [https://creativecommons.org/licenses/by-sa/4.0/deed.eo CC BY-SA 4.0] kaj [https://www.gnu.org/copyleft/fdl.html GFDL].\nVi konsentas ke hiperligilo aŭ URL estas sufiĉa atribuo laŭ la permesilo de Krea Komunaĵo.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bonvenon}}, $1!",
 	"wikibase-repo-name": "Vikidatumoj",

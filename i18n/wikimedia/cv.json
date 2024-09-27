@@ -11,7 +11,7 @@
 	"tooltip-n-sitesupport": "Пире пулӑш",
 	"group-flood-member": "{{GENDER:$1|хутшăнакан бот}}",
 	"group-steward": "Стюардсем",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike лицензипе</a> сарӑлать, хӑшпӗр чухне хушма условисем пулма пултараҫҫӗ. Тӗплӗнрех <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Усӑ курмалли условисем</a> пӑх.",
+	"wikimedia-copyright-footer": "Текст [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike лицензипе] сарӑлать, хӑшпӗр чухне хушма условисем пулма пултараҫҫӗ. Тӗплӗнрех [https://foundation.wikimedia.org/wiki/Условия_использования Усӑ курмалли условисем] пӑх.",
 	"wikimedia-copyrightwarning": "Улшӑнусене ҫырса хунӑ май эсир [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru Усӑ курмалли условисемпе], ҫавӑн пекех каялла тавӑрма май ҫук вырнаҫтарни пирки [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] тата [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензисемпе килӗшетӗр. Creative Commons лицензи условийӗсемпе килӗшӳллӗн атрибуци валли каҫӑ е страницӑн URL-не кӑтартни те ҫителӗклӗ тенипе килӗшетӗр.",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-sitelinks-wikinews": "Викихыпарсем",

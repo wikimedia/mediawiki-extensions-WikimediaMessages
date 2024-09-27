@@ -6,7 +6,7 @@
 	},
 	"sitesupport": "Miizh-zhooniyaa",
 	"tooltip-n-sitesupport": "Wiiji' ginawiind",
-	"wikimedia-copyright": "Wa'aw ozhibii'igan waabam anaamayi'ii <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nnawaj inaakonigewin daa-aawan.\nWaabam <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> nawaj mamizhim.",
+	"wikimedia-copyright-footer": "Wa'aw ozhibii'igan waabam anaamayi'ii [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nnawaj inaakonigewin daa-aawan.\nWaabam [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] nawaj mamizhim.",
 	"wikimedia-copyrightwarning": "Apii wiin ishkon aanji', wiin debwetaw biindig [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Aabaji' inaakonigewin], gaye giin gaawesaa aanji' debwetaw miizh gi= wiiji' anaamayi'ii [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 Mazina'igaans] gaye [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL (GNU gidiskin mazina'igaans)].\nGi=debwetaw biiwaabiko-zagapijigan gemaa Waasamoo-asabing'izhinikaazowin ayaan de nisidawinan anaamayi'ii  Ozhitoon Maamawi mazina'igaans.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Aaniin}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wigibiidaajimowin",

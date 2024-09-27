@@ -6,7 +6,7 @@
 	},
 	"sitesupport": "দান দেনা",
 	"tooltip-n-sitesupport": "আমারে পাঙকর",
-	"wikimedia-copyright": "ইকরানহানি <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.bpy\">ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সর</a> মা;\nআহানর লগে আরাকউ শর্ত থাইতেউ পারে।\n <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use?uselang=bpy\">আতানির শর্ত</a> পুলকরে চা।",
+	"wikimedia-copyright-footer": "ইকরানহানি [https://creativecommons.org/licenses/by-sa/4.0/deed.bpy ক্রিয়েটিভ কমন্স অ্যাট্রিবিউশন/শেয়ার-আলাইক লাইসেন্সর] মা;\nআহানর লগে আরাকউ শর্ত থাইতেউ পারে।\n [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use?uselang=bpy আতানির শর্ত] পুলকরে চা।",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|সাম্ভাষা}}, $1!",
 	"wikibase-sitelinks-wikinews": "উইকিপৌ",
 	"wikibase-sitelinks-wikiquote": "উইকিমাতেক",

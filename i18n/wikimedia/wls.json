@@ -6,7 +6,7 @@
 		]
 	},
 	"sitesupport": "Tokoni fala",
-	"wikimedia-copyright": "Ko te pāsina aeni e mulimuli pe ki te 'u lēkula o te <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>.\nKi hona fakakātoā: <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Lēkula faka'aoga</a>.",
+	"wikimedia-copyright-footer": "Ko te pāsina aeni e mulimuli pe ki te 'u lēkula o te [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License].\nKi hona fakakātoā: [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Lēkula faka'aoga].",
 	"wikimedia-copyrightwarning": "Ka e ke puke te 'u fetogi ne'e ke fai, e ke 'io ki  [https://foundation.wikimedia.org/wiki/Lekula faka'aoga'i o te Wikimedia], pea e ke tali lelei pe ke faka'aoga'i faitaliha tau gaue o fakalogo ki te [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] mo te [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nE ke 'io ki te faka'aoga'i o he laini neti pe ko he tu'asila neti mo'o fakamanatu tau higoa i te gaue e ke foaki mai.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Mālō si'i lava mai}}, $1!",
 	"wikibase-sitelinks-wikinews": "Vikilogo",

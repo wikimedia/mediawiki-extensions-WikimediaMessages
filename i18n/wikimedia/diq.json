@@ -147,7 +147,7 @@
 	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AWB]",
 	"tag-AWB-description": "Pê [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]bya vurniyayo",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
-	"wikimedia-copyright": "Nuşte bınê <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Lisansê Zey-VılakerdışêJuwaneyi</a> dero; şertê bini tetbiq benê. \nDetayan rê <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Şertanê gurenayışi</a> bıvênên.",
+	"wikimedia-copyright-footer": "Nuşte bınê [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Lisansê Zey-VılakerdışêJuwaneyi] dero; şertê bini tetbiq benê. \nDetayan rê [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Şertanê gurenayışi] bıvênên.",
 	"wikimedia-copyrightwarning": "Ebe tıknayışê gocega \"{{int:savearticle}}\", şıma [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] qebul kenê, u şıma iştıraqê xoyo ke bınê [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0 License] u  [https://www.gnu.org/copyleft/fdl.html GFDL]i de serbest verdayo ra u peysernêgêriyeno, qebul kenê.\nYew gıreyê pırdi ya zi bınê ''URL Creative Commons''i meyilo kafi ke esto, qebul kenê.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Xeyr ameyi}}, $1!",
 	"wikibase-repo-name": "Wikidata",

@@ -128,7 +128,7 @@
 	"group-wmf-officeit": "WMF программистлары",
 	"tag-emoji": "Эмоҗи",
 	"shared-repo-name-shared": "Викиҗыентык",
-	"wikimedia-copyright": "Текст <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike</a> лицензиясе буенча бирелә, аерым очракларда өстәмә шартлар булырга мөмкин. Өстәмә мәгълүматны <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Куллану шартларында</a> карагыз.",
+	"wikimedia-copyright-footer": "Текст [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike] лицензиясе буенча бирелә, аерым очракларда өстәмә шартлар булырга мөмкин. Өстәмә мәгълүматны [https://foundation.wikimedia.org/wiki/Условия_использования Куллану шартларында] карагыз.",
 	"wikimedia-copyrightwarning": "Кертелгән үзгәртүләрне саклап, Сез алдагы [https://foundation.wikimedia.org/wiki/куллану шартлары], шулай ук үзегезнең кертемне [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] һәм [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензияләре таләпләренә ярашлы нәшер ителүе белән килешәсез,  Creative Commons  лицензиясенә ярашлы, авторлыкны күрсәтү өчен гиперсылтама яки бит URL'ына сылтама куелуга риза буласыз.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Рәхим итегез}}, $1!",
 	"wikibase-repo-name": "Викимәгълүмат",

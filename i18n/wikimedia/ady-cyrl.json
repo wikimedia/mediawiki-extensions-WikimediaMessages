@@ -10,7 +10,7 @@
 	},
 	"sitesupport": "АхъщэкӀэ деӀэн",
 	"tooltip-n-sitesupport": "КъыддеӀ",
-	"wikimedia-copyright": "Текстыр плъэгъушъущт мыщкӀэ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">, лицензиер зиер Creative Commons Attribution-ShareAlike License</a>;\nАщ нэмыкӀэу зыгорэ ищыкӀэгъэнкӀи мэхъу.\nЕплъ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Гъэфедэныр зытетыр</a> ущыгъозэнэу.",
+	"wikimedia-copyright-footer": "Текстыр плъэгъушъущт мыщкӀэ [https://creativecommons.org/licenses/by-sa/4.0/ , лицензиер зиер Creative Commons Attribution-ShareAlike License];\nАщ нэмыкӀэу зыгорэ ищыкӀэгъэнкӀи мэхъу.\nЕплъ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Гъэфедэныр зытетыр] ущыгъозэнэу.",
 	"wikimedia-copyrightwarning": "Мы зэхъокӀхэр тебгъэпытахьрэ, мыщ деогъаштэ\n[https://foundation.wikimedia.org/wiki/Гъэфедэн_Хабзэр Гъэфедэн Хабзэр], ащ нэмыкӀэу узкӀэмыгъожьышъущт лицензием деогъаштэ [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ыкӀи [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nГиперзэпыщэр е URL-ыр Creative Commons лицензием и атрибуцие пае зэрикъурэм деогъаштэ.",
 	"wikibase-sitelinks-wikinews": "Викикъэбархэр",
 	"wikibase-sitelinks-wikiquote": "Викицитэ",

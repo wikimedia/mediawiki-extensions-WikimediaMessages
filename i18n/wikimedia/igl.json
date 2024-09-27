@@ -7,7 +7,7 @@
 		]
 	},
 	"sitesupport": "Déwn",
-	"wikimedia-copyright": "Éwn mako í dé ogane <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\noda ómuné néké manwu.\nGó <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Alukuma du cheku</a>ké kí amí Ola kí de fuñ.",
+	"wikimedia-copyright-footer": "Éwn mako í dé ogane [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\noda ómuné néké manwu.\nGó [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Alukuma du cheku]ké kí amí Ola kí de fuñ.",
 	"wikimedia-copyrightwarning": "Chéwn ké féwn ma kpaílo dú maja, é jé kpaí [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use] é la jé é la gba da biñ ka kí ní ewn ké kò é du dúfu ofé [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] kpaí [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. \nEjé ka kiní hyperlink barkí URL chi attribute ogbogaga ofé Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

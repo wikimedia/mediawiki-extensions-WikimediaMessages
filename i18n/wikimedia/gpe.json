@@ -6,7 +6,7 @@
 		]
 	},
 	"sitesupport": "Donate",
-	"wikimedia-copyright": "De text be available under de <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> ;\nadditional terms go apply.\nSpy <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyright-footer": "De text be available under de [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] ;\nadditional terms go apply.\nSpy [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] for details.",
 	"wikimedia-copyrightwarning": "As you dey save changes, you dey agree to de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], wey you san dey irrevocably agree say you dey release your contribution under de [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] den de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou dey gree say hyperlink anaa URL be sufficient attribution under de Creative Commons license.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welcome}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",

@@ -44,7 +44,7 @@
 	"group-sysadmin": "Мудирони систем",
 	"group-sysadmin-member": "{{GENDER:$1|мудири систем}}",
 	"shared-repo-name-shared": "Викианбор",
-	"wikimedia-copyright": "Матн зери иҷозатномаи <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> дастрас мебошад, дигар иҷозатномаҳои иловагӣ низ ба кор бурда мешаванд. Ниг. <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Қоидаҳои истифодаро</a> барои маълумоти бештар.",
+	"wikimedia-copyright-footer": "Матн зери иҷозатномаи [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] дастрас мебошад, дигар иҷозатномаҳои иловагӣ низ ба кор бурда мешаванд. Ниг. [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Қоидаҳои истифодаро] барои маълумоти бештар.",
 	"wikibase-repo-name": "Викидода",
 	"wikibase-sitelinks-wikibooks": "Викикитоб",
 	"wikibase-sitelinks-wikinews": "Викиахбор",

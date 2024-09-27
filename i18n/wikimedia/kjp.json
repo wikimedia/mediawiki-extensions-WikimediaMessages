@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "ဆ်ုမာၜုံး",
 	"tooltip-n-sitesupport": "မာၜိုင်မာဆိုင်လာ",
-	"wikimedia-copyright": "လိက်ဖၠုံးသယ်ဏှ် <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike လါင်စင်</a>အိုဝ် ဏေဝ်သှ်ေၯံင် ဆူ့ထါင်ၰာႋၰံင်ပၞံင့်ဏါင်းသယ်သီး အှ်သှ်ေလှ်။\nကုံကုံလုံ့လုံအ်ုၯင်ႋ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ၜးဆါင့်ဆ်ုသုံ့ပၞံင့် ပၞံင့်ဏါင်းလ်ုဖး</a>ခဝ့် ယောဝ်ႋလာႋ။",
+	"wikimedia-copyright-footer": "လိက်ဖၠုံးသယ်ဏှ် [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike လါင်စင်]အိုဝ် ဏေဝ်သှ်ေၯံင် ဆူ့ထါင်ၰာႋၰံင်ပၞံင့်ဏါင်းသယ်သီး အှ်သှ်ေလှ်။\nကုံကုံလုံ့လုံအ်ုၯင်ႋ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ၜးဆါင့်ဆ်ုသုံ့ပၞံင့် ပၞံင့်ဏါင်းလ်ုဖး]ခဝ့် ယောဝ်ႋလာႋ။",
 	"wikimedia-copyrightwarning": "ဆ်ုအင်းလဲါသာယိုဝ် သိင့်ကုံထၯံင် ၮ်ုယိုဝ်[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ၜးဆါင့်ဆ်ုအင်းသုံ့ မ်ုၜးသီးယာ့လ်ုဖး]ၮှ် ၰယ့်ၯင်မဝ့်မ်ု ၯင်၊ ဆ်ုသုဂ်ကၠယ် [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 လိုင်စင်]လ်ု [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] လိုင်စင်သယ်လ်ုဖး အင်းသုံ့ၯံင် လေဝ်လ်ုအှ် ပ်ုကုံမဝ့်မ်ှ။ hyperlink လ်ုမွာဲၜး URL ၮှ်သီး Creative Commons လိုင်စင်ဖံင့်လာဝယ် ဃှိုဲၯင်အင်းသုံ့ၯင်း တ်ုတၠယ်စူးလှ်။",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|အင်းၯးလင်ဖဝ်ႋ}}, $1!",
 	"wikibase-sitelinks-wikibooks": "ဝီကေဝ်လိက်အုဂ်လ်ုဖး",

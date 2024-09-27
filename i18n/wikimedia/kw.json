@@ -12,7 +12,7 @@
 	"sitesupport": "Argevri",
 	"tooltip-n-sitesupport": "Skoodhyewgh ni",
 	"group-sysadmin": "Menystroryon an system",
-	"wikimedia-copyright": "Kavadow yw an tekst yn-dann <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Leshyans Attribution-ShareAlike Creative Commons</a>; termynyow keworransel a allsa omvyska. Gwelewgh an <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Termynyow Devnydh</a> rag manylyon.",
+	"wikimedia-copyright-footer": "Kavadow yw an tekst yn-dann [https://creativecommons.org/licenses/by-sa/4.0/ Leshyans Attribution-ShareAlike Creative Commons]; termynyow keworransel a allsa omvyska. Gwelewgh an [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termynyow Devnydh] rag manylyon.",
 	"wikimedia-copyrightwarning": "Dre witha agas chanjyow, yth esowgh owth akordya dhe'n [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use termynyow devnydh], hag yth esowgh owth agria dhe dhyllo agas kevro yn fast ha rag nevra yn-dann an [https://creativecommons.org/licenses/by-sa/4.0/ Leshyans CC BY-SA 4.0] ha'n [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYth esowgh owth agria bos gorgevren po URL askrifans lowr yn-dann an leshyans Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Dynnargh}} dhe $2",
 	"wikibase-sitelinks-wikinews": "Wikinews",

@@ -8,7 +8,7 @@
 	},
 	"sitesupport": "saedap",
 	"tooltip-n-sitesupport": "damaen kami",
-	"wikimedia-copyright": "hamin a zunga cudad mabalud nu <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW\"> misabaluhay CC ngangan sacuzu’ -malecad sasakawawen pasimel sapabeli tu kinli a cedang </a> midiput, caay kuyni a dada’ hakay matatungus tu zuma nicunus a cedang.\nkapiazih tu tatenga’ay  <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">mamaala cedang </a> matineng kahica nu kawaw.",
+	"wikimedia-copyright-footer": "hamin a zunga cudad mabalud nu [https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW  misabaluhay CC ngangan sacuzu’ -malecad sasakawawen pasimel sapabeli tu kinli a cedang ] midiput, caay kuyni a dada’ hakay matatungus tu zuma nicunus a cedang.\nkapiazih tu tatenga’ay  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use mamaala cedang ] matineng kahica nu kawaw.",
 	"wikimedia-copyrightwarning": "misuped kisu nisumaday sananay patubelitu kisu haw [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use mamaala cedang ] patubeli canuis [https://zh.wikipedia.org/wiki/Wikipedia:CC-BY-SA CC BY-SA 4.0 sapabeli tu kinli a cedang ] atu [https://zh.wikipedia.org/wiki/Wikipedia:GFDL GFDL] patiyak lacul nu misu.\npatubeli kisu misiket acasa URL taneng kisu misabaluhay ku CC sapabeli tu kinli a cedang a ngangan sacuzu’.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|manamuh tu tayniay}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wyici-sinbun",

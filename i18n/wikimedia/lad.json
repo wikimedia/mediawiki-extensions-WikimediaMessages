@@ -12,7 +12,7 @@
 	"group-flood": "Mabúl",
 	"group-flood-member": "{{GENDER:$1|pseudobot}}",
 	"grouppage-flood": "{{ns:project}}:Permeso de mabúl (flooder)",
-	"wikimedia-copyright": "El teksto está disponivle debaxo la <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lecencia de Creative Commons Attribution-ShareAlike</a>; pueden aver otras kondisyones. Para mas detalyos, mira las<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Kondisyones d'Usaje</a>.",
+	"wikimedia-copyright-footer": "El teksto está disponivle debaxo la [https://creativecommons.org/licenses/by-sa/4.0/ Lecencia de Creative Commons Attribution-ShareAlike]; pueden aver otras kondisyones. Para mas detalyos, mira las[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Kondisyones d'Usaje].",
 	"wikimedia-copyrightwarning": "Al guardar los trocamientos de la hoja, aseptas los [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Términos de Uso], y tu irrevocablemente aseptas a guardar tus trocamientos bajo la [https://creativecommons.org/licenses/by-sa/4.0/ lisensia CC BY-SA 4.0] y la[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAseptas que un hiperenlase o URL es atribusión sufisiente bajo la lisencia Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Venidos buenos}}, $1!",
 	"wikibase-sitelinks-wikinews": "Vikinoticias",

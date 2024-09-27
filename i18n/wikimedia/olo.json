@@ -8,7 +8,7 @@
 	},
 	"sitesupport": "Lahjoitukset",
 	"tooltip-n-sitesupport": "Avvuta meidy",
-	"wikimedia-copyright": "Tekstu on suadavis <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike License</a> -licenzien mugah; ližäehtoloi voibi olla.\nKačo ližäkse <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">käyttöehtoloi</a>.",
+	"wikimedia-copyright-footer": "Tekstu on suadavis [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike License] -licenzien mugah; ližäehtoloi voibi olla.\nKačo ližäkse [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use käyttöehtoloi].",
 	"wikimedia-copyrightwarning": "Muutoksii tallendajes hyväksyt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use käyttöehtot] da suostut oman kirjutuksen julguandah licenzielöin [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] da [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] mugah.\nHyväksyt sengi, ku atribucieh niškoi Creative Commons -licenzien mugah täydyy andua giperlinku libo sivun URL.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Tule terveh, $1!",
 	"wikibase-sitelinks-wikinews": "Wikiuudizet",

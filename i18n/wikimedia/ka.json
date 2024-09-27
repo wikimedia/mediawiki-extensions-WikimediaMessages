@@ -131,7 +131,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|თარგმანის ადმინისტრატორი}}",
 	"grouppage-translationadmin": "{{ns:project}}:თარგმანის ადმინისტრატორები",
 	"search-interwiki-custom": "wikt:ვიქსიკონიდან\nb:ვიკიწიგნებიდან\nn:ვიკისიახლენიდან\nq:ვიკიციტატიდან\ns:ვიკიწყაროდან\nv:ვიკივერსიტეტიდან\nvoy:ვიკივოიაჟიდან",
-	"wikimedia-copyright": "მოცემული ტექსტი წარმოდგენილია <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ka\">Creative Commons Attribution-ShareAlike ლიცენზიით</a>; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">გამოყენების წესები</a>.",
+	"wikimedia-copyright-footer": "მოცემული ტექსტი წარმოდგენილია [https://creativecommons.org/licenses/by-sa/4.0/deed.ka Creative Commons Attribution-ShareAlike ლიცენზიით]; შესაძლოა დამატებითი პირობების არსებობა. დეტალებისთვის იხილეთ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use გამოყენების წესები].",
 	"wikimedia-copyrightwarning": "ღილაკ \"{{int:savearticle}}\"-ზე დაჭერით, თქვენ ეთანხმებით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use გამოყენების წესებს], და თქვენ აგრეთვე ეთანხმებით მის გამოქვეყნებას [https://creativecommons.org/licenses/by-sa/4.0/deed.ka CC-BY-SA 4.0] და [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიებით.\nთქვენ ეთანხმებით, რომ მითთებული ჰიპერბმულები შესაბამის გვერდზე, ან მისი URL-მისამართი საკმარისი იქნება Creative Commons-ის ლიცენზიის ატრიბუტიკის პირობების შესასრულებლად.",
 	"wikimedia-mobile-mainpage-title-loggedin": "მოგესალმებით, $1!",
 	"wikibase-repo-name": "ვიკიმონაცემები",

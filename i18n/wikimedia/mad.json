@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "Nyombhâng",
 	"tooltip-n-sitesupport": "Totonjhâng",
-	"wikimedia-copyright": "Tèks tasaḍiyâ mènorot <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.id\">Lèlla Atribusi-AbâgiSarobâ Creative Commons</a>; katantowan tambâ'ân amè' pola èyangghuy kèya. Tèngghu <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id\">Katantowan Paghuna'an </a> sopajâ jhârbâ.",
+	"wikimedia-copyright-footer": "Tèks tasaḍiyâ mènorot [https://creativecommons.org/licenses/by-sa/4.0/deed.id Lèlla Atribusi-AbâgiSarobâ Creative Commons]; katantowan tambâ'ân amè' pola èyangghuy kèya. Tèngghu [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id Katantowan Paghuna'an ] sopajâ jhârbâ.",
 	"wikimedia-copyrightwarning": "Kalabân nyèmpen obâ'ân, Bâ'na saroju' ḍâ' ka [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], bân Bâ'na saroju' ka'angghuy ngèdhinè dhurruna Bâ'na è ḍâlem [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] bân the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBâ'na saroju' jhâ' pranala \"hyper\" otabâ pranala iyâ arèya sèttong atribusi sè cokop è lèlla Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ḍâ'remma kabhârrâ}}, $1?",
 	"wikibase-sitelinks-wikinews": "Wikiberta",

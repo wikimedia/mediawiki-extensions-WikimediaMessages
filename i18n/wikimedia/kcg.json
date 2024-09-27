@@ -7,7 +7,7 @@
 	},
 	"sitesupport": "Nang za̱nang",
 	"tooltip-n-sitesupport": "Beang nzi̱t",
-	"wikimedia-copyright": "Á̱ sa̱u lyuut hu a̱tafa <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Kwaa̱mbwat A̱ka̱wat Creative Commons Attribution-ShareAlike hu hwa</a>; nka̱nda̱n nta̱m jhyang bye nshyia̱.\nNwuan a li <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Nka̱nda̱n Nyian Ta̱m</a> na a li a̱kyokyuat nkhang wu.",
+	"wikimedia-copyright-footer": "Á̱ sa̱u lyuut hu a̱tafa [https://creativecommons.org/licenses/by-sa/4.0/deed.en Kwaa̱mbwat A̱ka̱wat Creative Commons Attribution-ShareAlike hu hwa]; nka̱nda̱n nta̱m jhyang bye nshyia̱.\nNwuan a li [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Nka̱nda̱n Nyian Ta̱m] na a li a̱kyokyuat nkhang wu.",
 	"wikimedia-copyrightwarning": "Ka̱nang a si̱ sak a̱ka̱shai na, si̱ a̱hwa fa nyia̱ a shim [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Nka̱nda̱n Nyian Ta̱m] ninia, a̱wot a si̱, di̱ mi̱n shyiak fwuo á̱zanson, shim sa̱u jhyet ang ji tafa [https://creativecommons.org/licenses/by-sa/4.0/deed.en Lasi̱n CC BY-SA 4.0] ma̱ng [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ji.\nA shim nyia̱ hyperlink ku URL nyiung ma̱nyin maai yet shei kaswuo tafa lasi̱n Creative Commons ji meang.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Foo ma̱ng bai hu}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wukinkhang",

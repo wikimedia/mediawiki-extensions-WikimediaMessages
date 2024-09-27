@@ -19,7 +19,7 @@
 	"grouppage-massmessage-sender": "{{ns:project}}:Mittente mmasciate massive",
 	"group-staff": "Staff",
 	"group-staff-member": "{{GENDER:$1|compunente ddo staff}}",
-	"wikimedia-copyright": "Chistu testo sta pubbrecate cu 'na <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">licenza Creative Commons Attribuzzione-Condividi tale e quale</a>;\nce ponno stà ate regule ccà e llà.\nVedite 'a paggena <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Termini pe ll'uso</a> pe n'avé cchiù nfurmazzione.",
+	"wikimedia-copyright-footer": "Chistu testo sta pubbrecate cu 'na [https://creativecommons.org/licenses/by-sa/4.0/ licenza Creative Commons Attribuzzione-Condividi tale e quale];\nce ponno stà ate regule ccà e llà.\nVedite 'a paggena [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini pe ll'uso] pe n'avé cchiù nfurmazzione.",
 	"wikimedia-copyrightwarning": "Riggistranno 'e cagnamiente, site d'accordo ch' 'e [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use condizziune d'ause] e irrevocabbilmente accettate 'e lassà 'e contrebbute vuoste sott'a na licienza [https://creativecommons.org/licenses/by-sa/4.0/ Licenze CC BY-SA 4.0] e [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nVuje accettate ca nu cullegamento o URL è sufficiente pe ne dà attribuzione sott' 'a licienza Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bemmenuto|Bemmenuta}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinove",

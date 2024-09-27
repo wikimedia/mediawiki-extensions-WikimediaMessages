@@ -19,7 +19,7 @@
 	"sitesupport": "Նվիրաբերել",
 	"tooltip-n-sitesupport": "Աջակցեք մեզ",
 	"shared-repo-name-shared": "Վիքիպահեստ",
-	"wikimedia-copyright": "Տեքստը հասանելի է <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.hy\">Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման</a> թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Օգտագործման պայմաններ</a>։",
+	"wikimedia-copyright-footer": "Տեքստը հասանելի է [https://creativecommons.org/licenses/by-sa/4.0/deed.hy Քրիեյթիվ Քոմոնս Հղման-Համանման տարածման] թույլատրագրի ներքո, առանձին դեպքերում հնարավոր են հավելյալ պայմաններ։ Մանրամասնությունների համար այցելեք՝ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Օգտագործման պայմաններ]։",
 	"wikimedia-copyrightwarning": "Սեղմելով «Ստեղծել էջը» կամ «Պահպանել»՝ Դուք համաձայնվում եք անվերադարձ հրապարակել Ձեր ներդրումը [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] և [https://www.gnu.org/copyleft/fdl.html GFDL] արտոնագրերի ներքո։\nԴուք համաձայնվում եք նրան, որ հետագա օգտագործման ժամանակ, Ձեր ներդրումը կնշվի առնվազն նշելով խմբագրվող էջի URL–ն կամ դնելով հիպերհղում նրա վրա։\nՄանրամասն տեղեկությունների համար ծանոթացեք [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Օգտագործման պայմաններին]:",
 	"wikimedia-mobile-mainpage-title-loggedin": "Բարի գալո՜ւստ, $1",
 	"wikibase-repo-name": "Վիքիտվյալներ",

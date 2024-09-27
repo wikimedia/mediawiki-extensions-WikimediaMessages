@@ -59,7 +59,7 @@
 	"group-staff": "कर्मचारी",
 	"tag-emoji": "इमोजी",
 	"shared-repo-name-shared": "विकिमिडिया कमन्स",
-	"wikimedia-copyright": "यस पाठ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">क्रिएटिभ कमन्स एट्रिब्युसन/सेयर-अलाइक अनुमति पत्र</a>अन्तर्गत उपलब्ध छ; अतिरिक्त सर्तहरू लागू हुन सक्छन्।\nजानकारीको लागि <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">प्रयोगका सर्तहरू</a> हेर्नुहोस्।",
+	"wikimedia-copyright-footer": "यस पाठ [https://creativecommons.org/licenses/by-sa/4.0/deed.en क्रिएटिभ कमन्स एट्रिब्युसन/सेयर-अलाइक अनुमति पत्र]अन्तर्गत उपलब्ध छ; अतिरिक्त सर्तहरू लागू हुन सक्छन्।\nजानकारीको लागि [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use प्रयोगका सर्तहरू] हेर्नुहोस्।",
 	"wikimedia-copyrightwarning": "\"परिवर्तन सङ्ग्रह गर्दा तपाई [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use प्रयोगका सर्तहरू] मान्न सहमत हुनुहुन्छ, र तपाई आफ्नो योगदान [https://creativecommons.org/licenses/by-sa/4.0/ क्रिएटिभ कमन्स एट्रिब्युसन/सेयर-अलाइक अनुमति पत्र] र [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License जिएफडिएल] अन्तर्गत रद्द नहुने गरी प्रकाशित गर्न स्वीकार गर्नुहुन्छ। एक हाइपरलिङ्क वा युआरएललाई क्रिएटिभ कमन्स अनुमतिपत्र अन्तर्गत पर्याप्त श्रेय दिइएको बारेमा तपाई मान्न सहमत हुनुहुन्छ।",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] र [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|स्वागतम्}}, $1ज्यू!",

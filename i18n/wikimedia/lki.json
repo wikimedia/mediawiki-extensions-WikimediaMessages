@@ -20,7 +20,7 @@
 	"grouppage-otrs-member": "{{ns:project}}:اعضای OTRS",
 	"group-abusefilter": "ویرایشگران پالایهٔ ویرایش",
 	"shared-repo-name-shared": "ویکی‌انبار",
-	"wikimedia-copyright": "متن تحت <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> در دسترس است؛\nشرایط اضافی می‌تواند اعمال گردد.\n<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">شرایط استفاده</a> را برای جزئیات ببینید.",
+	"wikimedia-copyright-footer": "متن تحت [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] در دسترس است؛\nشرایط اضافی می‌تواند اعمال گردد.\n[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شرایط استفاده] را برای جزئیات ببینید.",
 	"wikimedia-copyrightwarning": "با ذخیره تغییرات، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شرایط استفاده] را می‌پذیرید، و به طور جبران ناشدنی می‌پذیرید که مشارکت‌تان را تحت [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] منتشر کنید.\nشما می‌پذیرید که یک پیوند یا نشانی نسبت‌دادن کافی تحت پروانه کریتیو کامنز است.",
 	"wikibase-sitelinks-wikinews": "ویکی حاوواڵ",
 	"wikibase-sitelinks-wikiquote": "ویکی فِتِن/گفتاورد",

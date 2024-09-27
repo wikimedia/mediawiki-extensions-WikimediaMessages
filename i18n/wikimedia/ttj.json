@@ -5,7 +5,7 @@
 		]
 	},
 	"sitesupport": "Ogabe sente",
-	"wikimedia-copyright": "Ekihandiikwa ekilemwa <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nebiragiro muno byakuteebwaho.\nRora <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Special:MyLanguage/Policy:Terms_of_Use/ttj\">Ebiragiro by'enkozesa</a> kusosooza.",
+	"wikimedia-copyright-footer": "Ekihandiikwa ekilemwa [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike License];\nebiragiro muno byakuteebwaho.\nRora [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Special:MyLanguage/Policy:Terms_of_Use/ttj Ebiragiro by'enkozesa] kusosooza.",
 	"wikimedia-copyrightwarning": "Okuhanga kw'empindura kulikuteeraniza n'[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ebiragiro by'Enkozesa], [https://creativecommons.org/licenses/by-sa/4.0/deed.en Lisensi ya CC BY-SA 4.0] na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Oteerana ngu ekiyunga rundi URL biri kusiima kurungi.",
 	"wikibase-sitelinks-wikinews": "Wikyamahurre",
 	"wikibase-sitelinks-wikiquote": "Wikyebijurro",

@@ -9,7 +9,7 @@
 	},
 	"sitesupport": "दान करौ",
 	"tooltip-n-sitesupport": "हमरा सहायता द॑",
-	"wikimedia-copyright": "टेक्स्ट <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike लाइसेंस</a> केरौ अंतर्गत उपलब्ध छै;\nअतिरिक्त शर्त सिनी लागू होय सकै छौं।\nविवरण लेली <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">उपयोग केरौ शर्त सिनी </a> देखौ।",
+	"wikimedia-copyright-footer": "टेक्स्ट [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike लाइसेंस] केरौ अंतर्गत उपलब्ध छै;\nअतिरिक्त शर्त सिनी लागू होय सकै छौं।\nविवरण लेली [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use उपयोग केरौ शर्त सिनी ] देखौ।",
 	"wikimedia-copyrightwarning": "परिवर्तन सिनी क सहेजी क, तोंय [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], सँ सहमत होतअ हुअ, आरू तोंय [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License\n] आरू [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]।\nतोंय सहमत छौ कि क्रिएटिव कॉमन्स लाइसेंस केरौ तहत हाइपरलिंक या यूआरएल पर्याप्त एट्रिब्यूशन छेकै।",
 	"wikibase-sitelinks-wikinews": "विकिसमाचार",
 	"wikibase-sitelinks-wikiquote": "विकिसूक्ती",

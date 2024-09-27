@@ -117,7 +117,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|மொழிபெயர்ப்பு நிர்வாகி}}",
 	"grouppage-translationadmin": "{{ns:project}}:மொழிபெயர்ப்பு நிர்வாகிகள்",
 	"tag-emoji": "முகவடி",
-	"wikimedia-copyright": "அனைத்துப் பக்கங்களும் <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">படைப்பாக்கப் பொதுமங்கள்</a> அனுமதியுடன் பகிரப்பட்டுள்ளன; கூடுதலான <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">கட்டுப்பாடுகளுக்கு</a> உட்படலாம்.",
+	"wikimedia-copyright-footer": "அனைத்துப் பக்கங்களும் [https://creativecommons.org/licenses/by-sa/4.0/ படைப்பாக்கப் பொதுமங்கள்] அனுமதியுடன் பகிரப்பட்டுள்ளன; கூடுதலான [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use கட்டுப்பாடுகளுக்கு] உட்படலாம்.",
 	"wikimedia-copyrightwarning": "இம்மாற்றங்களை சேமிப்பதன் மூலம், நீங்கள் [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use பயன்பாட்டு விதிமுறைகளை] ஏற்கின்றீர்கள். மேலும் உங்கள் ஆக்கங்களை இனி மாற்ற இயலா வகையில் [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] மற்றும் [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ஆகிய உரிமத்தில் வெளியிடுகின்றீர்கள்.\n\nநீங்கள் ஒரு மீயிணைப்பு அல்லது உரலி தருவது மட்டுமே கிரியேட்டிவ் காமன்ஸ் உரிமத்தின் கீழ் போதுமானது என்பதை ஏற்கின்றீர்கள்.",
 	"wikimedia-mobile-mainpage-title-loggedin": "வருக $1",
 	"wikibase-repo-name": "விக்கித்தரவு",

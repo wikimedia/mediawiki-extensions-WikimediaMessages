@@ -50,7 +50,7 @@
 	"group-oauthadmin": "OAuth администраторла",
 	"group-steward": "Стюардла",
 	"shared-repo-name-shared": "Викигёзен",
-	"wikimedia-copyright": "Текст, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ru\">Creative Commons Attribution-ShareAlike лицензияны</a> шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: <a href=\"https://foundation.wikimedia.org/wiki/Условия_использования\">Хайырланыу шартла</a>.",
+	"wikimedia-copyright-footer": "Текст, [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike лицензияны] шартларында бериледи, бир-бирде къошакъ шартла болургъа да боллукъдула. Толуракъ къарагъыз: [https://foundation.wikimedia.org/wiki/Условия_использования Хайырланыу шартла].",
 	"wikimedia-copyrightwarning": "Кесигизни тюрлендириулеригизни сакъласагъыз, [https://foundation.wikimedia.org/wiki/Хайырланыу_шартла] бла, эмда [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] бла [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензияланы шартларында къайтмаздан басмалаууна разы боласыз. Сиз тюрлениуле этген бетлени хайырланыуда сизге эм азы бла бу бетге гиперджибериу неда URL-ну юсю бла джибериу берилликди. Creative Commons лицензияны атрибутациясы ючюн ол джетгенине да разысыз.",
 	"wikibase-repo-name": "Викибилгиле",
 	"wikibase-sitelinks-wikibooks": "Викикитабла",

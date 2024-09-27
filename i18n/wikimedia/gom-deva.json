@@ -10,7 +10,7 @@
 	},
 	"sitesupport": "दान कर",
 	"tooltip-n-sitesupport": "आमकां तेंको दियात",
-	"wikimedia-copyright": "मजकूर <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लायसेंस</a> हाच्या अंतर्गत उपलब्ध आसा; हेर अटी लागू जावं शकतात.\nचड म्हायती खातीर <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">वापराच्यो अटी</a> पळयात.",
+	"wikimedia-copyright-footer": "मजकूर [https://creativecommons.org/licenses/by-sa/4.0/ क्रियेटिव कॉमन्स ऐट्रिब्यूशन/शेयर-अलाइक लायसेंस] हाच्या अंतर्गत उपलब्ध आसा; हेर अटी लागू जावं शकतात.\nचड म्हायती खातीर [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use वापराच्यो अटी] पळयात.",
 	"wikimedia-copyrightwarning": "\"बदल सांबाळून दवरल्या उपरांत तुमकां [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use वापरपाच्यो अटी] मानून घेवंच्यो पडटल्यो, आनी तुमी तुमच्या योगदानान [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0 लायसेंस] वा [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] खाला अपरिवर्तनीय रुपान चालू दवरप स्विकार करतात.\nतुमी हेंवूय स्विकार करता, एक हायपरलींक वा यू॰आर॰एल क्रियेटिव कॉमन्स लायसेंसच्या अंतर्गत पर्याप्त ऐट्रिब्यूशन (श्रेय) आसा.",
 	"wikimedia-mobile-mainpage-title-loggedin": "येवकार, $1!",
 	"wikibase-repo-name": "विकिडेटा",

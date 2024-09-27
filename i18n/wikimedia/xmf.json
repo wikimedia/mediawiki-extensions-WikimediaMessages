@@ -184,7 +184,7 @@
 	"tag-AWB": "[[:w:xmf:ვიკიპედია:AutoWikiBrowser|AutoWikiBrowser]]",
 	"tag-AWB-description": "რედაქტირაფეფი ნაქიმინა რე [https://:w:xmf:ვიკიპედია.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]-ით",
 	"search-interwiki-custom": "wikt:ვიქსიკონიშე\nb:ვიკიწინგეფშე\nn:ვიკისიახალეეფშე\nq:ვიკიციტატაშე\ns:ვიკიწყუშე\nv:ვიკივერსიტეტიშე\nvoy:ვიკივოიაჟიშე",
-	"wikimedia-copyright": "მოჩამილი ტექსტი წჷმორინელი რე <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike ლიცენზიათ</a>; შილებე გეძინელი პიჯალეფიშ რინა. კილიშკილიშა ქოძირით <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">გჷმორინაფაშ წესეფი</a>.",
+	"wikimedia-copyright-footer": "მოჩამილი ტექსტი წჷმორინელი რე [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike ლიცენზიათ]; შილებე გეძინელი პიჯალეფიშ რინა. კილიშკილიშა ქოძირით [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use გჷმორინაფაშ წესეფი].",
 	"wikimedia-copyrightwarning": "კონჭ \"{{int:savearticle}}\"-შ გენჭირათ, თქვა დოჸუნთ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use გჷმორინაფაშ წესეფს], დო თაშნეშე თქვა დოჸუნთ თიშ გჷმობჟინაფას [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0] დო [https://www.gnu.org/copyleft/fdl.html GFDL] ლიცენზიეფით.\nთქვა დოჸუნთ, ნამჷ-და მეწურაფილი ჰიპერრსხილეფი გეჸვენჯ ხასჷლას, ვარ-და თიშ URL-მიოწურაფუ ობაღჷ Creative Commons-იშ ლიცენზიაშ ატრიბუტიკაშ პიჯალეფიშ ოქიმინალო.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|მოზოჯით}}, $1!",
 	"wikibase-page-schema-author-name": "ვიკიმედიაშ პროექტეფიშ მაკათურეფი",

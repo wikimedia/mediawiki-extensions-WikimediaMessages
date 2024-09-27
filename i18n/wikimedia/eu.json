@@ -126,7 +126,7 @@
 	"group-wmf-officeit-member": "{{GENDER:$1|WMF IKT Saila}}",
 	"group-wmf-researcher": "WMF ikertzaileak",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF ikertzaileak}}",
-	"wikimedia-copyright": "Testua <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.eu\">Creative Commons Aitortu-PartekatuBerdin 4.0 lizentziari</a> jarraituz erabil daiteke;\nbaliteke beste klausularen batzuk ere aplikatu behar izatea.\nXehetasunen berri izateko, ikus <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">erabilera-baldintzak</a>.",
+	"wikimedia-copyright-footer": "Testua [https://creativecommons.org/licenses/by-sa/4.0/deed.eu Creative Commons Aitortu-PartekatuBerdin 4.0 lizentziari] jarraituz erabil daiteke;\nbaliteke beste klausularen batzuk ere aplikatu behar izatea.\nXehetasunen berri izateko, ikus [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use erabilera-baldintzak].",
 	"wikimedia-copyrightwarning": "«{{int:savearticle}}» botoia sakatuz, onartzen dituzu [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use  erabilera-baldintzak], eta modu ezeztaezinean onartzen duzu zure ekarpena [https://creativecommons.org/licenses/by-sa/4.0/deed.eu Creative Commons Aitortu-PartekatuBerdin 4.0] eta [https://www.gnu.org/copyleft/fdl.html GFDL] lizentziekin plazaratzea.\nOnartzen duzu hiperesteka bat edo URL bat aski dela aitortza hori egiteko, Creative Commons lizentziari jarraituz.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ongi etorri}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Wikiliburuak",

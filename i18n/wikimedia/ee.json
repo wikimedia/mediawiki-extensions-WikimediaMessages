@@ -19,7 +19,7 @@
 	"grouppage-flood": "{{ns:project}}:Bɔt zãlawo",
 	"group-founder": "Eɖolawo",
 	"group-founder-member": "{{GENDER:$1|eɖola}}",
-	"wikimedia-copyright": "Nuŋɔŋlɔwo le <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike Mɔɖegbalẽ</a> te ;\nnya bubuwo ate ŋu awɔ dɔ.\nKpɔ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Zãzã ƒe Ðoɖowo</a> hena numeɖeɖe bubuwo.",
+	"wikimedia-copyright-footer": "Nuŋɔŋlɔwo le [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike Mɔɖegbalẽ] te ;\nnya bubuwo ate ŋu awɔ dɔ.\nKpɔ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Zãzã ƒe Ðoɖowo] hena numeɖeɖe bubuwo.",
 	"wikibase-sitelinks-wikinews": "Wikinyadzɔdzɔwo",
 	"cant-delete-main-page": "Wo mate ŋu tutu alo ɖe Axɔ do ŋgɔ o.",
 	"wikimedia-developers": "Ewɔlawo",

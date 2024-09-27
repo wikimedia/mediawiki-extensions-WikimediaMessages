@@ -164,7 +164,7 @@
 	"tag-emoji": "Émoji",
 	"tag-emoji-description": "Dianggo déning saringan salah-guna global 110.",
 	"search-interwiki-custom": "wikt:Saka Wikisastra\nb:Saka Wikipustaka\nn:Saka Wikiwarta\nq:Saka Wikicuplik\ns:Saka Wikisumber\nv:Saka Wikiversitas\nvoy:Saka Wikiwisata",
-	"wikimedia-copyright": "Tèks iki cumepak kanthi <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lisènsi Atribusi-DumSaèmper Creative Commons</a>; paugeran tambahan bokmanawa uga lumaku. Wacaa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Paugeran Panganggo</a> kanggo rerincèné.",
+	"wikimedia-copyright-footer": "Tèks iki cumepak kanthi [https://creativecommons.org/licenses/by-sa/4.0/ Lisènsi Atribusi-DumSaèmper Creative Commons]; paugeran tambahan bokmanawa uga lumaku. Wacaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Paugeran Panganggo] kanggo rerincèné.",
 	"wikimedia-copyrightwarning": "Kanthi nyimpen owahan, panjenengan minangkani [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Bebakuné Pangguna], lan panjenengan tansah minangkani yèn ngamardika pisumbangé panjenengan sarana [https://creativecommons.org/licenses/by-sa/4.0/ Lisènsi CC BY-SA 4.0] lan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nPanjenengan sarujuk bilih URL waé wis patut minangka atribusi miturut lisènsi Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Sugeng rawuh}}, $1!",
 	"wikibase-repo-name": "Wikidata",

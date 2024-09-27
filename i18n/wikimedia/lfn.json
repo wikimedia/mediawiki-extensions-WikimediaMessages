@@ -9,7 +9,7 @@
 	},
 	"sitesupport": "Fa un dona",
 	"tooltip-n-sitesupport": "Suporta nos",
-	"wikimedia-copyright": "Testo es disponeda su la <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Lisensa Attribution-ShareAlike de Creative Commons</a>; plu restrinjes pote pertine. Vide <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Contrata de usa</a> per detalias.",
+	"wikimedia-copyright-footer": "Testo es disponeda su la [https://creativecommons.org/licenses/by-sa/4.0/ Lisensa Attribution-ShareAlike de Creative Commons]; plu restrinjes pote pertine. Vide [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Contrata de usa] per detalias.",
 	"wikimedia-copyrightwarning": "Par fisa cambias, tu acorda la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/Terms_of_Use contrata de usa], e tu acorda noncanselable relasa tua contribui su la [https://creativecommons.org/licenses/by-sa/4.0/ lisensa CC BY-SA 4.0] e la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Tu acorda ce un iperlia o URL es un atribui sufisinte su la lisensa de Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bonveni}}, $1!",
 	"wikibase-repo-name": "Vicidatos",

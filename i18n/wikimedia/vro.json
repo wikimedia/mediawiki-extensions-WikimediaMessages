@@ -8,7 +8,7 @@
 	},
 	"sitesupport": "Tugõminõ",
 	"tooltip-n-sitesupport": "Tukõq mi tüüd",
-	"wikimedia-copyright": "Teksti või pruukiq <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike</a>-litsendsi tingimüisi perrä;\nmõnikõrd või päält taa ollaq ka muid tingimüisi.\nTaa kotsilõ kaeq täpsämbähe <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/vro\">Wikimedia pruukmistingimüisist</a>.",
+	"wikimedia-copyright-footer": "Teksti või pruukiq [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike]-litsendsi tingimüisi perrä;\nmõnikõrd või päält taa ollaq ka muid tingimüisi.\nTaa kotsilõ kaeq täpsämbähe [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/vro Wikimedia pruukmistingimüisist].",
 	"wikimedia-copyrightwarning": "Pästmisega annat nõunolõgi uma tüü tagasipüürdmäldä ärq ilmutamisõs litsentse [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 Licence] ja [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] perrä.\nOlõt nõun, et su autorisolõmist näüdätäs vähämbält võrgoaadrõsi vai lingiga seo lehe pääle, midä sa parhilla toimõndat.",
 	"wikimedia-mobile-mainpage-title-loggedin": "Olõq terveq tulõma, $1!",
 	"wikibase-sitelinks-wikinews": "Vikiuudisõq",

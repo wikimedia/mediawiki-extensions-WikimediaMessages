@@ -44,7 +44,7 @@
 	"group-steward-member": "steward",
 	"group-sysadmin": "Admińistratory systymu",
 	"group-sysadmin-member": "admińistrator systyma",
-	"wikimedia-copyright": "Tekst je dostympny na <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pl\">licyncyji Creative Commons: uznanie autorstwa, na takich samych warōnkach</a>, ze możliwymi ekstra ôgraniczyniami.\nWejzdrzij na <a href=\"https://foundation.wikimedia.org/wiki/Warunki_korzystania\">warōnki używaniŏ</a> po wiyncyj informacyji.",
+	"wikimedia-copyright-footer": "Tekst je dostympny na [https://creativecommons.org/licenses/by-sa/4.0/deed.pl licyncyji Creative Commons: uznanie autorstwa, na takich samych warōnkach], ze możliwymi ekstra ôgraniczyniami.\nWejzdrzij na [https://foundation.wikimedia.org/wiki/Warunki_korzystania warōnki używaniŏ] po wiyncyj informacyji.",
 	"wikimedia-copyrightwarning": "Spamiyntaniym zmian dŏwŏsz niyôdkŏzalnõ zgodã na udostympnianie swojigo wkładu na licyncyji [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons: Uznanie autorstwa – trzim licyncyjõ – wersyjŏ 4.0] i na licyncyji [https://www.gnu.org/copyleft/fdl.html GFDL]. Dŏwŏsz zgodã na używanie Twojigo wkładu we leda jakij formie, pod warōnkym podaniŏ aby hiperlinku abo adresy URL do zajty, co na nij powstała treść. Ôbejzdrzij rozszyrzōne informacyje ô [https://foundation.wikimedia.org/wiki/Warunki_korzystania warōnkach używaniŏ].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Witej}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinowiny",

@@ -8,7 +8,7 @@
 		]
 	},
 	"sitesupport": "Bağışlar",
-	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike</a> litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Qullanuv Şartları</a>na baqıñız.",
+	"wikimedia-copyright-footer": "Metin [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike] litsenziyasınen berilgen; bazıda ilâve şartlar qullanılıp ola. Tafsilât içün [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Qullanuv Şartları]na baqıñız.",
 	"wikimedia-copyrightwarning": "Yapqan deñiştirmeleriñizni yayınlap siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Qullanuv Şartları]nen razı olıp [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] ve [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] litsenziyalarınıñ şartlarına köre yazğanıñıznıñ keri qaytarılmaz şekilde yayınlanmasını qabul etersiñiz. Creative Commons litsenziyasınıñ talaplarına uyğun olmaq içün bu saifege bağlantı bermek ya da bu saifeniñ URL adresini bildirmek yeterlik olacağını da qabul etersiñiz.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Hoş keldiñiz}}, $1!",
 	"wikibase-sitelinks-wikinews": "Vikihaber",

@@ -8,7 +8,7 @@
 	},
 	"sitesupport": "تبرّعولنا",
 	"tooltip-n-sitesupport": "عاونونا",
-	"wikimedia-copyright": "هاذ النصّ راه موجود تحت رخصة <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.fr\">Creative Commons Attribution-ShareAlike</a> ؛ \nشروط اخرى تقدر تتطبّق.\nشوف <a href=\"https://foundation.wikimedia.org/wiki/Conditions_d'utilisation\">شروط الاستعمال</a> باش تعرف اكثر.",
+	"wikimedia-copyright-footer": "هاذ النصّ راه موجود تحت رخصة [https://creativecommons.org/licenses/by-sa/4.0/deed.fr Creative Commons Attribution-ShareAlike] ؛ \nشروط اخرى تقدر تتطبّق.\nشوف [https://foundation.wikimedia.org/wiki/Conditions_d شروط الاستعمال] باش تعرف اكثر.",
 	"wikimedia-copyrightwarning": "كي تسجّل التبدالات، راك قابل الـ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use المشارط تاع الستعمال], و راك تاني قابل بلا ما تنجم تبدّل رايك، باش تنحط الخدمة هادي تحت الـ [https://creativecommons.org/licenses/by-sa/4.0/ الترخيص CC BY-SA 4.0] و تاني الـ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nراك قابل بلّي الوصيل ولا الـ URL راهم كافيين باش ينسّبو ليك المشاركة تاعك.",
 	"wikibase-sitelinks-wikinews": "ويكيخبارات",
 	"wikibase-sitelinks-wikiquote": "ويكيقوالات",

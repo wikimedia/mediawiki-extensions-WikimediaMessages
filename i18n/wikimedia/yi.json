@@ -130,7 +130,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|איבערזעצונג אדמיניסטראטאר}}",
 	"grouppage-translationadmin": "{{ns:project}}:איבערזעצונג אדמיניסטראטארן",
 	"shared-repo-name-shared": "וויקימעדיע קאמאנס",
-	"wikimedia-copyright": "טעקסט איז פאראן לויטן <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons צושרייבן/טייל-גלייך ליצענץ</a>; קען אפשר זיין נאך תנאים.\nזעט <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">תנאים פון באניצן</a> פֿאר פרטים.",
+	"wikimedia-copyright-footer": "טעקסט איז פאראן לויטן [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons צושרייבן/טייל-גלייך ליצענץ]; קען אפשר זיין נאך תנאים.\nזעט [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאים פון באניצן] פֿאר פרטים.",
 	"wikimedia-copyrightwarning": "אויפהיטנדיק די ענדערונגען, איר זענט מסכים מיט די [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ניצבאַדינגונגען] , און איר זענט אומאָפּענדערלעך מסכים צו פּובליקירן אייער ביישטייערונג אונטער [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA  ליצענץ 4.0] און [https://www.gnu.org/copyleft/fdl.html GFDL].\nאיר שטימט צו, אַז אַ היפּערלינק אָדער URL איז גענוג צושרייבן אונטערן Creative Commons ליצענץ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ברוך הבא}}, $1!",
 	"wikibase-repo-name": "וויקידאטן",

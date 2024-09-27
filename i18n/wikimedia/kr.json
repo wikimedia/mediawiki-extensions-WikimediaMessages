@@ -7,7 +7,7 @@
 		]
 	},
 	"sitesupport": "Banatǝ",
-	"wikimedia-copyright": "Ruwo nbeji sidiya <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike Amartǝ</a>;\nsharaduwa gade tikin.\nKuru <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Sharadu faidate be</a> bayin fando ro.",
+	"wikimedia-copyright-footer": "Ruwo nbeji sidiya [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike Amartǝ];\nsharaduwa gade tikin.\nKuru [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Sharadu faidate be] bayin fando ro.",
 	"wikimedia-copyrightwarning": "Chandi də yasauya kasan nua [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou agree that a hyperlink or URL is sufficient attribution under the Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

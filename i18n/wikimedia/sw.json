@@ -48,7 +48,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|msimamizi wa mfumo}}",
 	"group-translationadmin": "Wasimamizi wa tafsiri",
 	"group-translationadmin-member": "{{GENDER:$1|msimamizi wa tafsiri}}",
-	"wikimedia-copyright": "Maandishi yanapatikana chini ya leseni ya <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; matakwa mengine yanaweza kutakiwa.\nTazama maelezo zaidi ya <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Matakwa ya Utumiaji</a>.",
+	"wikimedia-copyright-footer": "Maandishi yanapatikana chini ya leseni ya [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License]; matakwa mengine yanaweza kutakiwa.\nTazama maelezo zaidi ya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Matakwa ya Utumiaji].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Karibu}}, $1!",
 	"wikibase-page-schema-author-name": "Uchangiaji katika miradi ya Wikimedia",
 	"wikibase-sitelinks-wikinews": "Wikihabari",

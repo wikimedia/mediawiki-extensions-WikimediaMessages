@@ -21,7 +21,7 @@
 	"group-uploader-member": "{{GENDER:$1|سوارکننه}}",
 	"group-massmessage-sender": "فرسنه یا فره پیغوم",
 	"group-massmessage-sender-member": "{{GENDER:$1|فرسنه فره پیغوم}}",
-	"wikimedia-copyright": "نیسسٱ زؽرنخیز<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> ها د دٱسرس؛ کلٱمؽا اْزافی شایٱد ڤ کار گرتٱ بۊئٱن.\nد <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">کلٱمؽا ڤ کار گرتٱن</a> for details باٛینؽت.",
+	"wikimedia-copyright-footer": "نیسسٱ زؽرنخیز[https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] ها د دٱسرس؛ کلٱمؽا اْزافی شایٱد ڤ کار گرتٱ بۊئٱن.\nد [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use کلٱمؽا ڤ کار گرتٱن] for details باٛینؽت.",
 	"wikimedia-copyrightwarning": "ڤا آمایٱ کردن آلشتؽا،[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شٱرایت ڤ کار گرتن] ناْ قبۊل مؽ کؽت، ۉ د هال ۉ بار بؽ تلافی کاری قبۊل مؽ کؽت کاْ هومیاری شما زؽر نخیز [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ۉ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] درتیچ کاری بۊئٱ.\nشما قبۊل مؽ کؽت کاْ یاٛ هوم پاٛڤٱن یا تیرنشوݩ نسبت داٛین کافی زؽر نخیز پٱرڤانٱ کریتیو کامنز ئٱ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "خوش اومايت،$1!",
 	"wikibase-sitelinks-wikinews": "ڤیکی هڤال",

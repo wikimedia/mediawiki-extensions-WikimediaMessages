@@ -17,7 +17,7 @@
 	"group-global-sysop": "Pankinaban na parapaandar nin sistema",
 	"group-staff": "Kalikian",
 	"group-staff-member": "{{GENDER:$1|kalikiang miyembro}}",
-	"wikimedia-copyright": "Magagamit an teksto sa irarom kan <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; \nposibleng malapat an dagdag pang mga termino.\nHilingon an <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> para sa detalye.",
+	"wikimedia-copyright-footer": "Magagamit an teksto sa irarom kan [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License]; \nposibleng malapat an dagdag pang mga termino.\nHilingon an [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] para sa detalye.",
 	"wikimedia-copyrightwarning": "Sa pagpublikar sa mga pagbabago, nag-uuyon ka sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], asin nag-uuyon ka man na mayong bawian na iluwas an mga pagbabago mo sa irarom kan [https://creativecommons.org/licenses/by-sa/4.0/ Lisensiyang CC BY-SA 4.0] asin sa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nNag-uuyon ka man na husto na an sarong hyperlink o URL para sa atribusyon sa irarom kan lisensyang Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Maugmang pag-abot}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikibarita",

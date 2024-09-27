@@ -11,7 +11,7 @@
 	"sitesupport": "Նուիրատուութիւն ընել",
 	"tooltip-n-sitesupport": "Աջակցեցէ՛ք մեզի",
 	"shared-repo-name-shared": "Ուիքիպահեստ",
-	"wikimedia-copyright": "Գրութիւնը հասանելի է <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.hy\">Creative Commons Attribution-ShareAlike License</a> թույլատրագրի մէջ, առանձին դեպքերով հնարաւոր է յաւելեալ պայմաններ ունենալ։ Մանրամասնութիւններու համար այցելեցէք՝ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Օգտագործման պայմաններ</a>։",
+	"wikimedia-copyright-footer": "Գրութիւնը հասանելի է [https://creativecommons.org/licenses/by-sa/4.0/deed.hy Creative Commons Attribution-ShareAlike License] թույլատրագրի մէջ, առանձին դեպքերով հնարաւոր է յաւելեալ պայմաններ ունենալ։ Մանրամասնութիւններու համար այցելեցէք՝ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Օգտագործման պայմաններ]։",
 	"wikimedia-copyrightwarning": "Փոփոխութիւնները պահպանելով, համաձայն էք [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], եւ համաձայն էք հրապարակելու ձեր խմբագրումը [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] պայմանագրի տակ, ինչպէս նաեւ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\n\nՀամաձայն էք որ URLի յղում մը կամ գերյղում մը բաւարար է որպէս վարձատրութիւն ըստ Creative Commons արտօնագրին։",
 	"wikibase-repo-name": "Ուիքիտուեալներ",
 	"wikibase-sitelinks-wikibooks": "Ուիքիգիրքեր",

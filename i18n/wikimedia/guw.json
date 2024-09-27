@@ -11,7 +11,7 @@
 	"group-otrs-member": "ogbẹ VRT tọn lẹ",
 	"group-vrt-permissions": "VRT menometenme",
 	"group-vrt-permissions-member": "{{sunnu kavi yonnu :$1|VRT menometenme}}",
-	"wikimedia-copyright": "Nukinkan lẹ tin to <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; osẹ́n devo lẹ sọgan yin yiyidogọ.\nPọn <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Osẹ́n Nọtẹn lọ Tọn Lẹ</a> na nudọnamẹ dogọ lẹ.",
+	"wikimedia-copyright-footer": "Nukinkan lẹ tin to [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License]; osẹ́n devo lẹ sọgan yin yiyidogọ.\nPọn [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Osẹ́n Nọtẹn lọ Tọn Lẹ] na nudọnamẹ dogọ lẹ.",
 	"wikimedia-copyrightwarning": "Ni aze diọdo lẹ sẹdo, be a ko kẹalọyi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] ehe lẹ, podọ a ma dona gbọawupo nado basi nunina do [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ji po [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ji ga. \nA kẹalọyi dọ hukan-jẹhọnmẹ tọn kavi URL ko pegan na gbedewema Creative Commons tọn yiyi.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Mì kuavọ}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikilinlin",

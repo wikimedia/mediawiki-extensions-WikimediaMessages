@@ -50,7 +50,7 @@
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"group-sysadmin": "System-Administraters",
 	"group-sysadmin-member": "{{GENDER:$1|System-Administrater}}",
-	"wikimedia-copyright": "Den Text is ünner de Afsprook <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Naamsnennung-wiedergeeven ünner lieke Afsprook</a>;\ntoföögt Bedingungen kunn anwend warn.\nKiek na <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Brukbedingungen</a> för Details.",
+	"wikimedia-copyright-footer": "Den Text is ünner de Afsprook [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Naamsnennung-wiedergeeven ünner lieke Afsprook];\ntoföögt Bedingungen kunn anwend warn.\nKiek na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Brukbedingungen] för Details.",
 	"wikimedia-copyrightwarning": "Mit't afspiekern stimmst Du de  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Afspraak vun't Bruuk] to un makst dien Bidrag ünner de ni mehr torüggtreckbar'n Tostimmung publik ünner  [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 Afspraak] un de [https://www.gnu.org/licenses/fdl-1.3.html GFDL].\nDu stimmst to, dat een Link oder URL is noog Toschrievung ünner de Creative Commons license.",
 	"wikibase-sitelinks-wikinews": "Wikinarichten",
 	"wikibase-sitelinks-wikiquote": "Wikizitaten",

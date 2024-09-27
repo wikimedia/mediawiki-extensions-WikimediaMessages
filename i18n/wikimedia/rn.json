@@ -5,7 +5,7 @@
 		]
 	},
 	"sitesupport": "Tanga ingabire",
-	"wikimedia-copyright": "Inyandiko ziboneka kuri <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>;\nAyandi majambo arashobora gukurikizwa.\nRaba <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> uronke ibisobanuro.",
+	"wikimedia-copyright-footer": "Inyandiko ziboneka kuri [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nAyandi majambo arashobora gukurikizwa.\nRaba [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] uronke ibisobanuro.",
 	"wikimedia-copyrightwarning": "Ubitse impinyanyuro, uba wemeye [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], kandi uba wemeye gutanga intererano ubutisubirako kuri [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nWemeye ko hyperlink canke URL ari umugabane kuri licence ya Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Amakuru ya Wiki",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
