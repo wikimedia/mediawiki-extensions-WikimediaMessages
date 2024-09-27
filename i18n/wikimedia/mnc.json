@@ -5,6 +5,7 @@
 			"ChoiChong",
 			"Chulsu463",
 			"Foavi33",
+			"MiiCii",
 			"Moon0319",
 			"Араси"
 		]
@@ -14,7 +15,7 @@
 	"group-wikifunctions-staff": "Wikifunctions tušasi",
 	"group-wikifunctions-staff-member": "{{GENDER:$1|Wikifunctions tušasi}}",
 	"grouppage-wikifunctions-staff": "{{ns:project}}:Wikifunctions tušasi saitu",
-	"wikimedia-copyright": "text oci neneme de mutembi: <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nnonggire kooli fafun amba muru bi.\nneneme be tuwa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-copyright": "Ere asui tatan -i hergen -i baitambun <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.mnc\">Sarasu be Sasari Alime Gaijara Gebu Gidara - Adališara Arga Durun -i Sasari Alime Gaijara 4.0 Gurunsiden Ban -i Boji Bithe</a> -i toose bure be baitalambi, nonggibure hacin meyen geli baitalabumbi.\n<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">baitalara hacin meyen</a> be narhūšame hūlaki.",
 	"wikimedia-copyrightwarning": "save oci si neneme de aljambi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], geli sini arahangge be neneme de aljambi [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nsi Creative Commons license i tere hyperlink eici URL aljame mutembi.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Urgunjeme okdombi}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wiki mede",
