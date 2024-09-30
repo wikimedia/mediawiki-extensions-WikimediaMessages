@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kambai Akau"
+			"Kambai Akau",
+			"Kuzayet"
 		]
 	},
+	"wm-license-cc-free": "Áni yyat",
+	"wm-license-cc-free-to-share-header": "Ka̱ á chat ka",
+	"wm-license-cc-free-to-share-text": "Ka̱ chat kok a, bvu tssop pfwong á",
+	"wm-license-cc-free-to-remix-header": "Ka̱ chat kyyai á",
+	"wm-license-cc-free-to-remix-text": "Rot chat kok pfwong",
+	"wm-license-cc-conditions": "A̱tahwa u̱ ka̱tssup shim kani:",
+	"wm-license-cc-conditions-attribution-header": "Du̱tyin",
 	"wm-license-cc-conditions-share_alike-header": "ka̱u meyang"
 }

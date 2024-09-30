@@ -20,7 +20,9 @@
 			"Ragimiri",
 			"Stang",
 			"Vlad5250",
-			"YjM"
+			"YjM",
+			"ShaggyCZ - Main",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Hlášení specifická pro projekty nadace Wikimedia",
@@ -303,6 +305,7 @@
 	"wikimedia-switchover-read-only": "V současné chvíli nemůžete editovat kvůli probíhající údržbě. Zkopírujte a uložte si svůj text a zkuste to znovu za několik minut.",
 	"passwordpolicies-policy-blockattacker": "Politika hesel bránící známým útokům, u které by zveřejnění podrobností ohrozilo tuto ochranu.",
 	"technical-maintenance-soon": "Brzy bude probíhat technická údržba:",
+	"technical-maintenance-edit": "Během této doby možná nebudete moci uložit žádné editace.",
 	"group-oathauth-tester": "Testeři dvoufaktorové autentizace",
 	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} dvoufaktorové autentizace",
 	"querypage-updates-half-monthly": "Aktualizace této stránky probíhají dvakrát za měsíc.",
@@ -316,8 +319,17 @@
 	"right-docseditor": "Editace dokumentace",
 	"right-edit-legal": "Úpravy stránek s možnými právnímy důsledky",
 	"action-edit-legal": "editovat stránky s možnými právními důsledky",
+	"ext-quicksurveys-tst-internal-survey-question": "Zažili jste v posledních třiceti dnech při přispívání do {{grammar:2sg|{{SITENAME}}}} ({{SERVERNAME}}) pocit ohrožení nebo nepohodlí?",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Ano",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Ne",
+	"ext-quicksurveys-tst-internal-survey-privacy-policy": "Tento anonymní průzkum pořádá nadace Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Přečtete si další informace] nebo si zkontrolujte [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement prohlášení o ochraně osobních údajů].",
+	"ext-quicksurveys-tst-internal-survey-additional-info": "Pokud jste zažili nebo byli svědky obtěžování, [https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources podívejte se na tyto zdroje].",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Děkujeme za vaši zpětnou vazbu.",
+	"ext-quicksurveys-internal-gdi-safety-survey-question": "Zažili jste v posledních třiceti dnech při přispívání do {{grammar:2sg|{{SITENAME}}}} ({{SERVERNAME}}) pocit ohrožení nebo nepohodlí?",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Ano",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Ne",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Nejsem si {{GENDER:|jistý|jistá|jist(a)}}",
+	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Tento anonymní průzkum pořádá nadace Wikimedia. [https://meta.wikimedia.org/wiki/Community_Safety Přečtete si další informace] nebo si zkontrolujte [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement prohlášení o ochraně osobních údajů].",
 	"gadget-souspages-subpages": "Podstránky",
 	"ipinfo-global-contributions-url-label": "Globální příspěvky"
 }

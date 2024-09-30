@@ -10,7 +10,8 @@
 			"Talex42",
 			"Tobi 406",
 			"Umherirrender",
-			"Wnme"
+			"Wnme",
+			"WikiBayer"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besucher dieses Wikis, die deine IP-Adresse benutzen, haben während des letzten Tages {{PLURAL:$1|ein Benutzerkonto|$1 Benutzerkonten}} erstellt. Dies ist die maximal erlaubte Anzahl in diesem Zeitraum.\nDaher können Besucher, die diese IP-Adresse benutzen, derzeit keine weiteren Benutzerkonten erstellen.\n\nFalls du dich auf einer Veranstaltung befindest, die sich auf die Mitwirkung bei Wikimedia-Projekten fokussiert, beantrage bitte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|eine temporäre Aufhebung der IP-Sperre]], um bei der Lösung dieses Problems zu helfen.",
@@ -18,7 +19,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "Du kannst auf [[m:Special:CentralAuth/$1|anderen Wikimedia-Projekten, zu denen du beigetragen hast]], die Seite mit deinen Einstellungen besuchen, um deine Benutzerdaten vom jeweiligen Projekt herunterzuladen.",
 	"wikimedia-createacct-imgcaptcha-help": "Das Bild ist nicht sichtbar? [[{{MediaWiki:createacct-captcha-help-url}}|Beantrage ein Benutzerkonto]].",
 	"wikimedia-centralauth-groupname": "der Wikimedia Foundation",
-	"wikimedia-centralauth-login-error-locked": "<strong>Dieses Benutzerkonto ist [[m:Special:MyLanguage/Global locks|global gesperrt]]</strong>. {{GENDER:$1|Du}} wirst dich in keinem Wikimedia-Wiki anmelden können. [[m:Special:Contact/stewards|Kontaktiere bitte die Stewards]], falls {{GENDER:$1|du}} irgendwelche Fragen hast.",
+	"wikimedia-centralauth-login-error-locked": "<strong>Dieses Benutzerkonto ist [[m:Special:MyLanguage/Global locks|global geschlossen]]</strong>. {{GENDER:$1|Du}} wirst dich in keinem Wikimedia-Wiki anmelden können. [[m:Special:Contact/stewards|Kontaktiere bitte die Stewards]], falls {{GENDER:$1|du}} irgendwelche Fragen hast.",
 	"createacct-helpusername-url": "{{ns:Project}}:Benutzernamensrichtlinie",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 globale Benutzerbeiträge] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} Abfragen] • [{{fullurl:Special:Block/$1}} lokale Sperren] oder [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 globale Sperren] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 Geolokalisierung] • [//ipcheck.toolforge.org/index.php?ip=$1 Proxy-Indikator-Prüfung] • [//meta.toolforge.org/stalktoy/$1 Stalktoy]&#93;</span>",
 	"wikimedia-delete-toobig": "Diese Seite hat eine lange Versionsgeschichte, über {{PLURAL:$1|eine Version|$1 Versionen}}.\nDas Löschen von Seiten mit sehr langen Versionsgeschichten wurde beschränkt, um einen zufälligen Zusammenbruch von {{SITENAME}} zu verhindern.\nBitte kontaktiere die [[m:Special:MyLanguage/Stewards|Stewards]] auf [[m:Steward requests/Miscellaneous|Stewardanfragen/Verschiedenes auf Meta]], um die Löschung dieser Seite zu beantragen.",
