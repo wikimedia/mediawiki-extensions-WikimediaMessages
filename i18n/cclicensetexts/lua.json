@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Difila",
+	"wm-license-cc-by-sa-3.0-text": "Muaba wa malubu udiku mu miaku ya licence[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr Attribution – Partage dans les Mêmes Conditions 3.0 (non transposée)].",
 	"wm-license-cc-free": "Udi mulekele:",
 	"wm-license-cc-free-to-share-header": "bua kuabanyangana",
 	"wm-license-cc-free-to-share-text": "bua kupatula, kuabanya ne kufila mudimu",
@@ -13,5 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "bua kuibidilangana ne mudimu",
 	"wm-license-cc-conditions": "Mu maangadika adi alonda:",
 	"wm-license-cc-conditions-attribution-header": "Difila",
-	"wm-license-cc-conditions-share_alike-header": "Kupesha mu mushindu umwe"
+	"wm-license-cc-conditions-attribution-text": "Udi ne bua kufila mukanda wa dianyisha udi mukumbane, kufila diumvuija dia mukanda wa difila mikanda ne kufila diumanyisha dia bikalabu bashintulule mukanda. Udi mua kuenza nunku mu mushindu kayi wonso udi umueneka muimpe, kadi ki mbualu budi buleja ne: udi ukuanyisha anyi udi ukuanyisha bua kuenza mudimu ne mikanda eyi to.",
+	"wm-license-cc-conditions-share_alike-header": "Kupesha mu mushindu umwe",
+	"wm-license-cc-conditions-share_alike-text": "Wewe muimanyine, mushintulule anyi musake bua kuenza mudimu ne bintu ebi, udi ne bua kuabanya mapa ebe mu [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses the same or compatible license] bu mudiya wa mu tshiena-bualu tshia kumpala."
 }

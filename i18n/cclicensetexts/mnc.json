@@ -4,19 +4,20 @@
 			"Amire80",
 			"ChoiChong",
 			"Chulsu463",
-			"Foavi33"
+			"Foavi33",
+			"MiiCii"
 		]
 	},
-	"wm-license-cc-attribution": "Gebu arara",
-	"wm-license-cc-by-sa-3.0-text": "ere file neneme de algin [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] license.",
-	"wm-license-cc-free": "Si ombi:",
-	"wm-license-cc-free-to-share-header": "uheri",
-	"wm-license-cc-free-to-share-text": "sarkiyambi, baita be selgiyeme unggimbi",
-	"wm-license-cc-free-to-remix-header": "tuwamgiyambi",
-	"wm-license-cc-free-to-remix-text": "baita de acanambi",
-	"wm-license-cc-conditions": "Arbun de dahame:",
-	"wm-license-cc-conditions-attribution-header": "gebu arara",
-	"wm-license-cc-conditions-attribution-text": "Si urunakū lak sere arahangge be bufi, temgetu i holbobungge be bufi, kūbulin bihe de tucibu. Si giyan i tucibure mutere, damu temgetu i aljabure niyalma sini baitalan de urulere be yooni arga muterakū.",
-	"wm-license-cc-conditions-share_alike-header": "adali be kvbulire be aljambi",
-	"wm-license-cc-conditions-share_alike-text": "Si tere justan be suwaliyame, guribume eici ilibuci, si urunakū [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses] de sinde buhe be araki."
+	"wm-license-cc-attribution": "Gebu gidara",
+	"wm-license-cc-by-sa-3.0-text": "Ere bithe [[{{int:wm-license-cc-wiki-link}}|sarasu be sasari gaijara]] [[creativecommons:by-sa/3.0/deed.mnc|gebu gidara-adalingga arga be sasari gaijara 3.0 tesu ba obuhakūngge ban]] aljara boji bithe -i toose bure be baitalambi.",
+	"wm-license-cc-free": "Si fejergingge justan de songkoloci, sulfa -i:",
+	"wm-license-cc-free-to-share-header": "Sasari gaijara",
+	"wm-license-cc-free-to-share-text": "Ere weile be sarkiyara, tucibure eici selgiyere",
+	"wm-license-cc-free-to-remix-header": "Tuwamgiyara",
+	"wm-license-cc-free-to-remix-text": "Weile be adabure",
+	"wm-license-cc-conditions": "Fejergingge bilere justan be dahaci acambi:",
+	"wm-license-cc-conditions-attribution-header": "Gebu gidara",
+	"wm-license-cc-conditions-attribution-text": "Si urunakū lak seme gebu gidafi, toose bure justan -i holboro futa be alibufi, da -i baktambun be dasataha dasatahakū be nisihai getukeleme gisureki. Si yaya giyan de acanaha durun de gebu gidaci ombi, damu aljabure niyalma sini beye eici sini baitalan de urušere be iletuleci ojorakū.",
+	"wm-license-cc-conditions-share_alike-header": "Adalingga kooli de sasari alime gaijara",
+	"wm-license-cc-conditions-share_alike-text": "Aikabade si suwaliyaganjara, kūbulibure, eici ere weile -i songkoi fukjileme araki seci,si urunakū [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses daci aljara boji bithe de adali, eici kamcibume mutere aljara boji bithe] de sini alibume jafaha weile be demdeme buci acambi."
 }

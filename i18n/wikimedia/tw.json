@@ -3,11 +3,14 @@
 		"authors": [
 			"AC Krah",
 			"Amire80",
+			"Joka32",
 			"Robertjamal12"
 		]
 	},
 	"sitesupport": "Yi ma",
 	"wikimedia-copyright": "Nkyerɛw yi hyɛ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a> ase; mmra bi bɛtumi asan aka ho bio.\n\nNkyerɛkyerɛ mu wɔ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a>.",
+	"wikifunctions-editing-copyrightwarning-function": "Sɛ wofa \"nya\" so a, wugye [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] tom, na wugye w'afã no tom sɛ wobɛma wo kyɛfa no anya nkɔanim wɔ [//creativecommons.org/publicdomain/zero/1.0/ Creative Commons CC0 License mu].",
+	"wikifunctions-editing-copyrightwarning-implementation": "Sɛ wobɔ \"nya\" a, ɛkyerɛ sɛ wopene [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] so, na wopene so a wontumi nsakra sɛ wobɛyi wo ntoboa no adi wɔ [https://www. apache.org/licenses/LICENSE-2.0 Apache 2.0 Tumi krataa].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Akwaaba}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Cabal",
 			"Kuldeepburjbhalaike",
 			"Nikki",
 			"Varnent"
@@ -10,6 +11,8 @@
 	"wm-commonstrings-background": "ਪਿਛੋਕੜ",
 	"wm-commonstrings-conclusion": "ਸਿੱਟਾ",
 	"wm-commonstrings-events": "ਸਮਾਗਮ",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|ਮੁੱਢਲਾ ਲੇਖ: $1|ਮੁੱਢਲੇ ਲੇਖ: $1}}",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|ਮੁੱਢਲਾ ਵਰਕਾ: $1|ਮੁੱਢਲੇ ਵਰਕੇ: $1}}",
 	"wm-commonstrings-noticeboard": "ਸੂਚਨਾ ਤਖ਼ਤਾ",
 	"wm-commonstrings-objectives": "ਟੀਚਾ",
 	"wm-commonstrings-overview": "ਸੰਖੇਪ",
