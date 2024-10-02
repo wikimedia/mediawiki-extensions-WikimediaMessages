@@ -6,7 +6,8 @@
 			"MaGa",
 			"Neptune, the Mystic",
 			"Ponor",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"N0one"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi odabrati)]]",
@@ -15,7 +16,7 @@
 	"wikimedia-centralauth-groupname": "{{#SWITCH:{{{1|}}}\n|#default=Zaklada Wikimedije\n|gen=Wikimedijine zaklade\n}}",
 	"createacct-helpusername-url": "{{ns:Project}}:Suradničko_ime",
 	"wikimedia-discussiontools-replywidget-terms-click": "Pritiskom na »$1« pristajete na naše [https://foundation.wikimedia.org/wiki/Terms_of_Use Uvjete upotrebe] i nepozivo objavljujete svoj doprinos {{PLURAL:$3|pod licencijom|pod licencijama}} $2.",
-	"wikimedia-feedback-termsofuse": "Slažem se da povratne informacije objavljujem u skladu s <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Uvjetima uporabe</a>.",
+	"wikimedia-feedback-termsofuse": "Slažem se da povratne informacije objavljujem u skladu s [https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Us Uvjetima uporabe].",
 	"wikimedia-flow-terms-of-use-new-topic": "Pritiskom na »{{int:flow-newtopic-save}}« pristajete na naše [https://foundation.wikimedia.org/wiki/Terms_of_Use Uvjete upotrebe] i nepozivo objavljujete svoj doprinos {{PLURAL:$2|pod licencijom|pod licencijama}} $1.",
 	"wikimedia-flow-terms-of-use-reply": "Pritiskom na »{{int:flow-reply-link}}« pristajete na naše [https://foundation.wikimedia.org/wiki/Terms_of_Use Uvjete upotrebe] i nepozivo objavljujete svoj doprinos {{PLURAL:$2|pod licencijom|pod licencijama}} $1.",
 	"wikimedia-flow-terms-of-use-edit": "Spremanjem izmjena pristajete na naše [https://foundation.wikimedia.org/wiki/Terms_of_Use Uvjete upotrebe] i nepozivo objavljujete svoj doprinos {{PLURAL:$2|pod licencijom|pod licencijama}} $1.",

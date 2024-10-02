@@ -34,7 +34,8 @@
 			"Vriullop",
 			"Xavier Dengra",
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Lluis Cat"
 		]
 	},
 	"wikimediamessages-desc": "Missatges específics de Wikimedia",
@@ -155,8 +156,8 @@
 	"group-translationadmin": "Administradors de traducció",
 	"group-translationadmin-member": "{{GENDER:$1|administrador de traducció|administradora de traducció}}",
 	"grouppage-translationadmin": "{{ns:project}}: administradors de traducció",
-	"group-wmf-supportsafety": "Assistència i seguretat de la WMF",
-	"group-wmf-supportsafety-member": "{{GENDER:$1|Assistència i seguretat de la WMF}}",
+	"group-wmf-supportsafety": "Confiança i seguretat de la WMF",
+	"group-wmf-supportsafety-member": "{{GENDER:$1|Confiança i seguretat de la WMF}}",
 	"tag-emoji": "Emojis",
 	"wikimedia-copyright": "Text disponible sota la <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.ca\">Llicència de Creative Commons Reconeixement/Compartir-Igual</a>; es poden aplicar termes addicionals.\nVegeu les <a href=\"https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca\">condicions d'ús</a> per a més informació.",
 	"wikimedia-copyrightwarning": "En desar els canvis esteu acceptant les [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca condicions d'ús] i esteu acceptant, de manera irrevocable, que la vostra contribució s'alliberi sota la [https://creativecommons.org/licenses/by-sa/4.0/deed.ca llicència CC BY-SA 4.0] i la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. També \naccepteu que un hiperenllaç o URL és atribució d'autoria suficient sota la llicència Creative Commons.",

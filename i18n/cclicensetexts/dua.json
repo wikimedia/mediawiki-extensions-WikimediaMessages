@@ -1,12 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"EbelleMarcel"
+			"EbelleMarcel",
+			"Olivier Moukodi"
 		]
 	},
+	"wm-license-cc-attribution": " Muwekedi",
 	"wm-license-cc-free": "Bińó le wonja",
 	"wm-license-cc-free-to-share-header": "o jaɓanε",
+	"wm-license-cc-free-to-share-text": "ó ɓambɛ, jabanɛ na ɓola yen ebolo",
+	"wm-license-cc-free-to-remix-header": "Ná Maɓátaɓátanɛ",
 	"wm-license-cc-free-to-remix-text": "poŋgilanɛ yɛn ebolo",
+	"wm-license-cc-conditions": "O ben ɓetɛsedi",
 	"wm-license-cc-conditions-attribution-header": " Muwekedi",
 	"wm-license-cc-conditions-share_alike-header": "mulemlem mwá jabánɛ"
 }

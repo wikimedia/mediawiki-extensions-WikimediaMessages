@@ -6,7 +6,8 @@
 			"Nemo bis",
 			"Sabelöga",
 			"SaldırganSincap",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Ludvig Broman"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besökare på den här webbplatsen med din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} den senaste dagen, vilket är det högsta tillåtna antalet den tidsperioden.\nPå grund av detta kan för tillfället inte besökare med denna IP-adress skapa fler konton.\n\nOm du är på ett evenemang med fokus på att bidra till Wikimedias projekt, var god läs [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] för att lösa problemet.",
@@ -17,7 +18,7 @@
 	"wikimedia-centralauth-login-error-locked": "<strong>Detta konto är [[m:Special:MyLanguage/Global locks|globalt blockerat]].</strong> {{GENDER:$1|Du}} kan inte logga in till några Wikimedia-wikier. Var god [[m:Special:Contact/stewards|kontakta stewarderna]] om {{GENDER:$1|du}} har några frågor.",
 	"createacct-helpusername-url": "{{ns:Project}}:Användarnamnspolicy",
 	"wikimedia-discussiontools-replywidget-terms-click": "Genom att klicka på \"$1\" godkänner du våra [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under $2.",
-	"wikimedia-feedback-termsofuse": "Jag samtycker till att ge återkoppling enligt <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">användarvillkoren</a>.",
+	"wikimedia-feedback-termsofuse": "Jag samtycker till att ge återkoppling enligt [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkoren].",
 	"wikimedia-flow-terms-of-use-new-topic": "Genom att klicka \"{{int:flow-newtopic-save}}\" godkänner du våra [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Genom att klicka \"{{int:flow-reply-link}}\" godkänner du våra [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",
 	"wikimedia-flow-terms-of-use-edit": "Genom att spara ändringar godkänner du våra [https://foundation.wikimedia.org/wiki/Terms_of_Use användarvillkor] och samtycker till att oåterkalleligen släppa din text under licenserna [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].",

@@ -2,12 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Bbeshir",
-			"IdrisSeid"
+			"IdrisSeid",
+			"Kassala"
 		]
 	},
 	"wm-license-information-description": "ሸርሕ",
 	"wm-license-information-source": "ዒን",
 	"wm-license-information-date": "ዕለት",
 	"wm-license-information-author": "ኬትባይ",
-	"wm-license-own-work": "ናይ ኖስ ሽቁል"
+	"wm-license-information-permission": "እጃዘት",
+	"wm-license-information-permission-reusing-text": "ምን ሐዲስ ኣሊ ፋይል/መለፍ መትነፋዕ",
+	"wm-license-own-work": "ሽቅል ነሐር",
+	"wm-license-self-multiple-licenses-select": "ሩኽሰት ምስልከ ለትገየስ ግል ትሕሬ ትቀድር።"
 }

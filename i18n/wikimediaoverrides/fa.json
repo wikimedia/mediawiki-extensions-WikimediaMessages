@@ -10,7 +10,8 @@
 			"Nemo bis",
 			"Reza1615",
 			"Rtemis",
-			"Ebraminio"
+			"Ebraminio",
+			"Ebrahim"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "مخاطبان این ویکی در روز گذشته {{PLURAL:$1|حساب کاربری}} با استفاده از نشانی آی‌پی شما ایجاد کرده‌اند، که این تعداد، حداکثر تعداد مجاز در این بازهٔ زمانی است.\nدر نتیجه، مخاطبانی که از این نشانی آی‌پی استفاده می‌کنند در حال حاضر قادر به ایجاد حساب‌های بیشتر نیستند.\nاگر شما در رویدادی قرار دارید که بر مشارکت در پروژه‌های ویکی‌مدیا متمرکز است، برای حل این مشکل لطفاً [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|درخواست برداشتن موقت سرپوش آی‌پی]] را ببینید.",
@@ -23,7 +24,7 @@
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 global مشارکت‌ها] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} بازرسی‌ها] • [{{fullurl:Special:Block/$1}} قطع دسترسی محلی] یا [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 قطع دسترسی سراسری] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 بررسی نشانگر پروکسی] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
 	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است، بیش از $1 ویرایش. حذف صفحات دارای تاریخچهٔ پر ویرایش محدود شده است تا از به‌هم‌ریختگی اتفاقی {{SITENAME}} جلوگیری شود.\nبرای درخواست حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
 	"wikimedia-discussiontools-replywidget-terms-click": "با کلیک روی «$1»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفادهٔ ما] را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان {{PLURAL:$3|تحت}} $2 موافقت می‌کنید.",
-	"wikimedia-feedback-termsofuse": "من موافقت می‌کنم یک بازخورد برای <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">Terms of Use</a> تهیه شود.",
+	"wikimedia-feedback-termsofuse": "من موافقت می‌کنم یک بازخورد برای [https://foundation.wikimedia.org/wiki/Terms_of_Use Terms of Use] تهیه شود.",
 	"wikimedia-flow-terms-of-use-new-topic": "با کلیک روی «{{int:flow-newtopic-save}}»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان تحت [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",
 	"wikimedia-flow-terms-of-use-reply": "با کلیک روی «{{int:flow-reply-link}}»، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان تحت [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",
 	"wikimedia-flow-terms-of-use-edit": "با ذخیره تغییرات، [https://foundation.wikimedia.org/wiki/Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن خود تحت  [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] موافقت می‌کنید.",

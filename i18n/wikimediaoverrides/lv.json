@@ -8,7 +8,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "Attēls nav redzams? [[{{MediaWiki:createacct-captcha-help-url}}|Pieprasiet kontu]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-discussiontools-replywidget-terms-click": "Klikšķinot uz \"$1\" tu piekrīti mūsu [https://foundation.wikimedia.org/wiki/Terms_of_Use lietošanas noteikumiem] un neatsaucami piekrīti publicēt savu tekstu saskaņā ar [https://creativecommons.org/licenses/by-sa/3.0/deed.lv CC BY-SA 3.0] un [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] licenci.",
-	"wikimedia-feedback-termsofuse": "Es piekrītu sniegt atsauksmes saskaņā ar <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\" target=\"_blank\">lietošanas noteikumiem</a>.",
+	"wikimedia-feedback-termsofuse": "Es piekrītu sniegt atsauksmes saskaņā ar [https://foundation.wikimedia.org/wiki/Terms_of_Use lietošanas noteikumiem].",
 	"wikimedia-sitematrix": "Wikimedia vikivietņu uzskaitījums",
 	"wikimedia-sitematrix-others": "Citi Wikimedia projekti",
 	"wikimedia-sitematrix-summary": "Šajā īpašajā lapā uzskaitītas visas Wikimedia vikivietnes",

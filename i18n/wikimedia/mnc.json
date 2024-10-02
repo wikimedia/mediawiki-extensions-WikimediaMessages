@@ -6,7 +6,8 @@
 			"Chulsu463",
 			"Foavi33",
 			"Moon0319",
-			"Араси"
+			"Араси",
+			"MiiCii"
 		]
 	},
 	"sitesupport": "Mende tusa arambi",
@@ -14,16 +15,16 @@
 	"group-wikifunctions-staff": "Wikifunctions tušasi",
 	"group-wikifunctions-staff-member": "{{GENDER:$1|Wikifunctions tušasi}}",
 	"grouppage-wikifunctions-staff": "{{ns:project}}:Wikifunctions tušasi saitu",
-	"wikimedia-copyright": "text oci neneme de mutembi: <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nnonggire kooli fafun amba muru bi.\nneneme be tuwa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
-	"wikimedia-copyrightwarning": "save oci si neneme de aljambi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], geli sini arahangge be neneme de aljambi [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nsi Creative Commons license i tere hyperlink eici URL aljame mutembi.",
+	"wikimedia-copyright": "Ere asui tatan -i fiyelen -i baitambun <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.mnc\">Sarasu be Sasari Alime Gaijara Gebu Gidara - Adališara Arga Durun -i Sasari Alime Gaijara 4.0 Gurunsiden Ban -i Boji Bithe</a> -i toose bubure be baitalambi, nonggibure hacin meyen geli baitalabumbi.\n<a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">baitalara hacin meyen</a> be narhūšame hūlaki.",
+	"wikimedia-copyrightwarning": "Sini kūbulin be asarabuci uthai [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use baitalara justan] de urušere, baitalabure de urušere be bederebubuci ojorakū. [https://creativecommons.org/licenses/by-sa/4.0/deed.mnc CC BY-SA 4.0 Aljara Boji Bithe] jai [https://mnc.wikipedia.org/wiki/Wikipedia:Sulfangga Bithe be Aljara Temgetu -i Fiyelen GFDL] sini alibume jafaha baktambun be selgiyembi. Si urušeci, sarasu be sasari gaijame aljara boji bithe -i fejile, sini baktambun be dabali holboro futa eici URL de gebu gidaci ombi.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Urgunjeme okdombi}}, $1!",
-	"wikibase-sitelinks-wikinews": "Wiki mede",
-	"wikibase-sitelinks-wikiquote": "Wiki gisuren",
-	"wikibase-sitelinks-wikisource": "Wiki bithe i boo",
-	"wikibase-sitelinks-wikivoyage": "Wiki saraxan",
+	"wikibase-sitelinks-wikinews": "Uiki medege",
+	"wikibase-sitelinks-wikiquote": "Uiki gisuren",
+	"wikibase-sitelinks-wikisource": "Uiki bithei namun",
+	"wikibase-sitelinks-wikivoyage": "Uiki sarašan",
 	"wikimedia-developers": "Ilibusisa",
 	"wikimedia-globalblocking-ipblocked": "'''Sini IP tere ba [[m:Special:MyLanguage/Global blocks|gemu wiki ci horihe]] oho.'''\n\nHorihe baitalasi oci $1 ($2)inu.\nJalin oci ''$3''.\n\n* Horihe erin: $4\n* Horire erin: $5\n\nTe sini IP tere ba oci $6.\nHorire de fonjin bici ninggu i medege be kamcirao.\n\nSi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nHorire de fudaraci [[m:Steward requests/Global|Metawiki de horire be jai fonjimbi]]be unggi.",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sini baitalaha daiselara agvra [[m:Special:MyLanguage/Global blocks|yooni horihe]] oho.'''\n\nHorihe baitalasi oci $1 ($2)inu.\nJalin oci ''$3''.\n\n* Horihe erin: $4\n* Horire erin: $5\n\nTe sini IP tere ba oci $6.\nHorire de fonjin bici ninggu i medege be kamcirao.\n\nSi ufaracun de horihe de gvnici [[m:Special:MyLanguage/No open proxies|ume baitalara daiselara agvra]] de dasan i suhe gisun be tuwarangge mutembi.\nHorire de fudaraci [[m:Steward requests/Global|Metawiki de horire be jai fonjimbi]]be unggi.s",
-	"wikimedia-statslink": "Geren ton",
-	"wikimedia-cookiestatement": "Cookie jonombi"
+	"wikimedia-statslink": "Uherilehe bodoro ton",
+	"wikimedia-cookiestatement": "Cookie getukelere gisun"
 }
