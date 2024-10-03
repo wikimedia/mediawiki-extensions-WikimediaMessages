@@ -1,9 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"IdrisSeid"
+			"IdrisSeid",
+			"Bbeshir"
 		]
 	},
+	"wm-license-cc-attribution": "አትአመሮት",
+	"wm-license-cc-free": "ሕር እንታ",
+	"wm-license-cc-free-to-share-header": "እግል ትካፍል",
+	"wm-license-cc-free-to-share-text": "እግል ትንገል፡ ትወዝዕ ዎ ሽቅል እግል ተአትሐላልፍ",
+	"wm-license-cc-free-to-remix-header": "ምን ሐዲስ እግል ትሓብር",
+	"wm-license-cc-free-to-remix-text": "ሽቅል እግል ትልመድ",
+	"wm-license-cc-conditions": "ዲብ ሐንቴላ ለተሌ ሽሩጥ",
 	"wm-license-cc-conditions-attribution-header": "አትአመሮት",
+	"wm-license-cc-conditions-attribution-text": "ዋጅብ መትአመሪ እግል ተሀብ ብካ፡ መዐደዪ እት ሩክሰት ሀብ ዎ ተዕዲል ጋብእ ምን ለሀሌ አሽር። እብ ገበያ ክምሰልሁ እግል ትውዴ ትቀድር፡ ላኪን እብ ገበይ ለሩክሰት እግልካ አው መትነፍዖትካ ለተአይድ እቡ ገበይ እንዴ ይገብእ።",
 	"wm-license-cc-conditions-share_alike-header": "ሕድ ለመስል ትካፈል"
 }

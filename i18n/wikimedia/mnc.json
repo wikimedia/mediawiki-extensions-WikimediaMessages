@@ -6,7 +6,8 @@
 			"Chulsu463",
 			"Foavi33",
 			"Moon0319",
-			"Араси"
+			"Араси",
+			"MiiCii"
 		]
 	},
 	"sitesupport": "Mende tusa arambi",
@@ -15,15 +16,15 @@
 	"group-wikifunctions-staff-member": "{{GENDER:$1|Wikifunctions tušasi}}",
 	"grouppage-wikifunctions-staff": "{{ns:project}}:Wikifunctions tušasi saitu",
 	"wikimedia-copyright": "text oci neneme de mutembi: <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nnonggire kooli fafun amba muru bi.\nneneme be tuwa <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
-	"wikimedia-copyrightwarning": "save oci si neneme de aljambi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], geli sini arahangge be neneme de aljambi [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] and the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nsi Creative Commons license i tere hyperlink eici URL aljame mutembi.",
+	"wikimedia-copyrightwarning": "Sini kūbulin be asarabuci uthai [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use baitalara justan] de urušere, baitalabure de urušere be bederebubuci ojorakū. [https://creativecommons.org/licenses/by-sa/4.0/deed.mnc CC BY-SA 4.0 Aljara Boji Bithe] jai [https://mnc.wikipedia.org/wiki/Wikipedia:Sulfangga Bithe be Aljara Temgetu -i Fiyelen GFDL] sini alibume jafaha baktambun be selgiyembi. Si urušeci, sarasu be sasari gaijame aljara boji bithe -i fejile, sini baktambun be dabali holboro futa eici URL de gebu gidaci ombi.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Urgunjeme okdombi}}, $1!",
-	"wikibase-sitelinks-wikinews": "Wiki mede",
-	"wikibase-sitelinks-wikiquote": "Wiki gisuren",
-	"wikibase-sitelinks-wikisource": "Wiki bithe i boo",
-	"wikibase-sitelinks-wikivoyage": "Wiki saraxan",
+	"wikibase-sitelinks-wikinews": "Uiki medege",
+	"wikibase-sitelinks-wikiquote": "Uiki gisuren",
+	"wikibase-sitelinks-wikisource": "Uiki bithei namun",
+	"wikibase-sitelinks-wikivoyage": "Uiki sarašan",
 	"wikimedia-developers": "Ilibusisa",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nere block amaga de araha $1 ($2).\nkūbulin oci ''$3''.\n\n* block be deribun: $4\n* block i wajihangga: $5\n\nne sini IP $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nere block amaga de araha $1 ($2).\nkūbulin oci ''$3''.\n\n* block be deribun: $4\n* block i wajihangga: $5\n\nne sini IP $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-statslink": "Geren ton",
-	"wikimedia-cookiestatement": "Cookie jonombi"
+	"wikimedia-statslink": "Uherilehe bodoro ton",
+	"wikimedia-cookiestatement": "Cookie getukelere gisun"
 }

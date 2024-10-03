@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Snævar",
-			"Sveinn í Felli"
+			"Sveinn í Felli",
+			"Bjarki S"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjálpaðu mér að velja)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Þú getur farið á kjörstillingasíðuna þína á [[m:Special:CentralAuth/$1|öðrum Wikimedia-verkefnum þar sem þú hefur lagt þitt af mörkum]] til að hlaða niður reikningsgögnum þínum úr þessum verkefnum.",
 	"wikimedia-createacct-imgcaptcha-help": "Getur þú ekki séð myndina? [[{{MediaWiki:createacct-captcha-help-url}}|Óska eftir aðgangi]]",
 	"wikimedia-centralauth-groupname": "Wikimedia félagsins",
+	"wikimedia-discussiontools-replywidget-terms-click": "Með því að smella á $1 ertu að samþykkja [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use notendaskilmála] okkar og gefa varanlegt leyfi fyrir því að textinn þinn falli {{PLURAL:$3|undir}} $2.",
 	"wikimedia-sitematrix": "Listi yfir Wikimedia-kvikur"
 }
