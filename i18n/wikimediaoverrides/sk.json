@@ -10,6 +10,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "Môžete tiež navštíviť nastavenia aj na [[m:Special:CentralAuth/$1|ďalších projektoch Wikimedia, na ktorých ste prispeli]], aby ste si mohli stiahnuť dáta z vášho účtu z týchto projektov.",
 	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázok? [[{{MediaWiki:createacct-captcha-help-url}}|Požiadajte o účet]].",
 	"wikimedia-centralauth-groupname": "Nadácie Wikimedia",
+	"wikimedia-discussiontools-replywidget-terms-click": "Kliknutím na „$1“ súhlasíte s našimi Podmienkami použitia a súhlasíte s neodvolateľným zverejnením svojho textu za podmienok licencií $2.",
 	"wikimedia-feedback-termsofuse": "Súhlasím s tým, že budem poskytovať spätnú väzbu v súlade s [https://foundation.wikimedia.org/wiki/Terms_of_Use Podmienkami použitia].",
 	"wikimedia-sitematrix": "Zoznam wiki projektov Nadácie Wikimedia",
 	"wikimedia-sitematrix-others": "Iné projekty nadácie Wikimedia",
