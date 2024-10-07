@@ -1,12 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bobbyshabangu",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-aboutme": "Mayelana nami",
+	"wm-commonstrings-activities": "Imisebenzi",
+	"wm-commonstrings-agenda": "Uhlelo",
+	"wm-commonstrings-background": "Umlando",
 	"wm-commonstrings-closed": "Kuvaliwe",
+	"wm-commonstrings-conclusion": "Isiphetho",
 	"wm-commonstrings-connect": "Xhuma",
+	"wm-commonstrings-contacthuman": "Ukuxhumana nomuntu",
+	"wm-commonstrings-contactus": "Xhumana nathi",
+	"wm-commonstrings-enterquestion": "Faka umbuzo wakho.",
 	"wm-commonstrings-events": "Iziyiba",
+	"wm-commonstrings-externallinks": "Izixhumanisi zangaphandle",
+	"wm-commonstrings-follow": "Landela",
+	"wm-commonstrings-mywork": "Umsebenzi Wami",
+	"wm-commonstrings-news-events": "Izindaba Nemicimbi",
 	"wm-commonstrings-noticeboard": "Isiphawulelo",
 	"wm-commonstrings-objectives": "Imigomo",
 	"wm-commonstrings-ongoing": "Okuqhubekayo",

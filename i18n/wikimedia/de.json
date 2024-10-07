@@ -84,6 +84,8 @@
 	"group-botadmin": "Bots mit Administratorrechten",
 	"group-botadmin-member": "{{GENDER:$1|Bot mit Administratorrechten}}",
 	"grouppage-botadmin": "{{ns:project}}:Bots mit Administratorrechten",
+	"group-global-temporary-account-viewer": "IP-Betrachter temporärer Konten",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|IP-Betrachter temporärer Konten|IP-Betrachterin temporärer Konten}}",
 	"group-confirmed": "Bestätigte Benutzer",
 	"group-confirmed-member": "{{GENDER:$1|Bestätigter Benutzer|Bestätigte Benutzerin}}",
 	"grouppage-confirmed": "{{ns:project}}:Bestätigte Benutzer",

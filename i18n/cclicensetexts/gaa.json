@@ -3,13 +3,19 @@
 		"authors": [
 			"Chivano",
 			"Flixtey",
-			"Mybluberet"
+			"Mybluberet",
+			"NanaYawBotar"
 		]
 	},
 	"wm-license-cc-attribution": "Hetoo",
+	"wm-license-cc-by-sa-3.0-text": "Akɛ gbɛŋmɛɛ wolo ha faili nɛɛ yɛ [[{{int:wm-gbɛŋmɛɛ wolo-cc-wiki-link}}|Nibii ni Abɔ lɛ]] [[nibii ni Abɔ:by-sa/3.0/deed.en|Hegbɛ-Jaa Tamɔ 3.0 ni Akɛwoɔ Mli]] lɛ shishi. gbɛŋmɛɛ wolo.",
 	"wm-license-cc-free": "Ohe ejɔ bo",
 	"wm-license-cc-free-to-share-header": "Abaaja",
 	"wm-license-cc-free-to-remix-header": "Futumɔ mli",
+	"wm-license-cc-free-to-remix-text": "Ha nitsumɔ lɛ aŋɔ",
+	"wm-license-cc-conditions": "Eyɛ mlai nɛɛ ashishi:",
 	"wm-license-cc-conditions-attribution-header": "henɔtoo",
-	"wm-license-cc-conditions-share_alike-header": "Jaa kɛ ehenɔtoo"
+	"wm-license-cc-conditions-attribution-text": "Esa akɛ okɛ credit ni sa aha, ni okɛ link ni kɛ gbɛŋmɛɛ wolo lɛ yaa lɛ aha, ni otsɔɔ kɛji afee tsakemɔi. Obaanyɛ ofee nakai yɛ gbɛ fɛɛ gbɛ ni sa nɔ, shi jeee yɛ gbɛ fɛɛ gbɛ ni tsɔɔ akɛ mɔ ni ha bo gbɛŋmɛɛ wolo lɛ kpɛlɛɔ onɔ loo okɛtsuɔ nii lɛ nɔ.",
+	"wm-license-cc-conditions-share_alike-header": "Jaa kɛ ehenɔtoo",
+	"wm-license-cc-conditions-share_alike-text": "Kɛji akɛ okɛ nibii lɛ ebɔ he, otsake, loo oma nɔ lɛ, esa akɛ ojara oniatsumɔi lɛ yɛ [https://creativecommons.org/share-your-work/gbɛŋmɛɛ-he-he-susumɔi/hegbɛi ni kɛ amɛhe kpãa gbee lɛ nɔŋŋ loo gbɛŋmɛɛ woji ni kɛ amɛhe kpãa gbee] lɛ shishi tamɔ nɔ ni yɔɔ shishijee lɛ."
 }

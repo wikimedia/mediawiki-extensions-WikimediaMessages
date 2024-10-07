@@ -67,6 +67,8 @@
 	"group-botadmin": "בוטים עם הרשאות מפעיל",
 	"group-botadmin-member": "{{GENDER:$1|בוט עם הרשאות מפעיל}}",
 	"grouppage-botadmin": "{{ns:project}}:בוטים עם הרשאות מפעיל",
+	"group-global-temporary-account-viewer": "צופים ב־IP של חשבונות חולפים",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|צופה ב־IP של חשבונות חולפים}}",
 	"group-confirmed": "משתמשים מאומתים",
 	"group-confirmed-member": "{{GENDER:$1|משתמש מאומת|משתמשת מאומתת}}",
 	"grouppage-confirmed": "{{ns:project}}:משתמש מאומת",

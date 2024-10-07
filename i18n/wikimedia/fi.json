@@ -314,7 +314,7 @@
 	"restriction-level-superprotect": "super-suojaus",
 	"action-templateeditor": "muokata suojattuja mallineita",
 	"right-templateeditor": "Muokata suojattuja mallineita",
-	"restriction-level-templateeditor": "mallinemuokkain suojattu",
+	"restriction-level-templateeditor": "mallineiden muokkaaja -suojattu",
 	"protect-level-templateeditor": "Salli vain mallineiden muokkaajat ja ylläpitäjät",
 	"action-extendedconfirmed": "muokata rajoitettuja sivuja",
 	"right-extendedconfirmed": "Muokata rajoitettuja sivuja",

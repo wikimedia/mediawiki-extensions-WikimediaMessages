@@ -52,6 +52,8 @@
 	"group-botadmin": "Robots con derectos de administrator",
 	"group-botadmin-member": "{{GENDER:$1|robot con derectos de administrator}}",
 	"grouppage-botadmin": "{{ns:project}}:Robots con derectos de administrator",
+	"group-global-temporary-account-viewer": "Inspectores de adresses IP de contos temporari",
+	"group-global-temporary-account-viewer-member": "inspect{{GENDER:$1|or|rice}} de adresses IP de contos temporari",
 	"group-confirmed": "Usatores confirmate",
 	"group-confirmed-member": "{{GENDER:$1|usator|usatrice}} confirmate",
 	"grouppage-confirmed": "{{ns:project}}:Usatores confirmate",

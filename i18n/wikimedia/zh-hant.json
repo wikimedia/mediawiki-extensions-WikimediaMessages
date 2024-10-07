@@ -96,6 +96,8 @@
 	"group-botadmin": "具管理員權限的機器人",
 	"group-botadmin-member": "{{GENDER:$1|具管理員權限的機器人}}",
 	"grouppage-botadmin": "{{ns:project}}:具管理員權限的機器人",
+	"group-global-temporary-account-viewer": "臨時帳號IP檢視者",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|臨時帳號IP檢視者}}",
 	"group-confirmed": "已確認的使用者",
 	"group-confirmed-member": "{{GENDER:$1|已確認的使用者}}",
 	"grouppage-confirmed": "{{ns:project}}:已確認的使用者",
