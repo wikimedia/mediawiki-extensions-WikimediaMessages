@@ -5,11 +5,13 @@
 			"Shayi ngolu"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Udi nyi mpunga wa kulondesha momumua, kufila ne kushitulula mu shintu tshidi tshijadika malubu mu miaku ya '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.2 ou toute version ultérieure publiée par la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], kakuyi mushindu wa disungula udi kawuyi utshituluka, kakuyi mufundu wa dibeji dia kumpala didi dilama ne kakuyi mufundu wa dibeji dia ndekelu didi dilama.tshilejelu tshimua tshia tshidi tshikupesha mpunga wa kukuata mudimu tshidi tshiela munda mua mushindu udi babikila ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Tshidibu baleje",
 	"wm-license-information-source": "Tshifuma",
 	"wm-license-information-date": "Dituku",
 	"wm-license-information-author": "Mufundi",
 	"wm-license-information-permission": "Kupesha npunga",
 	"wm-license-information-permission-reusing-text": "Ku kuatulula mudimu ne muaba udi belela mu maluba",
-	"wm-license-own-work": "Mudimu wa ngaya"
+	"wm-license-own-work": "Mudimu wa ngaya",
+	"wm-license-self-multiple-licenses-select": "Udi bua kusungula licence umwepela pa yonsu"
 }
