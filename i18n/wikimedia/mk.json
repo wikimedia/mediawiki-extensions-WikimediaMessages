@@ -55,6 +55,8 @@
 	"group-botadmin": "Ботови со администраторски права",
 	"group-botadmin-member": "{{GENDER:$1|бот со администраторски права}}",
 	"grouppage-botadmin": "{{ns:project}}:Ботови со администраторски права",
+	"group-global-temporary-account-viewer": "Гледачи на привремени IP-сметки",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|гледач на привремени IP-сметки}}",
 	"group-confirmed": "Потврдени корисници",
 	"group-confirmed-member": "{{GENDER:$1|потврден корисник}}",
 	"grouppage-confirmed": "{{ns:project}}:Потврдени корисници",
