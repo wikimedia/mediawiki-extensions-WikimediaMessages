@@ -12,7 +12,7 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Hesab məlumatlarınızı yükləmək üçün [[m:Special:CentralAuth/$1|töhfə verdiyiniz müvafiq Vikimedia layihələrindəki]] \"Nizamlamalar\" səhifəsinə daxil ola bilərsiniz.",
 	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
-	"wikimedia-centralauth-groupname": "Vikimediya Fondu",
+	"wikimedia-centralauth-groupname": "Vikimedia Fondu",
 	"wikimedia-centralauth-login-error-locked": "<strong>Bu hesab [[m:Special:MyLanguage/Global locks|qlobal olaraq kilidlənib]].</strong> {{GENDER:$1|Siz}} heç bir Vikimedia vikisinə daxil ola bilməyəcəksiniz. Əgər hər hansı bir sualınız varsa zəhmət olmasa [[m:Special:Contact/stewards|stüardlarla əlaqə saxlayın]].",
 	"createacct-helpusername-url": "{{ns:Project}}:İstifadəçi_adları",
 	"wikimedia-delete-toobig": "Bu səhifənin böyük redaktə tarixçəsi var, $1 {{PLURAL:$1| revision|revisions}}.\nÇox böyük redaktə tarixçəsi olan səhifələrin silinməsi {{SITENAME}} layihəsinin pozulmasının qarşısını almaq üçün məhdudlaşdırılıb.\nZəhmət olmasa, [[m:Special:MyLanguage/Stewards|stüardlarla]] [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] səhifəsində əlaqə saxlayın.",

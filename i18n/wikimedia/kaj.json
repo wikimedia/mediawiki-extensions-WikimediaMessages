@@ -1,16 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kuzayet"
+			"Kuzayet",
+			"Jjnzamah",
+			"Kambai Akau"
 		]
 	},
 	"sitesupport": "Nang zanang",
 	"wikimedia-copyright": "du̱jem ti ni an sshi a̱tahwa <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">a̱yya Commons Attribution-ShareAlike du̱wat wwa</a>;\nmbrang ka̱ram yyat nssha.\nCcang <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Ka̱ram N yya pfwong</a> nat a̱ ccang nkkang a.",
+	"wikimedia-copyrightwarning": "Ku a sak ka̱shei ka,a̱bvwo a shim bu [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bu yya ji ba n yya npfwong ba na ni a̱won a si bu wrak ryya nwan sarai bu ka̱ssu npfong wan ka a̱ta̱hwa [https://creativecommons.org/licenses/by-sa/4.0/deed.en Lasi̱n CC BY-SA 4.0] ma̱ng [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ji.\nA shim di hyperlink au URL ba̱du̱yin a̱ maai a  yet sat kazzwu a̱ta̱hwa lasi̱n Creative Commons",
 	"wikibase-sitelinks-wikinews": "A̱wikinkkang",
 	"wikibase-sitelinks-wikiquote": "A̱wikiquote",
 	"wikibase-sitelinks-wikisource": "Du̱tyinwiki",
-	"wikibase-sitelinks-wikivoyage": "A̱wikivochet",
+	"wikibase-sitelinks-wikivoyage": "A̱wikivocet",
 	"wikimedia-developers": "Banyet du̱nok",
-	"wikimedia-statslink": "twang",
+	"wikimedia-statslink": "Twang",
 	"wikimedia-cookiestatement": "Ka̱tyyei kuki"
 }

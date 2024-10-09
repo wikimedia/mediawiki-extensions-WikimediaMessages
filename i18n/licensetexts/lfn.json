@@ -3,7 +3,8 @@
 		"authors": [
 			"Cgboeree",
 			"Katxis",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Elefentiste"
 		]
 	},
 	"wm-license-artwork-references": "Referes",
@@ -18,5 +19,5 @@
 	"wm-license-information-permission": "Permete",
 	"wm-license-information-permission-reusing-text": "Reusante esta fix",
 	"wm-license-own-work": "Obra propre",
-	"wm-license-self-multiple-licenses-select": "Tu pote eleje la lisensa cual tu prefere"
+	"wm-license-self-multiple-licenses-select": "Tu pote eleje la lisensa cual tu prefere."
 }

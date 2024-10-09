@@ -13,7 +13,8 @@
 			"Ykhwong",
 			"메이",
 			"밝은소년",
-			"아라"
+			"아라",
+			"YeBoy371"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "현재 사용하고 있는 IP 주소로 이 위키에 방문한 사람이 하루 동안 {{PLURAL:$1|1개의 계정|$1개의 계정}}을 만들어, 현재의 시기에 허용되어 있는 계정 생성 제한을 초과하였습니다. 그에 따라, IP 주소를 이용하고 계시는 방문자들은 현재 더 이상의 계정을 만드실 수 없습니다. \n\n혹시 위키미디어 프로젝트에 기여하기 위한 모임 등에 참여하고 계시다면, 문제를 해결하기 위해 [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|일시적 계정생성 제한 해제요청 페이지]]를 참고해 주시기 바랍니다.",
@@ -25,7 +26,7 @@
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\" style=\"font-size: 9pt;\">&#91;[//guc.toolforge.org/?user=$1 전역 기여] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} 검사] • [{{fullurl:Special:Block/$1}} 로컬 차단] 또는 [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 전역 차단] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 지리적 위치] • [//ipcheck.toolforge.org/index.php?ip=$1 프록시 검사] • [//meta.toolforge.org/stalktoy/$1 스토크토이]&#93;</span>",
 	"wikimedia-delete-toobig": "이 문서는 {{PLURAL:$1|판}}의 수가 $1개를 초과하여 편집 역사가 큽니다. 매우 큰 편집 역사가 있는 문서의 삭제는 {{SITENAME}}의 우발적인 장애를 막기 위해 제한되어 있습니다. 이 문서의 삭제를 요청하려면 [[m:Steward requests/Miscellaneous|메타의 Steward requests/Miscellaneous]]에서 [[m:Special:MyLanguage/Stewards|사무장]]에게 연락해 주세요.",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\"을 클릭하면 [https://foundation.wikimedia.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 $2{{PLURAL:$3|에}} 따라 텍스트를 불가역적으로 배포하는 데 동의합니다.",
-	"wikimedia-feedback-termsofuse": "[https://foundation.wikimedia.org/wiki/Terms_of_Use 이용 약관]을 준수하여 피드백 제공에 동의합니다.",
+	"wikimedia-feedback-termsofuse": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 이용 약관]을 준수하여 피드백 제공에 동의합니다.",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\"을 클릭하면 [https://foundation.wikimedia.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-newtopic-save}}\"을 클릭하면 [https://foundation.wikimedia.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 공개하는 데 동의합니다.",
 	"wikimedia-flow-terms-of-use-edit": "변경사항을 저장하면 [https://foundation.wikimedia.org/wiki/Terms_of_Use/ko 이용 약관]에 동의하고 [https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0 라이선스]와 [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]에 따라 텍스트를 영구적으로 공개하는 데 동의합니다.",
