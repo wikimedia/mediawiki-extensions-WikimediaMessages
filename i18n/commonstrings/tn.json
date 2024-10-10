@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bobbyshabangu"
+		]
+	},
+	"wm-commonstrings-aboutme": "Ka ga Nna",
+	"wm-commonstrings-activities": "Ditiro",
+	"wm-commonstrings-agenda": "Lenanetema",
+	"wm-commonstrings-background": "Lemorago",
+	"wm-commonstrings-closed": "E tswetswe",
+	"wm-commonstrings-conclusion": "Konosetso",
+	"wm-commonstrings-connect": "Kopanya",
+	"wm-commonstrings-contacthuman": "Ikgolaganye le motho",
+	"wm-commonstrings-contactus": "Ikgolaganye le rona",
+	"wm-commonstrings-enterquestion": "Tsenya potso ya gago.",
+	"wm-commonstrings-events": "Ditiragalo",
+	"wm-commonstrings-externallinks": "Dikgokagano tsa kwa ntle",
+	"wm-commonstrings-follow": "Latela",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2| Tsebekgolo: $1 |Ditsebekgolo: $1 }}",
+	"wm-commonstrings-mywork": "Tiro ya me",
+	"wm-commonstrings-news-events": "Dikgang le Ditiragalo"
+}

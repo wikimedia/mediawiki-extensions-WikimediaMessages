@@ -12,7 +12,7 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Hesab məlumatlarınızı yükləmək üçün [[m:Special:CentralAuth/$1|töhfə verdiyiniz müvafiq Vikimedia layihələrindəki]] \"Nizamlamalar\" səhifəsinə daxil ola bilərsiniz.",
 	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
-	"wikimedia-centralauth-groupname": "Vikimediya Fondu",
+	"wikimedia-centralauth-groupname": "Vikimedia Fondu",
 	"wikimedia-centralauth-login-error-locked": "<strong>Bu hesab [[m:Special:MyLanguage/Global locks|qlobal olaraq kilidlənib]].</strong> {{GENDER:$1|Siz}} heç bir Vikimedia vikisinə daxil ola bilməyəcəksiniz. Əgər hər hansı bir sualınız varsa zəhmət olmasa [[m:Special:Contact/stewards|stüardlarla əlaqə saxlayın]].",
 	"createacct-helpusername-url": "{{ns:Project}}:İstifadəçi_adları",
 	"wikimedia-checkuser-api-useragent-clienthints-explanation": "Biz Vikimedia layihələrində vandalizm və sui-istifadə hallarının azaldılmasında icmaya dəstək olmaq üçün istifadəçi-agent client hint məlumatlarını toplayırıq. Bu data [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy məxfilik siyasəti] və [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy ictimai olmayan şəxsi məlumata giriş siyasətinə] əsasən toplanır və istifadə olunur. Daha çox məlumat üçün: https://www.mediawiki.org/wiki/Extension:CheckUser/Client_Hints",
