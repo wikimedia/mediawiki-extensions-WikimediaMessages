@@ -1,15 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jjnzamah",
 			"Kambai Akau",
 			"Kuzayet"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Zu kak bvwak a kok u ka, au shei kpa nani a̱ta̱hwa a̱huhwa a̱nyyi ʼʼʼ[[((int:wm-kak bvwak gfdl wiki-a̱dat))|GNU Kak bvwak Sang Katan]]ʼʼʼ, zzu 1.2 au ba anyyi nu a sshi a̱zanson nu ni ba zzu di [[((int:wm- license-fsf̄-wiki-link)) Free softwareFounfation]]; bu̱ sang ka̱ssu ka̱yaan bu̱ du̱jem A̱kpukpa ka̱son bu̱ Ru̱ryim . Zu tyti kpa na wrak kak bvwak a̱ ni an kwaan ani",
 	"wm-license-information-description": "Ka̱tyyei",
 	"wm-license-information-source": "Du̱tyin",
 	"wm-license-information-date": "Ka̱tuk",
 	"wm-license-information-author": "A̱tu̱ba jem kpa",
 	"wm-license-information-permission": "Du̱wat",
 	"wm-license-information-permission-reusing-text": "bvun nyya pfwong du̱ falli a̱ni",
-	"wm-license-own-work": "Pfong du̱ccu nzuk a"
+	"wm-license-own-work": "Pfong du̱ccu nzuk a",
+	"wm-license-self-multiple-licenses-select": "A maai a̱ tssa a̱lasin nu a cat ni."
 }

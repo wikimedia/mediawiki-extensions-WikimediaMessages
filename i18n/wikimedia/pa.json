@@ -76,6 +76,7 @@
 	"group-staff-member": "{{GENDER:$1|ਅਮਲਾ}}",
 	"group-steward": "ਮੁਖ਼ਤਿਆਰ",
 	"group-steward-member": "{{GENDER:$1| ਮੁਖ਼ਤਿਆਰ}}",
+	"search-interwiki-custom": "wikt:ਵਿਕਸ਼ਨਰੀ ਤੋਂ\nb:ਵਿਕੀਕਿਤਾਬਾਂ ਤੋਂ\nn:ਵਿਕੀਖ਼ਬਰਾਂ ਤੋਂ\nq:ਵਿਕੀਕਥਨ ਤੋਂ\ns:ਵਿਕੀਸਰੋਤ ਤੋਂ\nv:ਵਿਕੀਵਰਸਿਟੀ ਤੋਂ\nvoy:ਵਿਕੀਸਫ਼ਰ ਤੋਂ",
 	"wikimedia-copyright-footer": "ਇਹ ਲਿਖਤ [https://creativecommons.org/licenses/by-sa/4.0/  ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਐਟਰੀਬਿਊਸ਼ਨ-ਸ਼ੇਅਰਅਲਾਈਕ ਲਸੰਸ ਤਹਿਤ ਉਪਲਬਧ ਹੈ];\nਹੋਰ ਸ਼ਰਤਾਂ ਲਾਗੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।\nਹੋਰ ਜਾਣਕਾਰੀ ਲਈ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਵੇਖੋ]।",
 	"wikimedia-copyrightwarning": "ਤਬਦੀਲੀਆਂ ਸਾਂਭਣ ਨਾਲ ਤੁਸੀਂ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ਵਰਤੋਂ ਦੇ ਨਿਯਮਾਂ] ਨਾਲ ਸਹਿਮਤ ਹੋ ਅਤੇ ਤੁਸੀਂ ਆਪਣਾ ਯੋਗਦਾਨ [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 ਲਸੰਸ] ਅਤੇ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ਤੇ ਤਹਿਤ ਪਾ ਰਹੇ ਹੋ। ਤੁਸੀਂ ਸਹਿਮਤ ਹੋ ਕਿ ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਅਧੀਨ ਹਾਈਪਰਲਿੰਕ ਪਾਕੇ ਲਸੰਸ ਬਾਰੇ ਦੱਸਣਾ ਵਾਜਿਬ ਹੈ।",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ਜੀ ਆਇਆਂ ਨੂੰ}}, $1!",

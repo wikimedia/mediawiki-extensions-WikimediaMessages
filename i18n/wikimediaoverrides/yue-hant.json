@@ -12,5 +12,6 @@
 	"wikimedia-sitematrix": "維基媒體嘅wiki一覽",
 	"wikimedia-sitematrix-others": "維基媒體嘅其他計劃",
 	"wikimedia-sitematrix-summary": "呢版特別版列示維基媒體所有 wiki。",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/yue 私隱政策]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/yue 私隱政策]",
+	"wikimedia-ipinfo-source-geoip2": "用呢個工具須受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP資訊工具指引]約束。"
 }
