@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Băng Tỏa",
 			"CactiStaccingCrane",
 			"Cheers!",
 			"Dinhxuanduyet",
@@ -90,9 +91,9 @@
 	"group-eliminator": "Điều phối viên",
 	"group-eliminator-member": "{{GENDER:$1|điều phối viên}}",
 	"grouppage-eliminator": "{{ns:project}}:Điều phối viên",
-	"group-eventcoordinator": "Điều hợp viên sự kiện",
-	"group-eventcoordinator-member": "{{GENDER:$1}}điều hợp viên sự kiện",
-	"grouppage-eventcoordinator": "{{ns:project}}:Điều hợp viên sự kiện",
+	"group-eventcoordinator": "Trợ lý tổ chức sự kiện",
+	"group-eventcoordinator-member": "{{GENDER:$1}}trợ lý tổ chức sự kiện",
+	"grouppage-eventcoordinator": "{{ns:project}}:Trợ lý tổ chức sự kiện",
 	"group-eventparticipant": "Người tham dự sự kiện",
 	"group-eventparticipant-member": "{{GENDER:$1}}người tham dự sự kiện",
 	"grouppage-eventparticipant": "{{ns:project}}:Người tham dự sự kiện",
@@ -105,9 +106,9 @@
 	"group-filemover": "Người đổi tên tập tin",
 	"group-filemover-member": "{{GENDER:$1}}người đổi tên tập tin",
 	"grouppage-filemover": "{{ns:project}}:Người đổi tên tập tin",
-	"group-mover": "Người di chuyển",
+	"group-mover": "Người di chuyển trang",
 	"group-mover-member": "{{GENDER:$1}}người di chuyển",
-	"grouppage-mover": "{{ns:project}}:Người di chuyển",
+	"grouppage-mover": "{{ns:project}}:Người di chuyển trang",
 	"group-flood": "Bot giả",
 	"group-flood-member": "{{GENDER:$1|bot giả}}",
 	"grouppage-flood": "{{ns:project}}:Bot giả",
