@@ -2,13 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Chivano",
-			"Mybluberet"
+			"Mybluberet",
+			"NanaYawBotar"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Aŋmɛ gbɛ ni afee wolo nɛɛ eko, aja ni/loo atsake yɛ '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Woji Ahe Gbɛŋmɛɛ Hegbɛ]]''', Nɔ ni ji 100 lɛ shishi. 1.2 loo sɛɛ mli nɔ ko ni [[{{int:wm-license-fsf-wiki-link}}|Sɔftwɛɛ ni Akɛtsuɔ Nii ni Aheee Nɔ ko]] fee; ni Fãi ni Tsakeee lɛ bɛ mli, niŋmaai ni yɔɔ hiɛ-wolo lɛ mli, kɛ sɛɛ-woji ni yɔɔ sɛɛ lɛ bɛ mli. Akɛ gbɛŋmɛɛ wolo lɛ eko fata fã ni yitso ji ''[[{{int:wm-gbɛŋmɛɛ wolo-gfdl-full-1.2-link}}|GNU Woji ni Akɛwoɔ Mli lɛ Hegbɛ]]''.",
 	"wm-license-information-description": "Sutsɔɔmɔ",
 	"wm-license-information-source": "He ni ejɛ",
 	"wm-license-information-date": "Gbi",
 	"wm-license-information-author": "Ŋmalɔ",
 	"wm-license-information-permission": "Gbɛŋmɛɛ",
+	"wm-license-information-permission-reusing-text": "Kɛ faili nɛɛ miitsu nii ekoŋŋ",
 	"wm-license-own-work": "Bo diɛŋtsɛ onitsumɔ"
 }

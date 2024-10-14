@@ -64,7 +64,10 @@
 			"Cookai1205",
 			"LittlePaw365",
 			"Varnent",
-			"Winston Sung"
+			"Winston Sung",
+			"Dabao qian",
+			"Ericliu1912",
+			"SCP-2000"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -98,9 +101,9 @@
 	"group-accountcreator": "账号创建者",
 	"group-accountcreator-member": "{{GENDER:$1|账号创建者}}",
 	"grouppage-accountcreator": "{{ns:project}}:账号创建者",
-	"group-arbcom": "仲裁委员会成员",
-	"group-arbcom-member": "{{GENDER:$1|仲裁委员会成员}}",
-	"grouppage-arbcom": "{{ns:project}}:仲裁委员会成员",
+	"group-arbcom": "仲裁委员会委员",
+	"group-arbcom-member": "{{GENDER:$1|仲裁委员会委员}}",
+	"grouppage-arbcom": "{{ns:project}}:仲裁委员会委员",
 	"group-autopatrolled": "自动巡查者",
 	"group-autopatrolled-member": "{{GENDER:$1|自动巡查者}}",
 	"grouppage-autopatrolled": "{{ns:project}}:自动巡查者",

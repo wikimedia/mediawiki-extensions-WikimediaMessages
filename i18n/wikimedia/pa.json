@@ -12,7 +12,8 @@
 			"Kuldeepburjbhalaike",
 			"Varnent",
 			"Amire80",
-			"Cabal"
+			"Cabal",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "ਵਿਕੀਮੀਡੀਆ ਖਾਸ ਸੁਨੇਹੇ",
@@ -75,6 +76,7 @@
 	"group-staff-member": "{{GENDER:$1|ਅਮਲਾ}}",
 	"group-steward": "ਮੁਖ਼ਤਿਆਰ",
 	"group-steward-member": "{{GENDER:$1| ਮੁਖ਼ਤਿਆਰ}}",
+	"search-interwiki-custom": "wikt:ਵਿਕਸ਼ਨਰੀ ਤੋਂ\nb:ਵਿਕੀਕਿਤਾਬਾਂ ਤੋਂ\nn:ਵਿਕੀਖ਼ਬਰਾਂ ਤੋਂ\nq:ਵਿਕੀਕਥਨ ਤੋਂ\ns:ਵਿਕੀਸਰੋਤ ਤੋਂ\nv:ਵਿਕੀਵਰਸਿਟੀ ਤੋਂ\nvoy:ਵਿਕੀਸਫ਼ਰ ਤੋਂ",
 	"wikimedia-copyright": "ਇਹ ਲਿਖਤ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\"> ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਐਟਰੀਬਿਊਸ਼ਨ-ਸ਼ੇਅਰਅਲਾਈਕ ਲਸੰਸ ਤਹਿਤ ਉਪਲਬਧ ਹੈ</a>;\nਹੋਰ ਸ਼ਰਤਾਂ ਲਾਗੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।\nਹੋਰ ਜਾਣਕਾਰੀ ਲਈ</a>\nਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਵੇਖੋ<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">",
 	"wikimedia-copyrightwarning": "ਤਬਦੀਲੀਆਂ ਸਾਂਭਣ ਦੇ ਤੁਸੀਂ [https://foundation.wikimedia.org/wiki/Terms_of_Use ਵਰਤੋਂ ਦੇ ਨਿਯਮਾਂ] ਨਾਲ ਸਹਿਮਤ ਹੋ ਅਤੇ ਤੁਸੀਂ ਆਪਣਾ ਯੋਗਦਾਨ[https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 ਲਸੰਸ] ਅਤੇ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ਤੇ ਤਹਿਤ ਪਾ ਰਹੇ ਹੋ। ਤੁਸੀਂ ਸਹਿਮਤ ਹੋ ਕਿ ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਅਧੀਨ ਹਾਈਪਰਲਿੰਕ ਪਾਕੇ ਲਸੰਸ ਬਾਰੇ ਦੱਸਣਾ ਵਾਜਿਬ ਹੈ।",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ਜੀ ਆਇਆਂ ਨੂੰ}}, $1!",
