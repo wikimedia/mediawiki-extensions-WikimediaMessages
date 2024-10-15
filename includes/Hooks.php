@@ -1857,11 +1857,15 @@ class Hooks implements
 	public function onSkinTemplateNavigation__Universal( $skin, &$links ): void {
 		$context = $skin->getContext();
 		if ( $this->shouldMoveDonateLink( $skin ) ) {
-			$links['user-page']['sitesupport'] = [
+			$sitesupport = [ 'sitesupport' => [
 				'text' => $context->msg( 'sitesupport' )->text(),
 				'href' => $context->msg( 'sitesupport-url' )->text(),
 				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
-			];
+			] ];
+			// Ensure donate link goes before other links
+			if ( array_key_exists( 'user-menu', $links ) ) {
+				$links['user-menu'] = $sitesupport + $links['user-menu'];
+			}
 		}
 	}
 
