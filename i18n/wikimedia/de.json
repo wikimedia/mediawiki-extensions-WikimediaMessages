@@ -210,6 +210,8 @@
 	"group-translationadmin": "Übersetzungsadministratoren",
 	"group-translationadmin-member": "{{GENDER:$1|Übersetzungsadministrator|Übersetzungsadministratorin}}",
 	"grouppage-translationadmin": "{{ns:project}}:Übersetzungsadministratoren",
+	"group-u4c-member": "U4C-Mitglieder",
+	"group-u4c-member-member": "{{GENDER:$1|U4C-Mitglied}}",
 	"group-vrt-permissions": "Support-Team-Mitglieder",
 	"group-vrt-permissions-member": "{{GENDER:$1|Support-Team-Mitglied}}",
 	"group-wmf-officeit": "WMF Office IT",

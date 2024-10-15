@@ -179,6 +179,8 @@
 	"group-translationadmin": "Amministratori delle traduzioni",
 	"group-translationadmin-member": "{{GENDER:$1|amministratore|amministratrice|amministratore/trice}} delle traduzioni",
 	"grouppage-translationadmin": "{{ns:project}}:Amministratori delle traduzioni",
+	"group-u4c-member": "Membri U4C",
+	"group-u4c-member-member": "{{GENDER:$1|membro U4C}}",
 	"group-wmf-researcher": "Ricercatori WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|ricercatore|ricercatrice|ricercatore/trice}} WMF",
 	"group-wmf-supportsafety": "Fiducia e sicurezza WMF",
