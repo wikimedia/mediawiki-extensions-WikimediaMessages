@@ -146,6 +146,8 @@ class Hooks implements
 			'globalblocking-blockedtext-range',
 			'globalblocking-blockedtext-xff',
 			'globalblocking-blockedtext-user',
+			'globalblocking-blockedtext-autoblock',
+			'globalblocking-blockedtext-autoblock-xff',
 			'globalrenamequeue-email-body-approved',
 			'globalrenamequeue-email-body-rejected',
 			'interfaceadmin-info',
