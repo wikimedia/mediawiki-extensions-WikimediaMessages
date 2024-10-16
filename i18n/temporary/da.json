@@ -9,7 +9,9 @@
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke midlertidige meddelelser",
+	"hello": "Hej",
 	"please-translate": "Hjælp venligst med at oversætte til dit sprog",
 	"thank-you": "{{GENDER:$1|Tak.}}",
+	"specialinvestigate-feedback": "Giv tilbagemelding",
 	"graph-disabled-category": "Sider med deaktiverede grafer"
 }
