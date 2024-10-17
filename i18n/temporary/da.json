@@ -8,7 +8,11 @@
 			"Steenth"
 		]
 	},
+	"hello": "Hej",
 	"please-translate": "Hjælp venligst med at oversætte til dit sprog",
+	"please-translate-short": "Hjælp til med at oversætte",
 	"thank-you": "{{GENDER:$1|Tak.}}",
-	"graph-disabled-category": "Sider med deaktiverede grafer"
+	"specialinvestigate-feedback": "Giv tilbagemelding",
+	"graph-disabled-category": "Sider med deaktiverede grafer",
+	"graph-disabled-category-desc": "Siden indeholder et <code><graph></code>-tag, som midlertidigt ikke er tilgængeligt ([[phab:T334940|334940]])."
 }
