@@ -22,7 +22,8 @@
 			"Vugar 1981",
 			"Wertuose",
 			"Zpizza",
-			"Şeyx Şamil"
+			"Şeyx Şamil",
+			"Əkrəm Cəfər"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedia xüsusi mesajları",
@@ -197,6 +198,8 @@
 	"group-translationadmin": "Tərcümə idarəçiləri",
 	"group-translationadmin-member": "{{GENDER:$1|tərcümə inzibatçısı}}",
 	"grouppage-translationadmin": "{{ns:project}}:Tərcümə inzibatçıları",
+	"group-u4c-member": "U4C üzvləri",
+	"group-u4c-member-member": "{{GENDER:$1|U4C üzvü}}",
 	"group-vrt-permissions": "VRT icazə agentləri",
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT icazə agenti}}",
 	"group-wmf-officeit": "WMF Office IT",
@@ -236,7 +239,7 @@
 	"wikibase-sitelinks-wikivoyage": "Vikisəyahət",
 	"wikibase-sitelinks-wiktionary": "Vikilüğət",
 	"wikibase-otherprojects-commons": "Vikianbar",
-	"wikibase-otherprojects-foundation": "Vikimediaa Fondu",
+	"wikibase-otherprojects-foundation": "Vikimedia Fondu",
 	"wikibase-otherprojects-testwikidata": "Vikidata",
 	"wikibase-otherprojects-mediawiki": "MediaViki",
 	"wikibase-otherprojects-meta": "Meta-Viki",

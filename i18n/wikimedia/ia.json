@@ -181,6 +181,8 @@
 	"group-translationadmin": "Administratores de traduction",
 	"group-translationadmin-member": "{{GENDER:$1|administrator|administratrice}} de traduction",
 	"grouppage-translationadmin": "{{ns:project}}:Administratores de traduction",
+	"group-u4c-member": "Membros U4C",
+	"group-u4c-member-member": "{{GENDER:$1|Membro U4C}}",
 	"group-vrt-permissions": "Agentes de permissiones VRT",
 	"group-vrt-permissions-member": "{{GENDER:$1|Agente de permissiones VRT}}",
 	"group-wmf-officeit": "IT del officio del WMF",

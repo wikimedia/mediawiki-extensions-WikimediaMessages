@@ -130,6 +130,7 @@
 	"group-translationadmin": "Iwwersetzungsadministrateuren",
 	"group-translationadmin-member": "{{GENDER:$1|Iwwersetzungsadministrateur|Iwwersetzungsadministratrice}}",
 	"grouppage-translationadmin": "{{ns:project}}:Iwwersetzungs-Administrateuren",
+	"group-u4c-member": "U4C-Memberen",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Vum globale Mëssbrauchsfilter 110 benotzt.",
 	"tag-AWB-description": "Ännerungen déi mam [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] gemaach goufen",

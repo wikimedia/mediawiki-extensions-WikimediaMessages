@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"Christian List",
 			"Joedalton",
 			"Kaare",
@@ -14,5 +15,5 @@
 	"thank-you": "{{GENDER:$1|Tak.}}",
 	"specialinvestigate-feedback": "Giv tilbagemelding",
 	"graph-disabled-category": "Sider med deaktiverede grafer",
-	"graph-disabled-category-desc": "Siden indeholder et <code><graph></code>-tag, som midlertidigt ikke er tilgængeligt ([[phab:T334940|334940]])."
+	"graph-disabled-category-desc": "Siden indeholder et <code>&lt;graph&gt;</code>-tag, som midlertidigt ikke er tilgængeligt ([[phab:T334940|334940]])."
 }

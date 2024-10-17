@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"EbelleMarcel"
+			"EbelleMarcel",
+			"Olivier Moukodi"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Lo aledi wonja o ɓaɓɛ, jaɓanɛ na tukwa ɓen ɓetiledi  toŋgea na tema yá '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', patan  1.2 tɔ njika patan nyá ɓoso ni lanyisaɓɛ [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; esiɓɛ mukanjo musi ma tukwɛ, esiɓɛ ɓetiledi ɓa dipapá lá ekuduman lá ɓoso na esiɓɛ ɓetiledi ɓá dipapá lá ekuduman disukán. ɓowon ɓwá wonja e sɔisabɛ mukanjo ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Bétéledi",
 	"wm-license-information-source": "Tongo",
 	"wm-license-information-date": "Bunyá",

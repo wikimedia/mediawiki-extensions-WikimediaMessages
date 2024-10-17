@@ -115,7 +115,7 @@
 	"wm-license-lgpl-2.1-full-link": "{{notranslate}}",
 	"wm-license-lgpl-3-full-link": "{{notranslate}}",
 	"wm-license-licensing-update-text": "This message will be used at [[Commons:Template:Cc-by-sa-3.0-migrated]].\n\nRefers to {{msg-mw|Wm-license-licensing-update-wiki-link}}.",
-	"wm-license-licensing-update-wiki-link": "{{optional}}\nTranslate this message only, if a page in your language at https://meta.wikimedia.org/wiki/Licensing_update exists. e.g. <code>meta:Licensing update/{{UILANGCODE}}</code>",
+	"wm-license-licensing-update-wiki-link": "{{optional}}\nTranslate this message only, if a page in your language at https://meta.wikimedia.org/wiki/Licensing_update exists. e.g. <code>meta:Licensing update/{{USERLANGUAGE}}</code>",
 	"wm-license-original-upload-log": "Header of a section on a file description page. It appears that the section contains the log entry from wherever a file was originally uploaded, for files that have been moved. See this [[commons:File:Inkscape_logo_2.svg|example]].",
 	"wm-license-own-work": "This message will be used in [[commons:Template:Own]].\n{{Identical|Own work}}",
 	"wm-license-pd-author-self-text": "Refers to {{msg-mw|Wm-license-pd-wiki-link}}.",

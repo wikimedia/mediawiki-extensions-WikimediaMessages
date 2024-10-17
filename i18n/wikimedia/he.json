@@ -196,6 +196,8 @@
 	"group-translationadmin": "מנהלי תרגום",
 	"group-translationadmin-member": "{{GENDER:$1|מנהל|מנהלת}} תרגום",
 	"grouppage-translationadmin": "{{ns:project}}:מנהלי תרגום",
+	"group-u4c-member": "חברי U4C",
+	"group-u4c-member-member": "{{GENDER:$1|חבר|חברת}} U4C",
 	"group-vrt-permissions": "סוכני הרשאות VRT",
 	"group-vrt-permissions-member": "{{GENDER:$1|סוכן|סוכנת}} הרשאות VRT",
 	"group-wmf-officeit": "שירותי IT במשרד קרן ויקימדיה",

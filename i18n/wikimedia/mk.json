@@ -184,6 +184,8 @@
 	"group-translationadmin": "Преводни администратори",
 	"group-translationadmin-member": "{{GENDER:$1|преводен администратор}}",
 	"grouppage-translationadmin": "{{ns:project}}:Преводни администратори",
+	"group-u4c-member": "Членови на U4C",
+	"group-u4c-member-member": "{{GENDER:$1|член на U4C}}",
 	"group-vrt-permissions": "VRT-претставници за дозволи",
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT-претставник за дозволи}}",
 	"group-wmf-officeit": "Канцелариски информатичар на Фондацијата Викимедија",

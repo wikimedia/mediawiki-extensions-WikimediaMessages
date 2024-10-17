@@ -225,6 +225,8 @@
 	"group-translationadmin": "翻譯管理員",
 	"group-translationadmin-member": "{{GENDER:$1|翻譯管理員}}",
 	"grouppage-translationadmin": "{{ns:project}}:翻譯管理員",
+	"group-u4c-member": "U4C成員",
+	"group-u4c-member-member": "{{GENDER:$1|U4C成員}}",
 	"group-vrt-permissions": "VRT權限擁有者",
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT權限擁有者}}",
 	"group-wmf-officeit": "維基媒體基金會 IT",
