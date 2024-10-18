@@ -16,7 +16,6 @@ use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SidebarBeforeOutputHook;
 use MediaWiki\Hook\SkinAddFooterLinksHook;
-use MediaWiki\Hook\SkinCopyrightFooterHook;
 use MediaWiki\Hook\SkinCopyrightFooterMessageHook;
 use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
 use MediaWiki\Hook\UploadForm_initialHook;
@@ -56,7 +55,6 @@ class Hooks implements
 	ResourceLoaderRegisterModulesHook,
 	SidebarBeforeOutputHook,
 	SkinAddFooterLinksHook,
-	SkinCopyrightFooterHook,
 	SkinCopyrightFooterMessageHook,
 	SkinTemplateNavigation__UniversalHook,
 	SpecialPageBeforeExecuteHook,
@@ -316,60 +314,6 @@ class Hooks implements
 			$link = $rightsText;
 		}
 		return $link;
-	}
-
-	/**
-	 * Override for copyright message in skin footer. (DEPRECATED HOOK)
-	 *
-	 * @see https://www.mediawiki.org/wiki/Manual:Hooks/SkinCopyrightFooter
-	 *
-	 * @param Title $title
-	 * @param string $type
-	 * @param string &$msg
-	 * @param string &$link
-	 */
-	public function onSkinCopyrightFooter( $title, $type, &$msg, &$link ) {
-		if ( $type === 'history' ) {
-			return;
-		}
-
-		$licensing = $this->options->get( 'WikimediaMessagesLicensing' );
-		$isMobile = $this->mobileContext && $this->mobileContext->shouldDisplayMobileView();
-
-		if ( $isMobile ) {
-			$link = $this->getShortRightsLink();
-		}
-
-		switch ( $licensing ) {
-			case 'wikidata':
-				// Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. (Also, the data is under CC0.)
-				$msg = 'wikidata-copyright';
-				break;
-			case 'mediawiki':
-				// MediaWiki.org has a special licence for the Help: namespace.
-				$msg = 'mediawiki.org-copyright';
-				break;
-			case 'commons':
-				// Commons has a special licence for the structured data.
-				// TODO: Should we also mention the special Data: namespace?
-				$msg = 'wikimedia-commons-copyright';
-				break;
-			case 'standard':
-				// Almost all Wikimedia wikis using CC-BY-SA 4.0 are also dual-licensed under GFDL.
-				$msg = $isMobile ? 'mobile-frontend-copyright' : 'wikimedia-copyright';
-				break;
-			case 'wikinews':
-				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
-				$msg = $isMobile ? 'mobile-frontend-copyright' : $msg;
-				break;
-			case 'wikifunctions':
-				// Wikifunctions like Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. The data is
-				// under CC0. The code is under Apache 2.0.
-				$msg = 'wikifunctions-site-footer-copyright';
-				break;
-			default:
-				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
-		}
 	}
 
 	/**

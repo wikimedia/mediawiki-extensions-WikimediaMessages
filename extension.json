@@ -30,13 +30,6 @@
 			"i18n/commonstrings"
 		]
 	},
-	"RawHtmlMessages": [
-		"wikimedia-copyright",
-		"mediawiki.org-copyright",
-		"wikimedia-commons-copyright",
-		"wikidata-copyright",
-		"wikifunctions-site-footer-copyright"
-	],
 	"AutoloadNamespaces": {
 		"MediaWiki\\Extension\\WikimediaMessages\\": "includes/"
 	},
@@ -76,9 +69,6 @@
 			"handler": "WikimediaMessagesHooks"
 		},
 		"MessageCacheFetchOverrides": {
-			"handler": "WikimediaMessagesHooks"
-		},
-		"SkinCopyrightFooter": {
 			"handler": "WikimediaMessagesHooks"
 		},
 		"SkinCopyrightFooterMessage": {

@@ -45,16 +45,13 @@ class HooksTest extends MediaWikiUnitTestCase {
 		];
 	}
 
-	public function testOnSkinCopyrightFooterForHistoryType() {
-		// Calls ::onSkinCopyrightFooter with the $type argument as history and expect that it just returns without
-		// doing anything else. This is checked by ensuring the $msg and $link provided by reference is not modified.
+	public function testOnSkinCopyrightFooterMessageForHistoryType() {
+		// Calls ::onSkinCopyrightFooterMessage with the $type argument as history and expect that it just returns
+		// without doing anything else. This is checked by ensuring the $msg provided by reference is not modified.
 		/** @var Hooks $hooks */
 		$hooks = $this->newServiceInstance( Hooks::class, [ 'mobileContext' => null ] );
-		$msg = 'msg';
-		$link = 'link';
-		$hooks->onSkinCopyrightFooter( $this->createMock( Title::class ), 'history', $msg, $link );
-		// Check that the $msg and $link variables provided by reference were not changed.
-		$this->assertEquals( 'msg', $msg );
-		$this->assertEquals( 'link', $link );
+		$msg = $origMsg = $this->getMockMessage( 'msg' );
+		$hooks->onSkinCopyrightFooterMessage( $this->createMock( Title::class ), 'history', $msg );
+		$this->assertEquals( $origMsg, $msg );
 	}
 }
