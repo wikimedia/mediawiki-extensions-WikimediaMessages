@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Azniv Stepanian",
 			"Kareyac"
 		]
 	},
 	"project-localized-name-commonswiki": "Ուիքիպահեստ",
-	"project-localized-name-foundationwiki": "Ուիքիմետիա Հիմնադրամ"
+	"project-localized-name-foundationwiki": "Ուիքիմետիա Հիմնադրամ",
+	"project-localized-name-sourceswiki": "Բազմալեզու Ուիքիդարան"
 }
