@@ -6,7 +6,6 @@
 namespace MediaWiki\Extension\WikimediaMessages;
 
 use ErrorPageError;
-use ExtensionRegistry;
 use HtmlArmor;
 use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Config\Config;
@@ -27,6 +26,7 @@ use MediaWiki\Message\Message;
 use MediaWiki\Output\Hook\BeforePageDisplayHook;
 use MediaWiki\Output\OutputPage;
 use MediaWiki\Permissions\PermissionManager;
+use MediaWiki\Registration\ExtensionRegistry;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;

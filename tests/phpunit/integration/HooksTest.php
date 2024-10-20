@@ -2,9 +2,10 @@
 
 namespace MediaWiki\Extension\WikimediaMessages\Tests\Integration;
 
+use MediaWiki\Context\RequestContext;
 use MediaWiki\Extension\WikimediaMessages\Hooks;
+use MediaWiki\User\User;
 use MediaWikiIntegrationTestCase;
-use RequestContext;
 
 /**
  * @covers MediaWiki\Extension\WikimediaMessages\Hooks
@@ -54,7 +55,7 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => $featureFlag ] );
 
-		$user = \User::newFromId( $userId );
+		$user = User::newFromId( $userId );
 		RequestContext::getMain()->setUser( $user );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( $skinName );
@@ -91,7 +92,7 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
 
-		$user = \User::newFromId( 1 );
+		$user = User::newFromId( 1 );
 		RequestContext::getMain()->setUser( $user );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
@@ -141,7 +142,7 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 	 */
 	public function testOnSidebarBeforeOutputConditions( $featureFlag, $userId, $skinName, $expected ) {
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => $featureFlag ] );
-		$user = \User::newFromId( $userId );
+		$user = User::newFromId( $userId );
 		RequestContext::getMain()->setUser( $user );
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( $skinName );
 
