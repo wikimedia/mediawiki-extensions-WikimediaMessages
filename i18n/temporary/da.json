@@ -4,10 +4,14 @@
 			"Christian List",
 			"Joedalton",
 			"Kaare",
-			"Saederup92"
+			"Saederup92",
+			"Amire80",
+			"Steenth"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifikke midlertidige meddelelser",
+	"hello": "Hej",
 	"please-translate": "Hjælp venligst med at oversætte til dit sprog",
-	"thank-you": "{{GENDER:$1|Tak.}}"
+	"thank-you": "{{GENDER:$1|Tak.}}",
+	"specialinvestigate-feedback": "Giv tilbagemelding"
 }
