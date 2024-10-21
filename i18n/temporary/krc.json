@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ernác"
+			"Ernác",
+			"Къарачайлы"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Ревизорла",
-	"group-oversight": "Ревизорла"
+	"group-oversight": "Ревизорла",
+	"please-translate": "Сизни тилигизге кёчюрюргюз деб тилейбиз"
 }

@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"EbelleMarcel",
 			"Olivier Moukodi"
 		]
 	},
 	"sitesupport": "Mabéa",
 	"wikimedia-copyright-footer": "Be̱tilabe be̱ o̱ te̱te̱na [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike License];\nadditional terms may apply.\nSee [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] for details.",
-	"wikimedia-copyrightwarning": "O kómɓɛ ɓetúkwedi, ló memeya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy: mambendá má ɓeɓóledi], na ɓetemédi besi ma tunkwɛ beboledi bɔngɔ tongwea na wonja     [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] Na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nLo memeya na tiŋga lá ŋgínya tɔ URL di koke o wonja nyá reative Commons   .",
+	"wikimedia-copyrightwarning": "O kómɓɛ ɓetúkwedi, ló memeya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy: mambendá má ɓeɓóledi], na ɓetemédi besi ma tunkwɛ beboledi bɔngɔ tongwea na wonja     [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] na [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nLo memeya na tiŋga lá ŋgínya tɔ URL di koke o wonja nyá Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",

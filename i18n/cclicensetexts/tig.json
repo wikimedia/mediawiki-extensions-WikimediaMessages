@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Bbeshir",
-			"IdrisSeid"
+			"IdrisSeid",
+			"Osman Omera"
 		]
 	},
 	"wm-license-cc-attribution": "አትአመሮት",
+	"wm-license-cc-by-sa-3.0-text": "እሊ ፋይል ሩኽሰቱ ተሐት [[{{int:wm-license-cc-wiki-link}}|ብስር ሕበር]] [[creativecommons:by-sa/3.0/deed.tig|ክቱብ እግል ኬትባይ-ምሸረከት ከምሰልሁ 3.0 ናይ ሕበር]] ሩኽሰት.",
 	"wm-license-cc-free": "ሕር እንታ",
 	"wm-license-cc-free-to-share-header": "እግል ትካፍል",
 	"wm-license-cc-free-to-share-text": "እግል ትንገል፡ ትወዝዕ ዎ ሽቅል እግል ተአትሐላልፍ",
@@ -14,5 +16,6 @@
 	"wm-license-cc-conditions": "ዲብ ሐንቴላ ለተሌ ሽሩጥ",
 	"wm-license-cc-conditions-attribution-header": "አትአመሮት",
 	"wm-license-cc-conditions-attribution-text": "ዋጅብ መትአመሪ እግል ተሀብ ብካ፡ መዐደዪ እት ሩክሰት ሀብ ዎ ተዕዲል ጋብእ ምን ለሀሌ አሽር። እብ ገበያ ክምሰልሁ እግል ትውዴ ትቀድር፡ ላኪን እብ ገበይ ለሩክሰት እግልካ አው መትነፍዖትካ ለተአይድ እቡ ገበይ እንዴ ይገብእ።",
-	"wm-license-cc-conditions-share_alike-header": "ሕድ ለመስል ትካፈል"
+	"wm-license-cc-conditions-share_alike-header": "ሕድ ለመስል ትካፈል",
+	"wm-license-cc-conditions-share_alike-text": "ምን ገሌ ጋራት ሐዲስ ሐቆ ሓብርከ፣ ወክ ቀየርከ፣ ወክ አፍሬከ፣ ፍርያትከ ተሐት [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ነፍሱ ወክ ለልትዓደሉ ተርኺስ ] ክምሰለ አስል."
 }

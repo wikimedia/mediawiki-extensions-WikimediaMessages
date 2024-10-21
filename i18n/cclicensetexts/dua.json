@@ -1,20 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
+			"Amire80",
 			"EbelleMarcel",
 			"Olivier Moukodi"
 		]
 	},
 	"wm-license-cc-attribution": " Muwekedi",
 	"wm-license-cc-by-sa-3.0-text": "Din dipapá lá ɓeɓola di telamɛ bupisanɛ tema ya wonja [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr Bola – Jabanɛ o yen ebeyedi 3.0].",
-	"wm-license-cc-free": "Bińó le wonja",
+	"wm-license-cc-free": "Bińó le wonja:",
 	"wm-license-cc-free-to-share-header": "o jaɓanε",
 	"wm-license-cc-free-to-share-text": "ó ɓambɛ, jabanɛ na ɓola yen ebolo",
-	"wm-license-cc-free-to-remix-header": "Ná Maɓátaɓátanɛ",
+	"wm-license-cc-free-to-remix-header": "ná maɓátaɓátanɛ",
 	"wm-license-cc-free-to-remix-text": "poŋgilanɛ yɛn ebolo",
-	"wm-license-cc-conditions": "O ben ɓetɛsedi",
-	"wm-license-cc-conditions-attribution-header": " Muwekedi",
-	"wm-license-cc-conditions-attribution-text": "O aŋgamɛ ó ɓola ɓobia ɓwá ɓwám ó nyóla muɓoledi, ɓola tiŋga di malɛ o wonja na láŋgwa ká ɓetukwɛdi be poŋgɔɓɛ .O ena ó ɓola nika na miano mi ɗoŋgamɛnɛ, nde tɔ mbadi ni pɛpɛ nyena muɓoledi a ma suwɛlɛ nɔ oa tɔ jemea eɓoledi ó ma bola nɔ.",
+	"wm-license-cc-conditions": "O ben ɓetɛsedi:",
+	"wm-license-cc-conditions-attribution-header": "muwekedi",
+	"wm-license-cc-conditions-attribution-text": "O aŋgamɛ ó ɓola ɓobia ɓwá ɓwám ó nyóla muɓoledi, ɓola tiŋga di malɛ o wonja na láŋgwa ká ɓetukwɛdi be poŋgɔɓɛ. O ena ó ɓola nika na miano mi ɗoŋgamɛnɛ, nde tɔ mbadi ni pɛpɛ nyena muɓoledi a ma suwɛlɛ nɔ oa tɔ jemea eɓoledi ó ma bola nɔ.",
 	"wm-license-cc-conditions-share_alike-header": "mulemlem mwá jabánɛ",
 	"wm-license-cc-conditions-share_alike-text": "Lo tuko tɛ, toŋgilan, tɔsɔ lo tɛmɛ o nyola ben ɓeɓoledi, lo aŋgamɛnɛ o jaɓanɛ maɓola ma anyu o [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses wonja pɔɔ tɔ ɓowɔn ɓwa nin wonja] tɔ nin nja mbalɛ."
 }
