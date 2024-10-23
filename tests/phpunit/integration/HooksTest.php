@@ -74,12 +74,12 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
-		$links = [];
+		$links = [ 'user-menu' => [] ];
 
 		$hooks->onSkinTemplateNavigation__Universal( $skin, $links );
 
-		$this->assertArrayHasKey( 'user-page', $links );
-		$this->assertArrayHasKey( 'sitesupport', $links['user-page'] );
+		$this->assertArrayHasKey( 'user-menu', $links );
+		$this->assertArrayHasKey( 'sitesupport', $links['user-menu'] );
 	}
 
 	/**
@@ -117,11 +117,11 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->overrideConfigValues( [ 'WikimediaMessagesAnonDonateLink' => true ] );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
-		$links = [];
+		$links = [ 'user-menu' => [] ];
 
 		$hooks->onSkinTemplateNavigation__Universal( $skin, $links );
 
-		$donateLink = $links['user-page']['sitesupport'];
+		$donateLink = $links['user-menu']['sitesupport'];
 
 		$this->assertArrayHasKey( 'text', $donateLink );
 		$this->assertSame( $donateLink['text'], RequestContext::getMain()->msg( 'sitesupport' )->text() );
