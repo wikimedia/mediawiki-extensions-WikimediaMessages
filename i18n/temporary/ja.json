@@ -8,7 +8,8 @@
 			"Rxy",
 			"Shirayuki",
 			"Sujiniku",
-			"春春眠眠"
+			"春春眠眠",
+			"シェン,アーナリー,ン,アーバァ."
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有の一時的なメッセージ",
@@ -16,7 +17,7 @@
 	"group-oversight": "秘匿者",
 	"group-oversight-member": "{{GENDER:$1|秘匿者}}",
 	"hello": "こんにちは",
-	"please-translate": "あなたの言語への翻訳をお助けください",
+	"please-translate": "邦訳にご協力ください",
 	"thank-you": "{{GENDER:$1|ありがとうございました。}}",
 	"specialblockfeedback": "フィードバック",
 	"specialinvestigate-feedback": "フィードバックを投稿する",
