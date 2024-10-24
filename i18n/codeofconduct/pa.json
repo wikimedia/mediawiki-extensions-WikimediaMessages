@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kuldeepburjbhalaike"
+			"Kuldeepburjbhalaike",
+			"Cabal"
 		]
 	},
-	"wm-codeofconduct": "ਕੋਡ ਆਫ਼ ਕੰਡਕਟ"
+	"wm-codeofconduct": "ਆਚਾਰ ਜ਼ਾਬਤਾ",
+	"wm-techcodeofconduct": "ਆਚਾਰ ਜ਼ਾਬਤਾ"
 }

@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"Tumbuka Arch"
 		]
 	},
@@ -12,5 +11,6 @@
 	"wm-license-information-author": "Mlembi",
 	"wm-license-information-permission": "Chilolezo",
 	"wm-license-information-permission-reusing-text": "Kugwiliskaso ntchito ichi",
-	"wm-license-own-work": "Chinthu chane"
+	"wm-license-own-work": "Chinthu chane",
+	"wm-license-self-multiple-licenses-select": "Mungasankha chizomelezgo icho mwakhumba."
 }
