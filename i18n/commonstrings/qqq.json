@@ -17,7 +17,9 @@
 	"wm-commonstrings-enterquestion": "String commonly used as a label prompting people where to provide text of a question they have",
 	"wm-commonstrings-events": "String commonly used in navigation or headers for content about activities happening related to the main topic",
 	"wm-commonstrings-externallinks": "String commonly used in navigation or headers for content with links to external websites related to the main topic",
+	"wm-commonstrings-feedback": "String commonly used in navigation or headers for content with ways people can provide input on the main topic",
 	"wm-commonstrings-follow": "String commonly used in navigation or headers for content providing ways people can follow the topic or individual on social media",
+	"wm-commonstrings-leadership": "String commonly used in navigation or headers for content related to people coordinating the main topic",
 	"wm-commonstrings-mainarticle-prompt": "String commonly used in navigation or hatnotes to label an article which contain the main content on the related topic\n\nParameters:\n* $1 - Local link to main content article with information on the related topic\n* $2 - Number of articles",
 	"wm-commonstrings-mainpage-prompt": "String commonly used in navigation or hatnotes to label a page which contain the main content on the related topic\n\nParameters:\n* $1 - Local link to main content page with information on the related topic\n* $2 - Number of pages",
 	"wm-commonstrings-mywork": "String commonly used in navigation or headers for content describing the contributing individual's work or activities",
@@ -41,5 +43,6 @@
 	"wm-commonstrings-shortcut": "String commonly used in captions to label a page serving as an alias link for a longer pagename\n\nParameters:\n* $1 - Number of links",
 	"wm-commonstrings-staff": "String commonly used in navigation or headers for content about individuals working professionally for or on the main topic",
 	"wm-commonstrings-talktous": "String commonly used in navigation or headers to prompt feedback or discussion",
+	"wm-commonstrings-templates": "String commonly used in navigation, headers, or strings in relation to wiki template pages\n\nParameters:\n* $1 - Number of templates",
 	"wm-commonstrings-updates": "String commonly used in navigation or headers for content providing new information related to the main topic"
 }
