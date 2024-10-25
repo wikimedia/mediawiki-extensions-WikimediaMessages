@@ -5,12 +5,16 @@
 			"Masjawad99"
 		]
 	},
-	"wm-license-cc-by-sa-3.0-text": "Berkas ni ado dicager [[creativecommons:by-sa/3.0/deed.en|Ijin Nisbat-MagiSememper 3.0 Unported]] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
+	"wm-license-cc-attribution": "Nisbat",
+	"wm-license-cc-by-sa-3.0-text": "Setuo ni ado dicager [[creativecommons:by-sa/3.0/deed.en|Surat Ijin Nisbat-MagiSemémper 3.0 Unported]] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-free": "Dulur diaturi:",
-	"wm-license-cc-free-to-share-header": "Bebagi",
-	"wm-license-cc-free-to-share-text": "nyalen, nyebarke materi ni dalem bentuk atau format apo bae;",
-	"wm-license-cc-free-to-remix-header": "Adaptasi",
-	"wm-license-cc-free-to-remix-text": "ngembek, ngerobah, jugo ngebuat turunan dari materi ni",
-	"wm-license-cc-conditions-attribution-header": "atribusi",
-	"wm-license-cc-conditions-share_alike-header": "BebagiSerupo"
+	"wm-license-cc-free-to-share-header": "buat magike",
+	"wm-license-cc-free-to-share-text": "ngepé', ngécérke apo da' mindake gawî ni",
+	"wm-license-cc-free-to-remix-header": "buat nyampur balén",
+	"wm-license-cc-free-to-remix-text": "ngawé' balén gawî ni",
+	"wm-license-cc-conditions": "Asa' ketemu sarat-sarat ni:",
+	"wm-license-cc-conditions-attribution-header": "nisbat",
+	"wm-license-cc-conditions-attribution-text": "Dulur nyantolke nisbat yang setulu'an, ngenju' géntolan ke surat ijinnyo, teko ngewartoke amen ado perobahan yang telakon. Paca'la Dulur na' ma' mano gala'nyo, asa' ida' ngomongke kalu yang ngenju' surat ijin tu nyokong Dulur apo pemakîan Dulur.",
+	"wm-license-cc-conditions-share_alike-header": "magi semémper",
+	"wm-license-cc-conditions-share_alike-text": "Amen Dulur nyampur balén, ngeroba, apo ngawé' turunan dari bahan ni, kenda'nyo Dulur ngécérke sumbangan Dulur di bawa [https://creativecommons.org/share-your-work/licensing-considerations/compatible-license surat ijin yang semémper apo setulu'an] samo yang aslinyo."
 }

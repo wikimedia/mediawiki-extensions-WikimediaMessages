@@ -93,7 +93,7 @@
 	"wm-license-licensing-update-wiki-link": "meta:Licensing update/ja",
 	"wm-license-original-upload-log": "元のアップロードログ",
 	"wm-license-own-work": "投稿者自身による著作物",
-	"wm-license-pd-author-self-text": "この著作物の著作権者である私は、この著作物における権利を放棄し'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''とします。これは全世界で適用されます。",
+	"wm-license-pd-author-self-text": "この作品の著作権者である私は、この作品についての権利を放棄し'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''とします。これは全世界で適用されます。",
 	"wm-license-pd-author-with-author-text": "この著作物は、著作者である'''$1'''によって権利が放棄され、'''[[{{int:wm-license-pd-wiki-link}}|パブリックドメイン]]'''とされました。これは全世界で適用されます。",
 	"wm-license-pd-author-not-legally-possible": "一部の国では、これが法的に可能ではない場合があります。その場合は、次のように宣言します。",
 	"wm-license-pd-author-self-any-purpose": "私は、あらゆる人に対して、法により必要とされている条件を除き、如何なる条件も課すことなく、'''あらゆる目的'''のためにこの著作物を使用する権利を与えます。",
