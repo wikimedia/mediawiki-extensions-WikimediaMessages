@@ -5,12 +5,14 @@
 			"Masjawad99"
 		]
 	},
-	"sitesupport": "Enjuk",
+	"sitesupport": "Ngenju'",
 	"tooltip-n-sitesupport": "Dékéng kito",
 	"wikimedia-copyright": "Tulésan ado di jero <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.id\">Lisensi Atribusi-BerbagiSerupa Creative Commons</a>; sarat laénnyo pacak belaku. Jingok <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use-Summary/id\">Ketentuan Penggunaan</a> supayo lebé ceto.",
-	"wikibase-sitelinks-wikinews": "Wikikabar",
-	"wikibase-sitelinks-wikiquote": "Wikikotep",
+	"wikibase-sitelinks-wikinews": "Wikiwarto",
+	"wikibase-sitelinks-wikiquote": "Wikikutip",
 	"wikibase-sitelinks-wikisource": "Wikisumber",
-	"wikibase-sitelinks-wikivoyage": "Wikiwisato",
-	"wikimedia-developers": "Pengembang"
+	"wikibase-sitelinks-wikivoyage": "Wikipelesir",
+	"wikimedia-developers": "Pengembang",
+	"wikimedia-statslink": "Setatistik",
+	"wikimedia-cookiestatement": "Ma'lumat kuki"
 }

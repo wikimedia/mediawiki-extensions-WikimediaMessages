@@ -5,17 +5,33 @@
 			"MuratTheTurkish",
 			"Nemo bis",
 			"Weblars",
-			"Dipsacus fullonum"
+			"Dipsacus fullonum",
+			"Steenth"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Besøgende på denne wiki, der bruger din IP-adresse, har oprettet {{PLURAL:$1|en konto|$1 konti}} inden for den sidste dag, hvilket er det maksimalt tilladte i dette tidsrum.\nSom et resultat kan besøgende, der bruger denne IP-adresse, ikke oprette flere konti i øjeblikket.\n\nHvis du er på en begivenhed, hvor det er fokus på at bidrage til Wikimedia-projekter, se venligst [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Anmodning om midlertidig ophævelse af IP-loft]] for at hjælpe med at løse dette problem.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjælp mig med at vælge)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Du kan besøge din indstillingsside på [[m:Special:CentralAuth/$1|andre Wikimedia-projekter du har bidraget til]] for at downloade dine kontodata fra disse projekter.",
 	"wikimedia-createacct-imgcaptcha-help": "Kan du ikke se billedet? [[{{MediaWiki:createacct-captcha-help-url}}|Anmod om en konto]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
+	"wikimedia-centralauth-login-error-locked": "<strong>Denne konto er [[m:Special:MyLanguage/Global locks|globalt låst]].</strong> {{GENDER:$1|Du}} vil ikke være i stand til at logge ind på nogen Wikimedia-wikier. Venligst [[m:Special:Contact/stewards|kontakt stewarderne]] hvis {{GENDER:$1|du}} har spørgsmål.",
 	"createacct-helpusername-url": "{{ns:Project}}:Brugernavnsregler",
-	"wikimedia-sitematrix": "Alle Wikimedias wikier",
+	"wikimedia-delete-toobig": "Denne side har en stor redigeringshistorik, over $1 {{PLURAL:$1|sideversion|sideversioner}}.\nSletning af sider med meget store redigeringshistorikker er begrænset for at forhindre utilsigtet afbrydelse af {{SITENAME}}.\nKontakt venligst [[m:Special:MyLanguage/Stewards|stewards]] på [[m:Steward requests/Miscellaneous|Steward requests/Discellaneous på Meta]] om at anmode om sletning af denne side.",
+	"wikimedia-globalrenamequeue-email-body-approved": "Anmodningen om at omdøbe \"{{GENDER:$1|$1}}\" til \"{{GENDER:$1|$2}}\" er blevet godkendt. Når processen er færdig, vil du være i stand til at logge ind med dit nye brugernavn med din gamle adgangskode. Tak fordi du bidrager på Wikimedia-projekter.",
+	"wikimedia-interfaceadmin-info": "Redigering af CSS/JS/JSON-filer på hele webstedet er begrænset til medlemmer af gruppen [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
+	"wikimedia-mwoauthserver-invalid-user": "Der opstod et problem med at logge dig på globalt. Hvis du lige har oprettet din konto, skal du logge ud og logge ind igen, og derefter prøve igen at godkende appen. Hvis du ikke lige har oprettet din konto, skal du besøge [https://meta.wikimedia.org/meta.wikimedia.org] og derefter prøve igen at godkende appen. (Fejlkode: E008)",
+	"wikimedia-sitematrix": "Liste over Wikimedia-wikier",
 	"wikimedia-sitematrix-others": "Andre projekter under Wikimedia",
-	"wikimedia-sitematrix-summary": "Denne specialside oplister alle Wikimedias wikier.",
+	"wikimedia-sitematrix-summary": "Denne specialside viser alle Wikimedia-wikier.",
+	"wikimedia-sulrenamewarning-usenew": "Fra nu af skal du logge ind med dit nye brugernavn <strong>$1</strong> . Dit nye brugernavn er unikt for dig på tværs af alle Wikimedia-projekter, og hvis du er logget ind på et projekt og besøger et andet, overføres din konto til dig. [[:m:Special:MyLanguage/Help:Unified_login|Hjælp til unified login]] har flere oplysninger om enkeltbruger-login, samt en liste over ofte stillede spørgsmål. Hvis du har brug for at opdatere din e-mailadresse eller ændre din adgangskode i dine [[Special:Preferences|indstillinger]], kan det være et godt tidspunkt at gøre det nu.\n\nFor at anmode om et andet kontonavn, besøg [[Special:GlobalRenameRequest]]. Tak fordi du bidrager til Wikimedia-projekter.",
+	"wikimedia-ipb-confirmhideuser": "Du er ved at blokere en bruger med \"skjul bruger\" aktiveret. Dette vil undertrykke brugerens navn i alle lister og logposter på denne wiki. Er du sikker på, at du vil gøre det?\n\nHvis brugernavnet skal skjules på alle Wikimedia-wikier, bedes du kontakte [[m:Special:MyLanguage/Stewards|forvaltere]] via [[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|on-wiki e-mail]] eller på <kbd>stewards-oversight@wikimedia.org</kbd>. Tak.",
+	"wikimedia-urlshortener-disabled": "Korte links kan kun oprettes via siden [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-disabled": "Korte links kan kun oprettes med et opkald til meta.wikimedia.org wiki.",
+	"wikimedia-urlshortener-badaccessgroups": "Korte links kan kun oprettes via siden [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
+	"wikimedia-apierror-urlshortener-permissiondenied": "Korte links kan kun oprettes med et opkald til meta.wikimedia.org wiki.",
 	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) er en webstandard publiceret af World Wide Web Consortium (W3C). WebAuthn er en central komponent i FIDO2-projektet under FIDO-alliancen. Målet for projektet er at standardisere et interface for godkendelse af brugere af webapplikationer og -tjenester ved at anvende offentlig kryptering. [https://en.wikipedia.org/wiki/WebAuthn Læs mere]. Bemærk at man vil være nødt til at logge ind på den wiki hvor man oprindeligt registrerede sin godkendelsesenhed.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]"
+	"wikimedia-webauthn-ui-login-prompt": "Tryk på din bekræftelsesenhed, eller følg instruktionerne fra browseren. Bemærk venligst, at du skal logge ind på den samme wiki, hvor du oprindeligt registrerede din bekræftelsesenhed",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Behandling af personlige oplysninger]",
+	"wikimedia-notification-body-oathauth-disable-other": "Hvis {{GENDER:$2|du}} anmodede ikke om dette, {{GENDER:$2| du}} skal kontakte WMF Trust & Safety.",
+	"wikimedia-similareditors-error-default": "Noget er gået galt, vi undersøger det. Hvis problemet fortsætter, bedes du kontakte os [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors her]."
 }

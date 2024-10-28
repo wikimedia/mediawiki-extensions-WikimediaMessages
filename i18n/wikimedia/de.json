@@ -38,7 +38,8 @@
 			"Varnent",
 			"WikiBayer",
 			"Wnme",
-			"XanonymusX"
+			"XanonymusX",
+			"MrBenjo"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -227,6 +228,7 @@
 	"tag-AWB": "[https://de.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Bearbeitungen, die mit dem [https://de.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] durchgeführt wurden.",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
+	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright": "Der Text ist unter der Lizenz <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen</a> verfügbar. Zusätzliche Bedingungen können gelten.\nEinzelheiten sind in den <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> beschrieben.",
 	"wikimedia-commons-copyright": "Dateien sind unter den Lizenzen verfügbar, die auf ihren Beschreibungsseiten angegeben sind. Alle strukturierten Daten aus dem Datei-Namensraum sind verfügbar unter der Lizenz <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.de\" title=\"Definition der Lizenz „Creative Commons CC0“\">„Creative Commons CC0“</a>. Alle unstrukturierten Texte sind verfügbar unter der Lizenz <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\" title=\"Definition der Lizenz „Creative Commons Attribution/Share-Alike“\">„Creative Commons Attribution-ShareAlike“</a>. Zusätzliche Bedingungen können anwendbar sein.\nDurch die Nutzung dieser Website stimmst du den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\" title=\"Nutzungsbedingungen der Wikimedia Foundation\">Nutzungsbedingungen</a> und der <a href=\"//meta.wikimedia.org/wiki/Privacy_policy/de\" title=\"Datenschutzrichtlinie der Wikimedia Foundation\">Datenschutzrichtlinie</a> zu.",
 	"mediawiki.org-copyright": "Der Text steht unter der <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.de\">Lizenz Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen</a>; zusätzliche Bedingungen können gelten. Text im <a href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents\">Help:-Namensraum</a> steht unter der <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.de\" title=\"Definition der Creative Commons CC0-Lizenz\">Lizenz Creative Commons CC0</a>.\nDurch die Nutzung dieser Website stimmst du den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> und der <a href=\"//https://meta.wikimedia.org/wiki/Privacy_policy/de\">Datenschutzrichtlinie</a> zu.",
@@ -241,6 +243,8 @@
 	"wikifunctions-edit-copyrightwarning-function": "Durch Klicken auf „Veröffentlichen“ stimmst du den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> zu und stimmst unwiderruflich der Freigabe deiner Beiträge unter der <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition der Creative Commons CC0-Lizenz\">Creative-Commons-CC0-Lizenz</a> zu.",
 	"wikifunctions-edit-copyrightwarning-implementation": "Durch Klicken auf „Veröffentlichen“ stimmst du den <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use/de\">Nutzungsbedingungen</a> zu und stimmst unwiderruflich der Freigabe deiner Beiträge unter der <a href=\"//creativecommons.org/publicdomain/zero/1.0/\" title=\"Definition der Apache 2.0 Lizenz\">Apache-2.0-Lizenz</a> zu.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Willkommen}}, $1!",
+	"wikibase-repo-name": "Wikidata",
+	"wikibase-page-schema-publisher-name": "Wikimedia Foundation, Inc.",
 	"wikibase-page-schema-author-name": "Autoren der Wikimedia-Projekte",
 	"wikibase-statementsection-constraints": "Beschränkungen",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",
@@ -298,6 +302,8 @@
 	"interlanguage-link-commons": "Wikimedia Commons",
 	"interlanguage-link-sitename-commons": "Wikimedia Commons, Medienarchiv",
 	"interlanguage-link-sitename-dmoz": "DMOZ-Webverzeichnis",
+	"interlanguage-link-citizendium": "Citizendium",
+	"interlanguage-link-sitename-citizendium": "Citizendium",
 	"action-superprotect": "Superschutz-Level zu ändern",
 	"right-superprotect": "Ändere Superschutz-Level",
 	"protect-level-superprotect": "Erlaube nur Superschutz-Benutzer",
@@ -385,5 +391,6 @@
 	"research-incentive-answer-positive": "Teilnehmen",
 	"research-incentive-answer-negative": "Nicht teilnehmen werden",
 	"research-incentive-privacy": "Lies unsere Datenschutzbestimmungen und erfahre mehr über unser [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja Forschungsprogramm].",
+	"research-incentive-confirm-msg": "Vielen Dank!",
 	"ipinfo-global-contributions-url-label": "Globale Beiträge"
 }
