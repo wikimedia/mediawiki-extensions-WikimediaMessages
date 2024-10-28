@@ -213,7 +213,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "הקובץ הזה מתפרסם לפי תנאי רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [[creativecommons:sa/1.0/fi/deed.he|שיתוף זהה 1.0 פינלנד]].",
 	"wm-license-cc-sa-1.0-nl-text": "הקובץ הזה מתפרסם לפי תנאי רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [[creativecommons:sa/1.0/nl/deed.he|שיתוף זהה 1.0 הולנד]].",
 	"wm-license-cc-sa-2.0-jp-text": "הקובץ הזה מתפרסם לפי תנאי רישיון [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]] [[creativecommons:sa/2.0/jp/deed.he|שיתוף זהה 2.0 יפן]].",
-	"wm-license-cc-zero-text": "קובץ זה זמין לפי תנאי [https:////creativecommons.org/publicdomain/zero/1.0/deed.en הקדשה עולמית לנחלת הכלל CC0 1.0] של  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
+	"wm-license-cc-zero-text": "הקובץ הזה זמין לפי תנאי [[ccorg:publicdomain/zero/1.0/deed.en|ההקדשה עולמית לנחלת הכלל CC0 1.0]] של [[{{int:wm-license-cc-wiki-link}}|קריאייטיב קומונז]].",
 	"wm-license-cc-zero-explanation": "האדם ששייך יצירה להיתר הזה הקדיש את היצירה [[{{int:wm-license-pd-wiki-link}}|לנחלת הכלל]] על־ידי ויתור על כל הזכויות שלו או שלה על היצירה בכל העולם לפי חוק זכויות יוצרים, לרבות כל הזכויות הקשורות או הסמוכות כקבוע בחוק. באפשרותך להעתיק, לשנות, להפיץ, או להציג את היצירה, אפילו למטרות מסחריות, וכל זה אפילו מבלי לבקש רשות.",
 	"wm-license-cc-free": "יש לך חופש:",
 	"wm-license-cc-free-to-share-header": "לשתף",
@@ -224,6 +224,6 @@
 	"wm-license-cc-conditions-attribution-header": "ייחוס",
 	"wm-license-cc-conditions-attribution-text": "יש לתת ייחוס הולם, לתת קישור לרישיון, ולציין אם נעשו שינויים. אפשר לעשות את זה בכל צורה סבירה, אבל לא בשום צורה שמשתמע ממנה שמעניק הרישיון תומך בך או בשימוש שלך.",
 	"wm-license-cc-conditions-share_alike-header": "שיתוף זהה",
-	"wm-license-cc-conditions-share_alike-text": "יצירת רמיקס, שינוי או בנייה על סמך החומר הזה, תטיל עליך חובה להפיץ את התרומות שלך לפי תנאי [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses רישיון זהה או תואם] למקור.",
+	"wm-license-cc-conditions-share_alike-text": "יצירת רמיקס, שינוי או בנייה על סמך החומר הזה, תטיל עליך חובה להפיץ את התרומות שלך לפי תנאי [[ccorg:share-your-work/licensing-considerations/compatible-licenses|רישיון זהה או תואם]] למקור.",
 	"wm-license-cc-pd-mark-text": "הקובץ הזה זוהה כקובץ חופשי מכל מגבלה ידועה תחת חוק זכויות היוצרים, כולל כל הזכויות הקשורות והסמוכות."
 }

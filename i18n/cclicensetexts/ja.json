@@ -219,7 +219,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [[creativecommons:sa/1.0/fi/deed.ja|継承 1.0 フィンランド]]ライセンスのもとに利用を許諾されています。",
 	"wm-license-cc-sa-1.0-nl-text": "このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [[creativecommons:sa/1.0/nl/deed.ja|継承 1.0 オランダ]]ライセンスのもとに利用を許諾されています。",
 	"wm-license-cc-sa-2.0-jp-text": "このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [[creativecommons:sa/2.0/jp/deed.ja|継承 2.0 日本]]ライセンスのもとに利用を許諾されています。",
-	"wm-license-cc-zero-text": "このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [//creativecommons.org/publicdomain/zero/1.0/deed.ja CC0 1.0 全世界 パブリック・ドメイン提供]のもとで利用可能にされています。",
+	"wm-license-cc-zero-text": "このファイルは[[{{int:wm-license-cc-wiki-link}}|クリエイティブ・コモンズ]] [[ccorg:publicdomain/zero/1.0/deed.ja|CC0 1.0 全世界 パブリック・ドメイン提供]]のもとで利用可能にされています。",
 	"wm-license-cc-zero-explanation": "ある作品に本コモンズ証を関連づけた者は、その作品について世界全地域において著作権法上認められる、その者が持つすべての権利（その作品に関する権利や隣接する権利を含む。）を、法令上認められる最大限の範囲で放棄して、[[{{int:wm-license-pd-wiki-link}}|パブリック・ドメイン]]に提供しています。 \n\nこの作品は、たとえ営利目的であっても、許可を得ずに複製、改変・翻案、配布、上演・演奏することが出来ます。",
 	"wm-license-cc-free": "あなたは以下の条件に従う場合に限り、自由に",
 	"wm-license-cc-free-to-share-header": "共有",
@@ -230,7 +230,7 @@
 	"wm-license-cc-conditions-attribution-header": "表示",
 	"wm-license-cc-conditions-attribution-text": "あなたは適切なクレジットを表示し、ライセンスへのリンクを提供し、変更があったらその旨を示さなければなりません。これらは合理的であればどのような方法で行っても構いませんが、許諾者があなたやあなたの利用行為を支持していると示唆するような方法は除きます。",
 	"wm-license-cc-conditions-share_alike-header": "継承",
-	"wm-license-cc-conditions-share_alike-text": "もしあなたがこの作品をリミックスしたり、改変したり、加工した場合には、あなたはあなたの貢献部分を元の作品と[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses これと同一または互換性があるライセンス]の下に頒布しなければなりません。",
+	"wm-license-cc-conditions-share_alike-text": "もしあなたがこの作品をリミックスしたり、改変したり、加工した場合には、あなたはあなたの貢献部分を元の作品と[[ccorg:share-your-work/licensing-considerations/compatible-licenses|これと同一または互換性があるライセンス]]の下に頒布しなければなりません。",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.ja",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.ja",
 	"wm-license-cc-pd-mark-text": "このファイルは著作権法の既知の制約（隣接権や関連する権利を含む）から自由であると特定されています。"

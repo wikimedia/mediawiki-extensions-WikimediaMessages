@@ -236,6 +236,8 @@
 	"group-translationadmin": "翻訳管理者",
 	"group-translationadmin-member": "{{GENDER:$1|翻訳管理者}}",
 	"grouppage-translationadmin": "{{ns:project}}:翻訳管理者",
+	"group-u4c-member": "U4Cメンバー",
+	"group-u4c-member-member": "{{GENDER:$1|U4Cメンバー}}",
 	"group-vrt-permissions": "VRT許諾エージェント",
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT許諾エージェント}}",
 	"group-wmf-officeit": "WMFオフィスIT",

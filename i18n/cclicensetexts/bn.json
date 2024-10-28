@@ -212,7 +212,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমন্স]] [[creativecommons:sa/1.0/fi/deed.bn|শেয়ার অ্যালাইক ১.০ ফিনল্যান্ড]] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
 	"wm-license-cc-sa-1.0-nl-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমন্স]] [[creativecommons:sa/1.0/nl/deed.bn|শেয়ার অ্যালাইক ১.০ নেদারল্যান্ডস]] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
 	"wm-license-cc-sa-2.0-jp-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমন্স]] [[creativecommons:sa/2.0/jp/deed.bn|শেয়ার অ্যালাইক ২.০ জাপান]] লাইসেন্সের আওতায় লাইসেন্সকৃত।",
-	"wm-license-cc-zero-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমন্স]] [https://creativecommons.org/publicdomain/zero/1.0/deed.bn সিসি০ ১.০ সার্বজনীন পাবলিক ডোমেইন উৎসর্গীকরণের] আওতায় রয়েছে।",
+	"wm-license-cc-zero-text": "এই ফাইলটি [[{{int:wm-license-cc-wiki-link}}|ক্রিয়েটিভ কমন্স]] [[ccorg:publicdomain/zero/1.0/deed.bn|সিসি০ ১.০ সার্বজনীন পাবলিক ডোমেইন উৎসর্গীকরণের]] আওতায় রয়েছে।",
 	"wm-license-cc-zero-explanation": "যেই ব্যক্তিটি এই কাজটির সাথে সংশ্লিষ্ট তিনি এই কাজটি [[{{int:wm-license-pd-wiki-link}}|পাবলিক ডোমেইনে]] মুক্ত করার মাধ্যমে তাঁর সকল স্বত্ত্ব বিশ্বের সকল কপিরাইট আইনের আওতায় ত্যাগ করেছেন। যার মধ্যে নেইবারিং অধিকার, ও আইনের মাধ্যমে এক্সটেন্টও অন্তর্গত। আপনি এই কাজটি কোন অনুমতি চাওয়া ছাড়াই মুক্তভাবে অনুলিপি, পরিবর্তন, বিতরণ করতে পারেন, এবং এমন কি কোনো বাণিজ্যিক কাজেও ব্যবহার করতে পারেন।",
 	"wm-license-cc-free": "আপনি স্বাধীনভাবে:",
 	"wm-license-cc-free-to-share-header": "বণ্টন করতে পারেন",
@@ -223,7 +223,7 @@
 	"wm-license-cc-conditions-attribution-header": "স্বীকৃতিপ্রদান",
 	"wm-license-cc-conditions-attribution-text": "আপনাকে অবশ্যই যথাযথ স্বীকৃতি প্রদান করতে হবে, লাইসেন্সের একটি লিঙ্ক সরবরাহ করতে হবে এবং কোনো পরিবর্তন হয়েছে কিনা তা নির্দেশ করতে হবে। আপনি যেকোনো যুক্তিসঙ্গত পদ্ধতিতে এটি করতে পারেন। কিন্তু এমন ভাবে নয়, যাতে প্রকাশ পায় যে লাইসেন্সধারী আপনাকে বা আপনার এই ব্যবহারের জন্য অনুমোদন দিয়েছে।",
 	"wm-license-cc-conditions-share_alike-header": "একইভাবে বণ্টন",
-	"wm-license-cc-conditions-share_alike-text": "আপনি যদি কাজটি পুনঃমিশ্রণ, রুপান্তর, বা এর ওপর ভিত্তি করে নতুন সৃষ্টিকর্ম তৈরি করেন, তবে আপনাকে অবশ্যই আপনার অবদান [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses একই লাইসেন্স বা একই রকমের লাইসেন্সের] আওতায় বিতরণ করতে হবে।",
+	"wm-license-cc-conditions-share_alike-text": "আপনি যদি কাজটি পুনঃমিশ্রণ, রুপান্তর, বা এর ওপর ভিত্তি করে নতুন সৃষ্টিকর্ম তৈরি করেন, তবে আপনাকে অবশ্যই আপনার অবদান [[ccorg:share-your-work/licensing-considerations/compatible-licenses|একই লাইসেন্স বা একই রকমের লাইসেন্সের]] আওতায় বিতরণ করতে হবে।",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.bn",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.bn",
 	"wm-license-cc-pd-mark-text": "এই ফাইলটি কপিরাইট আইনের আওতায় জানা সকল বাধানিষেধ মুক্ত বলে চিহ্নিত হয়েছে, যার মধ্যে সম্পর্কিত সকল স্বত্ব ও নেইবারিং সত্ত্ব সংযুক্ত।"

@@ -204,7 +204,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Криејтив комонс]] [[creativecommons:sa/1.0/fi/deed.en|Сподели под исти услови 1.0 Финска]].",
 	"wm-license-cc-sa-1.0-nl-text": "Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Криејтив комонс]] [[creativecommons:sa/1.0/nl/deed.en|Сподели под исти услови 1.0 Холандија]].",
 	"wm-license-cc-sa-2.0-jp-text": "Оваа податотека е под лиценцата [[{{int:wm-license-cc-wiki-link}}|Криејтив комонс]] [[creativecommons:sa/2.0/jp/deed.en|Сподели под исти услови 2.0 Јапонија]].",
-	"wm-license-cc-zero-text": "Оваа податотека е достапна под лиценцата [[{{int:wm-license-cc-wiki-link}}|Криејтив комонс]] [//creativecommons.org/publicdomain/zero/1.0/deed.mk Универзално предавање во јавна сопственост].",
+	"wm-license-cc-zero-text": "Оваа податотека е достапна под лиценцата [[{{int:wm-license-cc-wiki-link}}|Криејтив комонс]] [[ccorg\n:publicdomain/zero/1.0/deed.mk|CC0 1.0 Универзално предавање во јавна сопственост]].",
 	"wm-license-cc-zero-explanation": "Лицето поврзано со делото со овој документ го има предадено истото во [[{{int:wm-license-pd-wiki-link}}|јавна сопственост]], откажувајќи се од сите права на тоа дело за цел свет, под законот за авторско право и поврзани или сродни законски права што ги имало на тоа дело, дотолку колку што е дозволено со закон. Делата под CC0 не бараат припишување (наведување автор и/или извор). Кога го наведувате делото, наводот не треба да подразбира каква било поддршка од авторот.",
 	"wm-license-cc-free": "Можете:",
 	"wm-license-cc-free-to-share-header": "да споделите",
@@ -215,7 +215,7 @@
 	"wm-license-cc-conditions-attribution-header": "наведи извор",
 	"wm-license-cc-conditions-attribution-text": "Ќе мора да дадете прикладен припис, да ставите врска до лиценцата и да укажете дали има направено промени. Ова може да биде направено на било кој разумен начин, но без да оддава впечаток дека лиценцодавецот стои зад Вас и Вашата употреба.",
 	"wm-license-cc-conditions-share_alike-header": "сподели под исти услови",
-	"wm-license-cc-conditions-share_alike-text": "Ако го измените или преобразите делото, или пак ако основате друго дело на него, добиеното дело (придонесот) морате да го распространувате (објавувате) само под [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses истата или складна лиценца] на изворната.",
+	"wm-license-cc-conditions-share_alike-text": "Ако го измените или преобразите делото, или пак ако основате друго дело на него, добиеното дело (придонесот) морате да го распространувате (објавувате) само под [[ccorg:share-your-work/licensing-considerations/compatible-licenses|истата или складна лиценца]] на изворната.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.mk",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.mk",
 	"wm-license-cc-pd-mark-text": "Утврдено е дека оваа податотека не е ограничена со авторски права, вклучувајќи ги сите сродни и соседни права."
