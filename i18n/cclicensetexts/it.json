@@ -216,7 +216,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "Questo file è disponibile in base alla licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/fi/deed.it|Condividi allo stesso modo 1.0 Finlandia]].",
 	"wm-license-cc-sa-1.0-nl-text": "Questo file è disponibile in base alla licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.it|Condividi allo stesso modo 1.0 Paesi Bassi]].",
 	"wm-license-cc-sa-2.0-jp-text": "Questo file è disponibile in base alla licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.it|Condividi allo stesso modo 2.0 Giappone]].",
-	"wm-license-cc-zero-text": "Questo file è reso disponibile nei termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.it CC0 1.0 Universal].",
+	"wm-license-cc-zero-text": "Questo file è reso disponibile nei termini della licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[ccorg:publicdomain/zero/1.0/deed.it|CC0 1.0 Universal]].",
 	"wm-license-cc-zero-explanation": "La persona che ha associato un'opera con questo atto legale ha donato tale opera nel [[{{int:wm-license-pd-wiki-link}}|pubblico dominio]] rinunciando a tutti i diritti sull'opera in tutto il mondo, inclusi tutti i diritti connessi o altri diritti simili, per quanto permesso dalla legge. Puoi copiare, modificare, distribuire ed utilizzare l'opera, anche a fini commerciali, senza chiedere alcun permesso.",
 	"wm-license-cc-free": "Tu sei libero:",
 	"wm-license-cc-free-to-share-header": "di condividere",
@@ -227,7 +227,7 @@
 	"wm-license-cc-conditions-attribution-header": "attribuzione",
 	"wm-license-cc-conditions-attribution-text": "Devi fornire i crediti appropriati, un collegamento alla licenza e indicare se sono state apportate modifiche. Puoi farlo in qualsiasi modo ragionevole, ma non in alcun modo che suggerisca che il licenziante approvi te o il tuo uso.",
 	"wm-license-cc-conditions-share_alike-header": "condividi allo stesso modo",
-	"wm-license-cc-conditions-share_alike-text": "Se remixi, trasformi o sviluppi il materiale, devi distribuire i tuoi contributi in base alla [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses stessa licenza o compatibile] all'originale.",
+	"wm-license-cc-conditions-share_alike-text": "Se remixi, trasformi o sviluppi il materiale, devi distribuire i tuoi contributi in base alla [[ccorg:share-your-work/licensing-considerations/compatible-licenses|stessa licenza o compatibile]] all'originale.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.it",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.it",
 	"wm-license-cc-pd-mark-text": "Questo file è stato identificato come libero da restrizioni conosciute riguardanti le leggi sul copyright, compresi tutti i diritti connessi e vicini."
