@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"DDesouza",
 			"Kipala",
 			"Kwisha",
@@ -13,7 +12,8 @@
 			"Wangombe",
 			"Yasen igra",
 			"לערי ריינהארט",
-			"Kisare"
+			"Kisare",
+			"Jon Harald Søby"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalumu za Wikimedia",
@@ -49,7 +49,6 @@
 	"group-translationadmin": "Wasimamizi wa tafsiri",
 	"group-translationadmin-member": "{{GENDER:$1|msimamizi wa tafsiri}}",
 	"wikimedia-copyright": "Maandishi yanapatikana chini ya leseni ya <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike License</a>; matakwa mengine yanaweza kutakiwa.\nTazama maelezo zaidi ya <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Matakwa ya Utumiaji</a>.",
-	"wikimedia-copyrightwarning": "Unapohifadhi maandishi yako, unakubali (kwa jinsi isiotenguka) mchango wako utolewe chini ya leseni ya [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] pamoja na [https://www.gnu.org/copyleft/fdl.html GFDL].\nUnakubali utambuliwe wakati maandishi haya yatumika na wengine, angalau kwa nia ya kiungo (hyperlink) au URL kwenye ukurasa uliouchangia.\nTazama maelezo zaidi ya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Matakwa ya Utumiaji].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Karibu}}, $1!",
 	"wikibase-page-schema-author-name": "Uchangiaji katika miradi ya Wikimedia",
 	"wikibase-sitelinks-wikinews": "Wikihabari",
