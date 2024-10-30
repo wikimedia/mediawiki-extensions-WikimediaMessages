@@ -4,6 +4,7 @@
 			"-jem-",
 			"Armando-Martin",
 			"Clarkcj12",
+			"Dgstranz",
 			"Dmaza",
 			"Eulalio",
 			"Fitoschido",
@@ -22,5 +23,7 @@
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
 	"please-translate-short": "Ayuda en la traducción",
 	"thank-you": "{{GENDER:$1|Gracias.}}",
-	"specialinvestigate-feedback": "Dejar comentarios"
+	"specialinvestigate-feedback": "Dejar comentarios",
+	"graph-disabled-category": "Páginas con gráficos deshabilitados",
+	"graph-disabled-category-desc": "Esta página incluye una etiqueta <code>&lt;graph&gt;</code>, que está temporalmente deshabilitada ([[phab:T334940|T334940]])."
 }

@@ -219,7 +219,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/fi/deed.fi|JaaSamoin 1.0 Suomi]] -lisenssillä.",
 	"wm-license-cc-sa-1.0-nl-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.fi|JaaSamoin 1.0 Hollanti]] -lisenssillä.",
 	"wm-license-cc-sa-2.0-jp-text": "Tämä tiedosto on lisensoitu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.fi|JaaSamoin 2.0 Japani]] -lisenssillä.",
-	"wm-license-cc-zero-text": "Tämä teos on saatettu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.fi CC0 1.0 Yleismaailmallinen Public Domain -lausuman] alaisuuteen.",
+	"wm-license-cc-zero-text": "Tämä teos on julkaistu [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[ccorg:publicdomain/zero/1.0/deed.fi|CC0 1.0 Yleismaailmallinen Public Domain -lausuman]] alaisuudessa.",
 	"wm-license-cc-zero-explanation": "Henkilö, joka on yhdistänyt CC0:n teokseen tai viitannut siihen teoksessa, on luovuttanut teoksen vapaaseen yleiseen käyttöön [[{{int:wm-license-pd-wiki-link}}|(public domain)]] luopumalla maailmanlaajuisesti ja soveltuvan lainsäädännön sallimassa enimmäislaajuudessa kaikista tekijänoikeuslainsäädännön alaisista oikeuksistaan teokseen, lähioikeudet ja kaikki tekijänoikeuteen liittyvät oikeudet mukaan lukien. Teosta voi lupaa pyytämättä kopioida, muokata, levittää ja esittää, mukaan lukien kaupallisessa tarkoituksessa.",
 	"wm-license-cc-free": "Voit:",
 	"wm-license-cc-free-to-share-header": "jakaa",
@@ -230,7 +230,7 @@
 	"wm-license-cc-conditions-attribution-header": "nimeäminen",
 	"wm-license-cc-conditions-attribution-text": "Sinun on mainittava lähde asianmukaisesti, tarjottava linkki lisenssiin sekä merkittävä, mikäli olet tehnyt muutoksia. Voit tehdä yllä olevan millä tahansa kohtuullisella tavalla, mutta et siten, että annat ymmärtää lisenssinantajan suosittelevan sinua tai teoksen käyttöäsi.",
 	"wm-license-cc-conditions-share_alike-header": "jaa samoin",
-	"wm-license-cc-conditions-share_alike-text": "Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain tällä tai tämän kaltaisella lisenssillä.",
+	"wm-license-cc-conditions-share_alike-text": "Jos muutat tai perustat tähän työhön, voit jakaa tuloksena syntyvää työtä vain [[ccorg:share-your-work/licensing-considerations/compatible-licenses|tällä tai tämän kaltaisella lisenssillä]].",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.fi",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.fi",
 	"wm-license-cc-pd-mark-text": "Tämä teos on vapaa tunnetuista tekijänoikeuslain mukaisista rajoituksista, mukaanlukien lähioikeuksista."
