@@ -2,7 +2,6 @@
 	"@metadata": {
 		"authors": [
 			"Alsandro",
-			"Amire80",
 			"BRUTE",
 			"David1010",
 			"Dawid Deutschland",
@@ -25,7 +24,7 @@
 	},
 	"wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ka",
-	"sitesupport": "შეწირულობები",
+	"sitesupport": "შემოწირულობები",
 	"tooltip-n-sitesupport": "მხარდაჭერა",
 	"specialpages-group-contribution": "წვლილი / ფონდრაიზერი",
 	"nstab-creator": "შემქმნელი",

@@ -236,6 +236,6 @@
 	"wm-license-cc-conditions-attribution-text": "See https://creativecommons.org/licenses/by/3.0/ on how this is used.",
 	"wm-license-cc-conditions-share_alike-header": "This is not a 'lego' sentence. See https://creativecommons.org/licenses/by-sa/3.0/ on how this is used.",
 	"wm-license-cc-conditions-share_alike-text": "This is not a 'lego' sentence. See https://creativecommons.org/licenses/by/3.0/ on how this is used.",
-	"wm-license-cc-pd-mark-link": "{{optional}}",
+	"wm-license-cc-pd-mark-link": "{{notranslate}} being replaced by {{msg-mw|Wm-license-cc-pd-mark-wikilink}}",
 	"wm-license-cc-pd-mark-text": "See also:\n* {{msg-mw|Wm-license-cc-pd-mark-link}}\n\nPossible synonyms for \"identified\": \"established and recorded\", \"determined\". See [https://commons.wikimedia.org/wiki/Commons:Upload_help/Archive/2013/05#Meaning_of_identify_in_licenses Commons discussion]."
 }

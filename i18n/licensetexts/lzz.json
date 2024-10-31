@@ -4,13 +4,6 @@
 			"Cem Rize"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Bu dosyanın,\n:* '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Özgür Belgeleme Lisansı]]''''nın 1.2 sürümü ya da '''[[{{int:wm-license-fsf-wiki-link}}|Özgür Yazılım Vakfı]]''' tarafından yayımlanmış daha yeni sürümlerindeki koşullara uygun şekilde ve\n:* değişmeyen bölümler, ön kapak metni ve arka kapak metni olmaksızın,\nkopyalanması, dağıtılması ve/veya değiştirilmesine izin verilmiştir.\nLisansın bir kopyası, ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Özgür Belgeleme Lisansı]]'' başlıklı bölümde yer almaktadır.",
 	"wm-license-information-description": "Tanım",
-	"wm-license-information-source": "Kaynak",
-	"wm-license-information-date": "Tarih",
-	"wm-license-information-author": "Maç'arali",
-	"wm-license-information-permission": "İzin",
-	"wm-license-information-permission-reusing-text": "Bu dosyanın tekrar kullanımı",
-	"wm-license-own-work": "Yükleyenin kendi çalışması",
-	"wm-license-self-multiple-licenses-select": "İstediğiniz lisansı seçebilirsiniz."
+	"wm-license-information-author": "Maç'arali"
 }

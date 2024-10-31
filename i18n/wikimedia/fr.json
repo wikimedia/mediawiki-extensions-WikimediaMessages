@@ -2,7 +2,6 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
-			"Amire80",
 			"Ash Crow",
 			"Aude",
 			"BaRaN6161 TURK",
@@ -83,7 +82,8 @@
 			"לערי ריינהארט",
 			"Jsn.sherman",
 			"MacOS Weed",
-			"Bachounda"
+			"Bachounda",
+			"Mahabarata"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
@@ -397,7 +397,7 @@
 	"wikimedia-wikistats-label": "Stats Wiki",
 	"wikimedia-cookiestatement": "Déclaration sur les témoins (cookies)",
 	"ext-quicksurveys-performance-internal-survey-question": "Est-ce que cette page s’est affichée suffisamment rapidement ?",
-	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pour davantage d’informations, consultez la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement déclaration de confidentialité] de ce sondage.",
+	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pour davantage d’informations, consultez la [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement déclaration de confidentialité] de ce sondage.",
 	"wikimedia-switchover-read-only": "Vous ne pouvez pas modifier actuellement à cause d’une opération de maintenance. Copiez et enregistrez votre texte et essayez à nouveau dans quelques minutes.",
 	"passwordpolicies-policy-blockattacker": "Politique de mot de passe pour réduire les attaques connues lorsque la divulgation de détails gênerait la réduction",
 	"technical-maintenance-soon": "Une maintenance technique va bientôt être réalisée :",

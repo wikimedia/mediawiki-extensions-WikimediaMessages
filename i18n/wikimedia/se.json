@@ -8,7 +8,8 @@
 			"Skuolfi",
 			"Trondtr",
 			"Varnent",
-			"Yupik"
+			"Yupik",
+			"Jon Harald Søby"
 		]
 	},
 	"sitesupport": "Skeŋke",
@@ -74,6 +75,5 @@
 	"ipinfo-feedback-button-label": "Atte máhcahaga",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Giitu máhcahaga ovddas.",
 	"gadget-souspages-subpages": "Oalgesiiddut",
-	"research-incentive-confirm-msg": "Giitu!",
-	"wikimedia-help-translate-prompt": "Vill du hjälpa till att översätta? [$1 Translate the missing messages]."
+	"research-incentive-confirm-msg": "Giitu!"
 }

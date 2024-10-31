@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"RebecaRwanda"
+			"RebecaRwanda",
+			"RebeccaRwanda"
 		]
 	},
 	"wm-license-information-description": "Umwirondoro",
 	"wm-license-information-source": "Inkomoko",
 	"wm-license-information-date": "Itariki",
-	"wm-license-information-author": "Umwanditsi"
+	"wm-license-information-author": "Umwanditsi",
+	"wm-license-information-permission": "Uburenganzira",
+	"wm-license-information-permission-reusing-text": "Kongera gukoresha iyi dosiye",
+	"wm-license-self-multiple-licenses-select": "Ushobora guhitamo uruhushya wifuza."
 }

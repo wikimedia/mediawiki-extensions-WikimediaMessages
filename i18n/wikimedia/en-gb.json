@@ -16,7 +16,8 @@
 			"Reedy",
 			"Robin Owain",
 			"Rodrigue",
-			"Shirayuki"
+			"Shirayuki",
+			"Matma Rex"
 		]
 	},
 	"wikimedia-copyright": "Text is available under the <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike Licence</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
@@ -29,6 +30,5 @@
 	"upload-form-label-own-work-message-commons": "I attest that I own the copyright on this file, and agree to irrevocably release this file to Wikimedia Commons under the [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike 4.0] licence, and I agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use].",
 	"wikimedia-upload-nolicenses": "Uploading files to this wiki is not enabled. Please [[commons:Special:UploadWizard|upload to Wikimedia Commons]].\n\nTo be able to use this special page to upload to this wiki, an administrator needs to add one or more licence options to the page [[MediaWiki:Licenses|MediaWiki:Licences]].\n\nUse the following format: <code>* Template name|Label</code>. Use any text to enable uploading without licence options.",
 	"eri-rcfilters-tour-highlight-title": "Colour code your results",
-	"ext-campaignevents-register-policy": "By registering, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct Universal Code of Conduct], and any local Friendly Space Policy provided by the event organisers.",
-	"wikimedia-foundation-footer-description-short": "The Wikimedia Foundation, Inc is a nonprofit charitable organisation dedicated to encouraging the growth, development and distribution of free, multilingual content, and to providing the full content of these wiki-based projects to the public free of charge."
+	"ext-campaignevents-register-policy": "By registering, you agree to the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct Universal Code of Conduct], and any local Friendly Space Policy provided by the event organisers."
 }

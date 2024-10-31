@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"RebecaRwanda"
+			"RebecaRwanda",
+			"RebeccaRwanda"
 		]
 	},
 	"wm-license-cc-free": "Ufite umudendezo:",
@@ -9,6 +10,7 @@
 	"wm-license-cc-free-to-share-text": "to copy, distribute and transmit the work",
 	"wm-license-cc-free-to-remix-header": "to remix",
 	"wm-license-cc-free-to-remix-text": "gutangira ibikorwa",
+	"wm-license-cc-conditions": "Hakurikijwe amabwiriza akurikira:",
 	"wm-license-cc-conditions-attribution-header": "umurimo",
 	"wm-license-cc-conditions-share_alike-header": "imigabane isa"
 }

@@ -21,7 +21,8 @@
 			"Urhixidur",
 			"Verdy p",
 			"Wladek92",
-			"Zetud"
+			"Zetud",
+			"Mahabarata"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:fr:Creative Commons",
@@ -81,8 +82,8 @@
 	"wm-license-cc-by-2.5-si-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by/2.5/si/deed.fr|Attribution 2.5 Slovénie]].",
 	"wm-license-cc-by-2.5-tw-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by/2.5/tw/deed.fr|Attribution 2.5 Taïwan]].",
 	"wm-license-cc-by-2.5-za-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by/2.5/za/deed.fr|Attribution 2.5 Afrique du Sud]].",
-	"wm-license-cc-by-3.0-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by/3.0/deed.fr|Attribution 3.0 Non transposée]].",
-	"wm-license-cc-by-3.0-2.5-2.0-1.0-text": "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [[creativecommons:by/3.0/deed.fr|3.0 Non transposée]], [[creativecommons:by/2.5/deed.fr|2.5 Générique]], [[creativecommons:by/2.0/deed.fr|2.0 Générique]] et [[creativecommons:by/1.0/deed.fr|Générique]].",
+	"wm-license-cc-by-3.0-text": "Ce fichier est disponible selon les termes de la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/3.0/deed.fr|Attribution 3.0 Non Transposé]].",
+	"wm-license-cc-by-3.0-2.5-2.0-1.0-text": "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution [[creativecommons:by/3.0/deed.fr|3.0 Non Transposé]], [[creativecommons:by/2.5/deed.fr|2.5 Générique]], [[creativecommons:by/2.0/deed.fr|2.0 Générique]] et [[creativecommons:by/1.0/deed.fr|1.0 Générique]].",
 	"wm-license-cc-by-3.0-at-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by/3.0/at/deed.fr|Attribution 3.0 Autriche]].",
 	"wm-license-cc-by-3.0-au-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by/3.0/au/deed.fr|Attribution 3.0 Australie]].",
 	"wm-license-cc-by-3.0-br-text": "Ce fichier est disponible selon les termes de la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/3.0/br/deed.fr|Attribution 3.0 Brésil]].",
@@ -178,8 +179,8 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by-sa/2.5/si/deed.fr|Attribution – Partage dans les Mêmes Conditions 2.5 Slovénie]].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by-sa/2.5/tw/deed.fr|Attribution – Partage dans les Mêmes Conditions 2.5 Taïwan]].",
 	"wm-license-cc-by-sa-2.5-za-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by-sa/2.5/za/deed.fr|Attribution – Partage dans les Mêmes Conditions 2.5 Afrique du Sud]].",
-	"wm-license-cc-by-sa-3.0-text": "Ce fichier est disponible selon les termes de la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr Attribution – Partage dans les Mêmes Conditions 3.0 (non transposée)].",
-	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution – Partage dans les Mêmes Conditions [[creativecommons:by-sa/3.0/deed.fr|3.0 (non transposée)]], [[creativecommons:by-sa/2.5/deed.fr|2.5 Générique]], [[creativecommons:by-sa/2.0/deed.fr|2.0 Générique]] et [[creativecommons:by-sa/1.0/deed.fr|1.0 Générique]].",
+	"wm-license-cc-by-sa-3.0-text": "Ce fichier est disponible selon les termes de la licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.fr|Attribution – Partage dans les Mêmes Conditions 3.0 Non Transposé]].",
+	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Ce fichier est sous licence [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution – Partage dans les Mêmes Conditions [[creativecommons:by-sa/3.0/deed.fr|3.0 Non Transposé]], [[creativecommons:by-sa/2.5/deed.fr|2.5 Générique]], [[creativecommons:by-sa/2.0/deed.fr|2.0 Générique]] et [[creativecommons:by-sa/1.0/deed.fr|1.0 Générique]].",
 	"wm-license-cc-by-sa-3.0-at-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by-sa/3.0/at/deed.fr|Attribution – Partage dans les Mêmes Conditions 3.0 Autriche]].",
 	"wm-license-cc-by-sa-3.0-au-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by-sa/3.0/au/deed.fr|Attribution – Partage dans les Mêmes Conditions 3.0 Australie]].",
 	"wm-license-cc-by-sa-3.0-br-text": "Ce fichier est disponible selon les termes de la [[{{int:wm-license-cc-wiki-link}}|licence Creative Commons]] [[creativecommons:by-sa/3.0/br/deed.fr|Attribution – Partage dans les Mêmes Conditions 3.0 Brésil]].",
