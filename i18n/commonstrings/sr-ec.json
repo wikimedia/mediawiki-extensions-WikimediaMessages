@@ -30,5 +30,6 @@
 	"wm-commonstrings-resolutions": "{{PLURAL:$1|Резолуција|Резолуције}}",
 	"wm-commonstrings-scope": "Делокруг",
 	"wm-commonstrings-seealso": "Види још",
-	"wm-commonstrings-shortcut": "{{PLURAL:$1|Пречица|Пречице}}"
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Пречица|Пречице}}",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Шаблон|Шаблони}}"
 }

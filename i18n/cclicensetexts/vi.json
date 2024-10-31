@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Băng Tỏa",
 			"CactiStaccingCrane",
 			"Minh Nguyen",
 			"Multichill",
@@ -219,7 +220,7 @@
 	"wm-license-cc-conditions-attribution-header": "ghi công",
 	"wm-license-cc-conditions-attribution-text": "Bạn phải ghi lại tác giả và nguồn, liên kết đến giấy phép, và các thay đổi đã được thực hiện, nếu có. Bạn có thể làm các điều trên bằng bất kỳ cách hợp lý nào, miễn sao không ám chỉ rằng người cho giấy phép ủng hộ bạn hay việc sử dụng của bạn.",
 	"wm-license-cc-conditions-share_alike-header": "chia sẻ tương tự",
-	"wm-license-cc-conditions-share_alike-text": "Nếu bạn biến tấu, biến đổi, hoặc làm tác phẩm khác dựa trên tác phẩm này, bạn chỉ được phép phân phối tác phẩm mới theo [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses giấy phép y hệt hoặc tương thích] với tác phẩm gốc.",
+	"wm-license-cc-conditions-share_alike-text": "Nếu bạn biến tấu, biến đổi, hoặc tạo tác phẩm mới dựa trên tác phẩm này, bạn chỉ được phép phân phối tác phẩm mới theo [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses giấy phép y hệt hoặc tương thích] với tác phẩm gốc.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.vi",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.vi",
 	"wm-license-cc-pd-mark-text": "Tập tin này đã được đánh dấu là không bị hạn chế dưới luật bản quyền, kể cả tất cả những quyền liên quan và lần cận."

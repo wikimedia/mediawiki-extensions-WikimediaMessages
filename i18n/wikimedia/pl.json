@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ankry",
+			"BZPN",
 			"Beau",
 			"Chrumps",
 			"Derbeth",
@@ -57,7 +58,7 @@
 	"group-abusefilter": "Operatorzy filtru nadużyć",
 	"group-abusefilter-member": "{{GENDER:$1|operator|operatorka}} filtru nadużyć",
 	"grouppage-abusefilter": "{{ns:project}}:Operatorzy filtru nadużyć",
-	"group-abusefilter-helper": "Wspomagający kontrolę filtra nadużyć",
+	"group-abusefilter-helper": "Wspomagający kontrolę filtru nadużyć",
 	"group-abusefilter-helper-member": "{{GENDER:$1|wspomagający|wspomagająca}} kontrolę filtra nadużyć",
 	"group-abusefilter-maintainer": "Opiekunowie filtru nadużyć",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|opiekun|opiekunka}} filtru nadużyć",

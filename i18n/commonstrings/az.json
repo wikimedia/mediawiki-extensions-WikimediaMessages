@@ -19,7 +19,9 @@
 	"wm-commonstrings-enterquestion": "Sualınızı daxil edin.",
 	"wm-commonstrings-events": "Tədbirlər",
 	"wm-commonstrings-externallinks": "Xarici keçidlər",
+	"wm-commonstrings-feedback": "Rəy",
 	"wm-commonstrings-follow": "İzləyin",
+	"wm-commonstrings-leadership": "Liderlik",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Əsas məqalə: $1|Əsas məqalələr: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Əsas səhifə: $1|Əsas səhifələr: $1}}",
 	"wm-commonstrings-mywork": "İşim",
@@ -43,5 +45,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Qısayol|Qısayollar}}",
 	"wm-commonstrings-staff": "Heyət",
 	"wm-commonstrings-talktous": "Bizimlə danışın",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Şablon|Şablonlar}}",
 	"wm-commonstrings-updates": "Yeniləmələr"
 }

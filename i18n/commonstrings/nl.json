@@ -22,7 +22,9 @@
 	"wm-commonstrings-enterquestion": "Vul uw vraag in.",
 	"wm-commonstrings-events": "Gebeurtenissen",
 	"wm-commonstrings-externallinks": "Externe links",
+	"wm-commonstrings-feedback": "Terugkoppeling",
 	"wm-commonstrings-follow": "Volgen",
+	"wm-commonstrings-leadership": "Leiderschap",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hoofdartikel: $1|Hoofdartikelen: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hoofdpagina: $1|Hoofdpagina's: $1}}",
 	"wm-commonstrings-mywork": "Mijn werk",
@@ -46,5 +48,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Verwijzing|Verwijzingen}}",
 	"wm-commonstrings-staff": "Personeel",
 	"wm-commonstrings-talktous": "Praat met ons",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Sjabloon|Sjablonen}}",
 	"wm-commonstrings-updates": "Updates"
 }

@@ -18,7 +18,9 @@
 	"wm-commonstrings-enterquestion": "Gib eine Frage ein.",
 	"wm-commonstrings-events": "Ereignisse",
 	"wm-commonstrings-externallinks": "Externe Links",
+	"wm-commonstrings-feedback": "Rückmeldung",
 	"wm-commonstrings-follow": "Folgen",
+	"wm-commonstrings-leadership": "Führung",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hauptartikel: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hauptseite: $1|Hauptseiten: $1}}",
 	"wm-commonstrings-mywork": "Meine Arbeit",
@@ -42,5 +44,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Kürzel}}",
 	"wm-commonstrings-staff": "Mitarbeiter",
 	"wm-commonstrings-talktous": "Rede mit uns",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Vorlage|Vorlagen}}",
 	"wm-commonstrings-updates": "Aktualisierungen"
 }

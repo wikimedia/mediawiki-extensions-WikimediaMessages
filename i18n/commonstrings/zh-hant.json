@@ -20,7 +20,9 @@
 	"wm-commonstrings-enterquestion": "輸入您的問題。",
 	"wm-commonstrings-events": "事件",
 	"wm-commonstrings-externallinks": "外部連結",
+	"wm-commonstrings-feedback": "意見回饋",
 	"wm-commonstrings-follow": "關注",
+	"wm-commonstrings-leadership": "領導",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|主條目：$1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|主頁面：$1}}",
 	"wm-commonstrings-mywork": "我的工作",
@@ -44,5 +46,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|捷徑}}",
 	"wm-commonstrings-staff": "工作人員",
 	"wm-commonstrings-talktous": "給我們回饋",
+	"wm-commonstrings-templates": "{{PLURAL:$1|模板}}",
 	"wm-commonstrings-updates": "更新"
 }
