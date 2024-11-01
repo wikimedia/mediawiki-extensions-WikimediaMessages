@@ -299,6 +299,8 @@
 	"wikimedia-help-translate-prompt": "Vuoi contribuire a tradurre? [$1 Traduci i messaggi mancanti].",
 	"wikimedia-foundation-logo-label": "Logo della Wikimedia Foundation",
 	"wikimedia-foundation-mark-label": "Marchio della Wikimedia Foundation",
+	"wikimedia-foundation-department-fullname-financeadmin": "Dipartimento di amministrazione e finanza della Fondazione Wikimedia",
+	"wikimedia-foundation-department-fullname-producttech": "Dipartimento di prodotti e tecnologia della Fondazione Wikimedia",
 	"wikimedia-foundation-contact-label": "Contatta la Wikimedia Foundation",
 	"wikimedia-foundation-contact-label-short": "Contatta la Fondazione",
 	"wikimedia-nutshell-page-intro": "Questa pagina in breve: $1",
@@ -310,6 +312,7 @@
 	"wikimedia-talkheader-pageprompt": "Questa pagina è per le discussioni relative alla pagina $1.",
 	"wikimedia-talkheader-signature": "[[$1|Firma]] i tuoi commenti utilizzando quattro tildi (~~~~)",
 	"wikimedia-questions-label": "Domande per Wikimedia?",
+	"wikimedia-outdated-intro": "Questa pagina è obsoleta, ma se venisse aggiornata potrebbe essere ancora utile.",
 	"wikimedia-translation-disclaimer-nolink": "Tieni presente che, in presenza di eventuali differenze di significato o interpretazione tra la versione originale in inglese di questo documento e una traduzione, farà fede la versione originale in lingua inglese.",
 	"wikimedia-translation-disclaimer-withlink": "Tieni presente che, in presenza di eventuali differenze di significato o interpretazione tra la versione originale in inglese di questo documento e una traduzione, farà fede la [[$1|versione originale in lingua inglese]].",
 	"wikimedia-talk-archive-page-intro": "Questo è un '''archivio''' delle discussioni passate. '''Non modificare il contenuto di questa pagina.''' Se vuoi iniziare una nuova discussione o riprenderne una vecchia, fallo nella [[$1|pagina di discussione attuale]]."
