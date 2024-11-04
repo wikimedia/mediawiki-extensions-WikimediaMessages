@@ -178,8 +178,8 @@ class Hooks implements
 			'log-action-filter-usermerge-deleteuser',
 			'notification-body-oathauth-disable-other',
 			'oathauth-notifications-disable-helplink',
-			// T307493
-			'ipinfo-source-geoip2',
+			// T307493, T375090
+			'ipinfo-help-text',
 			'ipinfo-infobox-use-terms',
 			'ipinfo-preference-use-agreement',
 			'similareditors-error-default',

@@ -58,7 +58,7 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "Wikitext link pointing to the Wikimedia Foundation privacy policy for all sites. Replace Special:MyLanguage/Policy:Privacy_policy in the URL with Special:MyLanguage/Policy:Privacy_policy/''your_language'', for example, Special:MyLanguage/Policy:Privacy_policy/fr for French..\n{{Identical|Privacy policy}}",
 	"wikimedia-notification-body-oathauth-disable-other": "Notification body text for when two-factor authentication has been disabled by an administrator or sysadmin.\n$2 - Name of user for GENDER.",
 	"wikimedia-oathauth-notifications-disable-helplink": "{{notranslate}}",
-	"wikimedia-ipinfo-source-geoip2": "IPinfobox legal disclaimer",
+	"wikimedia-ipinfo-help-text": "Disclaimer about the accuracy of the data and relevant policies, shown in the IP information table on Special:Contributions. MaxMind and Spur are the names of the vendors that provide the data.",
 	"wikimedia-ipinfo-infobox-use-terms": "IPInfobox use legal terms",
 	"wikimedia-ipinfo-preference-use-agreement": "IPInfo use agreement",
 	"wikimedia-similareditors-error-default": "Error message displayed when no error key is specified",
