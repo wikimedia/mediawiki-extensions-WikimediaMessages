@@ -8,7 +8,9 @@
 			"Minh Nguyen",
 			"MuratTheTurkish",
 			"Nemo bis",
-			"Xuacu"
+			"Xuacu",
+			"Fueyas",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicos de Wikimedia",
@@ -184,7 +186,6 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Soporte y Seguridá de WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usao pol filtru d'abusos global 110.",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Ediciones feches con [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:De Wikcionariu\nb:De Wikibooks\nn:De Wikinews\nq:De Wikiquote\ns:De Wikiesbilla\nv:De Wikiversity\nvoy:De Wikivoyage",
 	"wikimedia-copyright": "El testu ta disponible baxo la <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.es\">Llicencia Creative Commons Reconocimientu/CompartirIgual 3.0</a>; puen aplicase otres cláusules más.\nLlei <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">les condiciones d'usu</a> pa más detalles.",

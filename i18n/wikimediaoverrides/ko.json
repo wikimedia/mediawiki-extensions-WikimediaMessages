@@ -13,7 +13,8 @@
 			"Ykhwong",
 			"메이",
 			"밝은소년",
-			"아라"
+			"아라",
+			"YeBoy371"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "현재 사용하고 있는 IP 주소로 이 위키에 방문한 사람이 하루 동안 {{PLURAL:$1|1개의 계정|$1개의 계정}}을 만들어, 현재의 시기에 허용되어 있는 계정 생성 제한을 초과하였습니다. 그에 따라, IP 주소를 이용하고 계시는 방문자들은 현재 더 이상의 계정을 만드실 수 없습니다. \n\n혹시 위키미디어 프로젝트에 기여하기 위한 모임 등에 참여하고 계시다면, 문제를 해결하기 위해 [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|일시적 계정생성 제한 해제요청 페이지]]를 참고해 주시기 바랍니다.",
@@ -36,7 +37,7 @@
 	"wikimedia-interfaceadmin-info": "사이트 전반에 적용되는 CSS/JS/JSON 파일의 편집은 [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] 그룹의 사용자만 가능합니다. 더 자세한 정보를 보려면 [[m:Special:MyLanguage/Creation of separate user group for editing sitewide CSS/JS|CSS/JS 문서 편집을 위한 별도의 사용자 권한 생성]]을 참고하십시오.",
 	"wikimedia-sitematrix": "위키미디어 위키 목록",
 	"wikimedia-sitematrix-others": "다른 위키미디어 프로젝트",
-	"wikimedia-sitematrix-summary": "모든 위키미디어 위키의 목록입니다.",
+	"wikimedia-sitematrix-summary": "이 특수문서는 위키미디어의 모든 위키를 나열합니다.",
 	"wikimedia-ipb-confirmhideuser": "\"사용자 숨기기\" 처리된 사용자를 차단하려고 합니다. 이 위키의 모든 목록과 기록에서 해당 사용자의 이름을 숨기게 됩니다. 정말로 이 작업을 수행하시겠습니까?\n\n이 계정 이름을 모든 위키미디어 위키에서 숨겨야 한다면, [[m:Special:EmailUser/Wikimedia_Stewards|위키 내 이메일 보내기 기능]] 또는 <kbd>stewards@wikimedia.org</kbd> 를 통해 [[m:Special:MyLanguage/Stewards|사무장]]에게 연락해 주십시오.",
 	"wikimedia-webauthn-module-description": "WebAuthn(웹 인증)은 월드 와이드 웹 컨소시엄(W3C)에서 발표한 웹 표준입니다. WebAuthn은 FIDO 연합의 지침에 따른 FIDO2 프로젝트의 핵심 요소입니다. 이 프로젝트의 목표는 공개 키 암호를 사용하여 사용자를 웹 기반 응용 프로그램 및 서비스로 인증하기 위한 인터페이스를 표준화하는 것입니다. [https://en.wikipedia.org/wiki/WebAuthn 자세히 보기]. 인증 기기를 처음 등록한 위키로 로그인이 필요함을 알려드립니다.",
 	"wikimedia-webauthn-ui-login-prompt": "확인 장치를 터치하거나 브라우저의 지시를 따르세요. 인증 장치를 처음 등록한 동일한 위키에 로그인해야 합니다.",

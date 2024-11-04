@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Ernác",
-			"Iltever"
+			"Iltever",
+			"Къарачайлы"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:krc:Creative Commons",
-	"wm-license-cc-attribution": "Авторлукъну чертиу",
+	"wm-license-cc-attribution": "Атрибуция",
 	"wm-license-cc-by-1.0-text": "Бу файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/ Attribution 1.0 Generic] лицензияны хайырландырады",
 	"wm-license-cc-by-1.0-fi-text": "Бу файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/ Attribution 1.0 Finland] лицензияны хайырландырады.",
 	"wm-license-cc-by-1.0-il-text": "Бу файл [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/ Attribution 1.0 Israel] лицензияны хайырландырады.",

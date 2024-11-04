@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Dbc334",
-			"Eleassar"
+			"Eleassar",
+			"Upwinxp"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Obiskovalci tega vikija z vašim IP-naslovom so v zadnjem dnevu ustvarili {{PLURAL:$1|1 račun|$1 računa|$1 račune|$1 računov}}, kar je največje dovoljeno število v takem časovnem obdobju.\nObiskovalci, ki uporabljajo ta IP-naslov, zato trenutno ne morejo ustvariti nobenega računa več.\n\nČe ste na dogodku, osredotočenem na prispevanje k projektom Wikimedie, glejte za pomoč pri odpravljanju te težave stran [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Zahtevanje začasne odprave omejitve za IP-naslove]] (v angleščini).",

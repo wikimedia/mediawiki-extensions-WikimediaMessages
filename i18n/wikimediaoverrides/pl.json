@@ -9,7 +9,9 @@
 			"Railfail536",
 			"Tar Lócesilion",
 			"WTM",
-			"Woytecr"
+			"Woytecr",
+			"Msz2001",
+			"Odder"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Z adresu IP, z którego korzystasz {{PLURAL:$1|ktoś już utworzył dziś konto|utworzono dziś $1 konta|utworzono dziś $1 kont}} w ciągu ostatniej doby, co jest maksymalną dopuszczalną liczbą w tym czasie.\nW związku z tym, osoby korzystające z tego adresu IP w chwili obecnej nie mogą założyć kolejnego konta.\n\nJeżeli znajdujesz się właśnie na wydarzeniu o tematyce edytowania projektów Wikimedia, zobacz stronę [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], gdzie znajdują się wskazówki jak poradzić sobie z tym ograniczeniem.",

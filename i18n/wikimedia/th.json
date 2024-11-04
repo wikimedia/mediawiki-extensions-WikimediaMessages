@@ -205,7 +205,6 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|ฝ่ายสนับสนุนและความปลอดภัยของมูลนิธิ}}",
 	"tag-emoji": "อิโมจี",
 	"tag-emoji-description": "ใช้งานโดยตัวกรองการแก้ไขหมายเลข 110",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "การแก้ไขที่สร้างโดย [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:จากวิกิพจนานุกรม\nb:จากวิกิตำรา\nn:จากวิกิข่าว\nq:จากวิกิคำคม\ns:จากวิกิซอร์ซ\nv:จากวิกิวิทยาลัย\nvoy:จากวิกิท่องเที่ยว",
 	"shared-repo-name-shared": "วิกิมีเดียคอมมอนส์",

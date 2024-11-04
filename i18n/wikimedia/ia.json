@@ -4,7 +4,9 @@
 			"Julian Mendez",
 			"Malafaya",
 			"McDutchie",
-			"Nemo bis"
+			"Nemo bis",
+			"Matma Rex",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Messages specific de Wikimedia",
@@ -204,7 +206,6 @@
 	"grouppage-wmf-ops-monitoring": "mw:Operationes technic de Wikimedia",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usate per le filtro anti-abuso global 110.",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Modificationes facite con [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:De Wiktionario\nb:De Wikilibros\nn:De Wikinovas\nq:De Wikiquote\ns:De Wikisource\nv:De Wikiversitate\nvoy:De Wikiviage",
 	"wikimedia-copyright": "Le texto es disponibile sub le <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">licentia Creative Commons Attribution-ShareAlike</a>; additional conditiones pote esser in vigor.\nVide <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Conditiones de uso</a> pro detalios.",

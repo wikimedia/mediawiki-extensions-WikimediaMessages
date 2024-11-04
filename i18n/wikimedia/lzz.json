@@ -6,7 +6,6 @@
 			"Victor Trevor"
 		]
 	},
-	"sitesupport": "Bağışlar",
 	"tooltip-n-sitesupport": "Mxuci momçit",
 	"wikimedia-copyright": "Metin <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Atıf-BenzerPaylaşım Lisansı</a> altındadır. Ek koşullar geçerli olabilir. Ayrıntılar için <a href=\"https://meta.wikimedia.org/wiki/Terms_of_use/tr\">Kullanım Şartları</a>na bakınız.",
 	"wikimedia-copyrightwarning": "Değişiklikleri yayımlayarak, [https://foundation.wikimedia.org/wiki/Terms_of_Use Kullanım Şartlarını] kabul etmiş ve değişikliklerinizin, [https://tr.wikipedia.org/wiki/Vikipedi:Creative_Commons_Atıf-AynıLisanslaPaylaş_3.0_Yerelleştirilmemiş_lisans_metni CC BY-SA 3.0 lisansı] ve [https://tr.wikipedia.org/wiki/Vikipedi:GNU_Özgür_Belgeleme_Lisansı GÖBL] kapsamında, geri döndürülemez bir biçimde yayımlanmasını kabul etmiş olursunuz.\nCreative Commons lisansı uyarınca bir link (bağlantı) ya da URL ile katkı(ları)nıza atıf yapılmasının yeterli olacağını da kabul ediyorsunuz.",
@@ -14,7 +13,6 @@
 	"wikibase-sitelinks-wikiquote": "Vik'inena",
 	"wikibase-sitelinks-wikisource": "Vikisorsi",
 	"wikibase-sitelinks-wikivoyage": "Vikivoiji",
-	"wikimedia-developers": "Geliştiriciler",
 	"wikimedia-globalblocking-ipblocked": "'''IP adresiniz [[m:Special:MyLanguage/Global blocks|tüm vikilerde engellenmiştir]].'''\n\nEngel ($2 projesinde) $1 tarafından uygulanmıştır. Verilen gerekçe: ''$3''\n\n* Engel başlangıcı: $4\n* Engelin sonlanması: $5\n\nIP adresiniz: $6\nKonu ile ilgili yapacağınız tüm işlemlerde yukarıdaki ayrıntıları eklemeyi unutmayın.\n\nEğer yanlışlıkla engelleme yapıldığını düşünüyorsanız ek bilgiler vikinizde mevcut olup, küresel politikalar uyarınca [[m:Special:MyLanguage/No open proxies|açık vekil sunucuların]] engellendiğini unutmamalısınız.\nBunun aksi durumlarda, görüşlerinizi bildirmek amacıyla [[m:Steward requests/Global|Meta-Wiki projesinde inceleme isteğinde bulunabilirsiniz]].",
 	"wikimedia-globalblocking-ipblocked-xff": "\"Üzerinden istem gerçekleştirdiğiniz ''proxy''lerden biri veya daha fazlası [[m:Special:MyLanguage/Global blocks|küresel olarak engellenmiştir]].\"\n\nEngeli veren: $1 ($2)\nVerilen sebep: \"$3\"\n\n* Engelin başlangıcı: $4\n* Engelin bitişi: $5\n\nEngellenen IP adresi: $6\nLütfen herhangi bir istekte bulunurken yukardaki bütün detayları ekleyiniz.\n\nEngellemenin bir hata olduğunu düşünüyorsanız, küresel [[m:Special:MyLanguage/No open proxies|\"Açık proxylere hayır\"]] politikasında ek bilgilere ve talimatlara ulaşabilirsiniz. Bunun dışında engeli tartışmak için lütfen [[m:Steward requests/Global|Meta-Wiki'de değerlendirilmesi için talebinizi iletin]]."
 }

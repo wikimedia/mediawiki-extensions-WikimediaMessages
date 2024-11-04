@@ -20,7 +20,8 @@
 			"דגש חזק",
 			"לואיקה",
 			"תומר ט",
-			"아라"
+			"아라",
+			"מקף"
 		]
 	},
 	"wikimediamessages-desc": "הודעות המיוחדות לוויקימדיה",
@@ -204,7 +205,6 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:צוות תמיכה ובטיחות של קרן ויקימדיה",
 	"tag-emoji": "אמוג'י",
 	"tag-emoji-description": "בשימוש על־ידי מסנן ההשחתות הגלובלי מספר 110.",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "עריכות שנעשו באמצעות [https://he.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:תוצאות מוויקימילון\nb:תוצאות מוויקיספר\nn:תוצאות מוויקיחדשות\nq:תוצאות מוויקיציטוט\ns:תוצאות מוויקיטקסט\nv:תוצאות מוויקיברסיטה\nvoy:תוצאות מוויקימסע",
 	"shared-repo-name-shared": "ויקישיתוף",

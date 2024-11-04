@@ -14,7 +14,8 @@
 			"Savh",
 			"Toliño",
 			"Xosé",
-			"Xabier Cid"
+			"Xabier Cid",
+			"Varnent"
 		]
 	},
 	"wikimediamessages-desc": "Mensaxes específicas da Wikimedia",
@@ -195,7 +196,6 @@
 	"grouppage-wmf-supportsafety": "{{ns:project}}:Soporte e Seguridade WMF",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usado para o filtro de abuso global 110.",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Edicións feitas a través de [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:De Wikcionario\nb:De Wikilibros\nn:De Wikinoticias\nq:De Wikiquote\ns:De Wikisource\nv:De Wikiversidade\nvoy:De Wikiviaxes",
 	"wikimedia-copyright": "Todos os textos están dispoñibles baixo a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.gl\">licenza Creative Commons recoñecemento compartir igual 3.0</a>; pode ser que se apliquen algunhas condicións suplementarias. Consulte os <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use/gl\">termos de uso</a> para obter máis información.",

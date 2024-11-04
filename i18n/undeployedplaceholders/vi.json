@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"NguoiDungKhongDinhDanh",
-			"Tryvix1509"
+			"Tryvix1509",
+			"Hide on Rosé"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|đã trộn}} tài khoản thành viên \"$4\" ($5) thành {{GENDER:$8|$6}} ($7)",

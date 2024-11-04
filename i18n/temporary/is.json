@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Maxí"
+			"Maxí",
+			"Snævar",
+			"Stefán Örvar Sigmundsson"
 		]
 	},
 	"thank-you": "{{GENDER:$1|Takk fyrir.}}"
