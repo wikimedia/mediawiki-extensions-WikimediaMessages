@@ -18,7 +18,9 @@
 	"wm-commonstrings-enterquestion": "Внесете го вашето прашање.",
 	"wm-commonstrings-events": "Настани",
 	"wm-commonstrings-externallinks": "Надворешни врски",
+	"wm-commonstrings-feedback": "Мислења",
 	"wm-commonstrings-follow": "Следи",
+	"wm-commonstrings-leadership": "Водство",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Главна страница: $1|Главни страници: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Главна страница: $1|Главни страници: $1}}",
 	"wm-commonstrings-mywork": "Мојата работа",
@@ -42,5 +44,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Кратенка|Кратенки}}",
 	"wm-commonstrings-staff": "Персонал",
 	"wm-commonstrings-talktous": "Разговарајте со нас",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Предлошка|Предлошки}}",
 	"wm-commonstrings-updates": "Новости"
 }

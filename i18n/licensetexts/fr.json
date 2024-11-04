@@ -63,7 +63,7 @@
 	"wm-license-creator-linkback": "Lien vers le modèle d’infobox du créateur",
 	"wm-license-fal-text": "Copyleft : cette œuvre d’art est libre ; vous pouvez la redistribuer ou la modifier selon les termes de la '''[[{{int:wm-license-fal-wiki-link}}|licence Art Libre]]'''. Vous trouverez un exemplaire de cette licence sur le [{{int:wm-license-fal-full-link}} site Copyleft Attitude] ainsi que [{{int:wm-license-fal-full-link-commons}} sur d’autres sites].",
 	"wm-license-fal-wiki-link": "w:fr:Licence Art Libre",
-	"wm-license-fal-full-link": "http://artlibre.org/lal",
+	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/en/",
 	"wm-license-fal-full-link-commons": "https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3",
 	"wm-license-fsf-wiki-link": "w:fr:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:fr:Logiciel libre",
