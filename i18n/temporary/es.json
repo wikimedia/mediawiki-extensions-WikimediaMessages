@@ -12,7 +12,8 @@
 			"Matiia",
 			"PoLuX124",
 			"Syum90",
-			"Eulalio"
+			"Eulalio",
+			"Dgstranz"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes temporales específicos de Wikimedia",
@@ -23,5 +24,6 @@
 	"please-translate": "Por favor, ayuda a traducir a tu idioma",
 	"thank-you": "{{GENDER:$1|Gracias.}}",
 	"specialblockfeedback": "Sugerencias",
-	"specialinvestigate-feedback": "Dejar comentarios"
+	"specialinvestigate-feedback": "Dejar comentarios",
+	"graph-disabled-category": "Páginas con gráficos deshabilitados"
 }
