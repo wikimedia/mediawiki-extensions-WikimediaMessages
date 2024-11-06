@@ -47,7 +47,6 @@
 	"wikimedia-webauthn-ui-login-prompt": "Dotkněte se prosím svého ověřovacího zařízení nebo následujte pokyny prohlížeče. Uvědomte si prosím, že se budete muset přihlašovat ke stejné wiki, na které jste si původně zaregistrovali své ověřovací zařízení.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://meta.wikimedia.org/wiki/Privacy_policy/cs Ochrana osobních údajů]",
 	"wikimedia-notification-body-oathauth-disable-other": "Pokud jste o to {{GENDER:$2|nežádal|nežádala|nežádali}}, {{GENDER:$2|měl|měla|měli}} byste kontaktovat WMF Trust & Safety.",
-	"wikimedia-ipinfo-source-geoip2": "Vaše užívání tohoto nástroje se řídí [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pokyny k nástroji Informace o IP].",
 	"wikimedia-ipinfo-infobox-use-terms": "Nástroj Informace o IP používá databázi MaxMind, aby zobrazil podrobnosti, jako jsou přibližná poloha, proxy a počet zařízení sdílejících tuto IP adresu. Před jeho zapnutím si prosím pročtěte [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pokyny k nástroji Informace o IP].",
 	"wikimedia-ipinfo-preference-use-agreement": "Prohlašuji, že budu tento nástroj používat v souladu s [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pokyny k nástroji Informace o IP], výhradně pro vyšetřování nebo prevenci vandalismu, zneužívání a dalších porušení pravidel nadace Wikimedia nebo komunity.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Vaše IP adresa byla [[m:Special:MyLanguage/Global blocks|zablokována na všech wiki]].",

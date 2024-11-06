@@ -50,7 +50,6 @@
 	"wikimedia-webauthn-ui-login-prompt": "נא לגעת במכשיר האימות שלך או לעקוב אחר ההוראות מהדפדפן. נא לשים לב לכך שיש להיכנס לאותו הוויקי שהשתמשת בו במקור כדי לרשום את המכשיר שלך",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy מדיניות הפרטיות]",
 	"wikimedia-notification-body-oathauth-disable-other": "אם לא {{GENDER:$2|ביקשת}} את זה, כדאי ליצור קשר עם צוות אמון ובטיחות (Trust and Safety) של קרן ויקימדיה.",
-	"wikimedia-ipinfo-source-geoip2": "השימוש שלך בכלי הזה נעשה לפי [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines הנחיות כלי המידע על IP].",
 	"wikimedia-ipinfo-infobox-use-terms": "כלי המידע על IP משתמש במסדי נתונים של מקסמיינד כדי להציג פרטים כגון מיקום מוערך, שרת מתווך (פרוקסי), וכמה מכשירים משתפים את כתובת ה־IP הזאת. נא לסקור את [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines הנחיות כלי המידע על IP] לפני הפעלתו.",
 	"wikimedia-ipinfo-preference-use-agreement": "אני {{GENDER:|מסכים|מסכימה}} להשתמש בכלי הזה לפי [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines הנחיות כלי המידע על IP], רק למען חקירה או מניעה של השחתה, שימוש לרעה, או הפרות אחרות של דפי מדיניות של קרן ויקימדיה או של הקהילה.",
 	"wikimedia-similareditors-error-default": "משהו השתבש, אנחנו בודקים את זה. אם הבעיה ממשיכה, אפשר למצוא אותנו [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors כאן].",

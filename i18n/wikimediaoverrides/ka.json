@@ -23,7 +23,6 @@
 	"wikimedia-sitematrix-others": "ვიკიმედიის სხვა პროექტები",
 	"wikimedia-sitematrix-summary": "ამ სპეციალურ გვერდზე წარმოდგენილია ვიკიმედიის ყველა ვიკი.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy კონფიდენციალურობის პოლიტიკა]",
-	"wikimedia-ipinfo-source-geoip2": "თქვენ მიერ ამ ხელსაწყოს მოხმარება განსაზღვრულია [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP-ის ინფორმაციის ხელსაწყოს ძირითადი პრინციპებით].",
 	"wikimedia-ipinfo-preference-use-agreement": "ვეთანხმები, რომ ამ ხელსაწყოს გამოვიყენებ [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP-ის ინფორმაციის ხელსაწყოს ძირითადი პრინციპების] შესაბამისად, მხოლოდ ვანდალიზის, ბოროტად გამოყენებისა და ფონდი ვიკიმედიის ან საზოგადოების პოლიტიკის სხვა დარღვევების გამოძიების ან თავიდან აცილების მიზნით.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "!თქვენი IP-მისამართი [[m:Special:MyLanguage/Global blocks|ყველა ვიკი-პროექტში დაიბლოკა]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "ერთი ან მეტი პროქსი-სერვერი, რომელსაც თქვენ იყენებთ, [[m:Special:MyLanguage/Global blocks|ყველა ვიკი-პროექტში დაიბლოკა]].",

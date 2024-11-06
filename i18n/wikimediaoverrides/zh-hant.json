@@ -53,7 +53,6 @@
 	"wikimedia-webauthn-module-description": "'''不推薦：'''WebAuthn（Web Authentication）是全球資訊網協會（W3C）發布的一個網路標準。WebAuthn是FIDO聯盟領導下FIDO2專案的核心部件。該專案旨在使用公鑰加密來標準化使用者向基於網路的應用或服務驗證身分時的介面。[https://zh.wikipedia.org/wiki/WebAuthn 了解更多]。請注意，您需要登入到您最初註冊驗證裝置時所在的同一個wiki。您還須組態瀏覽器以接受來自其他所有姊妹wiki的cookie。如果不知道如何操作，您可能無法完成登入。因此，目前對於大多數使用者來說，不建議採用此方法。",
 	"wikimedia-webauthn-ui-login-prompt": "請輕觸您的驗證設備或是依照瀏覽器的說明進行。請注意您需要在原先註冊的驗證設備裡，登入到相同的 wiki 上",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隱私政策]",
-	"wikimedia-ipinfo-source-geoip2": "您對本工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP資訊工具指引]的約束。",
 	"wikimedia-ipinfo-preference-use-agreement": "我同意根據[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP資訊工具指引]來使用本工具，僅用於調查或阻止破壞、濫用或其他違反維基媒體基金會及社群方針的行為。",
 	"wikimedia-centralauth-admin-log-otherwiki": "此帳號已被鎖定。參見[[meta:Special:CentralAuth/$1|元維基的全域帳號詳情]]以取得更多詳情。",
 	"wikimedia-globalblocking-blockedtext-on-range": "您的IP位址處於[[m:Special:MyLanguage/Global blocks|所有維基媒體基金會wiki上被封鎖]]的區段範圍內。",

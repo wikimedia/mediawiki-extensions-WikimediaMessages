@@ -48,7 +48,6 @@
 	"wikimedia-ipb-confirmhideuser": "「利用者名の秘匿」を有効にして利用者をブロックしようとしています。実行すると、このウィキのすべての一覧や記録項目で、その利用者名が表示されなくなります。本当に実行しますか?\n\nウィキメディアのすべてのウィキで利用者名を秘匿する必要がある場合、[[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|ウィキ上のメール送信]]または<kbd>stewards-oversight@wikimedia.org</kbd>宛のメールで[[m:Special:MyLanguage/Stewards|スチュワード]]に連絡してください。よろしくお願いします。",
 	"wikimedia-urlshortener-disabled": "短縮URLは meta.wikimedia.org の [[:m:Special:UrlShortener|Special:UrlShortener]] のページでのみ生成できます。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ja プライバシー・ポリシー]",
-	"wikimedia-ipinfo-source-geoip2": "このツールは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]に基づいて使用する必要があります。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP 情報ツールは、MaxMind データベースを使用して、おおよその位置、プロキシ、およびこの IP アドレスを共有しているデバイスの数などの詳細を表示します。有効にする前に、[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 情報ツールのガイドライン] を確認してください。",
 	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]に従い、荒らしやその他ウィキメディア財団またはコミュニティの方針に対する違反行為の阻止または調査のためにのみ、このツールを使用することに同意します。",
 	"wikimedia-centralauth-admin-log-otherwiki": "このアカウントはロックされています。詳細は [[meta:Special:CentralAuth/$1|メタウィキのグローバルアカウント情報]] をご覧ください。",
