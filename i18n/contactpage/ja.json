@@ -11,8 +11,10 @@
 		]
 	},
 	"contactpage-pagetext-requestlicense": "ウィキメディアの商標利用に関するお問い合わせは、下記のフォームをご利用ください。",
+	"contactpage-subject-requestlicense": "ウィキメディアの商標利用申請",
 	"contactpage-license-request-username": "利用者名",
 	"contactpage-license-request-relevantsite": "関連するウィキメディア サイト（ある場合）",
+	"contactpage-license-request-group": "ウィキメディアの国・地域別協会、テーマ別組織、またはユーザーグループとタイトル(ある場合)",
 	"contactpage-license-request-use-online": "オンライン (ウェブサイト、メール)",
 	"contactpage-license-request-use-print": "印刷",
 	"contactpage-wikimedia-trademark-foundation": "ウィキメディア財団",
@@ -28,5 +30,10 @@
 	"contactpage-wikimedia-trademark-wiktionary": "ウィクショナリー",
 	"contactpage-wikimedia-trademark-wikivoyage": "Wikivoyage",
 	"contactpage-affcom-chapter-thorg-elections-label": "選挙",
-	"contactpage-movecom-signup-affiliation-foundation": "ウィキメディア財団"
+	"contactpage-affcom-chapter-thorg-coc-label": "行動規範",
+	"contactpage-movecom-signup-affiliation-foundation": "ウィキメディア財団",
+	"contactpage-movecom-signup-display-username": "利用者名",
+	"contactpage-movecom-signup-display-nameusername": "名前と利用者名",
+	"contactpage-emailsent-accountvanishapps": "リクエストを送信",
+	"contactpage-accountvanishapps-details": "リクエストに関する追加情報"
 }
