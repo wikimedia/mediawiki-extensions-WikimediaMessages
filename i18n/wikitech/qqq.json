@@ -4,9 +4,6 @@
 			"MarcoAurelio"
 		]
 	},
-	"group-contentadmin": "{{optional}}\n{{doc-group|contentadmin}}\nSpecific user group description for Wikitech.",
-	"group-contentadmin-member": "{{optional}}\n{{doc-group|contentadmin|member}}\nSpecific user group for Wikitech.",
-	"grouppage-contentadmin": "{{optional}}\n{{doc-group|contentadmin|page}}\nSpecific user group information page for Wikitech.",
 	"group-oathauth": "{{optional}}\n{{doc-group|oathauth}}\nSpecific user group description for Wikitech.",
 	"group-oathauth-member": "{{optional}}\n{{doc-group|oathauth|member}}\nSpecific user group description for Wikitech.",
 	"grouppage-oathauth": "{{optional}}\n{{doc-group|oathauth|page}}\nSpecific user group description for Wikitech."
