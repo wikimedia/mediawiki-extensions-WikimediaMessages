@@ -3,7 +3,8 @@
 		"authors": [
 			"Les Meloures",
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Volvox"
 		]
 	},
 	"contactpage-subject-requestlicense": "Ufro fir e Wikimedia-Markenzeechen ze benotzen",
@@ -23,11 +24,13 @@
 	"contactpage-license-abuse-location": "Plaz vum Mëssbrauch (online/offline)",
 	"contactpage-license-abuse-yourcontact": "Är Kontaktinformatiounen (wann Dir wëllt datt mir Iech kontaktéieren)",
 	"contactpage-affcom-user-group-description-label": "'''Beschreiwung'''\n* Sot eis wgl. wat Är Grupp wëlles huet.",
-	"contactpage-affcom-user-group-leaders-label": "'''Dräi aktiv Wikimedianer'''\n* Gitt wgl. den Numm, d'E-Mail-Adress an de Wikimedia-Benotzernumm fir dräi Gruppe-Leader un.",
-	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Wat fir e Logo wëllt Dir fir Äre Grupp benotzen?",
+	"contactpage-affcom-user-group-wikipage-label": "'''Wikisäit'''\n* Gitt wgl. e Link op d'Meta-Wiki-Säit vun Ärer Grupp un. Falls Dir nach keng Säit hutt, kënnt Dir dëse [[Special:MyLanguage/Wikimedia_user_groups/Wikipage_setup_guide|Setup-Guide]] consultéieren. Är Meta-Wiki-Säit sollt enthalen:\n** Grondleeënd Informatiounen iwwer Är Grupp; an\n** eng Iwwersiicht iwwer déi geplangten Aktivitéite vun Ärer Grupp am éischte Joer.",
+	"contactpage-affcom-user-group-leaders-label": "'''Dräi aktiv Wikimedianer'''\n* Gitt wgl. den Numm, d'E-Mail-Adress an de Wikimedia-Benotzernumm vun '''3 Memmberen''' u mat '''300 oder méi Kontributiounen''' op engem Wikimedia-Projet ënner engem registréierte Kont, dee méi wéi '''6 Méint''' al ass.",
+	"contactpage-affcom-user-group-logo-label": "'''Logo'''\n* Verlinkt wgl. op de Commons-Fichier vum Logo vun Ärer Benotzergrupp.",
 	"contactpage-affcom-user-group-logo-wm-logo": "''Wann Dir de '''Wikimedia-Logo''' benotze wëllt, da  [[Special:Contact/requestlicense|frot eng 'Trademark-Lizenz' un]].''",
 	"contactpage-affcom-user-group-logo-community": "Logo vun der Wikimedia-Communautéit",
 	"contactpage-affcom-user-group-logo-affiliate": "Logo vun engem deen u Wikimedia affiliéiert ass",
+	"contactpage-affcom-user-group-fromname": "'''Grondleeënd Informatiounen'''\n* Ären Numm",
 	"contactpage-affcom-chapter-thorg-elections-label": "Walen",
 	"contactpage-affcom-chapter-thorg-representation-label": "Duerstellung",
 	"contactpage-affcom-chapter-thorg-coc-label": "Verhalenskodex",
