@@ -12,6 +12,7 @@
 	"wm-commonstrings-connect": "연결",
 	"wm-commonstrings-contactus": "문의하기",
 	"wm-commonstrings-events": "행사",
+	"wm-commonstrings-feedback": "피드백",
 	"wm-commonstrings-noticeboard": "공지",
 	"wm-commonstrings-objectives": "목표",
 	"wm-commonstrings-ongoing": "진행 중",
@@ -28,5 +29,6 @@
 	"wm-commonstrings-seealso": "같이 보기",
 	"wm-commonstrings-staff": "직원",
 	"wm-commonstrings-talktous": "우리와 토론",
+	"wm-commonstrings-templates": "{{PLURAL:$1|틀}}",
 	"wm-commonstrings-updates": "업데이트"
 }
