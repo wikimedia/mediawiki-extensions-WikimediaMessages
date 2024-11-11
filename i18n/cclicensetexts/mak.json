@@ -4,10 +4,16 @@
 			"Han4299"
 		]
 	},
+	"wm-license-cc-attribution": "''Attiribusi''",
+	"wm-license-cc-by-sa-3.0-text": "Anne barakkarak nilisensikangi i rawanngangna [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] lisensi.",
 	"wm-license-cc-free": "Ikatte nikellai:",
 	"wm-license-cc-free-to-share-header": "poro attawa",
+	"wm-license-cc-free-to-share-text": "poro appalemba, ampattawai, siagáng ampaletteki anne jamánga",
 	"wm-license-cc-free-to-remix-header": "poro angguba",
+	"wm-license-cc-free-to-remix-text": "Poro assiratangi anne jama-jamánga",
+	"wm-license-cc-conditions": "Ri sesena kaniakang kammaya anne:",
 	"wm-license-cc-conditions-attribution-header": "attiribusi",
 	"wm-license-cc-conditions-attribution-text": "Anda harus mencantumkan atribusi yang sesuai, memberikan pranala ke lisensi, dan memberi tahu bila ada perubahan. Anda dapat melakukannya melalui cara yang Anda inginkan, namun tidak menyatakan bahwa pemberi lisensi mendukung Anda atau penggunaan Anda.",
-	"wm-license-cc-conditions-share_alike-header": "attawa sangkamma"
+	"wm-license-cc-conditions-share_alike-header": "attawa sangkamma",
+	"wm-license-cc-conditions-share_alike-text": "Punna ikatte appasileok, appapinra, iareka ambangung ri sikamma materialaka, ikatte musti attawa-tawai pattawa-tawaengta ri [[ccorg:share-your-work/licensing-considerations/compatible-licenses|same or compatible license]] singkamma assalakna."
 }
