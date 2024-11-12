@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mdupont"
+			"Mdupont",
+			"Legoktm"
 		]
 	},
 	"wm-license-cc-attribution": "Pushtet",
@@ -109,7 +110,7 @@
 	"wm-license-cc-by-sa-2.1-es-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.1/es/|Attribution-Share njësoj 2,1 Spanjë]] licencës.",
 	"wm-license-cc-by-sa-2.1-jp-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.1/jp/|Attribution-Share njësoj 2,1 Japoni]] licencës.",
 	"wm-license-cc-by-sa-2.5-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/|[Attribution- Share njësoj 2.5 Generic]] licencës.",
-	"wm-license-cc-by-sa-2.5-2.0-1.0-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share njësoj [[creativecommons:by-sa/2.5/|2.5 Generic]], [Generic http://creativecommons.org/licenses/by-sa/2.0/ 2.0] dhe [[creativecommons:by-sa/1.0/|Attribution 1.0 Generic]] licencës.",
+	"wm-license-cc-by-sa-2.5-2.0-1.0-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share njësoj [[creativecommons:by-sa/2.5/|2.5 Generic]], [[creativecommons:by-sa/2.0/|2.0 Generic]] dhe [[creativecommons:by-sa/1.0/|Attribution 1.0 Generic]] licencës.",
 	"wm-license-cc-by-sa-2.5-ar-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/ar/|Attribution-Share njësoj 2.5 Argjentinë]] licencës.",
 	"wm-license-cc-by-sa-2.5-au-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/au/|Attribution-Share njësoj 2.5 Australi]] licencës.",
 	"wm-license-cc-by-sa-2.5-bg-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/bg/|Attribution-Share njësoj 2.5 Bullgari]] licencës.",
@@ -162,9 +163,9 @@
 	"wm-license-cc-by-sa-3.0-tw-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/tw/|Attribution-Share njësoj 3.0 Tajvan]] licencës.",
 	"wm-license-cc-by-sa-3.0-us-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/us/|Attribution-Share njësoj 3.0 Shtetet e Bashkuara të]] licencës.",
 	"wm-license-cc-sa-1.0-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons Share]] [[creativecommons:sa/1.0/deed.en|njësoj Attribution 1.0 Generic]] licencës.",
-	"wm-license-cc-sa-1.0-fi-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [https://creativecommons.org/licenses/sa/1.0/fi/deed.en] [Share njësoj Attribution 1.0 Finlandë] licencës.",
-	"wm-license-cc-sa-1.0-nl-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [https://creativecommons.org/licenses/sa/1.0/nl/deed.en] [Share njësoj Attribution 1.0 Hollandë] licencës.",
-	"wm-license-cc-sa-2.0-jp-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons] [https://creativecommons.org/licenses/sa/2.0/jp/deed.en] [Share njësoj 2.0 Japoni] licencës.",
+	"wm-license-cc-sa-1.0-fi-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/fi/deed.en|Share njësoj Attribution 1.0 Finlandë]] licencës.",
+	"wm-license-cc-sa-1.0-nl-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.en|Share njësoj Attribution 1.0 Hollandë]] licencës.",
+	"wm-license-cc-sa-2.0-jp-text": "Kjo skedë është i liçensuar nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.en|Share njësoj 2.0 Japoni]] licencës.",
 	"wm-license-cc-zero-text": "Ky skedar është bërë në dispozicion nën [[{{int:wm-license-cc-wiki-link}}|Creative Commons CC0]] [//creativecommons.org/publicdomain/zero/1.0/deed.en dokument i heqjes dorë] .",
 	"wm-license-cc-zero-explanation": "Personi i cili lidhur një punë me këtë dokument ka kushtuar të punojë për të Commons duke shmangur të gjitha të drejtat e tij apo të saj në të gjithë botën punojnë sipas ligjit të drejtën e autorit dhe të gjitha të lidhura ose të të drejtave fqinje ligjore që ai apo ajo e kishte në punë, në masën e lejuar me ligj. Punon me CC0 nuk kërkojnë pushtet. Kur duke përmendur punën, ju nuk duhet nënkuptuar përkrahje nga autori.",
 	"wm-license-cc-free": "Ju jeni të lirë:",

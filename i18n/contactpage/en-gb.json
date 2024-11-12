@@ -1,7 +1,6 @@
 {
 	"@metadata": {
 		"authors": [
-			"Amire80",
 			"Andibing",
 			"Bjh21",
 			"Chase me ladies, I'm the Cavalry",
@@ -9,17 +8,16 @@
 			"Mako001",
 			"Mvolz",
 			"Reedy",
-			"Shirayuki"
+			"Shirayuki",
+			"Samthecrazyman"
 		]
 	},
 	"contactpage-title-requestlicense": "Request a licence form",
 	"contactpage-license-request-group": "Wikimedia chapter, thematic organisation, or user group & title (if any)",
 	"contactpage-license-request-organization": "Organisation (if applicable)",
 	"contactpage-license-request-organization-type": "Organisation type (if applicable)",
-	"contactpage-license-request-use-tv": "TV, film or broadcast",
 	"contactpage-license-request-use-note": "<strong>Note:</strong> if we grant a trademark permission, we may list your use in a public list of authorised uses.",
 	"contactpage-wikimedia-trademark-w": "Stylised \"W\"",
-	"contactpage-pagetext-licenseabuse": "Please use the form below to contact us about someone whom you suspect is abusing or misusing a Wikimedia trademark.",
 	"contactpage-affcom-user-group-location-label": "'''Location'''\n* Please provide your country and city, so we can keep track of our user groups around the World. If global in reach, simply put \"Internet\".",
 	"contactpage-affcom-user-group-rules-label": "'''User group rules'''\n* You are eligible to form a user group if you have at least 3 members with 300 or more contributions to a Wikimedia project on a registered account that has existed for more than 6 months and comply with the [[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|User group agreement and code of conduct]]:\n* You should follow the [[foundation:Special:MyLanguage/Policy:Trademark policy|trademark policy]]\n* You are independent from other Wikimedia organisations\n* After submitting this application, a member of the [[Special:MyLanguage/Affiliations Committee|Affiliations Committee]] will contact you shortly to help you with the next steps\n* Learn more about [[Special:MyLanguage/Wikimedia user groups|Wikimedia user groups]]",
 	"contactpage-affcom-user-group-logo-wm-logo": "''If you wish to use the '''Wikimedia logo''', you may [[Special:Contact/requestlicense|request a trademark licence]].''",

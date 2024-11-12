@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Meno25"
 		]
 	},
 	"wm-commonstrings-activities": "الأنشطة",
@@ -28,7 +29,7 @@
 	"wm-commonstrings-questions": "أسئلة؟",
 	"wm-commonstrings-register-account": "تسجيل حساب",
 	"wm-commonstrings-reports": "تقارير",
-	"wm-commonstrings-resolutions": "القرارات",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|القرار|القرارات}}",
 	"wm-commonstrings-scope": "نطاق التغطية",
 	"wm-commonstrings-seealso": "انظر أيضا",
 	"wm-commonstrings-staff": "موظفون",

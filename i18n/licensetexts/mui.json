@@ -4,9 +4,13 @@
 			"Jawadywn"
 		]
 	},
-	"wm-license-information-description": "Gambaran",
+	"wm-license-gfdl-1.2-and-later": "Ijin dienju'ke buat ngepé', ngécérke teko/apo ngeroba berekas ni asa' ketemu sarat-sarat '''[[{{int:wm-license-gfdl-wiki-link}}|Surat Ijin Dokuméntasi Bébas GNU]]''', Pérsi 1.2 apo yang buncitan dari [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; asa' kati' Bagian Invarian, kati' Tulisan Sampul Luan, teko kati' Tulisan Sampul Buri. Kepé'an surat ijin ni dimasu'ke di bagian dengen aranan ''[[{{int:wm-license-gfdl-full-1.2-link}}|Surat Ijin Dokuméntasi Bébas GNU]]''.",
+	"wm-license-information-description": "Keterangan",
 	"wm-license-information-source": "Sumber",
 	"wm-license-information-date": "Tanggal",
-	"wm-license-information-author": "Yang mbuat",
-	"wm-license-information-permission": "Ijin"
+	"wm-license-information-author": "Yang ngawé'",
+	"wm-license-information-permission": "Ijin",
+	"wm-license-information-permission-reusing-text": "Makî balén setuo ni",
+	"wm-license-own-work": "Gawîan déwé'",
+	"wm-license-self-multiple-licenses-select": "Dulur paca' mîlî surat ijin sema'mano gala'nyo."
 }
