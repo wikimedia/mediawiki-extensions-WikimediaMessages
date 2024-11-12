@@ -17,7 +17,9 @@
 	"wm-commonstrings-enterquestion": "Vpišite svoje pytanje.",
 	"wm-commonstrings-events": "Sobytja",
 	"wm-commonstrings-externallinks": "Vněšnje linky",
+	"wm-commonstrings-feedback": "Povratne informacije",
 	"wm-commonstrings-follow": "Slědovati",
+	"wm-commonstrings-leadership": "Rukovodstvo",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Glavny članok: $1|Glavne članky: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Glavna stranica: $1|Glavne stranice: $1}}",
 	"wm-commonstrings-mywork": "Moja rabota",
@@ -41,5 +43,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Skrat|Skraty}}",
 	"wm-commonstrings-staff": "Personal",
 	"wm-commonstrings-talktous": "Razgovoriti s nami",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Šablon|Šablony}}",
 	"wm-commonstrings-updates": "Obnovjenja"
 }

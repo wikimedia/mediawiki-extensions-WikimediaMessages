@@ -21,7 +21,9 @@
 	"wm-commonstrings-enterquestion": "输入您的问题。",
 	"wm-commonstrings-events": "事件",
 	"wm-commonstrings-externallinks": "外部链接",
+	"wm-commonstrings-feedback": "反馈",
 	"wm-commonstrings-follow": "关注",
+	"wm-commonstrings-leadership": "领导",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|主条目：$1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|主页面：$1}}",
 	"wm-commonstrings-mywork": "我的作品",
@@ -45,5 +47,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|快捷方式}}",
 	"wm-commonstrings-staff": "职员",
 	"wm-commonstrings-talktous": "与我们讨论",
+	"wm-commonstrings-templates": "{{PLURAL:$1|模板}}",
 	"wm-commonstrings-updates": "更新"
 }

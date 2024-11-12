@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Boesenbergia"
+			"Boesenbergia",
+			"Munajad.MH"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "atribusi",
 	"wm-license-cc-conditions-attribution-text": "Bâ'nâ kodhu aberri' pangakowan sè teppa', aberri' pranala ḍâ' lèlla-lèlla, bân aberri' tao mon bâḍâ obâ'ân. Bâ'na ngennèng alampa'aghi lèbât cara sè èkaterrowè bâ'na, tapè rèya ta' neptepaghi mon orèng sè aberri' lèlla makoko otabâ pangangghuyânna bâ'na.",
 	"wm-license-cc-conditions-share_alike-header": "AbâgiMaghâs",
-	"wm-license-cc-conditions-share_alike-text": "Mon bâ'na ngobâ otabâ aghâbây toronan ḍâri karjâ rèya, bâ'na kodhu manyalambher dhurrun bâ'na è bâbâ [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses lèlla sè paḍâ] ènga' lèlla ḍâ' karjâ sokkla."
+	"wm-license-cc-conditions-share_alike-text": "Menabi Dhika ngabhâstah, ngaobâ, otabâ aghâbây sèun alèngghâi materi kamaksot, Dhika kodhu ngadistribusi'aghi dhurrun Dhika dâ' pandhâp [[ccorg:share-your-work/licensing-considerations/compatible-licenses|lisensi sè samè otabâ kompatibel]] samaghâ materi aslina."
 }
