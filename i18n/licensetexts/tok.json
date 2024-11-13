@@ -3,10 +3,18 @@
 		"authors": [
 			"Frzzl",
 			"LesVisages",
-			"Robin van der Vliet"
+			"Robin van der Vliet",
+			"Tamzin"
 		]
 	},
 	"wm-license-book-language": "toki",
+	"wm-license-gfdl-1.2-and-later": "jan li ken sama e lipu ni, li ken pana e ona, li ken ante e ona tan lawa \"'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''\" nanpa 1.2 anu lawa sin tan kulupu [[{{int:wm-license-fsf-wiki-link}}|Free Software]]. ni li kepeken ala kipisi pi ante ala, kepeken ala toki sinpin, kepeken ala toki monsi. lawa li lon lipu \"''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''\".",
+	"wm-license-information-description": "sona",
+	"wm-license-information-source": "tan",
 	"wm-license-information-date": "nanpa tenpo",
-	"wm-license-information-author": "jan sitelen"
+	"wm-license-information-author": "jan sitelen",
+	"wm-license-information-permission": "ken",
+	"wm-license-information-permission-reusing-text": "kepeken ijo",
+	"wm-license-own-work": "pali mi",
+	"wm-license-self-multiple-licenses-select": "sina ken kepeken lawa tan wile"
 }
