@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Freeyak",
-			"Phurbutsering"
+			"Phurbutsering",
+			"Midleading"
 		]
 	},
 	"sitesupport": "ཞལ་འདེབས།",
 	"tooltip-n-sitesupport": "ང་ཚོར་རོགས་སྐྱོར།",
-	"group-founder-member": "{{GENDER:$1|གསར་གཏོད་བྱེད་མཁན།}}"
+	"group-founder-member": "{{GENDER:$1|གསར་གཏོད་བྱེད་མཁན།}}",
+	"wikibase-otherprojects-wikipedia": "ཤོག་ངོས་མེད་པ།"
 }

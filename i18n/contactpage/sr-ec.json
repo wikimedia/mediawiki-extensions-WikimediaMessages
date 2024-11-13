@@ -8,9 +8,20 @@
 		]
 	},
 	"contactpage-license-request-username": "Корисничко име",
+	"contactpage-license-request-use-proposed": "Жељена употреба",
+	"contactpage-license-request-use-online": "онлајн (веб-сајт, имејл)",
+	"contactpage-license-request-use-book": "књига, периодика",
+	"contactpage-license-request-use-print": "штампано",
+	"contactpage-license-request-use-tv": "телевизија, филм или емисија",
+	"contactpage-license-request-use-other": "друго",
+	"contactpage-license-request-description": "Опис употребе",
+	"contactpage-wikimedia-trademark-globe": "Википедијина кугла",
+	"contactpage-wikimedia-trademark-wikiwordmark": "Википедија - текст",
+	"contactpage-wikimedia-trademark-w": "Стилизовано „W”",
 	"contactpage-wikimedia-trademark-foundation": "Задужбина Викимедије",
 	"contactpage-wikimedia-trademark-commons": "Викимедијина остава",
 	"contactpage-wikimedia-trademark-incubator": "Викимедијин инкубатор",
+	"contactpage-wikimedia-trademark-mediawiki": "Медијавики",
 	"contactpage-wikimedia-trademark-wikiquote": "Викицитати",
 	"contactpage-wikimedia-trademark-wikibooks": "Викикњиге",
 	"contactpage-wikimedia-trademark-wikimania": "Викиманија",
@@ -18,5 +29,11 @@
 	"contactpage-wikimedia-trademark-wikinews": "Викиновости",
 	"contactpage-wikimedia-trademark-wikisource": "Викизворник",
 	"contactpage-wikimedia-trademark-wikispecies": "Викиврсте",
-	"contactpage-wikimedia-trademark-wiktionary": "Викиречник"
+	"contactpage-wikimedia-trademark-wikiversity": "Викиверзитет",
+	"contactpage-wikimedia-trademark-wiktionary": "Викиречник",
+	"contactpage-wikimedia-trademark-wikivoyage": "Википутовања",
+	"contactpage-movecom-signup-affiliation-foundation": "Задужбина Викимедија",
+	"contactpage-movecom-signup-display-name": "Име",
+	"contactpage-movecom-signup-display-username": "Корисничко име",
+	"contactpage-movecom-signup-display-nameusername": "Име и корисничко име"
 }

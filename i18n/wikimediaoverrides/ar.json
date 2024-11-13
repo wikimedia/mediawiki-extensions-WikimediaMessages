@@ -64,8 +64,8 @@
 	"wikimedia-ipinfo-preference-use-agreement": "أوافق على استخدام هذه الأداة وفقًا لـ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي]، فقط من أجل التحقيق أو منع التخريب أو الإساءة أو الانتهاكات الأخرى لمؤسسة ويكيميديا أو سياسات المجتمع.",
 	"wikimedia-similareditors-error-default": "حدث خطأ ما ، نحن نبحث فيه. إذا استمرت المشكلة ، يرجى التواصل معنا [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors هنا].",
 	"wikimedia-centralauth-admin-log-otherwiki": "الحساب مغلق. طالع [[meta:Special:CentralAuth/$1|تفاصيل الحساب العالمي على الميتاويكي]] لمزيدٍ من التفاصيل.",
-	"wikimedia-globalblocking-blockedtext-all-wikis": "عنوان IP الخاص بك كان [[m: Special: MyLanguage / Global block | محظور على جميع الويكي]].",
-	"wikimedia-globalblocking-blockedtext-on-proxy": "خادم وكيل واحد أو أكثر يستخدمه طلبك هو [[m: Special: MyLanguage / Global block | محظور عالميًا]].",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "لقد تم حظر عنوان IP الخاص بك [[m:Special:MyLanguage/Global blocks|على جميع الويكيات]].",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "تم حظر واحد أو أكثر من خوادم الوكيل المستخدمة في طلبك [[m:Special:MyLanguage/Global blocks|عالميا]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "النطاق المحظور هو $1 .",
 	"wikimedia-globalblocking-blockedtext-proxy": "كان عنوان الوكيل المحظور $1 .",
 	"wikimedia-globalblocking-blockedtext-mistake": "إذا كنت تعتقد أنه تم حظرك عن طريق الخطأ، يمكنك العثور على معلومات وإرشادات إضافية في السياسة العامة [[m:Special:MyLanguage/No open proxies\n||لا وكلاء مفتوحين|]].\nخلاف ذلك، لمناقشة الحجب، يرجى [[m:Steward requests/Global|نشر طلب للمراجعة على ميتا ويكي]]."
