@@ -16,7 +16,8 @@
 			"Thibaut120094",
 			"Urhixidur",
 			"Verdy p",
-			"Zetud"
+			"Zetud",
+			"Mahabarata"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Le détenteur des droits d’auteur de ce fichier, $1, autorise n’importe qui à l’utiliser '''pour n’importe quelle utilisation, pourvu que''' le détenteur des droits d’auteur soit correctement attribué. La redistribution, les œuvres dérivées, l’utilisation commerciale et toutes les autres utilisations sont autorisées.",
@@ -62,7 +63,7 @@
 	"wm-license-creator-linkback": "Lien vers le modèle d’infobox du créateur",
 	"wm-license-fal-text": "Copyleft : cette œuvre d’art est libre ; vous pouvez la redistribuer ou la modifier selon les termes de la '''[[{{int:wm-license-fal-wiki-link}}|licence Art Libre]]'''. Vous trouverez un exemplaire de cette licence sur le [{{int:wm-license-fal-full-link}} site Copyleft Attitude] ainsi que [{{int:wm-license-fal-full-link-commons}} sur d’autres sites].",
 	"wm-license-fal-wiki-link": "w:fr:Licence Art Libre",
-	"wm-license-fal-full-link": "http://artlibre.org/lal",
+	"wm-license-fal-full-link": "http://artlibre.org/licence/lal/en/",
 	"wm-license-fal-full-link-commons": "https://commons.wikimedia.org/wiki/Commons:Free_Art_License_1.3",
 	"wm-license-fsf-wiki-link": "w:fr:Free Software Foundation",
 	"wm-license-free-software-wiki-link": "w:fr:Logiciel libre",
@@ -71,6 +72,7 @@
 	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;seulement",
 	"wm-license-gfdl-1.3-and-later": "Vous avez la permission de copier, distribuer et modifier ce document selon les termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.3 ou toute version ultérieure publiée par la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], sans sections inaltérables, sans texte de première page de couverture et sans texte de dernière page de couverture. Un exemplaire de la licence est inclus dans la section intitulée ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.3-only": "Vous avez la permission de copier, distribuer et modifier ce document selon les termes de la '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''' version 1.3 publiée par la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], sans sections inaltérables, sans texte de première page de couverture et sans texte de dernière page de couverture. Un exemplaire de la licence est inclus dans la section intitulée ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.3-only-header": "1.3&nbsp;only",
 	"wm-license-gfdl-wiki-link": "w:fr:Licence de documentation libre GNU",
 	"wm-license-gpl-text": "Cette œuvre est un [[{{int:wm-license-free-software-wiki-link}}|logiciel libre]] ; vous pouvez la redistribuer ou la modifier suivant les termes de la '''[[{{int:wm-license-gpl-wiki-link}}|Licence publique générale GNU]]''' telle que publiée par la [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], soit la version 2 de cette License, soit une version ultérieure. Cette œuvre est distribuée dans l’espoir qu’elle sera utile, mais '''sans aucune garantie''', pas même la garantie implicite de '''commercialisabilité''' ni celle '''d’adéquation à un besoin particulier'''. Consultez la [{{int:wm-license-gpl-2-full-link}} version 2] et la [{{int:wm-license-gpl-3-full-link}} version 3 de la GNU General Public License] pour plus de détails.",
 	"wm-license-gpl-wiki-link": "w:fr:Licence publique générale GNU",
@@ -122,5 +124,6 @@
 	"wm-license-self-one-license-with-author": "$1, en tant que détenteur des droits d’auteur sur cette œuvre, la publie sous la licence suivante :",
 	"wm-license-self-multiple-licenses": "Moi, en tant que détenteur des droits d’auteur sur cette œuvre, je la publie sous les licences suivantes :",
 	"wm-license-self-multiple-licenses-with-author": "$1, en tant que détenteur des droits d’auteur sur cette œuvre, la publie sous les licences suivantes :",
-	"wm-license-self-multiple-licenses-select": "Vous pouvez choisir l’une de ces licences."
+	"wm-license-self-multiple-licenses-select": "Vous pouvez choisir l’une de ces licences.",
+	"wm-license-self-invalid-parameter": "Paramètre non valide. Ce modèle de domaine public ne doit pas être utilisé dans le modèle personnel."
 }
