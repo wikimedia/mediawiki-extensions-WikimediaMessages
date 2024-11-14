@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"H78c67c"
+			"H78c67c",
+			"Shinjiman"
 		]
 	},
+	"wm-commonstrings-background": "背景",
 	"wm-commonstrings-please-remember": "請記得去：$1",
+	"wm-commonstrings-purpose": "目的",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|捷徑}}"
 }
