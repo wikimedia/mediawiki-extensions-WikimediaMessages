@@ -56,6 +56,7 @@
 	"wikimedia-webauthn-module-description": "'''不推荐：'''WebAuthn（Web Authentication）是万维网联盟（W3C）发布的一个网络标准。WebAuthn是FIDO联盟领导下FIDO2项目的核心部件。该项目旨在使用公钥加密来标准化用户向基于网络的应用或服务验证身份时的界面。[https://zh.wikipedia.org/wiki/WebAuthn 了解更多]。请注意，您需要登录到您最初注册验证设备时所在的同一个wiki。您还须配置浏览器以接受来自其他所有姊妹wiki的cookie。如果不知道如何操作，您可能无法完成登录。因此，目前对于大多数用户来说，不建议采用此方法。",
 	"wikimedia-webauthn-ui-login-prompt": "请触摸您的验证设备或按照浏览器中的说明进行操作。请注意，您需要登录到您最初注册验证设备的同一个wiki",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隐私政策]",
+	"wikimedia-notification-body-oathauth-disable-other": "如果{{GENDER:$2|您}}并未提出此要求，{{GENDER:$2|您}}应当联系基金会信任和安全团队。",
 	"wikimedia-ipinfo-source-geoip2": "您对本工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]的约束。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP信息工具使用MaxMind数据库来显示诸如粗略位置、代理信息，共享IP的设备数等详细信息。启用前，请阅读[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]。",
 	"wikimedia-ipinfo-preference-use-agreement": "我同意根据[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]来使用本工具，仅用于调查或阻止破坏、滥用或其他违反维基媒体基金会及社群方针的行为。",

@@ -4,11 +4,13 @@
 			"Han4299"
 		]
 	},
+	"wm-license-gfdl-1.2-and-later": "Ninanroimi appalemba, attawa-tawai siagáng/iareka appinrai anne dokumenga i rawanngana anne atoranga '''[[{{int:wm-license-gfdl-wiki-link}}|Lisensi Dokumentasi Bebas GNU]]''', ''versi'' 1.2 iareka kaminang berua na nipaumba ri [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; taena bageang ''invarian'', taena ukirang ulu-dallekangna siagáng ukirang ulu-bokoangna. Anu nipalembaya nipantama mae ri bageang ajjuduluk ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisensi Dokumentasi Bebas GNU]]''.",
 	"wm-license-information-description": "Pappakasingarrang",
 	"wm-license-information-source": "Assalak",
 	"wm-license-information-date": "Tanggalak",
 	"wm-license-information-author": "Paparek",
 	"wm-license-information-permission": "Panngellai",
 	"wm-license-information-permission-reusing-text": "Ammake poleang anne barakkasak",
-	"wm-license-own-work": "Parek tunggaleng"
+	"wm-license-own-work": "Parek tunggaleng",
+	"wm-license-self-multiple-licenses-select": "Akkullekik ammile ''lisensi'' pileangta."
 }
