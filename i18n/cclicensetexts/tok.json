@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Juwan",
 			"Tamzin"
 		]
 	},
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "sina ken ante e lipu",
 	"wm-license-cc-conditions": "tan lawa ni:",
 	"wm-license-cc-conditions-attribution-header": "tan",
-	"wm-license-cc-conditions-attribution-text": "sina o toki e nimi pi jan pali, o linja tawa lawa kepeken, o toki e ni: sina ante ala ante e lipu? ni la sina ken kepeken nasin toki pona ale. taso sina ken ala toki e ni: \"jan pali li toki pona lon pali mi.\"",
+	"wm-license-cc-conditions-attribution-text": "o toki e nimi pi jan pali. o linja tawa lawa kepeken. o toki e ni: sina ante ala ante e lipu? ni la sina ken kepeken nasin toki pona ale. taso sina ken ala toki e ni: \"jan pali li toki pona lon pali mi.\"",
 	"wm-license-cc-conditions-share_alike-header": "o pana sama",
 	"wm-license-cc-conditions-share_alike-text": "sina ante e lipu la, sina o pana e pali sin kepeken [[ccorg:share-your-work/licensing-considerations/compatible-licenses|lawa sama]]."
 }
