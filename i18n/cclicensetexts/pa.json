@@ -5,10 +5,11 @@
 			"Satdeep gill",
 			"TariButtar",
 			"Tow",
-			"Jagseer S Sidhu"
+			"Jagseer S Sidhu",
+			"Cabal"
 		]
 	},
-	"wm-license-cc-attribution": "ਐਟਰੀਬਿਊਸ਼ਨ",
+	"wm-license-cc-attribution": "ਗੁਣਾਂ ਦੀ ਦੱਸ",
 	"wm-license-cc-by-1.0-text": "ਇਹ ਫਾਈਲ  [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/deed.en Attribution 1.0 Generic] ਲਸੰਸ ਹੇਠ ਉਪਲੱਬਧ ਹੈ।",
 	"wm-license-cc-by-1.0-fi-text": "ਇਹ ਫਾਈਲ   [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/fi/deed.en Attribution 1.0 Finland] ਲਸੰਸ ਹੇਠ ਉਪਲੱਬਧ ਹੈ।",
 	"wm-license-cc-by-1.0-il-text": "ਇਹ ਫਾਈਲ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/by/1.0/il/deed.en Attribution 1.0 Israel] ਲਸੰਸ ਹੇਠ ਉਪਲੱਬਧ ਹੈ।",
@@ -19,10 +20,10 @@
 	"wm-license-cc-by-sa-3.0-text": "ਇਸ ਫ਼ਾਈਲ ਦਾ ਲਸੰਸ [[{{int:wm-license-cc-wiki-link}}|ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼]] [https://creativecommons.org/licenses/by-sa/3.0/deed.en ਐਟ੍ਰੀਬਿਊਸ਼ਨ-ਸ਼ੇਅਰ ਅਲਾਈਕ 3.0 ਅਨਪੋਰਟੇਡ] ਹੈ।",
 	"wm-license-cc-sa-1.0-fi-text": "ਇਹ ਫਾਈਲ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/fi/deed.en Share Alike 1.0 Finland] ਲਸੰਸ ਹੇਠ ਉਪਲੱਬਧ ਹੈ।",
 	"wm-license-cc-free": "ਤੁਹਾਨੂੰ ਖੁੱਲ੍ਹ ਹੈ:",
-	"wm-license-cc-free-to-share-header": "ਸਾਂਝਾ ਕਰਨ ਦੀ",
-	"wm-license-cc-free-to-share-text": "ਰਚਨਾ ਨੂੰ ਕਾਪੀ, ਵੰਡਣਾ ਅਤੇ ਭੇਜਣਾ",
-	"wm-license-cc-free-to-remix-header": "ਮੁੜ-ਰਲ਼ਾਉਣ ਦੀ",
-	"wm-license-cc-free-to-remix-text": "ਰਚਨਾ ਨੂੰ ਢਾਲਣਾ",
+	"wm-license-cc-free-to-share-header": "ਸਾਂਝਾ ਕਰਨ ਲਈ",
+	"wm-license-cc-free-to-share-text": "ਕੰਮ ਦੀ ਨਕਲ, ਵੰਡ ਅਤੇ ਭੇਜਣ ਲਈ",
+	"wm-license-cc-free-to-remix-header": "ਮੁੜ-ਰਲ਼ਾਉਣ ਲਈ",
+	"wm-license-cc-free-to-remix-text": "ਕੰਮ ਨੂੰ ਢਾਲਣ ਲਈ",
 	"wm-license-cc-conditions": "ਥੱਲੇ ਲਿਖੀਆਂ ਸ਼ਰਤਾਂ ਹੇਠ:",
 	"wm-license-cc-conditions-attribution-header": "ਗੁਣਾਂ ਦੀ ਦੱਸ",
 	"wm-license-cc-conditions-attribution-text": "ਉਚਿਤ ਕ੍ਰੈਡਿਟ ਦੇਵੋ, ਲਾਇਸੰਸ ਦਾ ਇੱਕ ਲਿੰਕ ਪ੍ਰਦਾਨ ਕਰੋ ਅਤੇ ਇਹ ਦਰਸਾਓ ਕਿ ਕੀ ਤਬਦੀਲੀਆਂ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ। ਤੁਸੀਂ ਇਹ ਕਿਸੇ ਵੀ ਵਾਜਬ ਤਰੀਕੇ ਨਾਲ ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਇਹ ਤਰੀਕਾ ਅਜਿਹਾ ਨਹੀਂ ਹੋਣਾ ਚਾਹੀਦਾ ਜੋ ਇਹ ਦਰਸਾਵੇ ਕਿ ਲਾਇਸੰਸਕਰਤਾ ਤੁਹਾਨੂੰ ਜਾਂ ਤੁਹਾਡੀ ਵਰਤੋਂ ਦਾ ਸਮਰਥਨ ਕਰਦਾ ਹੈ।",

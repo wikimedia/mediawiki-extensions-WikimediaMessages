@@ -34,7 +34,8 @@
 			"WTM",
 			"Woytecr",
 			"Varnent",
-			"BZPN"
+			"BZPN",
+			"Darellur"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -316,7 +317,7 @@
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Wybory do Rady Powierniczej",
 	"wikimedia-statslink": "Statystyki",
-	"wikimedia-cookiestatement": "Komunikat na temat ciasteczek",
+	"wikimedia-cookiestatement": "Oświadczenie o ciasteczkach",
 	"ext-quicksurveys-performance-internal-survey-question": "Czy strona ładowała się wystarczająco szybko?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Zobacz [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement zasady prywatności] tej ankiety aby dowiedzieć się więcej.",
 	"wikimedia-switchover-read-only": "Nie możesz teraz edytować z powodów konserwacyjnych. Skopiuj i zapisz tekst swojej edycji, a następnie spróbuj ponownie za parę minut.",
