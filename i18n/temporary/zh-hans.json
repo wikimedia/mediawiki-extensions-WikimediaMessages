@@ -19,5 +19,5 @@
 	"thank-you": "{{GENDER:$1|感谢您。}}",
 	"specialinvestigate-feedback": "意见反馈",
 	"graph-disabled-category": "含有暂时停用图表的页面",
-	"graph-disabled-category-desc": "该页面包含<code><graph></code>标签，该标签暂时不可用（[[phab:T334940|T334940]]）。"
+	"graph-disabled-category-desc": "该页面包含<code>&lt;graph&gt;</code>标签，该标签暂时不可用（[[phab:T334940|T334940]]）。"
 }
