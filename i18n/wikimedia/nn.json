@@ -124,6 +124,8 @@
 	"group-translationadmin": "Omsetjingsadministratorar",
 	"group-translationadmin-member": "{{GENDER:$1|omsetjingsadministrator}}",
 	"grouppage-translationadmin": "{{ns:project}}:Omsetjingsadministratorar",
+	"group-wmf-supportsafety": "WMF støtte og tryggleik",
+	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF støtte og tryggleik}}",
 	"tag-emoji-description": "Nytta av globalt endringsfilter 110.",
 	"search-interwiki-custom": "wikt:Frå Wiktionary\nb:Frå Wikibøker\nn:Frå Wikinytt\nq:Frå Wikifrasar\ns:Frå Wikikjelda\nv:Frå Wikiversity\nvoy:Frå Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",

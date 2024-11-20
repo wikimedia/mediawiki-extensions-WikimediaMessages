@@ -205,7 +205,7 @@
 	"group-global-interface-editor": "Глобальные редакторы интерфейса",
 	"group-global-interface-editor-member": "{{GENDER:$1|глобальный редактор интерфейса}}",
 	"group-global-renamer": "Переименовывающие глобально",
-	"group-global-renamer-member": "{{GENDER:$1|переименовывающий глобально|переименовывающая глобально}}",
+	"group-global-renamer-member": "{{GENDER:$1|глобальный переименовывающий|глобальная переименовывающая}}",
 	"group-global-rollbacker": "Глобальные откатывающие",
 	"group-global-rollbacker-member": "{{GENDER:$1|глобальный откатывающий|глобальная откатывающая}}",
 	"group-global-sysop": "Глобальные администраторы",
