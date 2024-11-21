@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tamzin"
+			"Tamzin",
+			"Juwan"
 		]
 	},
 	"wm-license-cc-attribution": "tan",
-	"wm-license-cc-by-sa-3.0-text": "ijo ni la lawa \"[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]]\" li lawa e kepeken.",
+	"wm-license-cc-by-sa-3.0-text": "sitelen ni la lawa \"[[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]]\" li lawa e kepeken.",
 	"wm-license-cc-free": "sina ken ni:",
 	"wm-license-cc-free-to-share-header": "sina ken pana",
 	"wm-license-cc-free-to-share-text": "sina ken sama e lipu, li ken pana e ona",
@@ -13,6 +14,6 @@
 	"wm-license-cc-free-to-remix-text": "sina ken ante e lipu",
 	"wm-license-cc-conditions": "tan lawa ni:",
 	"wm-license-cc-conditions-attribution-header": "tan",
-	"wm-license-cc-conditions-attribution-text": "sina o toki e nimi pi jan pali, o linja tawa lawa kepeken, o toki e ni: sina ante ala ante e lipu? ni la sina ken kepeken nasin toki pona ale. taso sina ken ala toki e ni: \"jan pali li toki pona lon pali mi.\"",
+	"wm-license-cc-conditions-attribution-text": "o toki e nimi pi jan pali. o linja tawa lawa kepeken. o toki e ni: sina ante ala ante e lipu? ni la sina ken kepeken nasin toki pona ale. taso sina ken ala toki e ni: \"jan pali li toki pona lon pali mi.\"",
 	"wm-license-cc-conditions-share_alike-header": "o pana sama"
 }

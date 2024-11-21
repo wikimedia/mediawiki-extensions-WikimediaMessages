@@ -7,17 +7,18 @@
 			"Tbodt",
 			"Varnent",
 			"שוקו מוקה",
-			"Tamzin"
+			"Tamzin",
+			"Juwan"
 		]
 	},
 	"sitesupport": "o pana e mani",
 	"shared-repo-name-shared": "lipu Wikimesija pi ijo kulupu",
 	"wikimedia-copyrightwarning": "sina pana e ante la, sina toki e ni: \"mi kute e [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use lawa kepeken pi esun Wikimesija]. mi pana e ante mi kepeken [https://creativecommons.org/licenses/by-sa/4.0/deed.en lawa CC BY-SA 4.0] kepeken [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License lawa GFDL]. jan li kepeken ante ni la, ona li ken toki taso e nimi linja anu nimi URL.\"",
 	"wikibase-repo-name": "lipu Wikitata",
-	"wikibase-sitelinks-wikinews": "lipu Wikinusu",
-	"wikibase-sitelinks-wikiquote": "lipu Wikikoto",
-	"wikibase-sitelinks-wikisource": "lipu Wikisoso",
-	"wikibase-sitelinks-wikivoyage": "lipu Wikiwajasa",
+	"wikibase-sitelinks-wikinews": "lipu Wikinews",
+	"wikibase-sitelinks-wikiquote": "lipu Wikiquote",
+	"wikibase-sitelinks-wikisource": "lipu Wikisource",
+	"wikibase-sitelinks-wikivoyage": "lipu Wikivoyage",
 	"wikibase-otherprojects-testwikidata": "lipu Wikitata",
 	"wikibase-otherprojects-wikidata": "lipu Wikitata",
 	"wikibase-otherprojects-wikipedia": "lipu Wikipesija",
@@ -25,7 +26,7 @@
 	"wikimedia-developers": "jan pi pali ilo",
 	"interlanguage-link-wikipedia": "lipu Wikipesija",
 	"wikimedia-statslink": "nanpa",
-	"wikimedia-cookiestatement": "lipu lawa pi ilo nanpa Kuki",
+	"wikimedia-cookiestatement": "lipu lawa pi nanpa sona alasa",
 	"wikimedia-help-translate-prompt": "o wile ala wile pana e toki pona tawa ni? [$1 pana e toki pona tawa toki ala].",
 	"wikimedia-nutshell-page-intro": "lili la: $1"
 }
