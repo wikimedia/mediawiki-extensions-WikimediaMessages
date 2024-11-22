@@ -116,5 +116,6 @@
 	"wm-license-self-one-license-with-author": "$1، صاحب حقوق التأليف والنشر لهذا العمل، أنشر هذا العمل تحت الرخصة التالية:",
 	"wm-license-self-multiple-licenses": "أنا، صاحب حقوق التأليف والنشر لهذا العمل، أنشر هذا العمل تحت الرخص التالية:",
 	"wm-license-self-multiple-licenses-with-author": "$1، صاحب حقوق تأليف ونشر هذا العمل، ينشره تحت الرَّخص التالية:",
-	"wm-license-self-multiple-licenses-select": "لك أن تختار الرخصة التي تناسبك."
+	"wm-license-self-multiple-licenses-select": "لك أن تختار الرخصة التي تناسبك.",
+	"wm-license-self-invalid-parameter": "معلمة غير صالحة. لا ينبغي استخدام قالب المجال العام هذا في قالب الذات."
 }
