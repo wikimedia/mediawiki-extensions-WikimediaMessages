@@ -121,5 +121,14 @@
 	"contactpage-emailsent-accountvanishapps": "Request Sent",
 	"contactpage-emailsenttext-accountvanishapps": "Your account vanishing request has been sent for evaluation. Should you have questions about your request at any time, you may reach out to {{NonSpamEmail|privacy|wikimedia.org}}.",
 	"contactpage-accountvanishapps-details": "Additional details about request",
-	"contactpage-blocked-message-accountvanishapps": "Sorry, it looks like your account or IP address is currently blocked from sending messages. You are not able to use the Account Vanishing Form while blocked. To proceed with account vanishing, please send an email to {{NonSpamEmail|privacy|wikimedia.org}}."
+	"contactpage-blocked-message-accountvanishapps": "Sorry, it looks like your account or IP address is currently blocked from sending messages. You are not able to use the Account Vanishing Form while blocked. To proceed with account vanishing, please send an email to {{NonSpamEmail|privacy|wikimedia.org}}.",
+	"contactpage-title-u4c": "Contact the Universal Code of Conduct Coordinating Committee",
+	"contactpage-u4c-case-explanation": "Explain what has happened:",
+	"contactpage-u4c-relevant-links": "Provide URLs to the wiki actions or pages:",
+	"contactpage-u4c-violation-type": "In a few words, explain what wiki policy was violated:",
+	"contactpage-u4c-involved-users": "What users are you complaining about? Provide their wiki usernames:",
+	"contactpage-u4c-affected-accounts": "Which accounts are affected by this complaint? If nobody else than you was affected, you can skip this field.",
+	"contactpage-u4c-proposed-solution": "What solution would you propose? What are your expectations from the committee?",
+	"contactpage-u4c-additional-information": "Add any other information that you believe to be relevant for the understanding of this case.",
+	"contactpage-u4c-disclaimer-label": "Disclaimer: All information you include in this form is submitted to, processed by, and responded to by volunteer community members (specifically members of the [[Special:MyLanguage/U4C|Universal Code of Conduct Coordinating Committe]]), not the Wikimedia Foundation. Please do not include any information that you are not comfortable sharing with Wikimedia volunteers. Responses and other correspondence related to processing your submitted information are not to be considered official statements of the Wikimedia Foundation. For official correspondence, please contact the Wikimedia Foundation through the methods listed on https://wikimediafoundation.org/about/contact/."
 }

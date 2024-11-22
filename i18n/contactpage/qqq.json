@@ -126,5 +126,14 @@
 	"contactpage-emailsent-accountvanishapps": "Title shown on confirmation page after submitting form on [[meta:Special:Contact/accountvanishapps]]",
 	"contactpage-emailsenttext-accountvanishapps": "Text shown on confirmation page after submitting form on [[meta:Special:Contact/accountvanishapps]]",
 	"contactpage-accountvanishapps-details": "Label for the freeform message field on [[meta:Special:Contact/accountvanishapps]]",
-	"contactpage-blocked-message-accountvanishapps": "Message shown to blocked users on [[meta:Special:Contact/accountvanishapps]]"
+	"contactpage-blocked-message-accountvanishapps": "Message shown to blocked users on [[meta:Special:Contact/accountvanishapps]]",
+	"contactpage-title-u4c": "Page title on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-case-explanation": "Label for the case description field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-relevant-links": "Label for the relevant links field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-violation-type": "Label for the violation type field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-involved-users": "Label for the involved users field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-affected-accounts": "Label for the affected accounts field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-proposed-solution": "Label for the proposed solution field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-additional-information": "Label for the additional information field on [[meta:Special:Contact/u4c]].",
+	"contactpage-u4c-disclaimer-label": "Label for the disclaimer on [[meta:Special:Contact/u4c]]."
 }
