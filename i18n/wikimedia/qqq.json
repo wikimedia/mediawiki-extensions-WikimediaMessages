@@ -54,7 +54,7 @@
 		]
 	},
 	"wikimediamessages-desc": "{{desc|name=Wikimedia Messages|url=https://www.mediawiki.org/wiki/Extension:WikimediaMessages}}",
-	"sitesupport-url": "{{optional}}\nWikimedia-specific message used in the sidebar.\n{{doc-important|Do not change anything except the uselang for the link|([[wmf:Special:Prefixindex/Donate/|check]])}}",
+	"sitesupport-url": "{{notranslate}}",
 	"sitesupport": "Display name for the 'Donations' page, shown in the sidebar menu of all pages. The target page is meant to be the page where users can see how they can contribute financially to the wiki site.\n\n{{Identical|Donate}}",
 	"tooltip-n-sitesupport": "The tooltip when hovering over the {{msg-mw|sitesupport}} link in the sidebar.",
 	"specialpages-group-contribution": "{{doc-special-group|that=are related to the extensions ContributionReporting and LandingCheck|like=[[Special:ContributionHistory]], [[Special:ContributionTotal]], [[Special:ContributionStatistics]], [[Special:FundraiserStatistics]], [[Special:ContributionTrackingStatistics]], [[Special:LandingCheck]]}}",
