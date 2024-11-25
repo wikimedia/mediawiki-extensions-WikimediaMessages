@@ -123,5 +123,14 @@
 	"contactpage-emailsent-accountvanishapps": "Demande envoyée",
 	"contactpage-emailsenttext-accountvanishapps": "Votre demande d’effacement de compte a été soumise. Si vous avez des questions concernant votre demande, vous pouvez à tout moment contacter {{NonSpamEmail|privacy|wikimedia.org}}.",
 	"contactpage-accountvanishapps-details": "Informations supplémentaires sur votre demande",
-	"contactpage-blocked-message-accountvanishapps": "Désolé, votre compte ou adresse IP semble actuellement interdite d’envoi de messages. Vous ne pouvez pas utiliser le formulaire d’effacement de compte en étant bloqué. Pour demander l’effacement d’un compte, vous pouvez envoyer un courriel à {{NonSpamEmail|privacy|wikimedia.org}}."
+	"contactpage-blocked-message-accountvanishapps": "Désolé, votre compte ou adresse IP semble actuellement interdite d’envoi de messages. Vous ne pouvez pas utiliser le formulaire d’effacement de compte en étant bloqué. Pour demander l’effacement d’un compte, vous pouvez envoyer un courriel à {{NonSpamEmail|privacy|wikimedia.org}}.",
+	"contactpage-title-u4c": "Contactez le Comité de Coordination du Code de Conduite Universel",
+	"contactpage-u4c-case-explanation": "Expliquez ce qui s'est passé :",
+	"contactpage-u4c-relevant-links": "Fournissez les URL vers les actions ou les pages concernées du wiki :",
+	"contactpage-u4c-violation-type": "En quelques mots, expliquez quelle règle du wiki a été violée :",
+	"contactpage-u4c-involved-users": "De quels utilisateurs vous plaignez-vous ? Indiquez leurs noms d'utilisateur wiki :",
+	"contactpage-u4c-affected-accounts": "Quels comptes sont concernés par cette réclamation ? Si personne d'autre que vous n'est concerné, vous pouvez ignorer ce champ.",
+	"contactpage-u4c-proposed-solution": "Quelle solution proposeriez-vous ? Quelles sont vos attentes vis-à-vis du comité ?",
+	"contactpage-u4c-additional-information": "Ajoutez toute autre information que vous jugez pertinente pour la compréhension de cette affaire.",
+	"contactpage-u4c-disclaimer-label": "Avertissement : toutes les informations que vous incluez dans ce formulaire sont soumises, traitées et reçoivent une réponse de membres bénévoles de la communauté (en particulier de membres du [[Special:MyLanguage/U4C|Comité de Coordination du Code de Conduite Universel]]), et non de la Fondation Wikimédia. Veuillez ne pas inclure d'informations que vous ne souhaitez pas partager avec les bénévoles de Wikimédia. Les réponses et autres échanges liés au traitement des informations que vous soumettez ne doivent pas être considérés comme des déclarations officielles de la Fondation Wikimédia. Pour toute correspondance officielle, veuillez contacter la Fondation Wikimédia par l'intermédiaire des méthodes répertoriées sur https://wikimediafoundation.org/fr/about/contact/."
 }

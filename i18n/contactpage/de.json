@@ -104,5 +104,14 @@
 	"contactpage-emailsent-accountvanishapps": "Anfrage geschickt",
 	"contactpage-emailsenttext-accountvanishapps": "Dein Antrag auf Verschwindenlassen deines Kontos wurde zur Prüfung gesendet. Solltest du irgendwann Fragen zu deiner Anfrage haben, kannst du dich auch an {{NonSpamEmail|privacy|wikimedia.org}} wenden.",
 	"contactpage-accountvanishapps-details": "Weitere Details zur Anfrage",
-	"contactpage-blocked-message-accountvanishapps": "Es tut uns leid, es sieht so aus, als ob dein Konto oder deine IP-Adresse derzeit für das Senden von Nachrichten gesperrt ist. Während du gesperrt bist, kannst du das Kontolöschungsformular nicht verwenden. Um mit der Löschung des Kontos fortzufahren, sende bitte eine E-Mail an {{NonSpamEmail|privacy|wikimedia.org}}."
+	"contactpage-blocked-message-accountvanishapps": "Es tut uns leid, es sieht so aus, als ob dein Konto oder deine IP-Adresse derzeit für das Senden von Nachrichten gesperrt ist. Während du gesperrt bist, kannst du das Kontolöschungsformular nicht verwenden. Um mit der Löschung des Kontos fortzufahren, sende bitte eine E-Mail an {{NonSpamEmail|privacy|wikimedia.org}}.",
+	"contactpage-title-u4c": "Kontaktiere den Koordinierungsausschuss für den Universellen Verhaltenskodex",
+	"contactpage-u4c-case-explanation": "Erkläre, was passiert ist:",
+	"contactpage-u4c-relevant-links": "Gib URLs zu den Wiki-Aktionen oder -Seiten an:",
+	"contactpage-u4c-violation-type": "Erkläre in wenigen Worten, gegen welche Wiki-Richtlinie verstoßen wurde:",
+	"contactpage-u4c-involved-users": "Über welche Benutzer beschwerst du dich? Gib deren Wiki-Benutzernamen an:",
+	"contactpage-u4c-affected-accounts": "Welche Benutzerkonten sind von dieser Beschwerde betroffen? Wenn außer dir niemand betroffen war, kannst du dieses Feld überspringen.",
+	"contactpage-u4c-proposed-solution": "Welche Lösung würdest du vorschlagen? Was sind deine Erwartungen an das Gremium?",
+	"contactpage-u4c-additional-information": "Füge alle weiteren Informationen hinzu, die du für das Verständnis dieses Falls für relevant hältst.",
+	"contactpage-u4c-disclaimer-label": "Haftungsausschluss: Alle Informationen, die du in diesem Formular angibst, werden an freiwillige Mitglieder der Gemeinschaft (insbesondere Mitglieder des [[Special:MyLanguage/U4C|Koordinierungsausschuss für den Universellen Verhaltenskodex]]) übermittelt, von diesen bearbeitet und beantwortet, nicht von der Wikimedia Foundation. Bitte gib keine Informationen an, die du nicht mit freiwilligen Wikimedia-Mitgliedern teilen möchtest. Antworten und andere Korrespondenz im Zusammenhang mit der Bearbeitung deiner eingereichten Informationen sind nicht als offizielle Erklärungen der Wikimedia Foundation zu betrachten. Für offizielle Korrespondenz wende dich bitte an die Wikimedia Foundation über die auf https://wikimediafoundation.org/about/contact/ aufgeführten Methoden."
 }

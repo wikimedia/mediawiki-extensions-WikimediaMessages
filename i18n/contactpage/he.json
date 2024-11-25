@@ -117,5 +117,14 @@
 	"contactpage-emailsent-accountvanishapps": "הבקשה נשלחה",
 	"contactpage-emailsenttext-accountvanishapps": "בקשת העלמת החשבון שלך נשלחה להערכה. אם יש לך שאלות לגבי בקשתך בכל עת, אפשר לפנות אל {{NonSpamEmail|privacy|wikimedia.org}}.",
 	"contactpage-accountvanishapps-details": "פרטים נוספים לגבי הבקשה",
-	"contactpage-blocked-message-accountvanishapps": "מצטערים, נראה שהחשבון או כתובת ה־IP שלך חסומים כעת מלשלוח הודעות. אין לך אפשרות להשתמש בטופס העלמות החשבון בזמן חסימה. כדי להמשיך עם העלמות החשבון, יש לשלוח דוא\"ל אל {{NonSpamEmail|privacy|wikimedia.org}}."
+	"contactpage-blocked-message-accountvanishapps": "מצטערים, נראה שהחשבון או כתובת ה־IP שלך חסומים כעת מלשלוח הודעות. אין לך אפשרות להשתמש בטופס העלמות החשבון בזמן חסימה. כדי להמשיך עם העלמות החשבון, יש לשלוח דוא\"ל אל {{NonSpamEmail|privacy|wikimedia.org}}.",
+	"contactpage-title-u4c": "יצירת קשר עם ועדת התיאום של קוד ההתנהגות האוניברסלי",
+	"contactpage-u4c-case-explanation": "נא להסביר מה קרה:",
+	"contactpage-u4c-relevant-links": "נא לספק קישורים לפעולות ויקי או דפים:",
+	"contactpage-u4c-violation-type": "במילים אחדות, נא להסביר איזו עבירה על מדיניות ויקי נעשתה:",
+	"contactpage-u4c-involved-users": "על אילו משתמשים {{GENDER:|אתה מתלונן|את מתלוננת}}? נא לתת שמות משתמש בוויקי:",
+	"contactpage-u4c-affected-accounts": "על אילו חשבונות משפיעה התלונה הזאת? אם איש מלבדך לא מושפע, אפשר לדלג על השדה הזה.",
+	"contactpage-u4c-proposed-solution": "איזה פתרון יש לך להציע? מה הציפיות שלך מהוועדה?",
+	"contactpage-u4c-additional-information": "נא להוסיף כל מידע שנראה לך רלוונטי להבנת המקרה הזה.",
+	"contactpage-u4c-disclaimer-label": "הגבלת אחריות: כל המידע שייכלל בטופס הזה נשלח אל חברי קהילה מתנדבים (בפרט, [[Special:MyLanguage/U4C|ועדת נציבי הפניות]]), מעובד על־ידיהם, ומקבל תגובה מהם, והדברים האלה אינם נעשים על־ידי קרן ויקימדיה. אין לכלול כאן שום מידע שאינך חש או חשה בנוח לשתף עם מתנדבי ויקימדיה. תגובות והתכתבויות אחרות שקשורים לעיבוד המידע שנשלח אינם יכולים להיחשב להצהרות רשמיות של קרן ויקימדיה. להתכתבות רשמית נא לפנות לקרן ויקימדיה בדרכים שמפורטות בדף https://wikimediafoundation.org/about/contact/."
 }

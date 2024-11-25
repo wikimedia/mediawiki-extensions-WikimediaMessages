@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nikki",
 			"Varnent"
 		]
 	},
-	"wm-commonstrings-contactus": "ഞങ്ങളുമായി ബന്ധപ്പെടുക"
+	"wm-commonstrings-contactus": "ഞങ്ങളുമായി ബന്ധപ്പെടുക",
+	"wm-commonstrings-seealso": "ഇതും കാണുക"
 }

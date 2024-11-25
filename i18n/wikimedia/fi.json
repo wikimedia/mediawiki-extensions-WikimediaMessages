@@ -79,7 +79,7 @@
 	"group-botadmin": "botit, joilla on ylläpitäjän oikeudet",
 	"group-botadmin-member": "{{GENDER:$1|botti, jolla on ylläpitäjän oikeudet}}",
 	"grouppage-botadmin": "{{ns:project}}:Botit, joilla on ylläpitäjän oikeudet",
-	"group-global-temporary-account-viewer": "Tilapäisten tunnusten IP-osoitteiden tarkastajat",
+	"group-global-temporary-account-viewer": "tilapäisten tunnusten IP-osoitteiden tarkastajat",
 	"group-global-temporary-account-viewer-member": "{{GENDER:$1|tilapäisten tunnusten IP-osoitteiden tarkastaja}}",
 	"group-confirmed": "hyväksytyt käyttäjät",
 	"group-confirmed-member": "{{GENDER:$1|hyväksytty käyttäjä}}",

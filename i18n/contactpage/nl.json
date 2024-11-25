@@ -112,5 +112,14 @@
 	"contactpage-emailsent-accountvanishapps": "Aanvraag verzonden",
 	"contactpage-emailsenttext-accountvanishapps": "{{#FORMAL:Uw aanvraag tot het laten verdwijnen van uw account is ter beoordeling ingediend. Mocht u nog vragen hebben over uw aanvraag, dan kunt u zich wenden tot|Je aanvraag om je account te laten verdwijnen is ingestuurd en wordt binnenkort beoordeeld. Als je nog vragen hebt over je aanvraag, dan kun je ons bereiken op}} {{NonSpamEmail|privacy|wikimedia.org}}.",
 	"contactpage-accountvanishapps-details": "Aanvullende gegevens over de aanvraag",
-	"contactpage-blocked-message-accountvanishapps": "Helaas is {{#FORMAL:uw|jouw}} account of IP-adres momenteel geblokkeerd voor het verzenden van berichten. {{#FORMAL:U|Je}} kunt het formulier voor het laten verdwijnen van het account niet gebruiken terwijl {{#FORMAL:u|je}} geblokkeerd bent. Als {{#FORMAL:u|je}} wilt doorgaan met het laten verdwijnen van {{#FORMAL:uw|je}} account, stuur dan een e-mail naar {{NonSpamEmail|privacy|wikimedia.org}}."
+	"contactpage-blocked-message-accountvanishapps": "Helaas is {{#FORMAL:uw|jouw}} account of IP-adres momenteel geblokkeerd voor het verzenden van berichten. {{#FORMAL:U|Je}} kunt het formulier voor het laten verdwijnen van het account niet gebruiken terwijl {{#FORMAL:u|je}} geblokkeerd bent. Als {{#FORMAL:u|je}} wilt doorgaan met het laten verdwijnen van {{#FORMAL:uw|je}} account, stuur dan een e-mail naar {{NonSpamEmail|privacy|wikimedia.org}}.",
+	"contactpage-title-u4c": "Contact opnemen met het Coördinatiecomité Universele Gedragscode",
+	"contactpage-u4c-case-explanation": "Leg uit wat er gebeurd is:",
+	"contactpage-u4c-relevant-links": "Geef URL’s op voor de wiki-handelingen of -pagina’s:",
+	"contactpage-u4c-violation-type": "Leg in een paar woorden uit welk wikibeleid is geschonden:",
+	"contactpage-u4c-involved-users": "Over welke gebruikers klaagt u? Geef hun wiki-gebruikersnamen op:",
+	"contactpage-u4c-affected-accounts": "Op welke accounts is deze klacht van toepassing? Als niemand anders dan u getroffen is, kunt u dit veld overslaan.",
+	"contactpage-u4c-proposed-solution": "Welke oplossing zou u voorstellen? Wat verwacht u van het comité?",
+	"contactpage-u4c-additional-information": "Voeg alle andere gegevens toe waarvan u denkt dat ze relevant zijn voor een goed begrip van deze zaak.",
+	"contactpage-u4c-disclaimer-label": "Disclaimer: alle informatie die u in dit formulier opneemt wordt verzonden naar, verwerkt door en beantwoord door vrijwillige leden van de gemeenschap (met name leden van het [[Special:MyLanguage/U4C|Coördinatiecomité Universele Gedragscode]]) en niet door de Wikimedia Foundation. Voeg geen informatie toe die u niet wilt delen met Wikimedia-vrijwilligers. Reacties en andere correspondentie met betrekking tot de verwerking van uw ingediende informatie mogen niet worden beschouwd als officiële verklaringen van de Wikimedia Foundation. Voor officiële correspondentie kunt u contact opnemen met de Wikimedia Foundation via de methoden die zijn vermeld op https://wikimediafoundation.org/about/contact/."
 }

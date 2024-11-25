@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Nikki",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-seealso": "Skatīt arī",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Īsā saite|Īsās saites}}"
 }
