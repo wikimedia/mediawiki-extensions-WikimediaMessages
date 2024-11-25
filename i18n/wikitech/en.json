@@ -4,9 +4,6 @@
 			"MarcoAurelio"
 		]
 	},
-	"group-contentadmin": "Content administrators",
-	"group-contentadmin-member": "{{GENDER:$1|content administrator}}",
-	"grouppage-contentadmin": "{{ns:project}}:Content administrators",
 	"group-oathauth": "OATH validators",
 	"group-oathauth-member": "{{GENDER:$1|OATH validator}}",
 	"grouppage-oathauth": "{{ns:project}}:OATH validators"
