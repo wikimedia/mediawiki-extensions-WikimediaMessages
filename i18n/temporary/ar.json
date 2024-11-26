@@ -15,6 +15,7 @@
 	"group-oversight-member": "{{GENDER:$1|مزيل تعديلات|مزيلة تعديلات}}",
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
+	"please-translate-short": "مساعدة في الترجمة",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
 	"specialinvestigate-feedback": "شارك ملاحظاتك",
 	"graph-disabled-category": "صفحات ذات رسوم بيانية معطلة",

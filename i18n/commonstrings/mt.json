@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"Nikki"
 		]
 	},
-	"wm-commonstrings-contactus": "Agħmel kuntatt magħna"
+	"wm-commonstrings-contactus": "Agħmel kuntatt magħna",
+	"wm-commonstrings-seealso": "Ara wkoll"
 }
