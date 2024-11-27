@@ -19,7 +19,9 @@
 			"Vlad5250",
 			"Александр Сигачёв",
 			"Андрей Перцев 1967",
-			"Тест"
+			"Тест",
+			"Null the Great",
+			"Yurina Tatiana"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:ru:Creative Commons",
@@ -222,7 +224,7 @@
 	"wm-license-cc-sa-1.0-nl-text": "Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/1.0/nl/deed.ru Share Alike 1.0 Нидерланды].",
 	"wm-license-cc-sa-2.0-jp-text": "Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [https://creativecommons.org/licenses/sa/2.0/jp/deed.ru Share Alike 2.0 Япония].",
 	"wm-license-cc-zero-text": "Этот файл доступен на условиях [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.ru CC0 1.0 Универсальной передачи в общественное достояние (Universal Public Domain Dedication)].",
-	"wm-license-cc-zero-explanation": "Лица, связанные с работой над этим произведением, решили передать данное произведение в [[{{int:wm-license-pd-wiki-link}}|общественное достояние]], отказавшись от всех прав на произведение по всему миру в рамках закона об авторских правах (а также связанных и смежных прав), в той степени, которую допускает закон. Вы можете копировать, изменять, распространять, исполнять данное произведение в любых целях, в том числе в коммерческих, без получения на это разрешения автора.",
+	"wm-license-cc-zero-explanation": "Лица, связанные с работой над этим произведением, решили передать данное произведение в [[{{int:wm-license-pd-wiki-link}}|общественное достояние]], отказавшись от всех прав на произведение по всему миру в рамках закона об авторских правах (а также связанных и смежных прав), в той степени, которую допускает закон. Вы можете копировать, изменять, распространять и исполнять данное произведение в любых целях, в том числе в коммерческих, без получения на это разрешения автора.",
 	"wm-license-cc-free": "Вы можете свободно:",
 	"wm-license-cc-free-to-share-header": "делиться произведением",
 	"wm-license-cc-free-to-share-text": "копировать, распространять и передавать данное произведение",
