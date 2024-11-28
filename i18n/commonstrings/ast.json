@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"Nikki"
 		]
 	},
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Artículu principal: $1|Artículos principales: $1}}",
+	"wm-commonstrings-seealso": "Ver tamién",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Atayu|Atayos}}"
 }
