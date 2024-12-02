@@ -10,7 +10,8 @@
 			"Santu",
 			"Sarvaturi",
 			"לערי ריינהארט",
-			"Varnent"
+			"Varnent",
+			"GianAntonucci"
 		]
 	},
 	"wikimediamessages-desc": "Missaggi spicifici di Wikimedia",
@@ -87,7 +88,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
-	"wikimedia-developers": "Sviluppatura",
+	"wikimedia-developers": "Sbiluppatura",
 	"wikimedia-globalblocking-ipblocked": "'''Lu to nnirizzu IP fu [[m:Special:MyLanguage/Global blocks|bluccatu nta tutti li wiki]].'''\n\nLu bloccu fu mpostu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Principiu dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu tò nnirizzu IP attuali è $6.\nPi favuri arrifirisci tutti li dittagghî di ccassupra nta tutti l'addumannati chi fai.\n\nSi penzi chi fusti bluccatu pi sbagghiu, poi attruvari àutri nfurmazzioni e struzzioni ntô testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuddu proxy gtaputu]].\nSinnò, pi discùtiri di stu bloccu [[m:Steward requests/Global|fa' n'addumanata di rivisioni nta Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Unu o puru chiossai di server proxy adupirati ntâ tò addumannata foru [[m:Special:MyLanguage/Global blocks|bluccati nta tutti li wiki]].'''\n\nLu bloccu fu mpunutu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Accuminzagghia dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu nnirizzu dû proxy bluccatu era $6.\nPi favuri arrifirisci tutti li dittagghî di ccassupra nta tutti l'addumannati chi fai.\n\nSi penzi chi fusti bluccatu pi sbagghiu, poi attruvari àutri nfurmazzioni e struzzioni ntô testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuddu proxy graputu]].\nSinnò, pi discùtiri di stu bloccu [[m:Steward requests/Global|fai n'addumannata di rivisioni ntâ Meta-Wiki]].",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Pulìtica supra la privacy]",
@@ -99,7 +100,7 @@
 	"eri-rcfilters-tour-intro-welcome-button": "Ok, caputu",
 	"eri-rcfilters-tour-highlight-button": "Ok, caputu",
 	"wikimedia-statslink": "Statìstichi",
-	"wikimedia-cookiestatement": "Dichiarazzioni supra li cookie",
+	"wikimedia-cookiestatement": "Dichiarazzioni ncapu ê cookie",
 	"action-docseditor": "canciari ducumintazzioni",
 	"right-docseditor": "Cancia ducumintazzioni",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
