@@ -1,11 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Sonamdargay",
 			"Tenzin",
 			"Tshering Nidup"
 		]
 	},
 	"sitesupport": "ཕན་འདེབས།",
 	"tooltip-n-sitesupport": "ང་བཅས་ལུ་རྒྱབ་སྐྱོར་འབད།",
-	"wikimedia-developers": "གཉེན་ཆས་བཟོ་མི།"
+	"wikimedia-developers": "གཉེན་ཆས་བཟོ་མི།",
+	"wikimedia-statslink": "རྩིས་དཔྱད།",
+	"wikimedia-cookiestatement": "ཀུ་ཀི་གསལ་བསྒྲགས།"
 }

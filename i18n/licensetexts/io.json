@@ -71,7 +71,10 @@
 	"wm-license-pd-author-self-any-purpose": "Riconosco a chiunque e ciascuno il diritto di usare quest'opera '''per qualsiasi scopo''', senza alcuna condizione, a meno che simili condizioni non siano validamente richieste dalla legge.",
 	"wm-license-pd-author-with-author-any-purpose": "$1 grantas permiso ad irga persono uzar ca arkivo '''kun irga intenco''', senkondicione, ecepte se ca kondicioni demandesas da lokala legaro.",
 	"wm-license-pd-usgov-military-army-text": "Ca arkivo esas laboro da soldato od employato del [[{{int:wm-license-pd-usgov-military-army-wiki-link}}|Armeo Usana]], e facesis dum la laboro-tempo de ca persono. Pro esar rezulto de [[{{int:wm-license-pd-usgov-work-wiki-link}}|laboro]] dal [[{{int:wm-license-pd-usgov-wiki-link}}|Usana federala guvernerio]], ca arkivo esas en  '''[[{{int:wm-license-pd-wiki-link}}|publika domeno]]'''.",
+	"wm-license-self-with-author": "$1, posedanto dil autoroyuro di ca verko, publikigis ol hike segun la sequanta {{PLURAL:$2|licenco|licenci}}:",
 	"wm-license-self-one-license": "Me, la posedanto dil autoroyuro pri ica imajo/arkivo, permisos lua uzado camaniere:",
-	"wm-license-self-multiple-licenses": "Me, la proprietero dil autoroyuri pri ica verko, per to publikigos ol segun la sequanta yurizi:",
+	"wm-license-self-one-license-with-author": "$1, posedanto di autoroyuri pri ca verko, publikigas ol hike segun la sequanta licenco:",
+	"wm-license-self-multiple-licenses": "Me, la proprietero di autoroyuri pri ica verko, per to publikigos ol segun la sequanta yurizi:",
+	"wm-license-self-multiple-licenses-with-author": "$1, posedanto di autoroyuro pri ca verko, publikigas ol hike segun la sequanta licenci:",
 	"wm-license-self-multiple-licenses-select": "Selektez l'yurizo quon vu preferas."
 }
