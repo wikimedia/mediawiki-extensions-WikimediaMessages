@@ -174,6 +174,7 @@
 	"group-ipblock-exempt": "Exemptés de blocage IP",
 	"group-ipblock-exempt-member": "exempté{{GENDER:$1||e}} de blocage IP",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Exemptés de blocage IP",
+	"group-ipblock-exempt-grantor": "Les concédants d’exemption par catégorie de propriété intellectuelle",
 	"group-noratelimit": "Comptes sans limite de débit",
 	"group-noratelimit-member": "{{GENDER:$1|}}compte sans limite de débit",
 	"grouppage-noratelimit": "{{ns:project}}:Comptes sans limite de débit",
