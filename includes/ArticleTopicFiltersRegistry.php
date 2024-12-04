@@ -17,11 +17,11 @@ class ArticleTopicFiltersRegistry {
 	private const FILTERS = [
 		[
 			'groupId' => 'geography',
-			'msgKey' => 'growthexperiments-homepage-suggestededits-topic-group-name-geography',
+			'msgKey' => 'wikimedia-articletopics-group-geography',
 			'topics' => [
 				[
 					'topicId' => 'africa',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-africa',
+					'msgKey' => 'wikimedia-articletopics-topic-africa',
 					'articleTopics' => [
 						'africa',
 						'central-africa',
@@ -33,7 +33,7 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'asia',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-asia',
+					'msgKey' => 'wikimedia-articletopics-topic-asia',
 					'articleTopics' => [
 						'asia',
 						'central-asia',
@@ -46,22 +46,22 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'central-america',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-central-america',
+					'msgKey' => 'wikimedia-articletopics-topic-central-america',
 					'articleTopics' => [ 'central-america' ],
 				],
 				[
 					'topicId' => 'north-america',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-north-america',
+					'msgKey' => 'wikimedia-articletopics-topic-north-america',
 					'articleTopics' => [ 'north-america' ],
 				],
 				[
 					'topicId' => 'south-america',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-south-america',
+					'msgKey' => 'wikimedia-articletopics-topic-south-america',
 					'articleTopics' => [ 'south-america' ],
 				],
 				[
 					'topicId' => 'europe',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-europe',
+					'msgKey' => 'wikimedia-articletopics-topic-europe',
 					'articleTopics' => [
 						'europe',
 						'eastern-europe',
@@ -72,33 +72,33 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'oceania',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-oceania',
+					'msgKey' => 'wikimedia-articletopics-topic-oceania',
 					'articleTopics' => [ 'oceania' ],
 				],
 			],
 		],
 		[
 			'groupId' => 'culture',
-			'msgKey' => 'growthexperiments-homepage-suggestededits-topic-group-name-culture',
+			'msgKey' => 'wikimedia-articletopics-group-culture',
 			'topics' => [
 				[
 					'topicId' => 'architecture',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-architecture',
+					'msgKey' => 'wikimedia-articletopics-topic-architecture',
 					'articleTopics' => [ 'architecture' ],
 				],
 				[
 					'topicId' => 'art',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-art',
+					'msgKey' => 'wikimedia-articletopics-topic-art',
 					'articleTopics' => [ 'visual-arts' ],
 				],
 				[
 					'topicId' => 'comics-and-anime',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-comics-and-anime',
+					'msgKey' => 'wikimedia-articletopics-topic-comics-and-anime',
 					'articleTopics' => [ 'comics-and-anime' ],
 				],
 				[
 					'topicId' => 'entertainment',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-entertainment',
+					'msgKey' => 'wikimedia-articletopics-topic-entertainment',
 					'articleTopics' => [
 						'entertainment',
 						'radio',
@@ -106,119 +106,119 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'fashion',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-fashion',
+					'msgKey' => 'wikimedia-articletopics-topic-fashion',
 					'articleTopics' => [ 'fashion' ],
 				],
 				[
 					'topicId' => 'literature',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-literature',
+					'msgKey' => 'wikimedia-articletopics-topic-literature',
 					'articleTopics' => [ 'books' ],
 				],
 				[
 					'topicId' => 'music',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-music',
+					'msgKey' => 'wikimedia-articletopics-topic-music',
 					'articleTopics' => [ 'music' ],
 				],
 				[
 					'topicId' => 'performing-arts',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-performing-arts',
+					'msgKey' => 'wikimedia-articletopics-topic-performing-arts',
 					'articleTopics' => [ 'performing-arts' ],
 				],
 				[
 					'topicId' => 'sports',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-sports',
+					'msgKey' => 'wikimedia-articletopics-topic-sports',
 					'articleTopics' => [ 'sports' ],
 				],
 				[
 					'topicId' => 'tv-and-film',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-tv-and-film',
+					'msgKey' => 'wikimedia-articletopics-topic-tv-and-film',
 					'articleTopics' => [ 'films', 'television' ],
 				],
 				[
 					'topicId' => 'video-games',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-video-games',
+					'msgKey' => 'wikimedia-articletopics-topic-video-games',
 					'articleTopics' => [ 'video-games' ],
 				],
 			],
 		],
 		[
 			'groupId' => 'history-and-society',
-			'msgKey' => 'cx-articletopics-group-history-and-society',
+			'msgKey' => 'wikimedia-articletopics-group-history-and-society',
 			'topics' => [
 				[
 					'topicId' => 'biography',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-biography',
+					'msgKey' => 'wikimedia-articletopics-topic-biography',
 					'articleTopics' => [ 'biography' ],
 				],
 				[
 					'topicId' => 'business-and-economics',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-business-and-economics',
+					'msgKey' => 'wikimedia-articletopics-topic-business-and-economics',
 					'articleTopics' => [ 'business-and-economics' ],
 				],
 				[
 					'topicId' => 'education',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-education',
+					'msgKey' => 'wikimedia-articletopics-topic-education',
 					'articleTopics' => [ 'education' ],
 				],
 				[
 					'topicId' => 'food-and-drink',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-food-and-drink',
+					'msgKey' => 'wikimedia-articletopics-topic-food-and-drink',
 					'articleTopics' => [ 'food-and-drink' ],
 				],
 				[
 					'topicId' => 'history',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-history',
+					'msgKey' => 'wikimedia-articletopics-topic-history',
 					'articleTopics' => [ 'history' ],
 				],
 				[
 					'topicId' => 'military-and-warfare',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-military-and-warfare',
+					'msgKey' => 'wikimedia-articletopics-topic-military-and-warfare',
 					'articleTopics' => [ 'military-and-warfare' ],
 				],
 				[
 					'topicId' => 'philosophy-and-religion',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-philosophy-and-religion',
+					'msgKey' => 'wikimedia-articletopics-topic-philosophy-and-religion',
 					'articleTopics' => [ 'philosophy-and-religion' ],
 				],
 				[
 					'topicId' => 'politics-and-government',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-politics-and-government',
+					'msgKey' => 'wikimedia-articletopics-topic-politics-and-government',
 					'articleTopics' => [ 'politics-and-government' ],
 				],
 				[
 					'topicId' => 'society',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-society',
+					'msgKey' => 'wikimedia-articletopics-topic-society',
 					'articleTopics' => [ 'society' ],
 				],
 				[
 					'topicId' => 'transportation',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-transportation',
+					'msgKey' => 'wikimedia-articletopics-topic-transportation',
 					'articleTopics' => [ 'transportation' ],
 				],
 				[
 					'topicId' => 'women',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-women',
+					'msgKey' => 'wikimedia-articletopics-topic-women',
 					'articleTopics' => [ 'women' ],
 				],
 			],
 		],
 		[
 			'groupId' => 'science-technology-and-math',
-			'msgKey' => 'cx-articletopics-group-science-technology-and-math',
+			'msgKey' => 'wikimedia-articletopics-group-science-technology-and-math',
 			'topics' => [
 				[
 					'topicId' => 'biology',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-biology',
+					'msgKey' => 'wikimedia-articletopics-topic-biology',
 					'articleTopics' => [ 'biology' ],
 				],
 				[
 					'topicId' => 'chemistry',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-chemistry',
+					'msgKey' => 'wikimedia-articletopics-topic-chemistry',
 					'articleTopics' => [ 'chemistry' ],
 				],
 				[
 					'topicId' => 'computers-and-internet',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-computers-and-internet',
+					'msgKey' => 'wikimedia-articletopics-topic-computers-and-internet',
 					'articleTopics' => [
 						'internet-culture',
 						'computing',
@@ -227,7 +227,7 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'earth-and-environment',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-earth-and-environment',
+					'msgKey' => 'wikimedia-articletopics-topic-earth-and-environment',
 					'articleTopics' => [
 						'geographical',
 						'earth-and-environment',
@@ -235,27 +235,27 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'engineering',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-engineering',
+					'msgKey' => 'wikimedia-articletopics-topic-engineering',
 					'articleTopics' => [ 'engineering' ],
 				],
 				[
 					'topicId' => 'general-science',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-general-science',
+					'msgKey' => 'wikimedia-articletopics-topic-general-science',
 					'articleTopics' => [ 'stem' ],
 				],
 				[
 					'topicId' => 'mathematics',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-mathematics',
+					'msgKey' => 'wikimedia-articletopics-topic-mathematics',
 					'articleTopics' => [ 'mathematics' ],
 				],
 				[
 					'topicId' => 'medicine-and-health',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-medicine-and-health',
+					'msgKey' => 'wikimedia-articletopics-topic-medicine-and-health',
 					'articleTopics' => [ 'medicine-and-health' ],
 				],
 				[
 					'topicId' => 'physics',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-physics',
+					'msgKey' => 'wikimedia-articletopics-topic-physics',
 					'articleTopics' => [
 						'physics',
 						'space',
@@ -263,7 +263,7 @@ class ArticleTopicFiltersRegistry {
 				],
 				[
 					'topicId' => 'technology',
-					'msgKey' => 'growthexperiments-homepage-suggestededits-topic-name-technology',
+					'msgKey' => 'wikimedia-articletopics-topic-technology',
 					'articleTopics' => [ 'technology' ],
 				],
 			],
