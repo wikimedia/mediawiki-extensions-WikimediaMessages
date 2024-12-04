@@ -5,7 +5,7 @@
 			"ⲁϩⲙⲉⲧ"
 		]
 	},
-	"sitesupport": "ⲉⲣϣⲱⲡ",
+	"sitesupport": "Ⲇⲱⲣⲓⲍⲓⲛ",
 	"tooltip-n-sitesupport": "ⲁⲣⲓⲃⲟⲏ̀ⲑⲓⲛⲉⲛ",
 	"wikimedia-copyright": "ⲡⲓⲥϧⲁⲓ ⲟⲩⲫⲏⲉⲑϣ̀ⲫⲉϩ ϧⲁⲧⲉⲛ <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">ⲡⲓϫⲓⲛϯⲙⲁ ⲛ̀Creative Commons Attribution-ShareAlike</a>;\nϩⲁⲛⲉⲧⲓⲁ ⲛ̀ⲧⲟⲩϩⲟ ⲥⲉϣϫⲉⲙϫⲟⲙ ⲉ̀ ⲉⲣⲭⲣⲁⲥⲑⲉ. \nⲁⲛⲁⲩ <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">ⲛⲓⲉⲧⲓⲁ ⲛ̀ϫⲓⲛⲉⲣⲭⲣⲁⲥⲑⲉ</a> ⲉ̀ϩⲁⲛⲥⲧⲩⲭⲓⲱⲛ.",
 	"wikimedia-copyrightwarning": "Ϧⲉⲛⲟⲩⲛⲟϩⲉⲙ ⲛ̀ϩⲁⲛϣⲓⲃϯ ⲧⲉⲧⲉⲛⲑⲱⲧ ⲉ̀[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] ⲟⲩⲟϩ ⲧⲉⲧⲉⲛⲑⲱⲧ ⲉ̀ⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲉⲕϫⲓⲛϯϩⲗⲓ ϧⲉⲛⲟⲩⲙⲉⲧⲁⲧϣⲓⲃϯ ⲕⲁⲧⲁ[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] ⲛⲉⲙ[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nⲦⲉⲧⲉⲛⲑⲱⲧϫⲉ ⲟⲩⲗⲱⲟⲩ ϣⲁⲛURL ⲟⲩⲧⲱϫⲓ ⲉϥϫⲉⲙϩⲟ ⲡⲉ ⲕⲁⲧⲁⲡⲓϫⲓⲛϯⲙⲁ ⲛ̀Creative Commons.",
@@ -14,5 +14,7 @@
 	"wikibase-sitelinks-wikisource": "Ⲟⲩⲓⲕⲓⲡⲏⲅⲏ",
 	"wikibase-sitelinks-wikivoyage": "Ⲟⲩⲓⲕⲓϣϭⲏⲣ",
 	"wikimedia-developers": "Ϩⲁⲛⲣⲉϥⲧⲁⲃⲧⲉⲃ",
-	"wikimedia-globalblocking-ipblocked": "'''ⲡⲉⲕⲙⲁ ⲛ̀IP ⲁⲩ[[m:Special:MyLanguage/Global blocks|ϭⲗⲟ Ϧⲉⲛ ϩⲁⲛⲃⲓⲕⲓ ⲛⲓⲃⲉⲛ]].'''\n\nⲡⲓϫⲓⲛϭⲗⲟ ⲁⲩⲙⲟⲩⲛⲕ ⲉⲃⲟⲗϩⲓⲧⲉⲛ $1 ($2).\nϯⲙⲉⲧⲭⲁϩⲏⲧ ⲉⲧⲟⲩϯ ⲧⲉ \"$3\".\n\n*ϯϩⲟⲩⲓⲧ ⲛ̀ⲟⲩϫⲓⲛϭⲗⲟ: $4\n*ⲡⲓϦⲁⲉ ⲛ̀ⲟⲩϫⲓⲛϭⲗⲟ: $5\n\nⲡⲉⲕⲙⲁ ⲛ̀IP ⲙ̀ⲡⲁⲓⲥⲟⲡ ⲡⲉ $6.\nⲁⲣⲓϩⲙⲟⲧ ⲱⲡ ⲉϦⲟⲩⲛ ⲉⲛⲓⲥⲧⲩⲭⲓⲱⲛ ⲛⲓⲃⲉⲛ ⲉⲧⲥⲁϩⲣⲏⲓ Ϧⲉⲛ ϩⲁⲛϦⲟⲧϦⲉⲧ ⲛⲓⲃⲉⲛ ⲉⲧⲕ̀ⲙⲟⲩⲛⲕ. \n\nⲓⲥϫⲉ ⲕ̀ⲛⲁϩϯ ϫⲉ ⲁⲩϭⲗⲟⲕ ⲉⲃⲟⲗϩⲓⲧⲉⲛ ⲟⲩⲥⲱⲣⲉⲙ ⲕ̀ϫⲉⲙϫⲟⲙ ⲉϫⲓⲙⲓ ⲡⲉⲧⲧⲁⲙⲟ ⲛ̀ⲧⲟⲩϩⲟ ⲛⲉⲙ ⲡⲓϫⲓⲛⲉⲣⲥⲁⲃⲉ Ϧⲉⲛ [[m:Special:MyLanguage/No open proxies|ⲁⲧϫⲓⲛϯⲙⲁ ⲙ̀ⲡⲣⲟⲕⲥⲓ ⲛ̀ⲟⲩⲱⲛ]] ⲡⲟⲗⲓⲧⲓⲕⲏ ⲛ̀ⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ.\nⲉϣⲱⲡ ⲙⲙⲟⲛ, ⲉϩⲓⲟⲓ ⲡⲓϫⲓⲛϭⲗⲟ ⲁⲣⲓϩⲙⲟⲧ [[m:Steward requests/Global|ⲭⲱ ⲟⲩⲁⲓⲧⲏⲙⲁ ⲉ̀ⲟⲩⲟⲛⲛⲁⲩ ϩⲓ ⲙⲉⲧⲁ-ⲃⲓⲕⲓ]]."
+	"wikimedia-globalblocking-ipblocked": "'''ⲡⲉⲕⲙⲁ ⲛ̀IP ⲁⲩ[[m:Special:MyLanguage/Global blocks|ϭⲗⲟ Ϧⲉⲛ ϩⲁⲛⲃⲓⲕⲓ ⲛⲓⲃⲉⲛ]].'''\n\nⲡⲓϫⲓⲛϭⲗⲟ ⲁⲩⲙⲟⲩⲛⲕ ⲉⲃⲟⲗϩⲓⲧⲉⲛ $1 ($2).\nϯⲙⲉⲧⲭⲁϩⲏⲧ ⲉⲧⲟⲩϯ ⲧⲉ \"$3\".\n\n*ϯϩⲟⲩⲓⲧ ⲛ̀ⲟⲩϫⲓⲛϭⲗⲟ: $4\n*ⲡⲓϦⲁⲉ ⲛ̀ⲟⲩϫⲓⲛϭⲗⲟ: $5\n\nⲡⲉⲕⲙⲁ ⲛ̀IP ⲙ̀ⲡⲁⲓⲥⲟⲡ ⲡⲉ $6.\nⲁⲣⲓϩⲙⲟⲧ ⲱⲡ ⲉϦⲟⲩⲛ ⲉⲛⲓⲥⲧⲩⲭⲓⲱⲛ ⲛⲓⲃⲉⲛ ⲉⲧⲥⲁϩⲣⲏⲓ Ϧⲉⲛ ϩⲁⲛϦⲟⲧϦⲉⲧ ⲛⲓⲃⲉⲛ ⲉⲧⲕ̀ⲙⲟⲩⲛⲕ. \n\nⲓⲥϫⲉ ⲕ̀ⲛⲁϩϯ ϫⲉ ⲁⲩϭⲗⲟⲕ ⲉⲃⲟⲗϩⲓⲧⲉⲛ ⲟⲩⲥⲱⲣⲉⲙ ⲕ̀ϫⲉⲙϫⲟⲙ ⲉϫⲓⲙⲓ ⲡⲉⲧⲧⲁⲙⲟ ⲛ̀ⲧⲟⲩϩⲟ ⲛⲉⲙ ⲡⲓϫⲓⲛⲉⲣⲥⲁⲃⲉ Ϧⲉⲛ [[m:Special:MyLanguage/No open proxies|ⲁⲧϫⲓⲛϯⲙⲁ ⲙ̀ⲡⲣⲟⲕⲥⲓ ⲛ̀ⲟⲩⲱⲛ]] ⲡⲟⲗⲓⲧⲓⲕⲏ ⲛ̀ⲕⲟⲥⲙⲟⲥ ⲧⲏⲣϥ.\nⲉϣⲱⲡ ⲙⲙⲟⲛ, ⲉϩⲓⲟⲓ ⲡⲓϫⲓⲛϭⲗⲟ ⲁⲣⲓϩⲙⲟⲧ [[m:Steward requests/Global|ⲭⲱ ⲟⲩⲁⲓⲧⲏⲙⲁ ⲉ̀ⲟⲩⲟⲛⲛⲁⲩ ϩⲓ ⲙⲉⲧⲁ-ⲃⲓⲕⲓ]].",
+	"wikimedia-statslink": "Ⲑⲙⲉⲧⲁⲗⲏⲡⲓ",
+	"wikimedia-cookiestatement": "Ⲡⲟⲩⲱⲛϩ ⲉⲑⲃⲉⲭⲟⲩⲕⲓ"
 }

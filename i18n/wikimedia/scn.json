@@ -10,7 +10,8 @@
 			"Santu",
 			"Sarvaturi",
 			"לערי ריינהארט",
-			"Varnent"
+			"Varnent",
+			"GianAntonucci"
 		]
 	},
 	"wikimediamessages-desc": "Missaggi spicifici di Wikimedia",
@@ -55,7 +56,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|amministraturi di sistema|amministratrici di sistema|amministraturi o amministratrici di sistema}}",
 	"tag-emoji": "Emoji",
 	"wikimedia-copyright": "Stu testu è dispunìbbili sutta â <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\">Licenza Creative Commons Attribuzzioni/Spartuta dâ stissa manera</a>;\nsi ponnu applicari àutri cunnizzioni.\nTalìa li <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Cunnizzioni d'usu</a> pî dittagghî.",
-	"wikimedia-copyrightwarning": "Sarvannu lu canciamentu, accetti li [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it Cunnizzioni d'Usu], e sî d'accordu pi rènniri dispunìbbili nun rivucabbilmenti lu tò cuntribbutu sutta ê licenzi [https://creativecommons.org/licenses/by-sa/4.0/deed.it Creative Commons Attribuzzioni-Spartuta dâ stissa manera] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nSî d'accordu ca nu culligamentu ipirtistuali o n'URL custituìscinu n'attribbuzzioni vàlida dû tò travagghiu ê senzi dâ licenza Creative Commons.",
+	"wikimedia-copyrightwarning": "Ô riggistrari i canci, accetti i [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/it cunnizzioni pi l'usu] e accetti di pubblicari i to cuntribbuti ê senzi dî licenzi [https://creativecommons.org/licenses/by-sa/4.0/deed.it CC BY-SA 4.0] e  [https://www.gnu.org/copyleft/fdl.html GFDL].\nAccetti ca n'iperlijami o n'URL sunnu n'attribbuzzioni vàlita ê senzi dâ licenza Creative Commons.",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] e [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bimminutu|Bimminuta|Bimminutu/a}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Wikibooks",
@@ -85,7 +86,7 @@
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
-	"wikimedia-developers": "Sviluppatura",
+	"wikimedia-developers": "Sbiluppatura",
 	"wikimedia-globalblocking-ipblocked": "'''Lu to nnirizzu IP fu [[m:Special:MyLanguage/Global blocks|bluccatu nta tutti li wiki]].'''\n\nLu bloccu fu mpostu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Principiu dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu tò nnirizzu IP attuali è $6.\nPi favuri arrifirisci tutti li dittagghî di ccassupra nta tutti l'addumannati chi fai.\n\nSi penzi chi fusti bluccatu pi sbagghiu, poi attruvari àutri nfurmazzioni e struzzioni ntô testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuḍḍu proxy gtaputu]].\nSinnò, pi discùtiri di stu bloccu [[m:Steward requests/Global|fa' n'addumanata di rivisioni nta Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Unu o puru chiossai di server proxy adupirati ntâ tò addumannata foru [[m:Special:MyLanguage/Global blocks|bluccati nta tutti li wiki]].'''\n\nLu bloccu fu mpunutu di $1 ($2).\nLu mutivu spicificatu è ''$3''.\n\n* Accuminzagghia dû bloccu: $4\n* Scadenza dû bloccu: $5\n\nLu nnirizzu dû proxy bluccatu era $6.\nPi favuri arrifirisci tutti li dittagghî di ccassupra nta tutti l'addumannati chi fai.\n\nSi penzi chi fusti bluccatu pi sbagghiu, poi attruvari àutri nfurmazzioni e struzzioni ntô testu dâ pulìtica glubbali [[m:Special:MyLanguage/No open proxies|Nuḍḍu proxy graputu]].\nSinnò, pi discùtiri di stu bloccu [[m:Steward requests/Global|fai n'addumannata di rivisioni ntâ Meta-Wiki]].",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Pulìtica supra la privacy]",
@@ -97,7 +98,7 @@
 	"eri-rcfilters-tour-intro-welcome-button": "Ok, caputu",
 	"eri-rcfilters-tour-highlight-button": "Ok, caputu",
 	"wikimedia-statslink": "Statìstichi",
-	"wikimedia-cookiestatement": "Dichiarazzioni supra li cookie",
+	"wikimedia-cookiestatement": "Dichiarazzioni ncapu ê cookie",
 	"action-docseditor": "canciari ducumintazzioni",
 	"right-docseditor": "Cancia ducumintazzioni",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
