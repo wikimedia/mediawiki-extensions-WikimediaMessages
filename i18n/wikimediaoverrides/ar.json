@@ -63,7 +63,7 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy]",
 	"wikimedia-notification-body-oathauth-disable-other": "إذا كان {{GENDER:$2| أنت}} لم تطلب هذا ، {{GENDER:$2| يجب عليك}} الاتصال بـ WMF Trust & Safety.",
 	"wikimedia-ipinfo-infobox-use-terms": "تستخدم أداة معلومات IP قواعد بيانات ماكسمايند لعرض التفاصيل مثل الموقع التقريبي والوكيل وعدد الأجهزة التي تشارك عنوان IP هذا. يرجى مراجعة [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي] قبل تمكينها.",
-	"wikimedia-ipinfo-preference-use-agreement": "أوافق على استخدام هذه الأداة وفقًا لـ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي]، فقط من أجل التحقيق أو منع التخريب أو الإساءة أو الانتهاكات الأخرى لمؤسسة ويكيميديا أو سياسات المجتمع.",
+	"wikimedia-ipinfo-preference-use-agreement": "أوافق على استخدام هذه الأداة وفقًا لـ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines إرشادات أداة معلومات الآي بي]، فقط من أجل التحقيق أو منع التخريب أو الإساءة أو الانتهاكات الأخرى لمؤسسة ويكيميديا أو سياسات المجتمع",
 	"wikimedia-similareditors-error-default": "حدث خطأ ما ، نحن نبحث فيه. إذا استمرت المشكلة ، يرجى التواصل معنا [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors هنا].",
 	"wikimedia-centralauth-admin-log-otherwiki": "الحساب مغلق. طالع [[meta:Special:CentralAuth/$1|تفاصيل الحساب العالمي على الميتاويكي]] لمزيدٍ من التفاصيل.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "لقد تم حظر عنوان IP الخاص بك [[m:Special:MyLanguage/Global blocks|على جميع الويكيات]].",

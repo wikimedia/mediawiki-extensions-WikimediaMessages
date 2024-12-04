@@ -30,7 +30,7 @@
 	"wikimedia-sitematrix-summary": "Ова посебна страница наводи све викије Викимедије.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Политика приватности]",
 	"wikimedia-ipinfo-infobox-use-terms": "IP инфо користи базу података MaxMind-а за приказ информација као што су локација, прокси и колико уређаја користи ову IP адресу. Молимо прочитајте [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP инфо смернице].",
-	"wikimedia-ipinfo-preference-use-agreement": "Пристајем да користим ову алатку у складу са [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines смерницама за IP информације], искључиво за истрагу и превенцију вандализама, злоупотреба или других кршења правила Викимедије или заједнице.",
+	"wikimedia-ipinfo-preference-use-agreement": "Пристајем да користим ову алатку у складу са [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines смерницама за IP информације], искључиво за истрагу и превенцију вандализама, злоупотреба или других кршења правила Викимедије или заједнице",
 	"wikimedia-similareditors-error-default": "Нешто је у квару, радимо на поправци  Ако се  проблем настави, јавите нам се [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors овде].",
 	"wikimedia-centralauth-admin-log-otherwiki": "Овај налог је закључан. За више информација погледајте  [[meta:Special:CentralAuth/$1|детаље глобалног налога]] на Метавикију.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Ваша IP адреса је [[m:Special:MyLanguage/Global blocks|блокирана на свим викијима]].",
