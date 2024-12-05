@@ -15,6 +15,7 @@
 			"Multichill",
 			"Tomchen1989",
 			"Waihorace",
+			"列维劳德",
 			"和平奮鬥救地球"
 		]
 	},
@@ -229,7 +230,7 @@
 	"wm-license-cc-conditions-attribution-header": "姓名標示",
 	"wm-license-cc-conditions-attribution-text": "您必須指名出正確的製作者，和提供授權條款的連結，以及表示是否有對內容上做出變更。您可以用任何合理的方式來行動，但不得以任何方式表明授權條款是對您許可或是由您所使用。",
 	"wm-license-cc-conditions-share_alike-header": "相同方式分享",
-	"wm-license-cc-conditions-share_alike-text": "如果您利用本素材進行再混合、轉換或創作，您必須基於如同原先的[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses 相同或兼容的條款]，來分布您的貢獻成品。",
+	"wm-license-cc-conditions-share_alike-text": "若要根據本素材進行再混合、轉換或創作，則必須以與原作[[ccorg:share-your-work/licensing-considerations/compatible-licenses|相同或相容的授權]]來發布您的作品。",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.zh_TW",
 	"wm-license-cc-pd-mark-text": "此作品無已知的著作權限制，亦不受所有相關和鄰接的權利限制。"
 }
