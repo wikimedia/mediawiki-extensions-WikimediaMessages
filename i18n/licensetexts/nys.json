@@ -4,13 +4,11 @@
 			"Gnangarra"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Permission is granted to copy, distribute and/or modify this document under the terms of the '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.2 or any later version published by the [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Warrang-an",
 	"wm-license-information-source": "Birnup",
 	"wm-license-information-date": "Date",
 	"wm-license-information-author": "Noonook",
 	"wm-license-information-permission": "Kaya",
 	"wm-license-information-permission-reusing-text": "ngatti-ngatti nidja file",
-	"wm-license-own-work": "ngun-ya ijow",
-	"wm-license-self-multiple-licenses-select": "You may select the license of your choice."
+	"wm-license-own-work": "ngun-ya ijow"
 }

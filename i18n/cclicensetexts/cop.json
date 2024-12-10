@@ -4,6 +4,8 @@
 			"Bloomaround"
 		]
 	},
+	"wm-license-cc-attribution": "Ⲡⲧⲱϫⲓ",
+	"wm-license-cc-by-sa-3.0-text": "Ⲁⲩϯⲙⲁ ⲙ̀ⲡⲁⲓⲕⲟⲓϩⲓ ⲕⲁⲧⲁⲡⲓϫⲓⲛϯⲙⲁ ⲛ̀[[{{int:wm-license-cc-wiki-link}}|Creative Commons]][[creativecommons:by-sa/3.0/deed.en|Ⲡⲧⲱϫⲓ-ⲡϫⲓⲛⲉⲣϣⲫⲏⲣ ⲕⲁⲧⲁⲛⲓⲭⲣⲓⲁ̀ ⲣⲱ 3.0 Unported]].",
 	"wm-license-cc-free": "Ⲧⲉⲧⲉⲛϣ̀ϫⲉⲙϫⲟⲙ:",
 	"wm-license-cc-free-to-share-header": "ⲉ̀ⲉⲣϣⲫⲏⲣ",
 	"wm-license-cc-free-to-share-text": "ⲉ̀ⲉⲣϩⲓⲥⲟⲥ ⲛⲉⲙⲥⲱⲣ ⲛⲉⲙⲟⲩⲱⲧⲉⲃ ⲙ̀ⲡϩⲱⲃ",
@@ -11,5 +13,6 @@
 	"wm-license-cc-free-to-remix-text": "ⲉⲧⲱⲡ ⲙ̀ⲡϩⲱⲃ",
 	"wm-license-cc-conditions": "Ⲕⲁⲧⲁⲛⲁⲓⲟ̀ⲙⲟⲗⲟⲅⲓⲁ̀ ⲛⲁⲓ:",
 	"wm-license-cc-conditions-attribution-header": "ⲡⲧⲱϫⲓ",
+	"wm-license-cc-conditions-attribution-text": "Ϩⲱϯ ⲛ̀ⲧⲉⲧⲉⲛⲓⲣⲓ ⲛ̀ⲟⲩⲧⲁⲓⲟ̀ ⲉⲑⲧⲟⲙⲓ ⲟⲩⲟϩ ⲥⲁϩⲛⲓ ⲛ̀ⲟⲩⲗⲱⲟⲩ ⲉ̀ⲡϫⲓⲛϯⲙⲁ ⲟⲩⲟϩ ⲉⲣⲙⲏⲓⲛⲓ ϫⲉ ⲁ̀ⲧⲉⲧⲉⲛϣⲓⲃϯ ⲛ̀ϩⲗⲓ. Ⲟⲩⲟⲛϣϫⲟⲙ ⲙ̀ⲙⲱⲧⲉⲛ ⲉ̀ⲁⲓϥ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲛ̀ⲗⲟⲅⲓⲕⲏ ⲛⲓⲃⲉⲛ ⲁⲗⲗⲁ ⲕⲁⲧⲁⲥⲙⲟⲧ ⲁⲛ ⲉⲧϯⲙⲉⲩⲓ̀ϫⲉ ⲡⲣⲉϥϯⲙⲁ ϥⲁⲙⲟⲛⲓ ⲛⲉⲙⲱⲧⲉⲛ ϣⲁⲛⲡⲉⲧⲉⲛϫⲓⲛⲉⲣⲭⲣⲁⲥⲑⲉ.",
 	"wm-license-cc-conditions-share_alike-header": "ⲉⲣϣⲫⲏⲣ ⲕⲁⲧⲁⲛⲓⲭⲣⲓⲁ̀ ⲣⲱ"
 }
