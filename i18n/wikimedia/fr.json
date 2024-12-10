@@ -193,7 +193,7 @@
 	"group-rollbacker-member": "révocat{{GENDER:$1|eur|rice}}",
 	"grouppage-rollbacker": "{{ns:project}}:Révocateurs",
 	"group-scrutineer": "Scrutateurs",
-	"group-scrutineer-member": "scrutat{{GENDER:$1|eur|rice}}",
+	"group-scrutineer-member": "{{GENDER:$1|scrutateur|scrutatrice}}",
 	"grouppage-scrutineer": "{{ns:project}}:Scrutateurs",
 	"group-transwiki": "Importateurs transwiki",
 	"group-transwiki-member": "importat{{GENDER:$1|eur|rice}} transwiki",
