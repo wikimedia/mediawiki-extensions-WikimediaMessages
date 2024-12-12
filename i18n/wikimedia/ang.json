@@ -4,7 +4,8 @@
 			"Gott wisst",
 			"Heahwrita",
 			"JJohnson1701",
-			"Wōdenhelm"
+			"Wōdenhelm",
+			"Rocioun"
 		]
 	},
 	"wikimediamessages-desc": "Ǣrendgewritu synderlīce for Wikimedie",
@@ -49,5 +50,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikicwide",
 	"wikibase-sitelinks-wikisource": "Wikifruma",
 	"wikibase-sitelinks-wikivoyage": "Wikifering",
-	"wikimedia-developers": "Wyrhtan"
+	"wikimedia-developers": "Wyrhtan",
+	"wikimedia-statslink": "Gewissung",
+	"wikimedia-cookiestatement": "Gecwed be Cookie"
 }
