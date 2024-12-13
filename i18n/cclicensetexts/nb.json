@@ -213,7 +213,7 @@
 	"wm-license-cc-sa-1.0-fi-text": "Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/fi/deed.no|DelPåSammeVilkår 1.0 Finland]].",
 	"wm-license-cc-sa-1.0-nl-text": "Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.no|DelPåSammeVilkår 1.0 Nederland]].",
 	"wm-license-cc-sa-2.0-jp-text": "Denne filen er lisensiert under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.no|DelPåSammeVilkår 2.0 Japan]].",
-	"wm-license-cc-zero-text": "Denne filen er gjort tilgjengelig under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.no CC0 1.0 Universal Fristatus-erklæring].",
+	"wm-license-cc-zero-text": "Denne filen er gjort tilgjengelig under lisensen [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[ccorg:publicdomain/zero/1.0/deed.no|CC0 1.0 Universal Fristatus-erklæring]].",
 	"wm-license-cc-zero-explanation": "Personen som koblet et verk med dette dokumentet har tilegnet arbeidet til [[{{int:wm-license-pd-wiki-link}}|allmennheten]] ved, i den utstrekning loven tillater det, å avstå fra alle de rettigheter vedkommende skulle hatt ifølge opphavsrettsloven og andre relaterte eller nærliggende juridiske rettigheter. Verk under CC0 krever ikke attributtering. Ved bruk av verket trenger du ikke å få godkjennelse fra opphavspersonen.",
 	"wm-license-cc-free": "Du står fritt:",
 	"wm-license-cc-free-to-share-header": "til å dele",
@@ -224,7 +224,7 @@
 	"wm-license-cc-conditions-attribution-header": "navngivelse",
 	"wm-license-cc-conditions-attribution-text": "Du må kreditere verket på passende vis, lenke til lisensen og indikere hvorvidt det har blitt gjort endringer. Du kan gjøre det på enhver rimelig måte, men ikke på en måte som antyder at lisensgiveren støtter deg eller din bruk av verket.",
 	"wm-license-cc-conditions-share_alike-header": "del på samme vilkår",
-	"wm-license-cc-conditions-share_alike-text": "Dersom du remikser, omarbeider eller på annen måte bygger på dette verket, må du kun distribuere resultatet under den [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses samme eller en samsvarende lisens] som denne.",
+	"wm-license-cc-conditions-share_alike-text": "Dersom du remikser, omarbeider eller på annen måte bygger på dette verket, må du kun distribuere resultatet under den [[ccorg:share-your-work/licensing-considerations/compatible-licenses|samme eller en samsvarende lisens]] som denne.",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.no",
 	"wm-license-cc-pd-mark-text": "Denne filen har blitt identifisert til å være fri for kjente restriksjoner under lov om opphavsrett, inkludert alle relaterte og nærstående rettigheter."
 }
