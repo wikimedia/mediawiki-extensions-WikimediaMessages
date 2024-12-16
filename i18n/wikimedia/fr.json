@@ -86,7 +86,7 @@
 			"Varnent"
 		]
 	},
-	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
+	"wikimediamessages-desc": "Messages spécifiques de Wikimédia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=fr",
 	"sitesupport": "Faire un don",
 	"tooltip-n-sitesupport": "Soutenez-nous",
@@ -210,7 +210,7 @@
 	"group-apihighlimits-requestor": "Demandeurs de limite supérieure de l'API",
 	"group-apihighlimits-requestor-member": "demandeu{{GENDER:$1|r|se}} de limite supérieure de l’API",
 	"grouppage-apihighlimits-requestor": "m:API high limit requestors/fr",
-	"group-captcha-exempt": "Exemptions de CAPTCHA",
+	"group-captcha-exempt": "Exemptés de CAPTCHA",
 	"group-captcha-exempt-member": "exempté{{GENDER:$1||e}} de CAPTCHA",
 	"grouppage-captcha-exempt": "m:Special:MyLanguage/CAPTCHA exemptions",
 	"group-centralnoticeadmin": "Administrateurs des notifications centralisées",
@@ -227,7 +227,7 @@
 	"grouppage-global-deleter": "m:Global deleters/fr",
 	"group-global-flow-create": "Créateurs de Flow global",
 	"group-global-flow-create-member": "créat{{GENDER:$1|eur|rice}} de Flow global",
-	"group-global-ipblock-exempt": "Exemptions de blocage global d’adresses IP",
+	"group-global-ipblock-exempt": "Exemptés de blocage global d’adresses IP",
 	"group-global-ipblock-exempt-member": "exempté{{GENDER:$1||e}} de blocage global d’adresse IP",
 	"grouppage-global-ipblock-exempt": "m:Special:MyLanguage/Global IP block exemptions",
 	"group-global-interface-editor": "Modificateurs d’interface globaux",

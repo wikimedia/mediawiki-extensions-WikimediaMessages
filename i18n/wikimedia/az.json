@@ -201,6 +201,7 @@
 	"group-wmf-officeit-member": "{{GENDER:$1|WMF Office IT}}",
 	"group-wmf-researcher": "WMF tədqiqatçıları",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF tədqiqatçısı}}",
+	"tag-emoji": "Emoji",
 	"tag-emoji-description": "110 nömrəli qlobal dəyişiklik süzgəci tərəfindən istifadə olunur.",
 	"tag-AWB": "[https://az.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "[https://az.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] ilə edilmiş redaktələr",

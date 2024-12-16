@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ajeje Brazorf",
-			"Dapal"
+			"Dapal",
+			"GianAntonucci"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia n afar",
@@ -642,8 +643,8 @@
 	"project-localized-name-sawikiquote": "Wikiquote n sànscritu",
 	"project-localized-name-sawikisource": "Wikisource n sànscritu",
 	"project-localized-name-sawiktionary": "Wikizziunariu n sànscritu",
-	"project-localized-name-scnwiki": "Wikipedia n sicilianu",
-	"project-localized-name-scnwiktionary": "Wikizziunariu n sicilianu",
+	"project-localized-name-scnwiki": "Wikipedia 'n sicilianu",
+	"project-localized-name-scnwiktionary": "Wikizziunariu 'n sicilianu",
 	"project-localized-name-scowiki": "Wikipedia n scuzzisi",
 	"project-localized-name-scwiki": "Wikipedia n sardu",
 	"project-localized-name-scwiktionary": "Wikizziunariu n sardu",
