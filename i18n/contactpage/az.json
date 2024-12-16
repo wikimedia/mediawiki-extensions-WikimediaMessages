@@ -43,6 +43,14 @@
 	"contactpage-wikimedia-trademark-wikiversity": "Vikiversitet",
 	"contactpage-wikimedia-trademark-wiktionary": "Vikilüğət",
 	"contactpage-wikimedia-trademark-wikivoyage": "Vikisəyahət",
+	"contactpage-title-licenseabuse": "Sui-istifadə şikayət formu",
+	"contactpage-pagetext-licenseabuse": "Vikimedia ticarət nişanından sui-istifadə etdiyindən şübhələndiyiniz şəxs haqqında bizimlə əlaqə saxlamaq üçün aşağıdakı formadan istifadə edin.",
+	"contactpage-subject-licenseabuse": "Vikimedia ticarət nişanından sui-istifadə bildirişi",
+	"contactpage-license-abuse-description": "Sui-istifadəni təsvir edin",
+	"contactpage-license-abuse-selectmark": "Hansı nişandan sui-istifadə edilir?",
+	"contactpage-license-abuse-location": "Sui-istifadənin yeri (onlayn/oflayn)",
+	"contactpage-license-abuse-theircontact": "Nişandan sui-istifadə edən şəxsin əlaqə məlumatları (əgər məlumdursa)",
+	"contactpage-license-abuse-yourcontact": "Əlaqə məlumatınız (sizinlə əlaqə saxlaya bilsək)",
 	"contactpage-title-stewards": "Stüardlarla əlaqə saxlayın",
 	"contactpage-blocked-message-accountvanishapps": "Üzr istəyirik, deyəsən hesabınız və ya IP ünvanınız hazırda mesaj göndərməkdən bloklanıb. Bloklanmış halda Siz Hesabın Silmə Formasından istifadə edə bilməyəcəksiniz. Hesabın silinməsinə davam etmək üçün {{NonSpamEmail|privacy|wikimedia.org}} ünvanına e-məktub göndərin."
 }

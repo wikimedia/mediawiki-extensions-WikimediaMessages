@@ -1,6 +1,17 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Cabal"
+		]
 	},
-	"wikimedia-centralauth-groupname": "ਵਿਕਿਪੀਡਿਆ ਫਾਊਂਡੇਸ਼ਨ"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ਚੁਣਨ ਵਿੱਚ ਮੇਰੀ ਮਦਦ ਕਰੋ)]]",
+	"wikimedia-centralauth-groupname": "ਵਿਕੀਮੀਡੀਆ ਸੰਸਥਾ",
+	"createacct-helpusername-url": "{{ns:Project}}:ਵਰਤੋਂਕਾਰ-ਨਾਂ_ਨੀਤੀ",
+	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nਰੋਕ $1 ਵੱਲੋਂ ਬਣਾਈ ਗਿਆ ਸੀ।\nਦਿੱਤਾ ਗਿਆ ਕਾਰਨ ''$2'' ਹੈ।\n \n* ਪਾਬੰਦੀ ਦੀ ਸ਼ੁਰੂਆਤ: $8 \n* ਪਾਬੰਦੀ ਦੀ ਮਿਆਦ ਪੁੱਗਣੀ: $6 \n\nਤੁਹਾਡਾ ਮੌਜੂਦਾ IP ਪਤਾ $3 ਹੈ।\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nਰੋਕ $1 ਵੱਲੋਂ ਬਣਾਈ ਗਿਆ ਸੀ।\nਦਿੱਤਾ ਗਿਆ ਕਾਰਨ ''$2'' ਹੈ।\n\n* ਬਲਾਕ ਦੀ ਸ਼ੁਰੂਆਤ: $8\n* ਬਲਾਕ ਦੀ ਮਿਆਦ ਪੁੱਗਣੀ: $6\n\nਤੁਹਾਡਾ ਮੌਜੂਦਾ IP ਪਤਾ $3 ਹੈ।\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
+	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nਰੋਕ $1 ਵੱਲੋਂ ਬਣਾਈ ਗਿਆ ਸੀ।\nਦਿੱਤਾ ਗਿਆ ਕਾਰਨ ''$2'' ਹੈ।\n\n* ਪਾਬੰਦੀ ਦੀ ਸ਼ੁਰੂਆਤ: $8\n* ਪਾਬੰਦੀ ਦੀ ਮਿਆਦ ਪੁੱਗਣੀ: $6\n\n{{int:wikimedia-globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
+	"wikimedia-mwoauthserver-invalid-user": "ਤੁਹਾਨੂੰ ਵਿਸ਼ਵ ਪੱਧਰ 'ਤੇ ਦਾਖ਼ਲ ਹੋਣ ਵਿੱਚ ਸਮੱਸਿਆ ਸੀ। ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਆਪਣਾ ਖਾਤਾ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਬਾਹਰ ਜਾਓ ਅਤੇ ਵਾਪਸ ਦਾਖ਼ਲ ਹੋਵੋ, ਫਿਰ ਐਪ ਨੂੰ ਇਖ਼ਤਿਆਰ ਕਰਨ ਲਈ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਆਪਣਾ ਖਾਤਾ ਨਹੀਂ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ [https:// meta.wikimedia.org &lt;ID1 ਉੱਤੇ ਜਾਓ ਅਤੇ ਫਿਰ ਐਪ ਨੂੰ ਇਖ਼ਤਿਆਰ ਕਰਨ ਲਈ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।  (ਗਲਤੀ ਕੋਡਃ E008)",
+	"wikimedia-sitematrix": "ਵਿਕੀਮੀਡੀਆ ਵਿਕੀਆਂ ਦੀ ਸੂਚੀ",
+	"wikimedia-sitematrix-others": "ਹੋਰ ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟ",
+	"wikimedia-sitematrix-summary": "ਇਹ ਖ਼ਾਸ ਸਫ਼ਾ ਸਾਰੇ ਵਿਕੀਮੀਡੀਆ ਵਿਕੀਆਂ ਦੀ ਸੂਚੀ ਦਿੰਦਾ ਹੈ।"
 }
