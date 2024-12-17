@@ -19,7 +19,8 @@
 			"Stjn",
 			"Sunpriat",
 			"Vlad5250",
-			"Null the Great"
+			"Null the Great",
+			"Mitte27"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Посетители этой вики, использующие ваш IP-адрес, создали {{PLURAL:$1|1 аккаунт|$1 аккаунта|$1 аккаунтов}}  за последний день, что является максимумом за этот промежуток времени.\nВ результате, посетители с этого IP-адреса больше не могут создавать аккаунты в данный момент.\n\nЕсли вы находитесь на мероприятии, фокусирующемся на вкладе в проекты Викимедиа, пожалуйста, посмотрите [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Запрос на временное увеличение предела IP]] для помощи в решении этой проблемы.",
@@ -38,6 +39,7 @@
 	"wikimedia-flow-terms-of-use-summarize": "Нажимая на «{{int:flow-topic-action-update-topic-summary}}», вы соглашаетесь с нашими [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use условиями использования], а также соглашаетесь на безотзывную публикацию вашего текста по {{PLURAL:$2|лицензии|лицензиям}} $1.",
 	"wikimedia-flow-terms-of-use-lock-topic": "Нажимая на «{{int:flow-topic-action-lock-topic}}», вы соглашаетесь с нашими [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use условиями использования], а также соглашаетесь на безотзывную публикацию вашего текста {{PLURAL:$2|под лицензией|под лицензиями}} $1.",
 	"wikimedia-flow-terms-of-use-unlock-topic": "Нажимая на «{{int:flow-topic-action-unlock-topic}}», вы соглашаетесь с нашими [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use условиями использования], а также соглашаетесь на безотзывную публикацию вашего текста по {{PLURAL:$2|лицензии|лицензиям}} $1.",
+	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nБлокировка наложена участником $1 .\nВ качестве причины указана '' $2 ''.\n\n* Начало блокировки: $8 \n* Конец блокировки: $6 \n\nВаш текущий IP-адрес: $3 .\n{{int:wikimedia-globalblocking-blockedtext-ip-range| $7 }}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-globalrenamequeue-email-body-approved": "Запрос на переименование «{{GENDER:$1|$1}}» в «{{GENDER:$1|$2}}» был одобрен. По его завершению вы сможете авторизоваться с помощью нового логина и старого пароля. Спасибо за участие в проектах Викимедиа.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Запрос на переименование «{{GENDER:$1|$1}}» в «{{GENDER:$1|$2}}» не может быть завершён.\n\nПримечание: $3\n\nДля получения подробной информации, пожалуйста, посетите страницу:\nhttps://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions. \n\nДля обсуждения вашего запроса на переименование, вы можете написать на страницу: https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes. \n\nВы должны предварительно войти на сайт под своим текущем именем учётной записи.",
 	"wikimedia-interfaceadmin-info": "Редактирование общесайтных CSS/JS/JSON-файлов ограничено участниками группы [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
@@ -51,5 +53,7 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Политика конфиденциальности]",
 	"wikimedia-ipinfo-preference-use-agreement": "Я соглашаюсь использовать этот инструмент согласно [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines правилам его применения], исключительно для расследования или предотвращения вандализма, нецелевого использования или других нарушений правил «Фонда Викимедиа» и вики-сообществ.",
 	"wikimedia-centralauth-admin-log-otherwiki": "Эта учётная запись отключена. Подробнее см. [[meta:Special:CentralAuth/$1|глобальные сведения об учётной записи на Мета-вики]].",
+	"wikimedia-globalblocking-blockedtext-on-range": "Ваш IP-адрес находится в диапазоне, который был [[m:Special:MyLanguage/Global blocks|заблокирован на всех вики-сайтах Фонда Викимедиа]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Если вы считаете, что вас заблокировали по ошибке, вы можете найти дополнительную информацию на странице [[m:Special:MyLanguage/No open proxy|Недопустимость использования открытых прокси-серверов]].\nДля обсуждения блокировки, пожалуйста, [[m:Steward requests/Global|оставьте запрос на Meta-Wiki]].",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Я согласен обращаться с информацией об участниках, включая личную информацию участника, собранную во время регистрации мероприятия, бережно и в соответствии с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Условиями использования]."
 }

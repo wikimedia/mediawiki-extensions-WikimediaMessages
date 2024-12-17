@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajeje Brazorf"
+			"Ajeje Brazorf",
+			"GianAntonucci"
 		]
 	},
 	"search-interwiki-results-abwiki": "Risurtati dâ [[:ab:|Wikipedia n abcasu]].",
@@ -200,7 +201,7 @@
 	"search-interwiki-results-sahwiki": "Risurtati dâ [[:sah:|Wikipedia n yakut]].",
 	"search-interwiki-results-satwiki": "Risurtati dâ [[:sat:|Wikipedia n santali]].",
 	"search-interwiki-results-sawiki": "Risurtati dâ [[:sa:|Wikipedia n sànscritu]].",
-	"search-interwiki-results-scnwiki": "Risurtati dâ [[:scn:|Wikipedia n sicilianu]].",
+	"search-interwiki-results-scnwiki": "Risurtati dâ [[:scn:|Wikipedia 'n sicilianu]].",
 	"search-interwiki-results-scowiki": "Risurtati dâ [[:sco:|Wikipedia n scuzzisi]].",
 	"search-interwiki-results-scwiki": "Risurtati dâ [[:sc:|Wikipedia n sardu]].",
 	"search-interwiki-results-sdwiki": "Risurtati dâ [[:sd:|Wikipedia n sindhi]].",
