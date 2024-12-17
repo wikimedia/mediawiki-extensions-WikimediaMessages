@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Iktirap",
+	"wm-license-cc-by-sa-3.0-text": "Pail ni dibagi lisin di bawah lisin [[creativecommons:by-sa/3.0/deed.en|Bagi-Kungsi Sama 3.0 Ndak Dipot]] [[{{int:wm-license-cc-wiki-link}}|Creative Commons]].",
 	"wm-license-cc-free": "Bulih kita:",
 	"wm-license-cc-free-to-share-header": "kungsi",
 	"wm-license-cc-free-to-share-text": "kopi, bagi dan pindah karya",
@@ -12,5 +13,7 @@
 	"wm-license-cc-free-to-remix-text": "manyasuaikan karya",
 	"wm-license-cc-conditions": "Di bawah syarat ni:",
 	"wm-license-cc-conditions-attribution-header": "iktirap",
-	"wm-license-cc-conditions-share_alike-header": "kungsi sama rupa"
+	"wm-license-cc-conditions-attribution-text": "Kita mesti bagi kredit yang ngam, bagi link lisin dan bagitau kalau ada perubahan dibuat. Kita bulih buat tu dengan cara yang bagus tapi bukan dengan cara yang pembagi lisin sukung kita atau penggunaan kita.",
+	"wm-license-cc-conditions-share_alike-header": "kungsi sama rupa",
+	"wm-license-cc-conditions-share_alike-text": "Kalau kita kasih campur balik, ubah atau buat guna bahan, kita mesti bagi sumbangan kita guna [[ccorg:share-your-work/licensing-considerations/compatible-licenses|lisin sama atau ngam]] dengan yang ori."
 }
