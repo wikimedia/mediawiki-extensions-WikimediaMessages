@@ -386,7 +386,7 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "لمزيد من المعلومات، راجع [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement بيان الخصوصية الخاص بهذا الاستطلاع].",
 	"wikimedia-switchover-read-only": "لا يمكنك التعديل الآن. هذا بسبب الصيانة. انسخ واحفظ نصك وحاول مرة أخرى بعد عدة دقائق.",
 	"passwordpolicies-policy-blockattacker": "سياسة كلمة المرور للتخفيف من الهجمات المعروفة حيث يؤدي الإفصاح عن التفاصيل إلى إعاقة التخفيف",
-	"technical-maintenance-soon": "سيتم إجراء صيانة تقنية قريباً",
+	"technical-maintenance-soon": "سيتم إجراء صيانة تقنية قريبا:",
 	"technical-maintenance-edit": "في هذه الأثناء من الممكن ألا تكون قادراً على حفظ أي من التعديلات",
 	"group-oathauth-tester": "مختبرو التوثيق ذي العاملين",
 	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين",
