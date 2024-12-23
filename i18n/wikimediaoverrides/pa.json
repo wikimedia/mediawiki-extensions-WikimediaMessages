@@ -1,6 +1,14 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Cabal"
+		]
 	},
-	"wikimedia-centralauth-groupname": "ਵਿਕਿਪੀਡਿਆ ਫਾਊਂਡੇਸ਼ਨ"
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ਚੁਣਨ ਵਿੱਚ ਮੇਰੀ ਮਦਦ ਕਰੋ)]]",
+	"wikimedia-centralauth-groupname": "ਵਿਕੀਮੀਡੀਆ ਸੰਸਥਾ",
+	"createacct-helpusername-url": "{{ns:Project}}:ਵਰਤੋਂਕਾਰ-ਨਾਂ_ਨੀਤੀ",
+	"wikimedia-mwoauthserver-invalid-user": "ਤੁਹਾਨੂੰ ਵਿਸ਼ਵ ਪੱਧਰ 'ਤੇ ਦਾਖ਼ਲ ਹੋਣ ਵਿੱਚ ਸਮੱਸਿਆ ਸੀ। ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਆਪਣਾ ਖਾਤਾ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਬਾਹਰ ਜਾਓ ਅਤੇ ਵਾਪਸ ਦਾਖ਼ਲ ਹੋਵੋ, ਫਿਰ ਐਪ ਨੂੰ ਇਖ਼ਤਿਆਰ ਕਰਨ ਲਈ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ। ਜੇ ਤੁਸੀਂ ਹੁਣੇ ਆਪਣਾ ਖਾਤਾ ਨਹੀਂ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ [https:// meta.wikimedia.org &lt;ID1 ਉੱਤੇ ਜਾਓ ਅਤੇ ਫਿਰ ਐਪ ਨੂੰ ਇਖ਼ਤਿਆਰ ਕਰਨ ਲਈ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।  (ਗਲਤੀ ਕੋਡਃ E008)",
+	"wikimedia-sitematrix": "ਵਿਕੀਮੀਡੀਆ ਵਿਕੀਆਂ ਦੀ ਸੂਚੀ",
+	"wikimedia-sitematrix-others": "ਹੋਰ ਵਿਕੀਮੀਡੀਆ ਪ੍ਰੋਜੈਕਟ",
+	"wikimedia-sitematrix-summary": "ਇਹ ਖ਼ਾਸ ਸਫ਼ਾ ਸਾਰੇ ਵਿਕੀਮੀਡੀਆ ਵਿਕੀਆਂ ਦੀ ਸੂਚੀ ਦਿੰਦਾ ਹੈ।"
 }
