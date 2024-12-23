@@ -131,6 +131,8 @@
 	"group-global-sysop-member": "{{GENDER:$1|глобални администратор|глобална администраторка|глобални администратор}}",
 	"group-oauthadmin": "OAuth администратори",
 	"group-oauthadmin-member": "{{GENDER:$1|OAuth администратор}}",
+	"group-pagemover": "Премештачи страница",
+	"group-pagemover-member": "{{GENDER:$1|премештач страница}}",
 	"group-staff": "Уредништво",
 	"group-staff-member": "{{GENDER:$1|члан уредништва}}",
 	"group-steward": "Стјуарди",

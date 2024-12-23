@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"BadDog",
+			"Matma Rex",
 			"Vlad5250",
 			"Winston Sung"
 		]
@@ -23,10 +24,10 @@
 	"group-otrs-member": "Članovi VRT-a",
 	"group-otrs-member-member": "{{GENDER:$1|član VRT-a|članica VRT-a}}",
 	"grouppage-otrs-member": "{{ns:project}}:Članovi VRT-a",
-	"group-abusefilter": "Uređivači filtera protiv zloupotrebe",
+	"group-abusefilter": "Abuse filter editors",
 	"group-abusefilter-member": "{{GENDER:$1|Uređivač filtera protiv zloupotrebe}}",
 	"grouppage-abusefilter": "{{ns:project}}:Uređivači filtera protiv zloupotrebe",
-	"group-abusefilter-helper": "Uređivači filtera protiv zloupotrebe",
+	"group-abusefilter-helper": "Abuse filter helpers",
 	"group-abusefilter-helper-member": "{{GENDER:$1|pomogatelj filtera protiv zloupotrebe|pomogateljica filtera protiv zloupotrebe}}",
 	"group-abusefilter-maintainer": "Održavatelji filtra zloporaba",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|održavatelj filtera zloupotreba|održavateljica filtera zloupotreba}}",

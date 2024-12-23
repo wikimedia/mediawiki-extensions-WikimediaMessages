@@ -4,5 +4,7 @@
 			"Kxeo"
 		]
 	},
-	"search-interwiki-results-brwiki": "Izsadinna rezultatāi iz [[:br:|Breton Wikipedia]]."
+	"search-interwiki-results-brwiki": "Izsadinna rezultatāi iz [[:br:|bretoniskan Wikipēdijan]].",
+	"search-interwiki-results-hywiki": "Izsadinna rezultatāi iz [[:hy:|armēniskan Wikipēdijan]].",
+	"search-interwiki-results-hywwiki": "Izsadinna rezultatāi iz [[:hyw:|wakkaranarmēniskan Wikipēdijan]]."
 }
