@@ -19,7 +19,8 @@
 			"Tacsipacsi",
 			"Tgr",
 			"Urbalazs",
-			"Varnent"
+			"Varnent",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -90,7 +91,7 @@
 	"group-ipblock-exempt": "IP-blokkok alól mentesülők",
 	"group-ipblock-exempt-member": "IP-blokkok alól mentesülő",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Mentesülés az IP-blokkok alól",
-	"group-patroller": "járőrök",
+	"group-patroller": "Patrollers",
 	"group-patroller-member": "{{GENDER:$1|járőr}}",
 	"grouppage-patroller": "{{ns:project}}:Járőrök",
 	"group-propertycreator": "tulajdonságlétrehozók",

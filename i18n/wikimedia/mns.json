@@ -1,9 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ewithu"
+			"Ewithu",
+			"Köpleres"
 		]
 	},
+	"wikibase-sitelinks-wiktionary": "Викисловарь",
+	"wikibase-otherprojects-wikipedia": "Википедия",
+	"wikibase-otherprojects-wiktionary": "Викисловарь",
+	"interlanguage-link-wikipedia": "Википедия",
 	"wikimedia-statslink": "Статистикат",
 	"wikimedia-cookiestatement": "Куки ла̄выгла̄лул"
 }

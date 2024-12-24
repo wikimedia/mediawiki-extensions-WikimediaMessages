@@ -6,13 +6,15 @@
 			"Ideophagous",
 			"Reda Benkhadra",
 			"SADIQUI",
-			"Varnent"
+			"Varnent",
+			"Meno25"
 		]
 	},
 	"sitesupport": "عاون لفريق",
 	"tooltip-n-sitesupport": "عاونا",
 	"group-confirmed": "خدايميا مكونفيرمين",
 	"group-ipblock-exempt": "مستتنين من لبلوك د لأيپي",
+	"group-patroller": "المراقبين",
 	"group-steward": "ريجيسورات",
 	"wikimedia-copyright-footer": "النصوص مرخصة [https://creativecommons.org/licenses/by-sa/4.0/ ب ترخيص لمشاع لإبداعي: النسبة-الترخيص ب لبحال].\nتقدر تكون بنود خرة مطبقة.\nشوف [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط التخدام] على قبل التفاصيل.",
 	"wikimedia-copyrightwarning": "يلا كليكيتي على لبوطونة \"{{int:savearticle}}\"، فا راك كتوافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط التخدام] و ترخيص لمساهمات دياولك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/4.0/deed.ar ب ترخيص لمشاع لإبداعي: النسبة-الترخيص ب لبحال 4.0] و[https://www.gnu.org/copyleft/fdl.html ترخيص ݣنو د لوتايق الحرة].\nو كتوافق باش تنسب لمساهمات دياولك ليك، ب ترخيص لمشاع لإبداعي، ب ليان صافي.",
