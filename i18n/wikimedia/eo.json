@@ -22,7 +22,8 @@
 			"YvesNevelsteen",
 			"Ziko",
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Specifaj mesaĝoj de Wikimedia",
@@ -49,7 +50,7 @@
 	"group-arbcom": "Komitatano de arbitracia komitato",
 	"group-arbcom-member": "{{GENDER:$1|komitatano de arbitracia komitato}}",
 	"grouppage-arbcom": "{{ns:project}}:Komitatantoj de arbitracia komitato",
-	"group-autopatrolled": "Mempatrolatoj",
+	"group-autopatrolled": "Autopatrollers",
 	"group-autopatrolled-member": "{{GENDER:$1|mempatrolato}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Mempatrolatoj",
 	"group-autoreviewer": "Aŭtomataj kontrolantoj",
@@ -87,7 +88,7 @@
 	"group-ipblock-exempt": "Grupano imuna de IP-forbaro",
 	"group-ipblock-exempt-member": "{{GENDER:$1|grupano imuna de IP-forbaro}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Grupano imuna de IP-forbaro",
-	"group-patroller": "Patrolantoj",
+	"group-patroller": "Patrollers",
 	"group-patroller-member": "{{GENDER:$1|patrolanto}}",
 	"grouppage-patroller": "{{ns:project}}:Patrolantoj",
 	"group-researcher": "Esplorantoj de forigitaĵoj",

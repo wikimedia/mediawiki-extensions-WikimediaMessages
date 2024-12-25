@@ -65,8 +65,10 @@
 	"wikimedia-similareditors-error-default": "حدث خطأ ما ، نحن نبحث فيه. إذا استمرت المشكلة ، يرجى التواصل معنا [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors هنا].",
 	"wikimedia-centralauth-admin-log-otherwiki": "الحساب مغلق. طالع [[meta:Special:CentralAuth/$1|تفاصيل الحساب العالمي على الميتاويكي]] لمزيدٍ من التفاصيل.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "لقد تم حظر عنوان IP الخاص بك [[m:Special:MyLanguage/Global blocks|على جميع الويكيات]].",
+	"wikimedia-globalblocking-blockedtext-on-range": "يقع عنوان IP الخاص بك في نطاق تم [[m:Special:MyLanguage/Global blocks|حظره على جميع ويكيات مؤسسة ويكيميديا]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "تم حظر واحد أو أكثر من خوادم الوكيل المستخدمة في طلبك [[m:Special:MyLanguage/Global blocks|عالميا]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "النطاق المحظور هو $1 .",
 	"wikimedia-globalblocking-blockedtext-proxy": "كان عنوان الوكيل المحظور $1 .",
-	"wikimedia-globalblocking-blockedtext-mistake": "إذا كنت تعتقد أنه تم حظرك عن طريق الخطأ، يمكنك العثور على معلومات وإرشادات إضافية في السياسة العامة [[m:Special:MyLanguage/No open proxies\n||لا وكلاء مفتوحين|]].\nخلاف ذلك، لمناقشة الحجب، يرجى [[m:Steward requests/Global|نشر طلب للمراجعة على ميتا ويكي]]."
+	"wikimedia-globalblocking-blockedtext-mistake": "إذا كنت تعتقد أنه تم حظرك عن طريق الخطأ، يمكنك العثور على معلومات وإرشادات إضافية في السياسة العامة [[m:Special:MyLanguage/No open proxies\n||لا وكلاء مفتوحين|]].\nخلاف ذلك، لمناقشة الحجب، يرجى [[m:Steward requests/Global|نشر طلب للمراجعة على ميتا ويكي]].",
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "يمكنك أيضًا إرسال بريد إلكتروني إلى قائمة [[m:Special:MyLanguage/Stewards|المشرفين]] [[m:Special:MyLanguage/VRT|VRT]] على <kbd>stewards@wikimedia.org</kbd> بما في ذلك جميع التفاصيل المذكورة أعلاه."
 }
