@@ -91,7 +91,7 @@
 	"group-ipblock-exempt-member": "IP-blokkok alól mentesülő",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Mentesülés az IP-blokkok alól",
 	"group-patroller": "FV-járőrök",
-	"group-patroller-member": "{{GENDER:$1|járőr}}",
+	"group-patroller-member": "{{GENDER:$1|FV-járőr}}",
 	"grouppage-patroller": "{{ns:project}}:Járőrök",
 	"group-propertycreator": "tulajdonságlétrehozók",
 	"group-propertycreator-member": "{{GENDER:$1|tulajdonságlétrehozó}}",

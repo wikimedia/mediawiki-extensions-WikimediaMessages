@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Apple TD",
+			"Gminky",
 			"Nikki",
 			"Varnent",
 			"Waki285",
@@ -22,6 +23,7 @@
 	"wm-commonstrings-enterquestion": "質問を入力してください。",
 	"wm-commonstrings-events": "イベント",
 	"wm-commonstrings-externallinks": "外部リンク",
+	"wm-commonstrings-feedback": "フィードバック",
 	"wm-commonstrings-follow": "フォロー",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|詳細: $1}}",
 	"wm-commonstrings-mywork": "私の仕事",
