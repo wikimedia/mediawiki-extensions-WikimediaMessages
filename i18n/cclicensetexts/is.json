@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Snævar",
+			"Sveinki",
 			"Sveinn í Felli"
 		]
 	},
@@ -16,5 +17,5 @@
 	"wm-license-cc-conditions-attribution-header": "tilvísun höfundarréttar",
 	"wm-license-cc-conditions-attribution-text": "Þú verður að tilgreina viðurkenningu á höfundarréttindum, gefa upp tengil á notkunarleyfið og gefa til kynna ef breytingar hafa verið gerðar. Þú getur gert þetta á einhvern ásættanlegan máta, en ekki á nokkurn þann hátt sem bendi til þess að leyfisveitandinn styðji þig eða notkun þína á verkinu.",
 	"wm-license-cc-conditions-share_alike-header": "Deila eins",
-	"wm-license-cc-conditions-share_alike-text": "Ef þú breytir, yfirfærir eða byggir á þessu efni, þá mátt þú eingöngu dreifa því verki með [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses sama eða svipuðu leyfi] og upprunalega verkið er með."
+	"wm-license-cc-conditions-share_alike-text": "Ef þú breytir, yfirfærir eða byggir á þessu efni, þá mátt þú eingöngu dreifa því verki með [[ccorg:share-your-work/licensing-considerations/compatible-licenses|sama eða svipuðu notkunarleyfi]] og upprunalega verkið er með."
 }
