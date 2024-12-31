@@ -3,9 +3,11 @@
 		"authors": [
 			"ArmenBakkalian",
 			"Azniv Stepanian",
+			"Kareyac",
 			"Rajemian"
 		]
 	},
+	"wm-license-book-language": "Լեզու",
 	"wm-license-gfdl-1.2-and-later": "Այս վաւերագիրը ընդօրինակելու, ցրուելու եւ/կամ ձեւափոխելու արտօնութիւնը տրուած է '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Վաւերագրական ձրի արտօնագիր]]''', 1.2 տարբերակի կամ աւելի ուշ [[{{int:wm-license-fsf-wiki-link}}|Ձրի ծրագրային հիմնարկ]]ի  կողմէ հրատարակուած պայմանագրով. առանց անփոփոխելի հատուածներու, առանց գիրքի կողքին կամ կռնակին տեղադրուած գրութիւններու:\nԱրտօնագրէն օրինակ մը կը գտնուի ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Վաւերագրական ձրի արտօնագիր]]'' կոչուող հատուածին մէջ։",
 	"wm-license-information-description": "Նկարագրութիւն",
 	"wm-license-information-source": "Աղբիւր",
