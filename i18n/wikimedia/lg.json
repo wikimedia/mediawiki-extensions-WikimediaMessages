@@ -1,9 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kizito"
+			"Kizito",
+			"Ssemmanda will"
 		]
 	},
 	"sitesupport": "Okutonera wiki",
-	"tooltip-n-sitesupport": "Nyiga wano ob'oyagala wiki okugiwa obuyambi obw'ensimbi"
+	"tooltip-n-sitesupport": "Nyiga wano ob'oyagala wiki okugiwa obuyambi obw'ensimbi",
+	"wikimedia-developers": "Abakola software wa Wiki",
+	"wikimedia-statslink": "Ebibalo"
 }
