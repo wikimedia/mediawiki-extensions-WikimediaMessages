@@ -10,5 +10,8 @@
 	"wikimedia-copyright": "Метин <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike</a> лицензиясынен берильген; базыда иляве шартлар къулланылып ола. Тафсилят ичюн <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Къулланув Шартлары</a>на бакъынъыз.",
 	"wikimedia-copyrightwarning": "Япкъан денъиштирмелеринъизни сакълап сиз [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Къулланув Шартлары]нен разы олып [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike 4.0] ве [https://www.gnu.org/copyleft/fdl.html GFDL] лицензияларынынъ шартларына коре язгъанынъызнынъ кери къайтарылмаз шекильде дердж этильгенини къабул этерсинъиз. Creative Commons лицензиясынынъ талапларына уйгъун олмакъ ичюн бу саифеге багъланты бермек я да бу саифенинъ URL адресини бильдирмек етерлик оладжагъыны да къабул этерсинъиз.",
 	"wikibase-sitelinks-wikinews": "Викихабер",
-	"wikibase-sitelinks-wikisource": "Викименба"
+	"wikibase-sitelinks-wikiquote": "Викитырнакълар",
+	"wikibase-sitelinks-wikisource": "Викименба",
+	"wikimedia-developers": "Ишлеп чыкъарувджылар",
+	"wikimedia-statslink": "Статистика"
 }
