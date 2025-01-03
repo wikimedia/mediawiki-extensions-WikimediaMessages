@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Es Krim 5 Juta Rasa"
+			"Es Krim 5 Juta Rasa",
+			"Jawadywn"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "atribusi",
 	"wm-license-cc-conditions-attribution-text": "Niku porlu nyantumko atribusi say sasuway, ngunjuk kahikan guk lisensi, rik ngunjuk panday aman uwat parubahan. Niku panday nggawikona ngaliyu'i cara say Niku kanhaganko, tapi mak nyatako amon pangunjuk lisensi andukung Niku atawa pamakayan mu.",
 	"wm-license-cc-conditions-share_alike-header": "Bubagi goh-goh",
-	"wm-license-cc-conditions-share_alike-text": "Aman Niku anggubah, ngubah, atawa nguway turunan jak materi hasa, Niku porlu nyobarluwasko kontribusimu di bah [[ccorg:share-your-work/licensing-considerations/compatible-licenses|lisensi say goh-goh atawa kompatibel]] rik lisensi di materi asli."
+	"wm-license-cc-conditions-share_alike-text": "Aman Niku anggubah, ngubah, atawa nguway turunan jak materi hasa, Niku porlu nyobarluwasko sambaymu di bah [[ccorg:share-your-work/licensing-considerations/compatible-licenses|lisensi say goh-goh atawa satuluk]] rik lisensi di materi asli."
 }
