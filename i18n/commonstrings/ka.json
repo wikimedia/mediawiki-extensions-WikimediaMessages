@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Mehman97",
 			"Nikki",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-contactus": "დაგვიკავშირდით",
 	"wm-commonstrings-resolutions": "რეზოლუციები",
 	"wm-commonstrings-seealso": "იხილეთ აგრეთვე"
 }

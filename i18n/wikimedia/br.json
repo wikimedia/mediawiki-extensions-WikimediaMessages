@@ -49,6 +49,8 @@
 	"group-botadmin": "Robotoù dezho gwirioù merañ",
 	"group-botadmin-member": "{{GENDER:$1|robot gant gwirioù merañ}}",
 	"grouppage-botadmin": "{{ns:project}}: Robotoù dezho gwirioù merañ",
+	"group-global-temporary-account-viewer": "Gwelerien IP kontoù berrbad",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|gweler IP kontoù berrbad}}",
 	"group-confirmed": "Implijerien kadarnaet",
 	"group-confirmed-member": "{{GENDER:$1|implijer|implijerez}} bet kadarnaet ent emgefre",
 	"grouppage-confirmed": "{{ns:project}}:Implijerien bet kadarnaet",
