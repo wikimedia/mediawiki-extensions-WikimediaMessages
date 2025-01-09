@@ -276,11 +276,16 @@ class Hooks implements
 			case 'wikinews':
 				// This is necessary because MobileFrontend doesn't always display the license based on
 				// config settings (T296791)
-				if ( $rightsText === 'Creative Commons Attribution 3.0' ) {
-					$keys['mobile-frontend-license-links'] = 'wikinews-mobile-license-links-ccby30';
-				} else {
-					$keys['mobile-frontend-license-links'] = 'wikinews-mobile-license-links';
+				$licenseMap = [
+					'Creative Commons Attribution 2.5' => 'wikinews-mobile-license-links',
+					'Creative Commons Attribution 3.0' => 'wikinews-mobile-license-links-ccby30',
+					'Creative Commons Attribution 4.0' => 'wikinews-mobile-license-links-ccby40',
+					'Creative Commons Attribution-Share Alike 4.0' => 'wikinews-mobile-license-links-ccbysa40',
+				];
+				if ( !isset( $licenseMap[$rightsText] ) ) {
+					throw new ConfigException( "You must define a license message for $rightsText" );
 				}
+				$keys['mobile-frontend-license-links'] = $licenseMap[$rightsText];
 				break;
 			default:
 				throw new ConfigException( "Unknown value for WikimediaMessagesLicensing: '$licensing'" );
