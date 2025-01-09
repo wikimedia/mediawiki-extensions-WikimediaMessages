@@ -48,7 +48,8 @@
 			"محمد أحمد عبد الفتاح",
 			"Dreamy Jazz",
 			"Bachounda",
-			"Mohanad"
+			"Mohanad",
+			"Cigaryno"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا المحددة",
@@ -440,6 +441,7 @@
 	"research-incentive-privacy": "اطلع على سياسة الخصوصية الخاصة بنا وتعرف على المزيد حول برنامج البحث [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ar هنا]",
 	"research-incentive-confirm-msg": "شكرًا!",
 	"ipinfo-global-contributions-url-label": "مساهمات عالمية",
+	"protect-level-edit-legal": "سمح فقط للمستخدمين الذين يمكنهم تعديل الصفحات المتعلقة بالقانون",
 	"restriction-level-edit-legal": "محمي قانونيًا",
 	"wikimedia-foundation-projects-label": "مشاريع مؤسسة ويكيميديا",
 	"wikimedia-foundation-projects-of-label-link": "مشاريع [[$1|مؤسسة ويكيميديا]]",

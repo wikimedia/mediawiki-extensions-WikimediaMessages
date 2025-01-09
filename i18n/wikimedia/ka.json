@@ -67,6 +67,8 @@
 	"group-eliminator": "გამომრიცხველები",
 	"group-eliminator-member": "{{GENDER:$1|გამომრიცხავი}}",
 	"grouppage-eliminator": "{{ns:project}}:გამაუქმებლები",
+	"group-eventcoordinator": "ღონისძიების კოორდინატორები",
+	"group-eventcoordinator-member": "{{GENDER:$1|ღონისძიების კოორდინატორი}}",
 	"group-filemover": "ფაილის გადამტანები",
 	"group-filemover-member": "{{GENDER:$1|ფაილის გადამტანი}}",
 	"grouppage-filemover": "{{ns:project}}:ფაილის გადამტანები",
@@ -157,6 +159,8 @@
 	"wikibase-otherprojects-wiktionary": "ვიქსიკონი",
 	"wikibase-otherprojects-wikimania": "ვიკიმანია",
 	"wikibase-sitelinks-sitename-commonswiki": "საწყობი",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "მედიავიკი",
+	"wikibase-sitelinks-sitename-metawiki": "მეტა-ვიკი",
 	"wikibase-sitelinks-sitename-sourceswiki": "მრავალენოვანი ვიკიწყარო",
 	"wikibase-sitelinks-sitename-species": "ვიკისახეობები",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ვიკიმონაცემები",
@@ -189,5 +193,13 @@
 	"wikimedia-statslink": "სტატისიკა",
 	"wikimedia-cookiestatement": "მზა ფაილების პოლიტიკა",
 	"wikimedia-foundation-projects-of-label-nolink": "ფონდ ვიკიმედიის პროექტები",
-	"wikimedia-help-translate-prompt": "გინდათ თარგმნაში დაგვეხმაროთ? [$1 თარგმნეთ გამოტოვებული შეტყობინებები]."
+	"wikimedia-help-translate-prompt": "გინდათ თარგმნაში დაგვეხმაროთ? [$1 თარგმნეთ გამოტოვებული შეტყობინებები].",
+	"wikimedia-foundation-department-shortname-advancement": "განვითარება",
+	"wikimedia-foundation-department-shortname-ceo": "აღმ. დირექტორის ოფისი",
+	"wikimedia-foundation-department-shortname-communications": "კომუნიკაცია",
+	"wikimedia-foundation-department-shortname-financeadmin": "ფინანსები და ადმინისტრაცია",
+	"wikimedia-foundation-department-shortname-legal": "იურიდიული დეპარტამენტი",
+	"wikimedia-foundation-about-label-short": "ფონდის შესახებ",
+	"wikimedia-foundation-footer-description-short": "„ფონდი ვიკიმედია“ არის არაკომერციული საქველმოქმედო ორგანიზაცია, რომელიც მუშაობს უფასო, მრავალენოვანი კონტენტის ზრდა, განვითარებასა და გავრცელების წახალისებაზე და ამ ყველაფრის ვიკიზე დაფუძნებული პროექტებით საზოგადოებისთვის უფასოდ მიწოდებაზე.",
+	"wikimedia-capacity-development-label-short": "შესაძლებლობების განვითარება"
 }
