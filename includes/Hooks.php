@@ -136,6 +136,8 @@ class Hooks implements
 			// T380954
 			'checkuser-temporary-accounts-onboarding-dialog-temp-accounts-step-content',
 			'checkuser-temporary-accounts-onboarding-dialog-ip-info-step-content',
+			// T380955
+			'checkuser-temporary-accounts-onboarding-dialog-ip-reveal-step-content',
 			// T362548
 			'checkuser-investigateblock-warning-ips-and-users-in-targets',
 			'createacct-helpusername',
