@@ -133,6 +133,9 @@ class Hooks implements
 			'checkuser-toollinks',
 			// T327281
 			'checkuser-tempaccount-enable-preference-description',
+			// T380954
+			'checkuser-temporary-accounts-onboarding-dialog-temp-accounts-step-content',
+			'checkuser-temporary-accounts-onboarding-dialog-ip-info-step-content',
 			// T362548
 			'checkuser-investigateblock-warning-ips-and-users-in-targets',
 			'createacct-helpusername',
