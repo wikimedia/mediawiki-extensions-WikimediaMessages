@@ -69,7 +69,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|ادارى نظام}}",
 	"shared-repo-name-shared": "ويكيميديا كومنز",
 	"wikimedia-copyright-footer": "النصوص متوفرة تحت [https://creativecommons.org/licenses/by-sa/4.0/ رخصة التشارك الإبداع العزو/المشاركة بالمثل];\nممكن تطبيق شروط إضافية.\nبص على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام] للتفاصيل.",
-	"wikimedia-copyrightwarning": "بتسييڤ التعديلات بتاعتك، انت بتوافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام]، و انت بتوافق على اصدار مساهمتك بلا رجعه تحت [https://creativecommons.org/licenses/by-sa/4.0/deed.en رخصة التشارك الإبداعى العزو/المشاركة بالمثل 4.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة].\nأنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.",
+	"wikimedia-copyrightwarning": "بتسييڤ التعديلات بتاعتك، انت بتوافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام]، و انت بتوافق على اصدار مساهمتك بلا رجعه تحت [https://creativecommons.org/licenses/by-sa/4.0/ رخصة التشارك الإبداعى العزو/المشاركة بالمثل 4.0] و [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License رخصة جنو للوثائق الحرة].\nأنت توافق على أن يتم الإشارة لك بواسطة معيدى الاستخدام، على الأقل، من خلال وصلة فائقة أو لينك للصفحة اللى ساهمت فيها.",
 	"wikibase-repo-name": "ويكيداتا",
 	"wikibase-sitelinks-wikinews": "ويكينيوز",
 	"wikibase-sitelinks-wikiquote": "إقتباس ويكى",

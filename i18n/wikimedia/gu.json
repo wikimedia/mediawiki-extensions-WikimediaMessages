@@ -138,7 +138,7 @@
 	"group-wmf-supportsafety": "WMF ભરોસો અને સુરક્ષા",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF સહકાર અને સુરક્ષા}}",
 	"wikimedia-copyright-footer": "આ લખાણ [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike License] હેઠળ ઉપલબ્ધ છે;\nવધારાની શરતો લાગુ પડી શકે છે.\nવધુ માહિતી માટે [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use વપરાશની શરતો] જુઓ.",
-	"wikimedia-copyrightwarning": "ફેરફારો સાચવવાનો અર્થ છે કે, તમે [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use વપરાશની શરતો] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] તથા [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહીં ઉપલબ્ધ કરાવો છો.\nતમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કૉમન્સ પરવાના હેઠળની કડી અથવા URLએ પૂરતું શ્રેય છે.",
+	"wikimedia-copyrightwarning": "ફેરફારો સાચવવાનો અર્થ છે કે, તમે [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use વપરાશની શરતો] સાથે સહમત છો અને તમે તમારું યોગદાન [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] તથા [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] હેઠળ અબાધિત રીતે સદાને માટે અહીં ઉપલબ્ધ કરાવો છો.\nતમે એ વાત સાથે પણ સહમત થાવ છો કે ક્રિએટીવ કૉમન્સ પરવાના હેઠળની કડી અથવા URLએ પૂરતું શ્રેય છે.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|સ્વાગત}} છે, $1!",
 	"wikibase-repo-name": "વિકિડેટા",
 	"wikibase-sitelinks-wikibooks": "વિકિપુસ્તક",
