@@ -5,8 +5,8 @@
 			"Verdy p"
 		]
 	},
-	"wikimedia-logentry-usermerge-mergeuser": "$1{{GENDER:$2|}} a fusionné le compte utilisateur « $4 » ($5) dans {{GENDER:$8|}}$6 ($7)",
-	"wikimedia-logentry-usermerge-deleteuser": "{{GENDER:$2|$1}} a supprimé le compte utilisateur « $4 » ($5)",
+	"wikimedia-logentry-usermerge-mergeuser": "$1{{GENDER:$2|a fusionné}} le compte utilisateur « $4 » ($5) dans {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|a supprimé}} le compte utilisateur « $4 » ($5)",
 	"wikimedia-log-action-filter-usermerge": "Type d’action :",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusion de compte utilisateur",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Suppression de compte utilisateur",

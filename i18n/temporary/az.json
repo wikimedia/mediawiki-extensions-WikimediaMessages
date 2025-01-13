@@ -4,12 +4,13 @@
 			"NMW03",
 			"Neriman2003",
 			"Toghrul Rahimli",
-			"Turkmen"
+			"Turkmen",
+			"Nemoralis"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia xüsusi müvəqqəti mesajlar",
-	"grouppage-oversight": "{{ns:project}}:Nəzarətçilər",
-	"group-oversight": "Nəzarətçilər",
+	"grouppage-oversight": "{{ns:project}}:Gizlədənlər",
+	"group-oversight": "Gizlədənlər",
 	"group-oversight-member": "{{GENDER:$1|nəzarətçi}}",
 	"hello": "Salam",
 	"please-translate": "Zəhmət olmasa dilinizə tərcümə etməyə kömək edin",
