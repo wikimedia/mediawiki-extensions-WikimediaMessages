@@ -29,7 +29,7 @@
 	"group-sysadmin": "Sitiguvans",
 	"group-sysadmin-member": "{{GENDER:$1|sitiguvan}}",
 	"wikimedia-copyright-footer": "Vödem binon dagetovik bai stips ela [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike License];\nbüdakips zuik kanons dabinön.\nLogolös: [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] demü pats kuratikum.",
-	"wikimedia-copyrightwarning": "Dub kiped votükamas baiodol ko [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], e nesädunoviko baiodol ad notükön keblünoti olik bai dälazöt: [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] < e bai [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBaiodol, das resodayüm u ladet leäktronik binons saidiks ad fümükön lautani bai dälazöt: ‚Creative Commons’.",
+	"wikimedia-copyrightwarning": "Dub kiped votükamas baiodol ko [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], e nesädunoviko baiodol ad notükön keblünoti olik bai dälazöt: [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] e bai [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBaiodol, das resodayüm u ladet leäktronik binons saidiks ad fümükön lautani bai dälazöt: ‚Creative Commons’.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benokömö}}, $1!",
 	"wikibase-sitelinks-wikibooks": "Vükibuks",
 	"wikibase-sitelinks-wikinews": "Vükinüns",
