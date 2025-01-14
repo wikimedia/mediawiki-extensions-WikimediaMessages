@@ -55,6 +55,8 @@
 	"group-botadmin": "Bot dengan hak penyelia",
 	"group-botadmin-member": "{{GENDER:$1|bot dengan hak penyelia}}",
 	"grouppage-botadmin": "{{ns:project}}:Bot dengan hak penyelia",
+	"group-global-temporary-account-viewer": "Pemerhati IP akaun sementara",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|pemerhati IP akaun sementara}}",
 	"group-confirmed": "Pengguna sah",
 	"group-confirmed-member": "{{GENDER:$1|pengguna sah}}",
 	"grouppage-confirmed": "{{ns:project}}:Pengguna sah",
