@@ -61,7 +61,7 @@
 	"group-autopatrolled-member": "{{GENDER:$1|avtopatrul}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Avtopatrullar",
 	"group-autoreviewer": "Avtopatrullar",
-	"group-autoreviewer-member": "{{GENDER:$1|autoreviewer}}",
+	"group-autoreviewer-member": "{{GENDER:$1|avtopatrul}}",
 	"grouppage-autoreviewer": "{{ns:project}}:Avtopatrullar",
 	"group-bigexport": "Böyük ixracçılar",
 	"group-bigexport-member": "{{GENDER:$1|böyük ixracçı}}",
