@@ -21,6 +21,7 @@
 	"wm-commonstrings-externallinks": "وصلات خارجية",
 	"wm-commonstrings-follow": "تابع",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|مقال رئيسي: $1|مقالات رئيسية: $1}}",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|الصفحة الرئيسية: $1|الصفحات الرئيسية: $1}}",
 	"wm-commonstrings-mywork": "عملي",
 	"wm-commonstrings-news-events": "الأخبار والأحداث",
 	"wm-commonstrings-noticeboard": "لوحة الإخطارات",
@@ -39,6 +40,7 @@
 	"wm-commonstrings-resolutions": "{{PLURAL:$1|القرار|القرارات}}",
 	"wm-commonstrings-scope": "نطاق التغطية",
 	"wm-commonstrings-seealso": "انظر أيضا",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|اختصار|اختصارات}}",
 	"wm-commonstrings-staff": "موظفون",
 	"wm-commonstrings-talktous": "تحدث معنا",
 	"wm-commonstrings-updates": "آخر الأخبار"
