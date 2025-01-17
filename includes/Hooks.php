@@ -131,6 +131,9 @@ class Hooks implements
 			// T345549
 			'checkuser-api-useragent-clienthints-explanation',
 			'checkuser-toollinks',
+			// T380562
+			'checkuser-global-contributions-anon-tools',
+			'checkuser-global-contributions-registered-user-tools',
 			// T327281
 			'checkuser-tempaccount-enable-preference-description',
 			// T380954
