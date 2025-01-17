@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"787IYO",
 			"Misbahu umar",
 			"Umar Ahmad2345"
 		]
@@ -16,5 +17,5 @@
 	"wm-license-cc-conditions-attribution-header": " [Ladaku]",
 	"wm-license-cc-conditions-attribution-text": "dole wun yi nan wo'a ya egwadu nan,la link nan\nlo license nan be, wo'e man'o wu ebanzhe ndondo\nga danbo nan. Wo'e jin achinga wo eko wangi\nndondo,ama wun jin eko nan licensor'a li wo'e ko\nnyana wo'e lo nan'a",
 	"wm-license-cc-conditions-share_alike-header": "cin gbere lie",
-	"wm-license-cc-conditions-share_alike-text": "Wo'e ga yetswa,yejin koma yetu ta enyan\nwuncin'o,dole wun yi nan wo'a gan titafindozhi\nnyan wo'e dan[https://creativecommons.org/share\n-your-work/licensing-considerations/compatible\n-licenses yiri nini koma license nan a pa keba wo'e\nnan]ke nyan gboko nan."
+	"wm-license-cc-conditions-share_alike-text": "Wo'e ga yetswa, yejin koma yetu ta enyan\nwuncin'o, dole wun yi nan wo'a gan titafindozhi\nnyan wo'e dan [[ccorg:share-your-work/licensing-considerations/compatible\n-licenses|same or compatible license]] yiri nini koma license nan a pa keba wo'e\nke nyan gboko nan."
 }
