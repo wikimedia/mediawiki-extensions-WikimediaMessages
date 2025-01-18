@@ -3,8 +3,5 @@
 		"authors": [
 			"MarcoAurelio"
 		]
-	},
-	"group-oathauth": "OATH validators",
-	"group-oathauth-member": "{{GENDER:$1|OATH validator}}",
-	"grouppage-oathauth": "{{ns:project}}:OATH validators"
+	}
 }

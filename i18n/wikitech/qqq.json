@@ -3,8 +3,5 @@
 		"authors": [
 			"MarcoAurelio"
 		]
-	},
-	"group-oathauth": "{{optional}}\n{{doc-group|oathauth}}\nSpecific user group description for Wikitech.",
-	"group-oathauth-member": "{{optional}}\n{{doc-group|oathauth|member}}\nSpecific user group description for Wikitech.",
-	"grouppage-oathauth": "{{optional}}\n{{doc-group|oathauth|page}}\nSpecific user group description for Wikitech."
+	}
 }
