@@ -66,7 +66,7 @@ class SiteAdminHelperModule extends FileModule {
 	 */
 	public function getStyleFiles( Context $context ) {
 		$config = $this->getConfig();
-		$excludeFeatures = explode( '|', $context->msg( 'wikimedia-styles-exclude' )->inContentLanguage() );
+		$excludeFeatures = explode( '|', $context->msg( 'wikimedia-styles-exclude' )->inContentLanguage()->text() );
 
 		$featureFilePaths = [];
 
