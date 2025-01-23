@@ -5,7 +5,7 @@
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(эреже)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Сүрөттү көрбөй жатасызбы ? [[{{MediaWiki:createacct-captcha-help-url}}|Катталуу үчүн табыштама жөнөтүү]]",
+	"wikimedia-createacct-imgcaptcha-help": "Сүрөттү көрбөй жатасызбы? [[{{MediaWiki:createacct-captcha-help-url}}|Катталуу үчүн табыштама жөнөтүү]]",
 	"wikimedia-centralauth-groupname": "Викимедиа фонду",
 	"wikimedia-sitematrix-others": "Башка Викимедиа долбоорлору"
 }
