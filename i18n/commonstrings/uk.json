@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
+			"Perohanych",
 			"Varnent",
 			"Ата"
 		]
 	},
-	"wm-commonstrings-activities": "Заходи",
+	"wm-commonstrings-activities": "Діяльність",
 	"wm-commonstrings-agenda": "Програма",
 	"wm-commonstrings-background": "Передумови",
 	"wm-commonstrings-bylaws": "Статут",
@@ -17,6 +18,7 @@
 	"wm-commonstrings-events": "Події",
 	"wm-commonstrings-externallinks": "Зовнішні посилання",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Основна стаття: $1|Основні статті: $1}}",
+	"wm-commonstrings-news-events": "Новини та події",
 	"wm-commonstrings-noticeboard": "Дошка оголошень",
 	"wm-commonstrings-objectives": "Цілі",
 	"wm-commonstrings-ongoing": "Триває",
@@ -28,7 +30,7 @@
 	"wm-commonstrings-questions": "Запитання?",
 	"wm-commonstrings-register-account": "Зареєструватися",
 	"wm-commonstrings-reports": "Звіти",
-	"wm-commonstrings-resolutions": "Рішення",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Рішення|Рішення}}",
 	"wm-commonstrings-scope": "Охоплення",
 	"wm-commonstrings-seealso": "Див. також",
 	"wm-commonstrings-staff": "Персонал",
