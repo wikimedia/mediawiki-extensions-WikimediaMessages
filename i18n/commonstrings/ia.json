@@ -18,7 +18,9 @@
 	"wm-commonstrings-enterquestion": "Insere tu question.",
 	"wm-commonstrings-events": "Eventos",
 	"wm-commonstrings-externallinks": "Ligamines externe",
+	"wm-commonstrings-feedback": "Commentario",
 	"wm-commonstrings-follow": "Sequer",
+	"wm-commonstrings-leadership": "Direction",
 	"wm-commonstrings-mainarticle-prompt": "Articulo{{PLURAL:$2||s}} principal: $1",
 	"wm-commonstrings-mainpage-prompt": "Pagina{{PLURAL:$2||s}} principal: $1",
 	"wm-commonstrings-mywork": "Mi travalio",
@@ -42,5 +44,6 @@
 	"wm-commonstrings-shortcut": "Accesso{{PLURAL:$1||s}} directe",
 	"wm-commonstrings-staff": "Personal",
 	"wm-commonstrings-talktous": "Parlar a nos",
+	"wm-commonstrings-templates": "Patrono{{PLURAL:$1||s}}",
 	"wm-commonstrings-updates": "Actualisar"
 }

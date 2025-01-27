@@ -5,6 +5,7 @@
 			"Kaganer",
 			"Nikki",
 			"Okras",
+			"Pacha Tchernof",
 			"Varnent"
 		]
 	},
@@ -21,7 +22,9 @@
 	"wm-commonstrings-enterquestion": "Введите свой вопрос.",
 	"wm-commonstrings-events": "Мероприятия",
 	"wm-commonstrings-externallinks": "Внешние ссылки",
+	"wm-commonstrings-feedback": "Обратная связь",
 	"wm-commonstrings-follow": "Подписаться",
+	"wm-commonstrings-leadership": "Лидерство",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Основная статья: $1|Основные статьи: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Основная страница: $1|Основные страницы: $1}}",
 	"wm-commonstrings-mywork": "Моя деятельность",
@@ -39,11 +42,12 @@
 	"wm-commonstrings-questions": "Вопросы?",
 	"wm-commonstrings-register-account": "Зарегистрировать учётную запись",
 	"wm-commonstrings-reports": "Отчёты",
-	"wm-commonstrings-resolutions": "{{PLURAL:$1| Разрешение|Резолюции}}",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Резолюция|Резолюции}}",
 	"wm-commonstrings-scope": "Область",
 	"wm-commonstrings-seealso": "См. также",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Сокращение|Сокращения}}",
 	"wm-commonstrings-staff": "Сотрудники",
 	"wm-commonstrings-talktous": "Обсудите с нами",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Шаблон|Шаблоны}}",
 	"wm-commonstrings-updates": "Обновления"
 }
