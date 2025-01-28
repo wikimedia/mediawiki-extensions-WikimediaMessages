@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kxeo",
 			"Nertiks",
 			"Nērtiks Jōrgesuns"
 		]
@@ -13,6 +14,8 @@
 	"wikibase-sitelinks-wikiquote": "Wikicitātai",
 	"wikibase-sitelinks-wikisource": "Wikiappus",
 	"wikibase-sitelinks-wikivoyage": "Wikipintegas",
+	"wikibase-sitelinks-wiktionary": "Wikiwirdeīns",
+	"wikibase-otherprojects-wiktionary": "Wikiwirdeīns",
 	"wikimedia-developers": "Kurtajai",
 	"wikimedia-statslink": "Statistiki",
 	"wikimedia-cookiestatement": "Pawakīsenis ezze kepinnins"
