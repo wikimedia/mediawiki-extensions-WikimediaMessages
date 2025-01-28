@@ -5,7 +5,8 @@
 			"Kaganer",
 			"Nikki",
 			"Okras",
-			"Varnent"
+			"Varnent",
+			"Pacha Tchernof"
 		]
 	},
 	"wm-commonstrings-aboutme": "Обо мне",
@@ -39,7 +40,7 @@
 	"wm-commonstrings-questions": "Вопросы?",
 	"wm-commonstrings-register-account": "Зарегистрировать учётную запись",
 	"wm-commonstrings-reports": "Отчёты",
-	"wm-commonstrings-resolutions": "{{PLURAL:$1| Разрешение|Резолюции}}",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Резолюция|Резолюции}}",
 	"wm-commonstrings-scope": "Область",
 	"wm-commonstrings-seealso": "См. также",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Сокращение|Сокращения}}",

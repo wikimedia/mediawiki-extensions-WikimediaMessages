@@ -2,10 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Afimaame",
-			"DaSupremo"
+			"DaSupremo",
+			"Yaw tuba"
 		]
 	},
+	"wikimediamessages-desc": "Wikimedia specific messages",
 	"sitesupport": "Donate",
+	"tooltip-n-sitesupport": "Support we",
+	"specialpages-group-contribution": "Contribution/Fundraiser",
+	"nstab-creator": "Creator",
+	"nstab-timedtext": "TimedText",
+	"group-image-reviewer-member": "{{GENDER:$1|image reviewer}}",
 	"wikimedia-copyright-footer": "De text be available under de [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] ;\nadditional terms go apply.\nSpy [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] for details.",
 	"wikimedia-copyrightwarning": "As you dey save changes, you dey agree to de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], wey you san dey irrevocably agree say you dey release your contribution under de [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] den de [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYou dey gree say hyperlink anaa URL be sufficient attribution under de Creative Commons license.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Welcome}}, $1!",

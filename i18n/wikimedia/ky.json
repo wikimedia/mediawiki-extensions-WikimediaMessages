@@ -64,6 +64,7 @@
 	"group-global-sysop-member": "{{GENDER:$1|глобалдуу администратор}}",
 	"group-ombuds": "Акыйкатчылар",
 	"group-staff": "Кызматкерлер",
+	"group-staff-member": "{{GENDER:$1|кызматкер}}",
 	"shared-repo-name-shared": "Викиказына",
 	"wikimedia-copyright-footer": "Текст [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike лицензиясынын] алкагында жеткиликтүү;\nкошумча шарттар колдонулушу мүмкүн.\nКеңири маалымат үчүн [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Колдонуу шарттарын] караңыз.",
 	"wikimedia-copyrightwarning": "Өзгөртүүлөрүңүздү сактоо менен, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ky Колдонуу шарттарына], [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0] менен [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] лицензияларына ылайык кайтарылгыс жарыялоого макулдугуңузду билдиресиз.\nМындан тышкары, Creative Commons лицензиясына ылайык авторлукту белгилөө үчүн гипершилтемени же URL'ди көрсөтүп коюу жетиштүү дегенге макул болосуз.",
