@@ -315,7 +315,7 @@
 	"restriction-level-superprotect": "حماية فائقة",
 	"action-templateeditor": "تعديل القوالب المحمية",
 	"right-templateeditor": "تعديل القوالب المحمية",
-	"restriction-level-templateeditor": "قالب محمي",
+	"restriction-level-templateeditor": "محمية على مستوى محرري القوالب",
 	"protect-level-templateeditor": "السماح فقط لمعدلي القوالب والإداريين",
 	"action-extendedconfirmed": "تعديل الصفحات المحظورة",
 	"right-extendedconfirmed": "تعديل الصفحات المحظورة",

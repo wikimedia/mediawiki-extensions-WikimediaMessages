@@ -8,7 +8,8 @@
 			"Pyscowicz",
 			"Stryn",
 			"Samoasambia",
-			"Seipinne"
+			"Seipinne",
+			"Minilammas"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "IP-osoitettasi käyttävät vierailijat tässä wikissä ovat luoneet {{PLURAL:$1|1 tunnuksen|$1 tunnusta}} viimeisen päivän aikana, mikä on suurin sallittu määrä tällä ajanjaksolla.\nSen vuoksi vierailijat, jotka käyttävät tätä IP-osoitetta, eivät tällä hetkellä voi luoda enempää tunnuksia.\n\nJos olet tapahtumassa, joka keskittyy Wikimedia-hankkeisiin osallistumiseen, katso [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP-katon väliaikaisen nostamisen pyytäminen]] ratkaistaksesi ongelman.",
