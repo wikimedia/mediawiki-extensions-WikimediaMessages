@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Billie bb",
+			"Exec8",
 			"Jose77",
 			"Kai theos en ho logos",
 			"Kguirnela",
@@ -59,7 +60,7 @@
 	"group-sysadmin": "Mga Sistema administrador",
 	"group-sysadmin-member": "sistema administrador",
 	"wikimedia-copyright-footer": "Ang teksto magamit sa idalom sang [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nmahimo nga magamit ang dugang nga mga termino. Makita [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] para sa detalye.",
-	"wikimedia-copyrightwarning": "Kung ini ipasulod nimo, nagapasugot ka nga ipagalapta ang imo kontribusyon nga naga pai-dalum sa [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License 4.0] kag ang [https://www.gnu.org/copyleft/fdl.html GFDL].\nNagapasugot ka nga kilalanon sa mga nagagamit liwat, sa pinaka kubos, nga nagapamaagi sa hyperlink o URL sa pahina nga gina kontribyut mo.\nPalihog lang bisita sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] para sa madamu nga detalye.",
+	"wikimedia-copyrightwarning": "Paagi sa pag-save sang mga pagbag-o, nagaugyon ka sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], kag ikaw indi na mabawi nga nagaugyon nga ipaguwa ang imo kontribusyon sa idalom sang [https://creativecommons. org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] kag ang [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nNagaugyon ka nga ang isa ka hyperlink ukon URL bastante nga attribution sa idalom sang lisensya sang Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikibalita",
 	"wikibase-sitelinks-wikiquote": "Wikisita",
 	"wikibase-sitelinks-wikisource": "Wikisource",

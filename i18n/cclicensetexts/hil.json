@@ -1,11 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Exec8",
 			"Kai theos en ho logos",
 			"Pare Mo"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusyon",
+	"wm-license-cc-by-sa-3.0-text": "Ini nga file lisensyado sa idalom sang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] lisensya.",
 	"wm-license-cc-free": "Ikaw may kahilway:",
 	"wm-license-cc-free-to-share-header": "para i-ambit",
 	"wm-license-cc-free-to-share-text": "para ma-kopya, i-panagtag kag i-pasa ang buhat.",
@@ -15,5 +17,5 @@
 	"wm-license-cc-conditions-attribution-header": "atribusyon",
 	"wm-license-cc-conditions-attribution-text": "Ikaw dapat nga maghatag nagaka-angot nga pagpasidungog, maghatag kaw-id sa lisensya, kag magbutag sang pagpabalo kung may mga pagbag-o nga ginbuhat. Pwede mo ubrahon ang mga ini sa maskin ano nga tadlong nga pamaagi, pero indi sa maskin ano nga pamaagi nga magapatimaan nga ang lisensor nagahanugot sa imo ukon sang imo pag-gamit.",
 	"wm-license-cc-conditions-share_alike-header": "Ipa-ambit",
-	"wm-license-cc-conditions-share_alike-text": "Kung imo i-apid-apid, bag-uhon, ibalhin, ukon gamiton gikan sa butang, dapat mo i-dihon ang imo mga naamot o nahatag nga mga kontribusyon suno sa [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] isip amo nga orihinal."
+	"wm-license-cc-conditions-share_alike-text": "Kon mag-remix ka, mag-transform, ukon magtukod sa materyal, dapat mo ipanagtag ang imo mga kontribusyon sa idalom sang [[ccorg:share-your-work/licensing-considerations/compatible-licenses|pareho ukon nagakaigo nga lisensya]] subong sang orihinal."
 }

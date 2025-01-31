@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Exec8",
 			"Lam-ang"
 		]
 	},
@@ -9,5 +10,8 @@
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage"
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Saray developer",
+	"wikimedia-statslink": "Saray Estadistika",
+	"wikimedia-cookiestatement": "Cookie statement"
 }
