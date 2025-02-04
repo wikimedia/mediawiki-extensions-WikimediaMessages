@@ -67,5 +67,7 @@
 	"contactpage-movecom-signup-display-name": "이름",
 	"contactpage-movecom-signup-display-username": "사용자 이름",
 	"contactpage-movecom-signup-display-nameusername": "이름과 사용자 이름",
-	"contactpage-ombudscommission-violation-type": "위키 정책 위반 내용을 간략히 설명하십시오:"
+	"contactpage-ombudscommission-violation-type": "위키 정책 위반 내용을 간략히 설명하십시오:",
+	"contactpage-fromname-accountvanishapps": "요청자의 사용자 이름",
+	"contactpage-pagetext-accountvanishapps": "버리기는 '''최후의 수단'''이며 '''영원히 편집을 중단하고 싶을 때만''' 사용해야 하며 과거 연관성을 최대한 숨기는 데에도 사용해야 합니다. 위키백과에서 계정을 삭제하려면 계정 이름을 변경하여 다른 사람이 기여한 내용을 알아볼 수 없도록 하는 계정 버리기라는 프로세스를 거쳐야 합니다. '''버리기는 완전한 익명성을 보장하지 않으며 프로젝트에 대한 기여를 제거하지도 않습니다.''' 계정 버리기에 관해 더 알아보려면 [[Special:MyLanguage/잊힐 권리|잊힐 권리]] 정보 문서를 방문하십시오.\n\n계정 버리기 프로세스를 진행하려면 아래 계정 버리기 요청 양식을 완성해 주십시오."
 }

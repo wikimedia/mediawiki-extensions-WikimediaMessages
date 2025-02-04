@@ -66,6 +66,8 @@
 	"group-botadmin": "บอตที่มีสิทธิผู้ดูแลระบบ",
 	"group-botadmin-member": "{{GENDER:$1|บอตที่มีสิทธิผู้ดูแลระบบ}}",
 	"grouppage-botadmin": "{{ns:project}}:บอตที่มีสิทธิผู้ดูแลระบบ",
+	"group-global-temporary-account-viewer": "ผู้ดูไอพีบัญชีชั่วคราว",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|ผู้ดูไอพีบัญชีชั่วคราว}}",
 	"group-confirmed": "ผู้ใช้ยืนยันแล้ว",
 	"group-confirmed-member": "{{GENDER:$1|ผู้ใช้ยืนยันแล้ว}}",
 	"grouppage-confirmed": "{{ns:project}}:ผู้ใช้ยืนยันแล้ว",
