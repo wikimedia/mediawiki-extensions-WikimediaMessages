@@ -164,6 +164,9 @@
 	"group-wikidata-staff": "کارمندان ویکی‌داده",
 	"group-wikidata-staff-member": "{{GENDER:$1|کارمندان ویکی‌داده}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:اعضای کارمندان ویکی‌داده",
+	"group-wikifunctions-staff": "کارکنان ویکی‌توابع",
+	"group-wikifunctions-staff-member": "{{GENDER:$1|کارکن ویکی‌توابع}}",
+	"grouppage-wikifunctions-staff": "{{ns:project}}:کارکنان ویکی‌توابع",
 	"group-apihighlimits-requestor": "محدودیت درخواست‌دهندگان ای‌پی‌آی",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|محدودیت درخواست‌دهندگان ای‌پی‌آی}}",
 	"group-captcha-exempt": "معافیت‌های کپچا",
@@ -363,5 +366,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "مطمئن نیستم",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "این نظرسنجی ناشناس توسط بنیاد ویکی‌مدیا انجام شده است. [https://meta.wikimedia.org/wiki/Community_Safety بیشتر بخوانید] یا [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement بیانیه حریم خصوصی] را بررسی کنید.",
 	"gadget-souspages-subpages": "زیرصفحه‌ها",
+	"research-incentive-answer-positive": "بله",
+	"research-incentive-answer-negative": "خیر",
+	"research-incentive-confirm-msg": "ممنون از شما!",
 	"ipinfo-global-contributions-url-label": "مشارکت‌های سراسری"
 }

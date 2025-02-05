@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ajeje Brazorf"
+			"Ajeje Brazorf",
+			"GianAntonucci"
 		]
 	},
 	"wikimedia-centralauth-groupname": "la Wikimedia Foundation",
-	"wikimedia-sitematrix": "Elencu di tutti li wiki di Wikimedia",
+	"wikimedia-sitematrix": "Lista dî wiki di Wikimedia",
 	"wikimedia-sitematrix-others": "Àutri pruggetti Wikimedia",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy Pulìtica supra la privacy]"
 }
