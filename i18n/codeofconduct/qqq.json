@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Umherirrender"
+			"Umherirrender",
+			"Amire80"
 		]
 	},
 	"wm-codeofconduct-url": "{{notranslate}}\nURL to code of conduct for Wikimedia spaces",
-	"wm-codeofconduct": "Footer label for code of conduct for Wikimedia spaces link",
+	"wm-codeofconduct": "Footer label for a link to the [https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct Code of Conduct] on all Wikimedia sites.",
 	"wm-techcodeofconduct-url": "{{notranslate}}\nURL to code of conduct for Wikimedia technical spaces",
 	"wm-techcodeofconduct": "Footer label for code of conduct for Wikimedia technical spaces link"
 }

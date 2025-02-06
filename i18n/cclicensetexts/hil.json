@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Kai theos en ho logos",
-			"Pare Mo"
+			"Pare Mo",
+			"Exec8"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusyon",
+	"wm-license-cc-by-sa-3.0-text": "Ini nga file lisensyado sa idalom sang [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] lisensya.",
 	"wm-license-cc-free": "Ikaw may kahilway:",
 	"wm-license-cc-free-to-share-header": "para i-ambit",
 	"wm-license-cc-free-to-share-text": "para ma-kopya, i-panagtag kag i-pasa ang buhat.",
