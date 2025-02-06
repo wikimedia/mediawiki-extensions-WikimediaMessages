@@ -177,7 +177,7 @@
 	"group-wikidata-staff-member": "{{GENDER:$1|موظف ويكي بيانات|موظفة ويكي بيانات}}",
 	"grouppage-wikidata-staff": "{{ns:project}}:أعضاء طاقم ويكي بيانات",
 	"group-wikifunctions-staff": "موظفو ويكي الدوال",
-	"group-wikifunctions-staff-member": "{{GENDER:$1|موظفو ويكي دالة }}",
+	"group-wikifunctions-staff-member": "{{GENDER:$1|موظف ويكي الدوال|موظفة ويكي الدوال}}",
 	"grouppage-wikifunctions-staff": "{{ns:project}}:أعضاء طاقم ويكي دالة",
 	"group-apihighlimits-requestor": "طالبو حد API عالٍ",
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|طالب حد API عالٍ|طالبة حد API عالٍ}}",
