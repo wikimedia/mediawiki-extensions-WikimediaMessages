@@ -10,6 +10,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]",
 	"wikimedia-centralauth-groupname": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ",
 	"createacct-helpusername-url": "{{ns:Project}}:ഉപയോക്തൃനാമനയം",
+	"wikimedia-discussiontools-replywidget-terms-click": "താങ്കൾ \"$1\" ക്ലിക്ക് ചെയ്യുമ്പോൾ, ഞങ്ങളുടെ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ഉപയോഗനിബന്ധനകൾ] അംഗീകരിക്കുകയും താങ്കളുടെ എഴുത്ത് പിന്നീട് മാറ്റാൻ പറ്റാത്തവിധം $2 {{PLURAL:$3|പ്രകാരം}} പ്രസിദ്ധീകരിക്കുന്നുവെന്ന് സമ്മതിക്കുകയും ചെയ്യുന്നുണ്ട്.",
 	"wikimedia-sitematrix": "വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക",
 	"wikimedia-sitematrix-others": "മറ്റ് വിക്കിമീഡിയ പദ്ധതികൾ",
 	"wikimedia-sitematrix-summary": "ഈ പ്രത്യേക താൾ വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക പ്രദർശിപ്പിക്കുന്നു.",
