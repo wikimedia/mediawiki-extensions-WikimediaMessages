@@ -6,17 +6,18 @@
 			"Manik Soren",
 			"Ramjit Tudu",
 			"Rocky 734",
-			"ᱯᱨᱚᱯᱷᱮᱥᱥᱚᱨ"
+			"ᱯᱨᱚᱯᱷᱮᱥᱥᱚᱨ",
+			"ᱤᱧ ᱢᱟᱛᱟᱞ"
 		]
 	},
-	"sitesupport": "ᱜᱚᱸᱲᱚᱸ ᱮᱢᱯᱮ",
+	"sitesupport": "ᱜᱚᱲᱚ ᱮᱢᱯᱮ",
 	"tooltip-n-sitesupport": "ᱥᱚᱦᱚᱫ ᱞᱮᱯᱮ",
 	"wikimedia-copyright": "ᱚᱞᱠᱚ ᱱᱚᱸᱰᱮ ᱧᱟᱢᱚᱜᱠᱟᱱᱟ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">Creative Commons Attribution-ShareAlike License</a>;\nᱵᱟᱹᱲᱛᱤᱛᱮ ᱟᱹᱭᱫᱟᱹᱨᱤ ᱡᱟᱹᱨᱩᱲ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ-ᱟ᱾\nSee <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">Terms of Use</a> ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫᱛᱮ ᱧᱮᱞ ᱡᱚᱝᱢᱮ᱾",
 	"wikimedia-copyrightwarning": "ᱵᱚᱫᱚᱞ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ,  [https://foundation.wikimedia.org/wiki/Terms_of_Use ᱵᱮᱵᱷᱟᱨ ᱨᱟᱭᱨᱤᱛ] ᱢᱟᱱᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ, ᱟᱨ ᱟᱢᱟᱜ ᱮᱱᱮᱢ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA ᱓.᱐ ᱞᱟᱭᱥᱮᱸᱥ] ᱟᱨ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ᱛᱮ ᱯᱟᱨᱥᱟᱞ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾\nᱟᱢ ᱨᱮᱵᱮᱱ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱪᱤ, ᱚᱱᱟ ᱦᱟᱭᱯᱚᱨᱞᱤᱸᱠ ᱟᱨ URL ᱫᱚ ᱠᱨᱤᱭᱮᱴᱤᱵᱽ ᱠᱚᱢᱚᱱᱥ ᱞᱟᱭᱥᱮᱸᱥ ᱢᱮᱱᱛᱮ ᱾",
 	"wikibase-sitelinks-wikinews": "ᱣᱤᱠᱤᱵᱮᱣᱨᱟ",
 	"wikibase-sitelinks-wikiquote": "ᱣᱤᱠᱤᱠᱩᱣᱚᱴ",
 	"wikibase-sitelinks-wikisource": "ᱣᱤᱠᱤᱯᱷᱮᱰᱟᱛ",
-	"wikibase-sitelinks-wikivoyage": "ᱣᱤᱠᱤᱵᱷᱚᱭᱮᱡᱽ",
+	"wikibase-sitelinks-wikivoyage": "ᱣᱤᱠᱤᱣᱚᱜᱽᱭᱟ",
 	"wikibase-sitelinks-wiktionary": "ᱣᱤᱠᱤᱢᱩᱨᱟᱹᱭ",
 	"wikibase-otherprojects-wikipedia": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ",
 	"wikibase-otherprojects-wiktionary": "ᱣᱤᱠᱤᱢᱩᱨᱟᱹᱭ",
@@ -28,6 +29,6 @@
 	"eri-rcfilters-tour-help": "ᱟᱨᱦᱚᱸ ᱪᱮᱫᱽᱢᱮ",
 	"eri-rcfilters-tour-intro-welcome-button": "ᱵᱩᱡᱷᱟᱹᱣ ᱠᱤᱫᱟᱹᱧ",
 	"eri-rcfilters-tour-highlight-button": "ᱵᱩᱡᱷᱟᱹᱣ ᱠᱤᱫᱟᱹᱧ",
-	"wikimedia-statslink": "ᱟᱝᱠᱲᱟ ᱠᱚ",
+	"wikimedia-statslink": "ᱚᱨᱡᱚ ᱠᱚ",
 	"wikimedia-cookiestatement": "ᱠᱩᱠᱤ ᱠᱟᱛᱷᱟ"
 }
