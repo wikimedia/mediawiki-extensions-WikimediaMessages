@@ -27,7 +27,8 @@
 			"Rex",
 			"Varnent",
 			"Veracious",
-			"William Surya Permana"
+			"William Surya Permana",
+			"Biyanto"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan spesifik Wikimedia",
@@ -209,7 +210,7 @@
 	"tag-emoji-description": "Digunakan oleh filter penyalahgunaan global 110.",
 	"tag-AWB": "[https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Suntingan dibuat dengan [https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
-	"search-interwiki-custom": "wikt:Dari Wiktionary\nb:Dari Wikibooks\nn:Dari Wikinews\nq:Dari Wikiquote\ns:Dari Wikisource\nv:Dari Wikiversity\nvoy:Dari Wikivoyage",
+	"search-interwiki-custom": "wikt:Dari Wikikamus\nb:Dari Wikibooks\nn:Dari Wikiberita\nq:Dari Wikikutip\ns:Dari Wikisumber\nv:Dari Wikiversitas\nvoy:Dari Wikiwisata",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright-footer": "Teks tersedia di bawah [https://creativecommons.org/licenses/by-sa/4.0/deed.en Lisensi Atribusi-BerbagiSerupa Creative Commons];\nketentuan tambahan mungkin berlaku.\nLihat [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ketentuan Penggunaan] untuk rincian lebih lanjut.",
 	"wikimedia-commons-copyright-footer": "Berkas tersedia di bawah lisensi yang ditentukan pada halaman deskripsinya. Semua data terstruktur dari ruang nama berkas tersedia di bawah [https://creativecommons.org/publicdomain/zero/1.0/ lisensi Creative Commons CC0]; semua teks tidak terstruktur tersedia di bawah [https://creativecommons.org/licenses/by-sa/4.0/deed.en lisensi Creative Commons Attribution-ShareAlike];\nketentuan tambahan mungkin berlaku.\nDengan menggunakan situs ini, Anda setuju untuk tunduk pada [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ketentuan Penggunaan] dan [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Kebijakan Privasi].",
@@ -243,7 +244,7 @@
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",
 	"wikibase-otherprojects-outreach": "Wikimedia Outreach",
-	"wikibase-otherprojects-sources": "Wikisource multibahasa",
+	"wikibase-otherprojects-sources": "Wikisumber multibahasa",
 	"wikibase-otherprojects-species": "Wikispesies",
 	"wikibase-otherprojects-wikibooks": "Wikibuku",
 	"wikibase-otherprojects-wikidata": "Wikidata",
@@ -259,7 +260,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
-	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multibahasa",
+	"wikibase-sitelinks-sitename-sourceswiki": "Wikisumber multibahasa",
 	"wikibase-sitelinks-sitename-species": "Wikispesies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"wikimedia-otherprojects-cloudservices": "Layanan Awan Wikimedia",

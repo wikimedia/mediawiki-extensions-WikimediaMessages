@@ -1,6 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"MysticVoyager"
+		]
 	},
-	"sitesupport": "ᑐᓐᓂᖅᑯᓯᐊᑦ ᑮᓇᐅᔭᐃᑦ"
+	"sitesupport": "ᑐᓐᓂᖅᑯᓯᐊᑦ ᑮᓇᐅᔭᐃᑦ",
+	"wikimedia-developers": "ᐱᕙᓪᓕᐊᑎᑦᑎᔩᑦ",
+	"wikimedia-statslink": "ᑭᒡᓕᓯᓂᐊᖅᑕᐅᓯᒪᔪᑦ",
+	"wikimedia-cookiestatement": "ᑯᑭ ᐅᖃᐅᓯᒃᓴᖅ"
 }
