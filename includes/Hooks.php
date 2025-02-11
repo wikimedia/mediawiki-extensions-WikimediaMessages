@@ -204,6 +204,10 @@ class Hooks implements
 			'campaignevents-edit-form-questions-pii-notice',
 			// T357869
 			'pt-movepage-page-count-limit',
+			'skin-minerva-donate-banner-message',
+			'skin-minerva-donate-banner-subtitle',
+			'skin-minerva-donate-banner-gif',
+			'skin-minerva-donate-banner-url'
 		];
 
 		static $allbutmetawikikeys = [
