@@ -78,5 +78,7 @@
 	"ext-campaignevents-registration-form-policy": "Викимедиа Фонда къургъан неда ачхасы бла баджаргъан болуула, Викимедиа фондну бютеу политикаларына келиширге керекди, аланы ичинде [https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy Джаш тёлюге къоркъуусузлукъ] барды.",
 	"readinglists-import-app": "Бу окъургъа тизмени импорту ючюн, Википедия программаны ахыр версиясын сал.",
 	"wikimedia-projects-label": "Викимедиа проектле",
-	"wikimedia-help-translate-prompt": "Кёчюрюрге болушургъа излеймисиз? [$1 Джетмеген билдириулени кёчюрюгюз]."
+	"wikimedia-help-translate-prompt": "Кёчюрюрге болушургъа излеймисиз? [$1 Джетмеген билдириулени кёчюрюгюз].",
+	"cx-articletopics-group-history-and-society": "Тарих эмда джамагъат",
+	"cx-articletopics-group-science-technology-and-math": "Илму, технология эмда математика"
 }

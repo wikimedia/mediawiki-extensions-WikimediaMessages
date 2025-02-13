@@ -284,5 +284,8 @@
 	"group-docseditor": "Cangiature de documendazione",
 	"group-docseditor-member": "{{GENDER:$1|cangiatore de documendazione}}",
 	"action-docseditor": "cange 'a documendazione",
-	"right-docseditor": "Cange 'a documendazione"
+	"right-docseditor": "Cange 'a documendazione",
+	"growthexperiments-homepage-suggestededits-topic-name-architecture": "Architetture",
+	"growthexperiments-homepage-suggestededits-topic-name-music": "Museche",
+	"growthexperiments-homepage-suggestededits-topic-name-sports": "Sport"
 }
