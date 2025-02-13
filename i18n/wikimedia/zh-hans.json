@@ -67,7 +67,8 @@
 			"Winston Sung",
 			"Dabao qian",
 			"SCP-2000",
-			"Ericliu1912"
+			"Ericliu1912",
+			"Ral-hole"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -79,7 +80,7 @@
 	"nstab-institution": "机构",
 	"nstab-sequence": "序列",
 	"nstab-timedtext": "字幕",
-	"group-image-reviewer": "图像审查者",
+	"group-image-reviewer": "图片审核员",
 	"group-image-reviewer-member": "{{GENDER:$1|图像审查者}}",
 	"grouppage-image-reviewer": "{{ns:project}}:图像审查者",
 	"group-extended-uploader": "扩展上传者",
