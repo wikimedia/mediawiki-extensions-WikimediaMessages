@@ -4,6 +4,7 @@
 			"Besnik b",
 			"Diebuche",
 			"Eraldkerciku",
+			"INNERLMNT",
 			"Mikullovci11",
 			"Multichill",
 			"Olsi"
@@ -184,6 +185,6 @@
 	"wm-license-cc-conditions-attribution-header": "atribuim",
 	"wm-license-cc-conditions-attribution-text": "Duhet t’i jepni meritat e duhura, të siguroni një lidhje për tek licenca dhe të tregoni nëse janë bërë ndryshime. Këtë mund ta bëni në ndonjë mënyrë të arsyeshme, por jo në ndonjë mënyrë që sugjeron se licencuesi ju del zot juve apo përdorimit tuaj.",
 	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "Nëse bëni një “remix”, e shndërroni, ose ndërtoni duke u bazuar te materiali, duhet t’i shpërndani kontributet tuaja sipas [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses të njëjtës licencë ose një të tille të përputhshme] me origjinalen.",
+	"wm-license-cc-conditions-share_alike-text": "Nëse bëni një “remix”, e shndërroni, ose ndërtoni duke u bazuar te materiali, duhet t’i shpërndani kontributet tuaja sipas [[ccorg:share-your-work/licensing-considerations/compatible-licenses|të njëjtës licencë ose një të tille të përputhshme]] me origjinalen.",
 	"wm-license-cc-pd-mark-text": "Kjo skedë është identifikuar si e lirë e kufizimeve të panjohura në ligjin e të drejtave të autorit, duke përfshirë të gjitha të drejtat e lidhura dhe fqinje."
 }
