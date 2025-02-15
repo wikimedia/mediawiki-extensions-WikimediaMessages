@@ -63,7 +63,7 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "The blocked range is $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "The blocked proxy address was $1.",
 	"wikimedia-globalblocking-blockedtext-appeal-user": "To discuss the block please [[m:Steward requests/Global|post a request for review on Meta-Wiki]].",
-	"wikimedia-globalblocking-blockedtext-mistake": "If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Stewards/Wizard|Stewards Block Wizard]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "If you believe you were blocked by mistake, you can find additional information and instructions in the [[m:Special:MyLanguage/Stewards/Wizard|Stewards Block Wizard]].",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "Your IP address has been automatically [[m:Special:MyLanguage/Global blocks|blocked on all wikis]] because it was used by another user, who was blocked by $1.",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro-xff": "One or more proxy servers used by your request has been automatically [[m:Special:MyLanguage/Global blocks|blocked on all wikis]] because it was used by another user, who was blocked by $1.",
 	"wikimedia-jsonconfig-license-copyrightwarning": "By publishing your changes, you agree to our [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], and you irrevocably agree to release your contribution under the terms of the [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] license.",
