@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Exec8",
 			"Lam-ang"
 		]
 	},
@@ -155,7 +156,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/si/|Attribution-Share Alike 2.5 Slovenia]] a lisensia.",
 	"wm-license-cc-by-sa-2.5-tw-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/tw/|Attribution-Share Alike 2.5 Taiwan]] a lisensia.",
 	"wm-license-cc-by-sa-2.5-za-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/za/|Attribution-Share Alike 2.5 South Africa]] a lisensia.",
-	"wm-license-cc-by-sa-3.0-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/|Attribution-Share Alike 3.0 Unported]] a lisensia.",
+	"wm-license-cc-by-sa-3.0-text": "Daytoy a papeles ket lisensiado babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] a lisensia.",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [[creativecommons:by-sa/3.0/|3.0 Unported]], [[creativecommons:by-sa/2.5/|2.5 Generic]], [[creativecommons:by-sa/2.0/|2.0 Generic]] ken[[creativecommons:by-sa/1.0/|1.0 Generic]] a lisensia.",
 	"wm-license-cc-by-sa-3.0-at-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/at/|Attribution-Share Alike 3.0 Austria]] a lisensia.",
 	"wm-license-cc-by-sa-3.0-au-text": "Daytoy a papeles ket nalisensiaan babaen ti [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/au/|Attribution-Share Alike 3.0 Australia]] a lisensia.",
@@ -209,6 +210,6 @@
 	"wm-license-cc-conditions-attribution-header": "pammadayaw",
 	"wm-license-cc-conditions-attribution-text": "Nasken a mangtedka iti pammadayaw, mangited iti silpo iti lisensia, ken mangibaga no adda dagiti nabaliwan. Mabalinmo nga aramiden iti ania man a pamay-an, ngem iti san a waya a mangisingasing a mangigupit kenka wenno iti panagusarmo.",
 	"wm-license-cc-conditions-share_alike-header": "makibingay nga agpadapada",
-	"wm-license-cc-conditions-share_alike-text": "No laokam, baliwam, wenno agpartuat manipud iti dayata  material, nasken nga iwaras dagiti kontribusionmo babaen ti [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses kapada wenno maitunos a lisensia] a kas ti kasisigud.",
+	"wm-license-cc-conditions-share_alike-text": "No ag-remix-ka, agbaliwka, wenno mangbangonka iti material, masapul nga iwarasmo dagiti kontribusionmo babaen ti [[ccorg:share-your-work/licensing-considerations/compatible-licenses|agpada wenno maitunos a lisensia]] a kas ti orihinal.",
 	"wm-license-cc-pd-mark-text": "Daytoy a papeles ket nainaganan a kas nawaya iti amin nga ammo a pakedngan babaen ti karbengan ti kopia a linteg, a mairaman amin a dagiti makaibagian ken karruba a karbengan."
 }

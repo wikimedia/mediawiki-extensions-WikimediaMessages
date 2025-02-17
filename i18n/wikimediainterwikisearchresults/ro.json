@@ -2,8 +2,10 @@
 	"@metadata": {
 		"authors": [
 			"Alesaru",
-			"Strainu"
+			"Strainu",
+			"Trotinel Iftode"
 		]
 	},
+	"search-interwiki-results-sylwiki": "Se afișează rezultate din [[:syl:|Sylheti Wikipedia]].",
 	"search-interwiki-results-tlywiki": "Se afișează rezultate de la [[:tly:|Wikipedia Talysh]]."
 }

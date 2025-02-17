@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"AnakngAraw",
+			"Exec8",
 			"Filipinayzd",
 			"GinawaSaHapon",
 			"Multichill",
@@ -200,7 +201,7 @@
 	"wm-license-cc-conditions-attribution-header": "atribusyon",
 	"wm-license-cc-conditions-attribution-text": "Dapat magbigay ka ng isang maayos na pag-credit, ibigay ang link sa lisensiya, at tukuyin kung may mga pagbabagong ginawa. Magagawa mo ito sa isang risonableng paraan, pero hindi sa paraan na para bang ineendorso ka o ng paggamit mo ng naglisensiya sa'yo.",
 	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "Kung gagamitin mo, babaguhin, o magdadagdag ka sa materyal, dapat mong ipamahagi ang mga ambag mo sa ilalim ng [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses pareho o katulad na lisensiya].",
+	"wm-license-cc-conditions-share_alike-text": "Kung mag-remix ka, magbabago, o bumuo sa materyal, dapat mong ipamahagi ang iyong mga kontribusyon sa ilalim ng [[ccorg:share-your-work/licensing-considerations/compatible-licenses|pareho o katugmang lisensya]] bilang orihinal.",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.en",
 	"wm-license-cc-pd-mark-text": "Nakilala ang talaksan bilang malaya mula sa nalalamang mga paghahangga sa ilalim ng batas sa karapatang-ari, kasama ang lahat ng mga kaugnay at karatig na mga karapatan."
 }

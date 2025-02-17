@@ -70,6 +70,5 @@
 	"wikimedia-globalblocking-blockedtext-proxy": "封禁的代理地址是$1。",
 	"wikimedia-globalblocking-blockedtext-appeal-user": "要申诉，请[[m:Steward requests/Global|在元维基上申请复核]]。",
 	"wikimedia-globalblocking-blockedtext-mistake": "如果您认为您受到错误封禁，您可以在[[m:Special:MyLanguage/No open proxies|禁止公开代理]]全域方针里找到更多信息和说明。您也可以[[m:Steward requests/Global|到元维基发布复查申请]]讨论该封禁。",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "您还可以给[[m:Special:MyLanguage/Stewards|监管员]][[m:Special:MyLanguage/VRT|VRT]]队列（<kbd>stewards@wikimedia.org</kbd>）发送提供上面所有详情的电子邮件。",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "我同意按照维基媒体基金会的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，谨慎处理在活动注册期间收集的参与者信息，包括参与者个人身份信息。"
 }

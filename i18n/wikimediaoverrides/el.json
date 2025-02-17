@@ -59,6 +59,5 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Ένας ή περισσότεροι διακομιστές μεσολάβησης που χρησιμοποιούνται από το αίτημά σας είναι [[m:Special:MyLanguage/Global blocks|αποκλεισμένοι παγκοσμίως]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Το αποκλεισμένο εύρος είναι $1 .",
 	"wikimedia-globalblocking-blockedtext-proxy": "Η αποκλεισμένη διεύθυνση διακομιστή μεσολάβησης ήταν $1 .",
-	"wikimedia-globalblocking-blockedtext-mistake": "Εάν πιστεύετε ότι έχετε αποκλειστεί κατά λάθος, μπορείτε να βρείτε πρόσθετες πληροφορίες και οδηγίες στην παγκόσμια πολιτική [[m:Special:MyLanguage/No open proxies|No open proxies]] παγκόσμια πολιτική.\nΔιαφορετικά, για να συζητήσετε τον αποκλεισμό, παρακαλούμε [[m:Steward requests/Global|αναρτήστε ένα αίτημα για έλεγχο στο Meta-Wiki]].",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Μπορείτε επίσης να στείλετε ένα email στην ουρά [[m:Special:MyLanguage/Stewards|stewards]] [[m:Special:MyLanguage/VRT|VRT]] στη διεύθυνση <kbd>stewards@wikimedia.org</kbd> , συμπεριλαμβανομένων όλων των παραπάνω στοιχείων."
+	"wikimedia-globalblocking-blockedtext-mistake": "Εάν πιστεύετε ότι έχετε αποκλειστεί κατά λάθος, μπορείτε να βρείτε πρόσθετες πληροφορίες και οδηγίες στην παγκόσμια πολιτική [[m:Special:MyLanguage/No open proxies|No open proxies]] παγκόσμια πολιτική.\nΔιαφορετικά, για να συζητήσετε τον αποκλεισμό, παρακαλούμε [[m:Steward requests/Global|αναρτήστε ένα αίτημα για έλεγχο στο Meta-Wiki]]."
 }

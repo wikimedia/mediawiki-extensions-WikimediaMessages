@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Exec8",
 			"Lam-ang",
 			"Nemo bis",
 			"Saluyot",
@@ -138,7 +139,7 @@
 	"search-interwiki-custom": "wikt:Manipud ti Wiktionario\nb:Manipud ti Wikiliblibro\nn:Manipud ti Wikidamdamag\nq:Manipud ti Wikisasao\ns:Manipud ti Wikitaudan\nv:Manipud ti Wikiversidad\nvoy:Manipud ti Wikibanniaga",
 	"wikimedia-copyright-footer": "Ti teksto ket magun-od babaen ti [https://creativecommons.org/licenses/by-sa/4.0/ Lisensia ti Creative Commons Attribution-ShareAlike];\ndagiti mainayon a termino ket mabalin pay a maipakat.\nKitaen dagiti [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termino ti Panagusar] para kadagiti salaysay.",
 	"wikidata-copyright-footer": "Amin a naestruktura a datos manipud ti umuna ken tagikua a nagan ti espasio ket magun-od babaen ti [https://creativecommons.org/publicdomain/zero/1.0/ Creative Commons CC0 a Lisensia];\nti teksto kadagiti sabali a nagan ti espasio ket magun-od babaen ti [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike a Lisensia];\ndagiti dadduma a termino ket mabalin a maipakat.\nKitaen dagiti [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termino ti Panagusar] para kadagiti salaysay.",
-	"wikimedia-copyrightwarning": "Babaen ti panagidulin kadagiti sinuksukatan, umannurotka kadagiti [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termino ti Panagusar], ken umannurotka a saan a mangiwaswas a mangibbet kadagiti kontribusionmo babaen ti [https://creativecommons.org/licenses/by-sa/4.0/ CC-BY-SA 4.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nUmannurotka a ti maysa a silpo wenno URL ket umanayen a pammadayaw babaen ti lisensia ti Creative Commons.",
+	"wikimedia-copyrightwarning": "Babaen ti panangidulin kadagiti panagbalbaliw, umanamongka iti [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termino ti Panagusar], ken saan a mabaliwan nga umanamongka a mangiruar iti kontribusionmo iti sidong ti [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 a Lisensia] ken ti [https://en.wikipedia.org/wiki/Wikipedia:Teksto_ti_GNU_Nawaya_a_Dokumentasion_Lisensia GFDL].\nUmanamongka a ti hyperlink wenno URL ket umdasen nga attribution iti sidong ti lisensia ti Creative Commons.",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] ken [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Naragsak nga isasangbay}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikinews",
@@ -159,5 +160,6 @@
 	"interlanguage-link-sitename-commons": "Repositorio ti midia ti Wikimedia Commons",
 	"interlanguage-link-sitename-dmoz": "Direktorio ti web ti DMOZ",
 	"right-viewdeletedfile": "Kiaten dagiti papeles ken pampanid kadagiti naikkat a nagan ti espasio ti {{ns:file}} ken {{ns:file_talk}}",
-	"wikimedia-statslink": "Estadistika"
+	"wikimedia-statslink": "Estadistika",
+	"wikimedia-cookiestatement": "Pakaammo ti cookie"
 }
