@@ -23,7 +23,8 @@
 			"Varnent",
 			"Nemoralis",
 			"Matma Rex",
-			"Əkrəm Cəfər"
+			"Əkrəm Cəfər",
+			"Əkrəm"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedia xüsusi mesajları",
@@ -185,7 +186,7 @@
 	"group-recursive-export": "Rekursiv ixrac",
 	"group-recursive-export-member": "{{GENDER:$1|rekursiv ixracatçı}}",
 	"group-staff": "Əməkdaşlar",
-	"group-staff-member": "əməkdaş",
+	"group-staff-member": "{{GENDER:$1|əməkdaş}}",
 	"group-steward": "Stüardlar",
 	"group-steward-member": "{{GENDER:$1|stüard}}",
 	"grouppage-steward": "m:Stewards/az",
