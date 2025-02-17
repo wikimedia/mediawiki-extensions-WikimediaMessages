@@ -41,7 +41,7 @@
 		"ext.wikimediamessages.contactpage": {
 			"localBasePath": "modules",
 			"remoteExtPath": "WikimediaMessages/modules",
-			"styles": "contactpage.css"
+			"styles": "contactpage.less"
 		}
 	},
 	"callback": "MediaWiki\\Extension\\WikimediaMessages\\Hooks::onRegistration",
