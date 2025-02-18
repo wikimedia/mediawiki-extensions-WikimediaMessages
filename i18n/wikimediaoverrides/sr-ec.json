@@ -40,7 +40,7 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Један или више прокси сервера које користите су [[m:Special:MyLanguage/Global blocks|блокирани на свим викијим]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Блокирани опсег је $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Блокирана прокси адреса је $1.",
-	"wikimedia-globalblocking-blockedtext-mistake": "Ако мислите да сте грешком блокирани додатне информације можете наћи на [[m:Stewards/Wizard|Stewards Block Wizard]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Ако мислите да сте грешком блокирани додатне информације можете наћи на [[m:Special:MyLanguage/Stewards/Wizard|Stewards Block Wizard]].",
 	"wikimedia-jsonconfig-license-copyrightwarning": "Објављивањем измена, прихватате [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења]  и неопозиво прихватате да објавите свој допринос под лиценцама [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
 	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Објављивањем измена, прихватате [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења]  и неопозиво прихватате да објавите свој допринос под лиценцама наведеним у пољу <code>licence</code>.",
 	"wikimedia-jsonconfig-license-notice": "Објављивањем измена, прихватате [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења]  и неопозиво прихватате да објавите свој допринос под лиценцама [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",

@@ -39,7 +39,7 @@
 	"wikimedia-flow-terms-of-use-lock-topic": "点击“{{int:flow-topic-action-lock-topic}}”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并同意{{PLURAL:$2|根据}}$1发表您的贡献，该授权不可撤回。",
 	"wikimedia-flow-terms-of-use-unlock-topic": "点击“{{int:flow-topic-action-unlock-topic}}”，即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并同意{{PLURAL:$2|根据}}$1发表您的贡献，该授权不可撤回。",
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\n封禁执行者是$1。封禁原因是''$2''。\n\n* 封禁开始时间：$8\n* 封禁期满时间：$6\n\n您当前的IP地址是$3。{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\n封禁执行者是$1。封禁原因是''$2''。\n\n* 封禁开始时间：$8\n* 封禁期满时间：$6\n\n您当前的IP地址是$3。{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}{{int:wikimedia-globalblocking-blockedtext-mistake}}{{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
+	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\n封禁执行者是$1。封禁原因是''$2''。\n\n* 封禁开始时间：$8\n* 封禁期满时间：$6\n\n您当前的IP地址是$3。{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\n封禁执行者是$1。封禁原因是''$2''。\n\n* 封禁开始时间：$8\n* 封禁期满时间：$6\n\n{{int:wikimedia-globalblocking-blockedtext-proxy|$7}}{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalrenamequeue-email-body-approved": "重命名“{{GENDER:$1|$1}}”至“{{GENDER:$1|$2}}”的申请已通过。一旦完成，您将使用您的新用户名和旧有密码登录。感谢您参与维基媒体项目。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "重命名“{{GENDER:$1|$1}}”至“{{GENDER:$1|$2}}”的申请无法完成。\n\n注释：$3\n\n更多信息请参见此帮助页面：\nhttps://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions\n\n要讨论您的重命名申请，您可以在此页面提出：\nhttps://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes\n\n您必须首先使用您现有的账户名登录。",
@@ -65,10 +65,12 @@
 	"wikimedia-globalblocking-blockedtext-all-wikis": "您的IP地址已[[m:Special:MyLanguage/Global blocks|在所有wiki受到封禁]]。",
 	"wikimedia-globalblocking-blockedtext-on-range": "您的IP地址属于已[[m:Special:MyLanguage/Global blocks|在所有维基媒体基金会维基受到封禁]]的地址段。",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "您的请求使用的一个或多个代理服务器[[m:Special:MyLanguage/Global blocks|受到全域封禁]]。",
-	"wikimedia-globalblocking-blockedtext-on-user": "您的账号已经[[m:Special:MyLanguage/Global blocks|在所有wiki上被封锁]]。",
+	"wikimedia-globalblocking-blockedtext-on-user": "您的账号已[[m:Special:MyLanguage/Global blocks|在所有wiki受到封禁]]。",
 	"wikimedia-globalblocking-blockedtext-ip-range": "封禁的地址段是$1。",
 	"wikimedia-globalblocking-blockedtext-proxy": "封禁的代理地址是$1。",
 	"wikimedia-globalblocking-blockedtext-appeal-user": "要申诉，请[[m:Steward requests/Global|在元维基上申请复核]]。",
-	"wikimedia-globalblocking-blockedtext-mistake": "如果您认为您受到错误封禁，您可以在[[m:Special:MyLanguage/No open proxies|禁止公开代理]]全域方针里找到更多信息和说明。您也可以[[m:Steward requests/Global|到元维基发布复查申请]]讨论该封禁。",
+	"wikimedia-globalblocking-blockedtext-mistake": "如果您认为自己受到错误封禁，可以在[[m:Special:MyLanguage/Stewards/Wizard|监管员封锁精灵]]处找到更多信息和说明。",
+	"wikimedia-globalblocking-blockedtext-autoblock-intro": "您的IP地址已自动[[m:Special:MyLanguage/Global blocks|在所有wiki受到封禁]]，因为此IP地址由另一用户使用，而该用户已被$1封禁。",
+	"wikimedia-globalblocking-blockedtext-autoblock-intro-xff": "您的请求使用的一个或多个代理服务器已自动[[m:Special:MyLanguage/Global blocks|在所有wiki受到封禁]]，因为其由另一用户使用，而该用户已被$1封禁。",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "我同意按照维基媒体基金会的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，谨慎处理在活动注册期间收集的参与者信息，包括参与者个人身份信息。"
 }
