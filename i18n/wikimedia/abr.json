@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alicia Agyeiwaa"
+			"Alicia Agyeiwaa",
+			"Yaw tuba"
 		]
 	},
 	"sitesupport": "Kyɛ bi",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikimedia-developers": "Bɛ a bɛde bɛyɛ biribi",
 	"wikimedia-statslink": "Nnoɔma a nyinaa ɔfa biribi ho",
 	"wikimedia-cookiestatement": "Nsɛm a ɔfa kuuki ho"
