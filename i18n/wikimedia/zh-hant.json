@@ -50,7 +50,8 @@
 			"Varnent",
 			"WiiUf",
 			"SCP-2000",
-			"Dabao qian"
+			"Dabao qian",
+			"PB2008"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -362,6 +363,7 @@
 	"querypage-updates-half-monthly": "此頁面的更新為一個月運行兩次。",
 	"querypage-updates-monthly": "此頁面的更新為一個月運行一次。",
 	"protect-level-editautoreviewprotected": "僅允許巡查豁免者",
+	"restriction-level-editautoreviewprotected": "巡查豁免保護",
 	"right-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"action-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"protect-level-editautopatrolprotected": "僅允許自動巡查員",
