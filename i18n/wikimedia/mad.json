@@ -11,12 +11,12 @@
 	"wikimedia-copyrightwarning": "Kalabân nyèmpen obâ'ân, Bâ'na saroju' ḍâ' ka [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], bân Bâ'na saroju' ka'angghuy ngèdhinè dhurruna Bâ'na è ḍâlem [https://creativecommons.org/licenses/by-sa/4.0/deed.en CC BY-SA 4.0 License] bân the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBâ'na saroju' jhâ' pranala \"hyper\" otabâ pranala iyâ arèya sèttong atribusi sè cokop è lèlla Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ḍâ'remma kabhârrâ}}, $1?",
 	"wikibase-sitelinks-wikinews": "Wikiberta",
-	"wikibase-sitelinks-wikiquote": "Wikipetthèk",
+	"wikibase-sitelinks-wikiquote": "Wikipetthèghân",
 	"wikibase-sitelinks-wikisource": "Wikigherbhung",
 	"wikibase-sitelinks-wikivoyage": "Wikiglinjâr",
 	"wikimedia-developers": "Pangembâng",
 	"wikimedia-globalblocking-ipblocked": "'''Lamat IPna bâ'na ella [[m:Special:MyLanguage/Global blocks|èyanḍhâng ḍâ' kabbhi wiki]].'''\n\nPanganḍhângan èkalako bi' $1 ($2).\nAlasân sè èpajhârbâ iyâ arèya \"$3\".\n\n*Molaè èyanḍhâng: $4\n*Marè èyanḍhâng: $5\n\nLamat IPna bâ'na satèya $6.\nPaghenna' kabbhi ghâl-tongghâllâ è attas è yap-nèyap pètanya'anna bâ'na.\n\nMon bâ'na jâ'na jhâ' panganḍhângan ghellâ' arowa sala, bâ'na ngennèng maca bâberta tambâ'ân bân pètondhu è Kabijâghân global [[m:Special:MyLanguage/No open proxies|tanpa proksi abukka']].\nMon enjâ', mon arembhâghâ parkara rèya, nyara [[m:Steward requests/Global|ngèrèm pamènta ka'angghuy èparèksa è Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Sèttong otabâ lebbi pala'jân proksi sè èghuna'aghi è ḍâlem pamèntana bâ'na [[m:Special:MyLanguage/Global blocks|èyanḍhâng è sakabbhina wiki]].'''\n\nPanganḍhângan èkalako bi' $1 ($2).\nAlasân panganḍhângan \"$3\".\n\n* Molaè èyanḍhâng: $4\n* Marèna èyanḍhâng: $5\n\nLamat proksi sè èyanḍhâng $6.\nNyara sarta'aghi kabbhi ghâl-tongghâllâ è attas è yap-nèyap pètanya'anna bâ'na.\n\nKalamon bâ'na jâ'nè bâ'na èyanḍhâng polana sala, bâ'na ngennèng maca bâberta tambâ'ân bân pètondhuna è Kabijâghân Global [[m:Special:MyLanguage/No open proxies|tanpa proksi tabukka']].\nMon enjâ', ka'angghuy arembhâk bâb arèya, nyara [[m:Steward requests/Global|ngèrèm pamènta ghâbây èparèksa è Meta-Wiki]].",
 	"wikimedia-statslink": "Settat",
-	"wikimedia-cookiestatement": "Panyata'an kuki"
+	"wikimedia-cookiestatement": "Parnyata'an kuki"
 }

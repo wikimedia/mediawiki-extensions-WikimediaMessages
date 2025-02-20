@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Cgmbo"
+			"Cgmbo",
+			"BOKOBA VEROLY"
 		]
 	},
 	"sitesupport": "Pesa makabu",
 	"wikimedia-copyright": "Bisono kele na nsi ya <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">Creative Commons Attribution-ShareAlike License</a>;\nadditional terms may apply.\nSee <a href=\"https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">Terms of Use</a> for details.",
+	"wikimedia-developers": "Developers",
+	"wikimedia-statslink": "Statistics",
 	"wikimedia-cookiestatement": "Mambu ya me tala cookie"
 }

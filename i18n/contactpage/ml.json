@@ -8,9 +8,9 @@
 	"contactpage-title-requestlicense": "ഉപയോഗാനുമതി നേടാനുള്ള ഫോം",
 	"contactpage-pagetext-requestlicense": "വികിമീഡിയ വ്യാപാരമുദ്ര ഉപയോഗിക്കാനായി ഞങ്ങളെ ബന്ധപ്പെടാൻ താഴെയുള്ള ഫോം ഉപയോഗിക്കുക",
 	"contactpage-subject-requestlicense": "വിക്കിമീഡിയയുടെ വ്യാപാരമുദ്ര ഉപയോഗപ്പെടുത്താനുള്ള അഭ്യർത്ഥന",
-	"contactpage-license-request-username": "ഉപയോക്തൃനാമം *",
+	"contactpage-license-request-username": "ഉപയോക്തൃനാമം",
 	"contactpage-license-request-relevantsite": "ബന്ധപ്പെട്ട വിക്കിമീഡിയ സൈറ്റ് (ഉണ്ടെങ്കിൽ)",
-	"contactpage-license-request-group": "വിക്കിമീഡിയ ചാപ്റ്റർ, അനുബന്ധ സംഘടന, ഉപയോക്തൃസംഘം ഒപ്പം തലക്കെട്ടും (ഉണ്ടെങ്കിൽ) *",
+	"contactpage-license-request-group": "വിക്കിമീഡിയ ചാപ്റ്റർ, അനുബന്ധ സംഘടന, ഉപയോക്തൃസംഘം ഒപ്പം തലക്കെട്ടും (ഉണ്ടെങ്കിൽ)",
 	"contactpage-license-request-title": "തലക്കെട്ട് (ബാധകമെങ്കിൽ)",
 	"contactpage-license-request-organization": "സംഘടന (ബാധകമെങ്കിൽ)",
 	"contactpage-license-request-organization-type": "സംഘടനയുടെ സ്വഭാവം (ബാധകമെങ്കിൽ)",
@@ -28,7 +28,7 @@
 	"contactpage-wikimedia-trademark-w": "ഭംഗിയാക്കിയ \"W\"",
 	"contactpage-wikimedia-trademark-foundation": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ",
 	"contactpage-wikimedia-trademark-commons": "വിക്കിമീഡിയ കോമൺസ്",
-	"contactpage-wikimedia-trademark-incubator": "വിക്കിമീഡിയ ഇങ്കുബേറ്റർ",
+	"contactpage-wikimedia-trademark-incubator": "വിക്കിമീഡിയ ഇൻക്യുബേറ്റർ",
 	"contactpage-wikimedia-trademark-mediawiki": "മീഡിയവിക്കി",
 	"contactpage-wikimedia-trademark-wikiquote": "വിക്കിചൊല്ലുകൾ",
 	"contactpage-wikimedia-trademark-wikibooks": "വിക്കിപാഠശാല",
@@ -47,5 +47,9 @@
 	"contactpage-license-abuse-selectmark": "ഏത് മുദ്രയാണ് ദുരുപയോഗം ചെയ്തത്?",
 	"contactpage-license-abuse-location": "എവിടെയാണ് ദുരുപയോഗം ചെയ്തത് (ഓൺലൈൻ / ഓഫ്‌ലൈൻ)",
 	"contactpage-license-abuse-theircontact": "മുദ്ര ദുരുപയോഗം ചെയ്ത വ്യക്തിയെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ (അറിയാമെങ്കിൽ)",
-	"contactpage-license-abuse-yourcontact": "താങ്കളെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ (താങ്കളെ ബന്ധപ്പെടാമെങ്കിൽ)"
+	"contactpage-license-abuse-yourcontact": "താങ്കളെ ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ (താങ്കളെ ബന്ധപ്പെടാമെങ്കിൽ)",
+	"contactpage-title-affcomusergroup": "ഒരു ഉപയോക്തൃ സംഘം ആരംഭിക്കുന്നതിന് അപേക്ഷിക്കുക",
+	"contactpage-movecom-signup-display-name": "പേര്",
+	"contactpage-movecom-signup-display-username": "ഉപയോക്തൃനാമം",
+	"contactpage-movecom-signup-display-nameusername": "പേരും ഉപയോക്തൃനാമവും"
 }

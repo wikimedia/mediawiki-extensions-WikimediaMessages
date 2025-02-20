@@ -50,7 +50,8 @@
 			"飞舞回堂前",
 			"WiiUf",
 			"SCP-2000",
-			"Dabao qian"
+			"Dabao qian",
+			"PB2008"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -393,6 +394,7 @@
 	"querypage-updates-half-monthly": "此頁面的更新為一個月運行兩次。",
 	"querypage-updates-monthly": "此頁面的更新為一個月運行一次。",
 	"protect-level-editautoreviewprotected": "僅允許巡查豁免者",
+	"restriction-level-editautoreviewprotected": "巡查豁免保護",
 	"right-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"action-editautoreviewprotected": "編輯保護層級為「{{int:protect-level-editautoreviewprotected}}」的頁面",
 	"protect-level-editautopatrolprotected": "僅允許自動巡查員",
@@ -451,7 +453,7 @@
 	"wikimedia-foundation-mark-label": "維基媒體基金會標誌",
 	"wikimedia-foundation-department-shortname-advancement": "進展",
 	"wikimedia-foundation-department-shortname-ceo": "執行長辦公室",
-	"wikimedia-foundation-department-shortname-communications": "溝通",
+	"wikimedia-foundation-department-shortname-communications": "傳播",
 	"wikimedia-foundation-department-shortname-financeadmin": "財務與行政",
 	"wikimedia-foundation-department-shortname-legal": "法務",
 	"wikimedia-foundation-department-shortname-producttech": "產品與技術",
