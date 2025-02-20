@@ -1,5 +1,5 @@
 /*!
- * Add feedback link to IPInfo
+ * Add community user tool links to IPInfo's infobox widget
  */
 ( function () {
 	mw.hook( 'ext.ipinfo.infobox.widget' ).add( function ( $info ) {
