@@ -72,7 +72,7 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "Engellenen aralık $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Engellenen vekil sunucu adresi $1 idi.",
 	"wikimedia-globalblocking-blockedtext-appeal-user": "Engeli tartışmak için lütfen [[m:Steward requests/Global|Meta-Viki'de inceleme isteği gönderin]].",
-	"wikimedia-globalblocking-blockedtext-mistake": "Yanlışlıkla engellendiğinizi düşünüyorsanız, ek bilgileri ve yönergeleri [[m:Stewards/Wizard|Kahya Engelleme Sihirbazı]]'nda bulabilirsiniz.",
+	"wikimedia-globalblocking-blockedtext-mistake": "Yanlışlıkla engellendiğinizi düşünüyorsanız, ek bilgileri ve yönergeleri [[m:Special:MyLanguage/Stewards/Wizard|Kahya Engelleme Sihirbazı]]'nda bulabilirsiniz.",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "IP adresiniz, $1 tarafından engellenen başka bir kullanıcı tarafından kullanıldığı için otomatik olarak [[m:Special:MyLanguage/Global blocks|tüm vikilerde engellendi]].",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro-xff": "İsteğinizin kullandığı bir ya da daha fazla vekil sunucu otomatik olarak [[m:Special:MyLanguage/Global blocks|tüm vikilerde engellendi]], çünkü $1 tarafından engellenen başka bir kullanıcı tarafından kullanılıyordu.",
 	"wikimedia-jsonconfig-license-copyrightwarning": "Değişikliklerizi yayımlayarak [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Kullanım Şartları]'mızı onaylar ve katkınızı [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] lisansının koşullarıyla yayımlamayı geri alınamaz biçimde onaylarsınız.",
