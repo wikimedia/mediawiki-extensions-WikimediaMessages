@@ -9,7 +9,8 @@
 			"Sakretsu",
 			"SaldırganSincap",
 			"Toa",
-			"Wim b"
+			"Wim b",
+			"ZandDev"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
@@ -46,5 +47,7 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Uno o più server proxy utilizzati dalla tua richiesta sono [[m:Special:MyLanguage/Global blocks|bloccati globalmente]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "L'intervallo bloccato è $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "L'indirizzo proxy bloccato è $1.",
-	"wikimedia-globalblocking-blockedtext-mistake": "Se ritieni di essere stato bloccato per errore, puoi trovare ulteriori informazioni e istruzioni nella [[m:Special:MyLanguage/Stewards/Wizard|Procedura guidata per il blocco degli stewards]]."
+	"wikimedia-globalblocking-blockedtext-mistake": "Se ritieni di essere stato bloccato per errore, puoi trovare ulteriori informazioni e istruzioni nella [[m:Special:MyLanguage/Stewards/Wizard|Procedura guidata per il blocco degli stewards]].",
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo la licenza specificata nel parametro <code>license</code>.",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''Nota:''' Quando modifichi questa pagina, accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'uso], e accetti irrevocabilmente di pubblicare i tuoi contributi secondo la licenza specificata nel parametro <code>license</code>."
 }
