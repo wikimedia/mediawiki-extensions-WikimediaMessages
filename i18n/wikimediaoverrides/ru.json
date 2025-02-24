@@ -20,7 +20,8 @@
 			"Smigles",
 			"Stjn",
 			"Sunpriat",
-			"Vlad5250"
+			"Vlad5250",
+			"Yurina Tatiana"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Посетители этой вики, использующие ваш IP-адрес, создали {{PLURAL:$1|1 аккаунт|$1 аккаунта|$1 аккаунтов}}  за последний день, что является максимумом за этот промежуток времени.\nВ результате, посетители с этого IP-адреса больше не могут создавать аккаунты в данный момент.\n\nЕсли вы находитесь на мероприятии, фокусирующемся на вкладе в проекты Викимедиа, пожалуйста, посмотрите [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Запрос на временное увеличение предела IP]] для помощи в решении этой проблемы.",
@@ -54,6 +55,6 @@
 	"wikimedia-ipinfo-preference-use-agreement": "Я соглашаюсь использовать этот инструмент согласно [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines правилам его применения], исключительно для расследования или предотвращения вандализма, нецелевого использования или других нарушений правил «Фонда Викимедиа» и вики-сообществ.",
 	"wikimedia-centralauth-admin-log-otherwiki": "Эта учётная запись отключена. Подробнее см. [[meta:Special:CentralAuth/$1|глобальные сведения об учётной записи на Мета-вики]].",
 	"wikimedia-globalblocking-blockedtext-on-range": "Ваш IP-адрес находится в диапазоне, который был [[m:Special:MyLanguage/Global blocks|заблокирован на всех вики-сайтах Фонда Викимедиа]].",
-	"wikimedia-globalblocking-blockedtext-mistake": "Если вы считаете, что вас заблокировали по ошибке, вы можете найти дополнительную информацию на странице [[m:Special:MyLanguage/No open proxy|Недопустимость использования открытых прокси-серверов]].\nДля обсуждения блокировки, пожалуйста, [[m:Steward requests/Global|оставьте запрос на Meta-Wiki]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Если вы считаете, что вас заблокировали по ошибке, вы можете найти дополнительную информацию и инструкции в [[m:Special:MyLanguage/Stewards/Wizard|Мастере по изготовлению блоков стюардов]].",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Я согласен обращаться с информацией об участниках, включая личную информацию участника, собранную во время регистрации мероприятия, бережно и в соответствии с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Условиями использования]."
 }
