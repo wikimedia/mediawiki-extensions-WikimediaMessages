@@ -4,7 +4,8 @@
 			"Lam-ang",
 			"Nemo bis",
 			"Saluyot",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Exec8"
 		]
 	},
 	"wikimediamessages-desc": "Dagiti naisangsangayan a mensahe ti Wikimedia",
@@ -169,5 +170,6 @@
 	"interlanguage-link-sitename-commons": "Repositorio ti midia ti Wikimedia Commons",
 	"interlanguage-link-sitename-dmoz": "Direktorio ti web ti DMOZ",
 	"right-viewdeletedfile": "Kiaten dagiti papeles ken pampanid kadagiti naikkat a nagan ti espasio ti {{ns:file}} ken {{ns:file_talk}}",
-	"wikimedia-statslink": "Estadistika"
+	"wikimedia-statslink": "Estadistika",
+	"wikimedia-cookiestatement": "Pakaammo ti cookie"
 }
