@@ -13,7 +13,8 @@
 			"SwornToTranslate29",
 			"ToprakM",
 			"Uncitoyen",
-			"Victor Trevor"
+			"Victor Trevor",
+			"Leo"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bu viki ziyaretçisini IP adresinizi kullanarak, geçen gün {{PLURAL:$1|1 hesap|$1 hesap}} oluşturmuş ve bu süre içinde izin verilen maksimum tutardır.\nSonuç olarak, bu IP adresini kullanan ziyaretçiler şu anda daha fazla hesap oluşturamaz.\n\nWikimedia projelerine katkıda bulunmanın odak olduğu bir etkinlikte bulunuyorsanız, bu sorunun çözülmesine yardımcı olmak için lütfen [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP kapağının geçici olarak kaldırılması istenmesine]] bakın.",

@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Alicia Agyeiwaa"
+			"Alicia Agyeiwaa",
+			"Yaw tuba"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "Nkyerɛkyerɛmu a yɛgyina suahunu so de ma biribi"
+	"wm-license-cc-free": "Bɛ de bɛho",
+	"wm-license-cc-free-to-share-header": "sɛ bɛ bɛkyɛ",
+	"wm-license-cc-free-to-share-text": "sɛɛ bɛ bɛkyerɛw adwuma he, akyekyɛ na bɛde akɔma afoforoɔ",
+	"wm-license-cc-free-to-remix-header": "sɛɛ bɛ bɛsane ayɛ rimise (remix)",
+	"wm-license-cc-free-to-remix-text": "sɛnea ɛbɛyɛ a bɛ bɛsakra adwuma he",
+	"wm-license-cc-conditions": "Under the following conditions:\n\nBɛ tebea ahodoɔ a edidi soɔ yi mu he:",
+	"wm-license-cc-conditions-attribution-header": "Nkyerɛkyerɛmu a yɛgyina suahunu so de ma biribi",
+	"wm-license-cc-conditions-share_alike-header": "bɛ kyɛfa nyinaa"
 }

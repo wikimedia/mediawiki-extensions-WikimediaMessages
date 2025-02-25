@@ -5,6 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "ᑐᓂᔭᐅᓂᖏᑦ",
+	"wm-license-cc-by-sa-3.0-text": "ᑖᓐᓇ ᐸᐃᑉᐹᖅ ᓚᐃᓴᓐᓯᖃᖅᑐᖅ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] ᓚᐃᓴᓐᓯᐅᑉ ᐊᑖᓂ.",
 	"wm-license-cc-free": "ᐃᓱᒪᖅᓱᖅᐳᑎᑦ:",
 	"wm-license-cc-free-to-share-header": "ᑐᓂᐅᖅᑲᐃᓗᖅ",
 	"wm-license-cc-free-to-share-text": "ᐊᔾᔨᓕᐅᕆᓗᓂ, ᑐᓂᐅᖅᑲᐃᓗᓂ ᐊᒻᒪ ᑐᓂᐅᖅᑲᐃᓗᓂ ᐱᓕᕆᐊᖑᓯᒪᔪᓂᒃ",
@@ -12,6 +13,6 @@
 	"wm-license-cc-free-to-remix-text": "ᐊᑦᑕᓯᐊᓂᖅ ᑭᐅᔪᓐᓇᐃᔪᒃ",
 	"wm-license-cc-conditions": "ᑕᑯᒃᓴᐅᓕᖅᑕᐅᖏᑦ ᐊᑐᕈᑦᓯᒪᕆᐊᖏᑦ:",
 	"wm-license-cc-conditions-attribution-header": "ᑐᓂᔭᐅᓂᖏᑦ",
-	"wm-license-cc-conditions-attribution-text": "ᐱᑦᑎᔪᑎᐅᖕᒐᖅᑐᑦ ᑐᙵᓇᖅᑐᑦ ᐱᔭᐅᑎᒋᔭᕆᔭᐅᖅᑐᒍᒥ ᐃᑲᒐᒫᖅᑐᓄᑦ ᐊᐅᓪᓚᖅᓱᒋᑦ ᐱᔭᐅᑎᒋᔭᕐᑐᑦ, ᐱᑕᓖᑦ ᐸᓪᓕᐊᖅᑐᓄᑦ ᑐᙵᓇᕆᓂᓯᒪᕝᕕᒃ ᐊᑯᓈᓇᖅᑐᑦ ᐅᑯᓂᐅᑦ ᐱᑕᖅᑭᑦᑎᕕᑦ ᐅᑲᒋᑦᑕᐅᑉ ᐱᔭᐅᑎᓐᓇᑦ ᑐᖅᑯᓯᐅᑎᑦᑎᓂᑯᓄᑦ ᐱᑦᑎᒋᓐᓂᕆᔭᑕᑉ ᐃᓂᑐᑦ ᐅᓄᓐᓂᐅᔾᔪᐊᕈᑭᑦᑐᑦ ᐱᔭᐅᑎᒃ ᑕᐃᑦᑐᐅᕈᑭᑦᑐᑦ ᑕᑦᑕᑎᓪᓚᓂᐅᓱᑦᑐᒥ ᑐᖅᑯᓱᒋᑦ ᑐᐊᑦᑭᐅᔪᖕᒐᒪᑎᑦᑎᓂᑯᑦ.",
+	"wm-license-cc-conditions-attribution-text": "ᓈᒻᒪᒃᑐᒥᒃ ᖁᔭᓕᔾᔪᑎᒥᒃ ᑐᓂᓯᔭᕆᐊᖃᖅᐳᑎᑦ, ᑐᓂᓯᓗᑎᑦ ᓚᐃᓴᓐᓯᒧᑦ ᑐᕌᕈᑎᒥᒃ, ᐊᒻᒪᓗ ᓇᓗᓇᐃᖅᓯᓗᑎᑦ ᐊᓯᔾᔨᖅᑕᐅᓐᓂᕐᒪᖔᑕ. ᑕᐃᒪᐃᒍᓐᓇᖅᑐᑎᑦ ᖃᓄᑐᐃᓐᓇᖅ ᓈᒻᒪᒃᑐᒃᑯᑦ, ᑭᓯᐊᓂ ᖃᓄᑐᐃᓐᓇᖅ ᓇᓗᓇᐃᖅᓯᙱᓪᓗᑎᑦ ᓚᐃᓴᓐᓯᑖᖅᑎᑦᑎᔨ ᐃᓕᖕᓂᒃ ᐅᕝᕙᓘᓐᓃᑦ ᐊᑐᕐᓂᕆᔭᕐᓂᒃ.",
 	"wm-license-cc-conditions-share_alike-header": "ᐊᔾᔨᒌᒥᒃ ᑲᑐᔾᔨᓂᖅ"
 }

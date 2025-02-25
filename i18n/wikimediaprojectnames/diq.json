@@ -3,7 +3,8 @@
 		"authors": [
 			"Asmen",
 			"Kumkumuk",
-			"Mirzali"
+			"Mirzali",
+			"GolyatGeri"
 		]
 	},
 	"project-localized-name-aawiki": "Afarki Wikipedia",
@@ -121,5 +122,6 @@
 	"project-localized-name-kawikiquote": "Wikivateyo Gurciki",
 	"project-localized-name-kawiktionary": "Wikiqısebendo Gurciki",
 	"project-localized-name-mhwiktionary": "Wikiqısebendo Marşalki",
-	"project-localized-name-nqowiki": "Wikipediya N'Ko"
+	"project-localized-name-nqowiki": "Wikipediya N'Ko",
+	"project-localized-name-wikidatawiki": "Wikidayıt"
 }
