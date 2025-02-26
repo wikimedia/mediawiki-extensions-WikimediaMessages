@@ -5,8 +5,16 @@
 			"Boesenbergia"
 		]
 	},
+	"wikimediamessages-desc": "Sen-pessen khosos Wikimèḍia",
 	"sitesupport": "Nyombhâng",
 	"tooltip-n-sitesupport": "Totonjhâng",
+	"specialpages-group-contribution": "Dhurrun/Jhuru bibi",
+	"nstab-creator": "Tokang cèpta",
+	"nstab-sequence": "Ongrot",
+	"nstab-timedtext": "OkaraAbâkto",
+	"group-image-reviewer": "Pamarèksa ghâmbhâr",
+	"group-image-reviewer-member": "{{GENDER:$1|pamarèksa ghâmbhâr}}",
+	"grouppage-image-reviewer": "{{ns:project}}:Pamarèksa ghâmbhâr",
 	"wikimedia-copyright-footer": "Tèks tasaḍiyâ mènorot [https://creativecommons.org/licenses/by-sa/4.0/deed.id Lèlla Atribusi-AbâgiSarobâ Creative Commons]; katantowan tambâ'ân amè' pola èyangghuy kèya. Tèngghu [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id Katantowan Paghuna'an ] sopajâ jhârbâ.",
 	"wikimedia-copyrightwarning": "Kalabân nyèmpen obâ'ân, Bâ'na saroju' ḍâ' ka [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], bân Bâ'na saroju' ka'angghuy ngèdhinè dhurruna Bâ'na è ḍâlem [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] bân the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBâ'na saroju' jhâ' pranala \"hyper\" otabâ pranala iyâ arèya sèttong atribusi sè cokop è lèlla Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Ḍâ'remma kabhârrâ}}, $1?",
