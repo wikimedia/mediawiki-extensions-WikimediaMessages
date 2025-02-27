@@ -2,9 +2,9 @@
  * Add community user tool links to IPInfo's infobox widget
  */
 ( function () {
-	mw.hook( 'ext.ipinfo.infobox.widget' ).add( function ( $info ) {
-		var contributionsUrl = mw.msg( 'ipinfo-global-contributions-url', mw.config.get( 'wgRelevantUserName' ) );
-		var xToolsUrl = mw.msg( 'ipinfo-xtools-url', mw.config.get( 'wgRelevantUserName' ), mw.config.get( 'wgServerName' ) );
+	mw.hook( 'ext.ipinfo.infobox.widget' ).add( ( $info ) => {
+		const contributionsUrl = mw.msg( 'ipinfo-global-contributions-url', mw.config.get( 'wgRelevantUserName' ) );
+		const xToolsUrl = mw.msg( 'ipinfo-xtools-url', mw.config.get( 'wgRelevantUserName' ), mw.config.get( 'wgServerName' ) );
 
 		$info.find( '[data-property="edits"]' )
 			.append( $( '<div>' )
