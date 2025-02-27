@@ -40,7 +40,7 @@
 	"group-accountcreator-member": "{{GENDER:$1|стваральнік рахункаў|стваральніца рахункаў}}",
 	"grouppage-accountcreator": "{{ns:project}}:Стваральнікі ўліковых запісаў",
 	"group-arbcom": "Чальцы арбітражнага камітэту",
-	"group-arbcom-member": "{{GENDER:$1|чалец арбітражнага камітэту|чалец арбітражнага камітэту}}",
+	"group-arbcom-member": "{{GENDER:$1|сябра арбітражнага камітэту|сяброўка арбітражнага камітэту}}",
 	"grouppage-arbcom": "{{ns:project}}:Чальцы арбітражнага камітэту",
 	"group-autopatrolled": "Аўтаматычна патруліруючыя",
 	"group-autopatrolled-member": "{{GENDER:$1|аўтаматычна патрулюючы|аўтаматычна патрулюючая}}",
