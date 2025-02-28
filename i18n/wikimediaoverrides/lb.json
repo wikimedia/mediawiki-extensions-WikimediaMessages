@@ -37,5 +37,6 @@
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Är IP-Adress gouf [[m:Special:MyLanguage/Global blocks|op all Wiki gespaart]].",
 	"wikimedia-globalblocking-blockedtext-on-range": "Är IP-Adress ass an engem Beräich, deen [[m:Special:MyLanguage/Global blocks|op all Wiki vun der Wikimedia Foundation gespaart gouf]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "De gespaarte Beräich ass $1.",
-	"wikimedia-globalblocking-blockedtext-proxy": "Déi gespaarte Proxyadress war $1."
+	"wikimedia-globalblocking-blockedtext-proxy": "Déi gespaarte Proxyadress war $1.",
+	"wikimedia-skin-minerva-donate-banner-message": "Maacht elo en Don"
 }

@@ -6,6 +6,7 @@
 			"Amjad Khan",
 			"Baloch Khan",
 			"Varnent",
+			"شاه زمان پټان",
 			"عثمان خان شاہ"
 		]
 	},
@@ -71,7 +72,7 @@
 	"tag-emoji": "څېره گۍ",
 	"shared-repo-name-shared": "ويکيمېډيا کامنز",
 	"wikimedia-copyright-footer": "دا متن د [https://creativecommons.org/licenses/by-sa/4.0/ کريټيف کامنز ورته-شريکېدنې-اړوندتيا منښتليک] له مخې خپور شوی؛\nاضافه شرطونه به هم کارېدلي وي.\nد لا تفصيل لپاره [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use د کارولو شرطونه] وگورئ.",
-	"wikimedia-copyrightwarning": "د بدلونونو په خوندي کولو سره، تاسې د [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use کارولو شرطونه] منئ، او تاسې په نه جبرانېدونکې توگه دا هم منئ چې خپلې ونډې مو د [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 منښتليک] او د [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جي اېف ډي اېل] پر بنسټ دلته خپروئ.\nتاسې دا هم منئ چې يو هايپرلېنک يا يو آر اېل د کريټيف کامنز منښتليک سره د اړوندېدنې لپاره بس دی.",
+	"wikimedia-copyrightwarning": "د بدلونونو په خوندي کولو سره، تاسې د [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use کارولو منښتونه] منئ، او تاسې په نه جبرانېدونکې توگه دا هم منئ چې خپلې ونډې مو د [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 منښتليک] او د [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License جي اېف ډي اېل] پر بنسټ دلته خپروئ.\nتاسې دا هم منئ چې يو هايپرلېنک يا يو ار اېل د کريټيف کامنز منښتليک سره د اړوندېدنې لپاره بس دی.",
 	"wikimedia-mobile-mainpage-title-loggedin": "$1، ښه راغلې!",
 	"wikibase-repo-name": "ويکي‌ډېټا",
 	"wikibase-sitelinks-wikibooks": "ويکيتابونه",
@@ -79,7 +80,7 @@
 	"wikibase-sitelinks-wikiquote": "ويکيوراشه",
 	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
 	"wikibase-sitelinks-wikiversity": "ويکيپوهنتون",
-	"wikibase-sitelinks-wikivoyage": "ويکيسفر",
+	"wikibase-sitelinks-wikivoyage": "ويکييون",
 	"wikibase-sitelinks-wiktionary": "ويکيسيند",
 	"wikibase-otherprojects-commons": "ويکيمېډيا کامنز",
 	"wikibase-otherprojects-testwikidata": "ويکيډاټا",
@@ -102,11 +103,11 @@
 	"wikimedia-otherprojects-cloudservices": "د ويکيمېډيا کلاز خدمتونه",
 	"wikimedia-taglines-wikidata": "د پوهنو يو وړيا بنسټ",
 	"wikimedia-taglines-wikivoyage": "يو وړيا يون لارښود",
-	"wikimedia-developers": "پرمختگگران:",
+	"wikimedia-developers": "پراختيا ورکوونکي:",
 	"wikimedia-upload-nolicenses": "دې ويکي کې د دوتنو پورته کول ناچارن شوی. لطفاً  دوتنې مو [[commons:Special:UploadWizard|ويکيمېډيا خونديځ کې پورته کړئ]].\n\nد دې لپاره چې د همدې ځانگړي مخ په کارولو سره دې ويکي کې دوتنې پورته کول چارن شي، نو بايد يو پازوال د منښتليکونو څخه يو يا څو منښتليکونه د [[MediaWiki:Licenses]] په مخ کې ورگډ کړي.\n\nلاندينۍ بڼه وکاروئ: <code>* Template name|Label</code>. د منښتليکونو خوښنو څخه پرته د پورته کولو چارنولو لپاره هر ډول متن وکاروئ.",
 	"interlanguage-link-mul": "نورې ژبې",
 	"interlanguage-link-commons": "ويکيمېډيا کامنز",
-	"wikimedia-statslink": "شمار",
+	"wikimedia-statslink": "شمېرنې",
 	"wikimedia-cookiestatement": "د کوکيز ويناليک",
 	"wikimedia-help-translate-prompt": "په ژباړه کې غواړې مرسته وکړې؟ [$1 هغه پيغامونه چې نشته وې ژباړئ]."
 }
