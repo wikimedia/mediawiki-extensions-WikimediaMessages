@@ -6,7 +6,8 @@
 			"Baloch Khan",
 			"عثمان خان شاہ",
 			"Af420",
-			"Varnent"
+			"Varnent",
+			"شاه زمان پټان"
 		]
 	},
 	"wikimediamessages-desc": "د ويکيمېډيا ځانگړي پيغامونه",
@@ -82,7 +83,7 @@
 	"wikibase-sitelinks-wikiquote": "ويکيوراشه",
 	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
 	"wikibase-sitelinks-wikiversity": "ويکيپوهنتون",
-	"wikibase-sitelinks-wikivoyage": "ويکيسفر",
+	"wikibase-sitelinks-wikivoyage": "ويکييون",
 	"wikibase-sitelinks-wiktionary": "ويکيسيند",
 	"wikibase-otherprojects-commons": "ويکيمېډيا کامنز",
 	"wikibase-otherprojects-testwikidata": "ويکيډاټا",
@@ -102,7 +103,7 @@
 	"wikibase-sitelinks-sitename-mediawikiwiki": "مېډياويکي",
 	"wikibase-sitelinks-sitename-metawiki": "مېټا-ويکي",
 	"wikibase-sitelinks-sitename-wikidatawiki": "ويکيډاټا",
-	"wikimedia-developers": "پرمختگگران:",
+	"wikimedia-developers": "پراختيا ورکوونکي:",
 	"wikimedia-globalblocking-ipblocked": "'''په ټولو ويکي گانو کې ستاسې پر IP پتې [[m:Special:MyLanguage/Global blocks|بنديز لگېدلی]].'''\n\nدا بنديز د $1  لخوا پر تاسو پلي شوی ($2).\nد بنديز سبب ''$3'' ورکړل شوی.\n\n* د بنديز پيل نېټه: $4\n* د بنديز پای نېټه: $5\n\nستاسې اوسنۍ IP پته $6 ده.\nکه تاسې د دې کړنې اړونده هر ډول گروېږنې لرۍ، نو د پوښتنو پر مهال مو پورتني مالومات په غوښتنو کې شامل کړئ.\n\nکه تاسې په دې اند ياست چې په غلطۍ کې پر تاسې بنديز لگېدلی، نو په [[m:Special:MyLanguage/No open proxies|ناپرانيستې پروکسي]] کې د نړېوالې تگلارې اړونده اضافي مالومات او لارښوونې موندلی شی.\nکه داسې نه وي نو پر بنديز مو د بحث پيلولو لپاره [[m:Steward requests/Global|په مېټا-ويکي باندې يوه غوښتنه وليکئ]].",
 	"wikimedia-globalblocking-ipblocked-xff": "پر يو يا څو پروکسي پالنگرانو چې ستاسې په غوښتنه کې کارېدلي [[m:Special:MyLanguage/Global blocks|نړېوال بنديز لگېدلی]].'''\n\nدا بنديز د $1 ($2) لخوا لگېدلی.\nد بنديز لگېدلو سبب ''$3'' ورکړل شوی.\n\n* د بنديز پيل: $4\n* د بنديز پای: $5\n\nد بنديز لگېدلي پروکسي پته $6 ده.\nلطفاً په هر ډول غوښتنو او گروېږنو کې مو پورتنی تفصيل ورگډ کړئ.\n\nکه تاسط په دې اند ياست چې دا بنديز په ناسمه توگه پر تاسې لگېدلی، نو په [[m:Special:MyLanguage/No open proxies|ناپرانيستي پروکسي]] کې د نړېوالې تگلارې اړونده نور مالومات او لارښوونې موندلی شی.\nکه داسې نه وي نو پر بنديز مو د بحث پيلولو لپاره [[m:Steward requests/Global|په مېټا-ويکي باندې يوه غوښتنه وليکئ]].",
 	"grant-checkuser": "د کارن ډاټا کتنې لاسرسی",
@@ -110,6 +111,6 @@
 	"interlanguage-link-mul": "نورې ژبې",
 	"interlanguage-link-commons": "ويکيمېډيا کامنز",
 	"eri-rcfilters-tour-help": "نور مالومات",
-	"wikimedia-statslink": "شمار",
+	"wikimedia-statslink": "شمېرنې",
 	"wikimedia-cookiestatement": "د کوکيز ويناليک"
 }
