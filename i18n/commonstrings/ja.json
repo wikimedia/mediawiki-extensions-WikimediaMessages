@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Apple TD",
+			"Chqaz",
 			"Gminky",
 			"Nikki",
 			"Varnent",
@@ -25,7 +26,9 @@
 	"wm-commonstrings-externallinks": "外部リンク",
 	"wm-commonstrings-feedback": "フィードバック",
 	"wm-commonstrings-follow": "フォロー",
+	"wm-commonstrings-leadership": "リーダーシップ",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|詳細: $1}}",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|メインページ: $1}}",
 	"wm-commonstrings-mywork": "私の仕事",
 	"wm-commonstrings-news-events": "ニュースとイベント",
 	"wm-commonstrings-noticeboard": "掲示板",
@@ -47,5 +50,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|ショートカット}}",
 	"wm-commonstrings-staff": "スタッフ",
 	"wm-commonstrings-talktous": "相談してください",
+	"wm-commonstrings-templates": "{{PLURAL:$1|テンプレート}}",
 	"wm-commonstrings-updates": "更新情報"
 }
