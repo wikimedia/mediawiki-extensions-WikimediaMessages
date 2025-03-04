@@ -313,7 +313,7 @@
 	"right-editextendedsemiprotected": "Modificar paginas protegite como \"{{int:protect-level-editextendedsemiprotected}}\"",
 	"protect-level-editextendedsemiprotected": "Permitter solmente autopatruliatores",
 	"restriction-level-editextendedsemiprotected": "restringite al autopatruliatores",
-	"action-banner-protect": "proteger messages traducibile gerite per le extension Translate e includite in bandieras CentralNotice",
+	"action-banner-protect": "proteger messages traducibile gerite per le extension Translate e includite in bandieras de Avisos Central",
 	"wikimedia-centralauth-contribs-locked": "Iste conto es globalmente blocate.\nVide [[m:Special:CentralAuth/$1|le detalios del conto global]] pro plus information.",
 	"action-viewdeletedfile": "vider files e paginas delite in le spatios de nomines {{ns:file}} e {{ns:file_talk}}",
 	"right-viewdeletedfile": "Vider files e paginas delite in le spatios de nomines {{ns:file}} e {{ns:file_talk}}",

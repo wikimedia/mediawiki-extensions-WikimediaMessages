@@ -6,7 +6,8 @@
 			"Amjad Khan",
 			"Baloch Khan",
 			"Varnent",
-			"عثمان خان شاہ"
+			"عثمان خان شاہ",
+			"شاه زمان پټان"
 		]
 	},
 	"wikimediamessages-desc": "د ويکيمېډيا ځانگړي پيغامونه",
@@ -79,7 +80,7 @@
 	"wikibase-sitelinks-wikiquote": "ويکيوراشه",
 	"wikibase-sitelinks-wikisource": "ويکيسرچينه",
 	"wikibase-sitelinks-wikiversity": "ويکيپوهنتون",
-	"wikibase-sitelinks-wikivoyage": "ويکيسفر",
+	"wikibase-sitelinks-wikivoyage": "ويکييون",
 	"wikibase-sitelinks-wiktionary": "ويکيسيند",
 	"wikibase-otherprojects-commons": "ويکيمېډيا کامنز",
 	"wikibase-otherprojects-testwikidata": "ويکيډاټا",
@@ -102,11 +103,11 @@
 	"wikimedia-otherprojects-cloudservices": "د ويکيمېډيا کلاز خدمتونه",
 	"wikimedia-taglines-wikidata": "د پوهنو يو وړيا بنسټ",
 	"wikimedia-taglines-wikivoyage": "يو وړيا يون لارښود",
-	"wikimedia-developers": "پرمختگگران:",
+	"wikimedia-developers": "پراختيا ورکوونکي:",
 	"wikimedia-upload-nolicenses": "دې ويکي کې د دوتنو پورته کول ناچارن شوی. لطفاً  دوتنې مو [[commons:Special:UploadWizard|ويکيمېډيا خونديځ کې پورته کړئ]].\n\nد دې لپاره چې د همدې ځانگړي مخ په کارولو سره دې ويکي کې دوتنې پورته کول چارن شي، نو بايد يو پازوال د منښتليکونو څخه يو يا څو منښتليکونه د [[MediaWiki:Licenses]] په مخ کې ورگډ کړي.\n\nلاندينۍ بڼه وکاروئ: <code>* Template name|Label</code>. د منښتليکونو خوښنو څخه پرته د پورته کولو چارنولو لپاره هر ډول متن وکاروئ.",
 	"interlanguage-link-mul": "نورې ژبې",
 	"interlanguage-link-commons": "ويکيمېډيا کامنز",
-	"wikimedia-statslink": "شمار",
+	"wikimedia-statslink": "شمېرنې",
 	"wikimedia-cookiestatement": "د کوکيز ويناليک",
 	"wikimedia-help-translate-prompt": "په ژباړه کې غواړې مرسته وکړې؟ [$1 هغه پيغامونه چې نشته وې ژباړئ]."
 }

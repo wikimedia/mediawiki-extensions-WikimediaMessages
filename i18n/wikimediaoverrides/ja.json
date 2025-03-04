@@ -31,6 +31,7 @@
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\">&#91;[//guc.toolforge.org/?user=$1 グローバル投稿記録] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} 調査記録] • [{{fullurl:Special:Block/$1}} ローカルブロック]または[//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 グローバルブロック] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 proxy indicator check] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
 	"wikimedia-delete-toobig": "このページには、$1{{PLURAL:$1|版}}を超える編集履歴があります。\nこのようなページの削除は、{{SITENAME}}の偶発的な問題を避けるため、制限されています。\n[[m:Steward requests/Miscellaneous|メタのスチュワードへの依頼/その他]]で[[m:Special:MyLanguage/Stewards|スチュワード]]にこのページの削除を依頼してください。",
 	"wikimedia-discussiontools-replywidget-terms-click": "「$1」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja 利用規約]に同意し、この文章を$2{{PLURAL:$3|下で}}撤回できない形で公開することに同意したと見なされます。",
+	"wikimedia-feedback-termsofuse": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に従ってフィードバックを提供することに同意します。",
 	"wikimedia-flow-terms-of-use-new-topic": "「{{int:flow-newtopic-save}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja 利用規約]に同意し、この文章を$1{{PLURAL:$2|下で}}撤回できない形で公開することに同意したと見なされます。",
 	"wikimedia-flow-terms-of-use-reply": "「{{int:flow-reply-link}}」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja 利用規約]に同意し、この文章を$1{{PLURAL:$2|下で}}撤回できない形で公開することに同意したと見なされます。",
 	"wikimedia-flow-terms-of-use-edit": "変更内容を公開すると、あなたは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja 利用規約]に同意し、この文章を$1{{PLURAL:$2|下で}}撤回できない形で公開することに同意したと見なされます。",
@@ -53,12 +54,15 @@
 	"wikimedia-ipinfo-source-geoip2": "このツールは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]に基づいて使用する必要があります。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP 情報ツールは、MaxMind データベースを使用して、おおよその位置、プロキシ、およびこの IP アドレスを共有しているデバイスの数などの詳細を表示します。有効にする前に、[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 情報ツールのガイドライン] を確認してください。",
 	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]に従い、荒らしやその他ウィキメディア財団またはコミュニティの方針に対する違反行為の阻止または調査のためにのみ、このツールを使用することに同意します。",
+	"wikimedia-similareditors-error-default": "何らかの問題が発生し、調査中です。問題が継続するようであれば、 [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors こちら]にご連絡ください。",
 	"wikimedia-centralauth-admin-log-otherwiki": "このアカウントはロックされています。詳細は [[meta:Special:CentralAuth/$1|メタウィキのグローバルアカウント情報]] をご覧ください。",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "あなたのIPアドレスは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されています。",
 	"wikimedia-globalblocking-blockedtext-on-range": "あなたのIPアドレスは、[[m:Special:MyLanguage/Global blocks|すべてのウィキメディア財団のウィキで投稿ブロックされている]]IPアドレス範囲に入っています。",
 	"wikimedia-globalblocking-blockedtext-on-user": "あなたのアカウントは[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロック]]されています。",
 	"wikimedia-globalblocking-blockedtext-ip-range": "ブロックされている範囲は$1です。",
 	"wikimedia-globalblocking-blockedtext-proxy": "ブロックされたプロキシアドレスは$1でした。",
+	"wikimedia-globalblocking-blockedtext-appeal-user": "ブロックについて議論するには、[[m:Steward requests/Global|メタウィキでブロックの見直しを依頼を投稿]]してください。",
 	"wikimedia-globalblocking-blockedtext-mistake": "もし、この投稿ブロックが錯誤によるものだと考えているのであれば、グローバル方針の[[m:Special:MyLanguage/No open proxies|No open proxies]]（公開プロキシの規制）で詳細情報などが入手できます。あるいは、投稿ブロックに関して議論したい場合は、[[m:Steward requests/Global|メタウィキでブロックの見直しを依頼]]してください。",
-	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "[[m:Special:MyLanguage/Stewards|スチュワード]]用 [[m:Special:MyLanguage/VRT|VRT]] キューにメールを送信する (宛先: <kbd>stewards@wikimedia.org</kbd>) こともできます。"
+	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "[[m:Special:MyLanguage/Stewards|スチュワード]]用 [[m:Special:MyLanguage/VRT|VRT]] キューにメールを送信する (宛先: <kbd>stewards@wikimedia.org</kbd>) こともできます。",
+	"wikimedia-globalblocking-blockedtext-autoblock-intro": "あなたのIPアドレスは、$1によってブロックされた別の利用者が使用していたため、自動的に[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロックされました]]。"
 }

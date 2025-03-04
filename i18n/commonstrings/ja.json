@@ -7,7 +7,8 @@
 			"Waki285",
 			"シェン,アーナリー,ン,アーバァ.",
 			"春春眠眠",
-			"Gminky"
+			"Gminky",
+			"Chqaz"
 		]
 	},
 	"wm-commonstrings-aboutme": "私について",
@@ -25,6 +26,7 @@
 	"wm-commonstrings-externallinks": "外部リンク",
 	"wm-commonstrings-follow": "フォロー",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|詳細: $1}}",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|メインページ: $1}}",
 	"wm-commonstrings-mywork": "私の仕事",
 	"wm-commonstrings-news-events": "ニュースとイベント",
 	"wm-commonstrings-noticeboard": "掲示板",
