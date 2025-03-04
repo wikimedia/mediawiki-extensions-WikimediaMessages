@@ -1,8 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hakka",
-			"唐吉訶德的侍從"
+			"Winston Sung"
 		]
 	},
 	"sitesupport": "Chan-chhu",
@@ -37,5 +36,7 @@
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"wikimedia-developers": "Khôi-fat ngìn-yèn",
+	"interlanguage-link-wikipedia": "Wikipedia",
+	"interlanguage-link-commons": "Wikimedia Commons",
 	"wikimedia-cookiestatement": "Cookie sâng-mìn"
 }

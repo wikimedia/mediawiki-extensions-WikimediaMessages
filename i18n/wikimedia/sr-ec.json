@@ -285,6 +285,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Нисам сигуран",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Да",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Не",
+	"tooltip-gadget-purgetab-text": "Освежи кеш меморију ове странице.",
+	"gadget-purgetab-error": "Освежавање није успело",
 	"gadget-souspages-subpages": "Подстранице",
 	"readinglists-import-app-with-link": "[$1 Преузмите] и инсталирајте најновију верзију Википедијине апликације:",
 	"research-incentive-answer-positive": "Да",
