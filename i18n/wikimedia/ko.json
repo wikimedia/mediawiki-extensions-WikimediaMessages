@@ -326,6 +326,8 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "아니오",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "확실치 않음",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "예",
+	"tooltip-gadget-purgetab-text": "이 문서의 서버 캐시를 새로 고칩니다",
+	"gadget-purgetab-error": "새로 고침 실패",
 	"gadget-souspages-subpages": "하위 문서",
 	"readinglists-import-app-with-link": "위키백과 앱의 최신 버전을 [$1 다운로드]하여 설치:",
 	"research-incentive-answer-positive": "예",
