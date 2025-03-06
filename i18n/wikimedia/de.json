@@ -232,7 +232,6 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF-Vertrauen und Sicherheit}}",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Verwendet vom globalen Missbrauchsfilter 110.",
-	"tag-AWB": "[https://de.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Bearbeitungen, die mit dem [https://de.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] durchgeführt wurden.",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",
