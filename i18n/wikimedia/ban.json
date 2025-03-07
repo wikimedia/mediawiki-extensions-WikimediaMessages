@@ -7,6 +7,7 @@
 			"Luh Gede Krismayanti",
 			"Nintendofan885",
 			"NoiX180",
+			"Samoasambia",
 			"Varnent"
 		]
 	},
@@ -181,7 +182,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Percaya miwah Kaselametan WMF}}",
 	"tag-emoji": "Émoji",
 	"tag-emoji-description": "Kaanggén olih saringan salah-guna global 110.",
-	"tag-AWB": "[https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
+	"tag-AWB": "AutoWikiBrowser",
 	"tag-AWB-description": "Uahan kakardi nganggén [https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:Saking Wikikruna\nb:Saking Wikibuku\nn:Saking Wikiorti\nq:Saking Wikianggit\ns:Saking Wikipustaka\nv:Saking Wikiversitas\nvoy:Saking Wikimalali",
 	"shared-repo-name-shared": "Wikimedia Commons",

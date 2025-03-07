@@ -220,7 +220,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF:n Luottamus ja Turva}}",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Tämä tulee järjestelmänlaajuisesta väärinkäyttösuodattimesta nro 110.",
-	"tag-AWB": "[https://fi.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
+	"tag-AWB": "AutoWikiBrowser",
 	"tag-AWB-description": "Muokkaukset, jotka tehtiin [https://fi.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowserilla]",
 	"search-interwiki-custom": "wikt:Wikisanakirjasta\nb:Wikikirjastosta\nn:Wikiuutisista\nq:Wikisitaateista\ns:Wikiaineistosta\nv:Wikiopistosta\nvoy:Wikimatkoista",
 	"shared-repo-name-shared": "Wikimedia Commons",

@@ -11,6 +11,7 @@
 			"Oop",
 			"Pikne",
 			"Platonides",
+			"Samoasambia",
 			"Varnent",
 			"WikedKentaur"
 		]
@@ -133,7 +134,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Tõlkeadministraatorid",
 	"tag-emoji": "Emodži",
 	"tag-emoji-description": "Kasutusel globaalses väärtarvitusfiltris 110.",
-	"tag-AWB": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AWB]",
+	"tag-AWB": "AWB",
 	"tag-AWB-description": "Muudatus tehtud [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowseriga]",
 	"wikimedia-copyright-footer": "Tekst on kasutatav vastavalt Creative Commonsi litsentsile \"[https://creativecommons.org/licenses/by-sa/4.0/deed.et Autorile viitamine + jagamine samadel tingimustel]\";\nsellele võivad lisanduda täiendavad tingimused.\nTäpsemalt vaata [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Wikimedia kasutamistingimustest].",
 	"wikimedia-commons-copyright-footer": "Failid on kasutatavad vastavalt nende kirjelduslehekülgedel näidatud litsentsidele. Kõik struktuurandmed failide nimeruumis on saadaval Creative Commonsi litsentsi [https://creativecommons.org/publicdomain/zero/1.0/deed.et CC0] all. Kõik struktureerimata tekst on saadaval Creative Commonsi litsentsi \"[https://creativecommons.org/licenses/by-sa/4.0/deed.et Autorile viitamine + jagamine samadel tingimustel]\" all; lisatingimused võivad kohalduda.\nSelle saidi kasutamisel nõustud [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use kasutustingimuste] ja [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy andmekaitsereeglitega].",

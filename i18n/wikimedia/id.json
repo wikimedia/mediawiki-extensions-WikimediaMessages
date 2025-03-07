@@ -26,6 +26,7 @@
 			"Rachmat04",
 			"Raynasution",
 			"Rex",
+			"Samoasambia",
 			"Varnent",
 			"Veracious",
 			"William Surya Permana"
@@ -207,7 +208,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Bantuan dan Perlindungan WMF}}",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Digunakan oleh filter penyalahgunaan global 110.",
-	"tag-AWB": "[https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
+	"tag-AWB": "AutoWikiBrowser",
 	"tag-AWB-description": "Suntingan dibuat dengan [https://id.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:Dari Wikikamus\nb:Dari Wikibooks\nn:Dari Wikiberita\nq:Dari Wikikutip\ns:Dari Wikisumber\nv:Dari Wikiversitas\nvoy:Dari Wikiwisata",
 	"shared-repo-name-shared": "Wikimedia Commons",
