@@ -22,6 +22,6 @@
 	"wikimedia-developers": "Desvelopadores",
 	"wikimedia-globalblocking-ipblocked": "<strong>Tu direksión ''IP'' ha sido blokeada en [[m:Special:MyLanguage/Global blocks|todas las vikis]] de la Fondasión Vikimedya.</strong>\n\nEl blokeo fue realisado por $1 ($2)\nLa rasón del blokeo es la siguiente: $3\n\n*Inisio del blokeo: $4\n*Expirasión del blokeo: $5\n\nTu direksión IP aktual es $6.\nPor favor inkluye todos los detayes anteriores en kualquier consulta ke agas sobre el tema.\n\nSi krees que esta IP se blokeó por error, mira [[m:Special:MyLanguage/No open proxies|''No open proxies'']] en Meta-Viki.\nSi no es el kaso, para diskutir el blokeo [[m:Steward requests/Global|publika una solicitud en Meta-Viki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "<strong>Una o más de los servidores proksy usado(s) por tu solisitud está aktualmente blokeada de [[m:Special:MyLanguage/Global blocks|todas las vikis]] de la Fondasión Vikimedya.</strong>\n\nEl blokeo fue realisado por $1 ($2)\nLa rasón del blokeo es la siguiente: $3\n\n*Inisio del blokeo: $4\n*Expirasión del blokeo: $5\n\nLa direksión del proksy blokeado es: $6.\nPor favor inkluye todos los detayes anteriores en kualquier consulta ke agas sobre el tema.\n\nSi krees que esta IP se blokeó por error, mira [[m:Special:MyLanguage/No open proxies|''No open proxies'']] en Meta-Viki.\nSi no es el kaso, para diskutir el blokeo [[m:Steward requests/Global|publika una solicitud en Meta-Viki]].",
-	"wikimedia-statslink": "Estatístikas",
-	"wikimedia-cookiestatement": "Deklarasión de cookies"
+	"wikimedia-statslink": "Estatistikas",
+	"wikimedia-cookiestatement": "Deklarasyón de cookies"
 }
