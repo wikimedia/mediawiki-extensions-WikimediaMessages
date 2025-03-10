@@ -1,16 +1,22 @@
 {
 	"@metadata": {
 		"authors": [
+			"BOKOBA VEROLY",
 			"BamLifa",
 			"Eruedin",
 			"Moyogo"
 		]
 	},
 	"sitesupport": "Lisungi na misɔlɔ",
+	"group-event-organizer": "Babongisi ya molulu",
+	"group-event-organizer-member": "{{GENDER:$1| mobongisi-molulu}}",
+	"grouppage-event-organizer": "{{ns:project}}:Babongisi ya makambo",
 	"wikibase-sitelinks-wikinews": "Wikisika",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikintína",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Ba développeurs",
-	"wikimedia-statslink": "Mitúya"
+	"wikimedia-statslink": "Mitúya",
+	"tooltip-gadget-purgetab-text": "Purge cache ya serveur ya page oyo",
+	"gadget-purgetab-error": "Kolongola bato elongaki te"
 }
