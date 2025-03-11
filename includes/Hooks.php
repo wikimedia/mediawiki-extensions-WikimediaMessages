@@ -207,6 +207,7 @@ class Hooks implements
 			'skin-minerva-donate-banner-message',
 			'skin-minerva-donate-banner-subtitle',
 			'skin-minerva-donate-banner-gif',
+			'skin-minerva-donate-banner-reduced-motion',
 			'skin-minerva-donate-banner-url'
 		];
 

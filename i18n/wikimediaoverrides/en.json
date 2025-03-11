@@ -77,6 +77,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''This translatable page consists of over $1 {{PLURAL:$1|page|pages}}.''' Due to reliability issues, moving translatable pages that consist of more than $1 {{PLURAL:$1|page|pages}} cannot be done through the user interface. Please '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ file a Phabricator task]''' and fill in the fields of the form to request the [[:m:system administrators|system administrators]] to perform the page move on your behalf.",
 	"wikimedia-skin-minerva-donate-banner-message": "Donate Now",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "If Wikipedia is useful to you, please give today.",
-	"wikimedia-skin-minerva-donate-banner-gif": "https://upload.wikimedia.org/wikipedia/commons/d/db/WYiR_Puzzle_7.gif",
+	"wikimedia-skin-minerva-donate-banner-reduced-motion": "https://en.wikipedia.org/static/images/donate/donate.png",
+	"wikimedia-skin-minerva-donate-banner-gif": "https://en.wikipedia.org/static/images/donate/donate.gif",
 	"wikimedia-skin-minerva-donate-banner-url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign={{SERVERNAME}}&uselang={{USERLANGUAGE}}"
 }
