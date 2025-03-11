@@ -36,7 +36,8 @@
 			"Uncitoyen",
 			"Varnent",
 			"Victor Trevor",
-			"Vito Genovese"
+			"Vito Genovese",
+			"Samoasambia"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -351,6 +352,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Emin değilim",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Bu anonim anket, Wikimedia Vakfı tarafından yapılmaktadır.[https://meta.wikimedia.org/wiki/Community_Safety Daha fazlasını okuyabilir] veya [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement gizlilik bildirimini] kontrol edebilirsiniz.",
 	"gadget-souspages-subpages": "Altsayfalar",
+	"ipinfo-global-contributions-url-label": "Küresel katkılar",
 	"wikimedia-foundation-projects-label": "Wikimedia Vakfı projeleri",
 	"wikimedia-foundation-projects-of-label-nolink": "Wikimedia Vakfı Projeleri",
 	"wikimedia-projects-label": "Wikimedia projeleri",

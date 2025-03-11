@@ -75,7 +75,11 @@
 			"Hasley",
 			"Joanmp17",
 			"LORDZRAWN",
-			"ZebaX2010"
+			"ZebaX2010",
+			"Balunhnoh",
+			"Codename Noreste",
+			"IZapico (WMF)",
+			"Samoasambia"
 		]
 	},
 	"wikimediamessages-desc": "Mensajes específicos de Wikimedia",
@@ -121,6 +125,8 @@
 	"group-botadmin": "Bots con permisos de administrador",
 	"group-botadmin-member": "{{GENDER:$1|robot con permisos administrativos}}",
 	"grouppage-botadmin": "{{ns:project}}:Bots con permisos de administrador",
+	"group-global-temporary-account-viewer": "Visores de IP de cuentas temporales",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|visor|visora}} de IP de cuentas temporales",
 	"group-confirmed": "Confirmados",
 	"group-confirmed-member": "{{GENDER:$1|confirmado|confirmada}}",
 	"grouppage-confirmed": "{{ns:project}}:Confirmados",

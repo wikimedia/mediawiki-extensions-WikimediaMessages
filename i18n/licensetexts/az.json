@@ -13,7 +13,7 @@
 		]
 	},
 	"wm-license-attribution-with-author-text": "Bu faylın müəllif hüququ sahibi $1, hər kəsə '''hər hansı bir məqsəd üçün istifadə etməyə icazə verir, bir şərtlə ki,''' müəllif hüququ sahibinə düzgün istinad edilsin. Yenidən paylama, törəmə iş, kommersiya məqsədli istifadə və bütün digər istifadələrə icazə verilir.",
-	"wm-license-artwork-artist": "Artist",
+	"wm-license-artwork-artist": "Yaradıcı",
 	"wm-license-artwork-title": "Başlıq",
 	"wm-license-artwork-medium": "Orta",
 	"wm-license-artwork-dimensions": "Ölçülər",
@@ -60,7 +60,7 @@
 	"wm-license-information-other-versions": "Digər versiyalar",
 	"wm-license-original-upload-log": "Orijinal yükləmə gündəliyi",
 	"wm-license-own-work": "Öz işi",
-	"wm-license-pd-author-self-text": "Mən, bu əsərin müəllif hüquqlarının sahibi kimi, əsəri '''[[{{int:wm-license-pd-wiki-link}}|ictimai mülkiyyətə]]''' verirəm. Bu icazə bütün dünyada qüvvədədir.",
+	"wm-license-pd-author-self-text": "Mən, bu əsərin müəllif hüquqlarının sahibi kimi, əsəri '''[[{{int:wm-license-pd-wiki-link}}|ictimai mülkiyyətə]]''' buraxıram. Bu icazə bütün dünyada qüvvədədir.",
 	"wm-license-pd-author-self-any-purpose": "Mən hər kəsə bu əsərdən '''hər hansı bir məqsəd üçün''', heç bir şərt olmadan, qanunla belə şərtlər tələb olunmadığı təqdirdə istifadə etmək hüququnu verirəm.",
 	"wm-license-pd-usgov-military-navy-wiki-link": "w:az:ABŞ hərbi donanması",
 	"wm-license-self-one-license": "Mən, bu işin müəllif hüquqları sahibi, onu aşağıdakı lisenziyaya əsasən dərc edirəm:",
