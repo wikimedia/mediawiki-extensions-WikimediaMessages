@@ -8,13 +8,19 @@
 		]
 	},
 	"contactpage-license-request-username": "ਵਰਤੋਂਕਾਰ ਨਾਮ",
+	"contactpage-license-request-title": "ਸਿਰਲੇਖ (ਜੇ ਲਾਗੂ ਹੋਵੇ)",
+	"contactpage-license-request-organization": "ਸੰਗਠਨ (ਜੇ ਲਾਗੂ ਹੋਵੇ)",
+	"contactpage-license-request-organization-type": "ਸੰਗਠਨ ਦੀ ਕਿਸਮ (ਜੇ ਲਾਗੂ ਹੋਵੇ)",
 	"contactpage-license-request-use-online": "ਆਨਲਾਈਨ (ਵੈੱਬਸਾਈਟ, ਈਮੇਲ)",
+	"contactpage-license-request-use-print": "ਛਾਪੋ",
 	"contactpage-license-request-use-other": "ਹੋਰ",
+	"contactpage-wikimedia-trademark-incubator": "ਵਿਕੀਮੀਡੀਆ ਆਲਣਾਂ",
 	"contactpage-wikimedia-trademark-mediawiki": "ਮੀਡੀਆਵਿਕੀ",
 	"contactpage-wikimedia-trademark-wikibooks": "ਵਿਕੀਕਿਤਾਬਾਂ",
 	"contactpage-wikimedia-trademark-wikimedia": "ਵਿਕੀਮੀਡੀਆ ਭਾਈਚਾਰਾ",
 	"contactpage-wikimedia-trademark-wikinews": "ਵਿਕੀਖ਼ਬਰਾਂ",
 	"contactpage-wikimedia-trademark-wikispecies": "ਵਿਕੀਜਾਤੀਆਂ",
+	"contactpage-wikimedia-trademark-wikiversity": "ਵਿਕੀਵਰਸਿਟੀ",
 	"contactpage-affcom-user-group-logo-community": "ਵਿਕੀਮੀਡੀਆ ਭਾਈਚਾਰਾ ਮਾਰਕਾ",
 	"contactpage-affcom-chapter-thorg-coc-label": "ਆਚਾਰ ਜ਼ਾਬਤਾ"
 }
