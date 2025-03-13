@@ -24,7 +24,8 @@
 			"Nemoralis",
 			"Matma Rex",
 			"Əkrəm Cəfər",
-			"Əkrəm"
+			"Əkrəm",
+			"Samoasambia"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedia xüsusi mesajları",
@@ -222,7 +223,7 @@
 	"wikifunctions-site-footer-copyright": "Əsas ad fəzasındakı bütün funksiya tərifləri, etiketlər və sənədlər <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.az\" title=\"Definition of the Creative Commons CC0 License\">Creative Commons CC0 Lisenziyası</a> ilə yayımlanır. Əsas ad fəzasındakı bütün kod fraqmentləri və tətbiqləri <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">Apache 2.0 Lisenziyası</a> ilə yayımlanır. Digər ad fəzalarındakı mətn <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.az\" title=\"Definition of the Creative Commons Attribution/Share-Alike License\">Creative Commons Attribution-ShareAlike Lisenziyası</a> altında yayımlanır; əlavə şərtlər tətbiq oluna bilər. Bu saytdan istifadə etməklə siz <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">İstifadə Şərtləri</a> və <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy\">Məxfilik Siyasəti</a> ilə razılaşırsınız.",
 	"wikifunctions-edit-copyrightwarning-function": "\"Yayımla\" düyməsinə klikləməklə, siz <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">İstifadə Şərtləri</a> ilə razılaşırsınız və töhfənizin <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.az\" title=\"Creative Commons CC0 Lisenziyasının Tərifi\">Creative Commons CC0 Lisenziyasına</a> uyğun olaraq geri qaytarılmayacaq şəkildə yayımlanmasına razılaşırsınız.",
 	"wikifunctions-edit-copyrightwarning-implementation": "\"Yayımla\" düyməsinə klikləməklə, siz <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use\">İstifadə Şərtləri</a> ilə razılaşırsınız və töhfənizin <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definition of the Apache 2.0 License\">Apache 2.0 Lisenziyasına</a> uyğun olaraq geri qaytarılmayacaq şəkildə yayımlanmasına razılaşırsınız.",
-	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Xoş gəldiniz}}, $1!",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Xoş gəlmisiniz}}, $1!",
 	"wikibase-repo-name": "Vikidata",
 	"wikibase-page-schema-author-name": "Vikimedia layihələrinə töhfə verənlər",
 	"wikibase-statementsection-constraints": "Məhdudiyyətlər",
