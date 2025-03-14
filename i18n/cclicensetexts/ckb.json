@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aram",
 			"Asoxor",
 			"Lost Whispers",
 			"Muhammed taha",
@@ -19,5 +20,5 @@
 	"wm-license-cc-conditions-attribution-header": "دانەپاڵ",
 	"wm-license-cc-conditions-attribution-text": "پێویستە باوەڕی گونجاو بدەیت، بەستەرێک بۆ مۆڵەتەکە دابین بکەیت و ئاماژە بەوە بکەیت کە ئایا گۆڕانکاری کراوە یان نا. دەتوانیت بە هەر شێوەیەکی گونجاو ئەوە بکەیت، بەڵام بە شێوەیەک نا کە وا دەربکەوێت کە مۆڵەتدەر پشتگیری تۆ یان بەکارهێنانەکەت بکات.",
 	"wm-license-cc-conditions-share_alike-header": "بڵاوکردنەوەی گونجاو",
-	"wm-license-cc-conditions-share_alike-text": "ئەگەر لەسەر بنەمای ئەم کارە تێکەڵ، گۆڕان، یان ساز بکەی، پێویستە بەشدارییەکانت بە [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses هەمان مۆڵەت یان هاوشێوەی مۆڵەتی ئەسڵی] دابەش بکەی."
+	"wm-license-cc-conditions-share_alike-text": "ئەگەر لەسەر بنەمای ئەم کارە تێکەڵ، گۆڕان، یان ساز بکەی، پێویستە بەشدارییەکانت بە [[ccorg:share-your-work/licensing-considerations/compatible-licenses|هەمان مۆڵەت یان هاوشێوەی مۆڵەتی ئەسڵی]] دابەش بکەی."
 }
