@@ -7,5 +7,6 @@
 	},
 	"wm-license-information-description": "Descripcion",
 	"wm-license-information-source": "Codigo",
-	"wm-license-information-date": "Fecha"
+	"wm-license-information-date": "Fecha",
+	"wm-license-information-author": "Autor"
 }

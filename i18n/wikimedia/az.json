@@ -213,7 +213,7 @@
 	"wikimedia-copyrightwarning": "Dəyişiklikləri yayımlamaqla siz [https://foundation.wikimedia.org/wiki/Terms_of_Use istifadə şərtləri] ilə razılaşdığınızı və redaktələrinizin [https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC-BY-SA 3.0] və [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] lisenziyaları əsasında yayımlanmasına razı olduğunuzu bildirmiş olursunuz.\nBununla siz qəbul edirsiniz ki, dəyişiklik etdiyiniz səhifədən istifadə edilən zaman bu səhifəyə hiperkeçid verilməsi və ya onun URL-ünvanının qeyd edilməsi \"Creative Commons\" lisenziyasının şərtinin ödənilməsi üçün kifayətdir.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 lisenziyası] və [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] və [https://www.gnu.org/licenses/fdl.html GFDL]",
-	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Xoş gəldiniz}}, $1!",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Xoş gəlmisiniz}}, $1!",
 	"wikibase-repo-name": "Vikidata",
 	"wikibase-page-schema-author-name": "Vikimedia layihələrinə töhfə verənlər",
 	"wikibase-statementsection-constraints": "Məhdudiyyətlər",
