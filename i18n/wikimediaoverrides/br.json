@@ -20,6 +20,7 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "En ur glikañ war \"{{int:flow-topic-action-unlock-topic}}\", e savit a-du gant hor [https://foundation.wikimedia.org/wiki/Terms_of_Use Reolennoù implijout] hag ec'h ansantit da embann ho testenn dindan an aotreoù [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 License] ha [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] da viken.",
 	"wikimedia-sitematrix": "Roll wikioù Wikimedia",
 	"wikimedia-sitematrix-others": "Raktresoù all eus Wikimedia",
-	"wikimedia-sitematrix-summary": "Diskouez a ra ar bajenn dibar-mañ holl wikioù Diazezadur Wikimedia.",
-	"wikimedia-ipinfo-preference-use-agreement": "Asantiñ a ran ober gant ar benveg-mañ hervez [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines reolennoù ar benveg Titouroù IP], nemet evit enklask pe harzañ ar vandalerezh, drougimplij, pe gwallerezhioù all reolennoù an Diazez Wikimedia pe re ar gumuniezh."
+	"wikimedia-sitematrix-summary": "Diskouez a ra ar bajenn dibar-mañ an holl wikioù Wikimedia.",
+	"wikimedia-ipinfo-help-text": "En ur ober gant ar benveg-mañ e asantit da [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines reolennoù ar benveg Titouroù IP]. Dont a ra an titouroù diskwelet eus MaxMind ha [https://docs.spur.us/data-types Spur]. Gallout a rafe bezañ amresis.",
+	"wikimedia-ipinfo-preference-use-agreement": "Asantiñ a ran ober gant ar benveg-mañ hervez [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines reolennoù ar benveg Titouroù IP], nemet evit enklask pe harzañ ar vandalerezh, drougimplij, pe gwallerezhioù all reolennoù an Diazez Wikimedia pe re ar gumuniezh."
 }
