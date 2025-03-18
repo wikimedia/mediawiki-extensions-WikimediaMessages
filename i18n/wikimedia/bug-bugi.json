@@ -1,6 +1,11 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Rdwnnr"
+		]
 	},
-	"sitesupport": "ᨆᨔᨘᨅ"
+	"sitesupport": "ᨆᨔᨘᨅ",
+	"wikimedia-developers": "ᨄᨅᨂᨘ",
+	"wikimedia-statslink": "ᨔᨈᨔᨛᨈᨗᨀ",
+	"wikimedia-cookiestatement": "ᨄᨊᨛᨔᨂᨛ ᨀᨘᨀᨗ"
 }
