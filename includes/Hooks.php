@@ -133,6 +133,7 @@ class Hooks implements
 			'checkuser-toollinks',
 			// T380562
 			'checkuser-global-contributions-anon-tools',
+			'checkuser-global-contributions-ip-range-tools',
 			'checkuser-global-contributions-registered-user-tools',
 			// T327281
 			'checkuser-tempaccount-enable-preference-description',
