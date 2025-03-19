@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Seipinne",
-			"Trondtr"
+			"Trondtr",
+			"Yupik"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:smn:Creative Commons",
@@ -17,5 +18,5 @@
 	"wm-license-cc-conditions-attribution-header": "nommâdem",
 	"wm-license-cc-conditions-attribution-text": "Tun koolgah adeliđ hiäivulávt nommâalmottâs, liiŋkâ lisensân já almottiđ, láá-uv teekstân tohhum nubástusah. Tun uážuh porgâđ taam puoh tohálâš vuovijgijn, mut ij toin naalijn, et oro et lisensadeleijee lii tuárjumin tuu pargo teikâ suu pargo kevttim.",
 	"wm-license-cc-conditions-share_alike-header": "jyeve siämmáánáál",
-	"wm-license-cc-conditions-share_alike-text": "Jis mutáh teikkâ vuáđudah taan paargon, puávtáh jyehiđ puátusin šoddâm pargo tuše tain teikkâ taan sullâsâš lisenssáin."
+	"wm-license-cc-conditions-share_alike-text": "Jis mutáh teikkâ vuáđudah taan paargon, puávtáh jyehiđ puátusin šoddâm pargo tuše [[ccorg:share-your-work/licensing-considerations/compatible-licenses|tain teikkâ taan sullâsâš lisenssáin]]."
 }
