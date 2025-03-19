@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kimberli Mäkäräinen (WMNO)"
+			"Kimberli Mäkäräinen (WMNO)",
+			"Yupik"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(veahket mu válljet)]]",
 	"wikimedia-sitematrix-others": "Eará Wikimedia-prošeavttat",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Hehttejuvvon IP-čujuhusráidu lea $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Hehttejuvvon proxyčujuhus lei $1."
