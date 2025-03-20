@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Caden99",
+			"Hide on Rosé",
 			"KhangND",
 			"Minh Nguyen",
 			"Nemo bis",
@@ -46,5 +47,6 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]",
 	"wikimedia-ipinfo-preference-use-agreement": "Tôi đồng ý tuân thủ [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Hướng dẫn về công cụ Thông tin IP] và chỉ sử dụng công cụ này để điều tra và ngăn chặn phá hoại hay các hành vi khác vi phạm quy định của cộng đồng hoặc Quỹ Wikimedia.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Địa chỉ IP của bạn đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].",
+	"wikimedia-globalblocking-blockedtext-appeal-user": "Để thảo luận về lệnh cấm xin hãy [[m:Steward requests/Global|tạo một yêu cầu trên Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Nếu bạn bị cấm do sự nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn tại quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu kiểm tra lại tại Meta-Wiki]]."
 }
