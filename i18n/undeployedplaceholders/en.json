@@ -8,5 +8,10 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "User account merge",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "User account deletion",
 	"wikimedia-usermerge-logpage": "User merge log",
-	"wikimedia-usermerge-logpagetext": "This is a log of user merge actions."
+	"wikimedia-usermerge-logpagetext": "This is a log of user merge actions.",
+	"wikimedia-graph-tracking-category": "Pages with graphs",
+	"wikimedia-graph-tracking-category-desc": "The page includes a <code>&lt;graph&gt;</code> tag.",
+	"wikimedia-graph-broken-category": "Pages with broken graphs",
+	"wikimedia-graph-broken-category-desc": "The page includes a <code>&lt;graph&gt;</code> tag with invalid usage.",
+	"wikimedia-graph-disabled": "-"
 }

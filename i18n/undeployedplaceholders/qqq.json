@@ -10,5 +10,10 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "{{identical|log-action-filter-usermerge-mergeuser}}",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "{{identical|log-action-filter-usermerge-deleteuser}}",
 	"wikimedia-usermerge-logpage": "{{identical|usermerge-logpage}}",
-	"wikimedia-usermerge-logpagetext": "{{identical|usermerge-logpagetext}}"
+	"wikimedia-usermerge-logpagetext": "{{identical|usermerge-logpagetext}}",
+	"wikimedia-graph-tracking-category": "{{tracking category name}}\nName of the tracking category for pages with graphs, an old technology that is being phased out.",
+	"wikimedia-graph-tracking-category-desc": "Description on [[Special:TrackingCategories]] for the {{msg-mw|wikimedia-graph-tracking-category}} tracking category.",
+	"wikimedia-graph-broken-category": "{{tracking category name}}\nName of the tracking category for pages with broken graphs. This is all pages with graphs on them, as the technology that is being phased out.",
+	"wikimedia-graph-broken-category-desc": "Description on [[Special:TrackingCategories]] for the {{msg-mw|wikimedia-graph-broken-category}} tracking category.",
+	"wikimedia-graph-disabled": "{{Optional}}\nThis is a message that's shown on pages that have graphs on them, indicate that the graphs technology is disabled and being phased out."
 }
