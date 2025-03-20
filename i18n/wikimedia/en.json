@@ -385,6 +385,8 @@
 	"wikimedia-cookiestatement": "Cookie statement",
 	"ext-quicksurveys-performance-internal-survey-question": "Did this page load fast enough?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "For more information, see this survey's [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement privacy statement].",
+	"ext-quicksurveys-patrollertools-external-survey-question": "Are you interested in taking a short survey to improve tools used for reviewing or reverting edits on your Wiki?",
+	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Privacy Statement]",
 	"wikimedia-switchover-read-only": "You can't edit now. This is because of maintenance. Copy and save your text and try again in a few minutes.",
 	"passwordpolicies-policy-blockattacker": "Password policy for mitigation of known attacks where disclosure of details would impede the mitigation",
 	"technical-maintenance-soon": "Technical maintenance will be performed soon:",
