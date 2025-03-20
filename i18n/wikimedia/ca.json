@@ -205,6 +205,7 @@
 	"interlanguage-link-wikipedia": "Viquipèdia",
 	"interlanguage-link-sitename-wikipedia": "Viquipèdia, l’enciclopèdia lliure",
 	"restriction-level-superprotect": "superprotegeix",
+	"protect-level-templateeditor": "Permet només als editors de plantilles i administradors",
 	"action-extendedconfirmed": "editar pàgines restringides",
 	"right-extendedconfirmed": "Modificar pàgines restringides",
 	"action-editeditorprotected": "modificar pàgines protegides amb \"{{int:protect-level-editeditorprotected}}\"",
