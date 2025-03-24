@@ -247,7 +247,7 @@
 	"group-wmf-supportsafety-member": "{{GENDER:$1|الثقة والسلامة في مؤسسة ويكيميديا}}",
 	"tag-emoji": "إيموجي",
 	"tag-emoji-description": "مستخدم من قبل مرشح الإساءة العالمي 110.",
-	"tag-AWB": "[https://ar.wikipedia.org/wiki/ويكيبيديا:أوتوويكي_براوزر أوتوويكي براوزر]",
+	"tag-AWB": "أوتوويكي براوزر",
 	"tag-AWB-description": "تعديلات أُجريت عبر [https://ar.wikipedia.org/wiki/ويكيبيديا:أوتوويكي_براوزر أوتوويكي براوزر]",
 	"search-interwiki-custom": "wikt:من ويكاموس\nb:من ويكي الكتب\nn:من ويكي الأخبار\nq:من ويكي الاقتباس\ns:من ويكي مصدر\nv:من ويكي الجامعة\nvoy:من ويكي الرحلات",
 	"shared-repo-name-shared": "ويكيميديا كومنز",

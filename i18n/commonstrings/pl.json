@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
+			"Nux",
 			"Tar Lócesilion",
 			"Varnent"
 		]
@@ -31,6 +32,7 @@
 	"wm-commonstrings-participate": "Uczestnictwo",
 	"wm-commonstrings-please-remember": "Pamiętaj o: $1",
 	"wm-commonstrings-projects-collaborations": "Projekty i współpraca",
+	"wm-commonstrings-purpose": "Cele",
 	"wm-commonstrings-questions": "Masz pytania?",
 	"wm-commonstrings-register-account": "Załóż konto",
 	"wm-commonstrings-reports": "Raporty",
