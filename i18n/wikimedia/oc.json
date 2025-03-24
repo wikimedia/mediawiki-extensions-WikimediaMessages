@@ -88,6 +88,7 @@
 	"group-steward-member": "{{GENDER:$1|steward}}",
 	"group-sysadmin": "Administrators del sistèma",
 	"group-sysadmin-member": "{{GENDER:$1|administrator|administratritz}} del sistèma",
+	"search-interwiki-custom": "wikt:De Wikiccionari\nb:De Wikilibres\nn:De Wikinews\nq:De Wikiquote\ns:De Wikisource\nv:De Wikiversitat \nvoy:De Wikivoyage",
 	"wikimedia-copyright": "Los tèxtes son disponibles jos <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">licence Creative Commons atribucion-pertatge dins las meteissas condicions</a> ; d’autras condicions se pòdon aplicar. Vejatz las <a href=\"https://foundation.wikimedia.org/wiki/Conditions_d'utilisation\">condicions d’utilizacion</a> per mai de detalhs.",
 	"wikimedia-copyrightwarning": "En enregistrant las modificacions, acceptatz las [https://foundation.wikimedia.org/wiki/Conditions_d'utilisation condicions d’utilizacion] e de plaçar irrevocablament vòstra contribucion jos las licéncias  [https://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Atribucion – partiment a l’identic 3.0] e [https://www.gnu.org/copyleft/fdl.html GFDL].\nAcceptatz qu’un iperligam o una URL siá una atribucion de paternitat sufisenta jos la licéncia Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benvengut|Benvenguda}}, $1 !",

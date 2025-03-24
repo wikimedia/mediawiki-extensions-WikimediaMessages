@@ -4,5 +4,9 @@
 			"Aristorkle"
 		]
 	},
-	"sitesupport": "Dona"
+	"sitesupport": "Dona",
+	"wikibase-sitelinks-wikinews": "Wikinoticias",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikiviaje"
 }

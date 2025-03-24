@@ -303,7 +303,7 @@
 	"wikimedia-switchover-read-only": "İndi redaktə edə bilməzsiniz. Bunun səbəbi texniki baxış keçirilməsidir. Mətni kopyalayıb yadda saxlayın və bir neçə dəqiqədən sonra yenidən cəhd edin.",
 	"passwordpolicies-policy-blockattacker": "Təfərrüatların açıqlanması təsirin azaldılmasına mane olacağı məlum hücumların azaldılması üçün parol siyasəti",
 	"technical-maintenance-soon": "Tezliklə texniki baxış keçiriləcək:",
-	"technical-maintenance-edit": "Bu müddət ərzində heç bir redaktəni yayımlaya bilməyəcəksiniz.",
+	"technical-maintenance-edit": "Bu müddət ərzində redaktə yayımlamaq mümkün olmaya bilər.",
 	"group-oathauth-tester": "İki faktorlu autentifikasiya testçiləri",
 	"group-oathauth-tester-member": "{{GENDER:$1|iki faktorlu autentifikasiya testçiləri}}",
 	"querypage-updates-half-monthly": "Bu səhifə ayda iki dəfə yenilənir.",
