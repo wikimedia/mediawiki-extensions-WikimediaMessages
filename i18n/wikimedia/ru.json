@@ -69,7 +69,8 @@
 			"Pavel200071",
 			"Le Loi",
 			"Mike like0708",
-			"Samoasambia"
+			"Samoasambia",
+			"Mitte27"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -362,7 +363,10 @@
 	"wikimedia-cookiestatement": "Заявление о куки",
 	"ext-quicksurveys-performance-internal-survey-question": "Достаточно ли быстро загрузилась эта страница?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Чтобы узнать больше, см. [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement политику конфиденциальности] данного опроса.",
+	"wikimedia-switchover-read-only": "Вы не можете редактировать сейчас. Это связано с техническим обслуживанием сайта. При необходимости скопируйте свой текст, а затем попробуйте снова сохранить его через несколько минут.",
 	"passwordpolicies-policy-blockattacker": "Правило о паролях для смягчения известных нападений, где раскрытие данных помешало бы такому смягчению",
+	"technical-maintenance-soon": "В ближайшее время будет проводится техническое обслуживание:",
+	"technical-maintenance-edit": "В течение этого времени вы не сможете сохранить какие-либо правки.",
 	"group-oathauth-tester": "Тестирующие двухфакторную авторизацию",
 	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",
@@ -389,7 +393,11 @@
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
 	"gadget-souspages-subpages": "Подстраницы",
 	"readinglists-import-app-with-link": "[Загрузка $1 ] и установите последнюю версию приложения Wikipedia:",
+	"research-incentive-answer-positive": "Да",
+	"research-incentive-answer-negative": "Нет",
+	"research-incentive-confirm-msg": "Спасибо!",
 	"ipinfo-global-contributions-url-label": "Глобальный вклад",
+	"wikimedia-foundation-projects-label": "Проекты Фонда Викимедиа",
 	"wikimedia-foundation-projects-of-label-nolink": "Проекты Фонда Викимедиа",
 	"wikimedia-projects-label": "Проекты Викимедиа",
 	"wikimedia-movement-affiliates-shortlabel": "Партнёрские организации",
