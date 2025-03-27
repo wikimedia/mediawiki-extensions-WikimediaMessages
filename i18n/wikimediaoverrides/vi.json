@@ -9,7 +9,8 @@
 			"Nguyên Lê",
 			"Nhatminh01",
 			"Trần Nguyễn Minh Huy",
-			"Vinhtantran"
+			"Vinhtantran",
+			"Hide on Rosé"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Những người truy cập vào wiki này từ địa chỉ IP của bạn đã mở {{PLURAL:$1|1 tài khoản}} chỉ trong một ngày, và cũng là số lượng tối đa được phép trong khoảng thời gian đó.\nDo đó, những người truy cập từ địa chỉ IP này sẽ không thể mở thêm tài khoản vào thời điểm này.\n\nNếu bạn đang tham dự một sự kiện với chủ đề đóng góp vào các dự án Wikimedia, vui lòng xem [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Yêu cầu tạm dỡ bỏ hạn mức IP]] (tiếng Anh) để giúp giải quyết vấn đề này.",

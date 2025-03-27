@@ -6,7 +6,8 @@
 			"Fulup",
 			"Gwendal",
 			"Kouign-amann",
-			"Y-M D"
+			"Y-M D",
+			"Huñvreüs"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Reiñ a ra d'an holl, piaouer gwirioù ar restr-mañ, $1, an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
@@ -78,7 +79,7 @@
 	"wm-license-lgpl-text": "Ur [[{{int:wm-license-free-software-wiki-link}}|meziant frank]] eo al levraoueg-mañ; aotreet oc'h da skignañ ha/pe kemmañ anezhi dindan termenoù ar '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' hervez embannadur ar [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; pe diouzh stumm 2.1 an aotre-implijout, pe (evel ma karot) diouzh stummoù nevesoc'h. Skignet eo al levraoueg-mañ gant ar spi e vo talvoudus, met hep tamm '''gwarant ebet'''; hep zoken ar gwarant da '''genwerzhañ''' nag an hini '''da zereout d'un ezhomm bennak'''. Gwelet [{{int:wm-license-gpl-2.1-full-link}} stumm 2.1] ha [{{int:wm-license-gpl-3-full-link}} stumm 3 eus ar GNU Lesser General Public License] evit gouzout hiroc'h.",
 	"wm-license-lgpl-wiki-link": "w:br:Aotre-implijout Foran Hollek bevennet GNU",
 	"wm-license-licensing-update-text": "Ouzhpennet eo bet an dikedenn aotre-implijout-mañ d'ar restr-mañ evel darn [[{{int:wm-license-licensing-update-wiki-link}}|eus hizivadur aotreoù-implijout]] ar GFDL.",
-	"wm-license-original-upload-log": "Marilh orin ar pellgargadurioù",
+	"wm-license-original-upload-log": "Marilh ezkargañ orin",
 	"wm-license-own-work": "Labour an-unan",
 	"wm-license-pd-author-self-text": "Me, perc'henn war gwirioù an oberenn-mañ, a laka anezhi en '''[[{{int:wm-license-pd-wiki-link}}|domani foran]]'''. Talvezout a ra kement-mañ evit ar bed a-bezh.",
 	"wm-license-pd-author-with-author-text": "Lakaet eo bet an oberenn-mañ en '''[[{{int:wm-license-pd-wiki-link}}|domani foran]]''' gant e oberour, '''$1'''. Talvezout a ra kement-mañ evit ar bed a-bezh.",
