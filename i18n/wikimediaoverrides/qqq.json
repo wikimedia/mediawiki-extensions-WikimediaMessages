@@ -14,6 +14,7 @@
 			"Woytecr"
 		]
 	},
+	"wikimedia-vector-night-mode-issue-reporting-notice-url": "See {{msg-mw|vector-night-mode-issue-reporting-notice-url}}.",
 	"wikimedia-acct_creation_throttle_hit": "Error message at [[Special:CreateAccount]].\n\n\"in the last day\" precisely means: during the lasts 86400 seconds (24 hours) ending right now.\n\nParameters:\n* $1 - number of accounts",
 	"wikimedia-createacct-helpusername": "Message in new create account form providing guidance for username.",
 	"wikimedia-prefs-user-downloaddata-help-message": "This message shows where to download the user's data from other wikis.\n* $1 - The username with spaces replaced by underscores, for including in links",

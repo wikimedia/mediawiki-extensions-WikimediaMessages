@@ -189,6 +189,8 @@ class Hooks implements
 			'createacct-imgcaptcha-help',
 			// T139797
 			'delete-toobig',
+			// T385811
+			'vector-night-mode-issue-reporting-notice-url',
 			// T390662
 			'emailauth-login-help',
 			'feedback-termsofuse',
