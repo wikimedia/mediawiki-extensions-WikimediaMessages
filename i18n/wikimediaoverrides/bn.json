@@ -46,5 +46,7 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "আপনার অনুরোধের দ্বারা ব্যবহৃত এক বা একাধিক প্রক্সি সার্ভারকে [[m:Special:MyLanguage/Global blocks|বৈশ্বিকভাবে বাধা প্রদান করা হয়েছে]]।",
 	"wikimedia-globalblocking-blockedtext-ip-range": "অবরুদ্ধ পরিসীমাটি হচ্ছে $1।",
 	"wikimedia-globalblocking-blockedtext-proxy": "বাধা দেওয়া প্রক্সির ঠিকানা হলো $1।",
-	"wikimedia-globalblocking-blockedtext-mistake": "আপনি যদি মনে করেন যে আপনাকে ভুলবশত বাধা প্রদান করা হয়েছে, তবে আপনি [[m:Special:MyLanguage/Stewards/Wizard|স্টুয়ার্ডদের বাধাদান উইজার্ডে]] অতিরিক্ত তথ্য এবং নির্দেশাবলী খুঁজে পেতে পারেন।"
+	"wikimedia-globalblocking-blockedtext-mistake": "আপনি যদি মনে করেন যে আপনাকে ভুলবশত বাধা প্রদান করা হয়েছে, তবে আপনি [[m:Special:MyLanguage/Stewards/Wizard|স্টুয়ার্ডদের বাধাদান উইজার্ডে]] অতিরিক্ত তথ্য এবং নির্দেশাবলী খুঁজে পেতে পারেন।",
+	"wikimedia-skin-minerva-donate-banner-message": "এখনই দান করুন",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "উইকিপিডিয়া যদি কোনোভাবে আপনার উপকারে আসে, তবে দান করতে বিবেচনা করুন।"
 }

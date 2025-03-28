@@ -121,6 +121,8 @@
 	"group-eliminator": "削除者",
 	"group-eliminator-member": "削除者",
 	"grouppage-eliminator": "{{ns:project}}:削除者",
+	"group-event-organizer": "イベント主催者",
+	"grouppage-event-organizer": "{{ns:project}}:イベント主催者",
 	"group-eventcoordinator": "イベント調整役",
 	"group-eventcoordinator-member": "{{GENDER:$1|イベント調整役}}",
 	"grouppage-eventcoordinator": "{{ns:project}}:イベント調整役",
