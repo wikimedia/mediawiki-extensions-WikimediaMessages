@@ -186,6 +186,8 @@
 	"group-translationadmin": "অনুবাদ প্রশাসক",
 	"group-translationadmin-member": "{{GENDER:$1|অনুবাদ প্রশাসক}}",
 	"grouppage-translationadmin": "{{ns:project}}:অনুবাদ প্রশাসক",
+	"group-u4c-member": "ইউ৪সি সদস্য",
+	"group-u4c-member-member": "{{GENDER:$1|ইউ৪সি সদস্য}}",
 	"group-vrt-permissions": "ভিআরটি এজেন্ট (অনুমতি)",
 	"group-vrt-permissions-member": "{{GENDER:$1|ভিআরটি এজেন্ট (অনুমতি)}}",
 	"group-wmf-officeit": "WMF কার্যালয় IT",
