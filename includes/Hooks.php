@@ -150,6 +150,8 @@ class Hooks implements
 			'createacct-imgcaptcha-help',
 			// T139797
 			'delete-toobig',
+			// T390662
+			'emailauth-login-help',
 			'feedback-termsofuse',
 			'globalblocking-blockedtext-ip',
 			'globalblocking-blockedtext-range',
