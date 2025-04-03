@@ -4,6 +4,7 @@
 			"MysticVoyager"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "taanna paippaaq laisansiqaqtuq ataani [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] laisansiup ataani.",
 	"wm-license-cc-free": "isumaqsuqputit:",
 	"wm-license-cc-free-to-share-header": "tuniuqqainiq",
 	"wm-license-cc-free-to-share-text": "ajjiliurilutit, tuniuqqailutit ammalu tuniuqqailutit piliriangusimajunik",
@@ -12,5 +13,6 @@
 	"wm-license-cc-conditions": "takuksautittijut atuqsimaninginnik:",
 	"wm-license-cc-conditions-attribution-header": "kajusitittiniq",
 	"wm-license-cc-conditions-attribution-text": "tunisijariaqaqputit naammaktumik nalunaiqsijjutimik, tunisilutit laisansimut turaarutimik, ammalu nalunaiqsilutit asijjiqtaulaurmangaata. taimaigunnaqtutit qanutuinnaq naammaktukkut, kisiani qanutuinnaq tukiqanngilluni laisansitaaqtittiji pasijaksauninganik ilingnut uvvaluunniit aturnirijarnut.",
-	"wm-license-cc-conditions-share_alike-header": "ajjigiimik katujjiniq"
+	"wm-license-cc-conditions-share_alike-header": "ajjigiimik katujjiniq",
+	"wm-license-cc-conditions-share_alike-text": "sanakkanniruvit, aaqqigiaqsiguvit, uvvaluunniit sanaguvit sanaugarnik, tuniuqqaijariaqaqputit tunirrutigisimajarnik ataani [[ccorg:share-your-work/licensing-considerations/compatible-licenses|taimaitillugu uvvaluunniit naammaktukkut laisansikkut]] taimanna titiraqtaugianngaqsimatillugu"
 }
