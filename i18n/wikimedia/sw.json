@@ -13,7 +13,8 @@
 			"Wangombe",
 			"Yasen igra",
 			"לערי ריינהארט",
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Joeamj"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalumu za Wikimedia",
@@ -55,11 +56,11 @@
 	"wikibase-sitelinks-wikiquote": "Wikidondoa",
 	"wikibase-sitelinks-wikisource": "Wikichanzo",
 	"wikibase-sitelinks-wikivoyage": "Wikisafari",
-	"wikimedia-developers": "Waunzi programu",
+	"wikimedia-developers": "Watengenezaji",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nUtaratibu ulifanywa na $1 ($2).\nSababu uliyopewa ni ''$3''.\n\n* Mwanzo wa kizuizi: $4\n* Muda wa mwisho wa kizuizi: $5\n\nAnwani yako ya sasa ya IP ni $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nKizuizi kilitengenezwa na $1 ( $2 ).\nSababu iliyotolewa ni '' $3 ''.\n\n* Mwanzo wa kizuizi: $4\n* Muda wa mwisho wa kizuizi: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-statslink": "takwimu",
-	"wikimedia-cookiestatement": "Maelezo ya kuki",
+	"wikimedia-cookiestatement": "Taarifa ya kuki",
 	"research-incentive-message": "Je, ungependa kushiriki katika utafiti unaolipiwa wa watumiaji wa Wikipedia?",
 	"research-incentive-description": "Jaza fomu ili kuandikishwa katika orodha yetu ya washiriki. Utatumiwa habari mara kwa mara kuhusu nafasi za kushiriki katika utafiti wa Wikipedia. Unaweza kujiondoa kwenye orodha hiyo wakati wowote.",
 	"research-incentive-link": "https://airtable.com/shrcLVxFGHIJipQoZ",
