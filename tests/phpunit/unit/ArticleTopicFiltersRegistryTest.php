@@ -26,8 +26,8 @@ class ArticleTopicFiltersRegistryTest extends MediaWikiUnitTestCase {
 
 	public function testGetLocalizedLabels() {
 		$expected = [
-			'africa' => 'growthexperiments-homepage-suggestededits-topic-name-africa',
-			'general-science' => 'growthexperiments-homepage-suggestededits-topic-name-general-science'
+			'africa' => 'wikimedia-articletopics-topic-africa',
+			'general-science' => 'wikimedia-articletopics-topic-general-science'
 		];
 		$this->assertSame( $expected, ArticleTopicFiltersRegistry::getTopicMessages( array_keys( $expected ) ) );
 	}
