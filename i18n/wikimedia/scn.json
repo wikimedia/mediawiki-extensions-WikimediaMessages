@@ -102,13 +102,13 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Nun sugnu sìcuru",
 	"gadget-souspages-subpages": "Suttapàggini",
 	"wikimedia-help-translate-prompt": "Voi cuntribbuiri a tradùciri? [$1 Traduci li missaggi ammancanti].",
-	"growthexperiments-homepage-suggestededits-topic-name-africa": "Àfrica",
-	"growthexperiments-homepage-suggestededits-topic-name-asia": "Asia",
-	"growthexperiments-homepage-suggestededits-topic-name-music": "Mùsica",
-	"growthexperiments-homepage-suggestededits-topic-name-sports": "Sport",
-	"growthexperiments-homepage-suggestededits-topic-name-biography": "Biugrafìa (tutti)",
-	"growthexperiments-homepage-suggestededits-topic-name-history": "Storia",
-	"growthexperiments-homepage-suggestededits-topic-name-general-science": "Scienza ginirali",
-	"growthexperiments-homepage-suggestededits-topic-name-mathematics": "Matimàtica",
-	"growthexperiments-homepage-suggestededits-topic-name-technology": "Ticnoluggìa"
+	"wikimedia-articletopics-topic-africa": "Àfrica",
+	"wikimedia-articletopics-topic-asia": "Asia",
+	"wikimedia-articletopics-topic-music": "Mùsica",
+	"wikimedia-articletopics-topic-sports": "Sport",
+	"wikimedia-articletopics-topic-biography": "Biugrafìa (tutti)",
+	"wikimedia-articletopics-topic-history": "Storia",
+	"wikimedia-articletopics-topic-general-science": "Scienza ginirali",
+	"wikimedia-articletopics-topic-mathematics": "Matimàtica",
+	"wikimedia-articletopics-topic-technology": "Ticnoluggìa"
 }

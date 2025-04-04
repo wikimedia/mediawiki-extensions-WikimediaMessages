@@ -229,5 +229,5 @@
 	"group-oathauth-tester-member": "{{GENDER:$1|ദ്വി-ഘടക സാധൂകരണം പരീക്ഷകൻ|ദ്വി-ഘടക സാധൂകരണം പരീക്ഷക}}",
 	"gadget-souspages-subpages": "ഉപതാളുകൾ",
 	"wikimedia-help-translate-prompt": "തർജ്ജമ ചെയ്യാൻ സഹായിക്കണോ? [$1 ഇവിടെ നൽകിയിട്ടില്ലാത്ത സന്ദേശങ്ങൾ തർജ്ജമ ചെയ്യു].",
-	"growthexperiments-homepage-suggestededits-topic-name-general-science": "പൊതു ശാസ്ത്രം"
+	"wikimedia-articletopics-topic-general-science": "പൊതു ശാസ്ത്രം"
 }
