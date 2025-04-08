@@ -218,6 +218,8 @@
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"group-sysadmin": "Systemadministratoren",
 	"group-sysadmin-member": "{{GENDER:$1|Systemadministrator|Systemadministratorin}}",
+	"group-translator-member": "{{GENDER:$1|Übersetzer|Übersetzerin}}",
+	"grouppage-translator": "{{ns:project}}:Übersetzer",
 	"group-translationadmin": "Übersetzungsadministratoren",
 	"group-translationadmin-member": "{{GENDER:$1|Übersetzungsadministrator|Übersetzungsadministratorin}}",
 	"grouppage-translationadmin": "{{ns:project}}:Übersetzungsadministratoren",
