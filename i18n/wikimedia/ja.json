@@ -62,7 +62,8 @@
 			"春春眠眠",
 			"青子守歌",
 			"아라",
-			"Samoasambia"
+			"Samoasambia",
+			"Kokage si"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -391,8 +392,8 @@
 	"passwordpolicies-policy-blockattacker": "既知の攻撃緩和をめぐり詳細を開示するとその緩和を妨害すると予測されるパスワード方針",
 	"technical-maintenance-soon": "まもなく技術メンテナンスを実施します。",
 	"technical-maintenance-edit": "この間、編集内容を全く保存できないかもしれません。",
-	"group-oathauth-tester": "二段階認証試験者",
-	"group-oathauth-tester-member": "{{GENDER:$1|二段階認証試験者}}",
+	"group-oathauth-tester": "二要素認証試験者",
+	"group-oathauth-tester-member": "{{GENDER:$1|二要素認証試験者}}",
 	"querypage-updates-half-monthly": "このページの更新は毎月2回実行されます。",
 	"querypage-updates-monthly": "このページの更新は毎月1回実行されます。",
 	"protect-level-editautoreviewprotected": "自動査読者のみ許可",
