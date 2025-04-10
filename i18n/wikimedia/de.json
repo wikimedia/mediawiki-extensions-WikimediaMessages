@@ -378,6 +378,8 @@
 	"wikimedia-cookiestatement": "Stellungnahme zu Cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Wurde diese Seite schnell genug geladen?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Für weitere Informationen siehe bitte die [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement Datenschutzerklärung] für diese Umfrage.",
+	"ext-quicksurveys-patrollertools-external-survey-question": "Möchtest du an einer kurzen Umfrage teilnehmen, um die Tools zum Überprüfen oder Rückgängigmachen von Änderungen in deinem Wiki zu verbessern?",
+	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Datenschutzerklärung]",
 	"wikimedia-switchover-read-only": "Du kannst aufgrund von Wartungsarbeiten derzeit nicht bearbeiten. Kopiere und speichere deinen Text und versuche es in einigen Minuten erneut.",
 	"passwordpolicies-policy-blockattacker": "Es gibt eine weitere Passwortrichtlinie, die momentan aus Sicherheitsgründen nicht veröffentlicht wurde.",
 	"technical-maintenance-soon": "In Kürze wird eine technische Wartung durchgeführt:",
