@@ -40,7 +40,8 @@
 			"XanonymusX",
 			"WikiBayer",
 			"MrBenjo",
-			"Tkarcher"
+			"Tkarcher",
+			"Johannnes89"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -167,9 +168,9 @@
 	"group-apihighlimits-requestor-member": "{{GENDER:$1|Hohes-API-Limit-Benötigender|Hohes-API-Limit-Benötigende}}",
 	"group-captcha-exempt": "CAPTCHA-Ausnahmen",
 	"group-captcha-exempt-member": "{{GENDER:$1|CAPTCHA-Ausnahme}}",
-	"group-centralnoticeadmin": "Zentrale-Meldungen-Administratoren",
-	"group-centralnoticeadmin-member": "{{GENDER:$1|Zentrale-Meldungen-Administrator|Zentrale-Meldungen-Administratorin}}",
-	"grouppage-centralnoticeadmin": "{{ns:project}}:Zentrale-Meldungen-Administratoren",
+	"group-centralnoticeadmin": "CentralNotice-Administratoren",
+	"group-centralnoticeadmin-member": "{{GENDER:$1|CentralNotice-Administrator| CentralNotice-Administratorin}}",
+	"grouppage-centralnoticeadmin": "{{ns:project}}:CentralNotice-Administratoren",
 	"group-curator": "Kuratoren",
 	"group-curator-member": "{{GENDER:$1|Kurator|Kuratorin}}",
 	"grouppage-curator": "{{ns:project}}:Kuratoren",

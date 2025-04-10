@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Don Alessandro"
+		]
+	},
+	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve deñiştirmeleriñizniñ $2 {{PLURAL:$3|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
+	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve metniñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
+	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve deñiştirmeleriñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
+	"wikimedia-flow-terms-of-use-edit": "Deñiştirmelerni yayınlap, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve metniñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
+	"wikimedia-flow-terms-of-use-lock-topic": "\"{{int:flow-topic-action-lock-topic}}\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve metniñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
+	"wikimedia-flow-terms-of-use-unlock-topic": "\"{{int:flow-topic-action-unlock-topic}}\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve metniñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz."
+}
