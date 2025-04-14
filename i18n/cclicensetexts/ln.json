@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"Lydie maliki"
+		]
+	},
+	"wm-license-cc-attribution": "Attribution ya makambo",
+	"wm-license-cc-by-sa-3.0-text": "Fisyé oyo ezali na ndingisa na nzela ya [[{{int:wm-license-cc-wiki-link}}|Créative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] ndingisa.",
+	"wm-license-cc-free": "Ozali na bonsomi:",
+	"wm-license-cc-free-to-share-header": "mpo na kokabola",
+	"wm-license-cc-free-to-share-text": "kosala kopi, kokabola mpe kotinda mosala",
+	"wm-license-cc-free-to-remix-header": "mpo na kosala remix",
+	"wm-license-cc-free-to-remix-text": "mpo na komesana na mosala yango",
+	"wm-license-cc-conditions": "Na ba conditions oyo elandi:",
+	"wm-license-cc-conditions-attribution-header": "attribution ya likambo yango",
+	"wm-license-cc-conditions-attribution-text": "Osengeli kopesa crédit oyo ebongi, kopesa lien ya licence, mpe kolakisa soki mbongwana esalemaki. Okoki kosala yango na ndenge nyonso oyo ebongi, kasi na ndenge nyonso te oyo emonisi ete moto oyo apesi yo ndingisa andima yo to ndenge oyo osalelaka yango.",
+	"wm-license-cc-conditions-share_alike-header": "kabola ndenge moko",
+	"wm-license-cc-conditions-share_alike-text": "Soki osali remix, obongoli, to otongi likolo ya matériel, esengeli okabola ba contributions na yo na se ya [[ccorg:share-your-work/licensing-considerations/compatible-licenses|licence moko to oyo ekokani]] lokola original."
+}
