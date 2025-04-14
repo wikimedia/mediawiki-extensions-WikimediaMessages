@@ -135,6 +135,9 @@ class Hooks implements
 			'checkuser-global-contributions-anon-tools',
 			'checkuser-global-contributions-ip-range-tools',
 			'checkuser-global-contributions-registered-user-tools',
+			// T362715
+			'centralauth-sul3-oathmanage-sitenotice-local',
+			'centralauth-sul3-oathmanage-sitenotice-central',
 			// T327281
 			'checkuser-tempaccount-enable-preference-description',
 			// T380954
