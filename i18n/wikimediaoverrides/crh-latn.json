@@ -3,5 +3,8 @@
 		"authors": [
 			"Don Alessandro"
 		]
-	}
+	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(saylamağa yardım et)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Resimni körip olamaysıñızmı? [[{{MediaWiki:createacct-captcha-help-url}}|Qullanıcı esabını isteñiz]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Qullanıcı_adları"
 }
