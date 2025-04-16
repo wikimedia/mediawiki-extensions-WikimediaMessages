@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eruedin"
+			"Eruedin",
+			"Lydie maliki"
 		]
 	},
 	"wm-license-information-description": "Bolimboli",
+	"wm-license-information-source": "Esika",
 	"wm-license-information-date": "Mokɔlɔ",
-	"wm-license-information-author": "Mokeli"
+	"wm-license-information-author": "Mokeli",
+	"wm-license-information-permission": "Ndingisa",
+	"wm-license-information-permission-reusing-text": "Kosalela lisusu fisyé oyo",
+	"wm-license-own-work": "Mosala ya ye moko",
+	"wm-license-self-multiple-licenses-select": "Okoki kopona licence oyo oponi."
 }

@@ -16,6 +16,7 @@
 	"wikibase-sitelinks-wikisource": "Vikimenba",
 	"wikibase-sitelinks-wikivoyage": "Vikiseyaat",
 	"wikibase-otherprojects-wikipedia": "Vikipediya",
+	"createacct-captcha-help-url": "{{ns:Project}}:Qullanıcı esabı istegi",
 	"wikimedia-developers": "Programmacılar",
 	"wikimedia-globalblocking-ipblocked": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlok $1 ($2) tarafından yapılğan.\nSebebi ise '''$3'''.\n\n* Bloknıñ başlanğan vaqtı: $4\n* Bloknıñ bitecek vaqtı: $5\n\nŞimdiki IP adresiñiz: $6.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-ipblocked-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlok $1 ($2) tarafından yapılğan.\nSebebi ise '''$3'''.\n\n* Bloknıñ başlanğan vaqtı: $4\n* Bloknıñ bitecek vaqtı: $5\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
