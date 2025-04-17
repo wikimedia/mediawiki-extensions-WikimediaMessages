@@ -4,6 +4,9 @@
 			"Don Alessandro"
 		]
 	},
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(saylamağa yardım et)]]",
+	"wikimedia-createacct-imgcaptcha-help": "Resimni körip olamaysıñızmı? [[{{MediaWiki:createacct-captcha-help-url}}|Qullanıcı esabını isteñiz]]",
+	"createacct-helpusername-url": "{{ns:Project}}:Qullanıcı_adları",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve deñiştirmeleriñizniñ $2 {{PLURAL:$3|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve metniñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" dögmesine basıp, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ Qullanuv Şartlarımıznı] qabul eter ve deñiştirmeleriñizniñ $1 {{PLURAL:$2|mücibi}} keri qaytarılmaz bir şekilde yayınlanmasını qabul etersiñiz.",
