@@ -361,6 +361,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Bu səhifə kifayət qədər sürətli yükləndi?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Əlavə məlumat üçün bu sorğunun [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement məxfilik bəyanatına] baxın.",
 	"ext-quicksurveys-patrollertools-external-survey-question": "Vikidə redaktələrin yoxlanılması və ya geri qaytarılması üçün istifadə olunan alətləri təkmilləşdirmək üçün keçirilən qısa sorğuda iştirak etmək istəyirsiniz?",
+	"ext-quicksurveys-patrollertools-external-survey-link": "https://wikimediafoundation.limesurvey.net/332214?lang=en",
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Məxfilik Bəyanatı]",
 	"wikimedia-switchover-read-only": "İndi redaktə edə bilməzsiniz. Bunun səbəbi texniki baxış keçirilməsidir. Mətni kopyalayıb yadda saxlayın və bir neçə dəqiqədən sonra yenidən cəhd edin.",
 	"passwordpolicies-policy-blockattacker": "Təfərrüatların açıqlanması təsirin azaldılmasına mane olacağı məlum hücumların azaldılması üçün parol siyasəti",

@@ -3,6 +3,7 @@
 		"authors": [
 			"Better",
 			"Crucifunked",
+			"HackerPunki",
 			"MONUMENTA"
 		]
 	},
@@ -10,5 +11,6 @@
 	"tooltip-n-sitesupport": "Ayúamus",
 	"specialpages-group-contribution": "Contribucionis/Fundraiser",
 	"wikimedia-developers": "Desarrollaerus",
-	"interlanguage-link-sitename-wikipedia": "Güiquipedia, la ciclopedia que puei edital tola genti"
+	"interlanguage-link-sitename-wikipedia": "Güiquipedia, la ciclopedia que puei edital tola genti",
+	"wikimedia-statslink": "Estaísticas"
 }
