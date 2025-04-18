@@ -119,7 +119,7 @@ class Hooks implements
 	 * @param string[] &$keys
 	 */
 	public function onMessageCacheFetchOverrides( array &$keys ): void {
-		global $wmgRealm;
+		global $wmgRealm, $wgNoticeProject;
 
 		static $keysToOverride = [
 			'acct_creation_throttle_hit',
@@ -316,6 +316,15 @@ class Hooks implements
 			return ( $this->mobileContext && $this->mobileContext->shouldDisplayMobileView() ) ?
 				'wikimedia-mobile-mainpage-title-loggedin' : $key;
 		};
+
+		// T391026: Use a generic message on sister projects like Wiktionary or Commons.
+		// On Wikipedia projects (determined by wgNoticeProject),
+		// keep the Wikipedia-specific message
+		$keys['skin-minerva-donate-banner-subtitle'] = (
+			$wgNoticeProject === 'wikipedia'
+		)
+			? 'wikimedia-skin-minerva-donate-banner-subtitle'
+			: 'wikimedia-skin-minerva-donate-banner-subtitle-generic';
 	}
 
 	private function getShortRightsLink(): string {

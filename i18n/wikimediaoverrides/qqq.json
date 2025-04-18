@@ -95,6 +95,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "Error message showing when a translation admin attempts to move a page with too many subpages\n\nParameters:\n* $1 – maximum allowed number of subpages to move",
 	"wikimedia-skin-minerva-donate-banner-message": "Title for donation banner that appears in the mobile main menu when open.",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "A donation banner message that appears in the mobile main menu when open.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "A donation banner message that appears in the sister sites mobile main menu when open.",
 	"wikimedia-skin-minerva-donate-banner-reduced-motion": "{{notranslate}}",
 	"wikimedia-skin-minerva-donate-banner-gif": "{{notranslate}}",
 	"wikimedia-skin-minerva-donate-banner-url": "{{notranslate}}"
