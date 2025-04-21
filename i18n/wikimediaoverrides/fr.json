@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bananax47",
 			"Djiboun",
 			"Eihel",
 			"Gomoko",
@@ -70,6 +71,8 @@
 	"wikimedia-apierror-urlshortener-permissiondenied": "Les liens courts ne peuvent être créés qu’avec un appel au wiki « meta.wikimedia.org ».",
 	"wikimedia-webauthn-module-description": "'''Dissuadé''' : WebAuthn (Authentification Web) est un standard du web publié par le World Wide Web Consortium (W3C). WebAuthn est un composant cœur du projet FIDO2 sous la direction de l’Alliance FIDO. Le but du projet est de standardiser une interface pour authentifier les utilisateurs des applications et services basés sur le web, en utilisant le chiffrement à clé publique. [https://fr.wikipedia.org/wiki/WebAuthn En savoir plus]. Notez que vous devrez vous connecter sur le même wiki que là où vous avez initialement inscrit votre appareil de vérification. Vous devez aussi configurer votre navigateur pour accepter les témoins de connexion (''cookies'') de tous les autres wikis frères. Si vous ne savez pas comment faire, vous pourriez ne pas pouvoir vous connecter. Cette méthode n’est donc pas recommandée actuellement pour la plupart des utilisateurs.",
 	"wikimedia-webauthn-ui-login-prompt": "Veuillez toucher votre appareil de vérification ou suivre les instructions du navigateur. Notez bien que vous devez être connecté sur le même wiki où vous avez enregistré votre appareil de vérification.",
+	"wikimedia-centralauth-sul3-oathmanage-sitenotice-local": "Les wikis Wikimedia utilisent désormais un domaine d'authentification centralisé (auth.wikimedia.org). Les clés d'authentification Web doivent être gérées sur le même domaine que celui utilisé pour la connexion. Pour configurer de nouvelles clés d'authentification WebAuthn, veuillez utiliser [$1 le domaine central].",
+	"wikimedia-centralauth-sul3-oathmanage-sitenotice-central": "Les wikis Wikimedia utilisent désormais un domaine d'authentification centralisé (auth.wikimedia.org). Les clés d'authentification Web existantes ne peuvent être gérées que sur le domaine où elles ont été initialement configurées. Pour supprimer les anciennes clés d'authentification Web créées avant l'introduction d'auth.wikimedia.org, veuillez utiliser [$1 le domaine local].",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Politique de confidentialité]",
 	"wikimedia-notification-body-oathauth-disable-other": "Si {{GENDER:$2|}}vous n’avez pas demandé ceci, {{GENDER:$2|}}vous devriez contacter l’équipe « Confiance et sécurité » de la WMF (« ''WMF Trust & Safety'' »).",
 	"wikimedia-ipinfo-help-text": "Votre utilisation de cet outil est régie par la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Politique relative à l'outil Wikimédia d'information sur l'adresse IP]. Les informations affichées proviennent de MaxMind et [https://docs.spur.us/data-types Spur] (en anglais). Elles peuvent ne pas être entièrement appropriées.",
@@ -97,5 +100,6 @@
 	"wikimedia-oathauth-hint": "Vous n'avez pas accès à votre appareil ou à votre application ? Vous pouvez saisir les jetons de récupération (présentés lorsque vous avez activé l'authentification en deux étapes) dans ce champ. Si vous ne parvenez pas à le faire, consultez l'[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Aide sur la double authentification] pour d'autres options.",
 	"wikimedia-pt-movepage-page-count-limit": "'''Cette page traduisible contient plus {{PLURAL:$1|d'une page|de $1 pages}}'''. En raison de problèmes de fiabilité, le déplacement de pages traduisibles contenant plus {{PLURAL:$1|d'une page|de $1 pages}} ne peut pas être effectué via l'interface utilisateur. Veuillez '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ créer une tâche Phabricator]''' et remplir les champs du formulaire pour demander aux [[:m:system administrators|administrateurs système]] d'effectuer le déplacement de la page en votre nom.",
 	"wikimedia-skin-minerva-donate-banner-message": "Faites un don dès maintenant",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipédia est utile pour vous, donnez-la aujourd'hui."
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipédia est utile pour vous, donnez-la aujourd'hui.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si ce site vous a été utile, vous pouvez faire un don aujourd'hui."
 }

@@ -92,5 +92,6 @@
 	"wikimedia-oathauth-hint": "Aygıtınıza ya da uygulamanıza erişiminiz yok mu? Bu alana kurtarma simgelerini (2FA'yı etkinleştirdiğinizde sunulur) girebilirsiniz. Bunu yapamıyorsanız, daha fazla seçenek için [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Yardım:İki-etkenli kimlik doğrulama] konusuna bakın.",
 	"wikimedia-pt-movepage-page-count-limit": "'''Bu çevrilebilir sayfa $1 ve daha fazla {{PLURAL:$1|sayfadan}} oluşuyor.''' Güvenilirlik sorunları nedeniyle, $1 ve daha fazla {{PLURAL:$1|sayfadan}} oluşan çevrilebilir sayfalar kullanıcı arayüzü üzerinden taşınamaz. Lütfen '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ bir Phabricator görevi oluşturun]''' ve [[:m:system administrators|sistem yöneticileri]]nden sizin adınıza sayfa taşımasını istemek için formdaki alanları doldurun.",
 	"wikimedia-skin-minerva-donate-banner-message": "Şimdi Bağış Yapın",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "Eğer Vikipedi sizin için yararlıysa lütfen bugün bağış yapın."
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Eğer Vikipedi sizin için yararlıysa lütfen bugün bağış yapın.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Eğer bu site sizin için yararlı olduysa lütfen bugün bağış yapın."
 }

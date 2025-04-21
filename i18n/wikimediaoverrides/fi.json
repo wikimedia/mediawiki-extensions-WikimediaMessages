@@ -76,5 +76,6 @@
 	"wikimedia-oathauth-step1-test": "Lataa ohjelma kaksivaiheista todennusta varten. Katso ehdotetut asiakasohjelmat sivulta [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor_uthentication].",
 	"wikimedia-pt-movepage-page-count-limit": "'''Tämä käännettävä sivu koostuu yli $1 {{PLURAL:$1|sivusta}}.''' Luotettavuusongelmien vuoksi käännettäviä sivua, jotka koostuvat yli $1 {{PLURAL:$1|sivusta}}, ei voi siirtää käyttöliittymän kautta. '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ Tee Phabricator-tehtävä]''' ja täytä lomakkeen kenttiin pyyntö [[:m:system administrators|järjestelmän ylläpitäjiä]] siirtämään sivu puolestasi.",
 	"wikimedia-skin-minerva-donate-banner-message": "Lahjoita nyt",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "Jos Wikipedia on sinulle hyödyllinen, harkitse lahjoittamista tänään."
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Jos Wikipedia on sinulle hyödyllinen, harkitse lahjoittamista tänään.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Jos tämä sivusto on sinulle hyödyllinen, harkitse lahjoittamista tänään."
 }

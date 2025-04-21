@@ -90,5 +90,6 @@
 	"wikimedia-oathauth-hint": "Du hast keinen Zugriff auf dein Gerät oder deine Anwendung? In diesem Feld kannst du Wiederherstellungstokens eingeben (die angezeigt wurden, als du 2FA aktiviert hast). Wenn du dazu nicht in der Lage bist, findest du weitere Optionen unter [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help:Two-Factor Authentication].",
 	"wikimedia-pt-movepage-page-count-limit": "'''Diese übersetzbare Seite besteht aus mehr als $1 {{PLURAL:$1|Seite|Seiten}}.''' Aufgrund von Zuverlässigkeitsproblemen kann das Verschieben von übersetzbaren Seiten, die aus mehr als $1 {{PLURAL:$1|Seite|Seiten}} bestehen, nicht über die Benutzeroberfläche erfolgen. Bitte '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ erstelle eine Aufgabe im Phabricator]''' und fülle die Felder des Formulars aus, um die [[:m:system administrators|Systemadministratoren]] zu bitten, die Verschiebung der Seite in deinem Namen durchzuführen.",
 	"wikimedia-skin-minerva-donate-banner-message": "Spende jetzt",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "Wenn dir Wikipedia von Nutzen ist, spende bitte noch heute."
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Wenn dir Wikipedia von Nutzen ist, spende bitte noch heute.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Wenn diese Website für dich nützlich war, spende bitte noch heute."
 }
