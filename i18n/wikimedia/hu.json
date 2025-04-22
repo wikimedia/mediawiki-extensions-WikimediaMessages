@@ -20,7 +20,8 @@
 			"Tgr",
 			"Urbalazs",
 			"Varnent",
-			"Matma Rex"
+			"Matma Rex",
+			"Jsn.sherman"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -225,6 +226,10 @@
 	"wikimedia-wikistats-tagline": "Wikimédia-statisztikák",
 	"wikimedia-cookiestatement": "Sütinyilatkozat",
 	"querypage-updates-half-monthly": "Ennek a lapnak a frissítései havi kétszer futnak.",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "Szeretnél részt venni egy rövid felmérésben, hozzájárulva a wikiden előforduló, a járőrözéshez és a szerkesztések visszaállításához használt eszközök tökéletesítéséhez?",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement adatvédelmi talász]",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Igen",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Nem, köszönöm",
 	"readinglists-import-app": "Az olvasólista importálásához telepítsd a Wikipédia mobilalkalmazás legfrissebb verzióját:",
 	"wikimedia-foundation-projects-of-label-nolink": "A Wikimédia Alapítvány projektjei",
 	"wikimedia-projects-label": "Wikimédia-projektek",

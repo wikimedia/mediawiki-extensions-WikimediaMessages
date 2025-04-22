@@ -14,7 +14,8 @@
 			"عثمان خان شاہ",
 			"عرفان ارشد",
 			"محبوب عالم",
-			"පසිඳු කාවින්ද"
+			"පසිඳු කාවින්ද",
+			"Jsn.sherman"
 		]
 	},
 	"wikimediamessages-desc": "ویکیمیڈیا کے مخصوص پیغام",
@@ -199,6 +200,10 @@
 	"wikimedia-statslink": "شماريات",
 	"wikimedia-cookiestatement": "کوکیز کی تفصیلات",
 	"ext-quicksurveys-name": "کوئیک سرویز",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "اپنی ویکی پر ترمیم کو واپس پھیرنے یا اس کا جائزہ لینے کے لئے مستعمل ٹول کی بہتری کے لئے آپ ایک مختصر سروے میں دلچسپی رکھتے ہیں؟",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement رازداری کے بیان کو ملاحظہ کریں۔]",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "ہاں",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "نہیں، شکریہ",
 	"readinglists-import-app": " مطالعہ کی یہ فہرست درآمد کرنے کے لیے ویکیپیڈیا ایپ کا تازہ ترین ورژن انسٹال کریں:",
 	"ipinfo-global-contributions-url-label": "عالمی شراکتیں",
 	"wikimedia-foundation-projects-of-label-nolink": "وکیمیڈیا فاؤنڈیشن کے منصوبے",

@@ -53,7 +53,8 @@
 			"Dyolf77 (WMF)",
 			"Lolekek",
 			"Mohammed Qays",
-			"جودت"
+			"جودت",
+			"Jsn.sherman"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا المحددة",
@@ -421,7 +422,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "أنا لست متأكدًا",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "أجرت مؤسسة ويكيميديا هذا الاستطلاع دون الكشف عن الهوية. [https://meta.wikimedia.org/wiki/Community_Safety اقرأ المزيد] أو راجع [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement بيان الخصوصية].",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "هل أنت مهتم بإجراء استبيان قصير حول مراجعة أو إرجاع التعديلات على الويكي الخاص بك؟",
-	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "استبيان مقدم من Qualtrics. راجع [//www.qualtrics.com/privacy-statement/ سياسة الخصوصية]",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/ar بيان الخصوصية الخاص بنا]",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "نعم",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "لا",
 	"gadget-curidlink-link-by-id": "الرابط حسب الهوية",
