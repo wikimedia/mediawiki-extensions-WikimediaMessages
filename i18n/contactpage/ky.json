@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Baydastann",
 			"Bosogo"
 		]
 	},
@@ -19,5 +20,6 @@
 	"contactpage-wikimedia-trademark-wikispecies": "Викитүрлөр",
 	"contactpage-wikimedia-trademark-wikiversity": "Викиверситет",
 	"contactpage-wikimedia-trademark-wiktionary": "Викисөздүк",
-	"contactpage-wikimedia-trademark-wikivoyage": "Викисаякат"
+	"contactpage-wikimedia-trademark-wikivoyage": "Викисаякат",
+	"contactpage-affcom-conflict-category-inter-project-aff": "Мен Викимедиа долбоорунун активдүү катышуучусумун жана бул бөлүмдүн аракеттери долбоорго зыян келтирип жатат деп ойлойм"
 }
