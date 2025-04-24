@@ -34,7 +34,7 @@
 	"wm-license-cc-by-2.1-au-text": "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [[creativecommons:by/2.0/au/|Attribution 2.1 Australia]] په منښتليک سمبال ده.",
 	"wm-license-cc-by-2.5-au-text": "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېتيف کامنز]] [[creativecommons:by/2.5/au/|Attribution 2.5 Australia]] په منښتليک سمبال ده.",
 	"wm-license-cc-by-sa-3.0-text": "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|پنځونې ټولکاره]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] منښتليک باندې سمبال ده.",
-	"wm-license-cc-sa-2.0-jp-text": "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|کرېټيف کامنز]] [[creativecommons:sa/2.0/jp/deed.en|Share Alike 2.0 جاپان]] په منښتليک سمبال ده.",
+	"wm-license-cc-sa-2.0-jp-text": "دا دوتنه د [[{{int:wm-license-cc-wiki-link}}|ټولواله پنځونې]] [[creativecommons:sa/2.0/jp/deed.en|Share Alike 2.0 جاپان]] په منښتليک سمبال ده.",
 	"wm-license-cc-free": "تاسې کولی شئ چې:",
 	"wm-license-cc-free-to-share-header": "بيا يې د نورو سره شريک کړئ",
 	"wm-license-cc-free-to-share-text": "همدا اثر ولمېسئ، و وېشئ او بيا يې خپور کړئ",
@@ -42,7 +42,7 @@
 	"wm-license-cc-free-to-remix-text": "بدل شوی اثر خپل کړئ",
 	"wm-license-cc-conditions": "د لاندې منښتونو له مخې:",
 	"wm-license-cc-conditions-attribution-header": "اړوندېدنه",
-	"wm-license-cc-conditions-attribution-text": "تاسې بايد دا اثر د ليکوال يا منښتگر لخوا د ځانگړو شويو اصولو سره اړوند وگڼئ (خو په دې توگه نه چې داسې ښکاره شي چې گنې تاسې يا ستاسې لخوا کارېدنه د اثر د ملاتړ سبب شوې)",
+	"wm-license-cc-conditions-attribution-text": "تاسې بايد دا اثر د ليکوال يا منښتگر لخوا د ځانگړو شوو منښتونو سره اړوند وگڼئ (خو په دې توگه نه چې داسې ښکاره شي چې گنې تاسې يا ستاسې لخوا کارېدنه د اثر د ملاتړ سبب شوې)",
 	"wm-license-cc-conditions-share_alike-header": "يوشان شريکول",
 	"wm-license-cc-conditions-share_alike-text": "که تاسې همدا اثر بدلوئ، رغوئ، او يا يې هم سر له نوي جوړوئ نو په پايله کې رامېنځ ته شوی اثر به يوازې د همدې دوتنې ورته منښتليک پر بنسټ خپروئ."
 }
