@@ -2,7 +2,7 @@
 
 namespace MediaWiki\Extension\WikimediaMessages\LogFormatter;
 
-use LogFormatter;
+use MediaWiki\Logging\LogFormatter;
 
 /**
  * A snapshot of the log formatter from the UserMerge

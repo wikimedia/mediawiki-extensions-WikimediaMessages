@@ -5,10 +5,10 @@ namespace MediaWiki\Extension\WikimediaMessages\Tests\Unit;
 use MediaWiki\Config\HashConfig;
 use MediaWiki\Extension\WikimediaMessages\Hooks;
 use MediaWiki\Output\OutputPage;
+use MediaWiki\Skin\Skin;
 use MediaWiki\Tests\Unit\MockServiceDependenciesTrait;
 use MediaWiki\Title\Title;
 use MediaWikiUnitTestCase;
-use Skin;
 
 /**
  * @covers \MediaWiki\Extension\WikimediaMessages\Hooks

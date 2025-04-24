@@ -5,12 +5,12 @@
 
 namespace MediaWiki\Extension\WikimediaMessages;
 
-use ErrorPageError;
 use HtmlArmor;
 use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Config\Config;
 use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
+use MediaWiki\Exception\ErrorPageError;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SidebarBeforeOutputHook;
@@ -29,6 +29,8 @@ use MediaWiki\Permissions\PermissionManager;
 use MediaWiki\Registration\ExtensionRegistry;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
+use MediaWiki\Skin\Skin;
+use MediaWiki\Skin\SkinTemplate;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\Specials\SpecialUpload;
@@ -37,8 +39,6 @@ use MediaWiki\User\Options\UserOptionsLookup;
 use MessageCache;
 use MessageLocalizer;
 use MobileContext;
-use Skin;
-use SkinTemplate;
 use Wikimedia\IPUtils;
 use Wikimedia\Message\MessageSpecifier;
 
