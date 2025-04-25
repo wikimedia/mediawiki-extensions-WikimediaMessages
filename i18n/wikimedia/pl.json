@@ -329,6 +329,8 @@
 	"group-docseditor-member": "{{GENDER:$1|edytor|edytorka}} dokumentacji",
 	"action-docseditor": "edytowania dokumentacji",
 	"right-docseditor": "Edytowanie dokumentacji",
+	"right-edit-legal": "Edycja stron z potencjalnymi konsekwencjami prawnymi",
+	"action-edit-legal": "edycja stron z potencjalnymi konsekwencjami prawnymi",
 	"ext-quicksurveys-name": "KrótkieAnkiety",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Tak",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Nie",

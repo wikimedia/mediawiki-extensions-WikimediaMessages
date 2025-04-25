@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"A100Star",
 			"Amire80",
 			"Guycn2",
 			"IKhitron",
@@ -57,6 +58,8 @@
 	"wikimedia-apierror-urlshortener-permissiondenied": "ניתן ליצור קישורים קצרים רק באמצעות קריאה לוויקי meta.wikimedia.org.",
 	"wikimedia-webauthn-module-description": "'''לא מומלץ:''' WebAuthn (אימות וב, Web Authentication) הוא תקן וב שמפורסם על־ידי מאגד המארג העולמי (W3C). תקן WebAuthn הוא רכיב ליבה של מיזם FIDO2 תחת ההובלה של איגוד FIDO. מטרת המיזם היא לתקנן ממשק לאימות משתמשים עם יישומים ושירותים בווב באמצעות קריפטוגרפיה עם מפתחות ציבוריים. [https://en.wikipedia.org/wiki/WebAuthn מידע נוסף]. נא לשים לב לכך שיש להיכנס לאותו הוויקי שהשתמשת בו במקור כדי לרשום את מכשיר האימות שלך. חובה גם להגדיר את הדפדפן שלך כדי לקבל עוגיות מכל שאר אתרי הוויקי. אם לא ברור לך איך לעשות את זה, ייתכן שלא תהיה לך אפשרות להתחבר. בגלל זה השיטה הזאת אינה מומלצת עבור רוב המשתמשים כעת.",
 	"wikimedia-webauthn-ui-login-prompt": "נא לגעת במכשיר האימות שלך או לעקוב אחר ההוראות מהדפדפן. נא לשים לב לכך שיש להיכנס לאותו הוויקי שהשתמשת בו במקור כדי לרשום את המכשיר שלך",
+	"wikimedia-centralauth-sul3-oathmanage-sitenotice-local": "דפי הויקי של ויקימדיה עברו להשתמש בתחום אימות מרכזי (auth.wikimedia.org). יש לנהל מפתחות Web Authentication (WebAuthn) באותו תחום שבו מתבצע תהליך ההתחברות. כדי להגדיר מפתחות WebAuthn חדשים, אנא השתמשו ב־[$1 התחום המרכזי].",
+	"wikimedia-centralauth-sul3-oathmanage-sitenotice-central": "מערכת הויקי של ויקימדיה עברה להשתמש בתחום אימות מרכזי (auth.wikimedia.org). מפתחות אימות קיימים (WebAuthn) ניתנים לניהול רק באותו תחום שבו הוגדרו במקור. להסרת מפתחות ישנים שנוצרו לפני השימוש ב־auth.wikimedia.org, יש להשתמש ב־[$1 התחום המקומי].",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy מדיניות הפרטיות]",
 	"wikimedia-notification-body-oathauth-disable-other": "אם לא {{GENDER:$2|ביקשת}} את זה, כדאי ליצור קשר עם צוות אמון ובטיחות (Trust and Safety) של קרן ויקימדיה.",
 	"wikimedia-ipinfo-help-text": "השימוש שלך בכלי הזה כפוף ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines הנחיות לכלי מידע IP]. המידע המוצג מגיע מ־MaxMind ומ־[https://docs.spur.us/data-types Spur]. יכול להיות שהוא לא לגמרי מדויק.",
@@ -84,5 +87,6 @@
 	"wikimedia-oathauth-hint": "אין לך גישה למכשיר או ליישום שלך? באפשרותך להזין אסימוני שחזור (שהוצגו כאשר הפעלת את 2FA) בשדה הזה. אם אין לך אפשרות לעשות את זה, ר' את הדף [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help: Two-factor Authentication] לקבלת אפשרויות נוספות.",
 	"wikimedia-pt-movepage-page-count-limit": "'''דף התרגום הזה מורכב מיותר {{PLURAL:$1|מדף אחד|$1 דפים}}.''' עקב בעיות יציבוּת, לא ניתן לבצע דרך ממשק המשתמש העברת דפי תרגום המורכבים מיותר {{PLURAL:$1|מדף אחד|$1 דפים}}. נא '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ ליצור משימה בפבריקטור]''' ולמלא את השדות של הטופס כדי לבקש מ[[:m:system administrators|מנהלי מערכת]] לבצע את העברת הדף בשבילך.",
 	"wikimedia-skin-minerva-donate-banner-message": "לתרום עכשיו",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום."
+	"wikimedia-skin-minerva-donate-banner-subtitle": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "אם האתר הזה היה מועיל עבורך, שקול לתרום היום."
 }
