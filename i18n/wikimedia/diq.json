@@ -137,6 +137,7 @@
 	"group-steward-member": "{{GENDER:$1|keya}}",
 	"group-sysadmin": "İdarekarê sistemi",
 	"group-sysadmin-member": "{{GENDER:$1|adminê sistemi}}",
+	"group-translator": "Çarnayoği",
 	"group-translationadmin": "İdarekerê çarnayışi",
 	"group-translationadmin-member": "{{GENDER:$1|Adminê açarnayışi}}",
 	"grouppage-translationadmin": "{{ns:project}}:Adminê açarnayışi",
