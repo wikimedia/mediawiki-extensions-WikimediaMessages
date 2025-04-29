@@ -61,5 +61,8 @@
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Один або кілька проксі-серверів, які використовуються у вашому запиті, [[m:Special:MyLanguage/Global blocks|глобально заблоковано]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Заблокований діапазон — $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Заблокованою адресою проксі-сервера було $1.",
-	"wikimedia-globalblocking-blockedtext-mistake": "Якщо ви вважаєте, що вас заблокували помилково, ви можете знайти додаткову інформацію та інструкції у [[m:Special:MyLanguage/Stewards/Wizard|Майстрі вирішення питань з блокуванням]]."
+	"wikimedia-globalblocking-blockedtext-mistake": "Якщо ви вважаєте, що вас заблокували помилково, ви можете знайти додаткову інформацію та інструкції у [[m:Special:MyLanguage/Stewards/Wizard|Майстрі вирішення питань з блокуванням]].",
+	"wikimedia-skin-minerva-donate-banner-message": "Пожертвувати зараз",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Якщо Вікіпедія корисна для вас, будь ласка, пожертвуйте сьогодні.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Якщо цей сайт був для вас корисним, будь ласка, пожертвуйте сьогодні."
 }

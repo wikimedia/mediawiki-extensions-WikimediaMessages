@@ -446,7 +446,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "The question for the perceived performance internal survey",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Points to the privacy statement specific to the perceived performance internal survey",
 	"ext-quicksurveys-patrollertools-external-survey-question": "The question for the Patroller Tools Use external survey",
-	"ext-quicksurveys-patrollertools-external-survey-link": "The survey link for the AutoModerator Patroller Tools Survey",
+	"ext-quicksurveys-patrollertools-external-survey-link": "{{optional}}\n{{Warning|'''Don't translate this message''' unless you were specifically instructed to do it by people who run the survey.}}\n\nThe survey link for the AutoModerator Patroller Tools Survey.",
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "The privacy policy for the Patroller Tools Use external survey",
 	"wikimedia-switchover-read-only": "Text shown during read only period of database switchovers. Used in [https://www.mediawiki.org/wiki/Manual:$wgReadOnly $wgReadOnly].",
 	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation",

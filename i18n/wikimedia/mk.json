@@ -358,7 +358,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Дали страницава се вчита доволно брзо?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "За повеќе информации, погледајте ја [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement заштитата на личните податоци] во анкетава.",
 	"ext-quicksurveys-patrollertools-external-survey-question": "Дали би биле заинтересирани да пополните кратка анкета за да ги подобриме алатките наменети за отповикување на уредувања на вашето вики?",
-	"ext-quicksurveys-patrollertools-external-survey-link": "https://wikimediafoundation.limesurvey.net/332214?lang=en",
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Изјава за лични податоци]",
 	"wikimedia-switchover-read-only": "Во мигов не можете да уредувате поради одржување. Прекопирајте и зачувајте го текстот, па пробајте за неколку минути.",
 	"passwordpolicies-policy-blockattacker": "Правило за лозинки за ублажување на познати напади, каде обелоденувањето на податоци би го попречувало ублажувањето",
