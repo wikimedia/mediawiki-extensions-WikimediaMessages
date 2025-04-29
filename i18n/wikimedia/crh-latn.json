@@ -15,10 +15,16 @@
 	"wikibase-sitelinks-wikiquote": "Vikisöz",
 	"wikibase-sitelinks-wikisource": "Vikimenba",
 	"wikibase-sitelinks-wikivoyage": "Vikiseyaat",
+	"wikibase-otherprojects-commons": "Viki Cıyıntığı",
+	"wikibase-otherprojects-testwikidata": "Vikimalümat",
+	"wikibase-otherprojects-wikidata": "Vikimalümat",
 	"wikibase-otherprojects-wikipedia": "Vikipediya",
+	"wikibase-sitelinks-sitename-commonswiki": "Viki Cıyıntığı",
+	"wikibase-sitelinks-sitename-wikidatawiki": "Vikimalümat",
 	"createacct-captcha-help-url": "{{ns:Project}}:Qullanıcı esabı istegi",
 	"wikimedia-developers": "Programmacılar",
 	"interlanguage-link-wikipedia": "Vikipediya",
+	"interlanguage-link-commons": "Viki Cıyıntığı",
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-cookiestatement": "Cookies politikası"
 }

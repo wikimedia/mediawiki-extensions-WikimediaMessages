@@ -44,7 +44,8 @@
 			"Varnent",
 			"Wayiran",
 			"ZxxZxxZ",
-			"아라"
+			"아라",
+			"Arasteh"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -217,6 +218,7 @@
 	"group-translationadmin": "مدیران ترجمه",
 	"group-translationadmin-member": "{{GENDER:$1|مدیر ترجمه}}",
 	"grouppage-translationadmin": "{{ns:project}}:مدیران ترجمه",
+	"group-u4c-member": "اعضای U4C",
 	"group-wmf-officeit": "مرکز فناوری اطلاعات بنیاد ویکی‌مدیا",
 	"group-wmf-officeit-member": "{{GENDER:$1|مرکز فناوری اطلاعات بنیاد ویکی‌مدیا}}",
 	"group-wmf-researcher": "پژوهشگران بنیاد ویکی‌مدیا",
