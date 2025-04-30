@@ -60,6 +60,7 @@
 	"group-abusefilter-helper-member": "{{GENDER:$1|aiutante}} dei filtri anti abusi",
 	"group-abusefilter-maintainer": "Maintainer del filtro anti abusi",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|maintainer del filtro anti abusi}}",
+	"group-global-abusefilter-helper-member": "{{GENDER:$1|aiutante}} dei filtri anti abusi",
 	"group-accountcreator": "Creatori di utenze",
 	"group-accountcreator-member": "{{GENDER:$1|creatore|creatrice|creatore/trice}} di utenze",
 	"grouppage-accountcreator": "{{ns:project}}:Creatori di utenze",

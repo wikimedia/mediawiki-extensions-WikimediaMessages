@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"22593",
 			"94rain",
 			"A Chinese Wikipedian",
 			"A2093064",
@@ -97,6 +98,7 @@
 	"group-abusefilter-helper-member": "{{GENDER:$1|滥用过滤器助理}}",
 	"group-abusefilter-maintainer": "滥用过滤器维护员",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|滥用过滤器维护员}}",
+	"group-global-abusefilter-helper": "滥用过滤器助手",
 	"group-accountcreator": "账号创建者",
 	"group-accountcreator-member": "{{GENDER:$1|账号创建者}}",
 	"grouppage-accountcreator": "{{ns:project}}:账号创建者",
