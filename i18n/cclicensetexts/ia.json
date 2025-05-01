@@ -205,7 +205,7 @@
 	"wm-license-cc-sa-1.0-nl-text": "Iste file es disponibile sub le licentia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.en|CompartiSimile 1.0 Nederlandia]].",
 	"wm-license-cc-sa-2.0-jp-text": "Iste file es disponibile sub le licentia [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.en|CompartiSimile 2.0 Japon]].",
 	"wm-license-cc-zero-text": "Iste file es disponibile sub le [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/ Dedication universal al dominio public CC0 1.0].",
-	"wm-license-cc-zero-explanation": "Le persona qui associava un obra con iste documento ha dedicate le obra al [[{{int:wm-license-pd-wiki-link}}|dominio public]] per renunciar a tote su derectos sur le obra in le mundo integre sub lege de copyright, incluse tote le derectos connexe o vicin, tanto como permittite per lege. Tu pote copiar, modificar, distribuer e representar le obra, mesmo pro scopos commercial, toto sin demandar permission.",
+	"wm-license-cc-zero-explanation": "Le persona qui associava un obra con iste documento ha dedicate le obra al [[{{int:wm-license-pd-wiki-link}}|dominio public]] per renunciar a tote su derectos sur le obra in le mundo integre sub lege de copyright, incluse tote le derectos ligate o vicin, al mesura permittite per lege. Tu pote copiar, modificar, distribuer e representar le obra, mesmo pro scopos commercial, toto sin demandar permission.",
 	"wm-license-cc-free": "Tu es libere:",
 	"wm-license-cc-free-to-share-header": "de condivider",
 	"wm-license-cc-free-to-share-text": "de copiar, distribuer e transmitter le obra",
@@ -216,5 +216,5 @@
 	"wm-license-cc-conditions-attribution-text": "Tu debe dar information appropriate sur le autor, fornir un ligamine al licentia, e indicar si modificationes ha essite apportate. Tu pote facer lo de qualcunque maniera rationabile, ma non in alcun modo que suggere que le licentiator approba te o tu uso del obra.",
 	"wm-license-cc-conditions-share_alike-header": "condivider equalmente",
 	"wm-license-cc-conditions-share_alike-text": "Si tu altera, transforma o disveloppa le material, tu debe distribuer tu contributiones sub un [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses licentia identic o compatibile] con le original.",
-	"wm-license-cc-pd-mark-text": "Iste file ha essite identificate como essente libere de restrictiones cognoscite sub lege de copyright, incluse tote le derectos connexe e vicin."
+	"wm-license-cc-pd-mark-text": "Iste file ha essite identificate como essente libere de restrictiones cognoscite sub lege de copyright, incluse tote le derectos ligate e vicin."
 }
