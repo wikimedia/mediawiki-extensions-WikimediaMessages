@@ -27,7 +27,7 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		);
 	}
 
-	public function provideShouldMoveDonateLink() {
+	public static function provideShouldMoveDonateLink() {
 		return [
 			[ false, 1, 'vector', false ],
 			[ false, 0, 'vector', false ],
@@ -178,7 +178,7 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->assertSame( $expected, $sidebar );
 	}
 
-	public function provideOnSidebarBeforeOutput() {
+	public static function provideOnSidebarBeforeOutput() {
 		$baseSidebar = [
 			'test section 1' => [ [ 'id' => 0 ], [ 'id' => 1 ] ],
 			'test section 2' => [ [ 'id' => 2 ] ]
