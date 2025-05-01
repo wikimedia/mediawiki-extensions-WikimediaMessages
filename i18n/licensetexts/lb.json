@@ -6,6 +6,7 @@
 			"Multichill",
 			"Robby",
 			"Soued031",
+			"Volvox",
 			"Zinneke"
 		]
 	},
@@ -78,7 +79,7 @@
 	"wm-license-pd-wiki-link": "w:lb:Domaine public",
 	"wm-license-self-one-license": "Ech, de Besëtzer vum Copyright vun dësem Wierk, publizéieren et heimat ënner dëser Lizenz:",
 	"wm-license-self-one-license-with-author": "$1, de Besëtzer vum Copyright vun dësem Wierk, publizéiert et ënner dëser Lizenz:",
-	"wm-license-self-multiple-licenses": "Ech, deen deen d'Auteursrechter vun dësem Wierk huet, verëffentlechen et heimat ënner dëse Lizenzen:",
+	"wm-license-self-multiple-licenses": "Ech, deejéinegen, deen d'Auteursrechter vun dësem Wierk huet, verëffentlechen et heimat ënner dëse Lizenzen:",
 	"wm-license-self-multiple-licenses-with-author": "$1, deen d'Auteursrechter vun dësem Wierk huet, verëffentlechen et ënner dëse Lizenzen:",
 	"wm-license-self-multiple-licenses-select": "Dir kënnt d'Lizenz vun Ärer Wiel eraussichen."
 }
