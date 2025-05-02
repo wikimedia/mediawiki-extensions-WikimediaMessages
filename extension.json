@@ -63,6 +63,10 @@
 			"class": "MediaWiki\\Extension\\WikimediaMessages\\WikimediaMessagesCampaignEventsHooks"
 		}
 	},
+	"DefaultUserOptions": {
+		"echo-subscriptions-web-boardelection": true,
+		"echo-subscriptions-email-boardelection": true
+	},
 	"Hooks": {
 		"BeforePageDisplay": {
 			"handler": "WikimediaMessagesHooks"
@@ -122,6 +126,35 @@
 		"WikimediaMessagesAnonDonateLink": {
 			"value": false,
 			"description": "Move the donate link for anonymous users from the menu sidebar to login/account creation area"
+		}
+	},
+	"attributes": {
+		"Echo": {
+			"NotificationCategories": {
+				"boardelection": {
+					"title": "wikimedia-boardelection-echo-category-title",
+					"priority": 2,
+					"no-dismiss": [
+						"all"
+					]
+				}
+			},
+			"Notifications": {
+				"boardelection2025": {
+					"category": "boardelection",
+					"group": "neutral",
+					"section": "message",
+					"presentation-model": "MediaWiki\\Extension\\WikimediaMessages\\Notifications\\BoardElection2025PresentationModel"
+				}
+			},
+			"NotificationIcons": {
+				"boardelection": {
+					"path": {
+						"ltr": "WikimediaMessages/modules/Wikimedia-logo_black.svg",
+						"rtl": "WikimediaMessages/modules/Wikimedia-logo_black.svg"
+					}
+				}
+			}
 		}
 	},
 	"manifest_version": 2
