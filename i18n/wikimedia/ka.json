@@ -141,11 +141,11 @@
 	"wikimedia-mobile-mainpage-title-loggedin": "მოგესალმებით, $1!",
 	"wikibase-repo-name": "ვიკიმონაცემები",
 	"wikibase-sitelinks-wikibooks": "ვიკიწიგნები",
-	"wikibase-sitelinks-wikinews": "Wikinews",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikinews": "ვიკისიახლენი",
+	"wikibase-sitelinks-wikiquote": "ვიკიციტატა",
+	"wikibase-sitelinks-wikisource": "ვიკიწყარო",
 	"wikibase-sitelinks-wikiversity": "ვიკივერსიტეტი",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-sitelinks-wikivoyage": "ვიკივოიაჟი",
 	"wikibase-otherprojects-commons": "ვიკისაწყობი",
 	"wikibase-otherprojects-testwikidata": "ვიკიმონაცემები",
 	"wikibase-otherprojects-mediawiki": "მედიავიკი",
@@ -170,7 +170,7 @@
 	"wikibase-sitelinks-sitename-wikidatawiki": "ვიკიმონაცემები",
 	"cant-delete-main-page": "თქვენ არ შეგიძლიათ მთავარი გვერდის წაშლა ან გადატანა.",
 	"upload-more-photos-of-this-monument": "ამ ობიექტის უფრო მეტი ფოტოს ატვირთვა",
-	"wikimedia-developers": "პროგრამისტები",
+	"wikimedia-developers": "შემქმნელები",
 	"wikimedia-globalblocking-ipblocked": "'''თქვენი IP-მისამართი [[m:Special:MyLanguage/Global blocks|ყველა ვიკი-პროექტში დაიბლოკა]].'''\n\nბლოკირება განახორციელა $1 ($2).\nმითითებული მიზეზი: ''$3''.\n\n* ბლოკირების დაწყება: $4 \n* ბლოკირების დასრულება: $5 \n\nთქვენი მიმდინარე IP-მისამართია - $6.\nგთხოვთ, ეს ყველაფერი მიუთითოთ თქვენ მიმართვაში.\n\nთუ თვლით, რომ შეცდომით დაიბლოკეთ, ამის შესახებ დამატებითი ინფორმაცია და ინსტუქცია შეგიძლიათ იხილოთ [[m:Special:MyLanguage/No open proxies|ღია პროქსი-სერვერების გამოყენების დაუშვებლობის]] გლობალური წესების გვერდზე.\nწინააღმდეგ შემთხვევაში, ბლოკირების გასაჩივრებისათვის, გთხოვთ მიმართოთ [[m:Steward requests/Global|მეტაზე]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''ერთი ან მეტი პროქსი-სერვერი, რომელსაც თქვენ იყენებთ, [[m:Special:MyLanguage/Global blocks|ყველა ვიკი-პროექტში დაიბლოკა]].'''\n\nბლოკირება განახორციელა $1 ($2).\nმითითებული მიზეზი: ''$3''.\n\n* ბლოკირების დაწყება: $4 \n* ბლოკირების დასრულება: $5 \n\nთქვენი მიმდინარე IP-მისამართია - $6.\nგთხოვთ, ეს ყველაფერი მიუთითოთ თქვენ მიმართვაში.\n\nთუ თვლით, რომ შეცდომით დაიბლოკეთ, ამის შესახებ დამატებითი ინფორმაცია და ინსტუქცია შეგიძლიათ იხილოთ [[m:Special:MyLanguage/No open proxies|ღია პროქსი-სერვერების გამოყენების დაუშვებლობის]] გლობალური წესების გვერდზე.\nწინააღმდეგ შემთხვევაში, ბლოკირების გასაჩივრებისათვის, გთხოვთ მიმართოთ [[m:Steward requests/Global|მეტაზე]].",
 	"upload-form-label-own-work-message-commons": "მე ვადასტურებ, რომ ამ ფაილზე საავტორო უფლებების მფლობელი ვარ და ვთანხმდები ამ ფაილის შეუქცევადად განთავსებაზე ვიკისაწყობში [https://creativecommons.org/licenses/by-sa/4.0/deed.ka Creative Commons Attribution-ShareAlike 4.0] ლიცენზიით, აგრეთვე ვეთანხმები [https://foundation.wikimedia.org/wiki/Terms_of_Use გამოყენების წესებს].",
@@ -193,5 +193,6 @@
 	"eri-wlfilters-tour-intro-preferences-description": "კონტროლის სიის გაუმჯობესებული ვერსიის გასათიშად ნებისმიერ დროს გადადით პარამეტრების სექციაში „კონტროლის სია“.",
 	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]",
 	"wikimedia-statslink": "სტატისტიკა",
-	"wikimedia-cookiestatement": "ქუქიების პოლიტიკა"
+	"wikimedia-cookiestatement": "ქუქიების პოლიტიკა",
+	"ipinfo-global-contributions-url-label": "გლობალური წვლილი"
 }

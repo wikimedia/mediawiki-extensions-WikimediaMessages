@@ -48,7 +48,7 @@
 	"group-abusefilter": "עורכי מסנן ההשחתות",
 	"group-abusefilter-member": "{{GENDER:$1|עורך|עורכת}} מסנן ההשחתות",
 	"grouppage-abusefilter": "{{ns:project}}:עורך מסנן ההשחתה",
-	"group-abusefilter-helper": "עוזר במסנן ההשחתות",
+	"group-abusefilter-helper": "עוזרים במסנן ההשחתות",
 	"group-abusefilter-helper-member": "{{GENDER:$1|עוזר|עוזרת}} במסנן ההשחתות",
 	"group-abusefilter-maintainer": "מתחזקי מסנן ההשחתות",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|מתחזק|מתחזקת}} מסנן ההשחתות",
