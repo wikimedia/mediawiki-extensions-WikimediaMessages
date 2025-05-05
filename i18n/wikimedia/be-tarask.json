@@ -193,6 +193,7 @@
 	"action-editautopatrolprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-editautopatrolprotected}}»",
 	"right-edittrustedprotected": "Рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»",
 	"action-edittrustedprotected": "рэдагаваньне старонак, абароненых як «{{int:protect-level-edittrustedprotected}}»",
+	"ipinfo-global-contributions-url-label": "Глябальны ўнёсак",
 	"wikimedia-foundation-projects-of-label-nolink": "Праекты Фундацыі «Вікімэдыя»",
 	"wikimedia-projects-label": "Праекты Вікімэдыі",
 	"wikimedia-help-translate-prompt": "Жадаеце дапамагчы зь перакладам? [$1 Перакладзіце адсутныя паведамленьні]."

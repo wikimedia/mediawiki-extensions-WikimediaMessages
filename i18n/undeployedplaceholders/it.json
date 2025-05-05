@@ -4,5 +4,9 @@
 			"Beta16"
 		]
 	},
-	"wikimedia-log-action-filter-usermerge": "Tipo di azione:"
+	"wikimedia-log-action-filter-usermerge": "Tipo di azione:",
+	"wikimedia-graph-tracking-category": "Pagine con grafici",
+	"wikimedia-graph-tracking-category-desc": "La pagina include un tag <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Pagine con errori nei grafici",
+	"wikimedia-graph-broken-category-desc": "La pagina include un tag <code>&lt;graph&gt;</code> con utilizzo non valido."
 }

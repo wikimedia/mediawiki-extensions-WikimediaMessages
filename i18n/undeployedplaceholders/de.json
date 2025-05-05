@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Benutzerkontenzusammenführung",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Benutzerkontenlöschung",
 	"wikimedia-usermerge-logpage": "Benutzerkontenzusammenführungs-Logbuch",
-	"wikimedia-usermerge-logpagetext": "Dies ist das Logbuch der Benutzerkontenzusammenführungen."
+	"wikimedia-usermerge-logpagetext": "Dies ist das Logbuch der Benutzerkontenzusammenführungen.",
+	"wikimedia-graph-tracking-category": "Seiten mit Diagrammen",
+	"wikimedia-graph-tracking-category-desc": "Die Seite enthält eine <code>&lt;graph&gt;</code>-Markierung.",
+	"wikimedia-graph-broken-category": "Seiten mit defekten Diagrammen",
+	"wikimedia-graph-broken-category-desc": "Die Seite enthält eine <code>&lt;graph&gt;</code>-Markierung mit einer ungültigen Verwendung."
 }
