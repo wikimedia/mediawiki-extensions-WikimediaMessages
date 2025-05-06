@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Aristorkle",
+			"Noooote",
 			"WikiEditor50"
 		]
 	},
 	"wm-license-information-description": "Descripcion",
-	"wm-license-information-source": "Codigo",
+	"wm-license-information-source": "Source",
 	"wm-license-information-date": "Fecha",
 	"wm-license-information-author": "Autor"
 }

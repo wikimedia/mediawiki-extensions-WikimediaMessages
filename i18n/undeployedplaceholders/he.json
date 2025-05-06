@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "מיזוג חשבונות משתמש",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "מחיקת חשבון משתמש",
 	"wikimedia-usermerge-logpage": "יומן מיזוג משתמשים",
-	"wikimedia-usermerge-logpagetext": "זהו יומן של פעולות מיזוג המשתמשים."
+	"wikimedia-usermerge-logpagetext": "זהו יומן של פעולות מיזוג המשתמשים.",
+	"wikimedia-graph-tracking-category": "דפים עם תרשימים",
+	"wikimedia-graph-tracking-category-desc": "הדף הזה מכיל תג <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "דפים עם תרשימים מקולקלים",
+	"wikimedia-graph-broken-category-desc": "הדף הזה מכיל תג <code>&lt;graph&gt;</code> עם שימוש בלתי־תקין."
 }

@@ -17,7 +17,9 @@
 	"wm-commonstrings-enterquestion": "Хьайн хаттар йазде.",
 	"wm-commonstrings-events": "Мероприяти",
 	"wm-commonstrings-externallinks": "Арахьара хьажоргаш",
+	"wm-commonstrings-feedback": "Йуханехьа зӀе",
 	"wm-commonstrings-follow": "Йаздала",
+	"wm-commonstrings-leadership": "Лидералла",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Коьрта йаззам: $1|Коьрта йаззамаш: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Коьрта агӀо: $1|Коьрта агӀонаш: $1}}",
 	"wm-commonstrings-mywork": "Сан гӀуллакхаш",
@@ -41,5 +43,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Дацдар|Дацдарш}}",
 	"wm-commonstrings-staff": "Белхахой",
 	"wm-commonstrings-talktous": "Тхоьца дийцаре де",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Кеп}}",
 	"wm-commonstrings-updates": "Карладахарш"
 }

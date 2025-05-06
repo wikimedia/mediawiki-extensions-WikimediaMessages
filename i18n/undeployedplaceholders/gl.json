@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusión de contas de usuario",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Eliminación de contas de usuario",
 	"wikimedia-usermerge-logpage": "Rexistro de fusión de usuarios",
-	"wikimedia-usermerge-logpagetext": "Este é un rexistro das accións de fusión de usuarios."
+	"wikimedia-usermerge-logpagetext": "Este é un rexistro das accións de fusión de usuarios.",
+	"wikimedia-graph-tracking-category": "Páxinas con gráficos",
+	"wikimedia-graph-tracking-category-desc": "A páxina inclúe unha etiqueta <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Páxinas con gráficos rotos",
+	"wikimedia-graph-broken-category-desc": "A páxina inclúe unha etiqueta <code>&lt;graph&gt;</code> con uso non válido."
 }
