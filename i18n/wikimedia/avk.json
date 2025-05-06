@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Axel xadolik",
-			"Wikimistusik"
+			"Wikimistusik",
+			"Lisyeng"
 		]
 	},
 	"sitesupport": "Zobera",
@@ -13,5 +14,6 @@
 	"wikibase-sitelinks-wikiquote": "Wikiozwaks",
 	"wikibase-sitelinks-wikisource": "Wikikrent",
 	"wikibase-sitelinks-wikivoyage": "Wikikoyara",
-	"wikimedia-developers": "Vonesik"
+	"wikimedia-developers": "Vonesik",
+	"wikimedia-statslink": "Enkopaca"
 }
