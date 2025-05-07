@@ -3,7 +3,7 @@
 		"authors": []
 	},
 	"wikimediamessages-desc": "Wikimedia specific messages",
-	"sitesupport-url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign={{SERVERNAME}}&uselang={{USERLANGUAGE}}",
+	"sitesupport-url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign={{SERVERNAME}}&uselang={{CONTENTLANGUAGE}}",
 	"sitesupport": "Donate",
 	"tooltip-n-sitesupport": "Support us",
 	"specialpages-group-contribution": "Contribution/Fundraiser",
