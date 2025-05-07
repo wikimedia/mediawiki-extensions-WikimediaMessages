@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Спојување на корисничка сметка",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Бришење на корисничка сметка",
 	"wikimedia-usermerge-logpage": "Дневник на спојувања на кориснички сметки",
-	"wikimedia-usermerge-logpagetext": "Ова е дневник на спојувања на кориснички имиња."
+	"wikimedia-usermerge-logpagetext": "Ова е дневник на спојувања на кориснички имиња.",
+	"wikimedia-graph-tracking-category": "Страници со графикони",
+	"wikimedia-graph-tracking-category-desc": "Страницава содржи ознака <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Страници со расипани графикони",
+	"wikimedia-graph-broken-category-desc": "Страницава содржи ознака <code>&lt;graph&gt;</code> која се употребува неправилно."
 }
