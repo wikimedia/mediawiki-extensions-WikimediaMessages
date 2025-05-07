@@ -84,5 +84,5 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "If this site has been useful to you, please give today.",
 	"wikimedia-skin-minerva-donate-banner-reduced-motion": "https://en.wikipedia.org/static/images/donate/donate.png",
 	"wikimedia-skin-minerva-donate-banner-gif": "https://en.wikipedia.org/static/images/donate/donate.gif",
-	"wikimedia-skin-minerva-donate-banner-url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign={{SERVERNAME}}&uselang={{USERLANGUAGE}}&wmf_key=minerva"
+	"wikimedia-skin-minerva-donate-banner-url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign={{SERVERNAME}}&uselang={{CONTENTLANGUAGE}}&wmf_key=minerva"
 }
