@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Axel xadolik",
-			"Wikimistusik"
+			"Wikimistusik",
+			"Lisyeng"
 		]
 	},
 	"sitesupport": "Zobera",
@@ -15,5 +16,6 @@
 	"wikibase-sitelinks-wikivoyage": "Wikikoyara",
 	"wikimedia-developers": "Vonesik",
 	"wikimedia-globalblocking-ipblocked": "'''Rinafe IP mane [[m:Special:MyLanguage/Global blocks|dene koto wiki xo]] su zo elekar.\n\nElekara gan $1 ($2) zo skuyur.\nDafuna lazava tir ''$3''.\n\n* Tozura va elekara : $4\n* Tenura va elekara : $5\n\nRinafe refe IP mane tir $6.\nVay va kota vamoefa pinta koe kona staksetena kucilara stragal !!\n\nEde trakul da elekara tir rokla, va loa giva robazel ko [[m:Special:MyLanguage/No open proxies|No open proxies]]  jadif vertak.\nOstik, ta prilara va elekara, [[m:Steward requests/Global|va gorindetena kucilara pu Meta-Wiki staksel]], vay !!",
-	"wikimedia-globalblocking-ipblocked-xff": "'''Tano ok loo \"proxy\" zanisiko faveno gan rinafa tegira [[m:Special:MyLanguage/Global blocks|kotliz zo elekad]].'''\n\nElekara gan $1 ($2) zo skuyur.\nDafuna lazava tir ''$3''.\n\n* Tozura va elekara : $4\n* Tenura va elekara : $5\n\nRinafe refe IP mane tir $6.\nVay va kota vamoefa pinta koe kona staksetena kucilara stragal !!\n\nEde trakul da elekara tir rokla, va loa giva robazel ko [[m:Special:MyLanguage/No open proxies|No open proxies]]  jadif vertak.\nOstik, ta prilara va elekara, [[m:Steward requests/Global|va gorindetena kucilara pu Meta-Wiki staksel]], vay !!"
+	"wikimedia-globalblocking-ipblocked-xff": "'''Tano ok loo \"proxy\" zanisiko faveno gan rinafa tegira [[m:Special:MyLanguage/Global blocks|kotliz zo elekad]].'''\n\nElekara gan $1 ($2) zo skuyur.\nDafuna lazava tir ''$3''.\n\n* Tozura va elekara : $4\n* Tenura va elekara : $5\n\nRinafe refe IP mane tir $6.\nVay va kota vamoefa pinta koe kona staksetena kucilara stragal !!\n\nEde trakul da elekara tir rokla, va loa giva robazel ko [[m:Special:MyLanguage/No open proxies|No open proxies]]  jadif vertak.\nOstik, ta prilara va elekara, [[m:Steward requests/Global|va gorindetena kucilara pu Meta-Wiki staksel]], vay !!",
+	"wikimedia-statslink": "Enkopaca"
 }
