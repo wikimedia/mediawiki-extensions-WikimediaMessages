@@ -7,5 +7,7 @@
 	"wikimedia-log-action-filter-usermerge": "조치 유형:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "사용자 계정 병합",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "사용자 계정 삭제",
-	"wikimedia-usermerge-logpage": "사용자 병합 기록"
+	"wikimedia-usermerge-logpage": "사용자 병합 기록",
+	"wikimedia-graph-tracking-category": "그래프가 있는 문서",
+	"wikimedia-graph-broken-category": "손상된 그래프가 포함된 문서"
 }

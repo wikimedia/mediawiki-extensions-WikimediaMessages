@@ -11,5 +11,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "دمج حساب المستخدم",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "حذف حساب المستخدم",
 	"wikimedia-usermerge-logpage": "سجل دمج المستخدمين",
-	"wikimedia-usermerge-logpagetext": "هذا هو سجل إجراءات دمج المستخدم."
+	"wikimedia-usermerge-logpagetext": "هذا هو سجل إجراءات دمج المستخدم.",
+	"wikimedia-graph-tracking-category": "الصفحات التي تحتوي على الرسوم البيانية",
+	"wikimedia-graph-tracking-category-desc": "تتضمن الصفحة علامة <code><graph></code> .",
+	"wikimedia-graph-broken-category": "الصفحات ذات الرسوم البيانية المكسورة",
+	"wikimedia-graph-broken-category-desc": "تتضمن الصفحة علامة <code>&lt;graph&gt;</code> ذات استخدام غير صالح."
 }
