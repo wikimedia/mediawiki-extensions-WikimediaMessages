@@ -49,7 +49,8 @@
 			"콩가루",
 			"Suleiman the Magnificent Television",
 			"Samoasambia",
-			"YeBoy371"
+			"YeBoy371",
+			"리듬"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -361,6 +362,7 @@
 	"gadget-souspages-subpages": "하위 문서",
 	"readinglists-import-app-with-link": "위키백과 앱의 최신 버전을 [$1 다운로드]하여 설치:",
 	"research-incentive-answer-positive": "예",
+	"research-incentive-answer-negative": "아니오",
 	"ipinfo-global-contributions-url-label": "전역 기여",
 	"wikimedia-projects-label": "위키미디어 프로젝트",
 	"wikimedia-news-label": "위키미디어 뉴스",
@@ -378,6 +380,7 @@
 	"wikimedia-questions-label": "위키미디어에 대한 질문이 있으신가요?",
 	"wikimedia-foundation-questions-prompt": "위키미디어 재단이나 우리 프로젝트에 대한 질문이 있으신가요? 저희 팀에 연락하세요.",
 	"wikimedia-foundation-questions-prompt-withemail": "위키미디어 재단에 대한 질문이 있으신가요? '''answers@wikimedia.org'''로 이메일을 보내 저희 팀에 문의하세요.",
+	"wikimedia-foundation-footer-description-short": "위키미디어 재단은 자유로운 다언어 콘텐트의 성장, 개발, 배포를 촉진하고, 이들 공공 무료 위키기반 프로젝트들의 전체 콘텐트를 제공하는 데 전념하는 비영리자선단체입니다.",
 	"wikimedia-translation-disclaimer-nolink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, 영어 원본이 우선한다는 점을 주의하십시오.",
 	"wikimedia-translation-disclaimer-withlink": "이 문서의 영어 원본 버전과 번역본 간에 의미나 해석에 차이가 있는 경우, [[$1|영어 원본]]이 우선한다는 점을 주의하십시오."
 }
