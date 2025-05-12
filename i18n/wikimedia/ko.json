@@ -49,7 +49,8 @@
 			"Suleiman the Magnificent Television",
 			"Varnent",
 			"Samoasambia",
-			"YeBoy371"
+			"YeBoy371",
+			"리듬"
 		]
 	},
 	"wikimediamessages-desc": "위키미디어 전용 메시지",
@@ -361,5 +362,6 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "확실치 않음",
 	"gadget-souspages-subpages": "하위 문서",
 	"research-incentive-answer-positive": "예",
+	"research-incentive-answer-negative": "아니오",
 	"ipinfo-global-contributions-url-label": "전역 기여"
 }

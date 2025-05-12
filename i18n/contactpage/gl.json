@@ -46,9 +46,9 @@
 	"contactpage-affcom-user-group-logo-label": "'''Logotipo'''\n* Que logotipo que desexa utilizar para o seu grupo?",
 	"contactpage-affcom-user-group-rules-label": "'''Normas para o grupo de usuarios'''\n* Vostede está cualificado para formar un grupo de usuarios se ten pelo menos tres membros con 300 ou máis contribucións nun dos proxectos Wikimedia nunha conta rexistrada que leve creada máis de seis meses, e cumpren con [[Wikimedia user groups/Agreement and code of conduct|o acordo de grupos e código de conduta]]:\n** Debe seguir as normas da [[wmf:Trademark policy|política de marca]]\n** Vostede é independente doutras organizacións Wikimedia\n* Despois de enviar este formulario, un membro da [[Affiliations Committee|Comité de Afiliacións]] contactará con vostede para axudalo nos seguintes pasos\n* Coñeza máis sobre os [[Wikimedia user groups|grupos de usuarios Wikimedia]]",
 	"contactpage-affcom-user-group-terms-label": "Eu lin e concordo coas regras de arriba, co [[Wikimedia user groups/Agreement and code of conduct|acordo de grupo de usuarios e o código de conduta]].",
-	"contactpage-affcom-user-group-logo-wm-logo": "''Se quere usar o '''logo de Wikimedia''', vostede pode [[Special:Contact/requestlicense|solicitar una licenza de marca]].''",
-	"contactpage-affcom-user-group-logo-community": "Logotipo da comunidade Wikimedia",
-	"contactpage-affcom-user-group-logo-affiliate": "Logotipo de afiliado a Wikimedia",
+	"contactpage-affcom-user-group-logo-wm-logo": "''Se queres utilizar o '''logotipo da Wikimedia''', podes [[Special:Contact/requestlicense|solicitar una licenza de marca rexistrada]].''",
+	"contactpage-affcom-user-group-logo-community": "Logotipo da comunidade da Wikimedia",
+	"contactpage-affcom-user-group-logo-affiliate": "Logotipo de afiliación á Wikimedia",
 	"contactpage-affcom-chapter-thorg-legal-status-label": "Declaración de situación xurídica",
 	"contactpage-affcom-chapter-thorg-group-mission-label": "Misión do grupo",
 	"contactpage-affcom-chapter-thorg-inclusivity-label": "Inclusión",
@@ -58,10 +58,12 @@
 	"contactpage-affcom-chapter-thorg-elections-label": "Eleccións",
 	"contactpage-affcom-chapter-thorg-representation-label": "Representación",
 	"contactpage-affcom-chapter-thorg-coc-label": "Código de conduta",
-	"contactpage-title-stewards": "Contactar ós Stewards",
-	"contactpage-stewards-disclaimer-label": "Advertencia: Toda a información que inclúas neste formulario envíase, procésase e respóndese por parte de membros voluntarios da comunidade (específicamente [[Special:MyLanguage/Stewards|stewards]]), non pola Fundación Wikimedia. Por favor, non inclúas ningunha información que non consideres axeitada para compartir cos voluntarios Wikimedia. As respostas e outra correspondencia relacionada co procesamento da información enviada non se consideran afirmacións oficiais da Fundación Wikimedia. Para correspondencia oficial, por favor contacta á Fundación Wikimedia empregando algún dos métodos listados en https://wikimediafoundation.org/about/contact/.",
+	"contactpage-title-stewards": "Contactar cos stewards",
+	"contactpage-stewards-disclaimer-label": "Advertencia: Toda a información que inclúas neste formulario envíase, procésase e respóndese por parte de membros voluntarios da comunidade (especificamente [[Special:MyLanguage/Stewards|stewards]]), non pola Fundación Wikimedia. Non inclúas ningunha información que non consideres axeitada para compartir cos voluntarios da Wikimedia. As respostas e outra correspondencia relacionada co procesamento da información enviada non se consideran declaracións oficiais da Fundación Wikimedia. Para a correspondencia oficial, contacta coa Fundación Wikimedia empregando algún dos métodos listados en https://wikimediafoundation.org/about/contact/.",
+	"contactpage-movecom-signup-username-label": "O(s) teu(s) nome(s) de usuario",
 	"contactpage-movecom-signup-affiliation-foundation": "Fundación Wikimedia",
 	"contactpage-movecom-signup-display-name": "Nome",
 	"contactpage-movecom-signup-display-username": "Nome de usuario",
-	"contactpage-movecom-signup-display-nameusername": "Nome e nome de usuario"
+	"contactpage-movecom-signup-display-nameusername": "Nome e nome de usuario",
+	"contactpage-ombudscommission-case-explanation": "Explica o que aconteceu:"
 }
