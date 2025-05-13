@@ -1117,43 +1117,6 @@ class Hooks implements
 			],
 		];
 
-		$wgGrammarForms['et'] = [
-			'genitive' => [
-				'Vikisõnastik'  => 'Vikisõnastiku',
-				'Vikitekstid'   => 'Vikitekstide',
-				'Vikitsitaadid' => 'Vikitsitaatide',
-				'Vikiõpikud'    => 'Vikiõpikute',
-			],
-			'partitive' => [
-				'Vikipeedia'    => 'Vikipeediat',
-				'Vikisõnastik'  => 'Vikisõnastikku',
-				'Vikitekstid'   => 'Vikitekste',
-				'Vikitsitaadid' => 'Vikitsitaate',
-				'Vikiõpikud'    => 'Vikiõpikuid',
-			],
-			'illative' => [
-				'Vikipeedia'    => 'Vikipeediasse',
-				'Vikisõnastik'  => 'Vikisõnastikku',
-				'Vikitekstid'   => 'Vikitekstidesse',
-				'Vikitsitaadid' => 'Vikitsitaatidesse',
-				'Vikiõpikud'    => 'Vikiõpikutesse',
-			],
-			'inessive' => [
-				'Vikipeedia'    => 'Vikipeedias',
-				'Vikisõnastik'  => 'Vikisõnastikus',
-				'Vikitekstid'   => 'Vikitekstides',
-				'Vikitsitaadid' => 'Vikitsitaatides',
-				'Vikiõpikud'    => 'Vikiõpikutes',
-			],
-			'elative' => [
-				'Vikipeedia'    => 'Vikipeediast',
-				'Vikisõnastik'  => 'Vikisõnastikust',
-				'Vikitekstid'   => 'Vikitekstidest',
-				'Vikitsitaadid' => 'Vikitsitaatidest',
-				'Vikiõpikud'    => 'Vikiõpikutest',
-			],
-		];
-
 		$wgGrammarForms['fi'] = [
 			'genitive' => [
 				'Wikiuutiset' => 'Wikiuutisten',
