@@ -381,6 +381,7 @@
 	"restriction-level-editautopatrolprotected": "защита от неавтопатрулируемых",
 	"right-editautopatrolprotected": "Правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",
 	"action-editautopatrolprotected": "правка страниц, защищённых как «{{int:protect-level-editautopatrolprotected}}»",
+	"group-docseditor": "Редакторы документации",
 	"ext-quicksurveys-name": "Быстрые опросы",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
