@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"BadDog",
-			"Milicevic01"
+			"Milicevic01",
+			"Aca"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|објединио|објединила}} је кориснички налог „$4” ($5) у {{GENDER:$8|$6}} ($7)",

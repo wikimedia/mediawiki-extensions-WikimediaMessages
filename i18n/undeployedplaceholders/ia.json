@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusion de contos de usator",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Deletion del conto de usator",
 	"wikimedia-usermerge-logpage": "Registro de fusiones de usatores",
-	"wikimedia-usermerge-logpagetext": "Isto es un registro de actiones de fusion de usatores."
+	"wikimedia-usermerge-logpagetext": "Isto es un registro de actiones de fusion de usatores.",
+	"wikimedia-graph-tracking-category": "Paginas con graphicos",
+	"wikimedia-graph-tracking-category-desc": "Le pagina include un etiquetta <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Paginas con graphicos rupte",
+	"wikimedia-graph-broken-category-desc": "Le pagina include un etiquetta <code>&lt;graph&gt;</code> con uso non valide."
 }
