@@ -79,6 +79,7 @@
 	"group-botadmin": "Bot con diritti di amministratore",
 	"group-botadmin-member": "{{GENDER:$1|bot con diritti di amministratore}}",
 	"grouppage-botadmin": "{{ns:project}}:Bot con diritti di amministratore",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|visualizzatore|visualizzatrice|visualizzatore/trice}} di IP delle utenze temporanee",
 	"group-confirmed": "Utenti confermati",
 	"group-confirmed-member": "{{GENDER:$1|utente confermato|utente confermata|utente confermato/a}}",
 	"grouppage-confirmed": "{{ns:project}}:Utenti confermati",
