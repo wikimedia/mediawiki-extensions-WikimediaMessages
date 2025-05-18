@@ -450,8 +450,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "The privacy policy for the Patroller Tools Use external survey",
 	"wikimedia-switchover-read-only": "Text shown during read only period of database switchovers. Used in [https://www.mediawiki.org/wiki/Manual:$wgReadOnly $wgReadOnly].",
 	"passwordpolicies-policy-blockattacker": "Password policy that has an undisclosed function, and disclosing details would impede the mitigation",
-	"technical-maintenance-soon": "The first part of a message used in a banner shown during maintenance window",
-	"technical-maintenance-edit": "A message shown during maintenance window when editing is locked",
 	"grouppage-oathauth-tester": "{{ignored}}\n{{notranslate}}\n{{doc-group|oathauth-tester|page}}\n{{global grouppage}}",
 	"group-oathauth-tester": "{{doc-group|oathauth-tester}}",
 	"group-oathauth-tester-member": "{{doc-group|oathauth-tester|member}}",
