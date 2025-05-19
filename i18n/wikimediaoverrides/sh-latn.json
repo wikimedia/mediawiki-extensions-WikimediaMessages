@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Winston Sung",
-			"BadDog"
+			"BadDog",
+			"Aca"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "U posljednjem danu s Vaše IP adrese su već napravili {{PLURAL:$1|jedan račun|$1 računa}}, što je najveći dopušteni broj tijekom jednog dana. Kao rezultat ne može trenutno praviti više računa za ovaj period.\n\nAko ste na događaju na kojem je doprinos Wikipedijinim projektima u fokusu, unesite [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|zahtjev za privremeno ukidanje IP ograničenja]].",

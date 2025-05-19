@@ -10,7 +10,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Visiteuren op dëser Wiki déi Är IP-Adress benotzt hunn, hunn {{PLURAL:$1|ee Benotzerkont|$1 Benotzerkonten}} an de leschte Deeg ugeluecht. Dat ass de Maximum deen an deem Zäitraum erlaabt ass. Dofir kënne Benotzer déi dës IP-Adress benotzen den Ament keng nei Benotzerkonte méi uleeën.\n\nWann Dir bei engem Evenement sidd op deem d'Matmaache bei Wikimedia-Projeten am Fokus steet, da kuckt wgl. [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Ufroe fir temporär d'Limit fir IP-Adressen ze héijen]] fir ze hëllefen dëse Probleem ze léisen.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "Dir kënnt op [[m:Special:CentralAuth/$1|anere Wikimedia-Projeten, op deenen Dir matschafft]], d' Säit mat Ären Astellunge besichen, fir Är Benotzerdate vum respektive Projet erofzelueden.",
+	"wikimedia-prefs-user-downloaddata-help-message": "Dir kënnt op [[m:Special:CentralAuth/$1|anere Wikimedia-Projeten, op deenen Dir matschafft]], d'Säit mat Ären Astellunge besichen, fir Är Benotzerdate vum respektive Projet erofzelueden.",
 	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
 	"wikimedia-centralauth-groupname": "der Wikimedia Fondatioun",
 	"wikimedia-centralauth-login-error-locked": "<strong>Dëse Benotzerkont ass [[m:Special:MyLanguage/Global locks|global gespaart]]</strong>. {{GENDER:$1|Dir}} kënnt Iech op kenger Wikimedia-Wiki umelle kënnen. [[m:Special:Contact/stewards|Kontaktéiert wgl. d'Stewarden]], wann {{GENDER:$1|Dir}} Froen dozou hutt.",
