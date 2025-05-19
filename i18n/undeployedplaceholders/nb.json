@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Kontosammenslåing",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Kontosletting",
 	"wikimedia-usermerge-logpage": "Brukersammenslåingslogg",
-	"wikimedia-usermerge-logpagetext": "Dette er en logg over brukersammenslåinger."
+	"wikimedia-usermerge-logpagetext": "Dette er en logg over brukersammenslåinger.",
+	"wikimedia-graph-tracking-category": "Sider med grafer",
+	"wikimedia-graph-tracking-category-desc": "Siden inneholder en <code>&lt;graph&gt;</code>-tagg.",
+	"wikimedia-graph-broken-category": "Sider med ødelagte grafer",
+	"wikimedia-graph-broken-category-desc": "Siden inkluderer en <code>&lt;graph&gt;</code>-tagg med ugyldig bruk."
 }

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"Къарачайлы"
 		]
 	},
 	"wm-commonstrings-activities": "Этиуле",
@@ -14,7 +15,7 @@
 	"wm-commonstrings-ongoing": "Тыйгъычсыз",
 	"wm-commonstrings-open": "Ачыкъ",
 	"wm-commonstrings-overview": "Кёрюнюу",
-	"wm-commonstrings-participate": "Къошулургъа",
+	"wm-commonstrings-participate": "Къошул",
 	"wm-commonstrings-questions": "Соруула?",
 	"wm-commonstrings-register-account": "Хыйсабны регистрация эт",
 	"wm-commonstrings-reports": "Отчётла",

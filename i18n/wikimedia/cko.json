@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Biema",
+			"Nachim",
 			"Salifu Ramatu"
 		]
 	},
-	"sitesupport": "Bú kɛ"
+	"sitesupport": "Bú kɛ",
+	"wikimedia-developers": "Yofɔm",
+	"wikimedia-statslink": "Akunta fifitinu",
+	"wikimedia-cookiestatement": "Cookie jɔrɛɛm"
 }
