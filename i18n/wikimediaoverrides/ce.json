@@ -34,5 +34,7 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Конфиденциаллалин политика]",
 	"wikimedia-ipinfo-preference-use-agreement": "Аса тӀелоцу хӀара гӀирс [https://foundation.wikimedia.org/wiki/Special:MyLanguage/IP_Information_tool_guidelines IP лелоран куьйгаллин] низамца лело, Викимедин фондан бакъонаш ларйеш.",
 	"wikimedia-centralauth-admin-log-otherwiki": "ХӀара аккаунт блоктоьхна йу. Кхин дӀа а хьажа [[meta:Special:CentralAuth/$1|глобалан аккаунтан хаамаш Meta-Wiki тӀехь]].",
+	"wikimedia-globalblocking-blockedtext-ip-range": "Блоктоьхна диапазон — $1.",
+	"wikimedia-globalblocking-blockedtext-proxy": "Блоктоьхна прокси-адрес $1 дара.",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Аса тӀелоцу декъашхочун информаци лелор, мероприятин регистраци йечу хенахь гулйина йолу декъашхочун информаци ларлуш лело, цул сов [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Лелоран билламашца]."
 }

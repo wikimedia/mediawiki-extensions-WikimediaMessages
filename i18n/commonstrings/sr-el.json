@@ -1,0 +1,32 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wm-commonstrings-aboutme": "O meni",
+	"wm-commonstrings-background": "Pozadina",
+	"wm-commonstrings-closed": "Zatvoreno",
+	"wm-commonstrings-conclusion": "Zaključak",
+	"wm-commonstrings-contactus": "Kontakt",
+	"wm-commonstrings-enterquestion": "Unesite Vaše pitanje.",
+	"wm-commonstrings-events": "Događaji",
+	"wm-commonstrings-externallinks": "Spoljašnje veze",
+	"wm-commonstrings-follow": "Prati",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Glavni članak: $1|Glavni članci: $1}}",
+	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Početna stranica: $1|Početne stranice: $1}}",
+	"wm-commonstrings-mywork": "Moj rad",
+	"wm-commonstrings-news-events": "Vesti i događaji",
+	"wm-commonstrings-objectives": "Ciljevi",
+	"wm-commonstrings-ongoing": "U toku",
+	"wm-commonstrings-open": "Otvoreno",
+	"wm-commonstrings-overview": "Pregled",
+	"wm-commonstrings-please-remember": "Ne zaboravite da: $1",
+	"wm-commonstrings-policies-guidelines": "Politike i smernice",
+	"wm-commonstrings-projects-collaborations": "Projekti i saradnja",
+	"wm-commonstrings-purpose": "Svrha",
+	"wm-commonstrings-questions": "Pitanja?",
+	"wm-commonstrings-reports": "Izveštaji",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Rezolucija|Rezolucije}}",
+	"wm-commonstrings-scope": "Delokrug",
+	"wm-commonstrings-seealso": "Vidi još",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Prečica|Prečice}}"
+}
