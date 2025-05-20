@@ -470,6 +470,7 @@
 	"research-incentive-privacy": "اطلع على سياسة الخصوصية الخاصة بنا وتعرف على المزيد حول برنامج البحث [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ar هنا]",
 	"research-incentive-confirm-msg": "شكرًا!",
 	"ipinfo-global-contributions-url-label": "مساهمات عالمية",
+	"checkuser-group-requirements-temporary-account-viewer": "المستخدم لا يفي [https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users بمعايير الوصول]",
 	"protect-level-edit-legal": "سمح فقط للمستخدمين الذين يمكنهم تعديل الصفحات المتعلقة بالقانون",
 	"restriction-level-edit-legal": "محمي قانونيًا",
 	"wikimedia-foundation-projects-label": "مشاريع مؤسسة ويكيميديا",
