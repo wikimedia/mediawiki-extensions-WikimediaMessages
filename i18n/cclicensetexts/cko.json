@@ -2,9 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Abdul-Rafiu",
-			"Avenger"
+			"Avenger",
+			"Biema",
+			"Nachim",
+			"Nana Kojo Emmanuel",
+			"Yaw-kan"
 		]
 	},
+	"wm-license-cc-attribution": "Awoori",
 	"wm-license-cc-free": "Anya u ti",
-	"wm-license-cc-free-to-share-header": "Kpakpakinu fa ma"
+	"wm-license-cc-free-to-share-header": "Kpakpakinu fa ma",
+	"wm-license-cc-free-to-share-text": "N a sɔn su, kpakpaki juma n nu na a sandii",
+	"wm-license-cc-free-to-remix-header": "Na akaaki saŋga i",
+	"wm-license-cc-free-to-remix-text": "Na asaba juma",
+	"wm-license-cc-conditions-attribution-header": "Awoori",
+	"wm-license-cc-conditions-share_alike-header": "Ya kɛrɛ bo ndoori kun."
 }

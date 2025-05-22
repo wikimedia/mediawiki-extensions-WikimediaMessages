@@ -376,8 +376,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Privacyverklaring]",
 	"wikimedia-switchover-read-only": "U kunt momenteel niet bewerken, in verband met onderhoud. Kopieer en bewaar uw tekst en probeer het over een paar minuten nog een keer.",
 	"passwordpolicies-policy-blockattacker": "Wachtwoordbeleid voor het voorkomen van bekende aanvallen waarbij het openbaar maken van details the voorkomen belemmert",
-	"technical-maintenance-soon": "Er zal binnenkort technisch onderhoud worden gepleegd:",
-	"technical-maintenance-edit": "Het kan zijn dat u dan geen bewerkingen kunt opslaan.",
 	"group-oathauth-tester": "Tweetrapsauthenticatie-testers",
 	"group-oathauth-tester-member": "{{GENDER:$1|tweetrapsauthenticatie-tester}}",
 	"querypage-updates-half-monthly": "Deze pagina wordt twee keer per maand bijgewerkt.",

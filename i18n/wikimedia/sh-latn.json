@@ -257,8 +257,6 @@
 	"wikimedia-cookiestatement": "Izjava o kolačićima",
 	"ext-quicksurveys-performance-internal-survey-question": "Da li se ova stranica učitala dovoljno brzo?",
 	"wikimedia-switchover-read-only": "Ovog miga ne možete urediti zbog održavanja. Prekopirajte i spremite tekst, pa pokušajte za nekoliko minuta.",
-	"technical-maintenance-soon": "Uskoro ćemo obaviti tehničko održavanje:",
-	"technical-maintenance-edit": "Tijekom održavanja nije vjerojatno da ćete moći spremiti izmjene.",
 	"group-oathauth-tester": "Ispitivači dvofaktorske autentifikacije",
 	"group-oathauth-tester-member": "{{GENDER:$1|ispitivač dvofaktorske autentifikacije|ispitivačica dvofaktorske autentifikacije}}",
 	"protect-level-editautoreviewprotected": "Dopusti samo automatskim ocjenjivačima",

@@ -315,8 +315,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Czy strona ładowała się wystarczająco szybko?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Zobacz [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement zasady prywatności] tej ankiety aby dowiedzieć się więcej.",
 	"wikimedia-switchover-read-only": "Nie możesz teraz edytować z powodów konserwacyjnych. Skopiuj i zapisz tekst swojej edycji, a następnie spróbuj ponownie za parę minut.",
-	"technical-maintenance-soon": "Wkrótce zamierzamy przeprowadzić konserwacje techniczne:",
-	"technical-maintenance-edit": "Edytowanie i publikowanie edycji może być w tym czasie niedostępne.",
 	"group-oathauth-tester": "Testerzy uwierzytelniania dwuskładnikowego",
 	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} uwierzytelniania dwuskładnikowego",
 	"querypage-updates-half-monthly": "Aktualizacje tej strony są uruchamiane dwa razy w miesiącu.",

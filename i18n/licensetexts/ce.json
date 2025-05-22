@@ -91,5 +91,6 @@
 	"wm-license-self-one-license-with-author": "ХӀокху произведенин $1 авторо, шен лаамца и йаржайо хӀокху лицензица:",
 	"wm-license-self-multiple-licenses": "Аса хӀокху произведенин авторо, сай лаамца йаржайо и хӀокху лицензица:",
 	"wm-license-self-multiple-licenses-with-author": "$1, хӀокху произведенин авторан бакъонаш йолчу, шен лаамехь арахоьцу иза хӀокху лицензешца:",
-	"wm-license-self-multiple-licenses-select": "Хьан аьтту бу лицензийн йукъара муьлха цхьаъ харжа."
+	"wm-license-self-multiple-licenses-select": "Хьан аьтту бу лицензийн йукъара муьлха цхьаъ харжа.",
+	"wm-license-self-invalid-parameter": "Параметр нийса йац. ХӀара йукъаралин рицӀкъан кеп лело ца йеза self кепехь."
 }

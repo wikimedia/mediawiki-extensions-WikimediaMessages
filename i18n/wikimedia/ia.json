@@ -346,8 +346,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Declaration de privatessa]",
 	"wikimedia-switchover-read-only": "Tu non pote modificar ora. Isto es a causa de mantenentia. Copia e salveguarda tu texto e reproba in alcun minutas.",
 	"passwordpolicies-policy-blockattacker": "Politica de contrasignos pro mitigar attaccos cognoscite ubi le revelation de detalios impedirea le mitigation",
-	"technical-maintenance-soon": "Mantenentia technic essera realisate tosto:",
-	"technical-maintenance-edit": "Durante iste tempore es possibile que tu non potera salveguardar alcun modificationes.",
 	"group-oathauth-tester": "Testatores del authentication bifactorial",
 	"group-oathauth-tester-member": "{{GENDER:$1|testator del authentication bifactorial}}",
 	"querypage-updates-half-monthly": "Iste pagina se actualisa duo vices per mense.",

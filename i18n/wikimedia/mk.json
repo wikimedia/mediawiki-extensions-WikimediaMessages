@@ -365,8 +365,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Изјава за лични податоци]",
 	"wikimedia-switchover-read-only": "Во мигов не можете да уредувате поради одржување. Прекопирајте и зачувајте го текстот, па пробајте за неколку минути.",
 	"passwordpolicies-policy-blockattacker": "Правило за лозинки за ублажување на познати напади, каде обелоденувањето на податоци би го попречувало ублажувањето",
-	"technical-maintenance-soon": "Наскоро ќе извршиме техничко одржување:",
-	"technical-maintenance-edit": "Во текот на одржувањето веројатно нема да можете да ги зачувувате уредувањата.",
 	"group-oathauth-tester": "Испробувачи на двочинителски заверки",
 	"group-oathauth-tester-member": "{{GENDER:$1|испробувач на двочинителски заверки}}",
 	"querypage-updates-half-monthly": "Страницава се подновува двапати месечно.",

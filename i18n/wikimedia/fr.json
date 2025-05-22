@@ -437,8 +437,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/fr déclaration de protection de la vie privée]",
 	"wikimedia-switchover-read-only": "Vous ne pouvez pas modifier actuellement à cause d’une opération de maintenance. Copiez et enregistrez votre texte et essayez à nouveau dans quelques minutes.",
 	"passwordpolicies-policy-blockattacker": "Politique de mot de passe pour réduire les attaques connues lorsque la divulgation de détails gênerait la réduction",
-	"technical-maintenance-soon": "Une maintenance technique va bientôt être réalisée :",
-	"technical-maintenance-edit": "Durant ce temps il est possible que vous ne puissiez enregistrer aucune modification.",
 	"group-oathauth-tester": "Testeurs de l’authentification à deux facteurs",
 	"group-oathauth-tester-member": "testeu{{GENDER:$1|r|se}} de l’authentification à deux facteurs",
 	"querypage-updates-half-monthly": "Les mises à jour pour cette page sont faites deux fois par mois.",

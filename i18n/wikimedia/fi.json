@@ -362,8 +362,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-question": "Olisitko kiinnostunut vastaamaan lyhyeen kyselyyn muokkauksien tarkastamiseen tai kumoamiseen käytettävien työkalujen parantamiseksi wikissäsi?",
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Tietosuojaseloste]",
 	"wikimedia-switchover-read-only": "Et voi muokata juuri nyt. Tämä johtuu teknisestä huollosta. Kopioi ja tallenna tekstisi ja yritä uudelleen muutaman minuutin kuluttua.",
-	"technical-maintenance-soon": "Teknistä huoltoa suoritetaan pian:",
-	"technical-maintenance-edit": "Sen aikana et ehkä pysty tallentamaan lainkaan muutoksia.",
 	"group-oathauth-tester": "Kaksivaiheisen tunnistautumisen kokeilijat",
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
 	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",

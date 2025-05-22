@@ -366,8 +366,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement הצהרת פרטיות]",
 	"wikimedia-switchover-read-only": "לא ניתן לערוך עכשיו. זה קורה בגלל תחזוקה. נא להעתיק ולשמור במקום אחר את הטקסט ולנסות שוב בעוד כמה דקות.",
 	"passwordpolicies-policy-blockattacker": "מדיניות סיסמאות לאִפחות התקפות ידועות כאשר חשיפת פרטים תפריע לאִפחות",
-	"technical-maintenance-soon": "בקרוב תבוצע תחזוקה טכנית:",
-	"technical-maintenance-edit": "בזמן הזה לא יהיה אפשר לשמור עריכות.",
 	"group-oathauth-tester": "בודקי אימות דו־שלבי",
 	"group-oathauth-tester-member": "{{GENDER:$1|בודק|בודקת}} אימות דו־שלבי",
 	"querypage-updates-half-monthly": "עדכונים לדף הזה מורצים פעמיים בחודש.",

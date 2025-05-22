@@ -295,8 +295,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "หน้านี้โหลดเร็วพอหรือไม่?",
 	"wikimedia-switchover-read-only": "คุณจะยังไม่สามารถแก้ไขได้ในขณะนี้เนื่องจากการบำรุงรักษา คัดลอกและรักษาการแก้ไขชั่วคราวก่อน และลองใหม่อีกครั้งในอีกซักครู่",
 	"passwordpolicies-policy-blockattacker": "นโยบายรหัสผ่านเพื่อลดการบุกที่ทราบว่ามีการเปิดเผยรายละเอียดจะเป็นอุปสรรคต่อการแบ่งเบา",
-	"technical-maintenance-soon": "การบำรุงรักษาทางเทคนิคจะเริ่มต้นในไม่ช้านี้:",
-	"technical-maintenance-edit": "ในระหว่างนี้คุณจะยังไม่สามารถบันทึกการแก้ไขใด ๆ ได้",
 	"group-oathauth-tester": "ผู้ทดสอบการยืนยันตัวตนสองขั้นตอน",
 	"group-oathauth-tester-member": "{{GENDER:$1|ผู้ทดสอบการยืนยันตัวตนสองขั้นตอน}}",
 	"right-docseditor": "แก้ไขเอกสารกำกับการใช้งาน",

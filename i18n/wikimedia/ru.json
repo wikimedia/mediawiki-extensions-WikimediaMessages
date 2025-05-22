@@ -377,8 +377,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Заявление о конфиденциальности]",
 	"wikimedia-switchover-read-only": "Вы не можете редактировать сейчас. Это связано с техническим обслуживанием сайта. При необходимости скопируйте свой текст, а затем попробуйте снова сохранить его через несколько минут.",
 	"passwordpolicies-policy-blockattacker": "Правило о паролях для смягчения известных нападений, где раскрытие данных помешало бы такому смягчению",
-	"technical-maintenance-soon": "В ближайшее время будет проводится техническое обслуживание:",
-	"technical-maintenance-edit": "В течение этого времени вы не сможете сохранить какие-либо правки.",
 	"group-oathauth-tester": "Тестирующие двухфакторную авторизацию",
 	"group-oathauth-tester-member": "{{GENDER:$1|тестирующий|тестирующая}} двуфакторную авторизацию",
 	"querypage-updates-half-monthly": "Обновления этой страницы выполняются дважды в месяц.",

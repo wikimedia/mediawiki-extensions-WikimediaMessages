@@ -352,8 +352,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "برای اطلاعات بیشتر، [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement بیانیه محرمانگی] این نظرسنجی را ببینید.",
 	"wikimedia-switchover-read-only": "در حال حاضر، به خاطر انجام امور نگهداری، امکان ویرایش وجود ندارد. ویرایش خود را کپی و ذخیره کرده و چند دقیقه بعد مجدداً امتحان کنید.",
 	"passwordpolicies-policy-blockattacker": "سیاست رمز عبور برای کاهش خطر حملات شناخته‌شده‌ای که در آن‌ها افشای جزئیات مانع مهار خطر می‌شود",
-	"technical-maintenance-soon": "تعمیرات فنی به زودی اعمال می‌شوند:",
-	"technical-maintenance-edit": "در این زمان امکان ذخیرهٔ هیچ ویرایشی وجود ندارد.",
 	"group-oathauth-tester": "آزمایش‌کنندگان اصالت‌سنجی دومرحله‌ای",
 	"group-oathauth-tester-member": "{{GENDER:$1|آزمایش‌کنندهٔ اصالت‌سنجی دومرحله‌ای}}",
 	"querypage-updates-half-monthly": "این صفحه دو بار در ماه روزآمد می‌شود.",

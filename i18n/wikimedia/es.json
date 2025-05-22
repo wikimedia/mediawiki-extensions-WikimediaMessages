@@ -383,8 +383,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para obtener más información, consulta la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaración de privacidad] de esta encuesta.",
 	"wikimedia-switchover-read-only": "No puedes editar. Estamos realizando labores de mantenimiento. Copia y guarda tu texto e inténtalo en unos minutos.",
 	"passwordpolicies-policy-blockattacker": "Política de contraseñas para mitigar ataques conocidos cuando la revelación de los detalles de aquellos lo haga imposible",
-	"technical-maintenance-soon": "En breve realizaremos tareas de mantenimiento:",
-	"technical-maintenance-edit": "Durante dicho periodo es posible que no puedas editar.",
 	"group-oathauth-tester": "Probadores del sistema de autenticación en dos pasos",
 	"group-oathauth-tester-member": "{{GENDER:$1|probador|probadora}} del sistema de autenticación de dos pasos",
 	"querypage-updates-half-monthly": "Esta página se actualiza periódicamente dos veces al mes.",

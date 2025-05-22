@@ -395,8 +395,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Заява про конфіденційність]",
 	"wikimedia-switchover-read-only": "Ви не можете редагувати на цей момент. Це через технічне обслуговування. Скопіюйте і збережіть свій текст та спробуйте ще раз через кілька хвилин.",
 	"passwordpolicies-policy-blockattacker": "Політика щодо паролів для пом'якшення наслідків відомих атак, у яких розкриття деталей завадило б застосуванню такого пом'якшення",
-	"technical-maintenance-soon": "Невдовзі почнуться технічні роботи:",
-	"technical-maintenance-edit": "У цей час ви, імовірно, не зможете зберегти свої редагування.",
 	"group-oathauth-tester": "Тестувальники двофакторної автентифікації",
 	"group-oathauth-tester-member": "{{GENDER:$1|тестувальник|тестувальниця|тестувальник}} двофакторної автентифікації",
 	"querypage-updates-half-monthly": "Оновлення цієї сторінки виконуються два рази на місяць.",

@@ -312,8 +312,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "আরও তথ্যের জন্য, এই জরিপের [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement গোপনীয়তার বিবৃতি] দেখুন।",
 	"wikimedia-switchover-read-only": "আপনি এখন সম্পাদনা করতে পারবেন না। এটি রক্ষণাবেক্ষণ চলার কারণে হচ্ছে। আপনার পাঠ্যটি অনুলিপি করুন এবং সংরক্ষণ করুন এবং কয়েক মিনিটের মধ্যে আবার চেষ্টা করুন।",
 	"passwordpolicies-policy-blockattacker": "জানা আক্রমণ হ্রাসের জন্য পাসওয়ার্ড নীতি যেখানে বিবরণ প্রকাশ লঘবকে বাধা দিতে পারে",
-	"technical-maintenance-soon": "কারিগরি রক্ষণাবেক্ষণ শীঘ্রই সঞ্চালিত হবে:",
-	"technical-maintenance-edit": "এই সময়ে, আপনি সম্পাদনা সংরক্ষণ করতে সক্ষম নাও হতে পারেন।",
 	"group-oathauth-tester": "দুই ধাপের প্রমাণীকরণ পরীক্ষক",
 	"group-oathauth-tester-member": "{{GENDER:$1|দুই ধাপের প্রমাণীকরণ পরীক্ষক}}",
 	"querypage-updates-half-monthly": "এই পাতাটি মাসে দুইবার হালনাগাদ করা হয়।",

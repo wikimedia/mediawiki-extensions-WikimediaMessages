@@ -319,8 +319,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Daha fazla bilgi için bu anketin [https\n://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement gizlilik bildirimi] bölümüne bakın.",
 	"wikimedia-switchover-read-only": "Devam eden bakım nedeniyle şu an için düzenleyemezsiniz. Metninizi kopyalayıp kaydedin ve birkaç dakika sonra tekrar deneyin.",
 	"passwordpolicies-policy-blockattacker": "Ayrıntıların açıklanmasının azaltmayı engelleyeceği bilinen saldırıların azaltılması için parola politikası",
-	"technical-maintenance-soon": "Teknik bakım yakında yapılacak:",
-	"technical-maintenance-edit": "Bu süre zarfında herhangi bir düzenlemeyi kaydedemeyebilirsiniz.",
 	"group-oathauth-tester": "İki faktörlü kimlik doğrulamayı etkinleştirebilen kullanıcılar",
 	"group-oathauth-tester-member": "{{GENDER:$1|iki faktörlü kimlik doğrulama test kullanıcısı}}",
 	"querypage-updates-half-monthly": "Bu sayfa için güncellemeler ayda iki kez gerçekleştirilmektedir.",
