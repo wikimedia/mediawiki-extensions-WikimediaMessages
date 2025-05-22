@@ -7,7 +7,8 @@
 			"Bilalbill",
 			"K Messaoudi",
 			"YouvaDjouadi",
-			"Matma Rex"
+			"Matma Rex",
+			"ButterflyOfFire"
 		]
 	},
 	"wikimediamessages-desc": "Iznan usligen n Wikimedia",
@@ -26,5 +27,6 @@
 	"wikimedia-developers": "Ineflayen",
 	"wikimedia-globalblocking-ipblocked": "'''Tansa-ik IP [[m:Special:MyLanguage/Global blocks|tewḥel ɣef iwikiyen meṛṛa]].'''\n\nAsewḥel yettwag sɣur $1 ($2).\nSebba d-ittunefken ''$3''.\n\n* Tazwara n usewḥel : $4\n* Tagara n usewḥel : $5\n\nTansa-ik n tura $6.\nSeddu-d ma ulac aɣilif talqayt ddaw-a di yal asuter ara d-azneḍ.\n\nMa tɣileḍ d akken asewḥel d tuccḍa, tzemreḍ ad tafeḍ talɣut akked tinadin di tsertit tamatut [[m:Special:MyLanguage/No open proxies|Ulac apṛuksi yeldin]].\nNeɣ, akken ad tesqerdceḍ asewḥel-agi, [[m:Steward requests/Global|azen-d asuter akken ad nwali ṛṛay-nniḍen di Meta-Wiki]].",
 	"wikimedia-globalblocking-ipblocked-xff": "'''Yiwen neɣ ugar n iqeddacen ipṛuksiyen i tesqedceḍ deg usuter-ik [[m:Special:MyLanguage/Global blocks|weḥlen s umata]].'''\n\nAsewḥel yettwag sɣur $1 ($2).\nSebba d-ittunefken ''$3''.\n\n* Tazwara n usegdel : $4\n* Taggara n usegdel : $5\n\nTansa n pruksi igedlen d $6.\nSeddu-d ma ulac aɣilif talqayt ddaw-a deg yal asuter ara d-azneḍ.\n\nMa tɣileḍ d akken asegdel d tuccḍa, tzemreḍ ad tafeḍ talɣut akked tinadin di tsertit tamatut [[m:Special:MyLanguage/No open proxies|Ulac apṛuksi yeldin]].\nNeɣ, akken ad tesqerdceḍ asegdel-a, [[m:Steward requests/Global|azen-d asuter akken ad nwaliturda-nniḍen di Meta-Wiki]].",
+	"wikimedia-statslink": "Tidaddanin",
 	"right-editautopatrolprotected": "Beddel isebtar yettumsetnen s \"{{int:protect-level-editautopatrolprotected}}\""
 }

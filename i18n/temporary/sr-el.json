@@ -11,6 +11,9 @@
 	"group-oversight-member": "{{GENDER:$1|brisač izmena}}",
 	"hello": "Zdravo",
 	"please-translate": "Pomozite u prevođenju na svoj jezik",
+	"please-translate-short": "Pomozite u prevođenju",
 	"thank-you": "{{GENDER:$1|Hvala.}}",
-	"specialblockfeedback": "Povratne informacije"
+	"specialblockfeedback": "Povratne informacije",
+	"specialinvestigate-feedback": "Povratne informacije",
+	"graph-disabled-category": "Stranice sa onemogućenim grafikonima"
 }
