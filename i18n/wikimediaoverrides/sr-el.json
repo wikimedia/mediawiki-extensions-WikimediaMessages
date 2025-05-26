@@ -23,5 +23,6 @@
 	"wikimedia-sitematrix-others": "Ostali Vikimedijini projekti",
 	"wikimedia-sitematrix-summary": "Ova posebna stranica navodi sve vikije Vikimedije.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy/sr Politika privatnosti]",
-	"wikimedia-ipinfo-source-geoip2": "Upotreba ove alatke podleže [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines određenim smernicama]."
+	"wikimedia-ipinfo-source-geoip2": "Upotreba ove alatke podleže [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines određenim smernicama].",
+	"wikimedia-similareditors-error-default": "Nešto je u kvaru, radimo na popravci  Ako se  problem nastavi, javite nam se [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors ovde]."
 }
