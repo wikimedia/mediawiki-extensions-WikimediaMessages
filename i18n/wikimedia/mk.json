@@ -422,6 +422,7 @@
 	"research-incentive-privacy": "Погледајте ги нашите правила за личните податоци и дознајте повеќе за нашата истражувачка програма [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program овде].",
 	"research-incentive-confirm-msg": "Ви благодариме!",
 	"ipinfo-global-contributions-url-label": "Глобални придонеси",
+	"checkuser-group-requirements-temporary-account-viewer": "Корисникот не ги исполнува [https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users критериумите за пристап]",
 	"protect-level-edit-legal": "Допуштај само корисници што можат да уредуваат страници со правна содржина",
 	"restriction-level-edit-legal": "заштитено заради правна содржина",
 	"wikimedia-foundation-projects-label": "Проекти на Фондацијата Викимедија",

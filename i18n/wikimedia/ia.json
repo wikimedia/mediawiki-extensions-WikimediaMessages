@@ -391,6 +391,7 @@
 	"readinglists-import-app-with-link": "[$1 Discarga] e installa le ultime version del app de Wikipedia:",
 	"readinglists-list-empty-message": "Tu pote importar iste lista post installar le app Wikipedia.",
 	"ipinfo-global-contributions-url-label": "Contributiones global",
+	"checkuser-group-requirements-temporary-account-viewer": "Le usator non satisface le [https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users criterios de accesso]",
 	"wikimedia-foundation-projects-label": "Projectos del Fundation Wikimedia",
 	"wikimedia-foundation-projects-of-label-link": "Projectos del [[$1|Fundation Wikimedia]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Projectos del Fundation Wikimedia",
