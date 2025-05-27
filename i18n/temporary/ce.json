@@ -13,5 +13,6 @@
 	"please-translate-short": "Гочйеш гӀодан",
 	"thank-you": "{{GENDER:$1|Баркалла.}}",
 	"specialinvestigate-feedback": "Йазде хьайна хетарг",
-	"graph-disabled-category": "АгӀонаш дӀайаьхна графикаш йолуш"
+	"graph-disabled-category": "АгӀонаш дӀайаьхна графикаш йолуш",
+	"graph-disabled-category-desc": "АгӀонна чохь йу <code>&lt;graph&gt;</code> тег, иза ханна болх беш йац ([[phab:T334940|T334940]])."
 }

@@ -138,6 +138,8 @@
 	"wikimedia-taglines-wikivoyage": "Voľne dostupný cestovateľský sprievodca",
 	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
 	"wikimedia-developers": "Vývojári",
+	"upload-form-label-not-own-work-message-commons": "Ak nie ste držiteľom autorských práv k tomuto súboru alebo ho chcete publikovať pod inou licenciou, zvážte použitie [https://commons.wikimedia.org/wiki/Special:UploadWizard Sprievodcu nahrávaním na Commons].",
+	"upload-form-label-not-own-work-local-commons": "Môžete tiež vyskúšať [[Special:Upload|stránku pre nahranie súborov na {{GRAMMAR:lokál|{{SITENAME}}}}]], ak tamojšie pravidlá umožňujú nahranie tohto súboru.",
 	"interlanguage-link-wikipedia": "Wikipédia",
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, slobodná encyklopédia",
 	"protect-level-superprotect": "Povoliť iba používateľov superprotect",

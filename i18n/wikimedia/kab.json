@@ -7,7 +7,8 @@
 			"Bilalbill",
 			"K Messaoudi",
 			"Matma Rex",
-			"YouvaDjouadi"
+			"YouvaDjouadi",
+			"ButterflyOfFire"
 		]
 	},
 	"wikimediamessages-desc": "Iznan usligen n Wikimedia",
@@ -24,5 +25,6 @@
 	"wikibase-sitelinks-wikisource": "Wikaɣbalu",
 	"wikibase-sitelinks-wikivoyage": "Wikasikel",
 	"wikimedia-developers": "Ineflayen",
+	"wikimedia-statslink": "Tidaddanin",
 	"right-editautopatrolprotected": "Beddel isebtar yettumsetnen s \"{{int:protect-level-editautopatrolprotected}}\""
 }
