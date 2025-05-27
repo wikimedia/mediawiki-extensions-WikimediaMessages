@@ -462,7 +462,7 @@
 	"ipinfo-global-contributions-url": "https://xtools.wmcloud.org/globalcontribs/$1",
 	"ipinfo-xtools-url-label": "XTools",
 	"ipinfo-xtools-url": "https://xtools.wmcloud.org/ec/$2/$1",
-	"checkuser-group-requirements-temporary-account-viewer": "User does not meet the [https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users access criteria]",
+	"checkuser-group-requirements-temporary-account-viewer": "User does not meet the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users access criteria]",
 	"protect-level-edit-legal": "Allow only users who can edit legal-related pages",
 	"restriction-level-edit-legal": "legal protected",
 	"wikimedia-babellink-label": "Babel",
