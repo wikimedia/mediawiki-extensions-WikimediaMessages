@@ -442,7 +442,7 @@
 	"research-incentive-privacy": "Lies unsere Datenschutzbestimmungen und erfahre mehr über unser [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program Forschungsprogramm].",
 	"research-incentive-confirm-msg": "Vielen Dank!",
 	"ipinfo-global-contributions-url-label": "Globale Beiträge",
-	"checkuser-group-requirements-temporary-account-viewer": "Der Benutzer erfüllt nicht die [https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users Zugriffskriterien]",
+	"checkuser-group-requirements-temporary-account-viewer": "Der Benutzer erfüllt nicht die [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_user Zugriffskriterien]",
 	"wikimedia-foundation-projects-label": "Projekte der Wikimedia Foundation",
 	"wikimedia-foundation-projects-of-label-link": "Projekte der [[$1|Wikimedia Foundation]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Projekte der Wikimedia Foundation",

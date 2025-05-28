@@ -295,7 +295,7 @@
 	"research-incentive-answer-negative": "Не",
 	"research-incentive-confirm-msg": "Хвала вам!",
 	"ipinfo-global-contributions-url-label": "Глобални доприноси",
-	"checkuser-group-requirements-temporary-account-viewer": "Корисник не испуњава [https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users приступне критеријуме]",
+	"checkuser-group-requirements-temporary-account-viewer": "Корисник не испуњава [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_user приступне критеријуме]",
 	"wikimedia-foundation-projects-label": "Пројекти Задужбине Викимедије",
 	"wikimedia-foundation-projects-of-label-link": "Пројекти [[$1|Задужбине Викимедије]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Пројекти Задужбине Викимедије",
