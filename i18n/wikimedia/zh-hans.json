@@ -117,6 +117,8 @@
 	"group-botadmin": "有管理员权限的机器人",
 	"group-botadmin-member": "{{GENDER:$1|有管理员权限的机器人}}",
 	"grouppage-botadmin": "{{ns:project}}:有管理员权限的机器人",
+	"group-global-temporary-account-viewer": "临时账号IP查看者",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|临时账号IP查看者}}",
 	"group-confirmed": "确认用户",
 	"group-confirmed-member": "{{GENDER:$1|确认用户}}",
 	"grouppage-confirmed": "{{ns:project}}:确认用户",
