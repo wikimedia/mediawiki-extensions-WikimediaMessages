@@ -254,6 +254,8 @@ class Hooks implements
 			'skin-minerva-donate-banner-reduced-motion',
 			'skin-minerva-donate-banner-url',
 			'namespaceinfo-description-ns470',
+			// T395565
+			'pvi-month-count-value',
 		];
 
 		static $allbutmetawikikeys = [
