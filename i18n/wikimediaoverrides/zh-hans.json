@@ -21,13 +21,14 @@
 			"LittlePaw365"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账号}}，这是此时间段内允许创建的最大数量。因此，使用此IP地址的访客目前不能再创建更多账号。\n\n如果您加入了以贡献维基媒体项目为中心的活动中的话，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
+	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账号}}，已达到此时间段内允许创建的最大账号数。因此，使用此IP地址的访客目前不能再创建更多账号。\n\n如果向维基媒体项目作出贡献是您当前参加的活动的重要事项，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（帮我选择）]]",
-	"wikimedia-prefs-user-downloaddata-help-message": "您可以访问[[m:Special:CentralAuth/$1|其他贡献过的维基媒体项目]]的参数设置页面来下载您在那些项目的账户数据。",
+	"wikimedia-prefs-user-downloaddata-help-message": "您可以访问[[m:Special:CentralAuth/$1|其他贡献过的维基媒体项目]]的参数设置页面来下载您在那些项目的账号数据。",
 	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账号]]",
 	"wikimedia-centralauth-groupname": "维基媒体基金会",
 	"wikimedia-centralauth-login-error-locked": "<strong>该账号已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
 	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",
+	"wikimedia-checkuser-api-useragent-clienthints-explanation": "我们会收集用户代理提示数据，以支持维基媒体社群反破坏及防滥用。这些数据会在符合[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隐私政策]以及[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy 非公开个人数据访问政策]的情况下收集与使用。要查看更多信息，请参见 https://www.mediawiki.org/wiki/Extension:CheckUser/Client_Hints。",
 	"wikimedia-delete-toobig": "此页面有巨大的编辑历史，超过$1个{{PLURAL:$1|修订版本}}。删除拥有非常大编辑历史的页面已被限制，以阻止对{{SITENAME}}的意外破坏。请在[[m:Steward requests/Miscellaneous|元维基请求页面]]联络[[m:Special:MyLanguage/Stewards|监管员]]请求删除此页面。",
 	"wikimedia-discussiontools-replywidget-terms-click": "点击“$1”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并同意{{PLURAL:$3|根据}}$2发表您的贡献，该授权不可撤回。",
 	"wikimedia-feedback-termsofuse": "我同意按照[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]提供反馈。",
@@ -60,6 +61,7 @@
 	"wikimedia-ipinfo-source-geoip2": "您对本工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]的约束。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP信息工具使用MaxMind数据库来显示诸如粗略位置、代理信息，共享IP的设备数等详细信息。启用前，请阅读[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]。",
 	"wikimedia-ipinfo-preference-use-agreement": "我同意根据[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]来使用本工具，仅用于调查或阻止破坏、滥用或其他违反维基媒体基金会及社群方针的行为。",
+	"wikimedia-similareditors-error-default": "发生了错误，我们正在调查中。如果问题持续存在，请于[https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors 此处]联系我们。",
 	"wikimedia-centralauth-admin-log-otherwiki": "此账号遭到锁定。更多详情请见[[meta:Special:CentralAuth/$1|元维基上的全域账号详情]]。",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "您的IP地址已[[m:Special:MyLanguage/Global blocks|在所有wiki受到封禁]]。",
 	"wikimedia-globalblocking-blockedtext-on-range": "您的IP地址属于已[[m:Special:MyLanguage/Global blocks|在所有维基媒体基金会维基受到封禁]]的地址段。",
@@ -68,5 +70,11 @@
 	"wikimedia-globalblocking-blockedtext-proxy": "封禁的代理地址是$1。",
 	"wikimedia-globalblocking-blockedtext-mistake": "如果您认为您受到错误封禁，您可以在[[m:Special:MyLanguage/No open proxies|禁止公开代理]]全域方针里找到更多信息和说明。您也可以[[m:Steward requests/Global|到元维基发布复查申请]]讨论该封禁。",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "您还可以给[[m:Special:MyLanguage/Stewards|监管员]][[m:Special:MyLanguage/VRT|VRT]]队列（<kbd>stewards@wikimedia.org</kbd>）发送提供上面所有详情的电子邮件。",
-	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "我同意按照维基媒体基金会的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，谨慎处理在活动注册期间收集的参与者信息，包括参与者个人身份信息。"
+	"wikimedia-jsonconfig-license-copyrightwarning": "发布更改即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并且您同意不可撤销地依照[{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]协议条款发布您的贡献。",
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "发布更改即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并且您同意不可撤销地依照<code>license</code>字段中提供的协议发布您的贡献。",
+	"wikimedia-jsonconfig-license-notice": "'''注意：'''编辑此页面即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并且您同意不可撤销地依照[{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]协议条款发布您的贡献。",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''注意：'''编辑此页面即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并且您同意不可撤销地依照<code>license</code>字段中提供的协议发布您的贡献。",
+	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "我同意按照维基媒体基金会的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，谨慎处理在活动注册期间收集的参与者信息，包括参与者个人身份信息。",
+	"wikimedia-oathauth-step1-test": "请下载一个双重验证程序。请查看[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:双因素身份验证]以了解推荐的客户端。",
+	"wikimedia-oathauth-hint": "无法访问您的设备或者应用程序？您可以在此字段中输入恢复代码（启用双重验证时提供）。如果无法完成，请查看[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help:双因素身份验证]以了解更多选项。"
 }
