@@ -4,12 +4,13 @@
 			"Af420",
 			"Ahmed-Najib-Biabani-Ibrahimkhel",
 			"Amjad Khan",
-			"Baloch Khan"
+			"Baloch Khan",
+			"شاه زمان پټان"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:پټونکي",
 	"group-oversight": "پټونکي",
-	"group-oversight-member": "پټونکي",
+	"group-oversight-member": "{{GENDER:$1|پټوونکي}}",
 	"hello": "سلامونه",
 	"please-translate": "مهرباني وکړئ خپلي ژبې ته د ور ژباړلو لپاره مرسته وکړئ",
 	"thank-you": "{{GENDER:$1|مننه}}"
