@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Balajijagadesh",
-			"ElangoRamanujam"
+			"ElangoRamanujam",
+			"Matrix"
 		]
 	},
 	"project-localized-name-arwiki": "அராபிய விக்கிப்பீடியா",
@@ -35,6 +36,7 @@
 	"project-localized-name-knwikibooks": "கன்னட விக்கிநூல்கள்",
 	"project-localized-name-knwikisource": "கன்னட விக்கிமூலம்",
 	"project-localized-name-knwiktionary": "கன்னட விக்சனரி",
+	"project-localized-name-minwikibooks": "மினாங்க்காபாவ் விக்கிநூல்கள்",
 	"project-localized-name-tawiki": "தமிழ் விக்கிப்பீடியா",
 	"project-localized-name-tawikibooks": "தமிழ் விக்கிநூல்கள்",
 	"project-localized-name-tawikinews": "தமிழ் விக்கிசெய்தி",

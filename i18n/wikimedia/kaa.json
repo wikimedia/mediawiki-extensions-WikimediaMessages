@@ -5,6 +5,7 @@
 			"AlefZet",
 			"Emperyan",
 			"Inabat Allanova",
+			"Janabaevazizbek",
 			"Nurlan",
 			"Varnent"
 		]
@@ -24,6 +25,7 @@
 	"group-ipblock-exempt": "IP bloklawdan azat etilgenler",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP bloklawdan azat etilgen}} paydalanıwshı",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP bloklawdan azat etilgen",
+	"group-rollbacker-member": "{{GENDER:$1|eski kóriniske keltiriwshi}}",
 	"group-transwiki": "Wikiaralıq importlawshılar",
 	"group-transwiki-member": "{{GENDER:$1|wikiaralıq importlawshılar}}",
 	"grouppage-transwiki": "{{ns:project}}:Wikiaralıq importlawshılar",

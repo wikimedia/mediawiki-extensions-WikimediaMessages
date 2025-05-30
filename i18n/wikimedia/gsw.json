@@ -5,6 +5,7 @@
 			"Als-Holder",
 			"Geitost",
 			"J. 'mach' wust",
+			"Matma Rex",
 			"Melancholie",
 			"Nemo bis"
 		]
@@ -70,9 +71,9 @@
 	"group-ipblock-exempt": "IP-Sperri-Usnahme",
 	"group-ipblock-exempt-member": "{{GENDER:$1|Vo IP-Sperre-Ussgnommener|Vo IP-Sperre-Ussgnommeni}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP-Sperri-Usnahm",
-	"group-patroller": "Fäldhieter",
-	"group-patroller-member": "{{GENDER:$1|Fäldhieter|Fäldhieteri}}",
-	"grouppage-patroller": "{{ns:project}}:Priefer",
+	"group-patroller": "Patrollers",
+	"group-patroller-member": "{{GENDER:$1|patroller}}",
+	"grouppage-patroller": "{{ns:project}}:Patrollers",
 	"group-researcher": "Untersuecher",
 	"group-researcher-member": "{{GENDER:$1|Rechercheur|Rechercheuri}}",
 	"grouppage-researcher": "{{ns:project}}:Untersuecher",
