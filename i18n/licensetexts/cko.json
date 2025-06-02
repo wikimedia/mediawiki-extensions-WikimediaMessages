@@ -5,7 +5,8 @@
 			"Hasslaebetch",
 			"Abdul-Rafiu",
 			"Avenger",
-			"Biema"
+			"Biema",
+			"Nachim"
 		]
 	},
 	"wm-license-information-description": "Kekerenu",
@@ -13,5 +14,7 @@
 	"wm-license-information-date": "Cɛɛn",
 	"wm-license-information-author": "Kadashi kɛrɛfɔ",
 	"wm-license-information-permission": "Atin sere",
-	"wm-license-own-work": "Ô  jouman"
+	"wm-license-information-permission-reusing-text": "Fa ahin faali yo juma bekun",
+	"wm-license-own-work": "Ô  jouman",
+	"wm-license-self-multiple-licenses-select": "A kóro yi yiko kadasi bo a koro."
 }

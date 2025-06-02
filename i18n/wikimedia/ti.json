@@ -9,6 +9,9 @@
 	"tooltip-n-sitesupport": "ደግፈና",
 	"nstab-creator": "ፈጣሪ",
 	"group-staff": "ሰራሕተኛታት",
+	"group-translationadmin": "ኣመሓደርቲ ትርጉም",
+	"group-translationadmin-member": "{{GENDER:$1|ኣመሓዳሪ|ኣመሓዳሪት}} ትርጉም",
+	"grouppage-translationadmin": "{{ns:project}}:ኣመሓደርቲ ትርጉም",
 	"tag-emoji": "ኢሞጂ",
 	"shared-repo-name-shared": "ዊኪሜድያ ኮመንዝ",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|እንቋዕ ብደሓን መጻእካ|እንቋዕ ብደሓን መጻእኪ}}፣ $1!",
@@ -51,5 +54,10 @@
 	"eri-rcfilters-tour-highlight-button": "ተረዲኡኒ",
 	"wikimedia-statslink": "ስታቲስቲክስ",
 	"wikimedia-cookiestatement": "መግለጺ ኩኪታት",
-	"ext-quicksurveys-tst-internal-survey-answer-positive": "እወ"
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "እወ",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "ኣይፋል",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "እወ",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "ኣይፋል",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "ርግጸኛ ኣይኮንኩን",
+	"gadget-souspages-subpages": "ንኡስ ገጻት"
 }
