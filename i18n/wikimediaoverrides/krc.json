@@ -6,7 +6,7 @@
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(сайлауда болуш)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Суратны кёрелмеймисе? [[{{MediaWiki:createacct-captcha-help-url}}|Аккаунтха соруу бер]]",
-	"wikimedia-centralauth-groupname": "Викимедиа фонда",
+	"wikimedia-centralauth-groupname": "Викимедиа фонд",
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nБлокну салгъан $1.\nБелгиленнген чурум ''$2''.\n\n* Блокну башланыуу: $8\n* Блокну бошалыуу: $6\n\nДжараулу IP-адресигиз $3.\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nБлокну салгъан $1.\nБелгиленнген чурум ''$2''.\n\n* Блокну башланыуу: $8\n* Блокну бошалыуу: $6\n\nДжараулу IP-адресигиз $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}} {{int:wikimedia-globalblocking-blockedtext-mistake-email-steward}}",
 	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nБлокну салгъан: $1.\nБерилген чурум: \"$2\".\n\n* Блокну башланнганы: $8\n* Блокну бошалгъаны: $6\n\n{{int:globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}"
