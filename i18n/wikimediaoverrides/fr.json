@@ -13,6 +13,7 @@
 			"Nemo bis",
 			"Niridya",
 			"Pamputt",
+			"Pcoombe",
 			"Pols12",
 			"Raphoraph",
 			"SaldırganSincap",
@@ -100,6 +101,6 @@
 	"wikimedia-oathauth-hint": "Vous n'avez pas accès à votre appareil ou à votre application ? Vous pouvez saisir les jetons de récupération (présentés lorsque vous avez activé l'authentification en deux étapes) dans ce champ. Si vous ne parvenez pas à le faire, consultez l'[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Aide sur la double authentification] pour d'autres options.",
 	"wikimedia-pt-movepage-page-count-limit": "'''Cette page traduisible contient plus {{PLURAL:$1|d'une page|de $1 pages}}'''. En raison de problèmes de fiabilité, le déplacement de pages traduisibles contenant plus {{PLURAL:$1|d'une page|de $1 pages}} ne peut pas être effectué via l'interface utilisateur. Veuillez '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ créer une tâche Phabricator]''' et remplir les champs du formulaire pour demander aux [[:m:system administrators|administrateurs système]] d'effectuer le déplacement de la page en votre nom.",
 	"wikimedia-skin-minerva-donate-banner-message": "Faites un don dès maintenant",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipédia est utile pour vous, donnez-la aujourd'hui.",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipédia vous est utile, pensez à donner aujourd'hui.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si ce site vous a été utile, vous pouvez faire un don aujourd'hui."
 }
