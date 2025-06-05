@@ -18,7 +18,8 @@
 			"WhitePhosphorus",
 			"Yfdyh000",
 			"沈澄心",
-			"LittlePaw365"
+			"LittlePaw365",
+			"Kcx36"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账号}}，已达到此时间段内允许创建的最大账号数。因此，使用此IP地址的访客目前不能再创建更多账号。\n\n如果向维基媒体项目作出贡献是您当前参加的活动的重要事项，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",

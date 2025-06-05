@@ -104,7 +104,7 @@
 	"group-abusefilter-member": "{{GENDER:$1|editor del filtro antiabusos|editora del filtro antiabusos}}",
 	"grouppage-abusefilter": "{{ns:project}}:Editores del filtro antiabusos",
 	"group-abusefilter-helper": "Asistentes del filtro antiabusos",
-	"group-abusefilter-helper-member": "{{GENDER:$1|ayudante del filtro antiabusos}}",
+	"group-abusefilter-helper-member": "{{GENDER:$1|asistente del filtro antiabusos}}",
 	"group-abusefilter-maintainer": "Mantenedores del filtro antiabusos",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|mantenedor del filtro antiabusos|mantenedora del filtro antiabusos}}",
 	"group-accountcreator": "Creadores de cuentas",

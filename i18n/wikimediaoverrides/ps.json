@@ -4,13 +4,14 @@
 			"Af420",
 			"Amjad Khan",
 			"Baloch Khan",
-			"Nemo bis"
+			"Nemo bis",
+			"شاه زمان پټان"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(په ټاکلو کې يې مرسته غواړم)]]",
-	"wikimedia-createacct-imgcaptcha-help": "انځور د کتلو وړ نه دی؟ [[{{MediaWiki:createacct-captcha-help-url/ps}}|د يو گڼون غوښتنه کول]]",
+	"wikimedia-createacct-imgcaptcha-help": "انځور د کتلو وړ نه دی [[{{MediaWiki:createacct-captcha-help-url}}|د يو گڼون غوښتنه کول]]",
 	"wikimedia-centralauth-groupname": "ويکيمېډيا بنسټ",
-	"wikimedia-sitematrix": "د ويکي-رسنۍ د ويکي-گانو لړليک",
-	"wikimedia-sitematrix-others": "د ويکي-رسنۍ نورې پروژې",
+	"wikimedia-sitematrix": "د ويکي‌‌رسنۍ د ويکي‌گانو لړليک",
+	"wikimedia-sitematrix-others": "د ويکي‌رسنۍ نورې پروژې",
 	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکيمېډيا د ټولو ويکي گانو لړليک ښکاره کوي."
 }
