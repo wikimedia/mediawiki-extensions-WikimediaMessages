@@ -498,6 +498,7 @@
 	"research-incentive-privacy": "Vous pouvez consulter notre politique de confidentialité et en apprendre plus concernant notre programme de recherche [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/fr ici].",
 	"research-incentive-confirm-msg": "Merci !",
 	"ipinfo-global-contributions-url-label": "Contributions globales",
+	"checkuser-group-requirements-temporary-account-viewer": "L'utilisateur ne répond pas aux critères d'accès [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users critère d'accès]",
 	"protect-level-edit-legal": "Autoriser uniquement les utilisateurs qui peuvent modifier les pages à caractère juridique",
 	"restriction-level-edit-legal": "juridiquement protégé",
 	"wikimedia-foundation-projects-label": "Projets de la fondation Wikimedia",

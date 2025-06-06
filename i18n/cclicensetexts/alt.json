@@ -5,7 +5,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Аттрибуциязы",
-	"wm-license-cc-by-sa-3.0-text": "Бу файл мындый лицензия аайынча эдинерге јарар [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.alt|Attribution-Share Alike 3.0 Unported]] license.",
+	"wm-license-cc-by-sa-3.0-text": "Бу файлды мындый [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.alt|Attribution-Share Alike 3.0 Unported]]лицензия аайынча эдинерге јарар.",
 	"wm-license-cc-free": "Слерде арга бар:",
 	"wm-license-cc-free-to-share-header": "ӱлерге",
 	"wm-license-cc-free-to-share-text": "бу эдимниҥ копиязын эдерге, таркадаарга ла берерге",
@@ -15,5 +15,5 @@
 	"wm-license-cc-conditions-attribution-header": "аттрибуциязы",
 	"wm-license-cc-conditions-attribution-text": "Слерге авторын бичип салар керек, лицензияныҥ тайантызын кӧргӱзип, темдектеп салар керек кандый солынтыларды автор эткен. Мыны кандый да болзо санаалу эп-аргала эдерге јарар, је томылтпас керек лицензиат слерди јӧмӧп турган деп эмезе оныҥ эдимин слер эдингенин учун.",
 	"wm-license-cc-conditions-share_alike-header": "андый ла айалгалар аайынча таркадат",
-	"wm-license-cc-conditions-share_alike-text": "Бу чӱмдемел аайынча кубултып, ӧскӧртип эмезе ӧскӧ чӱмдемелди тӧзӧп ийзер, слер бу чӱмдемелдиҥ лицензиязын эдинер учурлу, эмезе [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses јаражып турганын эдинер]."
+	"wm-license-cc-conditions-share_alike-text": "Бу чӱмдемел аайынча кубултып, ӧскӧртип эмезе ӧскӧ чӱмдемелди тӧзӧп ийзер, слер бу чӱмдемелдиҥ лицензиязын эдинер учурлу, эмезе [[ccorg:share-your-work/licensing-considerations/compatible-licenses јаражып турганын эдинер]]."
 }
