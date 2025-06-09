@@ -5,7 +5,8 @@
 			"MIKHEIL",
 			"OpusDEI",
 			"Otogi",
-			"Გიო ოქრო"
+			"Გიო ოქრო",
+			"Mehman97"
 		]
 	},
 	"project-localized-name-aawiki": "აფარული ვიკიპედია",
@@ -100,5 +101,6 @@
 	"project-localized-name-gawikiquote": "ირლანდიური ვიკიციტატა",
 	"project-localized-name-gawiktionary": "ირლანდიური ვიქსიკონი",
 	"project-localized-name-kawiki": "ქართული ვიკიპედია",
+	"project-localized-name-wikidatawiki": "ვიკიმონაცემები",
 	"project-localized-name-wikimaniawiki": "ვიკიმანიის ვიკი"
 }

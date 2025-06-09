@@ -201,5 +201,6 @@
 	"restriction-level-editautopatrolprotected": "ahli auto ronda terlindung",
 	"group-docseditor": "Penyunting pendokumenan",
 	"action-docseditor": "sunting pendokumenan",
-	"right-docseditor": "Sunting pendokumenan"
+	"right-docseditor": "Sunting pendokumenan",
+	"ipinfo-global-contributions-url-label": "Sumbangan sejagat"
 }
