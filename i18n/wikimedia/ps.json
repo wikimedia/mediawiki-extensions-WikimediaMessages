@@ -26,6 +26,7 @@
 	"group-autopatrolled": "خپلواک ګښت",
 	"group-autopatrolled-member": "{{GENDER:$1|خپلواک ګښت}}",
 	"grouppage-autopatrolled": "{{ns:project}}:خپلواک ګښت",
+	"group-global-temporary-account-viewer": "د ټوليزه لنډمهاله گڼون وېبپتې کتونکي",
 	"group-confirmed": "تاييد شوي کارنان",
 	"group-confirmed-member": "{{GENDER:$1|تاييد شوی کارن}}",
 	"grouppage-confirmed": "{{ns:project}}:تاييد شوي کارنان",
