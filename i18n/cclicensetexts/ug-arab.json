@@ -1,12 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Uzdil"
+			"Uzdil",
+			"Sahran"
 		]
 	},
 	"wm-license-cc-attribution": "ئىمزا",
 	"wm-license-cc-free": "سىز ئەركىن:",
 	"wm-license-cc-free-to-share-header": "بەھىرلەش",
+	"wm-license-cc-free-to-share-text": "كۆچۈرۈپ، تارقىتىپ ۋە مەزكۇر ئەسەرنى يەتكۈزىدۇ",
 	"wm-license-cc-free-to-remix-header": "ئۆزگەرتىش",
 	"wm-license-cc-free-to-remix-text": "ئىجادىي ئەسەر",
 	"wm-license-cc-conditions": "تۆۋەندىكى شەرتلەرگە چوقۇم ئەمەل قىلىڭ:",

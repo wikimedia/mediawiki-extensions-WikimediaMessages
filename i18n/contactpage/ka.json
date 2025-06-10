@@ -2,12 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"David1010",
-			"MIKHEIL"
+			"MIKHEIL",
+			"Mehman97"
 		]
 	},
 	"contactpage-license-request-username": "მომხმარებლის სახელი *",
 	"contactpage-license-request-use-print": "ბეჭდვა",
 	"contactpage-license-request-use-other": "სხვა",
+	"contactpage-wikimedia-trademark-foundation": "ფონდი ვიკიმედია",
 	"contactpage-wikimedia-trademark-commons": "ვიკისაწყობი",
 	"contactpage-wikimedia-trademark-wikibooks": "ვიკიწიგნები",
 	"contactpage-wikimedia-trademark-wikimania": "ვიკიმანია",
