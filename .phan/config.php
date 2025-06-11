@@ -11,6 +11,7 @@ $cfg['directory_list'] = array_merge(
 		'../../extensions/GuidedTour',
 		'../../extensions/MobileFrontend',
 		'../../extensions/ORES',
+		'../../extensions/MetricsPlatform',
 		'../../skins/MinervaNeue',
 	]
 );
@@ -24,6 +25,7 @@ $cfg['exclude_analysis_directory_list'] = array_merge(
 		'../../extensions/GuidedTour',
 		'../../extensions/MobileFrontend',
 		'../../extensions/ORES',
+		'../../extensions/MetricsPlatform',
 		'../../skins/MinervaNeue',
 	]
 );

@@ -53,10 +53,12 @@
 				"LinkRenderer",
 				"MainConfig",
 				"PermissionManager",
-				"UserOptionsLookup"
+				"UserOptionsLookup",
+				"UrlUtils"
 			],
 			"optional_services": [
-				"MobileFrontend.Context"
+				"MobileFrontend.Context",
+				"MetricsPlatform.XLab.ExperimentManager"
 			]
 		},
 		"WikimediaMessagesCampaignEventsHooks": {
