@@ -5,7 +5,8 @@
 			"MIKHEIL",
 			"OpusDEI",
 			"Otogi",
-			"Გიო ოქრო"
+			"Გიო ოქრო",
+			"Mehman97"
 		]
 	},
 	"project-localized-name-aawiki": "აფარული ვიკიპედია",
@@ -88,6 +89,7 @@
 	"project-localized-name-cswikiversity": "ჩეხური ვიკივერსიტეტი",
 	"project-localized-name-cswiktionary": "ჩეხური ვიქსიკონი",
 	"project-localized-name-dinwiki": "დინკა ვიკიპედია",
+	"project-localized-name-foundationwiki": "ფონდ ვიკიმედია ადმინისტრაციული საიტი",
 	"project-localized-name-frwiki": "ფრანგული ვიკიპედია",
 	"project-localized-name-frwikibooks": "ფრანგულიი ვიკიწიგნები",
 	"project-localized-name-frwikinews": "ფრანგული ვიკისიახლეები",
@@ -101,5 +103,6 @@
 	"project-localized-name-gawikiquote": "ირლანდიური ვიკიციტატა",
 	"project-localized-name-gawiktionary": "ირლანდიური ვიქსიკონი",
 	"project-localized-name-kawiki": "ქართული ვიკიპედია",
+	"project-localized-name-wikidatawiki": "ვიკიმონაცემები",
 	"project-localized-name-wikimaniawiki": "ვიკიმანიის ვიკი"
 }

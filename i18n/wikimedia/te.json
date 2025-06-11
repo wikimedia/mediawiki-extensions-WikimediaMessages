@@ -13,7 +13,8 @@
 			"Suryavnk",
 			"Varnent",
 			"Veeven",
-			"రహ్మానుద్దీన్"
+			"రహ్మానుద్దీన్",
+			"Rajadvamshi"
 		]
 	},
 	"wikimediamessages-desc": "వికీమీడియా సంబంధిత సందేశాలు",
@@ -157,6 +158,7 @@
 	"ext-quicksurveys-tst-internal-survey-additional-info": "మీరు వేధింపులకు లోనైనా, వేధింపులను గమనించినా [https://meta.wikimedia.org/wiki/Trust_and_Safety/Resources ఈ వనరులను చూడండి].",
 	"ext-quicksurveys-tst-internal-survey-confirm-msg": "మీ ఫీడ్‌బ్యాక్‌కు ధన్యవాదాలు.",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "గత 30 రోజుల్లో, {{SITENAME}} ({{SERVERNAME}}) లో కృషి చెయ్యడంలో మీకు అభద్రతా భావం గానీ,  అసౌకర్యం గానీ కలిగిందా?",
+	"ipinfo-global-contributions-url-label": "విశ్వ పాలు",
 	"wikimedia-foundation-projects-of-label-nolink": "వికీమీడియా ఫౌండేషన్ ప్రాజెక్టులు",
 	"wikimedia-projects-label": "వికీమీడియా ప్రాజెక్టులు",
 	"wikimedia-movement-affiliates-shortlabel": "ఉద్యమ అనుబంధ సంస్థలు",

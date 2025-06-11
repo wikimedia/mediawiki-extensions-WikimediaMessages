@@ -88,7 +88,8 @@
 			"Yekrats",
 			"Zetud",
 			"Zolo",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"NicoScribe"
 		]
 	},
 	"wikimediamessages-desc": "Messages spécifiques de Wikimédia",
@@ -115,7 +116,10 @@
 	"group-abusefilter-helper-member": "assistant{{GENDER:$1||e}} de filtres anti-abus",
 	"group-abusefilter-maintainer": "Mainteneurs des filtres anti-abus",
 	"group-abusefilter-maintainer-member": "mainteneu{{GENDER:$1|r|se}} des filtres anti-abus",
+	"group-global-abusefilter-helper": "Aides au filtrage des abus",
+	"group-global-abusefilter-helper-member": "assistant{{GENDER:$1||e}} de filtres anti-abus",
 	"group-global-abusefilter-maintainer": "Mainteneurs des filtres anti-abus",
+	"group-global-abusefilter-maintainer-member": "mainteneu{{GENDER:$1|r|se}} des filtres anti-abus",
 	"group-accountcreator": "Créateurs de comptes",
 	"group-accountcreator-member": "créat{{GENDER:$1|eur|crice}} de comptes",
 	"grouppage-accountcreator": "{{ns:project}}:Créateurs de comptes",

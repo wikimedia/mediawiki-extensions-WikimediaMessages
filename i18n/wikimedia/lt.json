@@ -16,7 +16,8 @@
 			"Varnent",
 			"Vogone",
 			"Vpovilaitis",
-			"Zygimantus"
+			"Zygimantus",
+			"Matma Rex"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
@@ -93,9 +94,9 @@
 	"group-templateeditor": "Šablonų redaktoriai",
 	"group-templateeditor-member": "{{GENDER:$1|šablonų redaktorius|šablonų redaktorė}}",
 	"grouppage-templateeditor": "{{ns:project}}:Šablonų redaktoriai",
-	"group-trusted": "Patvirtinti naudotojai",
-	"group-trusted-member": "{{GENDER:$1|patvirtintas naudotojas|patvirtinta naudotoja}}",
-	"grouppage-trusted": "{{ns:project}}:Patvirtinti naudotojai",
+	"group-trusted": "Trusted users",
+	"group-trusted-member": "{{GENDER:$1|trusted user}}",
+	"grouppage-trusted": "{{ns:project}}:Trusted users",
 	"group-uploader": "Įkėlėjai",
 	"group-uploader-member": "{{GENDER:$1|įkėlėjas|įkėlėja}}",
 	"grouppage-uploader": "{{ns:project}}:Įkėlėjai",
