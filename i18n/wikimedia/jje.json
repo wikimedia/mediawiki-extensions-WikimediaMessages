@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"고솜"
+			"고솜",
+			"Whatback11"
 		]
 	},
 	"sitesupport": "기부",
@@ -12,5 +13,7 @@
 	"wikibase-sitelinks-wikiquote": "위키인용집",
 	"wikibase-sitelinks-wikisource": "위키소스",
 	"wikibase-sitelinks-wikivoyage": "위키항헤",
-	"wikimedia-developers": "게발자"
+	"wikimedia-developers": "게발자",
+	"wikimedia-statslink": "통계",
+	"wikimedia-cookiestatement": "쿠키 질심이"
 }
