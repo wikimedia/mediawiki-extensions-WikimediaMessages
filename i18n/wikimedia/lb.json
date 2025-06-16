@@ -206,6 +206,8 @@
 	"wikimedia-statslink": "Statistiken",
 	"wikimedia-cookiestatement": "Cookieerklärung",
 	"ext-quicksurveys-performance-internal-survey-question": "Gouf dës Säit séier genuch gelueden?",
+	"group-oathauth-tester": "Tester vun der Zwee-Faktor-Authentifizéierung",
+	"group-oathauth-tester-member": "{{GENDER:$1|Tester vun der Zwee-Faktor-Authentifizéierung|Testerin vun der Zwee-Faktor-Authentifizéierung}}",
 	"querypage-updates-half-monthly": "Aktualisatioune fir dës Säit kommen zweemol am Mount.",
 	"querypage-updates-monthly": "Aktualisatioune fir dës Säit kommen eemol am Mount.",
 	"group-docseditor": "Editeure vun Dokumentatiounen",

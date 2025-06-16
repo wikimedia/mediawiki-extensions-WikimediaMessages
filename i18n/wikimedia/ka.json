@@ -24,7 +24,7 @@
 	},
 	"wikimediamessages-desc": "ვიკიმედიის სპეციფიკური წერილები",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=ka",
-	"sitesupport": "შემოწირულობა",
+	"sitesupport": "შემოწირულობები",
 	"tooltip-n-sitesupport": "მხარდაჭერა",
 	"specialpages-group-contribution": "წვლილი / ფონდრაიზერი",
 	"nstab-creator": "შემქმნელი",
@@ -150,6 +150,7 @@
 	"wikibase-otherprojects-testwikidata": "ვიკიმონაცემები",
 	"wikibase-otherprojects-mediawiki": "მედიავიკი",
 	"wikibase-otherprojects-meta": "მეტა-ვიკი",
+	"wikibase-otherprojects-outreach": "გავრცელება",
 	"wikibase-otherprojects-sources": "მრავალენოვანი ვიკიწყარო",
 	"wikibase-otherprojects-species": "ვიკისახეობები",
 	"wikibase-otherprojects-wikibooks": "ვიკიწიგნები",
@@ -193,6 +194,6 @@
 	"eri-wlfilters-tour-intro-preferences-description": "კონტროლის სიის გაუმჯობესებული ვერსიის გასათიშად ნებისმიერ დროს გადადით პარამეტრების სექციაში „კონტროლის სია“.",
 	"wikimedia-centralauth-contribs-locked": "ეს ანგარიში გლობალურად არის ჩაკეტილი. მეტი ინფორმაციისთვის იხილეთ [[m:Special:CentralAuth/$1|გლობალური ანგარიშის დეტალები]]",
 	"wikimedia-statslink": "სტატისტიკა",
-	"wikimedia-cookiestatement": "ქუქიების პოლიტიკა",
+	"wikimedia-cookiestatement": "მზა ფაილების პოლიტიკა",
 	"ipinfo-global-contributions-url-label": "გლობალური წვლილი"
 }
