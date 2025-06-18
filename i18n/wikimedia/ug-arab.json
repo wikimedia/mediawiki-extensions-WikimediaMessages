@@ -81,7 +81,7 @@
 	"group-sysadmin": "سىستېما باشقۇرغۇچى",
 	"group-sysadmin-member": "سىستېما باشقۇرغۇچى",
 	"shared-repo-name-shared": "ۋىكى ۋاستە ھەمبەھىر",
-	"wikimedia-copyrightwarning": "ئۆزگەرتىش ساقلانسا، سىز [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ئىشلىتىش شەرتى]ۋە [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 ئىجازىتى] گە قوشۇلغان ۋە [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] غا يېنىۋالغىلى بولمايدىغان ھالدا قوشۇلىدىغانلىقىنى بىلدۈرىدۇ. بىلىمنى ھەمبەھىرلەش ئىجازەت كېلىشىمى بويىچە ئۇلانما ياكى تور ئادرېسىدا مەزمۇنىڭىزغا ئىمزا قويۇشقا قوشۇلىدىغانلىقىڭىزنى بىلدۈرىدۇ.",
+	"wikimedia-copyrightwarning": "ئۆزگەرتىش ساقلانسا، سىز [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ئىشلىتىش شەرتى] ۋە [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 ئىجازىتى] گە قوشۇلغان ۋە [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] غا يېنىۋالغىلى بولمايدىغان ھالدا قوشۇلىدىغانلىقىنى بىلدۈرىدۇ. ئاممىۋى ئىجادىيەت ئىجازەت كېلىشىمى بويىچە ئۇلانما ياكى تور ئادرېسىدا مەزمۇنىڭىزغا ئىمزا قويۇشقا قوشۇلىدىغانلىقىڭىزنى بىلدۈرىدۇ.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|خۇش كەپسىز}}، $1!",
 	"wikibase-sitelinks-wikinews": "ۋىكىخەۋەر",
 	"wikibase-sitelinks-wikiquote": "ۋىكىئۈزۈندە",

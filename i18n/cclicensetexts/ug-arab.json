@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "ئىمزا",
+	"wm-license-cc-by-sa-3.0-text": "بۇ ھۆججەت [[{{int:wm-license-cc-wiki-link}}|ئاممىۋى ئىجادىيەت]][[creativecommons\n:by-sa/3.0/deed.en|ئىمزا قويۇش-ئوخشاش ئۇسۇلدا ھەمبەھىرلەش 3.0 يەرلەشتۈرۈلمىگەن نەشرى]] ئىجازىتىنى قوللىنىدۇ.",
 	"wm-license-cc-free": "سىز ئەركىن:",
 	"wm-license-cc-free-to-share-header": "بەھىرلەش",
 	"wm-license-cc-free-to-share-text": "كۆچۈرۈپ، تارقىتىپ ۋە مەزكۇر ئەسەرنى يەتكۈزىدۇ",
@@ -13,6 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "ئىجادىي ئەسەر",
 	"wm-license-cc-conditions": "تۆۋەندىكى شەرتلەرگە چوقۇم ئەمەل قىلىڭ:",
 	"wm-license-cc-conditions-attribution-header": "ئىمزا",
-	"wm-license-cc-conditions-share_alike-header": "ئوخشاش ئۇسۇلدا بەھىرلەش",
+	"wm-license-cc-conditions-attribution-text": "سىز چوقۇم ئەسەر يازغۇچىسى، ئىجازەت ئۇلانمىسىنى تەمىنلەپ، ئەسلى مەزمۇنغا ئۆزگەرتىش كىرگۈزگەن كىرگۈزمىگەنلىكىڭىزنى چۈشەندۈرۈڭ. سىز خالىغان مۇۋاپىق ئۇسۇلدا يازغۇچىنى تەمىنلىسىڭىز بولىدۇ، ئەمما ھەر قانداق ئۇسۇلدا ئىجازەت بەرگۈچىنىڭ سىزنى ئېتىراپ قىلىدىغانلىقى ياكى ئىشلىتىشكە ئىجازەت بەرگەنلىكىنى تەۋسىيە قىلسىڭىز بولمايدۇ.",
+	"wm-license-cc-conditions-share_alike-header": "ئوخشاش ئۇسۇلدا ھەمبەھىر",
 	"wm-license-cc-conditions-share_alike-text": "ئەگەر سىز ئارىلاشتۇرۇپ، ئالماشتۇرۇپ ياكى مەزكۇر ئەسەر ئاساسىدا تۆھپە قوشماقچى بولسىڭىز، چوقۇم [[ccorg:share-your-work/licensing-considerations/compatible-licenses|ئەسلى ئىجازەت بىلەن ئوخشاش ياكى ماسلىشىدىغان ئىجازەت]]تە تۆھپە قوشقان ئەسىرىڭىزنى تارقىتىڭ."
 }
