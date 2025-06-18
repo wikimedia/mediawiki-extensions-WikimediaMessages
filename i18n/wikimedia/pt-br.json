@@ -96,7 +96,7 @@
 	"group-botadmin": "Robôs com direitos de administrador",
 	"group-botadmin-member": "{{GENDER:$1|robô com direitos de administrador}}",
 	"grouppage-botadmin": "{{ns:project}}: Robôs com direitos de administrador",
-	"group-global-temporary-account-viewer": "Visualizadores de IP de contas temporárias",
+	"group-global-temporary-account-viewer": "Visualizadores de IP de contas temporárias globais",
 	"group-confirmed": "Usuários confirmados",
 	"group-confirmed-member": "{{GENDER:$1|usuário confirmado|usuária confirmada|usuário(a) confirmado(a)}}",
 	"grouppage-confirmed": "{{ns:project}}:Usuários confirmados",
