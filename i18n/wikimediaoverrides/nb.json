@@ -5,7 +5,8 @@
 			"Gabriel Kielland",
 			"Imre Eilertsen",
 			"Jon Harald Søby",
-			"Nemo bis"
+			"Nemo bis",
+			"EdoAug"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besøkende til denne wikien med din IP-adresse har opprettet {{PLURAL:$1|én konto|$1 kontoer}} det siste døgnet, som er det maksimale tillatte antallet i tidsperioden.\nPå grunn av dette kan ikke besøkende fra denne IP-adressen opprette flere kontoer for øyeblikket.\n\nOm du deltar på et arrangement med fokus på bidrag på Wikimedia-prosjekter, se [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Mass account creation]] for å løse problemet.",
