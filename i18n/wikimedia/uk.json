@@ -90,7 +90,7 @@
 	"group-botadmin-member": "{{GENDER:$1|бот з правами адміністратора}}",
 	"grouppage-botadmin": "{{ns:project}}:Боти з правами адміністратора",
 	"group-global-temporary-account-viewer": "Глобальні переглядачі тимчасових облікових записів",
-	"group-global-temporary-account-viewer-member": "{{GENDER:$1|Глобальний переглядач тимчасових облікових записів|Глобальна переглядачка тимчасових облікових записів}}",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|глобальний переглядач тимчасових облікових записів|глобальна переглядачка тимчасових облікових записів}}",
 	"group-confirmed": "Підтверджені користувачі",
 	"group-confirmed-member": "{{GENDER:$1|підтверджений користувач|підтверджена користувачка}}",
 	"grouppage-confirmed": "{{ns:project}}:Підтверджені користувачі",

@@ -371,6 +371,7 @@
 	"tooltip-gadget-purgetab-text": "이 문서의 서버 캐시를 새로 고칩니다",
 	"gadget-purgetab-error": "새로 고침 실패",
 	"gadget-souspages-subpages": "하위 문서",
+	"ext-campaignevents-register-policy": "등록을 하면 귀하는 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 이용 약관], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 개인정보 보호정책], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct 세계 행동 강령] 및 이벤트 주최측에서 제공하는 모든 현지 친화적 공간 정책에 동의하는 것으로 간주됩니다.",
 	"readinglists-import-app-with-link": "위키백과 앱의 최신 버전을 [$1 다운로드]하여 설치:",
 	"research-incentive-answer-positive": "예",
 	"research-incentive-answer-negative": "아니오",
