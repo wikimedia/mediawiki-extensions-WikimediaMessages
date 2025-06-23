@@ -4,9 +4,14 @@
 			"Sauit"
 		]
 	},
+	"wm-license-cc-attribution": "Атрибуция",
 	"wm-license-cc-free": "Эһиги һатаан:",
 	"wm-license-cc-free-to-share-header": "файлы бэриһиэккин һөп",
 	"wm-license-cc-free-to-share-text": "Копируйдуурга, диэлийэргэ уонна таргаталарга",
+	"wm-license-cc-free-to-remix-header": "Ремикстары тэрий",
 	"wm-license-cc-free-to-remix-text": "файлы уларытыаккын һөп",
-	"wm-license-cc-conditions-attribution-header": "атрибуция"
+	"wm-license-cc-conditions": "Бу усулуобуйалары тутуһуохтааххын:",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
+	"wm-license-cc-conditions-attribution-text": "Ааптары, лиссиэнсийэ тиэксигэр сигэни уонна ааптар уларыппытын дуу, суоҕун дуу ыйыахтааххын. Ханнык баҕарар ньыманнан ыйарыҥ бобуллубат, ол эрээри онтукаҥ лицензиат Эйигин бэйэҕин дуу, бу маны туһанаргын дуу өйүүрүн курдук санааны үөскэтиэ суохтаах.",
+	"wm-license-cc-conditions-share_alike-header": "эмиэ оннук усулуобуйаҕа тарҕатыллар"
 }

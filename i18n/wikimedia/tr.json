@@ -117,7 +117,7 @@
 	"group-mover": "Taşıyıcılar",
 	"group-mover-member": "{{GENDER:$1|taşıyıcı}}",
 	"grouppage-mover": "{{ns:project}}:Taşıyıcılar",
-	"group-flood": "Pseudobots",
+	"group-flood": "Sahte botlar",
 	"group-flood-member": "{{GENDER:$1|pseudobots}}",
 	"grouppage-flood": "{{ns:project}}:Pseudobots",
 	"group-founder": "Kurucular",
