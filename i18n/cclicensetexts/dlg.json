@@ -4,10 +4,15 @@
 			"Sauit"
 		]
 	},
+	"wm-license-cc-attribution": "Атрибуция",
+	"wm-license-cc-by-sa-3.0-text": "Этот файл доступен по лицензии [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.ru|Attribution-Share Alike 3.0 Unported]].",
 	"wm-license-cc-free": "Эһиги һатаан:",
 	"wm-license-cc-free-to-share-header": "файлы бэриһиэккин һөп",
 	"wm-license-cc-free-to-share-text": "Копируйдуурга, диэлийэргэ уонна таргаталарга",
 	"wm-license-cc-free-to-remix-header": "Ремикстары тэрий",
 	"wm-license-cc-free-to-remix-text": "файлы уларытыаккын һөп",
-	"wm-license-cc-conditions-attribution-header": "атрибуция"
+	"wm-license-cc-conditions": "Бу усулуобуйалары тутуһуохтааххын:",
+	"wm-license-cc-conditions-attribution-header": "атрибуция",
+	"wm-license-cc-conditions-attribution-text": "Ааптары, лиссиэнсийэ тиэксигэр сигэни уонна ааптар уларыппытын дуу, суоҕун дуу ыйыахтааххын. Ханнык баҕарар ньыманнан ыйарыҥ бобуллубат, ол эрээри онтукаҥ лицензиат Эйигин бэйэҕин дуу, бу маны туһанаргын дуу өйүүрүн курдук санааны үөскэтиэ суохтаах.",
+	"wm-license-cc-conditions-share_alike-header": "эмиэ оннук усулуобуйаҕа тарҕатыллар"
 }
