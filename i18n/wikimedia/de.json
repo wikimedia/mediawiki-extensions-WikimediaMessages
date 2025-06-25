@@ -423,7 +423,7 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-neutral": "Ich bin mir nicht sicher",
 	"ext-quicksurveys-internal-gdi-safety-survey-privacy-policy": "Diese anonyme Umfrage wird von der Wikimedia Foundation durchgeführt. [https://meta.wikimedia.org/wiki/Community_Safety Weitere Informationen] oder lies die [https://foundation.wikimedia.org/wiki/Legal:Community_Safety_Survey_Privacy_Statement Datenschutzbestimmungen].",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-survey-question": "{{#FORMAL:Möchtest du|Möchten Sie}} an einer kurzen Umfrage teilnehmen, um die Werkzeuge zu verbessern, die für die Überprüfung oder Zurücksetzung von Bearbeitungen in {{#FORMAL:deinem|Ihrem}} Wiki verwendet werden?",
-	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/de unserer Datenschutzerklärung]",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/de Datenschutzerklärung]",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Ja",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Nein, danke",
 	"gadget-curidlink-link-by-id": "Verknüpfung nach ID",
