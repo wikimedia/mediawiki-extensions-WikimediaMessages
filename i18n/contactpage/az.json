@@ -5,7 +5,8 @@
 			"Eldarado",
 			"NMW03",
 			"Nemoralis",
-			"Wertuose"
+			"Wertuose",
+			"Əkrəm"
 		]
 	},
 	"contactpage-title-requestlicense": "Lisenziya formasını tələb et",
@@ -52,5 +53,5 @@
 	"contactpage-license-abuse-theircontact": "Nişandan sui-istifadə edən şəxsin əlaqə məlumatları (əgər məlumdursa)",
 	"contactpage-license-abuse-yourcontact": "Əlaqə məlumatınız (sizinlə əlaqə saxlaya bilsək)",
 	"contactpage-title-stewards": "Stüardlarla əlaqə saxlayın",
-	"contactpage-blocked-message-accountvanishapps": "Üzr istəyirik, deyəsən hesabınız və ya IP ünvanınız hazırda mesaj göndərməkdən bloklanıb. Bloklanmış halda Siz Hesabın Silmə Formasından istifadə edə bilməyəcəksiniz. Hesabın silinməsinə davam etmək üçün {{NonSpamEmail|privacy|wikimedia.org}} ünvanına e-məktub göndərin."
+	"contactpage-blocked-message-accountvanishapps": "Üzr istəyirik, görünür, hesabınız və ya IP ünvanınız hazırda mesaj göndərməkdən bloklanıb. Bloklanmış halda Siz \"Hesabsilmə Forması\"ndan istifadə edə bilməyəcəksiniz. Hesabın silinməsinə davam etmək üçün, zəhmət olmasa, {{NonSpamEmail|privacy|wikimedia.org}} ünvanına e-məktub göndərin."
 }
