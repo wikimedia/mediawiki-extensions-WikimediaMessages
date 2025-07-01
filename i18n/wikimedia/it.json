@@ -36,7 +36,8 @@
 			"Varnent",
 			"ZandDev",
 			"ValeJappo",
-			"Samoasambia"
+			"Samoasambia",
+			"GryffindorD"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -294,6 +295,7 @@
 	"gadget-souspages-subpages": "Sottopagine",
 	"readinglists-import-app": "Per importare questo elenco di lettura, installa l'ultima versione dell'app Wikipedia:",
 	"readinglists-import-app-with-link": "[$1 Scarica] e installa l'ultima versione dell'app Wikipedia:",
+	"ipinfo-global-contributions-url-label": "Contributi globali",
 	"wikimedia-foundation-projects-label": "Progetti della Fondazione Wikimedia",
 	"wikimedia-foundation-projects-of-label-link": "Progetti della [[$1|Wikimedia Foundation]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Progetti della Wikimedia Foundation",
