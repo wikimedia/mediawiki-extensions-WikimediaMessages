@@ -11,7 +11,9 @@
 			"Nguyên Lê",
 			"Nhatminh01",
 			"Trần Nguyễn Minh Huy",
-			"Vinhtantran"
+			"Vinhtantran",
+			"Doraemonluonbentoi",
+			"Nvdtn19"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Những người truy cập vào wiki này từ địa chỉ IP của bạn đã mở {{PLURAL:$1|1 tài khoản}} chỉ trong một ngày, và cũng là số lượng tối đa được phép trong khoảng thời gian đó.\nDo đó, những người truy cập từ địa chỉ IP này sẽ không thể mở thêm tài khoản vào thời điểm này.\n\nNếu bạn đang tham dự một sự kiện với chủ đề đóng góp vào các dự án Wikimedia, vui lòng xem [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Yêu cầu tạm dỡ bỏ hạn mức IP]] (tiếng Anh) để giúp giải quyết vấn đề này.",
@@ -23,6 +25,7 @@
 	"createacct-helpusername-url": "{{ns:Project}}:Tên người dùng",
 	"wikimedia-delete-toobig": "Trang này có lịch sử sửa đổi dài, hơn $1 phiên bản.\nTác vụ xóa trang có lịch sử sửa đổi rất dài được hạn chế để cho {{SITENAME}} khỏi bị gián đoạn.\nXin hãy liên lạc với [[m:Special:MyLanguage/Stewards|các tiếp viên]] ở [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous tại Meta]] để yêu cầu xóa trang này.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Nhấn vào “$1” có nghĩa là bạn đồng ý với các [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi Điều khoản Sử dụng] và phát hành nội dung mình đóng góp {{PLURAL:$3|theo}} $2. Bạn không thể rút lại thỏa thuận này.",
+	"wikimedia-emailauth-login-help": "Liên hệ ca@wikimedia.org nếu bạn không còn quyền truy cập vào địa chỉ email của tài khoản của mình",
 	"wikimedia-feedback-termsofuse": "Tôi đồng ý gửi phản hồi theo các [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Điều khoản Sử dụng].",
 	"wikimedia-flow-terms-of-use-new-topic": "Với việc bấm “{{int:flow-newtopic-save}}”, bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].",
 	"wikimedia-flow-terms-of-use-reply": "Với việc bấm “{{int:flow-reply-link}}”, bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi các Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn theo [https://creativecommons.org/licenses/by-sa/3.0/deed.vi Giấy phép CC Ghi công–Chia sẻ tương tự 3.0] và [https://vi.wikipedia.org/wiki/Wikipedia:Nguyên_văn_Giấy_phép_Tài_liệu_Tự_do_GNU GFDL].",

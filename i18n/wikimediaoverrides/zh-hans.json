@@ -19,7 +19,8 @@
 			"WhitePhosphorus",
 			"Yfdyh000",
 			"沈澄心",
-			"Kcx36"
+			"Kcx36",
+			"Peterxy12"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "在最近一天，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账号}}，已达到此时间段内允许创建的最大账号数。因此，使用此IP地址的访客目前不能再创建更多账号。\n\n如果向维基媒体项目作出贡献是您当前参加的活动的重要事项，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
@@ -66,7 +67,7 @@
 	"wikimedia-centralauth-sul3-oathmanage-sitenotice-central": "维基媒体旗下wiki已切换为使用中心化身份验证域名（auth.wikimedia.org）。已存在的基于Web身份验证的通行密钥只可在原始设置的域名上管理。若要移除在auth.wikimedia.org引入前设立的WebAuthn通行密钥，请使用[$1 本地域名]。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隐私政策]",
 	"wikimedia-notification-body-oathauth-disable-other": "如果{{GENDER:$2|您}}并未提出此要求，{{GENDER:$2|您}}应当联系基金会信任和安全团队。",
-	"wikimedia-ipinfo-help-text": "您对此工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 信息工具指南]的约束。显示的信息来自MaxMind和[https://docs.spur.us/data-types Spur]。它可能不完全准确。",
+	"wikimedia-ipinfo-help-text": "您对此工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]的约束。显示的信息来自MaxMind和[https://docs.spur.us/data-types Spur]，可能不完全准确。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP信息工具使用MaxMind数据库来显示诸如粗略位置、代理信息，共享IP的设备数等详细信息。启用前，请阅读[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]。",
 	"wikimedia-ipinfo-preference-use-agreement": "我同意根据[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]来使用本工具，仅用于调查或阻止破坏、滥用或其他违反维基媒体基金会及社群方针的行为",
 	"wikimedia-similareditors-error-default": "发生了错误，我们正在调查中。如果问题持续存在，请于[https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors 此处]联系我们。",
