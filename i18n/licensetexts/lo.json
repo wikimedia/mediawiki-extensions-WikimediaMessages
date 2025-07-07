@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lookruk"
+			"Lookruk",
+			"RenKtv"
 		]
 	},
 	"wm-license-information-description": "ລາຍລະອຽດ",
+	"wm-license-information-source": "ແຫຼ່ງທີ່ມາ",
 	"wm-license-information-date": "ວັນທີ",
-	"wm-license-information-author": "ຜູ້ຂຽນ"
+	"wm-license-information-author": "ຜູ້ຂຽນ",
+	"wm-license-own-work": "ວຽກງານຂອງຂ້ອຍ"
 }

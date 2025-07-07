@@ -5,7 +5,8 @@
 			"Tuinui",
 			"Bebiezaza",
 			"Lookruk",
-			"Varnent"
+			"Varnent",
+			"RenKtv"
 		]
 	},
 	"wikimediamessages-desc": "ຂໍ້ຄວາມສະເພາະ ວິກິພີເດຍ",
@@ -18,6 +19,7 @@
 	"wikimedia-copyright": "ອະນຸຍາດໃຫ້ໃຊ້ເນື້ອໃນພາຍໃຕ້<a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ສັນຍາອະນຸຍາດຂອງ Creative Commons Attribution-ShareAlike</a>;\nແລະອາດມີເງື່ອນໄຂອື່ນໆໃນການໃຊ້ງານອີກນຳດ້ວຍ.\nເບິ່ງ<a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ເງື່ອນໄຂການໃຊ້ງານ</a>ສຳລັບລາຍລະອຽດເພີ່ມເຕີມ.",
 	"wikibase-repo-name": "ວິກິສົນເທດ",
 	"wikibase-sitelinks-wikinews": "ວິກິຂ່າວ",
+	"wikibase-sitelinks-wikisource": "ວິກີຊອດ",
 	"wikibase-sitelinks-wiktionary": "ວິກິພົດຈະນານຸກົມ",
 	"wikimedia-developers": "ຜູ້ພັດທະນາ",
 	"wikimedia-statslink": "ສະຖິຕິ",

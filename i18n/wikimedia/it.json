@@ -36,7 +36,8 @@
 			"Varnent",
 			"ZandDev",
 			"ValeJappo",
-			"Samoasambia"
+			"Samoasambia",
+			"GryffindorD"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -285,5 +286,6 @@
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Sì",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "No",
-	"gadget-souspages-subpages": "Sottopagine"
+	"gadget-souspages-subpages": "Sottopagine",
+	"ipinfo-global-contributions-url-label": "Contributi globali"
 }

@@ -8,7 +8,9 @@
 			"شاه زمان پټان"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "ستاسو د وېبپتې په کارولو سره د دې ويکي ليدونکو په تېره ورځ کې {{PLURAL:$1|1 گڼون جوړ کړی|$1 گڼونه جوړ کړي}}، کوم چې په دې موده کې ورکړل‌شوې اجازې وروستی بريد دی.\nپه پای کې د دې وېبپتې کارولو سره ليدونکي وسمهال نور گڼونه نشي جوړولی.\n\nکه تاسو په يوه داسې پېښه کې ياست چېرې چې د ويکيمېډيا پروژو کې مرستې ته اړتيا وي؛ مهرباني وکړئ، د دې ستونزې اوارولو کې د مرستې لپاره [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|د وېبپتې لڼدمهال کارونې اجازه]] وگورئ.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(په ټاکلو کې يې مرسته غواړم)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "تاسو کولی شئ خپل د غوره‌توبونو مخ د \n[[m:Special:CentralAuth/$1|ويکيمېډيا نورې پروژې چې تاسو پکې ونډه اخيستې ده]] کې وگورئ؛ ترڅو له دې پروژو څخه د خپل گڼون اومتوکي راکښته کړئ.",
 	"wikimedia-createacct-imgcaptcha-help": "انځور د کتلو وړ نه دی [[{{MediaWiki:createacct-captcha-help-url}}|د يو گڼون غوښتنه کول]]",
 	"wikimedia-centralauth-groupname": "ويکيمېډيا بنسټ",
 	"wikimedia-sitematrix": "د ويکي‌‌رسنۍ د ويکي‌گانو لړليک",
