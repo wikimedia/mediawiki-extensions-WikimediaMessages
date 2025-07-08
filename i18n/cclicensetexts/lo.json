@@ -1,9 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Lookruk"
+			"Lookruk",
+			"RenKtv"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "ໄຟລ໌ນີ້ໄດ້ຮັບອະນຸຍາດພາຍໃຕ້ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
+	"wm-license-cc-free-to-share-header": "ແບ່ງປັນ",
+	"wm-license-cc-free-to-share-text": "ເພື່ອຄັດລອກ, ແຈກຢາຍແລະຖ່າຍທອດວຽກງານ",
+	"wm-license-cc-conditions": "ພາຍ​ໃຕ້​ເງື່ອນ​ໄຂ​ດັ່ງ​ຕໍ່​ໄປ​ນີ້​:",
 	"wm-license-cc-conditions-attribution-header": "ສະແດງທີ່ມາ",
+	"wm-license-cc-conditions-attribution-text": "ທ່ານຕ້ອງບອກທີ່ມາຊັດເຈນ, ບອກແຫຼ່ງທີ່ມາກັບໃບອະນຸຍາດ, ແລະຊີ້ບອກວ່າມີການປ່ຽນແປງ. ທ່ານອາດຈະຕ້ອງເຮັດແນວນັ້ນໃນລັກສະນະທີ່ສົມເຫດສົມຜົນ, ແຕ່ບໍ່ແມ່ນໃນທາງໃດກໍ່ຕາມທີ່ແນະນໍາຜູ້ໃຫ້ໃບອະນຸຍາດຮັບຮອງເຈົ້າຫຼືການນໍາໃຊ້ຂອງເຈົ້າ.",
 	"wm-license-cc-conditions-share_alike-header": "ແບ່ງປັນຄືກັນ"
 }
