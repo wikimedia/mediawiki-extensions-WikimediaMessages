@@ -54,5 +54,8 @@
 	"wikimedia-ipinfo-preference-use-agreement": "Prohlašuji, že budu tento nástroj používat v souladu s [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pokyny k nástroji Informace o IP], výhradně pro vyšetřování nebo prevenci vandalismu, zneužívání a dalších porušení pravidel nadace Wikimedia nebo komunity.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Vaše IP adresa byla [[m:Special:MyLanguage/Global blocks|zablokována na všech wiki]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Jeden nebo více proxy serverů, které váš požadavek používá, bylo [[m:Special:MyLanguage/Global blocks|globálně zablokováno]].",
-	"wikimedia-globalblocking-blockedtext-mistake": "Pokud se domníváte, že jste byli zablokováni omylem, můžete najít více informací a pokyny v globálním pravidle [[m:Special:MyLanguage/No open proxies|Žádné otevřené proxy]].\nPokud chcete zablokování prodiskutovat, můžete [[m:Steward requests/Global|napsat žádost o přezkum na Meta-Wiki]]."
+	"wikimedia-globalblocking-blockedtext-mistake": "Pokud se domníváte, že jste byli zablokováni omylem, můžete najít více informací a pokyny v globálním pravidle [[m:Special:MyLanguage/No open proxies|Žádné otevřené proxy]].\nPokud chcete zablokování prodiskutovat, můžete [[m:Steward requests/Global|napsat žádost o přezkum na Meta-Wiki]].",
+	"wikimedia-skin-minerva-donate-banner-message": "Přispějte teď",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Pokud je pro vás Wikipedie užitečná, darujte ještě dnes.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Pokud pro vás byl tento projekt užitečný, darujte ještě dnes."
 }

@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gaison001"
+			"Gaison001",
+			"Rwang PS"
 		]
 	},
-	"sitesupport": "Nor sele"
+	"sitesupport": "Nor sele",
+	"wikibase-sitelinks-wikinews": "Vurumha",
+	"wikibase-sitelinks-wikiquote": "Vurumtoha",
+	"wikibase-sitelinks-wikisource": "Vurumtinse",
+	"wikibase-sitelinks-wikivoyage": "Vurumkweyel",
+	"wikimedia-developers": "Mwad yong",
+	"wikimedia-statslink": "Wuna basa",
+	"wikimedia-cookiestatement": "Pye kpwam"
 }
