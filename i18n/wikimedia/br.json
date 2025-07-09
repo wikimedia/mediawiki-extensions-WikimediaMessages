@@ -81,7 +81,7 @@
 	"grouppage-interface-editor": "{{ns:project}}:Aozerien an etrefas",
 	"group-ipblock-exempt": "Na sell ket ar stankadennoù IP outo",
 	"group-ipblock-exempt-member": "{{GENDER:$1|na sell ket ar stankañ IPoù outañ}}",
-	"grouppage-ipblock-exempt": "{{ns:project}}:Nemedenn bloc'had IP",
+	"grouppage-ipblock-exempt": "{{ns:project}}:Implijerien na sell ket ar stankadennoù IP outo",
 	"group-patroller": "Patrouilherien",
 	"group-patroller-member": "{{GENDER:$1|patrouilher|patrouilherez}}",
 	"grouppage-patroller": "{{ns:project}}:Patrouilherien",
