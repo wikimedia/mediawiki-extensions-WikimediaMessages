@@ -4,6 +4,7 @@ declare( strict_types = 1 );
 
 namespace MediaWiki\Extension\WikimediaMessages;
 
+use Collator;
 use MediaWiki\Extension\CLDR\CountryNames;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Message\Message;
@@ -589,6 +590,8 @@ class ArticleCountryFiltersRegistry {
 	 *
 	 * @param array $countryCodes
 	 * @param array $cldrA2toLabelMap
+	 * @param Collator $collator
+	 * @throws UnexpectedValueException When a requested country code is not supported.
 	 * @return array [
 	 * 		[
 	 * 			'id' => 'afg',
@@ -597,7 +600,11 @@ class ArticleCountryFiltersRegistry {
 	 * 		...
 	 * ]
 	 */
-	private static function getCountries( array $countryCodes, array $cldrA2toLabelMap ): array {
+	private static function getCountries(
+		array $countryCodes,
+		array $cldrA2toLabelMap,
+		Collator $collator
+	): array {
 		$countries = [];
 
 		foreach ( $countryCodes as $a2 => $a3 ) {
@@ -617,7 +624,7 @@ class ArticleCountryFiltersRegistry {
 
 		usort(
 			$countries,
-			static fn ( array $a, array $b ) => strnatcasecmp( $a['label'], $b['label'] )
+			static fn ( array $a, array $b ) => $collator->compare( $a['label'], $b['label'] )
 		);
 
 		return $countries;
@@ -663,6 +670,7 @@ class ArticleCountryFiltersRegistry {
 	public static function getLocalizedRegionsAndCountries( string $languageCode ): array {
 		$regions = [];
 		$services = MediaWikiServices::getInstance();
+		$collator = new Collator( $languageCode );
 
 		if ( !$services->getExtensionRegistry()->isLoaded( 'CLDR' ) ) {
 			// todo: warning: CLDR extension not loaded
@@ -678,13 +686,13 @@ class ArticleCountryFiltersRegistry {
 			$regions[] = [
 				'id' => $region,
 				'label' => $labelMsg->text(),
-				'countries' => self::getCountries( $regionInfo['countries'], $cldrA2toLabelMap ),
+				'countries' => self::getCountries( $regionInfo['countries'], $cldrA2toLabelMap, $collator ),
 			];
 		}
 
 		usort(
 			$regions,
-			static fn ( array $a, array $b ) => strnatcasecmp( $a['label'], $b['label'] )
+			static fn ( array $a, array $b ) => $collator->compare( $a['label'], $b['label'] )
 		);
 
 		return $regions;
