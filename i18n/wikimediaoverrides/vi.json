@@ -3,6 +3,7 @@
 		"authors": [
 			"Băng Tỏa",
 			"Caden99",
+			"Chaiwan2009",
 			"Doraemonluonbentoi",
 			"Hide on Rosé",
 			"KhangND",
@@ -50,6 +51,7 @@
 	"wikimedia-webauthn-ui-login-prompt": "Vui lòng chạm vào thiết bị xác thực của bạn hoặc làm theo hướng dẫn trên trình duyệt. Xin lưu ý rằng bạn cần phải đăng nhập từ chính wiki mà bạn đã dùng để đăng ký thiết bị xác thực.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Quy_định_quyền_riêng_tư?uselang=vi Quy định quyền riêng tư]",
 	"wikimedia-ipinfo-preference-use-agreement": "Tôi đồng ý tuân thủ [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines Hướng dẫn về công cụ Thông tin IP] và chỉ sử dụng công cụ này để điều tra và ngăn chặn phá hoại hay các hành vi khác vi phạm quy định của cộng đồng hoặc Quỹ Wikimedia.",
+	"wikimedia-centralauth-admin-log-otherwiki": "Tài khoản này đã bị khóa. Xem [[meta:Special:CentralAuth/$1|chi tiết tài khoản toàn cầu trên Meta-Wiki]] để biết thêm chi tiết.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Địa chỉ IP của bạn đã bị [[m:Special:MyLanguage/Global blocks|cấm tại tất cả các wiki]].",
 	"wikimedia-globalblocking-blockedtext-appeal-user": "Để thảo luận về lệnh cấm xin hãy [[m:Steward requests/Global|tạo một yêu cầu trên Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Nếu bạn bị cấm do sự nhầm lẫn, bạn có thể xem thêm thông tin và hướng dẫn tại quy định toàn cục [[m:Special:MyLanguage/No open proxies|Không cho phép các proxy mở]].\nĐể thảo luận về vụ cấm này, xin vui lòng [[m:Steward requests/Global|yêu cầu kiểm tra lại tại Meta-Wiki]]."
