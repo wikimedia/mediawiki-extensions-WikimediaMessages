@@ -40,7 +40,8 @@
 			"Пан Хаунд",
 			"Varnent",
 			"Perohanych",
-			"Samoasambia"
+			"Samoasambia",
+			"Andygol"
 		]
 	},
 	"wikimediamessages-desc": "Повідомлення, характерні для Вікімедіа",
@@ -147,7 +148,7 @@
 	"group-researcher-member": "{{GENDER:$1|дослідник|дослідниця}}",
 	"grouppage-researcher": "{{ns:project}}:Дослідники",
 	"group-rollbacker": "Відкочувачі",
-	"group-rollbacker-member": "{{GENDER:$1|відкочувач|відкочувачка}}",
+	"group-rollbacker-member": "{{GENDER:$1|виконав|виконала}} відкат",
 	"grouppage-rollbacker": "{{ns:project}}:Відкочувачі",
 	"group-transwiki": "Transwiki-імпортери",
 	"group-transwiki-member": "{{GENDER:$1|transwiki-імпортер|transwiki-імпортерка}}",
