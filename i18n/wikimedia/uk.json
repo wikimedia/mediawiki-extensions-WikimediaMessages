@@ -155,7 +155,7 @@
 	"group-researcher-member": "{{GENDER:$1|дослідник|дослідниця}}",
 	"grouppage-researcher": "{{ns:project}}:Дослідники",
 	"group-rollbacker": "Відкочувачі",
-	"group-rollbacker-member": "{{GENDER:$1|виконав|виконала}} відкат",
+	"group-rollbacker-member": "{{GENDER:$1|відкочувач|відкочувачка}}",
 	"grouppage-rollbacker": "{{ns:project}}:Відкочувачі",
 	"group-scrutineer": "Перевірники",
 	"group-scrutineer-member": "{{GENDER:$1|перевірик|перевірниця}}",
