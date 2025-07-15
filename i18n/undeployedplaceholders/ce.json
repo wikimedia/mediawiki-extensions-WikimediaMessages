@@ -4,5 +4,8 @@
 			"Умар"
 		]
 	},
-	"wikimedia-usermerge-logpage": "Аккаунташ вовшахтохаран журнал"
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|дӀайаьккхина}} аккаунт \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Ардаман тайпа:",
+	"wikimedia-usermerge-logpage": "Аккаунташ вовшахтохаран журнал",
+	"wikimedia-usermerge-logpagetext": "ХӀара, аккаунташ вовшахтохаран журнал ду."
 }

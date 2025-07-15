@@ -356,6 +356,8 @@
 	"right-viewdeletedfile": "Ver arquivos e páginas nos espaços nominais {{ns:file}} e {{ns:file_talk}} que são excluídos",
 	"securepoll-dblist-securepollglobal": "Eleição do Conselho",
 	"wikimedia-statslink": "Estatísticas",
+	"wikimedia-wikistats-label": "Wikistats",
+	"wikimedia-wikistats-tagline": "Estatísticas da Wikimedia",
 	"wikimedia-cookiestatement": "Declaração sobre cookies",
 	"ext-quicksurveys-performance-internal-survey-question": "Esta página carregou rápido o suficiente?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade]desta pesquisa",

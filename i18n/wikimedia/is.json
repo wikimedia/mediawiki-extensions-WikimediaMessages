@@ -54,7 +54,7 @@
 	"group-staff": "Starfsfólk",
 	"group-staff-member": "Starfsmaður",
 	"group-steward": "Ráðsmenn",
-	"group-steward-member": "{{GENDER:$1|Ráðsmaður|Ráðskona}}",
+	"group-steward-member": "{{GENDER:$1|ráðsmaður|ráðskona}}",
 	"group-translationadmin": "Stjórnendur þýðinga",
 	"shared-repo-name-shared": "Wikimedia Commons",
 	"wikimedia-copyright-footer": "Textinn er í boði með [https://creativecommons.org/licenses/by-sa/4.0/deed.is Creative Commons Attribution-ShareAlike notkunarleyfi]; mögulega bætast við það einhverjir viðbótarskilmálar.\nSjá nánar í [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use notkunarskilmálum].",
