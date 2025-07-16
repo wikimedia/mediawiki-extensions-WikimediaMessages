@@ -90,7 +90,7 @@
 	"grouppage-researcher": "{{ns:project}}:Зерттеушілер",
 	"group-rollbacker": "Шегіндірушілер",
 	"group-rollbacker-member": "{{GENDER:$1|шегіндіруші}}",
-	"grouppage-rollbacker": "{{ns:project}}:Шегіндірушілер",
+	"grouppage-rollbacker": "{{ns:project}}:Шегіндіруші",
 	"group-transwiki": "Уикиаралық импорттаушылар",
 	"group-transwiki-member": "{{GENDER:$1|уикиаралық импорттаушылар}}",
 	"grouppage-transwiki": "{{ns:project}}:Уикиаралық импорттаушылар",
