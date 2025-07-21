@@ -148,7 +148,7 @@
 	"group-researcher-member": "{{GENDER:$1|дослідник|дослідниця}}",
 	"grouppage-researcher": "{{ns:project}}:Дослідники",
 	"group-rollbacker": "Відкочувачі",
-	"group-rollbacker-member": "{{GENDER:$1|виконав|виконала}} відкат",
+	"group-rollbacker-member": "{{GENDER:$1|відкочувач|відкочувачка}}",
 	"grouppage-rollbacker": "{{ns:project}}:Відкочувачі",
 	"group-transwiki": "Transwiki-імпортери",
 	"group-transwiki-member": "{{GENDER:$1|transwiki-імпортер|transwiki-імпортерка}}",

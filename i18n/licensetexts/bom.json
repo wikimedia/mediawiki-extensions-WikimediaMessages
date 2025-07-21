@@ -1,7 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Rwang PS"
+			"Rwang PS",
+			"Gadu Israel",
+			"Yakubu Musa"
 		]
 	},
 	"wm-license-information-description": "Nuna",
@@ -10,5 +12,6 @@
 	"wm-license-information-author": "Mwadjek",
 	"wm-license-information-permission": "Nonggapra",
 	"wm-license-information-permission-reusing-text": "Refeim nbak di lang bokrwang hemo",
-	"wm-license-own-work": "Vok fwom o"
+	"wm-license-own-work": "Vok fwom o",
+	"wm-license-self-multiple-licenses-select": "hô tòk kasâ reto de hwo semo."
 }

@@ -37,7 +37,8 @@
 			"FunnyYellowDog",
 			"Bluetpp",
 			"Samoasambia",
-			"Nvdtn19"
+			"Nvdtn19",
+			"NgocAnMaster"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -335,7 +336,7 @@
 	"eri-rcfilters-tour-confirm-description": "Mở <strong>trang tính năng beta</strong> để gửi phản hồi về tính năng này hoặc tắt nó.",
 	"eri-wlfilters-tour-intro-welcome-title": "Giới thiệu bộ lọc danh sách theo dõi cải thiện",
 	"eri-wlfilters-tour-intro-preferences-description": "Lúc nào bạn có thể vào thẻ Danh sách theo dõi trong Tùy chọn để quyết định tắt danh sách theo dõi cải thiện.",
-	"wikimedia-centralauth-contribs-locked": "Tài khoản này đã bị khóa trên toàn cầu.\nXem [[m:Special:CentralAuth/$1|chi tiết tài khoản toàn cầu]]  để biết thêm thông tin.",
+	"wikimedia-centralauth-contribs-locked": "Tài khoản này đã bị khóa toàn cục.\nXem [[m:Special:CentralAuth/$1|chi tiết tài khoản toàn cục]] để biết thêm thông tin.",
 	"action-viewdeletedfile": "xem các tập tin và trang bị xóa trong các không gian tên {{ns:file}} và {{ns:file_talk}}",
 	"right-viewdeletedfile": "Xem các tập tin và trang bị xóa trong các không gian tên {{ns:file}} và {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Bầu cử cho Ban Quản trị",
