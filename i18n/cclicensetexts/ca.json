@@ -11,6 +11,7 @@
 			"Multichill",
 			"Paucabot",
 			"SMP",
+			"Sma1997",
 			"Solde",
 			"Vriullop"
 		]
@@ -158,7 +159,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/si/deed.ca|Reconeixement i Compartir Igual 2.5 Eslovènia]].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/tw/deed.ca|Reconeixement i Compartir Igual 2.5 Taiwan]].",
 	"wm-license-cc-by-sa-2.5-za-text": "Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/za/deed.ca|Reconeixement i Compartir Igual 2.5 Sud-àfrica]].",
-	"wm-license-cc-by-sa-3.0-text": "Aquest fitxer està subjecte a la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.ca|Reconeixement i Compartir Igual 3.0 No adaptada]].",
+	"wm-license-cc-by-sa-3.0-text": "Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons.org/licenses/by-sa/3.0/deed.ca|Reconeixement-CompartirIgual 3.0 No adaptada]].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Aquest fitxer està subjecte a la llicència [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Reconeixement i Compartir Igual [[creativecommons:by-sa/3.0/deed.ca|3.0 No adaptada]], [[creativecommons:by-sa/2.5/deed.ca|2.5 Genèrica]], [[creativecommons:by-sa/2.0/deed.ca|2.0 Genèrica]] i [[creativecommons:by-sa/1.0/deed.ca|1.0 Genèrica]].",
 	"wm-license-cc-by-sa-3.0-at-text": "Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/at/deed.ca|Reconeixement i Compartir Igual 3.0 Àustria]].",
 	"wm-license-cc-by-sa-3.0-au-text": "Aquest fitxer està publicat sota la llicència de [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/au/|Atribució-CompartirIgual 3.0 Austràlia]].",
@@ -203,6 +204,6 @@
 	"wm-license-cc-conditions-attribution-header": "reconeixement",
 	"wm-license-cc-conditions-attribution-text": "Heu de donar la informació adequada sobre l'autor, proporcionar un enllaç a la llicència i indicar si s'han realitzat canvis. Podeu fer-ho amb qualsevol mitjà raonable, però de cap manera no suggereixi que l'autor us dóna suport o aprova l'ús que en feu.",
 	"wm-license-cc-conditions-share_alike-header": "compartir igual",
-	"wm-license-cc-conditions-share_alike-text": "Si modifiqueu, transformeu, o generareu amb el material, haureu de distribuir les vostres contribucions sota [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses una llicència similar o una de compatible] com l'original",
+	"wm-license-cc-conditions-share_alike-text": "Si modifiqueu, transformeu, o creeu a partir del material, heu de distribuir les vostres contribucions sota [[ccorg:share-your-work/licensing-considerations/compatible-licenses|una llicència similar o una de compatible]] amb l'original.",
 	"wm-license-cc-pd-mark-text": "Aquest fitxer està identificat com a lliure de restriccions conegudes sota la llei de drets d'autor, inclosos els drets veïns."
 }

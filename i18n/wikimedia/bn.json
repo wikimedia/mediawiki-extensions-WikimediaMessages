@@ -317,6 +317,7 @@
 	"querypage-updates-half-monthly": "এই পাতাটি মাসে দুইবার হালনাগাদ করা হয়।",
 	"querypage-updates-monthly": "এই পাতাটি মাসে একবার হালনাগাদ করা হয়।",
 	"restriction-level-editautopatrolprotected": "স্বয়ংক্রিয় পরীক্ষক সুরক্ষিত",
+	"restriction-level-editpatrolprotected": "টহলদানকারী সুরক্ষিত",
 	"right-edittrustedprotected": "\"{{int:protect-level-edittrustedprotected}}\" হিসাবে সুরক্ষিত পাতায় সম্পাদনা",
 	"group-docseditor": "নথিপত্র সম্পাদক",
 	"group-docseditor-member": "{{GENDER:$1|নথিপত্র সম্পাদক}}",
