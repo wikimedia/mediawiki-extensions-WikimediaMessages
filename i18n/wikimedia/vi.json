@@ -37,7 +37,8 @@
 			"FunnyYellowDog",
 			"Bluetpp",
 			"Samoasambia",
-			"Nvdtn19"
+			"Nvdtn19",
+			"NgocAnMaster"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -58,9 +59,9 @@
 	"group-otrs-member": "Thành viên VRT",
 	"group-otrs-member-member": "{{GENDER:$1}}thành viên VRT",
 	"grouppage-otrs-member": "{{ns:project}}:Thành viên VRT",
-	"group-abusefilter": "Người sửa bộ lọc sai phạm",
-	"group-abusefilter-member": "{{GENDER:$1}}người sửa bộ lọc sai phạm",
-	"grouppage-abusefilter": "{{ns:project}}:Người sửa bộ lọc sai phạm",
+	"group-abusefilter": "Kỹ thuật viên bộ lọc",
+	"group-abusefilter-member": "{{GENDER:$1}}kỹ thuật viên bộ lọc",
+	"grouppage-abusefilter": "{{ns:project}}:Kỹ thuật viên bộ lọc",
 	"group-abusefilter-helper": "Hỗ trợ viên bộ lọc",
 	"group-abusefilter-helper-member": "{{GENDER:$1|hỗ trợ viên bộ lọc}}",
 	"group-abusefilter-maintainer": "Bảo trì viên bộ lọc",
@@ -339,7 +340,7 @@
 	"protect-level-editextendedsemiprotected": "Chỉ cho phép những người tự đánh dấu tuần tra",
 	"restriction-level-editextendedsemiprotected": "hạn chế cho người tự đánh dấu tuần tra",
 	"action-banner-protect": "việc khóa các thông điệp có thể được dịch được xử lý bởi phần mở rộng dịch và được bao gồm trong biểu ngữ thông báo trung ương",
-	"wikimedia-centralauth-contribs-locked": "Tài khoản này đã bị khóa trên toàn cầu.\nXem [[m:Special:CentralAuth/$1|chi tiết tài khoản toàn cầu]]  để biết thêm thông tin.",
+	"wikimedia-centralauth-contribs-locked": "Tài khoản này đã bị khóa toàn cục.\nXem [[m:Special:CentralAuth/$1|chi tiết tài khoản toàn cục]] để biết thêm thông tin.",
 	"action-viewdeletedfile": "xem các tập tin và trang bị xóa trong các không gian tên {{ns:file}} và {{ns:file_talk}}",
 	"right-viewdeletedfile": "Xem các tập tin và trang bị xóa trong các không gian tên {{ns:file}} và {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Bầu cử cho Ban Quản trị",
