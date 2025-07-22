@@ -297,6 +297,8 @@
 	"restriction-level-editautopatrolprotected": "protetto solo autoverificati",
 	"right-editautopatrolprotected": "Modifica pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "modificare pagine protette con \"{{int:protect-level-editautopatrolprotected}}\"",
+	"right-editpatrolprotected": "Modifica pagine protette con \"{{int:protect-level-editpatrolprotected}}\"",
+	"action-editpatrolprotected": "modificare pagine protette con \"{{int:protect-level-editpatrolprotected}}\"",
 	"ext-quicksurveys-name": "SondaggiVeloci",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Sì",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "No",
