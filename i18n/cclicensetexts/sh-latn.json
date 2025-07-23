@@ -7,7 +7,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Pripisivanje",
-	"wm-license-cc-by-sa-3.0-text": "Ova datoteka dostupna je pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/|Attribution-Share Alike 3.0 Unported]] licencom.",
+	"wm-license-cc-by-sa-3.0-text": "Ova datoteka dostupna je pod licencom [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
 	"wm-license-cc-free": "Slobodno smijete:",
 	"wm-license-cc-free-to-share-header": "dijeliti",
 	"wm-license-cc-free-to-share-text": "umnožavati, raspodjeljivati i prenositi djelo",
@@ -17,5 +17,5 @@
 	"wm-license-cc-conditions-attribution-header": "pripisivanje",
 	"wm-license-cc-conditions-attribution-text": "Morate pripisati odgovarajuće autorske zasluge, osigurati vezu do licence i naznačiti jesu li napravljene izmjene. To možete uraditi na bilo koji razumni način, ali ne tako da se sugerira da davalac licence odobrava Vas ili Vašu upotrebu njegovog djela.",
 	"wm-license-cc-conditions-share_alike-header": "dijeljenje pod istim uslovima",
-	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, transformišete ili nadograđujete ovaj materijal, morate ga objaviti i distribuirati samo pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses istom ili sličnom licencom] poput ove."
+	"wm-license-cc-conditions-share_alike-text": "Ako mijenjate, preoblikujete ili nadograđujete ovaj materijal, morate ga objaviti pod [[ccorg:share-your-work/licensing-considerations/compatible-licenses|istom ili sličnom licencom]]."
 }
