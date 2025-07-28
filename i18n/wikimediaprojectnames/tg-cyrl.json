@@ -3,7 +3,8 @@
 		"authors": [
 			"Dovud",
 			"ToJack",
-			"Vashgird"
+			"Vashgird",
+			"Farorud"
 		]
 	},
 	"project-localized-name-aawiki": "Википедиаи Афарӣ",
@@ -12,7 +13,7 @@
 	"project-localized-name-abwiki": "Википедиаи абхозӣ",
 	"project-localized-name-abwiktionary": "Викилуғати абхозӣ",
 	"project-localized-name-acewiki": "Википедиаи ачехӣ",
-	"project-localized-name-advisorswiki": "Викии ташкилотчиён",
+	"project-localized-name-advisorswiki": "Викимедиаи ташкилотчиён",
 	"project-localized-name-advisorywiki": "Ҳайати мушовирон",
 	"project-localized-name-adywiki": "Википедиаи адигеӣ",
 	"project-localized-name-afwiki": "Википедиаи африқоӣ",
@@ -26,6 +27,8 @@
 	"project-localized-name-alswikibooks": "Викикитоби алеманнӣ",
 	"project-localized-name-alswikiquote": "Викииқтибоси алеманнӣ",
 	"project-localized-name-alswiktionary": "Викилуғати алеманнӣ",
+	"project-localized-name-altwiki": "Википедиаи олтойӣ",
+	"project-localized-name-amiwiki": "Википедиаи амисӣ",
 	"project-localized-name-amwiki": "Википедиаи амҳарӣ",
 	"project-localized-name-amwikimedia": "Викимедиаи Арманистон",
 	"project-localized-name-amwikiquote": "Викииқтибоси амҳарӣ",
@@ -47,7 +50,7 @@
 	"project-localized-name-arwikimedia": "Викимедиаи Аршентина",
 	"project-localized-name-arwikinews": "Викихабари арабӣ",
 	"project-localized-name-arwikiquote": "Викииқтибоси арабӣ",
-	"project-localized-name-arwikisource": "Викитекаи арабӣ",
+	"project-localized-name-arwikisource": "Викиманбаи арабӣ",
 	"project-localized-name-arwikiversity": "Викидонишгоҳи арабӣ",
 	"project-localized-name-arwiktionary": "Викилуғати арабӣ",
 	"project-localized-name-arzwiki": "Википедиаи арабии Миср",

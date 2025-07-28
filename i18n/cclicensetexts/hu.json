@@ -10,7 +10,8 @@
 			"Misibacsi",
 			"Multichill",
 			"Samat",
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"Boro"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:hu:Creative Commons",
@@ -219,5 +220,5 @@
 	"wm-license-cc-conditions-share_alike-header": "Így add tovább!",
 	"wm-license-cc-conditions-share_alike-text": "Ha megváltoztatod, átalakítod, feldolgozod ezt a művet, a közreműködésedet csak az eredetivel [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses megegyező vagy hasonló licenc] alatt terjesztheted.",
 	"wm-license-cc-pd-mark-link": "https://creativecommons.org/publicdomain/mark/1.0/deed.hu",
-	"wm-license-cc-pd-mark-text": "Megállapították, hogy ez a fájl mentes mindenféle szerzői jogi korlátozástól, beleértve az összes kapcsolódó és hozzátartozó jogot."
+	"wm-license-cc-pd-mark-text": "Ez a fájl az ismert szerzői jogi korlátozásoktól mentesként lett azonosítva, a szerzői jogi törvény és minden kapcsolódó törvény értelmében."
 }
