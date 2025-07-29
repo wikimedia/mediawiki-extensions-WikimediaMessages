@@ -670,7 +670,7 @@ class ArticleCountryFiltersRegistry {
 	public static function getLocalizedRegionsAndCountries( string $languageCode ): array {
 		$regions = [];
 		$services = MediaWikiServices::getInstance();
-		$collator = new Collator( $languageCode );
+		$collator = Collator::create( $languageCode ) ?: Collator::create( 'root' );
 
 		if ( !$services->getExtensionRegistry()->isLoaded( 'CLDR' ) ) {
 			// todo: warning: CLDR extension not loaded
