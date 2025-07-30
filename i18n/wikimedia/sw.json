@@ -14,7 +14,8 @@
 			"Rance",
 			"Wangombe",
 			"Yasen igra",
-			"לערי ריינהארט"
+			"לערי ריינהארט",
+			"Volvox"
 		]
 	},
 	"wikimediamessages-desc": "Jumbe maalumu za Wikimedia",
@@ -49,7 +50,7 @@
 	"group-translationadmin": "Wasimamizi wa tafsiri",
 	"group-translationadmin-member": "{{GENDER:$1|msimamizi wa tafsiri}}",
 	"wikimedia-copyright-footer": "Maandishi yanapatikana chini ya leseni ya [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License]; matakwa mengine yanaweza kutakiwa.\nTazama maelezo zaidi ya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Matakwa ya Utumiaji].",
-	"wikimedia-copyrightwarning": "Kwa kuokoa mabadiliko, unakubaliana na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], na unakubali kwa kudumu kutolewa kwa mchango wako chini ya [https:://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] na [http://en.wikipedia.org/ wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Unakubali kwamba kiunga au URL ni sifa ya kutosha chini ya leseni ya Creative Commons.",
+	"wikimedia-copyrightwarning": "Kwa kuokoa mabadiliko, unakubaliana na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], na unakubali kwa kudumu kutolewa kwa mchango wako chini ya [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] na [http://en.wikipedia.org/ wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Unakubali kwamba kiunga au URL ni sifa ya kutosha chini ya leseni ya Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Karibu}}, $1!",
 	"wikibase-page-schema-author-name": "Uchangiaji katika miradi ya Wikimedia",
 	"wikibase-sitelinks-wikinews": "Wikihabari",

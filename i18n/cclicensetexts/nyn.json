@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Kakonjo"
+			"Kakonjo",
+			"Owobusingye"
 		]
 	},
 	"wm-license-cc-attribution": "Akakwate na omuntu",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "akakwate",
 	"wm-license-cc-conditions-attribution-text": "Notekwa kworeka oburugo, ohereze Akakwate ka license, oyoreke empinduka zaza kozirwe. Nobasa kukora omumuringo gwoona, gutari kuretera licensor yakuhababira.",
 	"wm-license-cc-conditions-share_alike-header": "aha byokugabana",
-	"wm-license-cc-conditions-share_alike-text": "Wateraana, bb okahindura, ninga okombeka ekyintu, notekwa kugabura ebiwakora orikukuratira [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same or compatible license] anka ekyitari kicupuri."
+	"wm-license-cc-conditions-share_alike-text": "Ku orikugarukamu, okuhindura, nainga okwombeka aha bikwatireine n'omurimo, oine kugabira abantu ebirikukukukwataho ahansi ya [coorg:share-your-work/licensing-considerations/compatible-licenses same or compatible license] nk'ekyabandize."
 }

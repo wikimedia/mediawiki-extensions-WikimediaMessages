@@ -11,5 +11,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Samenvoegen gebruikersaccounts",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Verwijdering gebruikersaccount",
 	"wikimedia-usermerge-logpage": "Gebruikerssamenvoegingslogboek",
-	"wikimedia-usermerge-logpagetext": "Dit is het logboek van gebruikerssamenvoegingen."
+	"wikimedia-usermerge-logpagetext": "Dit is het logboek van gebruikerssamenvoegingen.",
+	"wikimedia-graph-tracking-category": "Pagina's met grafieken",
+	"wikimedia-graph-tracking-category-desc": "De pagina bevat een <code>&lt;graph&gt;</code>-tag.",
+	"wikimedia-graph-broken-category": "Pagina's met niet-werkende grafieken",
+	"wikimedia-graph-broken-category-desc": "De pagina bevat een <code>&lt;graph&gt;</code>-tag die onjuist wordt gebruikt."
 }

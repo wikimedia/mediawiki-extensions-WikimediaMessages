@@ -10,7 +10,8 @@
 			"Misibacsi",
 			"Multichill",
 			"Samat",
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"Boro"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:hu:Creative Commons",
@@ -206,8 +207,8 @@
 	"wm-license-cc-sa-1.0-fi-text": "Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/fi/deed.hu|Így add tovább! 1.0 Finnország]] licenc alatt lett közzétéve.",
 	"wm-license-cc-sa-1.0-nl-text": "Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/1.0/nl/deed.hu|Így add tovább! 1.0 Hollandia]] licenc alatt lett közzétéve.",
 	"wm-license-cc-sa-2.0-jp-text": "Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:sa/2.0/jp/deed.hu|Így add tovább! 2.0 Japán]] licenc alatt lett közzétéve.",
-	"wm-license-cc-zero-text": "Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [//creativecommons.org/publicdomain/zero/1.0/deed.hu CC0 1.0 Universal Public Domain Dedication] licenc alatt lett közzétéve.",
-	"wm-license-cc-zero-explanation": "A műhöz tartozó személy ezzel a dokumentummal a munkáját [[{{int:wm-license-pd-wiki-link}}|köztulajdonná]] tette. A törvények alapján megengedhető mértékig lemondott minden őt megillető jogról a szerzői jog és az összes kapcsolódó vagy vonatkozó törvény alapján, ami a munka alapján neki járna az egész világon. A CC0 alatt kiadott művek szerzőjét nem kell megjelölni. A munka hivatkozásakor nem kell jóváhagyást kérni a szerzőtől.",
+	"wm-license-cc-zero-text": "Ez a fájl a [[{{int:wm-license-cc-wiki-link}}|Creative Commons]]  [[ccorg:publicdomain/zero/1.0/deed.hu|CC0 1.0 Univerzális Közkincs]] nyilatkozat alapján használható fel.",
+	"wm-license-cc-zero-explanation": "Az a személy, aki ezen nyilatkozat hatálya alá helyezett egy művet, az egész világon lemondott minden, a szerzői jogi törvény szerinti műhöz fűződő jogáról, beleértve az összes kapcsolódó és szomszédos jogot is, a jogszabályokban megengedett mértékig. Ezzel a művet [[{{int:wm-license-pd-wiki-link}}|közkinccsé]] nyilvánította. Ezt a művet szabadon másolhatod, módosíthatod, terjesztheted vagy előadhatod, akár üzleti célból is, mindezt anélkül hogy engedélyt kellene kérned.",
 	"wm-license-cc-free": "A következőket teheted a művel:",
 	"wm-license-cc-free-to-share-header": "megoszthatod",
 	"wm-license-cc-free-to-share-text": "szabadon másolhatod, terjesztheted, bemutathatod és előadhatod a művet",
@@ -219,5 +220,5 @@
 	"wm-license-cc-conditions-share_alike-header": "Így add tovább!",
 	"wm-license-cc-conditions-share_alike-text": "Ha megváltoztatod, átalakítod, feldolgozod ezt a művet, a közreműködésedet csak az eredetivel [[ccorg:share-your-work/licensing-considerations/compatible-licenses| megegyező vagy hasonló licenc]] alatt terjesztheted.",
 	"wm-license-cc-pd-mark-wikilink": "ccorg:publicdomain/mark/1.0/deed.hu",
-	"wm-license-cc-pd-mark-text": "Megállapították, hogy ez a fájl mentes mindenféle szerzői jogi korlátozástól, beleértve az összes kapcsolódó és hozzátartozó jogot."
+	"wm-license-cc-pd-mark-text": "Ez a fájl az ismert szerzői jogi korlátozásoktól mentesként lett azonosítva, a szerzői jogi törvény és minden kapcsolódó törvény értelmében."
 }
