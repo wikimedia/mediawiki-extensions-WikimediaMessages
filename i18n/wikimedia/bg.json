@@ -68,6 +68,8 @@
 	"group-engineer": "Инженери",
 	"group-engineer-member": "{{GENDER:$1|инженер}}",
 	"grouppage-engineer": "{{ns:project}}:Инженери",
+	"group-event-organizer": "Организатори на събития",
+	"grouppage-event-organizer": "{{ns:project}}:Организатори на събития",
 	"group-extendedconfirmed": "Разширено потвърдени потребители",
 	"group-extendedconfirmed-member": "{{GENDER:$1|разширен потвърден потребител}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:Разширено потвърдени потребители",
