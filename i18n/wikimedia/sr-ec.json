@@ -259,6 +259,8 @@
 	"wikimedia-centralauth-contribs-locked": "Овај налог је глобално закључан.\nЗа више информација погледајте [[m:Special:CentralAuth/$1]].",
 	"action-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",
 	"right-viewdeletedfile": "прегледање обрисаних датотека и страница у именским просторима {{ns:file}} и {{ns:file_talk}}",
+	"wikimedia-boardelection2025-notification-body": "Гласање се завршава у 23:59, 10 септембра 2025 (UTC).",
+	"wikimedia-boardelection-notification-action": "Гласај",
 	"wikimedia-statslink": "Статистика",
 	"wikimedia-wikistats-label": "Викистатистика",
 	"wikimedia-wikistats-tagline": "Викимедијнина статистика",

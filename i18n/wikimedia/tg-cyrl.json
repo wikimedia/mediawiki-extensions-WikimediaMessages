@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Darafsh",
 			"Ibrahim",
 			"ToJack",
 			"Vashgird",
@@ -45,6 +46,7 @@
 	"group-sysadmin-member": "{{GENDER:$1|мудири систем}}",
 	"shared-repo-name-shared": "Викианбор",
 	"wikimedia-copyright-footer": "Матн зери иҷозатномаи [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] дастрас мебошад, дигар иҷозатномаҳои иловагӣ низ ба кор бурда мешаванд. Ниг. [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Қоидаҳои истифодаро] барои маълумоти бештар.",
+	"wikimedia-copyrightwarning": "Бо захира кардани тағйирот, шумо ба [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Шартҳои истифода] розӣ мешавед ва беқайдшаванда розӣ мешавед, ки саҳми худро таҳти [https://creativecommons.org/licenses/by-sa/4.0/ Иҷозатномаи CC BY-SA 4.0] ва [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] нашр кунед.  \nШумо розӣ мешавед, ки пайванди гипер ё URL барои нисбатдиҳӣ тибқи иҷозатномаи Creative Commons кофӣ аст.",
 	"wikibase-repo-name": "Викидода",
 	"wikibase-sitelinks-wikibooks": "Викикитоб",
 	"wikibase-sitelinks-wikinews": "Викиахбор",
