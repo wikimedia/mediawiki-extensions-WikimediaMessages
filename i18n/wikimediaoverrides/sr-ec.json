@@ -23,10 +23,12 @@
 	"wikimedia-flow-terms-of-use-unlock-topic": "Кликом на „{{int:flow-topic-action-unlock-topic}}” прихватате [https://foundation.wikimedia.org/wiki/Terms_of_Use услове коришћења] и неопозиво се слажете да свој допринос објавите под {{PLURAL:$2|лиценцом|лиценцама}} $1.",
 	"wikimedia-globalrenamequeue-email-body-approved": "Тражено преименовање „{{GENDER:$1|$1}}“ у „{{GENDER:$1|$2}}“ је одобрено. Пошто буде извршено пријављиваћете се са вашим новим корисничким именом и старом лозинком. Хвала што сте део Викимедијиних пројекта.",
 	"wikimedia-globalrenamequeue-email-body-rejected": "Захтев за преименовање из „{{GENDER:$1|$1}}” у „{{GENDER:$1|$2}}” није извршен.\n\nНапомена: $3\n\nЗа више информација посетите следећу страницу помоћи: а<https://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions>. Да продискутујете о Вашем захтеву посетите следећу страницу: <https://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes>. Морате бити пријављени под актуелним корисничким именом.",
+	"wikimedia-interfaceadmin-info": "Уређивање CSS/JS/JSON датотека је ограничено на чланове групе  [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
 	"wikimedia-sitematrix": "Списак свих Викимедијиних викија",
 	"wikimedia-sitematrix-others": "Остали Викимедијини пројекти",
 	"wikimedia-sitematrix-summary": "Ова посебна страница наводи све викије Викимедије.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy/sr Политика приватности]",
+	"wikimedia-notification-body-oathauth-disable-other": "Ако {{GENDER:$2|нисте}} ово тражили, контактирајте WMF Trust & Safety.",
 	"wikimedia-ipinfo-source-geoip2": "Употреба ове алатке подлеже [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines одређеним смерницама].",
 	"wikimedia-similareditors-error-default": "Нешто је у квару, радимо на поправци  Ако се  проблем настави, јавите нам се [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors овде]."
 }
