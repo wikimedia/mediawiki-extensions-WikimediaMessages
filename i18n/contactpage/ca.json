@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fitoschido"
+			"Fitoschido",
+			"Yupik"
 		]
 	},
+	"contactpage-license-request-username": "Nom d'usuari",
 	"contactpage-movecom-signup-display-name": "Nom",
 	"contactpage-movecom-signup-display-username": "Nom d’usuari",
 	"contactpage-movecom-signup-display-nameusername": "Nom i nom d’usuari"
