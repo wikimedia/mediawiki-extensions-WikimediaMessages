@@ -4,5 +4,11 @@
 			"NikolasKHF"
 		]
 	},
-	"wm-license-information-source": "Sumber"
+	"wm-license-information-description": "Déskripsi",
+	"wm-license-information-source": "Sumber",
+	"wm-license-information-date": "Tanggal",
+	"wm-license-information-author": "Tukang piaq",
+	"wm-license-information-permission": "Pelakoq",
+	"wm-license-information-permission-reusing-text": "Kadu malik gempoqan ni",
+	"wm-license-self-multiple-licenses-select": "Side bau pilih lisénsi ape baé."
 }
