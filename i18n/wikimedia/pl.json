@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Ankry",
+			"AramilFeraxa",
 			"BZPN",
 			"Beau",
 			"Chrumps",
@@ -81,8 +82,8 @@
 	"group-botadmin": "Boty z prawami administratora",
 	"group-botadmin-member": "{{GENDER:$1|bot z uprawnieniami administratora}}",
 	"grouppage-botadmin": "{{ns:project}}:Boty z prawami administratora",
-	"group-global-temporary-account-viewer": "Globalnie weryfikujący adresy IP kont tymczasowych",
-	"group-global-temporary-account-viewer-member": "globalnie {{GENDER:$1|weryfikujący|weryfikująca}} adresy IP kont tymczasowych",
+	"group-global-temporary-account-viewer": "Globalnie przeglądający adresy IP kont tymczasowych",
+	"group-global-temporary-account-viewer-member": "globalnie {{GENDER:$1|przeglądający|przeglądająca}} adresy IP kont tymczasowych",
 	"group-confirmed": "Zatwierdzeni użytkownicy",
 	"group-confirmed-member": "{{GENDER:$1|zatwierdzony użytkownik|zatwierdzona użytkowniczka}}",
 	"grouppage-confirmed": "{{ns:project}}:Zatwierdzeni użytkownicy",
