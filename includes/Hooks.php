@@ -38,6 +38,7 @@ use MediaWiki\Specials\SpecialUpload;
 use MediaWiki\Title\Title;
 use MediaWiki\User\Options\UserOptionsLookup;
 use MediaWiki\Utils\UrlUtils;
+use MediaWiki\WikiMap\WikiMap;
 use MessageCache;
 use MessageLocalizer;
 use MobileContext;
@@ -582,10 +583,19 @@ class Hooks implements
 			$skin->msg( 'wikimedia-developers' )->text()
 		);
 
+		// T401547: Instead of just reading $wgServerName which is overridden when on the shared
+		// domain, let's get the current wiki's ID from the shared domain perspective and extract
+		// the hostname from there.
+		$wiki = WikiMap::getWiki( WikiMap::getCurrentWikiId() );
+		if ( !$wiki ) {
+			// Fallback to the default server name of the current domain
+			$serverName = $skin->getConfig()->get( MainConfigNames::ServerName );
+		} else {
+			$serverName = $wiki->getDisplayName();
+		}
+
 		$statsDestination = Skin::makeInternalOrExternalUrl(
-			$skin->msg(
-				'wikimedia-statslink-url', $skin->getConfig()->get( 'ServerName' )
-			)->inContentLanguage()->text()
+			$skin->msg( 'wikimedia-statslink-url', $serverName )->inContentLanguage()->text()
 		);
 		$footerLinks['statslink'] = Html::element(
 			'a',
