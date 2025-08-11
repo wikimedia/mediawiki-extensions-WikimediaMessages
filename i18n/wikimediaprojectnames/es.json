@@ -20,7 +20,8 @@
 			"No se",
 			"Pginer",
 			"Qwrop",
-			"Rodney Araujo"
+			"Rodney Araujo",
+			"Sophocrat"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia en afar",
@@ -29,7 +30,7 @@
 	"project-localized-name-abwiki": "Wikipedia en abjasio",
 	"project-localized-name-abwiktionary": "Wikcionario en abjasio",
 	"project-localized-name-acewiki": "Wikipedia en achenés",
-	"project-localized-name-advisorswiki": "Wiki de consejeros",
+	"project-localized-name-advisorswiki": "Consejeros Wikimedia",
 	"project-localized-name-adywiki": "Wikipedia en adigué",
 	"project-localized-name-afwiki": "Wikipedia en afrikáans",
 	"project-localized-name-afwikibooks": "Wikilibros en afrikáans",
@@ -250,6 +251,7 @@
 	"project-localized-name-euwikiquote": "Wikiquote en euskera",
 	"project-localized-name-euwikisource": "Wikisource en euskera",
 	"project-localized-name-euwiktionary": "Wikcionario en euskera",
+	"project-localized-name-execwiki": "Ejecutivo Wikimedia",
 	"project-localized-name-extwiki": "Wikipedia en extremeño",
 	"project-localized-name-fawiki": "Wikipedia en persa",
 	"project-localized-name-fawikibooks": "Wikilibros en persa",
@@ -311,6 +313,9 @@
 	"project-localized-name-gpewiki": "Wikipedia en pidgin ghanés",
 	"project-localized-name-group-wikibooks": "Wikilibros",
 	"project-localized-name-group-wikinews": "Wikinoticias",
+	"project-localized-name-group-wikipedia": "Wikipedia",
+	"project-localized-name-group-wikiquote": "Wikiquote",
+	"project-localized-name-group-wikisource": "Wikisource",
 	"project-localized-name-group-wikiversity": "Wikiversidad",
 	"project-localized-name-group-wikivoyage": "Wikiviajes",
 	"project-localized-name-group-wiktionary": "Wikcionario",

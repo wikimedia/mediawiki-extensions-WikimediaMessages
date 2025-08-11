@@ -114,6 +114,8 @@
 	"group-engineer": "المهندسون",
 	"group-engineer-member": "{{GENDER:$1|مهندس|مهندسة}}",
 	"grouppage-engineer": "{{ns:project}}:مهندسون",
+	"group-electionclerk": "موظفو الانتخابات",
+	"grouppage-electionclerk": "{{ns:project}}:موظفو الانتخابات",
 	"group-eliminator": "المحررون",
 	"group-eliminator-member": "{{GENDER:$1|مقصي}}",
 	"grouppage-eliminator": "{{ns:project}}:حازفون",
