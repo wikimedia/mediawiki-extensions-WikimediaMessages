@@ -132,5 +132,6 @@
 	"wikimedia-statslink": "統計",
 	"wikimedia-cookiestatement": "Cookie聲明",
 	"technical-maintenance-soon": "就嚟系統維護：",
-	"technical-maintenance-edit": "期間你改嘅嘢可能儲存唔到。"
+	"technical-maintenance-edit": "期間你改嘅嘢可能儲存唔到。",
+	"ipinfo-global-contributions-url-label": "全域貢獻"
 }

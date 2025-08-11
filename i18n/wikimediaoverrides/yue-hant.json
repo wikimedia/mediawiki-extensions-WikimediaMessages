@@ -2,12 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Winston Sung",
-			"H78c67c"
+			"H78c67c",
+			"Ktchankt"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（幫我揀）]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "你可以去[[m:Special:CentralAuth/$1|其他你貢獻過嘅維基媒體項目]]嘅喜好設定頁去下載返你戶口資料。",
+	"wikimedia-createacct-imgcaptcha-help": "睇唔到圖？[[{{MediaWiki:createacct-captcha-help-url}}|請求開戶口]]",
 	"wikimedia-centralauth-groupname": "維基媒體基金會",
-	"wikimedia-interfaceadmin-info": "$1\n\n改全站通用 CSS/JS/JSON 檔嘅權限由 <code>editinterface</code> 權限拆咗出嚟。如果你唔明點解會出呢個錯誤訊息，請睇[[mw:MediaWiki_1.32/interface-admin]]。",
+	"createacct-helpusername-url": "{{ns:Project}}:用戶名政策",
+	"wikimedia-interfaceadmin-info": "改全站通用 CSS/JS/JSON 檔嘅權限只係得[[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] 群組成員可以用。",
 	"wikimedia-sitematrix": "維基媒體嘅wiki一覽",
 	"wikimedia-sitematrix-others": "維基媒體嘅其他計劃",
 	"wikimedia-sitematrix-summary": "呢版特別版列示維基媒體所有 wiki。"
