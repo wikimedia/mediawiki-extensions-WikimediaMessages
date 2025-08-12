@@ -346,7 +346,7 @@
 	"wikimedia-switchover-read-only": "Et voi muokata juuri nyt. Tämä johtuu teknisestä huollosta. Kopioi ja tallenna tekstisi ja yritä uudelleen muutaman minuutin kuluttua.",
 	"technical-maintenance-soon": "Teknistä huoltoa suoritetaan pian:",
 	"technical-maintenance-edit": "Sen aikana et ehkä pysty tallentamaan lainkaan muutoksia.",
-	"group-oathauth-tester": "Kaksivaiheisen tunnistautumisen kokeilijat",
+	"group-oathauth-tester": "kaksivaiheisen tunnistautumisen kokeilijat",
 	"group-oathauth-tester-member": "{{GENDER:$1|kaksivaiheisen tunnistautumisen kokeilija}}",
 	"querypage-updates-half-monthly": "Tämä sivu päivittyy kahdesti kuukaudessa.",
 	"querypage-updates-monthly": "Tämä sivu päivittyy kerrtan kuukaudessa.",

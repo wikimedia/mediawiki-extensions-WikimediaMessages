@@ -98,7 +98,7 @@
 	"grouppage-trusted": "{{ns:project}}:Përdoruesit të besueshme",
 	"group-uploader-member": "{{GENDER:$1|ngarkues|ngarkuese}}",
 	"group-global-bot": "Robotet global",
-	"group-global-bot-member": "{{GENDER:$1|robot global|robote globale}}",
+	"group-global-bot-member": "{{GENDER:$1|robot global}}",
 	"group-global-rollbacker": "Rikthejuës globale",
 	"group-global-rollbacker-member": "Rikthejuës globale",
 	"group-global-sysop": "Administratori global",
