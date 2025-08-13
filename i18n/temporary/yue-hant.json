@@ -2,13 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"H78c67c",
-			"Winston Sung"
+			"Winston Sung",
+			"Yueman"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:監督",
 	"group-oversight": "監督者",
-	"group-oversight-member": "監督",
+	"group-oversight-member": "{{GENDER:$1|監督}}",
 	"hello": "你好",
 	"please-translate": "請幫手去譯做你嘅語言",
-	"thank-you": "{{GENDER:$1|多謝。}}"
+	"please-translate-short": "幫手翻譯",
+	"thank-you": "{{GENDER:$1|多謝。}}",
+	"specialinvestigate-feedback": "留低意見",
+	"graph-disabled-category": "停用咗圖表嘅版",
+	"graph-disabled-category-desc": "呢版有個 <code>&lt;graph&gt;</code> 標籤，暫時唔用得（[[phab:T334940|T334940]]）。"
 }
