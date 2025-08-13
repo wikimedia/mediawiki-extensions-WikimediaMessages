@@ -444,6 +444,7 @@
 	"research-incentive-privacy": "プライバシーポリシーおよび調査プログラムの詳細については、[https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/ja こちら]をご覧ください。",
 	"research-incentive-confirm-msg": "ありがとうございました。",
 	"ipinfo-global-contributions-url-label": "グローバル投稿記録",
+	"checkuser-group-requirements-temporary-account-viewer": "この利用者は[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users アクセス基準]を満たしていません",
 	"protect-level-edit-legal": "法律関連のページを編集できる利用者のみを許可する。",
 	"restriction-level-edit-legal": "法的保護",
 	"wikimedia-foundation-projects-label": "ウィキメディア財団のプロジェクト",

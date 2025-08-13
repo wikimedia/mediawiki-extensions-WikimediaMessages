@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"H78c67c",
+			"JeffreyKim",
 			"Ktchankt",
 			"PB2008",
 			"Winston Sung",
@@ -51,6 +52,9 @@
 	"grouppage-confirmed": "{{ns:project}}:確認用戶",
 	"group-editprotected": "保護頁面編者",
 	"group-editprotected-member": "{{GENDER:$1|保護咗嘅版編者}}",
+	"group-electionclerk": "選舉文員",
+	"group-electionclerk-member": "{{GENDER:$1|選舉文員}}",
+	"grouppage-electionclerk": "{{ns:project}}:選舉文員",
 	"group-extendedconfirmed": "延伸確認用戶",
 	"group-extendedconfirmed-member": "{{GENDER:$1|延伸確認用戶}}",
 	"grouppage-extendedconfirmed": "{{ns:project}}:延伸確認用戶",

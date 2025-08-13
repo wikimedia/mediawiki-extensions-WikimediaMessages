@@ -166,6 +166,7 @@
 	"wikimedia-upload-nolicenses": "دې ويکي کې د دوتنو پورته کول ناچارن شوي. مهرباني وکړئ دوتنې مو [[commons:Special:UploadWizard|ويکيمېډيا خونديځ کې پورته کړئ]].\n\nد دې لپاره چې د همدې ځانگړي مخ په کارولو سره دې ويکي کې دوتنې پورته کول چارن شي؛ نو بايد يو پازوال د منښتليکونو څخه يو يا څو منښتليکونه د [[MediaWiki:Licenses]] په مخ کې ورگډ کړي.\n\nلاندې بڼه وکاروئ: <code>* Template name|Label</code>. د منښتليکونو خوښنو څخه پرته د پورته کولو چارنولو لپاره هر ډول متن وکاروئ.",
 	"interlanguage-link-mul": "نورې ژبې",
 	"interlanguage-link-commons": "ويکي‌‌رسنۍ خونديځ",
+	"wikimedia-boardelection-notification-action": "اوس رايه ورکړئ",
 	"wikimedia-statslink": "شمېرنې",
 	"wikimedia-cookiestatement": "د کوکيز ويناليک",
 	"wikimedia-help-translate-prompt": "په ژباړه کې غواړې مرسته وکړئ؟ [$1 هغه پيغامونه چې نشته ويې‌ژباړئ].",
