@@ -66,6 +66,7 @@
 	"group-engineer": "Инженераш",
 	"group-engineer-member": "{{GENDER:$1|инженер}}",
 	"grouppage-engineer": "{{ns:project}}:Инженераш",
+	"group-electionclerk": "Харжамийн комиссин белхахой",
 	"group-eliminator": "ДӀаяхархой",
 	"group-eliminator-member": "{{GENDER:$1|дӀаяхархо}}",
 	"grouppage-eliminator": "{{ns:project}}:ДӀаяхархой",

@@ -4,7 +4,8 @@
 			"Freeyak",
 			"Midleading",
 			"Pecha-Tsewang",
-			"Phurbutsering"
+			"Phurbutsering",
+			"Tenzin Thoesam"
 		]
 	},
 	"sitesupport": "ཞལ་འདེབས།",
@@ -12,5 +13,6 @@
 	"group-founder-member": "{{GENDER:$1|གསར་གཏོད་བྱེད་མཁན།}}",
 	"wikibase-otherprojects-wikipedia": "ཤོག་ངོས་མེད་པ།",
 	"wikimedia-developers": "མཉེན་ཆས་བཟོ་མི།",
-	"wikimedia-statslink": "རྩིས་ཐོ།"
+	"wikimedia-statslink": "རྩིས་ཐོ།",
+	"wikimedia-cookiestatement": "ཀུ་ཀི་གསལ་བསྒྲགས།"
 }
