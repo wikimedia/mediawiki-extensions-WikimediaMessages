@@ -111,7 +111,7 @@
 		}
 	},
 	"ConfigRegistry": {
-		"wikimedia-messages": "GlobalVarConfig::newInstance"
+		"wikimedia-messages": "MediaWiki\\Config\\GlobalVarConfig::newInstance"
 	},
 	"config": {
 		"WikimediaStylesSkins": {
