@@ -248,7 +248,8 @@ class Hooks implements
 			'skin-minerva-donate-banner-subtitle',
 			'skin-minerva-donate-banner-gif',
 			'skin-minerva-donate-banner-reduced-motion',
-			'skin-minerva-donate-banner-url'
+			'skin-minerva-donate-banner-url',
+			'namespaceinfo-description-ns470',
 		];
 
 		static $allbutmetawikikeys = [

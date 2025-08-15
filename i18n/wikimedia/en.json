@@ -588,5 +588,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Mathematics",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicine and health",
 	"wikimedia-articletopics-topic-physics": "Physics",
-	"wikimedia-articletopics-topic-technology": "Technology"
+	"wikimedia-articletopics-topic-technology": "Technology",
+	"wikimedia-namespaceinfo-description-ns470": "Namespace for schemas that were used by Legacy EventLogging to validate analytics events. All pages in the Schema namespace were emptied as part of [[phab:T238230|decommissioning Legacy EventLogging]]."
 }

@@ -640,5 +640,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Label for an article topic",
 	"wikimedia-articletopics-topic-medicine-and-health": "Label for an article topic",
 	"wikimedia-articletopics-topic-physics": "Label for an article topic",
-	"wikimedia-articletopics-topic-technology": "Label for an article topic"
+	"wikimedia-articletopics-topic-technology": "Label for an article topic",
+	"wikimedia-namespaceinfo-description-ns470": "Description for the Schema namespace"
 }
