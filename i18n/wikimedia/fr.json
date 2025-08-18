@@ -435,6 +435,8 @@
 	"right-viewdeletedfile": "Voir les fichiers et pages qui ont été supprimés dans les espaces de noms {{ns:file}} et {{ns:file_talk}}.",
 	"securepoll-dblist-securepollglobal": "Élection du conseil",
 	"wikimedia-boardelection-echo-category-title": "Élections du conseil d'administration de la Fondation Wikimedia",
+	"wikimedia-boardelection2025-notification-header": "Le vote a commencé pour les élections du conseil d’administration de la Fondation Wikimédia.",
+	"wikimedia-boardelection2025-notification-body": "Le vote se termine le 10 septembre 2025 à 23h59 (UTC).",
 	"wikimedia-boardelection-notification-action": "Votez maintenant",
 	"wikimedia-statslink": "Statistiques",
 	"wikimedia-wikistats-label": "Stats Wiki",
@@ -622,5 +624,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Mathématiques",
 	"wikimedia-articletopics-topic-medicine-and-health": "Médecine et santé",
 	"wikimedia-articletopics-topic-physics": "Physique",
-	"wikimedia-articletopics-topic-technology": "Technologie"
+	"wikimedia-articletopics-topic-technology": "Technologie",
+	"wikimedia-namespaceinfo-description-ns470": "Espace de noms pour les schémas utilisés par Legacy EventLogging pour valider les événements analytiques. Toutes les pages de l’espace de noms Schéma ont été vidées lors de la [[phab:T238230|mise hors service de Legacy EventLogging]]."
 }

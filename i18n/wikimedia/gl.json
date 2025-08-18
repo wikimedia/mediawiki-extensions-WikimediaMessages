@@ -528,5 +528,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Matemáticas",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicina e saúde",
 	"wikimedia-articletopics-topic-physics": "Física",
-	"wikimedia-articletopics-topic-technology": "Tecnoloxía"
+	"wikimedia-articletopics-topic-technology": "Tecnoloxía",
+	"wikimedia-namespaceinfo-description-ns470": "Espazo de nomes para os esquemas que empregaba Legacy EventLogging para validar eventos de análise. Todas as páxinas do espazo de nomes «Schema» baleiráronse como parte da [[phab:T238230|desactivación de Legacy EventLogging]]."
 }

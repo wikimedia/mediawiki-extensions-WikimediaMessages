@@ -547,5 +547,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Математика",
 	"wikimedia-articletopics-topic-medicine-and-health": "Медицина и здравје",
 	"wikimedia-articletopics-topic-physics": "Физика",
-	"wikimedia-articletopics-topic-technology": "Технологија"
+	"wikimedia-articletopics-topic-technology": "Технологија",
+	"wikimedia-namespaceinfo-description-ns470": "Именски простор за шемите што се користеле во Legacy EventLogging за заверка на аналитички настани. Сите страници во именскиот простор Шема беа испразнети како дел од [[phab:T238230|укинувањето на Legacy EventLogging]]."
 }

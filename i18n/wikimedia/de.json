@@ -556,5 +556,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Mathematik",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medizin und Gesundheit",
 	"wikimedia-articletopics-topic-physics": "Physik",
-	"wikimedia-articletopics-topic-technology": "Technologie"
+	"wikimedia-articletopics-topic-technology": "Technologie",
+	"wikimedia-namespaceinfo-description-ns470": "Namensraum für Schemata, die von veralteten EventLogging-Erweiterung zur Validierung von Analyseereignissen verwendet wurden. Alle Seiten im Schema-Namensraum wurden im Rahmen der [[phab:T238230|Abschaffung von EventLogging]] geleert."
 }

@@ -2,18 +2,29 @@
 	"@metadata": {
 		"authors": [
 			"Beta16",
+			"Super nabla",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-aboutme": "Su di me",
 	"wm-commonstrings-activities": "Attività",
 	"wm-commonstrings-background": "Contesto",
+	"wm-commonstrings-bylaws": "Statuto",
 	"wm-commonstrings-closed": "Chiuso",
 	"wm-commonstrings-conclusion": "Conclusione",
 	"wm-commonstrings-connect": "Connetti",
+	"wm-commonstrings-contacthuman": "Contatta un umano",
 	"wm-commonstrings-contactus": "Contattaci",
+	"wm-commonstrings-enterquestion": "Inserisci la tua domanda.",
 	"wm-commonstrings-events": "Eventi",
+	"wm-commonstrings-externallinks": "Collegamenti esterni",
+	"wm-commonstrings-feedback": "Commenti",
+	"wm-commonstrings-follow": "Segui",
+	"wm-commonstrings-leadership": "Leadership",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Voce principale: $1|Voci principali: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Pagina principale: $1|Pagine principali: $1}}",
+	"wm-commonstrings-mywork": "Il mio lavoro",
+	"wm-commonstrings-news-events": "Notizie ed eventi",
 	"wm-commonstrings-noticeboard": "Bacheca",
 	"wm-commonstrings-objectives": "Obiettivi",
 	"wm-commonstrings-ongoing": "In corso",
@@ -22,6 +33,7 @@
 	"wm-commonstrings-participate": "Partecipa",
 	"wm-commonstrings-please-remember": "Ricordati di: $1",
 	"wm-commonstrings-policies-guidelines": "Politiche e linee guida",
+	"wm-commonstrings-projects-collaborations": "Progetti e collaborazioni",
 	"wm-commonstrings-purpose": "Scopo",
 	"wm-commonstrings-questions": "Domande?",
 	"wm-commonstrings-register-account": "Registra utenza",
@@ -32,5 +44,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Scorciatoia|Scorciatoie}}",
 	"wm-commonstrings-staff": "Staff",
 	"wm-commonstrings-talktous": "Contattaci",
+	"wm-commonstrings-templates": "Template",
 	"wm-commonstrings-updates": "Aggiornamenti"
 }

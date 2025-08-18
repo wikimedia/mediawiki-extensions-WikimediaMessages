@@ -4,7 +4,8 @@
 			"H78c67c",
 			"JeffreyKim",
 			"Ktchankt",
-			"Winston Sung"
+			"Winston Sung",
+			"Yueman"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "你嘅IP地址喺過去一日內開咗{{PLURAL:$1|$1個戶口}}，數量已經達到上限。\n因為噉，用呢個IP地址嘅訪客暫時唔可以再開新戶口。\n\n如果你喺一個用貢獻維基媒體項目做主題嘅活動，請睇[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|要求臨時解除IP上限]]嘅說明嚟解決呢個問題。",
@@ -14,13 +15,15 @@
 	"wikimedia-centralauth-groupname": "維基媒體基金會",
 	"wikimedia-centralauth-login-error-locked": "<strong>呢個戶口已經被[[m:Special:MyLanguage/Global locks|全域封鎖咗]]。</strong> {{GENDER:$1|你}}唔可以喺任何維基媒體嘅網站簽到。如果{{GENDER:$1|你}}有疑問，請[[m:Special:Contact/stewards|聯絡監管員]]。",
 	"createacct-helpusername-url": "{{ns:Project}}:用戶名政策",
-	"wikimedia-checkuser-tempaccount-enable-preference-description": "喺開着呢個設定之前，你必須閱讀同同意「[https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses 存取臨時戶口IP地址政策]」。特別係：<ul><li> 你必須符合政策入面所述嘅資格準則；</li><li>你唔可以存取、使用或者披露有關臨時戶口IP位址嘅資料，除非係合理必要嘅<b>調查或者執行破壞行為、濫用、垃圾郵件、騷擾、破壞性行為同埋其他違反維基媒體基金會或者社群政策嘅行為</b>。 如果你確實同其他人分享呢啲資料，你一定要對你喺邊度同點樣分享呢啲資料保持敏感，而你應該喺其他人唔再有合理必要睇到呢啲資料嗰陣移除呢啲資料。</li></ul>如果你已經睇咗同埋同意呢個政策，你可以剔選呢格嚟開着呢個喜好設定。其他可以存取臨時戶口IP嘅用戶可以睇返呢個喜好設定嘅狀態。",
+	"wikimedia-checkuser-tempaccount-enable-preference-description": "喺開呢個設定之前，你必須閱讀同同意「[https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses 存取臨時戶口IP地址政策]」。特別係：<ul><li> 你必須符合政策入面所述嘅資格準則；</li><li>你唔可以存取、使用或者披露有關臨時戶口IP位址嘅資料，除非係合理必要嘅<b>調查或者執行破壞行為、濫用、垃圾郵件、騷擾、破壞性行為同埋其他違反維基媒體基金會或者社群政策嘅行為</b>。 如果你確實同其他人分享呢啲資料，你一定要對你喺邊度同點樣分享呢啲資料保持敏感，而你應該喺其他人唔再有合理必要睇到呢啲資料嗰陣剷走呢啲資料。</li></ul>如果你已經睇咗同埋同意呢個政策，你可以剔選呢格嚟開着呢個喜好設定。其他可以存取臨時戶口IP嘅用戶可以睇返呢個喜好設定嘅狀態。",
 	"wikimedia-discussiontools-replywidget-terms-click": "當你撳「$1」，就代表你同意我哋嘅[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意唔反悔{{PLURAL:$3|根據}}$2公開你所寫嘅嘢。",
 	"wikimedia-flow-terms-of-use-new-topic": "當你撳「{{int:flow-newtopic-save}}」，就代表你同意我哋嘅[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意唔反悔{{PLURAL:$2|以}}$1公開你所寫嘅嘢。",
 	"wikimedia-interfaceadmin-info": "改全站通用 CSS/JS/JSON 檔嘅權限只係得[[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] 群組成員可以用。",
 	"wikimedia-sitematrix": "維基媒體嘅wiki一覽",
 	"wikimedia-sitematrix-others": "維基媒體嘅其他計劃",
 	"wikimedia-sitematrix-summary": "呢版專門版列示維基媒體所有 wiki。",
+	"wikimedia-webauthn-module-description": "WebAuthn 處於實驗狀態，目前淨係限於實體裝置。呢個方法而家冇任何關於遺失或者損壞嘅認證裝置嘅恢復選項，而WebAuthn而家唔畀你透過流動應用程式簽到。\n\n[https://en.wikipedia.org/wiki/WebAuthn 知多啲WebAuthn]。",
+	"wikimedia-webauthn-ui-login-prompt": "請觸摸你嘅驗證裝置或者按照返瀏覽器嘅指示操作。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/yue 私隱政策]",
 	"wikimedia-skin-minerva-donate-banner-message": "即刻捐",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果維基百科對你有用，請你考慮下捐錢支持。",

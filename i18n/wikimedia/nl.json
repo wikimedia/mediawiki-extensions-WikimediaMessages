@@ -545,5 +545,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Wiskunde",
 	"wikimedia-articletopics-topic-medicine-and-health": "Geneeskunde en gezondheid",
 	"wikimedia-articletopics-topic-physics": "Natuurkunde",
-	"wikimedia-articletopics-topic-technology": "Technologie"
+	"wikimedia-articletopics-topic-technology": "Technologie",
+	"wikimedia-namespaceinfo-description-ns470": "Naamruimte voor schema's die door Legacy EventLogging werden gebruikt om analysegebeurtenissen te valideren. Alle pagina's in de naamruimte Schema zijn leeggemaakt als onderdeel van [[phab:T238230|het buiten gebruik stellen van Legacy EventLogging]]."
 }
