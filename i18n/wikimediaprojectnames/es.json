@@ -20,7 +20,9 @@
 			"Eulalio",
 			"Qwrop",
 			"I DOWNGRADED YT APP (1)",
-			"JorgeElias2302"
+			"JorgeElias2302",
+			"Laranxa",
+			"Sophocrat"
 		]
 	},
 	"project-localized-name-aawiki": "Wikipedia en afar",
@@ -29,7 +31,7 @@
 	"project-localized-name-abwiki": "Wikipedia en abjasio",
 	"project-localized-name-abwiktionary": "Wikcionario en abjasio",
 	"project-localized-name-acewiki": "Wikipedia en achenés",
-	"project-localized-name-advisorswiki": "Wiki de consejeros",
+	"project-localized-name-advisorswiki": "Asesores de Wikimedia",
 	"project-localized-name-adywiki": "Wikipedia en adigué",
 	"project-localized-name-afwiki": "Wikipedia en afrikáans",
 	"project-localized-name-afwikibooks": "Wikilibros en afrikáans",
@@ -246,6 +248,7 @@
 	"project-localized-name-euwikiquote": "Wikiquote en euskera",
 	"project-localized-name-euwikisource": "Wikisource en euskera",
 	"project-localized-name-euwiktionary": "Wikcionario en euskera",
+	"project-localized-name-execwiki": "Ejecutivo Wikimedia",
 	"project-localized-name-extwiki": "Wikipedia en extremeño",
 	"project-localized-name-fawiki": "Wikipedia en persa",
 	"project-localized-name-fawikibooks": "Wikilibros en persa",

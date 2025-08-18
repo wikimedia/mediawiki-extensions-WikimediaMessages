@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"H78c67c"
+			"H78c67c",
+			"Yueman"
 		]
 	},
-	"wm-codeofconduct": "行為準則"
+	"wm-codeofconduct": "行為準則",
+	"wm-techcodeofconduct": "行為準則"
 }

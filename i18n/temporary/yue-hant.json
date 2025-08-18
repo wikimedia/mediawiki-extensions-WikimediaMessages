@@ -2,14 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Winston Sung",
-			"H78c67c"
+			"H78c67c",
+			"Yueman"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定臨時訊息",
 	"grouppage-oversight": "{{ns:project}}:監督",
 	"group-oversight": "監督者",
-	"group-oversight-member": "監督",
+	"group-oversight-member": "{{GENDER:$1|監督}}",
 	"hello": "你好",
 	"please-translate": "請幫手去譯做你嘅語言",
-	"thank-you": "{{GENDER:$1|多謝。}}"
+	"thank-you": "{{GENDER:$1|多謝。}}",
+	"specialinvestigate-feedback": "留低意見"
 }

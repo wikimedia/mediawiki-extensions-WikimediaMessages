@@ -44,7 +44,7 @@
 			"Samoasambia"
 		]
 	},
-	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
+	"wikimediamessages-desc": "Mensagens específicas da Wikimédia",
 	"sitesupport-url": "https://donate.wikimedia.org/?utm_source=donate&utm_medium=sidebar&utm_campaign=spontaneous&uselang=pt",
 	"sitesupport": "Donativos",
 	"tooltip-n-sitesupport": "Ajude-nos",
@@ -232,6 +232,7 @@
 	"tag-AWB": "[https://pt.wikipedia.org/wiki/Wikipédia:AutoWikiBrowser AutoWikiBrowser]",
 	"tag-AWB-description": "Edições realizadas com o [https://pt.wikipedia.org/wiki/Wikipédia:AutoWikiBrowser AutoWikiBrowser]",
 	"search-interwiki-custom": "wikt:Origem: Wikcionário\nb:Origem: Wikilivros\nn:Origem: Wikinotícias\nq:Origem: Wikiquote\ns:Origem: Wikisource\nv:Origem: Wikiversidade\nvoy:Origem: Wikivoyage",
+	"shared-repo-name-shared": "Wikimédia Commons",
 	"wikimedia-copyright": "Este texto é disponibilizado nos termos da licença <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt\">Atribuição-CompartilhaIgual 3.0 Não Adaptada (CC BY-SA 3.0) da Creative Commons</a>;\npode estar sujeito a condições adicionais.\nPara mais detalhes, consulte as <a href=\"https://foundation.wikimedia.org/wiki/Condições_de_Uso\">condições de utilização</a>.",
 	"wikimedia-commons-copyright": "Os ficheiros são disponibilizados com as licenças especificadas nas suas páginas de descrição. Todos os dados estruturados do espaço nominal de ficheiros são disponibilizados com a <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.pt\" title=\"Definição da Licença Creative Commons CC0\">Licença Creative Commons CC0</a>; todo o texto não estruturado é disponibilizado com a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt\" title=\"Definição da Licença Creative Commons Atribuição-CompartilhaIgual\">Licença Creative Commons Atribuição-CompartilhaIgual</a>; poderão aplicar-se condições adicionais.\nAo usar este ''site'', concorda com as <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\" title=\"Condições de Utilização da Wikimedia Foundation\">Condições de Utilização</a> e com a <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\" title=\"Política de Privacidade da Wikimedia Foundation\">Política de Privacidade</a>.",
 	"mediawiki.org-copyright": "O texto é disponibilizado com a <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.pt\">Licença Creative Commons Atribuição-CompartilhaIgual</a>; poderão aplicar-se condições adicionais. O texto no <a href=\"https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents\">espaço nominal Ajuda:</a> é disponibilizado com a <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.pt\" title=\"Definição da Licença Creative Commons CC0\">Licença Creative Commons CC0</a>.\nAo usar este ''site'', concorda com as <a href=\"//foundation.wikimedia.org/wiki/Terms_of_Use\">Condições de Utilização</a> e com a <a href=\"//foundation.wikimedia.org/wiki/Privacy_policy\">Política de Privacidade</a>.",
@@ -246,6 +247,8 @@
 	"wikifunctions-edit-copyrightwarning-function": "Ao clicar \"publicar\", concorda com as <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/pt\">condições de utilização</a> e em irrevogavelmente publicar as suas contribuições com a <a href=\"//creativecommons.org/publicdomain/zero/1.0/deed.pt\" title=\"Definição da licença Creative Commons CC0\">licença Creative Commons CC0</a>.",
 	"wikifunctions-edit-copyrightwarning-implementation": "Ao clicar \"publicar\", concorda com as <a href=\"//foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/pt\">condições de utilização</a> e em irrevogavelmente publicar as suas contribuições com a <a href=\"https://www.apache.org/licenses/LICENSE-2.0\" title=\"Definição da licença Apache 2,0\">licença Apache 2,0</a>.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Bem-vindo|Bem-vinda|Bem-vindo(a)}}, $1!",
+	"wikibase-repo-name": "Wikidados",
+	"wikibase-page-schema-publisher-name": "Wikimedia Foundation, Inc.",
 	"wikibase-page-schema-author-name": "Contribuidores dos projetos da Wikimedia",
 	"wikibase-statementsection-constraints": "Restrições",
 	"wikibase-sitelinks-wikibooks": "Wikilivros",
@@ -301,6 +304,7 @@
 	"interlanguage-link-sitename-wikipedia": "Wikipédia, a enciclopédia livre",
 	"interlanguage-link-commons": "Wikimedia Commons",
 	"interlanguage-link-sitename-commons": "Repositório multimédia Wikimedia Commons",
+	"interlanguage-link-dmoz": "DMOZ",
 	"interlanguage-link-sitename-dmoz": "Diretório de DMOZ",
 	"action-superprotect": "alterar níveis de superproteção",
 	"right-superprotect": "Alterar níveis de superproteção",
