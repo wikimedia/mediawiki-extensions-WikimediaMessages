@@ -594,5 +594,6 @@
 	"wikimedia-articletopics-topic-mathematics": "رياضيات",
 	"wikimedia-articletopics-topic-medicine-and-health": "طب وصحة",
 	"wikimedia-articletopics-topic-physics": "فيزياء",
-	"wikimedia-articletopics-topic-technology": "تقانة"
+	"wikimedia-articletopics-topic-technology": "تقانة",
+	"wikimedia-namespaceinfo-description-ns470": "مساحة اسم المخططات التي استخدمها تسجيل الأحداث القديم للتحقق من صحة أحداث التحليلات. تم إفراغ جميع الصفحات في مساحة اسم المخطط كجزء من [[phab:T238230|إلغاء تسجيل الأحداث القديم]]."
 }
