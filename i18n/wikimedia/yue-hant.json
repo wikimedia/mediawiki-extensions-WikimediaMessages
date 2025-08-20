@@ -5,7 +5,8 @@
 			"Ktchankt",
 			"PB2008",
 			"Winston Sung",
-			"Yueman"
+			"Yueman",
+			"JeffreyKim"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -103,6 +104,7 @@
 	"tag-emoji-description": "用喺全域過濾器110。",
 	"tag-AWB-description": "[https://en.wikipedia.org/wiki/yue:Wikipedia:AutoWikiBrowser AutoWikiBrowser]做嘅編輯",
 	"search-interwiki-custom": "wikt:嚟自維基辭典\nb:嚟自維基書本\nn:嚟自維基新聞\nq:嚟自維基語錄\ns:嚟自維基文庫\nv:嚟自維基學府\nvoy:嚟自維基遊埠",
+	"shared-repo-name-shared": "維基同享",
 	"wikimedia-copyright-footer": "全部文字根據[https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike 牌照]嘅條款發佈；\n可能會有附加嘅條款。\n睇下[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]嘅細節。",
 	"wikimedia-copyrightwarning": "當保存嗰陣，你同意\n[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，亦將你嘅貢獻喺[https://creativecommons.org/licenses/by-sa/4.0/ 共享創意 署名－相同方式共享 4.0]同埋[https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL自由文檔協議]發表。\n你同意只係用超連結或者網址做署名已經足夠。",
 	"wikimedia-mobile-mainpage-title-loggedin": "歡迎，$1！",

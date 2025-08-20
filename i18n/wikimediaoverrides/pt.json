@@ -6,7 +6,9 @@
 			"Nail123Real",
 			"Nemo bis",
 			"Vitorvicentevalente",
-			"BraunOBruno"
+			"BraunOBruno",
+			"ItsaMeSandy",
+			"Mansil alfalb"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Visitantes desta wiki com o seu endereço IP criaram {{PLURAL:$1|1 conta|$1 contas}} no último dia, que é o máximo permitido nesse período.\nEm resultado, os visitantes que utilizem este endereço não podem criar mais contas neste momento.\n\nSe estiver num evento onde o foco é a contribuição para projetos da Wikimedia, consulte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Pedir remoção temporária do limite IP]] para ajudar a resolver este problema, por favor.",

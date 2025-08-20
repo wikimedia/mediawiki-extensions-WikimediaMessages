@@ -4,13 +4,16 @@
 			"H78c67c",
 			"Winston Sung",
 			"JeffreyKim",
-			"Ktchankt"
+			"Ktchankt",
+			"Yueman"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "你嘅IP地址喺過去一日內開咗{{PLURAL:$1|$1個戶口}}，數量已經達到上限。\n因為噉，用呢個IP地址嘅訪客暫時唔可以再開新戶口。\n\n如果你喺一個用貢獻維基媒體項目做主題嘅活動，請睇[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|要求臨時解除IP上限]]嘅說明嚟解決呢個問題。",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（幫我揀）]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "你可以去[[m:Special:CentralAuth/$1|其他你貢獻過嘅維基媒體項目]]嘅喜好設定頁去下載返你戶口資料。",
 	"wikimedia-createacct-imgcaptcha-help": "睇唔到圖？[[{{MediaWiki:createacct-captcha-help-url}}|請求開戶口]]",
 	"wikimedia-centralauth-groupname": "維基媒體基金會",
+	"wikimedia-centralauth-login-error-locked": "<strong>呢個戶口已經被[[m:Special:MyLanguage/Global locks|全域封鎖咗]]。</strong> {{GENDER:$1|你}}唔可以喺任何維基媒體嘅網站簽到。如果{{GENDER:$1|你}}有疑問，請[[m:Special:Contact/stewards|聯絡監管員]]。",
 	"createacct-helpusername-url": "{{ns:Project}}:用戶名政策",
 	"wikimedia-checkuser-tempaccount-enable-preference-description": "開着呢個設定之前，你要讀咗並同意遵守《[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses 臨時戶口IP地址存取政策]》。特別係：<ul><li>你一定要符合政策訂明嘅資格；</li><li>除非有合理需要以'''調查或應對破壞、濫用、垃圾信息、騷擾、擾亂行為同其他違反維基媒體基金會或社羣政策嘅行為'''，你唔可以存取、使用或公開披露臨時戶口嘅IP地址。如果你要將呢啲資訊分享畀其他人，你一定要對喺邊同點樣分享保持敏感，並喺冇合理需要公開俾人睇嘅時候剷除啲資訊。</li></ul>如果你讀曬並同意以上政策，你可以剔個盒仔嚟開着個設定。",
 	"wikimedia-discussiontools-replywidget-terms-click": "當你撳「$1」，就代表你同意我哋嘅[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意唔反悔{{PLURAL:$3|根據}}$2公開你所寫嘅嘢。",
@@ -18,7 +21,7 @@
 	"wikimedia-interfaceadmin-info": "改全站通用 CSS/JS/JSON 檔嘅權限只係得[[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]] 群組成員可以用。",
 	"wikimedia-sitematrix": "維基媒體嘅wiki一覽",
 	"wikimedia-sitematrix-others": "維基媒體嘅其他計劃",
-	"wikimedia-sitematrix-summary": "呢版特別版列示維基媒體所有 wiki。",
+	"wikimedia-sitematrix-summary": "呢版專門版列示維基媒體所有 wiki。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/yue 私隱政策]",
 	"wikimedia-skin-minerva-donate-banner-message": "即刻捐",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果維基百科對你有用，請你考慮下捐錢支持。",
