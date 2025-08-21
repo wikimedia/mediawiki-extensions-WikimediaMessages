@@ -364,7 +364,7 @@
 	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" के रूप में सुरक्षित पृष्ठ सम्पादित करना",
 	"protect-level-editextendedsemiprotected": "सिर्फ स्वतः परीक्षित सदस्यों को अनुमति है",
 	"restriction-level-editextendedsemiprotected": "स्वतः परीक्षित सुरक्षित",
-	"action-banner-protect": "अनुवाद एक्सटेंशन द्वारा हैंडल किए जाने वाले एक CentralNotice बैनर्स में शामिल अनुवादनीय संदेशों को सुरक्षित करने",
+	"action-banner-protect": "अनुवाद एक्सटेंशन द्वारा हैंडल किए जाने वाले और केंद्रीय सूचना बैनर्स में शामिल अनुवादनीय संदेश सुरक्षित करने",
 	"wikimedia-centralauth-contribs-locked": "यह खाता ग्लोबल रूप से लॉक कर दिया गया है।\nअधिक जानकारी के लिए [[m:Special:CentralAuth/$1|ग्लोबल खाते की जानकारी]] देखें।",
 	"action-viewdeletedfile": "{{ns:file}} और {{ns:file_talk}} नामस्थानों में हटाई गई फ़ाइलें देखने",
 	"right-viewdeletedfile": "{{ns:file}} और {{ns:file_talk}} नामस्थानों में हटाई गई फ़ाइलें देखना",

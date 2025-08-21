@@ -514,5 +514,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Mathematica",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicina e sanitate",
 	"wikimedia-articletopics-topic-physics": "Physica",
-	"wikimedia-articletopics-topic-technology": "Technologia"
+	"wikimedia-articletopics-topic-technology": "Technologia",
+	"wikimedia-namespaceinfo-description-ns470": "Spatio de nomines pro schemas que esseva usate per Legacy EventLogging pro validar eventos de analyse. Tote le paginas in le spatio de nomines Schema ha essite vacuate como parte del [[phab:T238230|retiro de Legacy EventLogging]]."
 }

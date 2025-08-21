@@ -572,5 +572,6 @@
 	"wikimedia-articletopics-topic-mathematics": "數學",
 	"wikimedia-articletopics-topic-medicine-and-health": "醫學與健康",
 	"wikimedia-articletopics-topic-physics": "物理",
-	"wikimedia-articletopics-topic-technology": "技術"
+	"wikimedia-articletopics-topic-technology": "技術",
+	"wikimedia-namespaceinfo-description-ns470": "Legacy EventLogging 使用來驗證分析事件的架構的命名空間。Schema 命名空間中的所有頁面均已清除成 [[phab:T238230|Legacy EventLogging]] 的一部分。"
 }
