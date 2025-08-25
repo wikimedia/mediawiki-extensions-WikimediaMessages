@@ -82,6 +82,9 @@
 	"group-engineer": "מהנדסים",
 	"group-engineer-member": "{{GENDER:$1|מהנדס|מהנדסת}}",
 	"grouppage-engineer": "{{ns:project}}:מהנדסים",
+	"group-electionclerk": "פקידי בחירות",
+	"group-electionclerk-member": "{{GENDER:$1|פקיד|פקידת}} בחירות",
+	"grouppage-electionclerk": "{{ns:project}}:פקידי בחירות",
 	"group-eliminator": "מוחקים",
 	"group-eliminator-member": "{{GENDER:$1|מוחק|מוחקת}}",
 	"grouppage-eliminator": "{{ns:project}}:מוחקים",
@@ -357,6 +360,10 @@
 	"action-viewdeletedfile": "להציג קבצים ודפים שנמחקו במרחבי המשתמש {{ns:file}} ו{{GRAMMAR:תחילית|{{ns:file_talk}}}}",
 	"right-viewdeletedfile": "צפייה בקבצים ודפים שנמחקו במרחבי השם \"{{ns:file}}\" ו\"{{ns:file_talk}}\"",
 	"securepoll-dblist-securepollglobal": "בחירות ועד",
+	"wikimedia-boardelection-echo-category-title": "הבחירות לוועד של קרן ויקימדיה",
+	"wikimedia-boardelection2025-notification-header": "החלה ההצבעה בבחירות לוועד של קרן ויקימדיה.",
+	"wikimedia-boardelection2025-notification-body": "ההצבעה מסתיימת בשעה 23:59, 10 בספטמבר 2025 (UTC).",
+	"wikimedia-boardelection-notification-action": "הצביעו עכשיו",
 	"wikimedia-statslink": "סטטיסטיקות",
 	"wikimedia-wikistats-label": "ויקיסטטס",
 	"wikimedia-wikistats-tagline": "סטטיסטיקת ויקימדיה",
@@ -379,6 +386,7 @@
 	"restriction-level-editautopatrolprotected": "הגנה לבדוקי עריכות אוטומטית",
 	"right-editautopatrolprotected": "עריכת דפים המוגנים ברמת \"{{int:protect-level-editautopatrolprotected}}\"",
 	"action-editautopatrolprotected": "לערוך דפים שמוגנים ברמת \"{{int:protect-level-editautopatrolprotected}}\"",
+	"protect-level-editpatrolprotected": "לאפשר רק למנטרים",
 	"restriction-level-editpatrolprotected": "הגנת מנטרים",
 	"right-editpatrolprotected": "עריכת דפים המוגנים ברמת \"{{int:protect-level-editpatrolprotected}}\"",
 	"action-editpatrolprotected": "לערוך דפים שמוגנים ברמת \"{{int:protect-level-editpatrolprotected}}\"",
@@ -536,5 +544,6 @@
 	"wikimedia-articletopics-topic-mathematics": "מתמטיקה",
 	"wikimedia-articletopics-topic-medicine-and-health": "רפואה ובריאות",
 	"wikimedia-articletopics-topic-physics": "פיזיקה",
-	"wikimedia-articletopics-topic-technology": "טכנולוגיה"
+	"wikimedia-articletopics-topic-technology": "טכנולוגיה",
+	"wikimedia-namespaceinfo-description-ns470": "מרחב שם עבור סכֵמות ששימשו את הגרסה הישנה של EventLogging לאימות אירועי ניתוח נתונים. כל הדפים במרחב השם Schema רוקנו כחלק מ[[phab:T238230|הוצאת הגרסה הישנה של EventLogging משימוש]]."
 }

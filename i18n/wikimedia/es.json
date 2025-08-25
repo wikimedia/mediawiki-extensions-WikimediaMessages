@@ -59,6 +59,7 @@
 			"Platonides",
 			"PoLuX124",
 			"Rodney Araujo",
+			"Rousmery96",
 			"Rubentl134",
 			"Ryo567",
 			"Salvador alc",
@@ -527,5 +528,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Matemáticas",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicina y salud",
 	"wikimedia-articletopics-topic-physics": "Física",
-	"wikimedia-articletopics-topic-technology": "Tecnología"
+	"wikimedia-articletopics-topic-technology": "Tecnología",
+	"wikimedia-namespaceinfo-description-ns470": "Espacio de nombres para los esquemas que Legacy EventLogging utilizaba para validar eventos analíticos. Todas las páginas del espacio de nombres del esquema se vaciaron como parte del [[phab:T238230|desmantelamiento de Legacy EventLogging]]."
 }

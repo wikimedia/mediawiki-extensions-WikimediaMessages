@@ -7,7 +7,8 @@
 			"Multichill",
 			"Octahedron80",
 			"Passawuth",
-			"Patsagorn Y."
+			"Patsagorn Y.",
+			"Wutkh"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:th:ครีเอทีฟคอมมอนส์",
@@ -219,6 +220,6 @@
 	"wm-license-cc-conditions-attribution-header": "แสดงที่มา",
 	"wm-license-cc-conditions-attribution-text": "คุณต้องให้เกียรติเจ้าของงานอย่างเหมาะสม โดยเพิ่มลิงก์ไปยังสัญญาอนุญาต และระบุหากมีการเปลี่ยนแปลง คุณอาจทำเช่นนี้ได้ในรูปแบบใดก็ได้ตามควร แต่ต้องไม่ใช่ในลักษณะที่แนะว่าผู้ให้อนุญาตสนับสนุนคุณหรือการใช้งานของคุณ",
 	"wm-license-cc-conditions-share_alike-header": "อนุญาตแบบเดียวกัน",
-	"wm-license-cc-conditions-share_alike-text": "หากคุณดัดแปลง เปลี่ยนรูป หรือต่อเติมงานนี้ คุณต้องใช้สัญญาอนุญาต[https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses แบบเดียวกันหรือแบบที่เหมือนกับสัญญาอนุญาตที่ใช้กับงานนี้]เท่านั้น",
+	"wm-license-cc-conditions-share_alike-text": "หากคุณดัดแปลง เปลี่ยนรูป หรือต่อเติมงานนี้ คุณต้องใช้สัญญาอนุญาต[[ccorg:share-your-work/licensing-considerations/compatible-licenses|แบบเดียวกันหรือแบบที่เหมือนกับสัญญาอนุญาตที่ใช้กับงานนี้]]เท่านั้น",
 	"wm-license-cc-pd-mark-text": "ไฟล์นี้ได้ถูกระบุว่าไม่มีข้อจำกัดภายใต้กฎหมายลิขสิทธิ์ รวมถึงสิทธิที่เกี่ยวข้องและที่ใกล้เคียงกัน"
 }
