@@ -179,6 +179,8 @@ class Hooks implements
 			// T380955
 			'checkuser-temporary-accounts-onboarding-dialog-ip-reveal-step-content',
 			'checkuser-temporary-accounts-onboarding-dialog-ip-reveal-step-content-with-global-preferences',
+			// T375115
+			'checkuser-temporary-account-autorevoke-userright-reason',
 			// T380518
 			'checkuser-global-contributions-no-results-no-permissions',
 			// T362548
