@@ -103,6 +103,7 @@
 	"tag-emoji-description": "用喺全域過濾器110。",
 	"tag-AWB-description": "[https://en.wikipedia.org/wiki/yue:Wikipedia:AutoWikiBrowser AutoWikiBrowser]做嘅編輯",
 	"search-interwiki-custom": "wikt:嚟自維基辭典\nb:嚟自維基書本\nn:嚟自維基新聞\nq:嚟自維基語錄\ns:嚟自維基文庫\nv:嚟自維基學府\nvoy:嚟自維基遊埠",
+	"shared-repo-name-shared": "維基同享",
 	"wikimedia-mobile-mainpage-title-loggedin": "歡迎，$1！",
 	"wikibase-repo-name": "維基數據",
 	"wikibase-page-schema-author-name": "維基媒體項目貢獻者",

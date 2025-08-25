@@ -4,7 +4,8 @@
 			"Winston Sung",
 			"H78c67c",
 			"Ktchankt",
-			"JeffreyKim"
+			"JeffreyKim",
+			"Yueman"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "你嘅IP地址喺過去一日內開咗{{PLURAL:$1|$1個戶口}}，數量已經達到上限。\n因為噉，用呢個IP地址嘅訪客暫時唔可以再開新戶口。\n\n如果你喺一個用貢獻維基媒體項目做主題嘅活動，請睇[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|要求臨時解除IP上限]]嘅說明嚟解決呢個問題。",
