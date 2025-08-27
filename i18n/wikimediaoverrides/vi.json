@@ -89,7 +89,7 @@
 	"wikimedia-oathauth-step1-test": "Tải xuống ứng dụng xác thực hai yếu tố. Xem [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Trợ giúp:Xác thực hai yếu tố] để biết danh sách các ứng dụng được gợi ý.",
 	"wikimedia-oathauth-hint": "Bạn không thể truy cập thiết bị hoặc ứng dụng của mình? Bạn có thể nhập mã khôi phục (được hiển thị khi bạn bật 2FA) vào trường này. Nếu không thể thực hiện việc này, hãy xem [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Trợ giúp:Xác thực hai yếu tố] để biết thêm các tùy chọn khác.",
 	"wikimedia-pt-movepage-page-count-limit": "'''Trang có thể dịch này bao gồm hơn $1 {{PLURAL:$1|}}trang.''' Do vấn đề về độ tin cậy, việc di chuyển các trang có thể dịch bao gồm hơn $1 {{PLURAL:$1|}}trang không thể được thực hiện thông qua giao diện người dùng. Vui lòng '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ nộp một nhiệm vụ Phabricator]''' và điền vào các trường của biểu mẫu để yêu cầu [[:m:Special:MyLanguage/System administrators|quản trị viên hệ thống]] thực hiện việc di chuyển trang thay mặt bạn.",
-	"wikimedia-skin-minerva-donate-banner-message": "Quyên góp ngay",
+	"wikimedia-skin-minerva-donate-banner-message": "Quyên góp",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Nếu Wikipedia hữu ích với bạn, bạn có thể quyên góp cho chúng tôi.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Nếu trang web này hữu ích với bạn, bạn có thể quyên góp cho chúng tôi."
 }

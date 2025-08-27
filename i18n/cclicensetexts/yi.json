@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Har-wradim",
-			"פוילישער"
+			"פוילישער",
+			"Shvermer"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:yi:Creative Commons",
@@ -86,7 +87,7 @@
 	"wm-license-cc-by-3.0-tw-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/3.0/tw/|צושרײַבונג 3.0 טײַוואַן]] ליצענץ.",
 	"wm-license-cc-by-3.0-us-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by/3.0/us/|צושרײַבונג 3.0 פֿאַראייניגטע שטאַטן]] ליצענץ.",
 	"wm-license-cc-by-sa-1.0-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/1.0/צושרײַבונג-גלײַכטיילן|1.0 אוניווערסאלער]] ליצענץ.",
-	"wm-license-cc-by-sa-3.0-text": "די טעקע ווערט ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en/Attribution-Share|Alike 3.0 Unported]] ליצענץ.",
+	"wm-license-cc-by-sa-3.0-text": "די טעקע איז ליצענצירט אונטער דער [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[https://creativecommons.org/licenses/by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] ליצענץ.",
 	"wm-license-cc-free": "איר מעגט:",
 	"wm-license-cc-free-to-share-header": "באַטייליקן",
 	"wm-license-cc-free-to-share-text": "קאפירן, פֿאַרשפרייטן און איבערשיקן די ווערק",
@@ -96,5 +97,5 @@
 	"wm-license-cc-conditions-attribution-header": "צושרײַבונג",
 	"wm-license-cc-conditions-attribution-text": "איר מוזט צושרײַבן די ווערק אויפן שטייגער ספעציפֿירט דורכן שאַפֿער אדער ליצענץ־האַלטער (אבער נישט אין אזוינעם אופן אַז עס זעט אויס אַז זיי שטיצן אונטער אײַך אדער אײַער ניץ פון דער ווערק).",
 	"wm-license-cc-conditions-share_alike-header": "טיילן גלײַך",
-	"wm-license-cc-conditions-share_alike-text": "אז איר וועט ענדערן, פארוואנדלען איר צולייגן צו דער דאזיגער ווערק, טארט איר דאך נאר טיילן די ווערק אונטער דעם זעלבן אדער ענלעכן ליצענץ צו דעם."
+	"wm-license-cc-conditions-share_alike-text": "אז איר וועט ענדערן, פארוואנדלען, אדער צולייגן צו דעם מאַטריאַל, מוזט איר מיטטיילן אייער ביישטייערונג אונטער [[ccorg:share-your-work/licensing-considerations/compatible-licenses|דער זעלבער אדער ענליכער]] ליצענץ ווי דעם אָריגינאַל."
 }

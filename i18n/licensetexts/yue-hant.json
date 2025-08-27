@@ -6,8 +6,8 @@
 			"Yueman"
 		]
 	},
-	"wm-license-attribution-with-author-text": "我，$1，呢個檔案嘅版權持有者，歡迎任何人係任何目的之下用呢幅圖。你可以改作、甚至用係商業用途都可以。",
-	"wm-license-attribution-without-author-text": "版權持有者同意你係任何目的之下用呢個檔案。你可以作商業用途、改變呢個作品都可以。",
+	"wm-license-attribution-with-author-text": "$1，即係呢個檔案嘅版權持有者，歡迎任何人係'''任何目的'''之下用呢個檔案。改動檔案、商業用途同其他用途都可以。",
+	"wm-license-attribution-without-author-text": "呢個檔案嘅版權持有者，歡迎任何人係'''任何目的'''之下用呢個檔案。改動檔案、商業用途同其他用途都可以。",
 	"wm-license-artwork-title": "題",
 	"wm-license-artwork-notes": "註",
 	"wm-license-creator-description": "描述",
