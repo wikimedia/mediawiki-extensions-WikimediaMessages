@@ -548,5 +548,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Riyaziyyat",
 	"wikimedia-articletopics-topic-medicine-and-health": "Tibb",
 	"wikimedia-articletopics-topic-physics": "Fizika",
-	"wikimedia-articletopics-topic-technology": "Texnologiya"
+	"wikimedia-articletopics-topic-technology": "Texnologiya",
+	"wikimedia-namespaceinfo-description-ns470": "Analitika jurnallarını qeyd etmək üçün üçün Legacy EventLogging tərəfindən istifadə edilən sxemlər üçün ad məkanı. Sxem ad fəzasındakı bütün səhifələr [[phab:T238230|Legacy EventLogging-in istismardan çıxarılması]]nın bir hissəsi kimi boşaldılıb."
 }
