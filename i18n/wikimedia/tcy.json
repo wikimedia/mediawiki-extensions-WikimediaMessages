@@ -40,6 +40,8 @@
 	"grouppage-autoreviewer": "{{ns:project}}:ಸ್ವಯಂ ಪರಿಶೀಲಕೆರ್",
 	"group-bigexport": "ದೊಡ್ಡ ನಿರ್ಯಾತಗಾರೆರ್",
 	"group-bigexport-member": "{{GENDER:$1|ದೊಡ್ಡ ನಿರ್ಯಾತಗಾರೆರ್}}",
+	"group-extendedconfirmed": "ವಿಸ್ತಾರವಾದ್ ಖಚಿತಪಡಿಸಾಯಿನ ಬಳಕೆದಾರೆರ್",
+	"group-extendedconfirmed-member": "{{GENDER:$1|ವಿಸ್ತಾರವಾದ್ ಖಚಿತಪಡಿಸಾಯಿನ ಬಳಕೆದಾರೆ}}",
 	"wikimedia-copyright": "ಪಟ್ಯೊ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್‌ ಆಟ್ರಿಬ್ಯೂಶನ್ ಲೈಸೆನ್ಸ್‌ದ</a> ಅಡಿಟ್ ಲಭ್ಯ ಉಂಡು; ಬೇತೆ ಷರ್ತೊಲು ಉಪ್ಪು.  ವಿವರೊಲೆಗ್ <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ಗಲಸುನ ನಿಬಂಧನೆಲೆನ್</a> ತೂಲೆ.",
 	"wikimedia-copyrightwarning": "ಬದಲಾವಣೆಲೆನ್ ಒರಿಪಾವುನ ಮೂಲಕೊ, ಈರ್ [https://foundation.wikimedia.org/wiki/Terms_of_Use ಗಲಸುನ ನಿಬಂದನೆಲೆನ್] ಒತ್ತೊನುವರ್, ಬುಕ್ಕೊ ಇರೆನ ಕಾನಿಕೆಲೆನ್ [https://en.wikipedia.org wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ಬೊಕ್ಕ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ಅಡಿಟ್ ಬುಡುಗಡೆ ಮಲ್ಪೆರೆ ಈರ್ ಬದಲ್ ಮಲ್ಪೆರಾವಂದಿಲೆಕ ಒತ್ತೊನುವರ್. ಅಂಚೆನೆ ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಲೈಸೆನ್ಸ್‌ದಡಿಟ್ ಒಂಜಿ ಹೈಪರ್ಲಿಂಕ್ ಅತ್ತಂಡ ಯುಆರ್‌ಎಲ್ ತಕ್ಕಂತಿನ ಶ್ರೇಯೊ (ಕ್ರೆಡಿಟ್) ಪಂದ್ ಒತ್ತೊನುವರ್.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ಸ್ವಾಗತ}}, $1!",
