@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bisang",
 			"Bluehill",
 			"Codenstory",
 			"Ellif",
@@ -47,8 +48,8 @@
 	"wikimedia-sitematrix-others": "다른 위키미디어 프로젝트",
 	"wikimedia-sitematrix-summary": "이 특수문서는 위키미디어의 모든 위키를 나열합니다.",
 	"wikimedia-ipb-confirmhideuser": "\"사용자 숨기기\" 처리된 사용자를 차단하려고 합니다. 이 위키의 모든 목록과 기록에서 해당 사용자의 이름을 숨기게 됩니다. 정말로 이 작업을 수행하시겠습니까?\n\n이 계정 이름을 모든 위키미디어 위키에서 숨겨야 한다면, [[m:Special:EmailUser/Wikimedia_Stewards|위키 내 이메일 보내기 기능]] 또는 <kbd>stewards@wikimedia.org</kbd> 를 통해 [[m:Special:MyLanguage/Stewards|사무장]]에게 연락해 주십시오.",
-	"wikimedia-webauthn-module-description": "WebAuthn(웹 인증)은 월드 와이드 웹 컨소시엄(W3C)에서 발표한 웹 표준입니다. WebAuthn은 FIDO 연합의 지침에 따른 FIDO2 프로젝트의 핵심 요소입니다. 이 프로젝트의 목표는 공개 키 암호를 사용하여 사용자를 웹 기반 응용 프로그램 및 서비스로 인증하기 위한 인터페이스를 표준화하는 것입니다. [https://en.wikipedia.org/wiki/WebAuthn 자세히 보기]. 인증 기기를 처음 등록한 위키로 로그인이 필요함을 알려드립니다.",
-	"wikimedia-webauthn-ui-login-prompt": "확인 장치를 터치하거나 브라우저의 지시를 따르세요. 인증 장치를 처음 등록한 동일한 위키에 로그인해야 합니다.",
+	"wikimedia-webauthn-module-description": "WebAuthn(웹 인증)은 실험 단계이며 현재 물리적 기기로만 제한되어 있습니다. 이 방법을 사용하면 분실, 혹은 손상된 인증 기기를 복구할 수 없으며, 현재 WebAuthn에서는 모바일 앱을 통한 로그인을 지원하지 않습니다.\n\n[https://ko.wikipedia.org/wiki/WebAuthn WebAuthn에 대해 자세히 알아보세요.].",
+	"wikimedia-webauthn-ui-login-prompt": "인증 장치를 터치하거나 브라우저의 지시를 따르세요.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 개인정보보호정책]",
 	"wikimedia-ipinfo-help-text": "이 도구의 사용은 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 정보 도구 지침]을 따릅니다. 표시된 정보는 맥스마인드와 [https://docs.spur.us/data-types 스퍼]에서 제공됩니다. 완전히 정확하지는 않을 수도 있습니다.",
 	"wikimedia-ipinfo-infobox-use-terms": "IP 정보 도구는 MaxMind 데이터베이스를 사용하여 IP 주소의 대략적인 위치, 프록시, 함께 공유하는 장치 수와 같은 상세 정보를 표시합니다. 도구를 활성화하기 전에 [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines IP 정보 도구 지침]을 검토해 주십시오.",
