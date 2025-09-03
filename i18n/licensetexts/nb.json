@@ -110,5 +110,6 @@
 	"wm-license-self-one-license-with-author": "$1, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisens:",
 	"wm-license-self-multiple-licenses": "Jeg, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisenser:",
 	"wm-license-self-multiple-licenses-with-author": "$1, rettighetsinnehaver av dette arbeidet, publiserer det herved under følgende lisenser:",
-	"wm-license-self-multiple-licenses-select": "Du kan velge lisens etter eget valg."
+	"wm-license-self-multiple-licenses-select": "Du kan velge lisens etter eget valg.",
+	"wm-license-self-invalid-parameter": "Ugyldig parameter. Denne public domain-malen bør ikke brukes i self-malen."
 }

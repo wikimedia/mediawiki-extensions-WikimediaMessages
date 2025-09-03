@@ -31,5 +31,6 @@
 	"wikimedia-ipb-confirmhideuser": "Tas a piques de bloquiar a un usuariu con «anubrir usuariu» activao. Esto suprimirá'l nome del usuariu en toles llistes y entraes del rexistru d'esta wiki. ¿Tas seguru de que quies facer eso?\n\nSi'l nome d'usuariu necesita tar anubríu en toles wikis de Wikimedia, comunícate colos [[m:Special:MyLanguage/Stewards|stewards]] usando'l [[m:Special:EmailUser/Wikimedia_Stewards|corréu en wiki ]] o en <kbd>stewards@wikimedia.org</kbd>. Gracies.",
 	"wikimedia-urlshortener-disabled": "Los enllaces curtios puen crease sólo usando la páxina especial [[:m:Special:UrlShortener|Special:UrlShortener]] de meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Los enllaces curtios puen crease sólo con una llamada a la wiki meta.wikimedia.org.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de proteición de datos]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de proteición de datos]",
+	"wikimedia-ipinfo-preference-use-agreement": "Acepto que l'usu que voi facer d'esta ferramienta va ser conforme coles [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines directrices] y únicamente pa la investigación y la prevención del vandalismu, abusos o otres infracciones a les polítiques de la comunidá o de Wikimedia."
 }
