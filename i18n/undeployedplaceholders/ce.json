@@ -4,8 +4,11 @@
 			"Умар"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|цхьаьнатоьхна}} аккаунт \"$4\" ($5) {{GENDER:$8|$6}} ($7)",
 	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|дӀайаьккхина}} аккаунт \"$4\" ($5)",
 	"wikimedia-log-action-filter-usermerge": "Ардаман тайпа:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Декъашхочун аккаунташ цхьаьнатохар",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Декъашхочун аккаунт дӀайаккхар",
 	"wikimedia-usermerge-logpage": "Аккаунташ вовшахтохаран журнал",
 	"wikimedia-usermerge-logpagetext": "ХӀара, аккаунташ вовшахтохаран журнал ду.",
 	"wikimedia-graph-tracking-category": "Графикаш йолу агӀонаш",

@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Los visitantes d'esta wiki qu'usaben la to direición IP crearon {{PLURAL:$1|1 cuenta|$1 cuentes}} l'últimu día, que ye'l máximu permitíu nesti periodu de tiempu.\nComo resultáu, los visitantes qu'usen esta direición IP nun pueden crear nenguna cuenta más de momentu.\n\nSi tas faciendo una actividá que tien l'envís de contribuir colos proyeutos de Wikimedia, consulta [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Pidir el llevantamientu temporal de la llende IP]] p'ayudate a iguar esti problema.",
@@ -11,10 +12,11 @@
 	"wikimedia-centralauth-login-error-locked": "<strong>Esta cuenta ta [[m:Special:MyLanguage/Global locks|candada globalmente]].</strong> {{GENDER:$1|Nun vas}} poder aniciar sesión en nenguna wiki de Wikimedia. [[m:Special:Contact/stewards|Comunícate colos stewards]] si {{GENDER:$1|tienes}} dalguna entruga.",
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nomes_d'usuariu",
 	"wikimedia-delete-toobig": "Esta páxina tien un historial d'ediciones grande, de más de $1 {{PLURAL:$1|revisión|revisiones}}.\nEl desaniciu de páxines con historiales d'edición grandes ta torgáu pa prevenir alteraciones accidentales de {{SITENAME}}.\nPor favor, comunícate colos [[m:Special:MyLanguage/Stewards|stewards]] en [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous en Meta]] pa solicitar el desaniciu d'esta páxina.",
+	"wikimedia-discussiontools-replywidget-terms-click": "Al calcar en \"$1\", aceptes les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use condiciones d'usu] y aceptes de mou irrevocable asoleyar el to testu baxo $2.",
 	"wikimedia-feedback-termsofuse": "Acepto proporcionar información acordies colos [https://foundation.wikimedia.org/wiki/Terms_of_Use Términos d'usu].",
 	"wikimedia-flow-terms-of-use-new-topic": "Al facer clic nel botón \"{{int:flow-newtopic-save}}\", aceutes les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [https://creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "Al facer clic en \"{{int:flow-reply-link}}\", aceutes les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [https://creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
-	"wikimedia-flow-terms-of-use-edit": "Al guardar los cambios, aceutes les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [https://creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-flow-terms-of-use-edit": "Al guardar los cambios, aceptes les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use condiciones d'usu] y aceptes de mou irrevocable asoleyar el to testu baxo $1.",
 	"wikimedia-flow-terms-of-use-summarize": "Al facer clic en \"{{int:flow-topic-action-update-topic-summary}}\", aceutes les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [https://creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-lock-topic": "Al facer clic en \"{{int:flow-topic-action-lock-topic}}\", aceutes les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [https://creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-unlock-topic": "Al facer clic en \"{{int:flow-topic-action-unlock-topic}}\", aceutes les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condiciones d'usu] y aceutes de mou irrevocable asoleyar el to testu baxo la [https://creativecommons.org/licenses/by-sa/3.0 Llicencia CC BY-SA 3.0] y la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
