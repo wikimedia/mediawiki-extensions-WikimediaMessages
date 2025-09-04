@@ -17,8 +17,8 @@ class HooksTest extends MediaWikiUnitTestCase {
 
 	use MockServiceDependenciesTrait;
 
-	/** @dataProvider provideOnBeforePageDisplay */
-	public function testOnBeforePageDisplay( $wikimediaStyleSkins, $currentSkin, $expectedModuleStyles ) {
+	/** @dataProvider provideOnOutputPageBeforeHTML */
+	public function testOnOutputPageBeforeHTML( $wikimediaStyleSkins, $currentSkin, $expectedModuleStyles ) {
 		/** @var Hooks $hooks */
 		$hooks = $this->newServiceInstance( Hooks::class, [
 			'mobileContext' => null,
@@ -36,11 +36,14 @@ class HooksTest extends MediaWikiUnitTestCase {
 		$out->expects( $expectedModuleStyles !== [] ? $this->atLeastOnce() : $this->never() )
 			->method( 'addModuleStyles' )
 			->with( $expectedModuleStyles );
-		// Call ::onBeforePageDisplay with the mocks we just created.
-		$hooks->onBeforePageDisplay( $out, $skin );
+		$out->method( 'getSkin' )
+			->willReturn( $skin );
+		$html = '';
+		// Call ::onOutputPageBeforeHTML with the mocks we just created.
+		$hooks->onOutputPageBeforeHTML( $out, $html );
 	}
 
-	public static function provideOnBeforePageDisplay() {
+	public static function provideOnOutputPageBeforeHTML() {
 		return [
 			'No skins are defined in config' => [ [], 'vector', [] ],
 			'Skin is not included in config' => [ [ 'vector' ], 'monobook', [] ],

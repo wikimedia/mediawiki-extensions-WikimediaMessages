@@ -70,7 +70,7 @@
 		"echo-subscriptions-email-boardelection": true
 	},
 	"Hooks": {
-		"BeforePageDisplay": {
+		"OutputPageBeforeHTML": {
 			"handler": "WikimediaMessagesHooks"
 		},
 		"MessageCacheFetchOverrides": {

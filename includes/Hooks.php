@@ -24,7 +24,7 @@ use MediaWiki\Linker\Linker;
 use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\MainConfigNames;
 use MediaWiki\Message\Message;
-use MediaWiki\Output\Hook\BeforePageDisplayHook;
+use MediaWiki\Output\Hook\OutputPageBeforeHTMLHook;
 use MediaWiki\Output\OutputPage;
 use MediaWiki\Permissions\PermissionManager;
 use MediaWiki\Registration\ExtensionRegistry;
@@ -52,9 +52,9 @@ use Wikimedia\Message\MessageSpecifier;
  * @ingroup Extensions
  */
 class Hooks implements
-	BeforePageDisplayHook,
 	EditPageCopyrightWarningHook,
 	MessageCacheFetchOverridesHook,
+	OutputPageBeforeHTMLHook,
 	ResourceLoaderRegisterModulesHook,
 	SidebarBeforeOutputHook,
 	SkinAddFooterLinksHook,
@@ -1821,15 +1821,15 @@ class Hooks implements
 	}
 
 	/**
-	 * Allows last minute changes to the output page, e.g. adding of CSS or JavaScript by extensions.
+	 * Called every time wikitext is added to the OutputPage, after it is parsed but before it is added.
 	 *
 	 * @param OutputPage $out The Output page object
-	 * @param Skin $skin Skin object that will be used to generate the page
+	 * @param string &$text Text that will be displayed, in HTML
 	 */
-	public function onBeforePageDisplay( $out, $skin ): void {
+	public function onOutputPageBeforeHTML( $out, &$text ): void {
 		$skins = $out->getConfig()->get( 'WikimediaStylesSkins' );
 
-		if ( in_array( $skin->getSkinName(), $skins ) ) {
+		if ( in_array( $out->getSkin()->getSkinName(), $skins ) ) {
 			$out->addModuleStyles( [ 'ext.wikimediamessages.styles' ] );
 		}
 	}
