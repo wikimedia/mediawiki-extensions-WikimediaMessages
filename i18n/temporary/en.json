@@ -9,8 +9,5 @@
 	"please-translate": "Please help translate to your language",
 	"please-translate-short": "Help translate",
 	"thank-you": "{{GENDER:$1|Thank you.}}",
-	"specialinvestigate-feedback": "Leave Feedback",
-	"graph-disabled": "",
-	"graph-disabled-category": "Pages with disabled graphs",
-	"graph-disabled-category-desc": "The page includes a <code>&lt;graph&gt;</code> tag, which is temporarily not available ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Leave Feedback"
 }

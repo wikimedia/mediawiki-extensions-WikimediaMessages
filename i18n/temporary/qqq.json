@@ -16,8 +16,5 @@
 	"please-translate": "Standalone sentence used as header or beginning of crosswiki custom invitations to translate.",
 	"please-translate-short": "Short phrase used as header of invitations to translate.",
 	"thank-you": "Standalone word which could be used as farewell or end of crosswiki messages.\n{{Identical|Thank you}}",
-	"specialinvestigate-feedback": "Label for the feedback link in the subtitle of [[Special:Investigate]]",
-	"graph-disabled": "{{Notranslate}}\n\nThis message will be shown when the temporarily disabled <code><nowiki><graph></nowiki></code> tag is used in wikitext. It should be empty by default, ready to be overridden via the MediaWiki namespace on individual wikis.",
-	"graph-disabled-category": "{{tracking category name}}\nName of a temporary tracking category (compare {{msg-mw|graph-disabled}}).",
-	"graph-disabled-category-desc": "Description on [[Special:TrackingCategories]] for the {{msg-mw|graph-disabled-category}} tracking category."
+	"specialinvestigate-feedback": "Label for the feedback link in the subtitle of [[Special:Investigate]]"
 }
