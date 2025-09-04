@@ -15,5 +15,7 @@
 	"wikimedia-graph-tracking-category-desc": "Description on [[Special:TrackingCategories]] for the {{msg-mw|wikimedia-graph-tracking-category}} tracking category.",
 	"wikimedia-graph-broken-category": "{{tracking category name}}\nName of the tracking category for pages with broken graphs. This is all pages with graphs on them, as the technology that is being phased out.",
 	"wikimedia-graph-broken-category-desc": "Description on [[Special:TrackingCategories]] for the {{msg-mw|wikimedia-graph-broken-category}} tracking category.",
-	"wikimedia-graph-disabled": "{{Optional}}\nThis is a message that's shown on pages that have graphs on them, indicate that the graphs technology is disabled and being phased out."
+	"wikimedia-graph-disabled": "{{Optional}}\nThis is a message that's shown on pages that have graphs on them, indicate that the graphs technology is disabled and being phased out.",
+	"wikimedia-graph-disabled-category": "{{tracking category name}}\nName of the tracking category for pages with disabled graphs. This is all pages with graphs on them, as the technology is no longer available.",
+	"wikimedia-graph-disabled-category-desc": "Description on [[Special:TrackingCategories]] for the {{msg-mw|wikimedia-graph-disabled-category}} tracking category."
 }
