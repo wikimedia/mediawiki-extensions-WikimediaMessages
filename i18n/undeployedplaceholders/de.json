@@ -14,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "Seiten mit Diagrammen",
 	"wikimedia-graph-tracking-category-desc": "Die Seite enthält eine <code>&lt;graph&gt;</code>-Markierung.",
 	"wikimedia-graph-broken-category": "Seiten mit defekten Diagrammen",
-	"wikimedia-graph-broken-category-desc": "Die Seite enthält eine <code>&lt;graph&gt;</code>-Markierung mit einer ungültigen Verwendung."
+	"wikimedia-graph-broken-category-desc": "Die Seite enthält eine <code>&lt;graph&gt;</code>-Markierung mit einer ungültigen Verwendung.",
+	"wikimedia-graph-disabled-category": "Seiten mit deaktivierten Grafiken",
+	"wikimedia-graph-disabled-category-desc": "Die Seite enthält ein <code>&lt;graph&gt;</code>-Tag, das vorübergehend nicht verfügbar ist ([[phab:T334940|T334940]])."
 }

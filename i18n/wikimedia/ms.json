@@ -201,6 +201,7 @@
 	"right-viewdeletedfile": "Melihat fail-fail dan laman-laman dalam ruang-ruang nama {{ns:file}} dan {{ns:file_talk}} yang telah dihapuskan",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Kenyataan kuki",
+	"group-oathauth-tester": "Penguji pengesahihan dwifaktor",
 	"protect-level-editautopatrolprotected": "Hanya benarkan ahli auto ronda",
 	"restriction-level-editautopatrolprotected": "ahli auto ronda terlindung",
 	"group-docseditor": "Penyunting pendokumenan",
