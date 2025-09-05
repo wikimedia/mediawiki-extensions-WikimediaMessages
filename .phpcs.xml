@@ -3,7 +3,7 @@
 	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki" />
 	<rule ref="MediaWiki.NamingConventions.ValidGlobalName">
 		<properties>
-			<property name="ignoreList" type="array" value="$wmgRealm" />
+			<property name="ignoreList[]" value="$wmgRealm" />
 		</properties>
 	</rule>
 	<file>.</file>
