@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Xuacu"
+			"Xuacu",
+			"YoaR"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Los visitantes d'esta wiki qu'usaben la to direición IP crearon {{PLURAL:$1|1 cuenta|$1 cuentes}} l'últimu día, que ye'l máximu permitíu nesti periodu de tiempu.\nComo resultáu, los visitantes qu'usen esta direición IP nun pueden crear nenguna cuenta más de momentu.\n\nSi tas faciendo una actividá que tien l'envís de contribuir colos proyeutos de Wikimedia, consulta [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Pidir el llevantamientu temporal de la llende IP]] p'ayudate a iguar esti problema.",
