@@ -13,5 +13,6 @@
 	"wikimedia-flow-terms-of-use-edit": "Ved å lagra endringar samtykkjer du til [https://foundation.wikimedia.org/wiki/Terms_of_Use bruksvilkåra] våre og gjev endeleg samtykke til at teksten din vert utgjeve under lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] og [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-sitematrix": "Liste over wikiar frå Wikimedia",
 	"wikimedia-sitematrix-others": "Andre prosjekt frå Wikimedia",
-	"wikimedia-sitematrix-summary": "Denne spesialsida listar opp alle Wikimedia sine wikiar."
+	"wikimedia-sitematrix-summary": "Denne spesialsida listar opp alle Wikimedia sine wikiar.",
+	"wikimedia-ipinfo-infobox-use-terms": "IP-informasjonsverktøyet nyttar MaxMind-databasane for å syna detaljar som omtrentleg posisjon, proksy og kor mange einingar som deler IP-adressa. Gå gjennom [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines retningslinene for IP-informasjonsverktøyet] før du slår det på."
 }

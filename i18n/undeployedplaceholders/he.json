@@ -14,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "דפים עם תרשימים",
 	"wikimedia-graph-tracking-category-desc": "הדף הזה מכיל תג <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "דפים עם תרשימים מקולקלים",
-	"wikimedia-graph-broken-category-desc": "הדף הזה מכיל תג <code>&lt;graph&gt;</code> עם שימוש בלתי־תקין."
+	"wikimedia-graph-broken-category-desc": "הדף הזה מכיל תג <code>&lt;graph&gt;</code> עם שימוש בלתי־תקין.",
+	"wikimedia-graph-disabled-category": "דפים עם תרשימים כבויים",
+	"wikimedia-graph-disabled-category-desc": "הדף מכיל תג <code>&lt;graph&gt;</code>, שאינו פעיל זמנית (ר' [[phab:T334940|T334940]])."
 }

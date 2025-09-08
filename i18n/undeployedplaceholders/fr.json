@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Escargot bleu",
 			"Gomoko",
 			"JLTRY",
 			"Verdy p"
@@ -16,5 +17,7 @@
 	"wikimedia-graph-tracking-category": "Pages avec des graphiques",
 	"wikimedia-graph-tracking-category-desc": "La page contient une balise <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Pages avec des graphiques contenant des erreurs",
-	"wikimedia-graph-broken-category-desc": "La page contient une balise <code>&lt;graph&gt;</code> avec une utilisation non valide."
+	"wikimedia-graph-broken-category-desc": "La page contient une balise <code>&lt;graph&gt;</code> avec une utilisation non valide.",
+	"wikimedia-graph-disabled-category": "Pages avec des graphiques désactivés",
+	"wikimedia-graph-disabled-category-desc": "La page comprend une balise <code>&lt;graph&gt;</code>, qui est temporairement indisponible ([[phab:T334940|T334940]])."
 }

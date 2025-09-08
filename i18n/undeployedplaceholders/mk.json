@@ -14,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "Страници со графикони",
 	"wikimedia-graph-tracking-category-desc": "Страницава содржи ознака <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Страници со расипани графикони",
-	"wikimedia-graph-broken-category-desc": "Страницава содржи ознака <code>&lt;graph&gt;</code> која се употребува неправилно."
+	"wikimedia-graph-broken-category-desc": "Страницава содржи ознака <code>&lt;graph&gt;</code> која се употребува неправилно.",
+	"wikimedia-graph-disabled-category": "Страници со оневозможени графикони",
+	"wikimedia-graph-disabled-category-desc": "Страницата содржи ознака <code>&lt;graph&gt;</code>, која е привремено недостапна ([[phab:T334940|T334940]])."
 }

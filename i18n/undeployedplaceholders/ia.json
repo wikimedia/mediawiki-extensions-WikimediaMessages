@@ -14,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "Paginas con graphicos",
 	"wikimedia-graph-tracking-category-desc": "Le pagina include un etiquetta <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Paginas con graphicos rupte",
-	"wikimedia-graph-broken-category-desc": "Le pagina include un etiquetta <code>&lt;graph&gt;</code> con uso non valide."
+	"wikimedia-graph-broken-category-desc": "Le pagina include un etiquetta <code>&lt;graph&gt;</code> con uso non valide.",
+	"wikimedia-graph-disabled-category": "Paginas con graphicos disactivate",
+	"wikimedia-graph-disabled-category-desc": "Le pagina include un etiquetta <code>&lt;graph&gt;</code>, le qual es temporarimente indisponibile ([[phab:T334940|T334940]])."
 }

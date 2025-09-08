@@ -14,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "Графикаш йолу агӀонаш",
 	"wikimedia-graph-tracking-category-desc": "АгӀонан чохь йу <code>&lt;graph&gt;</code> тег.",
 	"wikimedia-graph-broken-category": "Йоьхна графикаш йолу агӀонаш",
-	"wikimedia-graph-broken-category-desc": "ХӀокху агӀонгахь нийса лелош йац <code>&lt;graph&gt;</code> тег."
+	"wikimedia-graph-broken-category-desc": "ХӀокху агӀонгахь нийса лелош йац <code>&lt;graph&gt;</code> тег.",
+	"wikimedia-graph-disabled-category": "АгӀонаш дӀайаьхна графикаш йолуш",
+	"wikimedia-graph-disabled-category-desc": "АгӀонна чохь йу <code>&lt;graph&gt;</code> тег, иза ханна болх беш йац ([[phab:T334940|T334940]])."
 }

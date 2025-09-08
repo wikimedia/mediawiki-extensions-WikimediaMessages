@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"wikimedia-log-action-filter-usermerge": "Typ vun Aktioun:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Benotzerkonten zesummeleeën",
-	"wikimedia-log-action-filter-usermerge-deleteuser": "Läsche vu Benotzerkonten"
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Läsche vu Benotzerkonten",
+	"wikimedia-graph-disabled-category": "Säite mat desaktivéierte Graphiken"
 }
