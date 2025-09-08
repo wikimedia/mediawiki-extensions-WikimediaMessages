@@ -1,8 +1,5 @@
 <?php
 
-// phpcs:disable MediaWiki.NamingConventions.LowerCamelFunctionsName.FunctionName
-// Need to be able to define ::onUploadForm_initial
-
 namespace MediaWiki\Extension\WikimediaMessages;
 
 use HtmlArmor;
@@ -48,7 +45,6 @@ use Wikimedia\Message\MessageSpecifier;
 /**
  * Hooks for WikimediaMessages extension
  *
- * @file
  * @ingroup Extensions
  */
 class Hooks implements
