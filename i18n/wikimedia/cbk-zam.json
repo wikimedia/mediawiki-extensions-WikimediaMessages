@@ -133,7 +133,7 @@
 	"group-trusted": "Maga confiao user",
 	"group-trusted-member": "{{GENDER:$1|confiao user}}",
 	"grouppage-trusted": "{{ns:project}}:Maga confiao user",
-	"group-uploader": "Mafa uploader",
+	"group-uploader": "Maga uploader",
 	"group-uploader-member": "{{GENDER:$1|uploader}}",
 	"grouppage-uploader": "{{ns:project}}:Maga uploader",
 	"group-wikidata-staff": "Maga staff de wikidata",
@@ -219,5 +219,8 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikiversity": "Wikiversidad",
 	"wikibase-sitelinks-wikivoyage": "Wikiviaje",
-	"wikibase-sitelinks-wiktionary": "Wikcionario"
+	"wikibase-sitelinks-wiktionary": "Wikcionario",
+	"wikimedia-developers": "Maga developer",
+	"wikimedia-statslink": "Maga estadistica",
+	"wikimedia-cookiestatement": "Statement de cookies"
 }
