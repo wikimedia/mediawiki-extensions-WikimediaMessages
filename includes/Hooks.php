@@ -70,44 +70,17 @@ class Hooks implements
 		MainConfigNames::RightsUrl,
 	];
 
-	private ExtensionRegistry $extensionRegistry;
-	private LinkRenderer $linkRenderer;
-	private PermissionManager $permissionManager;
-	private ServiceOptions $options;
-	private UserOptionsLookup $userOptionsLookup;
-	private UrlUtils $urlUtils;
-	private ?MobileContext $mobileContext;
-	private ?ExperimentManager $experimentManager;
-
-	/**
-	 * @param ExtensionRegistry $extensionRegistry
-	 * @param LinkRenderer $linkRenderer
-	 * @param PermissionManager $permissionManager
-	 * @param ServiceOptions $options
-	 * @param UserOptionsLookup $userOptionsLookup
-	 * @param UrlUtils $urlUtils
-	 * @param ?MobileContext $mobileContext
-	 * @param ?ExperimentManager $experimentManager
-	 */
 	public function __construct(
-		ExtensionRegistry $extensionRegistry,
-		LinkRenderer $linkRenderer,
-		PermissionManager $permissionManager,
-		ServiceOptions $options,
-		UserOptionsLookup $userOptionsLookup,
-		UrlUtils $urlUtils,
-		?MobileContext $mobileContext = null,
-		?ExperimentManager $experimentManager = null
+		private readonly ExtensionRegistry $extensionRegistry,
+		private readonly LinkRenderer $linkRenderer,
+		private readonly PermissionManager $permissionManager,
+		private readonly ServiceOptions $options,
+		private readonly UserOptionsLookup $userOptionsLookup,
+		private readonly UrlUtils $urlUtils,
+		private readonly ?MobileContext $mobileContext = null,
+		private readonly ?ExperimentManager $experimentManager = null,
 	) {
 		$options->assertRequiredOptions( self::CONSTRUCTOR_OPTIONS );
-		$this->extensionRegistry = $extensionRegistry;
-		$this->linkRenderer = $linkRenderer;
-		$this->permissionManager = $permissionManager;
-		$this->options = $options;
-		$this->userOptionsLookup = $userOptionsLookup;
-		$this->urlUtils = $urlUtils;
-		$this->mobileContext = $mobileContext;
-		$this->experimentManager = $experimentManager;
 	}
 
 	/**
