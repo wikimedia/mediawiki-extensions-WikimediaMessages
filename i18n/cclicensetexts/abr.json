@@ -6,6 +6,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "Nea ɛnam so",
+	"wm-license-cc-by-sa-3.0-text": "Bɛ ama saa fael yi tumi krataa wɔ [[{{int:wm-license-cc-wiki-link}}Creative Commons]] [[creative commons:by-sa/3.0/deed.enAttribution-Share Alike 3.0 Unported]] tumi krataa ase.",
 	"wm-license-cc-free": "Bɛ de bɛho",
 	"wm-license-cc-free-to-share-header": "sɛ bɛ bɛkyɛ",
 	"wm-license-cc-free-to-share-text": "sɛɛ bɛ bɛkyerɛw adwuma he, akyekyɛ na bɛde akɔma afoforoɔ",
@@ -14,5 +15,6 @@
 	"wm-license-cc-conditions": "Under the following conditions:\n\nBɛ tebea ahodoɔ a edidi soɔ yi mu he:",
 	"wm-license-cc-conditions-attribution-header": "Nkyerɛkyerɛmu a yɛgyina suahunu so de ma biribi",
 	"wm-license-cc-conditions-attribution-text": "Ɛsɛ sɛ bɛde anuonyam a bɛfata ma, bɛde tumi krataa he ho link ma, na bɛkyerɛ sɛ bɛayɛ nsakrae anaa. Bɛ betumi ayɛ saa wɔ ɔkwan biara a ntease wom so, nanso ɛnyɛ ɔkwan biara so a ɛkyerɛ sɛ nea bɛde tumi krataa he ma no foa wo anaa nea bɛde di dwuma he so.",
-	"wm-license-cc-conditions-share_alike-header": "bɛ kyɛfa nyinaa"
+	"wm-license-cc-conditions-share_alike-header": "bɛ kyɛfa nyinaa",
+	"wm-license-cc-conditions-share_alike-text": "Sɛ wosane frafra, sesa, anaa wode si nneɛma he so a, ɛsɛ sɛ wokyekyɛ wo ntoboa he wɔ [[ccorg:share-your-work/licensing-considerations/compatible-licenses|same or compatible license]] sɛ mfitiaseɛ deɛ he ase."
 }

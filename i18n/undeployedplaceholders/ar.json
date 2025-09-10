@@ -5,15 +5,15 @@
 			"محمد أحمد عبد الفتاح"
 		]
 	},
-	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2| دمج}} حساب المستخدم \" $4 \" ( $5 ) في {{GENDER:$8| $6 }} ( $7 )",
-	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2| حذف}} حساب المستخدم \" $4 \" ( $5 )",
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|دمج}} حساب المستخدم \"$4\" ($5) في {{GENDER:$8| $6 }} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|حذف}} حساب المستخدم \"$4\" ($5)",
 	"wikimedia-log-action-filter-usermerge": "نوع الإجراء:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "دمج حساب المستخدم",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "حذف حساب المستخدم",
 	"wikimedia-usermerge-logpage": "سجل دمج المستخدمين",
 	"wikimedia-usermerge-logpagetext": "هذا هو سجل إجراءات دمج المستخدم.",
 	"wikimedia-graph-tracking-category": "الصفحات التي تحتوي على الرسوم البيانية",
-	"wikimedia-graph-tracking-category-desc": "تتضمن الصفحة علامة <code><graph></code> .",
+	"wikimedia-graph-tracking-category-desc": "تتضمن الصفحة علامة <code><graph></code>.",
 	"wikimedia-graph-broken-category": "الصفحات ذات الرسوم البيانية المكسورة",
 	"wikimedia-graph-broken-category-desc": "تتضمن الصفحة علامة <code>&lt;graph&gt;</code> ذات استخدام غير صالح."
 }

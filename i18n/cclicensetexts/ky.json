@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Bosogo",
-			"Janatkg"
+			"Janatkg",
+			"Incall"
 		]
 	},
 	"wm-license-cc-attribution": "Атрибуция",
@@ -14,5 +15,6 @@
 	"wm-license-cc-conditions": "Төмөнкү шарттарда:",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
 	"wm-license-cc-conditions-attribution-text": "Сиз тийиштүү насыя берип, лицензияга шилтеме калтырып жана өзгөртүүлөр болсо көрсөтүшүңүз керек. Сиз муну кандайдыр бир акылга сыярлык жол менен жасай аласыз, бирок лицензиар сизди же сиздин колдонууңузду жактырган кандайдыр бир жол менен эмес.",
-	"wm-license-cc-conditions-share_alike-header": "Бирдей шарттар боюнча бөлүшүү"
+	"wm-license-cc-conditions-share_alike-header": "Бирдей шарттар боюнча бөлүшүү",
+	"wm-license-cc-conditions-share_alike-text": "Эгер сиз материалды кайра иштеп, өзгөртүп же негизинде жаңы чыгарма түзсөңүз, сиздин салымыңызды түп нускасы сыяктуу эле же ага ылайыктуу [[ccorg:share-your-work/licensing-considerations/compatible-licenses|лицензия]] менен таратышыңыз керек."
 }
