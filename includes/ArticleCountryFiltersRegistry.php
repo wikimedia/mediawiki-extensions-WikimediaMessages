@@ -672,7 +672,10 @@ class ArticleCountryFiltersRegistry {
 		$services = MediaWikiServices::getInstance();
 		$collator = Collator::create( $languageCode ) ?: Collator::create( 'root' );
 
-		if ( !$services->getExtensionRegistry()->isLoaded( 'CLDR' ) ) {
+		if ( !(
+			$services->getExtensionRegistry()->isLoaded( 'cldr' )
+			|| $services->getExtensionRegistry()->isLoaded( 'CLDR' )
+		) ) {
 			// todo: warning: CLDR extension not loaded
 			return [];
 		}
