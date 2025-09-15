@@ -5,6 +5,7 @@ declare( strict_types = 1 );
 namespace MediaWiki\Extension\WikimediaMessages\Tests\Integration;
 
 use MediaWiki\Extension\WikimediaMessages\ArticleCountryFiltersRegistry;
+use MediaWiki\Registration\ExtensionRegistry;
 use MediaWikiIntegrationTestCase;
 
 /**
@@ -16,6 +17,14 @@ class ArticleCountryFiltersRegistryTest extends MediaWikiIntegrationTestCase {
 	 * @covers MediaWiki\Extension\WikimediaMessages\ArticleCountryFiltersRegistry::getLocalizedRegionsAndCountries
 	 */
 	public function testGetLocalizedRegionsAndCountries(): void {
+		if (
+			!ExtensionRegistry::getInstance()->isLoaded( 'cldr' )
+			&&
+			!ExtensionRegistry::getInstance()->isLoaded( 'CLDR' )
+		) {
+			self::markTestSkipped( 'cldr extension is required for this test' );
+		}
+
 		$result = ArticleCountryFiltersRegistry::getLocalizedRegionsAndCountries( 'fr' );
 
 		$this->assertNotEmpty( $result );
