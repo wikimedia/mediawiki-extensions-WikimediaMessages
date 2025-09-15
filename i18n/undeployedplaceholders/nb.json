@@ -14,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "Sider med grafer",
 	"wikimedia-graph-tracking-category-desc": "Siden inneholder en <code>&lt;graph&gt;</code>-tagg.",
 	"wikimedia-graph-broken-category": "Sider med ødelagte grafer",
-	"wikimedia-graph-broken-category-desc": "Siden inkluderer en <code>&lt;graph&gt;</code>-tagg med ugyldig bruk."
+	"wikimedia-graph-broken-category-desc": "Siden inkluderer en <code>&lt;graph&gt;</code>-tagg med ugyldig bruk.",
+	"wikimedia-graph-disabled-category": "Sider med deaktiverte grafer",
+	"wikimedia-graph-disabled-category-desc": "Denne siden inneholder en <code>&lt;graph&gt;</code>-tagg, som midlertidig er utilgjengelig ([[phab:T334940|T334940]])."
 }

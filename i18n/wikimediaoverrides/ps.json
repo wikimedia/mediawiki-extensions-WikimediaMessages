@@ -12,10 +12,14 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(په ټاکلو کې يې مرسته غواړم)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "تاسو کولی شئ خپل د غوره‌توبونو مخ د \n[[m:Special:CentralAuth/$1|ويکيمېډيا نورې پروژې چې تاسو پکې ونډه اخيستې ده]] کې وگورئ؛ ترڅو له دې پروژو څخه د خپل گڼون اومتوکي راکښته کړئ.",
 	"wikimedia-createacct-imgcaptcha-help": "انځور د کتلو وړ نه دی [[{{MediaWiki:createacct-captcha-help-url}}|د يو گڼون غوښتنه کول]]",
-	"wikimedia-centralauth-groupname": "ويکيمېډيا بنسټ",
+	"wikimedia-centralauth-groupname": "ويکي‌رسنۍ بنسټ",
+	"createacct-helpusername-url": "{{ns:Project}}:کارن‌نوم تگلار",
 	"wikimedia-checkuser-tempaccount-enable-preference-description": "د دې اوڼنې له چارنولو دمخه تاسو بايد \"[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses لنډمهاله گڼون وېبپتو ته د لاسرسي تگلاره]\" ولولئ او همغږي ورسره وښاياست. په ځانگړي توگه:<ul><li>تاسو بايد په تگلاره کې ښودل شوي وړتياوو ارونه پوره کړئ</li><li>تاسو بايد له دې لاسرسي څخه د لنډمهاله گڼون وېبپتې مالومات رسوا نه کړئ، پرته له دې چې دا <b>د ورانکارۍ، ناوړه ‌گټه اخيستنې، سپيم، ځورونې، گډوډوونکي چلند، او د ويکي‌رسنۍ بنسټ يا ټولنې د تگلارې د پلټنې يا پايلو پلي‌کولو لپاره په معقول ډول اړين وي</b>. که چېرته تاسو دا مالومات له نورو سره شريک هم کړئ، تاسو بايد پوه شئ چې دا څنگه او چېرته شريک کړئ او وروسته له هغې چې نورو ته د دې د ليدلو اړتيا نه وي، دا بايد بېرته لرې کړئ.</li></ul> که تاسو تگلاره لوستلې وي او وروسره همغږي ياست؛ تاسو کولی شئ چې د چېک‌بکس په نښه کولو سره دا غوره‌توب چارن کړئ. نور کارنان چې د لنډمهاله گڼون وېبټې کتلو لاسرسي ولري، کولی شي د دې غوره‌توب دريځ وگوري.",
 	"wikimedia-sitematrix": "د ويکي‌‌رسنۍ د ويکي‌گانو لړليک",
 	"wikimedia-sitematrix-others": "د ويکي‌رسنۍ نورې پروژې",
-	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکيمېډيا د ټولو ويکي گانو لړليک ښکاره کوي.",
-	"wikimedia-ipinfo-preference-use-agreement": "زه همغږی يم چې دا توکی د  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines د وېبپتې مالومات توکي لارښوونو] سره سم، يوازې د ويکي‌رسنۍ بنسټ يا ټولنې د تگلارو د ورانکارۍ، ناوړه‌گټه اخيستنې يا نورو سرغړونو د مخنيوي لپاره وکاروم."
+	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکي‌رسنۍ د ټولو ويکي گانو لړليک ښکاره کوي.",
+	"wikimedia-ipinfo-preference-use-agreement": "زه همغږی يم چې دا توکی د  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines د وېبپتې مالومات توکي لارښوونو] سره سم، يوازې د ويکي‌رسنۍ بنسټ يا ټولنې د تگلارو د ورانکارۍ، ناوړه‌گټه اخيستنې يا نورو سرغړونو د مخنيوي لپاره وکاروم.",
+	"wikimedia-skin-minerva-donate-banner-message": "همدا اوس بسپنه ورکول",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "که ويکيپېډيا ستاسو لپاره گټوره وي، مهرباني وکړئ نن ورځ ورکړئ.",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "که دا وېبځی ستاسو لپاره گټوره وي، مهرباني وکړئ نن ورځ ورکړئ."
 }

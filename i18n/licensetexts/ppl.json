@@ -1,10 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
+			"AliciaMarroquín",
 			"Canjura",
-			"Eliheri"
+			"Eliheri",
+			"Jose Antonio Guillen Landaverde",
+			"Taty Flores de Constante"
 		]
 	},
+	"wm-license-information-description": "itachiska",
+	"wm-license-information-source": "Pewa",
 	"wm-license-information-date": "Tanestuk",
-	"wm-license-information-author": "Tawawasuani"
+	"wm-license-information-author": "Tawawasuani",
+	"wm-license-self-multiple-licenses-select": "Taja tiweli tikwi ne taajkawalis ka taja tikneki."
 }

@@ -1,10 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jose Antonio Guillen Landaverde",
 			"TimumachtikanNawat"
 		]
 	},
 	"sitesupport": "Shiktakuli",
+	"wikibase-sitelinks-wikinews": "wikitaawatilis",
+	"wikibase-sitelinks-wikiquote": "wikitaawatilis",
+	"wikibase-sitelinks-wikisource": "Wikipewalis",
 	"wikimedia-developers": "Tajtachiwanimet",
 	"wikimedia-statslink": "Tamachiwalis",
 	"wikimedia-cookiestatement": "Taneshtilis ipajpalyu"
