@@ -42,6 +42,7 @@
 	"group-bigexport-member": "{{GENDER:$1|ದೊಡ್ಡ ನಿರ್ಯಾತಗಾರೆರ್}}",
 	"group-extendedconfirmed": "ವಿಸ್ತಾರವಾದ್ ಖಚಿತಪಡಿಸಾಯಿನ ಬಳಕೆದಾರೆರ್",
 	"group-extendedconfirmed-member": "{{GENDER:$1|ವಿಸ್ತಾರವಾದ್ ಖಚಿತಪಡಿಸಾಯಿನ ಬಳಕೆದಾರೆ}}",
+	"grouppage-extendedconfirmed": "{{ns:project}}:ವಿಸ್ತಾರವಾದ್ ಖಚಿತಪಡಿಸಾಯಿನ ಸಂಪಾದಕೆರ್",
 	"wikimedia-copyright": "ಪಟ್ಯೊ <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\">ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್‌ ಆಟ್ರಿಬ್ಯೂಶನ್ ಲೈಸೆನ್ಸ್‌ದ</a> ಅಡಿಟ್ ಲಭ್ಯ ಉಂಡು; ಬೇತೆ ಷರ್ತೊಲು ಉಪ್ಪು.  ವಿವರೊಲೆಗ್ <a href=\"https://foundation.wikimedia.org/wiki/Terms_of_Use\">ಗಲಸುನ ನಿಬಂಧನೆಲೆನ್</a> ತೂಲೆ.",
 	"wikimedia-copyrightwarning": "ಬದಲಾವಣೆಲೆನ್ ಒರಿಪಾವುನ ಮೂಲಕೊ, ಈರ್ [https://foundation.wikimedia.org/wiki/Terms_of_Use ಗಲಸುನ ನಿಬಂದನೆಲೆನ್] ಒತ್ತೊನುವರ್, ಬುಕ್ಕೊ ಇರೆನ ಕಾನಿಕೆಲೆನ್ [https://en.wikipedia.org wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License CC BY-SA 3.0 License] ಬೊಕ್ಕ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ಅಡಿಟ್ ಬುಡುಗಡೆ ಮಲ್ಪೆರೆ ಈರ್ ಬದಲ್ ಮಲ್ಪೆರಾವಂದಿಲೆಕ ಒತ್ತೊನುವರ್. ಅಂಚೆನೆ ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಲೈಸೆನ್ಸ್‌ದಡಿಟ್ ಒಂಜಿ ಹೈಪರ್ಲಿಂಕ್ ಅತ್ತಂಡ ಯುಆರ್‌ಎಲ್ ತಕ್ಕಂತಿನ ಶ್ರೇಯೊ (ಕ್ರೆಡಿಟ್) ಪಂದ್ ಒತ್ತೊನುವರ್.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|ಸ್ವಾಗತ}}, $1!",
@@ -57,6 +58,7 @@
 	"wikimedia-globalblocking-ipblocked-xff": "\"ಇರೆನ ಅರಿಕೆದ ಮಿತ್ತ್ ಗಲಸೊಂದುಪ್ಪುನ ಒಂಜಿ ಅತ್ತಂಡ ಜಾಸ್ತಿ ಪ್ರಾಕ್ಸಿ ಸರ್ವರ್‌ಲು [[m:Special:MyLanguage/Global blocks|ಜಗತ್ತ್‌ದ ಮಾತಾ ವಿಕಿಲೆಡ್ ತಡೆ ಆತ್ಂಡ್]].\"\n\nಈ ತಡೆನ್ ಮಲ್ತಿನಾರ್ $1($2)\nಇಂದೆಕ್ ಕೊರಿನ ಕಾರಣೊ ''$3''.\n\n* ತಡೆ ಸುರುವಾಯಿನಿ: $4\n* ತಡೆ ಕೈದಾಪಿನಿ: $5\n\nತಡೆ ಆತಿನ ಪ್ರಾಕ್ಸಿ ವಿಲಾಸೊ $6.\nಒವ್ವೇ ಪ್ರಶ್ನೆ ಇತ್ತ್ಂಡ ಮಿತ್ತ್ ಉಪ್ಪುನ ಮಾಂತಾ ಮಾಹಿತಿನ್ಲಾ ದಯದೀದ್ ಈರೆನ ಪ್ರಶ್ನೆದೊಟ್ಟುಗು ಸೇರಾಲೆ.\n\nಈರೆಗ್ ಈ ತಡೆ ತತ್ತ್‌ದ್ ಆತಿನಿ ಪಂದ್ ನಂಬಿಕೆ ಇತ್ತ್ಂಡ, ಈರ್ ಜಾಸ್ತಿದ ಮಾಹಿತಿಗ್ ಅತ್ತಂಡ ಸೂಚನೆಗ್ ಜಾತಿಕ ನಿಯಮೊನು [[m:Special:MyLanguage/No open proxies|No open proxies]] ಟ್ ನಾಡೊಲಿ\nಇಜ್ಜಿಂಡ, ತಡೆ ಮಲ್ತಿನ ಬಗೆಟ್ ಚರ್ಚೆ ಮಲ್ಪೆರೆ[[m:Steward requests/Global|ಮೆಟಾ-ವಿಕಿಟ್ ಈ ತಡೆನ್ ಪರಿಶೀಲನೆ ಮಲ್ಪೆರೆ ಕೇನ್ಲೆ]].",
 	"interlanguage-link-mul": "ನಾನಾತ್ ಬಾಸೆಲು",
 	"interlanguage-link-wikipedia": "ವಿಕಿಪೀಡಿಯ",
+	"right-extendedconfirmed": "ನಿರ್ಬಂದೊದ ಪುಟೊಕುಲೆನ್ ಸಂಪೊಲಿಪುಲೆ",
 	"eri-rcfilters-tour-highlight-button": "ಸರಿ, ತಿಕ್ಕ್ಂಡ್",
 	"wikimedia-statslink": "ಅಂಕಿಅಂಸೊಲು",
 	"wikimedia-cookiestatement": "ಕುಕಿ ಹೇಳಿಕೆ"

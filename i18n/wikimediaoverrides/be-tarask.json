@@ -8,6 +8,7 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Наведнікі гэтай вікі з вашага IP-адрасу стварылі $1 {{PLURAL:$1|рахунак|рахункі|рахункаў}} за апошні дзень, што зьяўляецца максымумам для гэтага пэрыяду.\nУ выніку наведнікі з гэтага IP-адрасу ня могуць больш ствараць рахункі ў цяперашні момант.\n\nКалі вы знаходзіцеся на сустрэчы, дзе абмяркоўваецца ўнёсак у Вікімэдыю, калі ласка, глядзіце [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|як запытаць палягчэньне IP-абмежаваньня]] для разьвязаньня гэтай праблемы.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(дапамажыце выбраць)]]",
+	"wikimedia-prefs-user-downloaddata-help-message": "Каб спампаваць зьвесткі пра свой уліковы запіс зь іншых праектаў Вікімэдыі, у якіх вы бралі ўдзел, можаце зайсьці на старонку ўласных наладаў у [[m:Special:CentralAuth/$1|тых праектах]].",
 	"wikimedia-createacct-imgcaptcha-help": "Ня бачыце выяву? [[{{MediaWiki:createacct-captcha-help-url}}|Запытайце рахунак]]",
 	"wikimedia-centralauth-groupname": "Фундацыі «Вікімэдыя»",
 	"wikimedia-centralauth-login-error-locked": "<strong>Гэты ўліковы запіс [[m:Special:MyLanguage/Global locks|заблякаваны глябальна]].</strong> {{GENDER:$1|You}} ня зможаце ўвайсьці ні ў якую вікі Вікімэдыі. Калі маеце якія пытаньні, калі ласка, [[m:Special:Contact/stewards|зьвяжыцеся з ст’юардамі]].",

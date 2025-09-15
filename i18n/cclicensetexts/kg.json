@@ -4,5 +4,11 @@
 			"BOKOBA VEROLY"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "mukumba na yandi"
+	"wm-license-cc-free": "Nge kele na kimpwanza:",
+	"wm-license-cc-free-to-share-header": "kukabula",
+	"wm-license-cc-free-to-remix-header": "na remix",
+	"wm-license-cc-conditions": "Na mambu yai ya ke landa:",
+	"wm-license-cc-conditions-attribution-header": "mukumba na yandi",
+	"wm-license-cc-conditions-attribution-text": "Nge fwete pesa lukumu ya me fwana, kupesa nzila na mukanda ya banswa, mpi kumonisa kana bansoba salamaka. Nge lenda sala yo na mutindu ya mbote, kansi ve na mutindu mosi yina ke monisa nde muntu yina ke pesa banswa ke ndima nge to ke sadila nge.",
+	"wm-license-cc-conditions-share_alike-header": "kukabisa mutindu mosi"
 }
