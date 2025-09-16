@@ -149,7 +149,7 @@
 	"grouppage-ipblock-exempt": "{{ns:project}}:استثناء من منع الأيبي",
 	"group-ipblock-exempt-grantor": "مانحو إعفاء IP من الاستثناءات الجماعية",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|مانح إعفاء كتلة IP }}",
-	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:مانحو إعفاء كتلة IP",
+	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:استثناء من منع الأيبي",
 	"group-noratelimit": "حسابات بلا حد معدل",
 	"group-noratelimit-member": "{{GENDER:$1|حساب بلا حد معدل}}",
 	"grouppage-noratelimit": "{{ns:project}}:حسابات بلا حد معدل",

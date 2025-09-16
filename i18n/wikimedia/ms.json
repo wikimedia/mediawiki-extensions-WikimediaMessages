@@ -80,7 +80,7 @@
 	"group-import": "Pengimport",
 	"group-import-member": "{{GENDER:$1|pengimport}}",
 	"grouppage-import": "{{ns:project}}:Pengimport",
-	"group-interface-editor": "penyunting antara muka",
+	"group-interface-editor": "Penyunting antara muka",
 	"group-interface-editor-member": "{{GENDER:$1|penyunting antara muka}}",
 	"grouppage-interface-editor": "{{ns:project}}:Penyunting antara muka",
 	"group-ipblock-exempt": "Pengecualian sekatan IP",
