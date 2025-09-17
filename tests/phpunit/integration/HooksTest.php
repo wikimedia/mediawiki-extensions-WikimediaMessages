@@ -3,62 +3,14 @@
 namespace MediaWiki\Extension\WikimediaMessages\Tests\Integration;
 
 use MediaWiki\Context\RequestContext;
-use MediaWiki\Extension\MetricsPlatform\XLab\ExperimentManager;
 use MediaWiki\Extension\WikimediaMessages\Hooks;
 use MediaWiki\User\User;
 use MediaWikiIntegrationTestCase;
-use Psr\Log\LoggerInterface;
 
 /**
  * @covers MediaWiki\Extension\WikimediaMessages\Hooks
  */
 class HooksTest extends MediaWikiIntegrationTestCase {
-	protected function setUp(): void {
-		parent::setUp();
-
-		// Override the MetricsPlatform service to return our mock
-		$services = $this->getServiceContainer();
-		if ( $services->hasService( 'MetricsPlatform.XLab.ExperimentManager' ) ) {
-			$this->setService(
-				'MetricsPlatform.XLab.ExperimentManager',
-				$this->createMockExperimentManager()
-			);
-		}
-	}
-
-	private function createMockExperimentManager() {
-		$mockLogger = $this->createMock( LoggerInterface::class );
-		$mockMetricsClient = $this->createMock( \Wikimedia\MetricsPlatform\MetricsClient::class );
-
-		// Create a mock Experiment
-		if ( class_exists( '\\MediaWiki\\Extension\\MetricsPlatform\\XLab\\Experiment' ) ) {
-			$mockExperiment = $this->getMockBuilder( \MediaWiki\Extension\MetricsPlatform\XLab\Experiment::class )
-				->setConstructorArgs( [ $mockMetricsClient, null ] )
-				->onlyMethods( [ 'getAssignedGroup' ] )
-				->getMock();
-		} else {
-			$mockExperiment = $this->getMockBuilder( \stdClass::class )
-				->addMethods( [ 'getAssignedGroup' ] )
-				->getMock();
-		}
-		$mockExperiment->method( 'getAssignedGroup' )->willReturn( null );
-
-		// Create a mock ExperimentManager
-		if ( class_exists( '\\MediaWiki\\Extension\\MetricsPlatform\\XLab\\ExperimentManager' ) ) {
-			$mockExperimentManager = $this->getMockBuilder( ExperimentManager::class )
-				->setConstructorArgs( [ $mockLogger, $mockMetricsClient ] )
-				->onlyMethods( [ 'getExperiment' ] )
-				->getMock();
-		} else {
-			$mockExperimentManager = $this->getMockBuilder( \stdClass::class )
-				->addMethods( [ 'getExperiment' ] )
-				->getMock();
-		}
-		$mockExperimentManager->method( 'getExperiment' )->willReturn( $mockExperiment );
-
-		return $mockExperimentManager;
-	}
-
 	/**
 	 * helper function to initialize Hooks object
 	 *
@@ -72,8 +24,6 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 			$services->getMainConfig(),
 			$services->getPermissionManager(),
 			$services->getUserOptionsLookup(),
-			$services->getUrlUtils(),
-			null
 		);
 	}
 

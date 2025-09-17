@@ -8,7 +8,6 @@ use MediaWiki\Config\Config;
 use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Exception\ErrorPageError;
-use MediaWiki\Extension\MetricsPlatform\XLab\ExperimentManager;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SidebarBeforeOutputHook;
@@ -34,7 +33,6 @@ use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\Specials\SpecialUpload;
 use MediaWiki\Title\Title;
 use MediaWiki\User\Options\UserOptionsLookup;
-use MediaWiki\Utils\UrlUtils;
 use MediaWiki\WikiMap\WikiMap;
 use MessageCache;
 use MessageLocalizer;
@@ -76,9 +74,7 @@ class Hooks implements
 		private readonly PermissionManager $permissionManager,
 		private readonly ServiceOptions $options,
 		private readonly UserOptionsLookup $userOptionsLookup,
-		private readonly UrlUtils $urlUtils,
 		private readonly ?MobileContext $mobileContext = null,
-		private readonly ?ExperimentManager $experimentManager = null,
 	) {
 		$options->assertRequiredOptions( self::CONSTRUCTOR_OPTIONS );
 	}
@@ -88,9 +84,7 @@ class Hooks implements
 	 * @param Config $mainConfig
 	 * @param PermissionManager $permissionManager
 	 * @param UserOptionsLookup $userOptionsLookup
-	 * @param UrlUtils $urlUtils
 	 * @param ?MobileContext $mobileContext
-	 * @param ?ExperimentManager $experimentManager
 	 * @return self
 	 */
 	public static function factory(
@@ -98,9 +92,7 @@ class Hooks implements
 		Config $mainConfig,
 		PermissionManager $permissionManager,
 		UserOptionsLookup $userOptionsLookup,
-		UrlUtils $urlUtils,
 		?MobileContext $mobileContext = null,
-		?ExperimentManager $experimentManager = null
 	): self {
 		return new self(
 			ExtensionRegistry::getInstance(),
@@ -108,9 +100,7 @@ class Hooks implements
 			$permissionManager,
 			new ServiceOptions( self::CONSTRUCTOR_OPTIONS, $mainConfig ),
 			$userOptionsLookup,
-			$urlUtils,
 			$mobileContext,
-			$experimentManager
 		);
 	}
 
@@ -1892,73 +1882,6 @@ class Hooks implements
 	}
 
 	/**
-	 * T395716 - We want to experiment with a more prominent donate link using the new experiments platform
-	 *
-	 * Given that the treatment path places the link in a different menu, this helper function also handles the logic
-	 * of adding the link. It copies and returns the entire $links array with the donate link added.
-	 * Hopefully the array is practically small enough that the performance hit is negligible.
-	 *
-	 * @param array $sitesupport - the donate link created in onSkinTemplateNavigation__Universal
-	 * @param array $links - the full array of navigation links
-	 * @return array - returns the $links array with the donate link added in the correct place
-	 */
-	private function addDonateLink( $sitesupport, $links ): array {
-		if ( $this->experimentManager === null ) {
-			// Fall back to default behavior (no experiment)
-			return $this->addDonateLinkWithoutIcon( $sitesupport, $links );
-		}
-
-		$experiment = $this->experimentManager->getExperiment( 'we-3-2-3-donate-ab-test-1' );
-		$group = $experiment->getAssignedGroup();
-
-		// if we're in the experiment, add the group name to the URL so we can track donations, as well as a class for
-		// instrumentation
-		if ( $group !== null ) {
-			$parsedHref = $this->urlUtils->parse( $sitesupport['sitesupport']['href'] );
-			if ( $parsedHref === null ) {
-				// If URL parsing fails, fall back to default behavior
-				return $this->addDonateLinkWithoutIcon( $sitesupport, $links );
-			}
-			$parsedQuery = wfCgiToArray( $parsedHref['query'] );
-			$parsedQuery['wmf_source'] = "2025_desktop_test1_$group";
-			$parsedHref['query'] = wfArrayToCgi( $parsedQuery );
-			$sitesupport['sitesupport']['href'] = UrlUtils::assemble( $parsedHref );
-
-			$sitesupport['sitesupport']['class'] = 're-experiment-vector-donate-entry-point-variation';
-		}
-
-		// if we're in the experiment and specifically in the treatment group, add a heart icon and button treatment
-		if ( $group === 'treatment' ) {
-			$sitesupport['sitesupport']['icon'] = 'heart';
-
-			if ( array_key_exists( 'user-interface-preferences', $links ) ) {
-				$links['user-interface-preferences'] += $sitesupport;
-			}
-		} else {
-			// otherwise, add the donate link to the user menu as it has been
-			return $this->addDonateLinkWithoutIcon( $sitesupport, $links );
-		}
-
-		return $links;
-	}
-
-	/**
-	 * Add donate link without experiment functionality
-	 *
-	 * @param array $sitesupport - the donate link created in onSkinTemplateNavigation__Universal
-	 * @param array $links - the full array of navigation links
-	 * @return array - returns the $links array with the donate link added in the correct place
-	 */
-	private function addDonateLinkWithoutIcon( $sitesupport, $links ): array {
-		if ( array_key_exists( 'user-menu', $links ) ) {
-			// Ensure donate link goes before other links
-			$links['user-menu'] = $sitesupport + $links['user-menu'];
-		}
-
-		return $links;
-	}
-
-	/**
 	 * Add a donate link to the user links menu for anonymous users on vector '22, if feature flag is turned on
 	 *
 	 * @param SkinTemplate $skin
@@ -1973,8 +1896,10 @@ class Hooks implements
 				'href' => $context->msg( 'sitesupport-url' )->text(),
 				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
 			] ];
-
-			$links = $this->addDonateLink( $sitesupport, $links );
+			// Ensure donate link goes before other links
+			if ( array_key_exists( 'user-menu', $links ) ) {
+				$links['user-menu'] = $sitesupport + $links['user-menu'];
+			}
 		}
 	}
 
