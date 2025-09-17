@@ -18,7 +18,9 @@
 	"wm-commonstrings-enterquestion": "Skriv inn spørsmålet ditt",
 	"wm-commonstrings-events": "Arrangementer",
 	"wm-commonstrings-externallinks": "Eksterne lenker",
+	"wm-commonstrings-feedback": "Tilbakemelding",
 	"wm-commonstrings-follow": "Følg",
+	"wm-commonstrings-leadership": "Ledelse",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hovedartikkel|Hovedartikler}}: $1",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hovedside|Hovedsider}}: $1",
 	"wm-commonstrings-mywork": "Arbeidet mitt",
@@ -42,5 +44,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Snarvei|Snarveier}}",
 	"wm-commonstrings-staff": "Personale",
 	"wm-commonstrings-talktous": "Snakk med oss",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Mal|Maler}}",
 	"wm-commonstrings-updates": "Oppdateringer"
 }
