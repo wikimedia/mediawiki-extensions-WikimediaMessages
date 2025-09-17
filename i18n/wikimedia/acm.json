@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Ahmedadeljaff",
-			"MRidhaAJ"
+			"MRidhaAJ",
+			"Mohammdaon"
 		]
 	},
 	"sitesupport": "اتبرع",
 	"wikimedia-copyright-footer": "الحجي المكتوب مرخص جوه [https://creativecommons.org/licenses/by-sa/4.0/deed.en رخصه المشاع الابداعي اللي لازم تنسب الشغل لليشتغل بيه وترخيص الشغل المشتق بالمثل]؛\nاكو شروط زايده يمكن تتطبق.\nشوف [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام] لتفاصيل.",
-	"wikimedia-copyrightwarning": "بالضغط على زر «{{int:savearticle}}»، فإنك توافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/4.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 4.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إليك، برخصة المشاع الإبداعي، عن طريق وصلة فقط.",
+	"wikimedia-copyrightwarning": "بالضغط على زر «{{int:savearticle}}»، فإنته توافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام] وترخيص مساهماتك، بلا رجعة، [https://creativecommons.org/licenses/by-sa/4.0/deed.ar برخصة المشاع الإبداعي: النسبة-الترخيص بالمثل 4.0] و[https://www.gnu.org/copyleft/fdl.html رخصة جنو للوثائق الحرة].\nوتوافق أن تنسب مساهماتك إلك، برخصة المشاع الإبداعي، عن طريق رابط بس.",
 	"wikibase-sitelinks-wikinews": "ويكي الأخبار",
 	"wikibase-sitelinks-wikiquote": "ويكي الاقتباس",
 	"wikibase-sitelinks-wikisource": "ويكي مصدر",

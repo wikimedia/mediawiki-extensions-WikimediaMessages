@@ -1,8 +1,19 @@
 {
 	"@metadata": {
 		"authors": [
-			"Canjura"
+			"Canjura",
+			"AliciaMarroquín",
+			"Eliheri",
+			"Jose Antonio Guillen Landaverde",
+			"Taty Flores de Constante"
 		]
 	},
-	"wm-license-information-date": "Tanestuk"
+	"wm-license-information-description": "itachiska",
+	"wm-license-information-source": "Pewa",
+	"wm-license-information-date": "Tanestuk",
+	"wm-license-information-author": "Tawawasuani",
+	"wm-license-information-permission": "Taajkawalis",
+	"wm-license-information-permission-reusing-text": "Yaw-tekitit senpa iwan ini taanalis",
+	"wm-license-own-work": "nutikiw",
+	"wm-license-self-multiple-licenses-select": "Taja tiweli tikwi ne taajkawalis ka taja tikneki."
 }
