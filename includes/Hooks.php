@@ -8,6 +8,7 @@ use MediaWiki\Config\Config;
 use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
 use MediaWiki\Exception\ErrorPageError;
+use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMLiquidThreadsLogFormatter;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
 use MediaWiki\Hook\SidebarBeforeOutputHook;
@@ -1775,6 +1776,16 @@ class Hooks implements
 				'mergeuser'  => [ 'mergeuser' ],
 				'deleteuser' => [ 'deleteuser' ],
 			];
+		}
+
+		if ( !ExtensionRegistry::getInstance()->isLoaded( 'LiquidThreads' ) ) {
+			global $wgLogTypes, $wgLogNames, $wgLogHeaders, $wgLogActionsHandlers;
+
+			$wgLogTypes[] = 'liquidthreads';
+			$wgLogNames['liquidthreads'] = 'wikimedia-lqt-log-name';
+			$wgLogHeaders['liquidthreads'] = 'wikimedia-lqt-log-header';
+
+			$wgLogActionsHandlers['liquidthreads/*'] = WMLiquidThreadsLogFormatter::class;
 		}
 	}
 
