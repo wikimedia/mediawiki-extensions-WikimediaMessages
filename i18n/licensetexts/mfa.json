@@ -1,15 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mirlim"
+			"Mirlim",
+			"EmpAhmadK"
 		]
 	},
-	"wm-license-information-description": "Keterenge",
+	"wm-license-information-description": "Keteraengae",
 	"wm-license-information-source": "Sumbo",
 	"wm-license-information-date": "Taréh",
 	"wm-license-information-author": "Jóng tulih",
 	"wm-license-information-permission": "Izéng",
-	"wm-license-information-permission-reusing-text": "Pegunoe smula fail ni",
+	"wm-license-information-permission-reusing-text": "Pegunoae smula fail ni",
 	"wm-license-own-work": "Bendo wak sdiri",
-	"wm-license-self-multiple-licenses-select": "Demo buléh pilih mano-mano leséng hok demo nok."
+	"wm-license-self-multiple-licenses-select": "Dèmo buléh pilih mano-mano lèséng hok dèmo nok."
 }
