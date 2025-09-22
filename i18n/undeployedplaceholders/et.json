@@ -10,5 +10,7 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Kasutajakonto liitmine",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Kasutajakonto kustutamine",
 	"wikimedia-usermerge-logpage": "Kasutajate liitmise logi",
-	"wikimedia-usermerge-logpagetext": "Siin on kasutajate liitmisega seotud toimingute logi."
+	"wikimedia-usermerge-logpagetext": "Siin on kasutajate liitmisega seotud toimingute logi.",
+	"wikimedia-graph-tracking-category": "Diagrammidega leheküljed",
+	"wikimedia-graph-disabled-category": "Keelatud diagrammidega leheküljed"
 }

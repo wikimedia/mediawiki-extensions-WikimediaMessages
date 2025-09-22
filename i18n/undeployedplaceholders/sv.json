@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Lejonel",
 			"Sabelöga"
 		]
 	},
@@ -10,5 +11,7 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Sammanfogning av användarkonto",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Radering av användarkonto",
 	"wikimedia-usermerge-logpage": "Användarsammanfogningslogg",
-	"wikimedia-usermerge-logpagetext": "Det här är en logg över sammanfogningar av användarkonton."
+	"wikimedia-usermerge-logpagetext": "Det här är en logg över sammanfogningar av användarkonton.",
+	"wikimedia-graph-tracking-category": "Sidor med grafer",
+	"wikimedia-graph-disabled-category": "Sidor med inaktiverade grafer"
 }
