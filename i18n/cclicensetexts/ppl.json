@@ -3,11 +3,19 @@
 		"authors": [
 			"AliciaMarroquín",
 			"Jose Antonio Guillen Landaverde",
-			"Taty Flores de Constante"
+			"Taty Flores de Constante",
+			"TimumachtikanNawat"
 		]
 	},
+	"wm-license-cc-attribution": "Taajkawalis",
+	"wm-license-cc-by-sa-3.0-text": "Ini taanalis nemi iwan ne taajkawalis [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|ukse taajkawalis/shikpanulti-sanse 3.0 Unported]].",
+	"wm-license-cc-free": "nikpia  tamakishtilis",
 	"wm-license-cc-free-to-share-header": "Shikpanulti",
+	"wm-license-cc-free-to-share-text": "shikpanulti",
+	"wm-license-cc-free-to-remix-header": "shiknelua senpa",
+	"wm-license-cc-free-to-remix-text": "pal kiajshitilia ne itekiw",
 	"wm-license-cc-conditions": "Iwan ini tatuktialis:",
 	"wm-license-cc-conditions-attribution-header": "Tiwelit",
+	"wm-license-cc-conditions-attribution-text": "Nemi pal tina kaj kichiwki, shikmaka ne ilpika pal ne taajkawalis, wan shina su titekiti ka nin. Nemi pal tikchiwa ken ina ne tatuktiani pal ne taajkawalis ika titekiti wan ne taajkawalis.",
 	"wm-license-cc-conditions-share_alike-header": "Shikpanulti kenha"
 }

@@ -2,13 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"TimumachtikanNawat",
-			"Jose Antonio Guillen Landaverde"
+			"Jose Antonio Guillen Landaverde",
+			"Valery"
 		]
 	},
 	"sitesupport": "Shiktakuli",
 	"wikibase-sitelinks-wikinews": "wikitaawatilis",
 	"wikibase-sitelinks-wikiquote": "wikitaawatilis",
 	"wikibase-sitelinks-wikisource": "Wikipewalis",
+	"wikibase-sitelinks-wikivoyage": "wikipajpashalulis",
 	"wikimedia-developers": "Tajtachiwanimet",
 	"wikimedia-statslink": "Tamachiwalis",
 	"wikimedia-cookiestatement": "Taneshtilis ipajpalyu"

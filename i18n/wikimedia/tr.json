@@ -38,7 +38,8 @@
 			"Victor Trevor",
 			"Vito Genovese",
 			"Samoasambia",
-			"Leo"
+			"Leo",
+			"Gadir"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -127,7 +128,7 @@
 	"group-interface-editor": "Teknisyenler",
 	"group-interface-editor-member": "{{GENDER:$1|teknisyen}}",
 	"grouppage-interface-editor": "{{ns:project}}:Teknisyenler",
-	"group-ipblock-exempt": "IP engelleme muafiyetleri",
+	"group-ipblock-exempt": "IP engelleme muafı",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP engelleme muafı}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP engelleme muafiyeti",
 	"group-noratelimit": "Noratelimit hesapları",
