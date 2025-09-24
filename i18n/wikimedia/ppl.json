@@ -2,10 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"TimumachtikanNawat",
-			"Jose Antonio Guillen Landaverde"
+			"Jose Antonio Guillen Landaverde",
+			"Valery"
 		]
 	},
 	"sitesupport": "Shiktakuli",
+	"wikimedia-copyrightwarning": "Keman taja tikinhana ne tajtapatalis taja tikitat yek [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/tatuktilis taja tikitat yek] wan taja tikmakishtia ne mutekiw ken inat ne iatatuktilis taajkawalis [https://creativecommons.org/licenses/by-sa/4.0/deed.es ne iatatuktilis taajkawalis CC BY-SA 4.0] wan [https://es.wikipedia.org/wiki/Wikipedia:NeTajtaketazlis_ka_NeItatuktilis_Taajkawalis GFDL]. Taja tikneki nusan se ilpika u URL ika tikneki ken ne taajkawalis Creative Commons",
 	"wikibase-sitelinks-wikinews": "wikitaawatilis",
 	"wikibase-sitelinks-wikiquote": "wikitaawatilis",
 	"wikibase-sitelinks-wikisource": "Wikipewalis",

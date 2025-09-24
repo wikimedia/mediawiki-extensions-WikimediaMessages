@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sabelöga"
+			"Sabelöga",
+			"Lejonel"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|sammanfogade}} användarkontot \"$4\" ($5) med {{GENDER:$8|$6}} ($7)",
@@ -10,5 +11,6 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Sammanfogning av användarkonto",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Radering av användarkonto",
 	"wikimedia-usermerge-logpage": "Användarsammanfogningslogg",
-	"wikimedia-usermerge-logpagetext": "Det här är en logg över sammanfogningar av användarkonton."
+	"wikimedia-usermerge-logpagetext": "Det här är en logg över sammanfogningar av användarkonton.",
+	"wikimedia-graph-tracking-category": "Sidor med grafer"
 }

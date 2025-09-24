@@ -10,9 +10,11 @@
 			"SaldırganSincap",
 			"Toa",
 			"Wim b",
-			"ZandDev"
+			"ZandDev",
+			"Superpes15"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "I visitatori di questo progetto che utilizzano il tuo indirizzo IP hanno creato {{PLURAL:$1|1 account|$1 account}} nelle ultime 24 ore, che è il massimo consentito in questo lasso di tempo. Di conseguenza, i visitatori che utilizzano questo indirizzo IP non possono creare ulteriori account al momento.\n\nSe ti trovi in un evento in cui l'obiettivo principale è contribuire ai progetti Wikimedia, vedi come [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|richiedere un'esenzione temporanea alle limitazioni degli IP]] per aiutarti a risolvere questo problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Accedi alle tue preferenze sugli [[m:Special:CentralAuth/$1|altri progetti Wikimedia cui hai contribuito]] per scaricare i dati della tua utenza a essi relativi.",
 	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
@@ -41,6 +43,7 @@
 	"wikimedia-urlshortener-badaccessgroups": "I link abbreviati possono essere generati solo sulla pagina [[:m:Special:UrlShortener|Special:UrlShortener]] su meta.wikimedia.org.",
 	"wikimedia-webauthn-module-description": "'''Sconsigliato:''' WebAuthn (Web Authentication) è uno standard web definito dal World Wide Web Consortium (W3C). WebAuthn è un componente fondamentale del progetto FIDO2 sotto la direzione della FIDO Alliance. L'obbiettivo del progetto è definire le specifiche di una interfaccia standard per gli utenti che si autenticano in applicazioni e servizi sul web, utilizzando la crittografia a chiave pubblica. Per favore ricorda che devi entrare nella stessa wiki dove hai originariamente registrato il tuo dispositivo di verifica. Devi anche configurare il tuo browser per accettare i cookie da tutti gli altri wiki collegati. Se non sai come farlo, potresti non essere in grado di accedere. Questo metodo quindi non è consigliabile per la maggior parte degli utenti in questo momento.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Informativa sulla privacy]",
+	"wikimedia-ipinfo-preference-use-agreement": "Accetto di utilizzare questo strumento in conformità alle [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines linee guida sullo strumento per le informazioni degli IP], esclusivamente per scopi di investigazione o prevenzione di vandalismi, abusi o altre violazioni delle linee guida di Wikimedia Foundation o della comunità",
 	"wikimedia-centralauth-admin-log-otherwiki": "Questa utenza è bloccata. Vedi i [[meta:Special:CentralAuth/$1|dettagli dell'utenza globale su Meta-Wiki]] per ulteriori informazioni.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Il tuo indirizzo IP è stato [[m:Special:MyLanguage/Global blocks|bloccato su tutti i wiki]].",
 	"wikimedia-globalblocking-blockedtext-on-range": "Il tuo indirizzo IP è in un intervallo che è stato [[m:Special:MyLanguage/Global blocks|bloccato su tutti i wiki della Wikimedia Foundation]].",
@@ -48,6 +51,7 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "L'intervallo bloccato è $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "L'indirizzo proxy bloccato è $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Se ritieni di essere stato bloccato per errore, puoi trovare ulteriori informazioni e istruzioni nella [[m:Special:MyLanguage/Stewards/Wizard|Procedura guidata per il blocco degli stewards]].",
+	"wikimedia-jsonconfig-license-copyrightwarning": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo i termini della licenza [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
 	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo la licenza specificata nel parametro <code>license</code>.",
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''Nota:''' Quando modifichi questa pagina, accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'uso], e accetti irrevocabilmente di pubblicare i tuoi contributi secondo la licenza specificata nel parametro <code>license</code>.",
 	"wikimedia-skin-minerva-donate-banner-message": "Dona ora"

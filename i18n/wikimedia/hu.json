@@ -21,7 +21,8 @@
 			"Tacsipacsi",
 			"Tgr",
 			"Urbalazs",
-			"Varnent"
+			"Varnent",
+			"Boro"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -176,7 +177,7 @@
 	"wikibase-otherprojects-species": "Wikifajok",
 	"wikibase-otherprojects-wikibooks": "Wikikönyvek",
 	"wikibase-otherprojects-wikidata": "Wikidata",
-	"wikibase-otherprojects-wikifunctions": "Wikifunkciók",
+	"wikibase-otherprojects-wikifunctions": "Wikifüggvények",
 	"wikibase-otherprojects-wikinews": "Wikihírek",
 	"wikibase-otherprojects-wikiquote": "Wikidézet",
 	"wikibase-otherprojects-wikipedia": "Wikipédia",

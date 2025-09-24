@@ -4,5 +4,9 @@
 			"Gadir"
 		]
 	},
-	"wikimedia-usermerge-logpage": "İstifadəçi hesabı birləşdirmə jurnalı"
+	"wikimedia-log-action-filter-usermerge": "Əməliyyat növü:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "İstifadəçi hesabı birləşdirmə",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "İstifadəçi hesabı silmə",
+	"wikimedia-usermerge-logpage": "İstifadəçi hesabı birləşdirmə jurnalı",
+	"wikimedia-usermerge-logpagetext": "Bu, istifadəçi hesabı birləşdirmə əməliyyatlarının jurnalıdır."
 }
