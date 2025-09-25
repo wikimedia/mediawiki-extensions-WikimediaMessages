@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Steenth"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|slog sammen}} brugerkontoen \"$4\" ($5) med {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|slettede}} brugerkontoen \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Handlingstype:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Sammenlægning af brugerkonti",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Sletning af brugerkonto",
+	"wikimedia-usermerge-logpage": "Brugersammenlægningslog",
+	"wikimedia-usermerge-logpagetext": "Dette er en log over brugersammenlægningshandlinger.",
+	"wikimedia-graph-tracking-category": "Sider med grafer",
+	"wikimedia-graph-tracking-category-desc": "Siden indeholder et <code>&lt;graph&gt;</code>-tag.",
+	"wikimedia-graph-broken-category": "Sider med knækkede grafer",
+	"wikimedia-graph-broken-category-desc": "Siden indeholder et <code>&lt;graph&gt;</code>-tag med ugyldig brug.",
+	"wikimedia-graph-disabled-category": "Sider med deaktiverede grafer",
+	"wikimedia-graph-disabled-category-desc": "Siden indeholder et <code>&lt;graph&gt;</code>-tag, som midlertidigt ikke er tilgængeligt ([[phab:T334940|T334940]])."
+}

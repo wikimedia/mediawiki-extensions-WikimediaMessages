@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Andani Inusah"
+			"Andani Inusah",
+			"Yakubu Hami"
 		]
 	},
+	"wm-license-cc-by-sa-3.0-text": "Tɛbɛɛrɛ ŋɔ kpɛɛli yɛla na [[{{int:wm-licrnse-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-Share Alike 3.0 Unported]] Yɛla kpɛɛ",
 	"wm-license-cc-free": "“I yɛ la bɔri nyɛhiŋ”",
 	"wm-license-cc-free-to-share-header": "“kaŋ yɛla”",
 	"wm-license-cc-free-to-share-text": "“kaŋ kpɛhiŋ, kaŋ yɛla kɔni ka kaŋ taŋ kɔligbinin ni”",
