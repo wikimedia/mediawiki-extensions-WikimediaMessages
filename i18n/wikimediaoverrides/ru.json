@@ -21,6 +21,7 @@
 			"Stjn",
 			"Sunpriat",
 			"Vlad5250",
+			"Vonavy",
 			"Yurina Tatiana",
 			"Умар"
 		]
@@ -46,7 +47,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "Вы собираетесь одновременно заблокировать обе учётные записи и IP-адреса по одной и той же причине после использования данных CheckUser. Это может нарушить [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy Политику доступа к непубличным персональным данным]. Вы уверены, что хотите это сделать?",
 	"wikimedia-delete-toobig": "У этой страницы слишком длинная история изменений — более $1 {{PLURAL:$1|правки|правок}}. Удаление страниц с очень большой историей правок запрещено для предотвращения случайного сбоя {{SITENAME}}.\nПожалуйста, свяжитесь со [[m:Special:MyLanguage/Stewards|стюардами]] на странице [[m:Steward requests/Miscellaneous|«Steward requests/Miscellaneous» в Мета-вики]] и запросите удаление этой страницы.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Нажимая «$1», вы соглашаетесь с нашими [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Условиями использования], а также соглашаетесь на безотзывную публикацию вашего текста по {{PLURAL:$3|лицензии|лицензиям}} $2.",
-	"wikimedia-emailauth-login-help": "Если у вас больше нет доступа к адресу электронной почты вашей учётной записи, свяжитесь с нами по адресу ca@wikimedia.org",
+	"wikimedia-emailauth-login-help": "Если у вас возникли проблемы с получением кода, [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery следуйте данным инструкциям].",
 	"wikimedia-feedback-termsofuse": "Я согласен предоставлять отчёты в соответствии с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use условиями использования].",
 	"wikimedia-flow-terms-of-use-new-topic": "Нажимая на «{{int:flow-newtopic-save}}», вы соглашаетесь с нашими [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use условиями использования], а также соглашаетесь на безотзывную публикацию вашего текста по {{PLURAL:$2|лицензии|лицензиям}} $1.",
 	"wikimedia-flow-terms-of-use-reply": "Нажимая на «{{int:flow-reply-link}}», вы соглашаетесь с нашими [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use условиями использования], а также соглашаетесь на безотзывную публикацию вашего текста по {{PLURAL:$2|лицензии|лицензиям}} $1.",
