@@ -8,6 +8,8 @@
 	"wikimedia-usermerge-logpage": "Rejestr integracji użytkowników",
 	"wikimedia-graph-tracking-category": "Strony z wykresami",
 	"wikimedia-graph-tracking-category-desc": "Ta strona zawiera znacznik <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Strony z zepsutymi diagramami",
+	"wikimedia-graph-broken-category-desc": "Strona zawiera nieprawidłowo zastosowany znacznik <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-disabled-category": "Strony z zablokowanymi wykresami",
 	"wikimedia-graph-disabled-category-desc": "Ta strona zawiera znacznik <code>&lt;graph&gt;</code>, który nie jest dostępny ([[phab:T334940|T334940]])."
 }

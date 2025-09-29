@@ -12,5 +12,9 @@
 	"wikimedia-usermerge-logpage": "Kasutajate liitmise logi",
 	"wikimedia-usermerge-logpagetext": "Siin on kasutajate liitmisega seotud toimingute logi.",
 	"wikimedia-graph-tracking-category": "Diagrammidega leheküljed",
-	"wikimedia-graph-disabled-category": "Keelatud diagrammidega leheküljed"
+	"wikimedia-graph-tracking-category-desc": "Leheküljel on silt <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Katkiste diagrammidega leheküljed",
+	"wikimedia-graph-broken-category-desc": "Leheküljel on kasutatud silti <code>&lt;graph&gt;</code> vigaselt.",
+	"wikimedia-graph-disabled-category": "Keelatud diagrammidega leheküljed",
+	"wikimedia-graph-disabled-category-desc": "See lehekülg sisaldab silti <code>&lt;graph&gt;</code>, mis ei ole ajutiselt saadaval ([[phab:T334940|T334940]])."
 }

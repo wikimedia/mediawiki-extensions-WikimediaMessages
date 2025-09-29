@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "ادغام حساب کاربری",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "حذف حساب کاربری",
 	"wikimedia-usermerge-logpage": "سیاههٔ ادغام کاربر",
-	"wikimedia-usermerge-logpagetext": "سیاهه‌ای از عمل‌های ادغام کاربر."
+	"wikimedia-usermerge-logpagetext": "سیاهه‌ای از عمل‌های ادغام کاربر.",
+	"wikimedia-graph-tracking-category": "صفحه‌های دارای گراف",
+	"wikimedia-graph-tracking-category-desc": "این صفحه حاوی برچسب <code>&lt;graph&gt;</code> است.",
+	"wikimedia-graph-broken-category": "صفحه‌های دارای گراف شکسته",
+	"wikimedia-graph-broken-category-desc": "این صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> با کاربرد نادرست است."
 }

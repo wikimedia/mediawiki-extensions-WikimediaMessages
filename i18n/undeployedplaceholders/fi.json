@@ -8,5 +8,6 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Käyttäjätilien yhdistäminen",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Käyttäjätilin poistaminen",
 	"wikimedia-usermerge-logpage": "Käyttäjien yhdistämisloki",
-	"wikimedia-usermerge-logpagetext": "Tämä on loki käyttäjätunnuksien yhdistämistoimista."
+	"wikimedia-usermerge-logpagetext": "Tämä on loki käyttäjätunnuksien yhdistämistoimista.",
+	"wikimedia-graph-tracking-category": "Sivut, joissa on kaavioita"
 }

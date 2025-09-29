@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Jon Harald Søby",
 			"Lejonel",
 			"Sabelöga"
 		]
@@ -13,5 +14,8 @@
 	"wikimedia-usermerge-logpage": "Användarsammanfogningslogg",
 	"wikimedia-usermerge-logpagetext": "Det här är en logg över sammanfogningar av användarkonton.",
 	"wikimedia-graph-tracking-category": "Sidor med grafer",
+	"wikimedia-graph-tracking-category-desc": "Den här sidan innehåller en <code>&lt;graph&gt;</code>-tagg.",
+	"wikimedia-graph-broken-category": "Sidor med trasiga grafer",
+	"wikimedia-graph-broken-category-desc": "Den är sidan innehåller en <code>&lt;graph&gt;</code>-tagg som används felaktigt.",
 	"wikimedia-graph-disabled-category": "Sidor med inaktiverade grafer"
 }

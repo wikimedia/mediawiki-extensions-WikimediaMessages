@@ -10,5 +10,6 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "การผสานบัญชีผู้ใช้",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "การลบบัญชีผู้ใช้",
 	"wikimedia-usermerge-logpage": "ปูมการผสานผู้ใช้",
-	"wikimedia-usermerge-logpagetext": "นี่คือปูมการผสานผู้ใช้"
+	"wikimedia-usermerge-logpagetext": "นี่คือปูมการผสานผู้ใช้",
+	"wikimedia-graph-tracking-category": "หน้าที่มีกราฟ"
 }

@@ -1,12 +1,21 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gadir"
+			"Gadir",
+			"Nemoralis"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 \"$4\" ($5) hesabını {{GENDER:$8|$6}} ($7) ilə {{GENDER:$2|birləşdirdi}}",
+	"wikimedia-logentry-usermerge-deleteuser": "$1, \"$4\" ($5) istifadəçi hesabını {{GENDER:$2|sildi}}",
 	"wikimedia-log-action-filter-usermerge": "Əməliyyat növü:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "İstifadəçi hesabı birləşdirmə",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "İstifadəçi hesabı silmə",
 	"wikimedia-usermerge-logpage": "İstifadəçi hesabı birləşdirmə jurnalı",
-	"wikimedia-usermerge-logpagetext": "Bu, istifadəçi hesabı birləşdirmə əməliyyatlarının jurnalıdır."
+	"wikimedia-usermerge-logpagetext": "Bu, istifadəçi hesabı birləşdirmə əməliyyatlarının jurnalıdır.",
+	"wikimedia-graph-tracking-category": "Qrafik olan səhifələr",
+	"wikimedia-graph-tracking-category-desc": "Səhifədə <code>&lt;graph&gt;</code> teqi var.",
+	"wikimedia-graph-broken-category": "İşləməyən qrafikləri olan səhifələr",
+	"wikimedia-graph-broken-category-desc": "Səhifə səhv şəkildə istifadə edilən <code>&lt;graph&gt;</code> teqi ehtiva edir.",
+	"wikimedia-graph-disabled-category": "Söndürülmüş qrafik olan səhifələr",
+	"wikimedia-graph-disabled-category-desc": "Səhifə müvəqqəti olaraq söndürülmüş <code>&lt;graph&gt;</code> teqindən istifadə edir ([[phab:T334940|T334940]])."
 }

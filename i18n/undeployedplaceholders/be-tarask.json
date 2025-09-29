@@ -11,5 +11,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Аб’яднаньне ўліковых запісаў",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Выдаленьне ўліковых запісаў",
 	"wikimedia-usermerge-logpage": "Журнал аб’яднаньня ўліковых запісаў",
-	"wikimedia-usermerge-logpagetext": "Гэта журнал аб’яднаньняў уліковых запісаў удзельнікаў."
+	"wikimedia-usermerge-logpagetext": "Гэта журнал аб’яднаньняў уліковых запісаў удзельнікаў.",
+	"wikimedia-graph-tracking-category": "Старонкі з графікамі",
+	"wikimedia-graph-tracking-category-desc": "Старонка ўтрымлівае тэг <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Старонкі з сапсаванымі графікамі",
+	"wikimedia-graph-broken-category-desc": "На гэтай старонцы няслушна выкарыстаны тэг <code>&lt;graph&gt;</code>."
 }

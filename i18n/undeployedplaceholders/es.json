@@ -9,5 +9,9 @@
 	"wikimedia-log-action-filter-usermerge": "Tipo de acción:",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Borrado de cuentas de usuario",
 	"wikimedia-usermerge-logpage": "Registro de fusiones de cuentas de usuario",
-	"wikimedia-usermerge-logpagetext": "Este es un registro de fusiones de cuentas de usuario."
+	"wikimedia-usermerge-logpagetext": "Este es un registro de fusiones de cuentas de usuario.",
+	"wikimedia-graph-tracking-category": "Páginas con gráficos",
+	"wikimedia-graph-tracking-category-desc": "La página incluye una etiqueta <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Páginas con gráficos mal implementados",
+	"wikimedia-graph-broken-category-desc": "La página incluye una etiqueta <code>&lt;graph&gt;</code> con uso no válido."
 }

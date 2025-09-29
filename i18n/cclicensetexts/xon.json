@@ -5,6 +5,7 @@
 			"Yakubu Hami"
 		]
 	},
+	"wm-license-cc-attribution": "N-yamalim",
 	"wm-license-cc-by-sa-3.0-text": "Tɛbɛɛrɛ ŋɔ kpɛɛli yɛla na [[{{int:wm-licrnse-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-Share Alike 3.0 Unported]] Yɛla kpɛɛ",
 	"wm-license-cc-free": "“I yɛ la bɔri nyɛhiŋ”",
 	"wm-license-cc-free-to-share-header": "“kaŋ yɛla”",
@@ -14,5 +15,6 @@
 	"wm-license-cc-conditions": "“Ka yɛ la kpɛhiŋ nyɛhiŋ kpɛŋ:”",
 	"wm-license-cc-conditions-attribution-header": "“Gbɛŋ yɔɔ ni yɛ”",
 	"wm-license-cc-conditions-attribution-text": "\n“I ka yɛ bɔri nyɛhiŋ kaŋ kɔligbinin ni la, ka yɛ link la laɣun ni, kɔni ka yi nyɛhiŋ kpɛli ka nyɛhiŋ kpɛŋ. I ka yɛ la nyɛhiŋ kpɛhiŋ ni bɔri nyɛhiŋ, ka nyɛ la nyɛhiŋ kpɛhiŋ ni kpɛhiŋ ka licensor nyɛ la i anɛ i nyɛhiŋ yɛ bɔri nyɛhiŋ.”",
-	"wm-license-cc-conditions-share_alike-header": "“yɛ ka kɔni yɛ laŋmi”"
+	"wm-license-cc-conditions-share_alike-header": "“yɛ ka kɔni yɛ laŋmi”",
+	"wm-license-cc-conditions-share_alike-text": "\"Ka o yɛlɛ kɔŋ, yɛlɛ kpeem, ban yɛlɛ ti daa kpiihi pam ŋmɔ la, o ka ŋɔ n-yɔr o dɔɔya ka yuun kpihi ŋmɔ la ni [[ccorg:share-your-work/licensing-considerations/compatible-licenses| kpihi ŋmɔ yɛltɔ kpakpaŋa ka ŋɔ ban kpihi ŋmɔ yɛltɔ la]] be kɔyɔ.\""
 }

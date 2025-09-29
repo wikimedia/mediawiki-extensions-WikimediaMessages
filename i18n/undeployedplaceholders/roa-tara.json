@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Scuagghiamende d'u cunde utende",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Scangellazzione d'u cunde utende",
 	"wikimedia-usermerge-logpage": "Archivije de le scuagghiaminde de le utinde",
-	"wikimedia-usermerge-logpagetext": "Quiste jè 'n'archivie de le aziune de scuagghiamende de l'utende."
+	"wikimedia-usermerge-logpagetext": "Quiste jè 'n'archivie de le aziune de scuagghiamende de l'utende.",
+	"wikimedia-graph-tracking-category": "Pàggene cu le grafece",
+	"wikimedia-graph-tracking-category-desc": "Sta pàgene tène'nu tag <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Pàggene cu le grafece scuasciate",
+	"wikimedia-graph-broken-category-desc": "'A pàgene 'nglude 'nu tag <code>&lt;graph&gt;</code> cu ause non valide."
 }

@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "ব্যবহারকারী অ্যাকাউন্ট একত্রীকরণ",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "ব্যবহারকারী অ্যাকাউন্ট অপসারণ",
 	"wikimedia-usermerge-logpage": "ব্যবহারকারী একত্রীকরণ লগ",
-	"wikimedia-usermerge-logpagetext": "এটি ব্যবহারকারী একত্রীকরণের একটি লগ।"
+	"wikimedia-usermerge-logpagetext": "এটি ব্যবহারকারী একত্রীকরণের একটি লগ।",
+	"wikimedia-graph-tracking-category": "গ্রাফসহ পাতা",
+	"wikimedia-graph-tracking-category-desc": "পাতাটি একটি <code>&lt;graph&gt;</code> ট্যাগ অন্তর্ভুক্ত করে।",
+	"wikimedia-graph-broken-category": "ভাঙা গ্রাফসহ পাতা",
+	"wikimedia-graph-broken-category-desc": "পাতাটি একটি <code>&lt;graph&gt;</code> ট্যাগ অন্তর্ভুক্ত করে যেখানে এটি ভুলভাবে ব্যবহার করা হয়েছে।"
 }

@@ -7,5 +7,9 @@
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|fundiu}} a conta de usuário \"$4\" ($5) em {{GENDER:$8|$6}} ($7)",
 	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|excluiu}} a conta de usuário \"$4\" ($5)",
 	"wikimedia-usermerge-logpage": "Registro de fusão de usuários",
-	"wikimedia-usermerge-logpagetext": "Este é um registro de ações que envolvem a fusão de usuários"
+	"wikimedia-usermerge-logpagetext": "Este é um registro de ações que envolvem a fusão de usuários",
+	"wikimedia-graph-tracking-category": "Páginas com gráficos",
+	"wikimedia-graph-tracking-category-desc": "A página inclui uma marca <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Páginas com mapas quebrados",
+	"wikimedia-graph-broken-category-desc": "A página inclui uma marca <code>&lt;graph&gt;</code>> com uso inválido."
 }

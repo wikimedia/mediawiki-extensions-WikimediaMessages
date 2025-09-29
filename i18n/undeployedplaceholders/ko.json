@@ -9,6 +9,8 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "사용자 계정 삭제",
 	"wikimedia-usermerge-logpage": "사용자 병합 기록",
 	"wikimedia-graph-tracking-category": "그래프가 있는 문서",
+	"wikimedia-graph-tracking-category-desc": "이 문서는 <code>&lt;graph&gt;</code> 태그를 포함하고 있습니다.",
 	"wikimedia-graph-broken-category": "손상된 그래프가 포함된 문서",
+	"wikimedia-graph-broken-category-desc": "이 문서는 잘못된 용도로 <code>&lt;graph&gt;</code> 태그를 포함하고 있습니다.",
 	"wikimedia-graph-disabled-category": "비활성화된 그래프가 있는 문서"
 }

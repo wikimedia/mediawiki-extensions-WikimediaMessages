@@ -4,6 +4,7 @@
 			"Afaz",
 			"Azeha",
 			"Darklanlan",
+			"FlatLanguage",
 			"Omotecho",
 			"Rxy",
 			"Shirayuki",
@@ -20,6 +21,6 @@
 	"please-translate-short": "翻訳を手伝ってください",
 	"thank-you": "{{GENDER:$1|ありがとうございました。}}",
 	"specialinvestigate-feedback": "フィードバックを投稿する",
-	"graph-disabled-category": "グラフが無効になっているページ",
-	"graph-disabled-category-desc": "一時的に利用できない<code>&lt;graph&gt;</code>タグを含むページ ([[phab:T334940|T334940]])。"
+	"graph-disabled-category": "#REDIRECT [[MediaWiki:Wikimedia-graph-disabled-category/ja]]",
+	"graph-disabled-category-desc": "#REDIRECT [[MediaWiki:Wikimedia-graph-disabled-category-desc/ja]]"
 }
