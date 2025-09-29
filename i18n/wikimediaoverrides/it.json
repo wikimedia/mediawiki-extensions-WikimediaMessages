@@ -10,9 +10,11 @@
 			"Toa",
 			"Wim b",
 			"Nail123Real",
-			"ZandDev"
+			"ZandDev",
+			"Superpes15"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "I visitatori di questo progetto che utilizzano il tuo indirizzo IP hanno creato {{PLURAL:$1|1 account|$1 account}} nelle ultime 24 ore, che è il massimo consentito in questo lasso di tempo. Di conseguenza, i visitatori che utilizzano questo indirizzo IP non possono creare ulteriori account al momento.\n\nSe ti trovi in un evento in cui l'obiettivo principale è contribuire ai progetti Wikimedia, vedi come [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|richiedere un'esenzione temporanea alle limitazioni degli IP]] per aiutarti a risolvere questo problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Accedi alle tue preferenze sugli [[m:Special:CentralAuth/$1|altri progetti Wikimedia cui hai contribuito]] per scaricare i dati della tua utenza a essi relativi.",
 	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",

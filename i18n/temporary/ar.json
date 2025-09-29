@@ -5,13 +5,16 @@
 			"Shbib Al-Subaie",
 			"ديفيد",
 			"علاء",
-			"محمد أحمد عبد الفتاح"
+			"محمد أحمد عبد الفتاح",
+			"Alshamiri1",
+			"FShbib",
+			"Mohammed Qays"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا مؤقتة محددة",
 	"grouppage-oversight": "{{ns:project}}:مزيل تعديلات",
 	"group-oversight": "مزيلو تعديلات",
-	"group-oversight-member": "{{GENDER:$1|مزيل تعديلات|مزيلة تعديلات}}",
+	"group-oversight-member": "{{GENDER:$1|مزيل|مزيلة}} تعديلات",
 	"hello": "مرحبا",
 	"please-translate": "رجاء ساعد في الترجمة للغتك",
 	"thank-you": "{{GENDER:$1|شكرا لك.}}",
