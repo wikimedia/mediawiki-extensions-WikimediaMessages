@@ -72,7 +72,8 @@
 			"VulpesVulpes825",
 			"Samoasambia",
 			"22593",
-			"Kcx36"
+			"Kcx36",
+			"Libamidi"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -435,5 +436,6 @@
 	"wikimedia-foundation-about-label-short": "关于基金会",
 	"wikimedia-foundation-contact-label": "联系维基媒体基金会",
 	"wikimedia-foundation-contact-label-short": "联系基金会",
-	"wikimedia-nutshell-page-intro": "本页概要：$1"
+	"wikimedia-nutshell-page-intro": "本页概要：$1",
+	"wikimedia-nutshell-content-alt-intro": "“$1”简而言之：$2"
 }

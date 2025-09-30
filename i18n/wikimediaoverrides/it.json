@@ -10,9 +10,11 @@
 			"Toa",
 			"Wim b",
 			"Nail123Real",
-			"ZandDev"
+			"ZandDev",
+			"Superpes15"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "I visitatori di questo progetto che utilizzano il tuo indirizzo IP hanno creato {{PLURAL:$1|1 account|$1 account}} nelle ultime 24 ore, che è il massimo consentito in questo lasso di tempo. Di conseguenza, i visitatori che utilizzano questo indirizzo IP non possono creare ulteriori account al momento.\n\nSe ti trovi in un evento in cui l'obiettivo principale è contribuire ai progetti Wikimedia, vedi come [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|richiedere un'esenzione temporanea alle limitazioni degli IP]] per aiutarti a risolvere questo problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aiutami a scegliere)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Accedi alle tue preferenze sugli [[m:Special:CentralAuth/$1|altri progetti Wikimedia cui hai contribuito]] per scaricare i dati della tua utenza a essi relativi.",
 	"wikimedia-createacct-imgcaptcha-help": "Non riesci a vedere l'immagine? [[{{MediaWiki:createacct-captcha-help-url}}|Richiedi un'utenza]]",
@@ -49,6 +51,7 @@
 	"wikimedia-globalblocking-blockedtext-proxy": "L'indirizzo proxy bloccato è $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Se ritieni di essere stato bloccato per errore, puoi trovare ulteriori informazioni e istruzioni nella policy globale [[m:Special:MyLanguage/No open proxies|Niente proxy aperti]].\nAltrimenti, per discutere del blocco [[m:Steward requests/Global|inserisci una richiesta di riesame su Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-mistake-email-steward": "Puoi anche inviare un'e-mail alla coda [[m:Special:MyLanguage/Stewards|stewards]] [[m:Special:MyLanguage/VRT|VRT]] all'indirizzo <kbd>stewards@wikimedia.org</kbd> includendo tutti i dettagli di cui sopra.",
+	"wikimedia-jsonconfig-license-copyrightwarning": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo i termini della licenza [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
 	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo la licenza specificata nel parametro <code>license</code>.",
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''Nota:''' Quando modifichi questa pagina, accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'uso], e accetti irrevocabilmente di pubblicare i tuoi contributi secondo la licenza specificata nel parametro <code>license</code>."
 }
