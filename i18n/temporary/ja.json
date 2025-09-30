@@ -22,5 +22,5 @@
 	"thank-you": "{{GENDER:$1|ありがとうございました。}}",
 	"specialinvestigate-feedback": "フィードバックを投稿する",
 	"graph-disabled-category": "#REDIRECT [[MediaWiki:Wikimedia-graph-disabled-category/ja]]",
-	"graph-disabled-category-desc": "#REDIRECT [[MediaWiki:Wikimedia-graph-disabled-category-desc/ja]]"
+	"graph-disabled-category-desc": "ページには <code>&lt;graph&gt;</code> タグが含まれており、一時的に利用できません（[[phab:T334940|T334940]]）。<!-- #REDIRECT [[MediaWiki:Wikimedia-graph-disabled-category-desc/ja]] -->"
 }

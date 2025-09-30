@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aefgh39622",
 			"Ekminarin"
 		]
 	},
@@ -11,5 +12,10 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "การลบบัญชีผู้ใช้",
 	"wikimedia-usermerge-logpage": "ปูมการผสานผู้ใช้",
 	"wikimedia-usermerge-logpagetext": "นี่คือปูมการผสานผู้ใช้",
-	"wikimedia-graph-tracking-category": "หน้าที่มีกราฟ"
+	"wikimedia-graph-tracking-category": "หน้าที่มีกราฟ",
+	"wikimedia-graph-tracking-category-desc": "หน้านี้มีแท็ก <code>&lt;graph&gt;</code>",
+	"wikimedia-graph-broken-category": "หน้าที่มีกราฟเสียหาย",
+	"wikimedia-graph-broken-category-desc": "หน้านี้มีแท็ก <code>&lt;graph&gt;</code> ซึ่งมีการใช้งานที่ไม่ถูกต้อง",
+	"wikimedia-graph-disabled-category": "หน้าที่มีกราฟที่ปิดใช้งาน",
+	"wikimedia-graph-disabled-category-desc": "หน้านี้มีแท็ก <code>&lt;graph&gt;</code> ซึ่งไม่สามารถใช้งานได้ชั่วคราว ([[phab:T334940|T334940]])"
 }
