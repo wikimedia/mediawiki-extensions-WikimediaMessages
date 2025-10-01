@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Bellatrix10",
+			"ITZQing",
 			"Ookuninusi"
 		]
 	},
@@ -13,5 +14,7 @@
 	"wikibase-sitelinks-wikiquote": "Vikicitat",
 	"wikibase-sitelinks-wikisource": "Vikizvornik",
 	"wikibase-sitelinks-wikivoyage": "Vikiputovanje",
-	"wikimedia-developers": "Programeri"
+	"wikimedia-developers": "Programeri",
+	"wikimedia-statslink": "Statistika",
+	"wikimedia-cookiestatement": "Izjava o kolačićima"
 }
