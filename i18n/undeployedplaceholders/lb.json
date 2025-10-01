@@ -7,5 +7,8 @@
 	},
 	"wikimedia-log-action-filter-usermerge": "Typ vun Aktioun:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Benotzerkonten zesummeleeën",
-	"wikimedia-log-action-filter-usermerge-deleteuser": "Läsche vu Benotzerkonten"
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Läsche vu Benotzerkonten",
+	"wikimedia-graph-tracking-category": "Säite mat Graphiken",
+	"wikimedia-graph-tracking-category-desc": "An dëser Säit ass eng Markéierung <code>&lt;graph&gt;</code> dran.",
+	"wikimedia-graph-broken-category": "Säite mat futtisse Graphiken"
 }

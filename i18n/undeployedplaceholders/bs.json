@@ -5,5 +5,9 @@
 		]
 	},
 	"wikimedia-log-action-filter-usermerge": "Vrsta radnje:",
-	"wikimedia-usermerge-logpage": "Zapisnik spajanja korisnika"
+	"wikimedia-usermerge-logpage": "Zapisnik spajanja korisnika",
+	"wikimedia-graph-tracking-category": "Stranice s grafikonima",
+	"wikimedia-graph-tracking-category-desc": "Ova stranica sadrži oznaku <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Stranice s pokvarenim grafikonima",
+	"wikimedia-graph-broken-category-desc": "Ova stranica sadrži neispravno iskorištenu oznaku <code>&lt;graph&gt;</code>."
 }

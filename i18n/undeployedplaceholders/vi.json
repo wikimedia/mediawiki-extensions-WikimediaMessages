@@ -9,5 +9,9 @@
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|đã trộn}} tài khoản thành viên \"$4\" ($5) thành {{GENDER:$8|$6}} ($7)",
 	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|đã xóa}} tài khoản người dùng \"$4\" ($5)",
 	"wikimedia-usermerge-logpage": "Nhật trình trộn thành viên",
-	"wikimedia-usermerge-logpagetext": "Nhật trình này ghi lại tác vụ trộn tài khoản."
+	"wikimedia-usermerge-logpagetext": "Nhật trình này ghi lại tác vụ trộn tài khoản.",
+	"wikimedia-graph-tracking-category": "Trang có biểu đồ",
+	"wikimedia-graph-tracking-category-desc": "Các trang này có thẻ <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Trang có biểu đồ hỏng",
+	"wikimedia-graph-broken-category-desc": "Các trang này có thẻ <code>&lt;graph&gt;</code> được sử dụng một cách không hợp lệ."
 }

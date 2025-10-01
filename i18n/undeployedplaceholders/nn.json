@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Njardarlogar"
+			"Njardarlogar",
+			"Jon Harald Søby"
 		]
 	},
-	"wikimedia-usermerge-logpage": "Brukarsamanslåingslogg"
+	"wikimedia-usermerge-logpage": "Brukarsamanslåingslogg",
+	"wikimedia-graph-tracking-category": "Sider med diagram",
+	"wikimedia-graph-tracking-category-desc": "Sida nyttar eit <code>&lt;graph&gt;</code>-merke",
+	"wikimedia-graph-broken-category": "Sider med uverksame diagram",
+	"wikimedia-graph-broken-category-desc": "Sida nyttar eit <code>&lt;graph&gt;</code>-merke med feil."
 }

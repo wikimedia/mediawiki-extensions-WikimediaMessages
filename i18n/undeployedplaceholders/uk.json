@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Об'єднання облікових записів користувачів",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Вилучення облікових записів користувачів",
 	"wikimedia-usermerge-logpage": "Журнал об'єднання користувачів",
-	"wikimedia-usermerge-logpagetext": "Це журнал об'єднання облікових записів."
+	"wikimedia-usermerge-logpagetext": "Це журнал об'єднання облікових записів.",
+	"wikimedia-graph-tracking-category": "Сторінки з графіками",
+	"wikimedia-graph-tracking-category-desc": "Сторінка включає тег <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Сторінки зі зламаними графіками",
+	"wikimedia-graph-broken-category-desc": "Сторінка включає неправильно використаний тег <code>&lt;graph&gt;</code>."
 }

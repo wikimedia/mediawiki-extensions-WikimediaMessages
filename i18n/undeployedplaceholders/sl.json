@@ -11,5 +11,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Spojitev uporabniških računov",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Izbris uporabniškega računa",
 	"wikimedia-usermerge-logpage": "Dnevnik spajanja uporabnikov",
-	"wikimedia-usermerge-logpagetext": "To je dnevnik dejanj spajanja uporabnikov."
+	"wikimedia-usermerge-logpagetext": "To je dnevnik dejanj spajanja uporabnikov.",
+	"wikimedia-graph-tracking-category": "Strani z grafikoni",
+	"wikimedia-graph-tracking-category-desc": "Stran vključuje značko <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Strani z grafikoni z napakami",
+	"wikimedia-graph-broken-category-desc": "Stran vključuje nepravilno uporabljeno značko <code>&lt;graph&gt;</code>."
 }

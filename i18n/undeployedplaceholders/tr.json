@@ -11,5 +11,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Kullanıcı hesabı birleştirme",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Kullanıcı hesabı silme",
 	"wikimedia-usermerge-logpage": "Kullanıcı birleştirme günlüğü",
-	"wikimedia-usermerge-logpagetext": "Bu, kullanıcı birleştirme eylemlerinin günlüğüdür."
+	"wikimedia-usermerge-logpagetext": "Bu, kullanıcı birleştirme eylemlerinin günlüğüdür.",
+	"wikimedia-graph-tracking-category": "Grafikli sayfalar",
+	"wikimedia-graph-tracking-category-desc": "Sayfa bir <code>&lt;graph&gt;</code> etiketi içerir.",
+	"wikimedia-graph-broken-category": "Grafikleri bozuk sayfalar",
+	"wikimedia-graph-broken-category-desc": "Sayfa, geçersiz kullanıma sahip bir <code>&lt;graph&gt;</code> etiketi içeriyor."
 }

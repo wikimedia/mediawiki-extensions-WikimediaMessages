@@ -9,5 +9,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Сливане на потребителска сметка",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Изтриване на потребителска сметка",
 	"wikimedia-usermerge-logpage": "Дневник на сливанията на потребители",
-	"wikimedia-usermerge-logpagetext": "Това е дневник на сливанията на потребители."
+	"wikimedia-usermerge-logpagetext": "Това е дневник на сливанията на потребители.",
+	"wikimedia-graph-tracking-category": "Страници с графики",
+	"wikimedia-graph-tracking-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг.",
+	"wikimedia-graph-broken-category": "Страници с повредени графики",
+	"wikimedia-graph-broken-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг, използван по неправилен начин."
 }

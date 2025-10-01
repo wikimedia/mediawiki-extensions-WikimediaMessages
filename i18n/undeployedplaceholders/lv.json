@@ -4,5 +4,7 @@
 			"Papuass"
 		]
 	},
-	"wikimedia-log-action-filter-usermerge": "Darbības veids:"
+	"wikimedia-log-action-filter-usermerge": "Darbības veids:",
+	"wikimedia-graph-tracking-category": "Lapas ar diagrammām",
+	"wikimedia-graph-broken-category": "Lapas ar bojātām diagrammām"
 }

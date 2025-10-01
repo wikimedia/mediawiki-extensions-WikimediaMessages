@@ -12,7 +12,8 @@
 			"Pavel200071",
 			"Putnik",
 			"ToJack",
-			"Wileyfoxyx"
+			"Wileyfoxyx",
+			"Vonavy"
 		]
 	},
 	"contactpage-title-requestlicense": "Форма по запросу лицензии",
@@ -74,7 +75,7 @@
 	"contactpage-title-stewards": "Связаться со стюардами",
 	"contactpage-stewards-disclaimer-label": "Отказ от ответственности: всю информацию, включённую вами в эту форму, получат и обработают волонтёры сообщества (в частности, [[Special:MyLanguage/Stewards|стюарды]]), они же и ответят вам — а не Фонд Викимедиа. Пожалуйста, не включайте информацию, которой вы не хотите делиться с волонтёрами. Ответы и всё остальное, относящееся к обработке отправленной вами информации, не будет считаться официальными заявлениями Фонда Викимедиа. Для получения официального ответа напишите, пожалуйста, в Фонд Викимедиа одним из способов, перечисленных по ссылке: https://wikimediafoundation.org/about/contact/.",
 	"contactpage-title-movecomsignup": "Подписаться на почтовую рассылку группы контактов движения",
-	"contactpage-pagetext-movecomsignup": "С помощью формы ниже вы можете подписаться на почтовую рассылку [[Movement communications group|группы контактов движения]].",
+	"contactpage-pagetext-movecomsignup": "С помощью формы ниже вы можете подписаться на почтовую рассылку [[Special:MyLanguage/Movement communications group|группы контактов движения]].",
 	"contactpage-subject-movecomsignup": "Регистрация в группе контактов движения",
 	"contactpage-movecom-signup-username-label": "Ваше имя (Ваши имена) участника",
 	"contactpage-movecom-signup-affiliation-label": "Основная организационная единица в рамках движения Викимедиа, к которой следует отнести ваш контакт",
@@ -83,11 +84,11 @@
 	"contactpage-movecom-signup-affiliation-group": "Группа, организуемая движением Викимедиа (внутренний вики-проект, общественный комитет, и т.п.)",
 	"contactpage-movecom-signup-affiliation-projects": "Проекты Викимедиа (Википедия, Викиданные, Викисловарь и т.д.)",
 	"contactpage-movecom-signup-affiliate-label": "Название вашей группы участников или партнёрской организации Викимедиа (если вы входите в какую-нибудь из них)",
-	"contactpage-movecom-signup-display-label": "Пожалуйста, выберите, в какой что именно о вас должно быть указано на странице [[Movement communications group|группы контактов движения]]",
+	"contactpage-movecom-signup-display-label": "Пожалуйста, выберите, что именно должно быть указано  о вас на странице [[Special:MyLanguage/Movement communications group|группы контактов движения]]",
 	"contactpage-movecom-signup-display-name": "Реальное имя",
 	"contactpage-movecom-signup-display-username": "Название учётной записи",
 	"contactpage-movecom-signup-display-nameusername": "Реальное имя и название учётной записи",
-	"contactpage-movecom-signup-terms-label": "Я прочёл описание [[Movement communications group|группы контактов движения]] и согласен следовать [[foundation:Special:MyLanguage/Policy:Friendly space policy|политике дружелюбного пространства Фонда Викимедиа]] при участии в деятельности этой группы. Я понимаю, что несоблюдение этой политики приведет к удалению из группы.",
+	"contactpage-movecom-signup-terms-label": "Я прочёл описание [[Special:MyLanguage/Movement communications group|группы контактов движения]] и согласен следовать [[foundation:Special:MyLanguage/Policy:Friendly space policy|политике дружелюбного пространства Фонда Викимедиа]] при участии в деятельности этой группы. Я понимаю, что несоблюдение этой политики приведет к удалению из группы.",
 	"contactpage-title-ombudscommission": "Свяжитесь с Комиссией омбудсменов",
 	"contactpage-ombudscommission-case-explanation": "Объясните, что случилось:",
 	"contactpage-ombudscommission-relevant-links": "Укажите URL-адреса для действий или вики-страниц:",

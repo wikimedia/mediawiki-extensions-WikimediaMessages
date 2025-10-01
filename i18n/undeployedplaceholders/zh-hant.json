@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "使用者帳號合併",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "使用者帳號刪除",
 	"wikimedia-usermerge-logpage": "使用者合併日誌",
-	"wikimedia-usermerge-logpagetext": "此頁為使用者合併動作的記錄。"
+	"wikimedia-usermerge-logpagetext": "此頁為使用者合併動作的記錄。",
+	"wikimedia-graph-tracking-category": "有圖表的頁面",
+	"wikimedia-graph-tracking-category-desc": "頁面含有 <code>&lt;graph&gt;</code> 標籤。",
+	"wikimedia-graph-broken-category": "有損壞圖表的頁面",
+	"wikimedia-graph-broken-category-desc": "頁面含有 <code>&lt;graph&gt;</code> 標籤且有無效用法。"
 }

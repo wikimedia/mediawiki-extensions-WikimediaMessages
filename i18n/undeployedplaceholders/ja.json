@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"MathXplore"
+			"MathXplore",
+			"FlatLanguage"
 		]
 	},
 	"wikimedia-log-action-filter-usermerge": "操作の種類:",
 	"wikimedia-usermerge-logpage": "利用者統合記録",
-	"wikimedia-usermerge-logpagetext": "これは、利用者の統合を記録したものです。"
+	"wikimedia-usermerge-logpagetext": "これは、利用者の統合を記録したものです。",
+	"wikimedia-graph-tracking-category": "グラフのあるページ",
+	"wikimedia-graph-tracking-category-desc": "<code>&lt;graph&gt;</code> タグを含むページ。",
+	"wikimedia-graph-broken-category": "破損したグラフのあるページ",
+	"wikimedia-graph-broken-category-desc": "そのページは <code>&lt;graph&gt;</code> タグを含んでおり、使用法が無効です。"
 }

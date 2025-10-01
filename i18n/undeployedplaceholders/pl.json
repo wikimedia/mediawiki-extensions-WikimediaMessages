@@ -7,5 +7,7 @@
 	},
 	"wikimedia-usermerge-logpage": "Rejestr integracji użytkowników",
 	"wikimedia-graph-tracking-category": "Strony z wykresami",
-	"wikimedia-graph-tracking-category-desc": "Ta strona zawiera znacznik <code>&lt;graph&gt;</code>."
+	"wikimedia-graph-tracking-category-desc": "Ta strona zawiera znacznik <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Strony z zepsutymi diagramami",
+	"wikimedia-graph-broken-category-desc": "Strona zawiera nieprawidłowo zastosowany znacznik <code>&lt;graph&gt;</code>."
 }

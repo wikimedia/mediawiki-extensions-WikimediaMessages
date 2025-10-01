@@ -8,5 +8,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "spajanje naloga",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "brisanje naloga",
 	"wikimedia-usermerge-logpage": "Dnevnik spajanja korisnika",
-	"wikimedia-usermerge-logpagetext": "Ovo je dnevnik objedinjavanja naloga."
+	"wikimedia-usermerge-logpagetext": "Ovo je dnevnik objedinjavanja naloga.",
+	"wikimedia-graph-tracking-category": "Stranice sa grafikonima",
+	"wikimedia-graph-tracking-category-desc": "Stranice koje uključuju oznaku <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Stranice sa pokvarenim grafikonima",
+	"wikimedia-graph-broken-category-desc": "Stranice koje uključuju oznaku <code>&lt;graph&gt;</code> sa nevalidnom upotrebom."
 }

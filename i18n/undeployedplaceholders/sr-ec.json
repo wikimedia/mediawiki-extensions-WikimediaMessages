@@ -12,5 +12,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "спајање налога",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "брисање налога",
 	"wikimedia-usermerge-logpage": "Дневник спајања корисника",
-	"wikimedia-usermerge-logpagetext": "Ово је дневник обједињавања налога."
+	"wikimedia-usermerge-logpagetext": "Ово је дневник обједињавања налога.",
+	"wikimedia-graph-tracking-category": "Странице са графиконима",
+	"wikimedia-graph-tracking-category-desc": "Странице које укључују ознаку <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Странице са поквареним графиконима",
+	"wikimedia-graph-broken-category-desc": "Странице које укључују ознаку <code>&lt;graph&gt;</code> са невалидном употребом."
 }

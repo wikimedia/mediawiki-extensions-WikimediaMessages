@@ -11,5 +11,8 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Kasutajakonto kustutamine",
 	"wikimedia-usermerge-logpage": "Kasutajate liitmise logi",
 	"wikimedia-usermerge-logpagetext": "Siin on kasutajate liitmisega seotud toimingute logi.",
-	"wikimedia-graph-tracking-category": "Diagrammidega leheküljed"
+	"wikimedia-graph-tracking-category": "Diagrammidega leheküljed",
+	"wikimedia-graph-tracking-category-desc": "Leheküljel on silt <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Katkiste diagrammidega leheküljed",
+	"wikimedia-graph-broken-category-desc": "Leheküljel on kasutatud silti <code>&lt;graph&gt;</code> vigaselt."
 }

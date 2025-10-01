@@ -5,5 +5,9 @@
 			"Paloi Sciurala"
 		]
 	},
-	"wikimedia-usermerge-logpage": "Jurnal contopire utilizatori"
+	"wikimedia-usermerge-logpage": "Jurnal contopire utilizatori",
+	"wikimedia-graph-tracking-category": "Pagini cu grafice",
+	"wikimedia-graph-tracking-category-desc": "Pagina include o etichetă <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Pagini cu grafice defecte",
+	"wikimedia-graph-broken-category-desc": "Pagina include o etichetă <code>&lt;graph&gt;</code> cu utilizare invalidă."
 }

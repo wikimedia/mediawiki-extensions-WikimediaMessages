@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Sloučení uživatelského účtu",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Smazání uživatelského účtu",
 	"wikimedia-usermerge-logpage": "Kniha slučování uživatelů",
-	"wikimedia-usermerge-logpagetext": "Toto je záznam slučování uživatelů."
+	"wikimedia-usermerge-logpagetext": "Toto je záznam slučování uživatelů.",
+	"wikimedia-graph-tracking-category": "Stránky s grafy",
+	"wikimedia-graph-tracking-category-desc": "Tato stránka obsahuje značku <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Stránky s rozbitými grafy",
+	"wikimedia-graph-broken-category-desc": "Tato stránka obsahuje chybně použitou značku <code>&lt;graph&gt;</code>."
 }

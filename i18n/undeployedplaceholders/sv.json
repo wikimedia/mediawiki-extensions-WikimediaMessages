@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Sabelöga",
-			"Lejonel"
+			"Lejonel",
+			"Jon Harald Søby"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|sammanfogade}} användarkontot \"$4\" ($5) med {{GENDER:$8|$6}} ($7)",
@@ -12,5 +13,8 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Radering av användarkonto",
 	"wikimedia-usermerge-logpage": "Användarsammanfogningslogg",
 	"wikimedia-usermerge-logpagetext": "Det här är en logg över sammanfogningar av användarkonton.",
-	"wikimedia-graph-tracking-category": "Sidor med grafer"
+	"wikimedia-graph-tracking-category": "Sidor med grafer",
+	"wikimedia-graph-tracking-category-desc": "Den här sidan innehåller en <code>&lt;graph&gt;</code>-tagg.",
+	"wikimedia-graph-broken-category": "Sidor med trasiga grafer",
+	"wikimedia-graph-broken-category-desc": "Den är sidan innehåller en <code>&lt;graph&gt;</code>-tagg som används felaktigt."
 }

@@ -10,5 +10,9 @@
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Fusão de conta de utilizador",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Eliminação de conta de utilizador",
 	"wikimedia-usermerge-logpage": "Registo de fusão de utilizadores",
-	"wikimedia-usermerge-logpagetext": "Este registo é de operações de fusão de utilizadores."
+	"wikimedia-usermerge-logpagetext": "Este registo é de operações de fusão de utilizadores.",
+	"wikimedia-graph-tracking-category": "Páginas com gráficos",
+	"wikimedia-graph-tracking-category-desc": "A página inclui um elemento <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Páginas com gráficos quebrados",
+	"wikimedia-graph-broken-category-desc": "A página inclui um elemento <code>&lt;graph&gt;</code> com utilização inválida."
 }
