@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kly",
 			"Xiplus"
 		]
 	},
@@ -14,5 +15,7 @@
 	"wikimedia-graph-tracking-category": "有圖表的頁面",
 	"wikimedia-graph-tracking-category-desc": "頁面含有 <code>&lt;graph&gt;</code> 標籤。",
 	"wikimedia-graph-broken-category": "有損壞圖表的頁面",
-	"wikimedia-graph-broken-category-desc": "頁面含有 <code>&lt;graph&gt;</code> 標籤且有無效用法。"
+	"wikimedia-graph-broken-category-desc": "頁面含有 <code>&lt;graph&gt;</code> 標籤且有無效用法。",
+	"wikimedia-graph-disabled-category": "有已停用圖表的頁面",
+	"wikimedia-graph-disabled-category-desc": "此頁面包含一個 <code>&lt;graph&gt;</code> 標籤，該標籤暫時不可用（[[phab:T334940|T33494]]）。"
 }
