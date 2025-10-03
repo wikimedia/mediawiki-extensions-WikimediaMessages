@@ -94,7 +94,7 @@
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Label text containing the agreement that the user is signing by submitting the clickwrap form",
 	"wikimedia-campaignevents-edit-form-questions-pii-notice": "Explanatory text shown in the form on [[Special:EnableEventRegistration]], in the {{msg-mw|campaignevents-edit-form-questions-label}} section, when any of the questions in {{msg-mw|campaignevents-edit-form-questions-pii-label}} has been selected. A custom Wikimedia version of this message: {{msg-mw|Campaignevents-edit-form-questions-pii-notice}}",
 	"wikimedia-oathauth-step1-test": "Text for step 1 on Special:OATH form",
-	"wikimedia-oathauth-hint": "Reminder that users can use recovery tokens if they don't have access to their device or application",
+	"wikimedia-oathauth-recovery-code-hint": "Reminder that users can use recovery tokens if they don't have access to their device or application",
 	"wikimedia-pt-movepage-page-count-limit": "Error message showing when a translation admin attempts to move a page with too many subpages\n\nParameters:\n* $1 – maximum allowed number of subpages to move",
 	"wikimedia-skin-minerva-donate-banner-message": "Title for donation banner that appears in the mobile main menu when open.",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "A donation banner message that appears in the mobile main menu when open.",
