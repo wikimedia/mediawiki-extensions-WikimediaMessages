@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"MathXplore"
+			"MathXplore",
+			"FlatLanguage"
 		]
 	},
 	"wikimedia-log-action-filter-usermerge": "操作の種類:",
