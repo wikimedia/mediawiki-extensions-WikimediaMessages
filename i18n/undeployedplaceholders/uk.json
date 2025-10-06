@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Base"
+			"Base",
+			"Ата"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|об'єднав|об'єднала}} обліковий запис «$4» ($5) з {{GENDER:$8|$6}} ($7)",
@@ -14,5 +15,7 @@
 	"wikimedia-graph-tracking-category": "Сторінки з графіками",
 	"wikimedia-graph-tracking-category-desc": "Сторінка включає тег <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Сторінки зі зламаними графіками",
-	"wikimedia-graph-broken-category-desc": "Сторінка включає неправильно використаний тег <code>&lt;graph&gt;</code>."
+	"wikimedia-graph-broken-category-desc": "Сторінка включає неправильно використаний тег <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-disabled-category": "Сторінки з вимкненими графіками",
+	"wikimedia-graph-disabled-category-desc": "Сторінка містить тег <code>&lt;graph&gt;</code>, який тимчасово недоступний ([[phab:T334940|T334940]])."
 }
