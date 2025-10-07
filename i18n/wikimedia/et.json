@@ -257,6 +257,8 @@
 	"action-edit-legal": "muuta lehekülgi, kui sellel võivad olla õiguslikud tagajärjed",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Jah",
 	"gadget-souspages-subpages": "Alamlehed",
+	"ext-campaignevents-register-policy": "Registreerudes nõustud [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use kasutustingimustega], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy andmekaitsereeglitega], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct üldise käitumisjuhisega] ja korraldajate toodud võimalike sõbraliku ruumi reeglitega.",
+	"ext-campaignevents-registration-form-policy": "Üritused, mida Wikimedia Foundation rahastab või millele Wikimedia Foundation pakub toimumiskohta, peavad pidama kinni kõigist Wikimedia Foundationi reeglitest, kaasa arvatud [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy noorte turvalisust] puudutavatest reeglitest.",
 	"ipinfo-global-contributions-url-label": "Globaalne kaastöö",
 	"wikimedia-help-translate-prompt": "Soovid aidata tõlkida? [$1 Tõlgi puuduvad osad]."
 }
