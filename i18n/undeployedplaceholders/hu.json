@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"Bean49"
+		]
+	},
+	"wikimedia-graph-tracking-category": "Lapok grafikonokkal",
+	"wikimedia-graph-tracking-category-desc": "A lap tartalmaz egy <code>&lt;graph&gt;</code> elemet.",
+	"wikimedia-graph-broken-category": "Lapok hibás grafikonokkal",
+	"wikimedia-graph-broken-category-desc": "A lap tartalmaz egy hibásan használt <code>&lt;graph&gt;</code> elemet.",
+	"wikimedia-graph-disabled-category": "Letiltott grafikont tartalmazó lapok"
+}
