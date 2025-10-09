@@ -14,7 +14,5 @@
 	"hello": "Hej",
 	"please-translate": "Hjälp till att översätta till ditt språk",
 	"thank-you": "{{GENDER:$1|Tack.}}",
-	"specialinvestigate-feedback": "Lämna återkoppling",
-	"graph-disabled-category": "Sidor med inaktiverade grafer",
-	"graph-disabled-category-desc": "Sidan innehåller en<code>&lt;graph&gt;</code>-tagg, som tillfälligt inte är tillgänglig ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Lämna återkoppling"
 }

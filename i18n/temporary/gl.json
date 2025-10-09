@@ -14,7 +14,5 @@
 	"please-translate": "Axuda a traducir á túa lingua",
 	"please-translate-short": "Axuda coas traducións",
 	"thank-you": "{{GENDER:$1|Grazas.}}",
-	"specialinvestigate-feedback": "Deixa comentarios",
-	"graph-disabled-category": "Páxinas cos gráficos desactivados",
-	"graph-disabled-category-desc": "A páxina inclúe unha etiqueta <code>&lt;graph&gt;</code>, que non está dispoñible temporalmente ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Deixa comentarios"
 }

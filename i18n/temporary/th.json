@@ -14,7 +14,5 @@
 	"hello": "สวัสดี",
 	"please-translate": "โปรดช่วยแปลเป็นภาษาไทย",
 	"thank-you": "{{GENDER:$1|ขอบคุณ}}",
-	"specialinvestigate-feedback": "ให้ข้อเสนอแนะ",
-	"graph-disabled-category": "หน้าที่มีกราฟที่ถูกปิดใช้งาน",
-	"graph-disabled-category-desc": "หน้าที่มีแท็ก <code>&lt;graph&gt;</code> ซึ่งไม่พร้อมใช้งานชั่วคราว ([[phab:T334940|T334940]])"
+	"specialinvestigate-feedback": "ให้ข้อเสนอแนะ"
 }

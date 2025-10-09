@@ -11,7 +11,5 @@
 	"please-translate": "Tosengi yo olendisa yo ebongolama na monoko na yo",
 	"please-translate-short": "Lisungi ya kobongola",
 	"thank-you": "{{GENDER:$1|}}Merci.",
-	"specialinvestigate-feedback": "Botika maloba",
-	"graph-disabled-category": "Lokasa oyo ezali na ba graphes oyo ebebi",
-	"graph-disabled-category-desc": "La page comprend une balise <code>&lt;graph&gt;</code>, qui est temporairement indisponible ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Botika maloba"
 }

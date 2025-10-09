@@ -13,7 +13,5 @@
 	"group-oversight": "Supressors",
 	"group-oversight-member": "{{GENDER:$1|supressor|supressora}}",
 	"hello": "Hola",
-	"please-translate": "Si us plau, ajudeu a traduir-ho al vostre idioma",
-	"graph-disabled-category": "Pàgines amb gràfics desactivats",
-	"graph-disabled-category-desc": "La pàgina inclou una etiqueta <code>&lt;graph&gt;</code> que està temporalment desactivada ([[phab:T334940|T334940]])."
+	"please-translate": "Si us plau, ajudeu a traduir-ho al vostre idioma"
 }

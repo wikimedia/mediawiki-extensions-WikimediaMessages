@@ -14,7 +14,5 @@
 	"hello": "Γεια σας",
 	"please-translate": "Παρακαλώ βοηθήστε να γίνει μετάφραση στη γλώσσα σας",
 	"thank-you": "{{GENDER:$1| Ευχαριστώ.}}",
-	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας",
-	"graph-disabled-category": "Σελίδες με απενεργοποιημένα γραφήματα",
-	"graph-disabled-category-desc": "Η σελίδα περιλαμβάνει μια <code>&lt;graph&gt;</code>ετικέτα, η οποία δεν είναι προσωρινά διαθέσιμη ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Αφήστε τα σχόλια σας"
 }

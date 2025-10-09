@@ -15,7 +15,5 @@
 	"hello": "Olá",
 	"please-translate": "Ajude a traduzir para a sua língua, por favor",
 	"thank-you": "{{GENDER:$1|Obrigado}}.",
-	"specialinvestigate-feedback": "Deixar um comentário",
-	"graph-disabled-category": "Páginas com gráficos desativados",
-	"graph-disabled-category-desc": "A página inclui uma etiqueta <code>&lt;graph&gt;</code>, que está temporariamente indisponível ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Deixar um comentário"
 }

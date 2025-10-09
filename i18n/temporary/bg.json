@@ -14,7 +14,5 @@
 	"hello": "Здравейте",
 	"please-translate": "Моля, помогнете с превода на Вашия език",
 	"thank-you": "{{GENDER:$1|Благодаря.}}",
-	"specialinvestigate-feedback": "Оставете коментар",
-	"graph-disabled-category": "Страници със спрени графики",
-	"graph-disabled-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг, който е временно недостъпен ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Оставете коментар"
 }

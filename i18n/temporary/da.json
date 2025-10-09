@@ -12,7 +12,5 @@
 	"please-translate": "Hjælp venligst med at oversætte til dit sprog",
 	"please-translate-short": "Hjælp til med at oversætte",
 	"thank-you": "{{GENDER:$1|Tak.}}",
-	"specialinvestigate-feedback": "Giv tilbagemelding",
-	"graph-disabled-category": "Sider med deaktiverede grafer",
-	"graph-disabled-category-desc": "Siden indeholder et <code>&lt;graph&gt;</code>-tag, som midlertidigt ikke er tilgængeligt ([[phab:T334940|334940]])."
+	"specialinvestigate-feedback": "Giv tilbagemelding"
 }

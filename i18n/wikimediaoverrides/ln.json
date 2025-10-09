@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"BOKOBA VEROLY"
-		]
-	},
-	"wikimedia-centralauth-sul3-oathmanage-sitenotice-local": "Ba wikis ya Wikimedia babongwani mpo na kosalela esika ya bosolo (auth.wikimedia.org). Ba passe ya authentication ya web esengeli kotambwisama na esika moko oyo basalelaka yango mpo na kokota. Mpo na kofungola ba passe ya sika ya WebAuthn, tyá [$1 domaine central].",
-	"wikimedia-centralauth-sul3-oathmanage-sitenotice-central": "Ba wikis ya Wikimedia babongwani mpo na kosalela esika ya bosolo (auth.wikimedia.org). Ba passe ya Authentication ya internet oyo ezali ekoki kobongisama kaka na esika moko oyo babongisaki yango na ebandeli. Mpo na kolongola ba passe ya kala ya WebAuthn oyo esalamaki liboso auth.wikimedia.org ebima, tyá [$1 domaine local]."
-}

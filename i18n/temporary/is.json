@@ -6,7 +6,5 @@
 			"Stefán Örvar Sigmundsson"
 		]
 	},
-	"thank-you": "{{GENDER:$1|Takk fyrir.}}",
-	"graph-disabled-category": "Síður með óvirkjuð gröf",
-	"graph-disabled-category-desc": "Síðan inniheldur <code>&lt;graph&gt;</code>-merki, sem er ekki tiltækt tímabundið ([[phab:T334940|T334940]])."
+	"thank-you": "{{GENDER:$1|Takk fyrir.}}"
 }

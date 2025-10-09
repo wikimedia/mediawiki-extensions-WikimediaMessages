@@ -10,7 +10,5 @@
 	"hello": "မ္ၚဵုရအဴ",
 	"please-translate": "သ္ပဂုန်တုဲမကၠာဲစုတ်ကဵု နကဵုအရေဝ်ဘာသာဇကုညိအဴ",
 	"thank-you": "{{GENDER:$1|တၚ်ဂုန်ရအဴ။}}",
-	"specialinvestigate-feedback": "ပရေၚ်ကဵုကသပ်မသှ်ေအာ",
-	"graph-disabled-category": "မုက်လိက်မနွံကဵုပၞောန်တၟာတ်ထောံလဝ်ဂမၠိုၚ်",
-	"graph-disabled-category-desc": "မုက်လိက်တဏအ်ဝွံလုပ်အဝေါၚ်ကဵုချူထပ်စုတ်<code>&lt;graph&gt;</code>ဂမၠိုၚ်၊ နကဵု ([[phab:T334940|T334940]]) ဏံဝွံမရပ်စပ်သုၚ်စောဲမွဲချိုန်ခဏဟွံဂွံမာန်။"
+	"specialinvestigate-feedback": "ပရေၚ်ကဵုကသပ်မသှ်ေအာ"
 }

@@ -17,7 +17,5 @@
 	"hello": "Привіт",
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
 	"thank-you": "{{GENDER:$1|Дякуємо.}}",
-	"specialinvestigate-feedback": "Залишити відгук",
-	"graph-disabled-category": "Сторінки з вимкненими графіками",
-	"graph-disabled-category-desc": "Сторінка містить тег <code>&lt;graph&gt;</code>, який тимчасово недоступний ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Залишити відгук"
 }

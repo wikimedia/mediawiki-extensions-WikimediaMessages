@@ -15,7 +15,5 @@
 	"please-translate": "Zəhmət olmasa dilinizə tərcümə etməyə kömək edin",
 	"please-translate-short": "Tərcüməyə kömək edin",
 	"thank-you": "{{GENDER:$1|Təşəkkürlər.}}",
-	"specialinvestigate-feedback": "Fikrinizi bildirin",
-	"graph-disabled-category": "Söndürülmüş qrafik olan səhifələr",
-	"graph-disabled-category-desc": "Bu səhifə hal-hazırda söndürülmüş ([[phab:T334940|T334940]]) <code>&lt;graph&gt;</code> teqini ehtiva edir."
+	"specialinvestigate-feedback": "Fikrinizi bildirin"
 }

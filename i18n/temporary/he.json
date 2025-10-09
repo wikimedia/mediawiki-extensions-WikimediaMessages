@@ -16,7 +16,5 @@
 	"please-translate": "אנא סייעו בתרגום הדף",
 	"please-translate-short": "עזרו לנו לתרגם",
 	"thank-you": "{{GENDER:$1|תודה רבה.}}",
-	"specialinvestigate-feedback": "תנו לנו משוב",
-	"graph-disabled-category": "דפים עם תרשימים כבויים",
-	"graph-disabled-category-desc": "הדף מכיל תג <code>&lt;graph&gt;</code>, שאינו פעיל זמנית (ר' [[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "תנו לנו משוב"
 }

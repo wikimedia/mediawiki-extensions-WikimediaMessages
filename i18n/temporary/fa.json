@@ -17,7 +17,5 @@
 	"hello": "سلام",
 	"please-translate": "لطفاً برای ترجمه به زبان مادریتان کمک کنید",
 	"thank-you": "{{GENDER:$1|ممنون.}}",
-	"specialinvestigate-feedback": "بازخورد بگذارید",
-	"graph-disabled-category": "صفحه‌های دارای نمودارهای غیرفعال",
-	"graph-disabled-category-desc": "صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> است، که موقتاً در دسترس نیست ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "بازخورد بگذارید"
 }

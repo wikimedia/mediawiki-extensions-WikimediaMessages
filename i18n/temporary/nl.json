@@ -19,7 +19,5 @@
 	"please-translate": "Help met het vertalen in uw taal",
 	"please-translate-short": "Helpen met vertalen",
 	"thank-you": "{{GENDER:$1|Dank u.}}",
-	"specialinvestigate-feedback": "Terugkoppeling geven",
-	"graph-disabled-category": "Pagina's met uitgeschakelde grafieken",
-	"graph-disabled-category-desc": "Deze pagina bevat een <code>&lt;graph&gt;</code>-tag. Deze tag is tijdelijk niet beschikbaar ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Terugkoppeling geven"
 }

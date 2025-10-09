@@ -17,7 +17,5 @@
 	"please-translate": "Lütfen kendi dilinize çevirmeye yardım edin.",
 	"please-translate-short": "Çeviriye yardım edin",
 	"thank-you": "{{GENDER:$1|Teşekkürler.}}",
-	"specialinvestigate-feedback": "Geri Bildirim Bırak",
-	"graph-disabled-category": "Grafikleri devre dışı bırakılmış sayfalar",
-	"graph-disabled-category-desc": "Bu sayfa geçici olarak mevcut olmayan <code>&lt;graph&gt;</code> etiketi içeriyor ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Geri Bildirim Bırak"
 }

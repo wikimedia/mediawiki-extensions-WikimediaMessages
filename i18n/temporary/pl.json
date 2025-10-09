@@ -21,7 +21,5 @@
 	"please-translate": "Pomóż przetłumaczyć na Twój język",
 	"please-translate-short": "Pomóż w tłumaczeniu",
 	"thank-you": "{{GENDER:$1|Dziękuję.}}",
-	"specialinvestigate-feedback": "Zostaw opinię",
-	"graph-disabled-category": "Strony z zablokowanymi wykresami",
-	"graph-disabled-category-desc": "Strona zawiera znacznik <code>&lt;graph&gt;</code>, który jest chwilowo niedostępny ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Zostaw opinię"
 }

@@ -19,7 +19,5 @@
 	"please-translate": "請協助翻譯成您使用的語言",
 	"please-translate-short": "協助翻譯",
 	"thank-you": "{{GENDER:$1|感謝您。}}",
-	"specialinvestigate-feedback": "留下意見回饋",
-	"graph-disabled-category": "含有暫時停用圖表的頁面",
-	"graph-disabled-category-desc": "頁面含有 <code>&lt;graph&gt;</code> 標籤，暫時不可用（[[phab:T334940|T334940]]）。"
+	"specialinvestigate-feedback": "留下意見回饋"
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Ericliu1912",
 			"Lakejason0",
 			"Stang",
 			"沈澄心"
@@ -16,5 +17,6 @@
 	"wikimedia-graph-tracking-category": "有图表的页面",
 	"wikimedia-graph-tracking-category-desc": "页面包含<code>&lt;graph&gt;</code>标签。",
 	"wikimedia-graph-broken-category": "有损坏图表的页面",
-	"wikimedia-graph-broken-category-desc": "页面包含无效用法的<code>&lt;graph&gt;</code>标签。"
+	"wikimedia-graph-broken-category-desc": "页面包含无效用法的<code>&lt;graph&gt;</code>标签。",
+	"wikimedia-graph-disabled-category": "有已停用图表的页面"
 }

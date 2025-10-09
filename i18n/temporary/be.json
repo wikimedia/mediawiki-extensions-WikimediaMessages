@@ -14,7 +14,5 @@
 	"hello": "Прывітанне",
 	"please-translate": "Калі ласка, дапамажыце перакласці на Вашу мову",
 	"thank-you": "{{GENDER:$1|Дзякуй.}}",
-	"specialinvestigate-feedback": "Пакінуць Водгук",
-	"graph-disabled-category": "Старонкі з адключанымі графікамі",
-	"graph-disabled-category-desc": "Старонка змяшчае тэг <code>&lt;graph&gt;</code>, які часова не працуе ([[phab:T334940|T334940]])."
+	"specialinvestigate-feedback": "Пакінуць Водгук"
 }
