@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Soul Train"
-		]
-	},
-	"graph-disabled-category": "Хкуднавай графикар авай чинар",
-	"graph-disabled-category-desc": "И чина исятда кӀвалах тийизвай <code>&lt;graph&gt;</code> тег ишлемишзава ([[phab:T334940|T334940]])."
-}
