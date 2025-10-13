@@ -25,7 +25,8 @@
 			"Matma Rex",
 			"Əkrəm Cəfər",
 			"Əkrəm",
-			"Samoasambia"
+			"Samoasambia",
+			"Gadir"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedia xüsusi mesajları",
@@ -226,7 +227,7 @@
 	"wikibase-sitelinks-wiktionary": "Vikilüğət",
 	"wikibase-otherprojects-commons": "Vikianbar",
 	"wikibase-otherprojects-testwikidata": "Vikidata",
-	"wikibase-otherprojects-mediawiki": "MediaViki",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Viki",
 	"wikibase-otherprojects-outreach": "Vikimedia Maarifləndirmə",
 	"wikibase-otherprojects-sources": "Çoxdilli Vikimənbə",
@@ -242,7 +243,7 @@
 	"wikibase-otherprojects-wiktionary": "Vikilüğət",
 	"wikibase-otherprojects-wikimania": "Vikimaniya",
 	"wikibase-sitelinks-sitename-commonswiki": "Vikianbar",
-	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaViki",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Viki",
 	"wikibase-sitelinks-sitename-sourceswiki": "Çoxdilli Vikimənbə",
 	"wikibase-sitelinks-sitename-species": "Vikinövlər",

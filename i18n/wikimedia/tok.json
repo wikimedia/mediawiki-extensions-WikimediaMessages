@@ -8,22 +8,27 @@
 			"Keenan Pepper",
 			"Varnent",
 			"Juwan",
-			"Tamzin"
+			"Tamzin",
+			"Ne"
 		]
 	},
 	"sitesupport": "o pana e mani",
+	"tooltip-n-sitesupport": "o pana e mani tawa mi",
 	"shared-repo-name-shared": "lipu Wikimesija pi ijo kulupu",
 	"wikibase-repo-name": "lipu Wikitata",
+	"wikibase-page-schema-publisher-name": "kulupu Wikimesija",
 	"wikibase-sitelinks-wikinews": "lipu Wikinews",
 	"wikibase-sitelinks-wikiquote": "lipu Wikiquote",
 	"wikibase-sitelinks-wikisource": "lipu Wikisource",
 	"wikibase-sitelinks-wikivoyage": "lipu Wikivoyage",
 	"wikibase-otherprojects-testwikidata": "lipu Wikitata",
+	"wikibase-otherprojects-mediawiki": "lipu MesijaWiki",
 	"wikibase-otherprojects-wikidata": "lipu Wikitata",
 	"wikibase-otherprojects-wikipedia": "lipu Wikipesija",
 	"wikibase-sitelinks-sitename-wikidatawiki": "lipu Wikitata",
 	"wikimedia-developers": "jan pi pali ilo",
 	"interlanguage-link-wikipedia": "lipu Wikipesija",
+	"interlanguage-link-sitename-wikipedia": "lipu sona open Wikipesija",
 	"wikimedia-statslink": "nanpa",
 	"wikimedia-cookiestatement": "lipu lawa pi nanpa sona alasa"
 }
