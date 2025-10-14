@@ -55,7 +55,8 @@
 			"Mohammed Qays",
 			"جودت",
 			"Jsn.sherman",
-			"Mdktb"
+			"Mdktb",
+			"Jdforrester"
 		]
 	},
 	"wikimediamessages-desc": "رسائل ويكيميديا المحددة",
@@ -145,7 +146,7 @@
 	"group-interface-editor-member": "{{GENDER:$1|محرر الواجهة}}",
 	"grouppage-interface-editor": "{{ns:project}}:محرّرو الواجهة",
 	"group-ipblock-exempt": "مستثنون من منع الأيبي",
-	"group-ipblock-exempt-member": "{{GENDER:$1|مستثنى|مستثناة}} من حظر الآيبي",
+	"group-ipblock-exempt-member": "{{GENDER:$1|مستثنى|مستثناة}} من منع الآيبي",
 	"grouppage-ipblock-exempt": "{{ns:project}}:استثناء من منع الأيبي",
 	"group-ipblock-exempt-grantor": "مانحو إعفاء IP من الاستثناءات الجماعية",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|مانح إعفاء كتلة IP }}",

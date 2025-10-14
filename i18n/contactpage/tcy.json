@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vishwanatha Badikana"
+			"Vishwanatha Badikana",
+			"ChiK"
 		]
 	},
 	"contactpage-license-request-title": "ಸೀರ್ಸಿಕೆ(ಅನ್ವಯೊ ಆಪುಂಡ)",
 	"contactpage-license-request-organization": "ಸಂಸ್ಥೆ(ಅನ್ವಯ ಆಪುಂಡ)",
-	"contactpage-license-request-organization-type": "ಸಂಸ್ಥೆದ ಇದೊ(ಅನ್ವಯ ಆಪುಂಡ)"
+	"contactpage-license-request-organization-type": "ಸಂಸ್ಥೆದ ಇದೊ(ಅನ್ವಯ ಆಪುಂಡ)",
+	"contactpage-wikimedia-trademark-mediawiki": "ಮೀಡಿಯಾವಿಕಿ"
 }

@@ -190,6 +190,8 @@
 	"group-translationadmin": "Oversettelsesadministratorer",
 	"group-translationadmin-member": "{{GENDER:$1|oversettelsesadministrator}}",
 	"grouppage-translationadmin": "{{ns:project}}:Oversettelsesadministratorer",
+	"group-u4c-member": "U4C-medlemmer",
+	"group-u4c-member-member": "{{GENDER:$1|U4C-medlem}}",
 	"group-vrt-permissions": "VRT-tillatelsesagenter",
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT-tillatelsesagent}}",
 	"group-wmf-officeit": "WMF IT-kontor",

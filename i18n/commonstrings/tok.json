@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Faian36",
-			"Ookap"
+			"Ookap",
+			"Juwan"
 		]
 	},
 	"wm-commonstrings-aboutme": "sona mi",
@@ -18,7 +19,7 @@
 	"wm-commonstrings-please-remember": "o sona e ni: $1",
 	"wm-commonstrings-purpose": "wile",
 	"wm-commonstrings-seealso": "sona ante",
-	"wm-commonstrings-shortcut": "nimi lili",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|nimi lili}}",
 	"wm-commonstrings-staff": "kulupu suli",
 	"wm-commonstrings-talktous": "o toki tawa mi",
 	"wm-commonstrings-updates": "ijo sin"
