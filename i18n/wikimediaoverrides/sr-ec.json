@@ -8,7 +8,7 @@
 			"Obsuser"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Посетиоци овом викију са Ваше тренутне IP адресе су већ направили {{PLURAL:$1|1 налог|$1 налога}} у 24h, што је максимум за наведени период.\nКао последица тога посетиоци са ове IP адресе тренутно не могу правити нове налоге.\n\nАко сте на догађају где је фокус на уређивању Викимедијиних пројеката, молимо погледајте [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] за помоћ.",
+	"wikimedia-acct_creation_throttle_hit": "Посетиоци овом викију са Ваше тренутне IP адресе су већ направили {{PLURAL:$1|1 налог|$1 налога}} у $2, што је максимум за наведени период.\nКао последица тога посетиоци са ове IP адресе тренутно не могу правити нове налоге.\n\nАко сте на догађају где је фокус на уређивању Викимедијиних пројеката, молимо погледајте [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] за помоћ.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помоћ око избора)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Затражите налог]]",
 	"wikimedia-centralauth-groupname": "Задужбине Викимедије",

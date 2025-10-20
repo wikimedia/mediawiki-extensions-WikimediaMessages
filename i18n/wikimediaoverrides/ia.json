@@ -4,7 +4,7 @@
 			"McDutchie"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Visitantes a iste wiki usante tu adresse IP ha create $1 conto{{PLURAL:$1||s}} in le ultime die, le qual es le maximo permittite in iste periodo de tempore.\nComo resultato, visitantes usante iste adresse IP non pote crear plus contos in iste momento.\n\nSi tu participa in un evento que se concentra a contribuer a projectos Wikimedia, per favor consulta [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Sollicitar le suspension temporanee del limite de contos per IP]] pro resolver iste problema.",
+	"wikimedia-acct_creation_throttle_hit": "Visitantes a iste wiki usante tu adresse IP ha create $1 conto{{PLURAL:$1||s}} in le ultime $2, le qual es le maximo permittite in iste periodo de tempore.\nComo resultato, visitantes usante iste adresse IP non pote crear plus contos in iste momento.\n\nSi tu participa in un evento que se concentra a contribuer a projectos Wikimedia, per favor consulta [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Sollicitar le suspension temporanee del limite de contos per IP]] pro resolver iste problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(adjuta me a eliger)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Tu pote visitar tu pagina de Preferentias in [[m:Special:CentralAuth/$1|altere projectos Wikimedia ubi tu ha contribuite]] pro discargar tu datos de conto de iste projectos.",
 	"wikimedia-createacct-imgcaptcha-help": "Non pote vider le imagine? [[{{MediaWiki:createacct-captcha-help-url}}|Requestar un conto]]",

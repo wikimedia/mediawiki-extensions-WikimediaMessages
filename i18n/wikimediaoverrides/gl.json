@@ -8,7 +8,7 @@
 			"Toliño"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Os visitantes deste wiki crearon {{PLURAL:$1|1 conta|$1 contas}} no último día usando o teu enderezo IP, que é o máximo permitido nese período de tempo.\nComo resultado, os visitantes que usan ese enderezo IP non poden crear ningunha conta máis polo de agora.\n\nSe estás nun evento centrado en facer achegas aos proxectos da Wikimedia, consulta a páxina de [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|solicitudes de eliminación temporal das limitacións por IP]] para obter axuda sobre como resolver este problema.",
+	"wikimedia-acct_creation_throttle_hit": "Os visitantes deste wiki crearon {{PLURAL:$1|1 conta|$1 contas}} no último período de $2 usando o teu enderezo IP, que é o máximo permitido nese período de tempo.\nComo resultado, os visitantes que usan ese enderezo IP non poden crear ningunha conta máis polo de agora.\n\nSe estás nun evento centrado en facer achegas aos proxectos da Wikimedia, consulta a páxina de [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|solicitudes de eliminación temporal das limitacións por IP]] para obter axuda sobre como resolver este problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(axudádeme a elixir)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Podes visitar a túa páxina de preferencias [[m:Special:CentralAuth/$1|noutros proxectos da Wikimedia nos que contribuíches]] para descargares os datos da túa conta neses proxectos.",
 	"wikimedia-createacct-imgcaptcha-help": "Non podes ver a imaxe? [[{{MediaWiki:createacct-captcha-help-url}}|Solicita unha conta]]",

@@ -15,7 +15,7 @@
 			"WhatamIdoing"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Bezoekers van deze wiki hebben met uw IP-adres {{PLURAL:$1|1 gebruiker|$1 gebruikers}} in de afgelopen 24 uur aangemaakt, wat het maximum aantal is voor deze tijdsperiode.\nAls resultaat kunnen bezoekers met dit IP-adres niet meer gebruikers aanmaken op dit moment.\n\nIndien u zich op een event bevind waar gefocust wordt op bijdragen aan Wikimedia projecten, zie dan  [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Tijdelijke ontziening van de IP-cap]] voor hulp bij het oplossen van dit probleem.",
+	"wikimedia-acct_creation_throttle_hit": "Bezoekers van deze wiki hebben in de afgelopen $2 vanaf uw IP-adres {{PLURAL:$1|één account|$1 accounts}} aangemaakt, wat het maximale aantal is voor deze tijdsperiode.\nDaarom kunnen bezoekers vanaf dit IP-adres op dit moment geen andere accounts meer aanmaken.\n\nAls u aanwezig bent bij een evenement waarbij de nadruk ligt op het bijdragen aan Wikimedia-projecten, zie dan [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Tijdelijke ontheffing van de IP-limiet]] voor hulp bij het oplossen van dit probleem.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mij met kiezen)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Bezoek uw voorkeuren op [[m:Special:CentralAuth/$1|ander Wikimedia projecten waar u hebt bijgedragen]] om uw accountgegevens van die projecten te downloaden.",
 	"wikimedia-createacct-imgcaptcha-help": "Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een gebruiker aan]]",

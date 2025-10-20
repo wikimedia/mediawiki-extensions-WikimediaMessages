@@ -29,7 +29,7 @@
 			"ꠢꠣꠍꠘ ꠞꠣꠎꠣ"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Les visiteurs de ce wiki utilisant votre adresse IP ont créé $1 compte{{PLURAL:$1||s}} lors de cette dernière journée, ce qui est le maximum autorisé pour cette période de temps. Par conséquent, les visiteurs utilisant cette adresse IP ne peuvent plus pour l’instant créer de compte.\n\nSi vous participez à un événement qui a pour but de contribuer aux projets de Wikimedia, veuillez voir [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Demander la levée temporaire de la limitation IP]] pour aider à résoudre ce problème.",
+	"wikimedia-acct_creation_throttle_hit": "Les visiteurs de ce wiki utilisant votre adresse IP ont créé $1 compte{{PLURAL:$1||s}} lors de cette dernière période de $2, ce qui est le maximum autorisé pour cette période de temps. Par conséquent, les visiteurs utilisant cette adresse IP ne peuvent plus pour l’instant créer de compte.\n\nSi vous participez à un événement qui a pour but de contribuer aux projets de Wikimedia, veuillez voir [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Demander la levée temporaire de la limitation IP]] pour aider à résoudre ce problème.",
 	"wikimedia-createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|aidez-moi à choisir]])",
 	"wikimedia-prefs-user-downloaddata-help-message": "Vous pouvez visiter votre page de Préférences sur les [[m:Special:CentralAuth/$1|autres projets de Wikimédia où vous avez contribué]] afin de télécharger les données de vos comptes sur ces projets.",
 	"wikimedia-createacct-imgcaptcha-help": "Vous ne pouvez pas voir l'image ? [[{{MediaWiki:createacct-captcha-help-url}}|Demandez la création d'un compte]]",
