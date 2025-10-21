@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Can",
-			"Hedda"
+			"Hedda",
+			"Pedian4169"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1, \"$4\" ($5) kullanıcı hesabını {{GENDER:$8|$6}} ($7) kullanıcısıyla {{GENDER:$2|birleştirdi}}",
@@ -15,5 +16,6 @@
 	"wikimedia-graph-tracking-category": "Grafikli sayfalar",
 	"wikimedia-graph-tracking-category-desc": "Sayfa bir <code>&lt;graph&gt;</code> etiketi içerir.",
 	"wikimedia-graph-broken-category": "Grafikleri bozuk sayfalar",
-	"wikimedia-graph-broken-category-desc": "Sayfa, geçersiz kullanıma sahip bir <code>&lt;graph&gt;</code> etiketi içeriyor."
+	"wikimedia-graph-broken-category-desc": "Sayfa, geçersiz kullanıma sahip bir <code>&lt;graph&gt;</code> etiketi içeriyor.",
+	"wikimedia-graph-disabled-category": "Grafikleri devre dışı bırakılmış sayfalar"
 }
