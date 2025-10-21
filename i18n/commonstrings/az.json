@@ -37,7 +37,7 @@
 	"wm-commonstrings-questions": "Suallar?",
 	"wm-commonstrings-register-account": "Hesabı qeydiyyatdan keçirin",
 	"wm-commonstrings-reports": "Hesabatlar",
-	"wm-commonstrings-resolutions": "{{PLURAL:$1|Qətnamələr}}",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Qətnamə|Qətnamələr}}",
 	"wm-commonstrings-scope": "Əhatə dairəsi",
 	"wm-commonstrings-seealso": "Həmçinin bax",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Qısayol|Qısayollar}}",

@@ -336,6 +336,7 @@
 	"gadget-curidlink-link-by-id": "আইডি দ্বারা লিঙ্ক করুন",
 	"gadget-curidlink-link-by-id-desc": "এটির ID দ্বারা এই পৃষ্ঠার লিংক দেখান",
 	"gadget-souspages-subpages": "উপপাতাসমূহ",
+	"ext-campaignevents-register-policy": "নিবন্ধন করার মাধ্যমে, আপনি [https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn ব্যবহারের শর্তাবলী], [https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn গোপনীয়তার নীতি], [https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/bn সর্বজনীন আচরণবিধি], এবং ইভেন্ট আয়োজকদের দ্বারা প্রদত্ত যেকোনো স্থানীয় বন্ধুত্বপূর্ণ স্থানের নীতিমালার সাথে সম্মত হচ্ছেন।",
 	"ext-quicksurveys-similareditors-survey-privacy-policy": "আরও তথ্যের জন্য, এই জরিপের [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement গোপনীয়তার বিবৃতি] দেখুন।",
 	"readinglists-import-app": "এই পঠন তালিকাটি আমদানি করতে, উইকিপিডিয়া অ্যাপের সর্বশেষ সংস্করণটি ইনস্টল করুন:",
 	"readinglists-import-app-with-link": "উইকিপিডিয়া অ্যাপটির সর্বশেষ সংস্করণ [$1 ডাউনলোড করুন] এবং ইনস্টল করুন:",
