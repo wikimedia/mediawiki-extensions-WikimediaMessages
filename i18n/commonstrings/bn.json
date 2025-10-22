@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Varnent",
-			"আফতাবুজ্জামান"
+			"আফতাবুজ্জামান",
+			"আজিজ"
 		]
 	},
 	"wm-commonstrings-aboutme": "আমার সম্পর্কে",
@@ -19,6 +20,7 @@
 	"wm-commonstrings-follow": "অনুসরণ করুন",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|প্রধান পাতা: $1}}",
 	"wm-commonstrings-mywork": "আমার কাজ",
+	"wm-commonstrings-news-events": "খবর এবং আয়োজন",
 	"wm-commonstrings-noticeboard": "আলোচনাসভা",
 	"wm-commonstrings-objectives": "উদ্দেশ্য",
 	"wm-commonstrings-ongoing": "চলমান",
@@ -27,6 +29,7 @@
 	"wm-commonstrings-participate": "অংশগ্রহন করুন",
 	"wm-commonstrings-please-remember": "নিম্নলিখিত বিষয়গুলি অনুগ্রহপূর্বক খেয়াল রাখুন: $1",
 	"wm-commonstrings-policies-guidelines": "নীতি ও নির্দেশিকা",
+	"wm-commonstrings-projects-collaborations": "প্রকল্প এবং সহযোগিতা",
 	"wm-commonstrings-purpose": "উদ্দেশ্য",
 	"wm-commonstrings-questions": "প্রশ্ন?",
 	"wm-commonstrings-register-account": "অ্যাকাউন্ট নিবন্ধন করুন",

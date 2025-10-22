@@ -29,7 +29,8 @@
 			"Samoasambia",
 			"Varnent",
 			"Veracious",
-			"William Surya Permana"
+			"William Surya Permana",
+			"Hidayatsrf"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan spesifik Wikimedia",
@@ -238,7 +239,7 @@
 	"mediawiki.org-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] dan [https://www.gnu.org/licenses/fdl.html GFDL], atau untuk halaman ruang nama Bantuan:, [https://creativecommons.org/publicdomain/zero/1.0/ CC0]",
 	"wikidata-copyright-footer": "Semua data terstruktur dari ruang nama utama, Properti, Lexeme, dan EntitySchema tersedia di bawah [//creativecommons.org/publicdomain/zero/1.0/ Lisensi Creative Commons CC0]; teks di ruang nama lain tersedia di bawah [//creativecommons.org/licenses/by-sa/4.0/ Lisensi Atribusi-BerbagiSerupa Creative Commons]; persyaratan tambahan mungkin berlaku. Dengan menggunakan situs ini, Anda menyetujui [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ketentuan Penggunaan] dan [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Kebijakan Privasi].",
 	"wikidata-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0]",
-	"wikimedia-copyrightwarning": "Dengan menerbitkan perubahan ini, Anda setuju untuk tunduk pada [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ketentuan Penggunaan], dan Anda setuju untuk melepaskan kontribusi Anda tanpa syarat di bawah lisensi [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] dan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAnda setuju bahwa pranala ''hyper'' atau URL adalah suatu atribusi yang memadai di bawah lisensi Creative Commons.",
+	"wikimedia-copyrightwarning": "Dengan menerbitkan perubahan ini, Anda setuju untuk tunduk pada [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ketentuan Penggunaan], dan Anda setuju untuk melepaskan kontribusi Anda tanpa syarat di bawah lisensi [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] dan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAnda setuju bahwa hipertaut atau URL adalah suatu atribusi yang memadai di bawah lisensi Creative Commons.",
 	"wikimedia-copyrightwarning-ccbysa40only": "Dengan menyimpan perubahan, Anda menyetujui [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], dan Anda setuju untuk melepaskan kontribusi Anda di bawah [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License].\nAnda setuju bahwa hyperlink atau URL adalah atribusi yang memadai di bawah lisensi Creative Commons.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ Lisensi CC BY-SA 4.0] dan [https://id.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] dan [https://www.gnu.org/licenses/fdl.html GFDL]",

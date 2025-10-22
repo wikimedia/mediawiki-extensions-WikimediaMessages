@@ -25,7 +25,8 @@
 			"Zpizza",
 			"Şeyx Şamil",
 			"Əkrəm",
-			"Əkrəm Cəfər"
+			"Əkrəm Cəfər",
+			"Gadir"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedia xüsusi mesajları",
@@ -259,7 +260,7 @@
 	"wikibase-otherprojects-commons": "Vikianbar",
 	"wikibase-otherprojects-foundation": "Vikimedia Fondu",
 	"wikibase-otherprojects-testwikidata": "Vikidata",
-	"wikibase-otherprojects-mediawiki": "MediaViki",
+	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Viki",
 	"wikibase-otherprojects-outreach": "Vikimedia Maarifləndirmə",
 	"wikibase-otherprojects-sources": "Çoxdilli Vikimənbə",
@@ -278,7 +279,7 @@
 	"wikibase-otherprojects-wiktionary": "Vikilüğət",
 	"wikibase-otherprojects-wikimania": "Vikimaniya",
 	"wikibase-sitelinks-sitename-commonswiki": "Vikianbar",
-	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaViki",
+	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Viki",
 	"wikibase-sitelinks-sitename-outreachwiki": "Maarifləndirmə",
 	"wikibase-sitelinks-sitename-sourceswiki": "Çoxdilli Vikimənbə",
