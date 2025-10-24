@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Misbahu umar",
+			"SaldırganSincap",
 			"Umar Ahmad2345"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "Yeda danbo ya zhizhe,gingan toh/koma\nyiyetswa nyan daka nana dan gwata ganmin\n'\"[[{{int:wm-license-gtdl-wiki-link}}|GNU free\nDocumentation License]]\"'\n, Version 2 koma version\nndondo nan ga be tinya gwata [[{{int:wm-licensegtdl-wiki-link}}|free\nsoftware Foundation]];babu efo\nzhi,babu nyanka bango,koma nyanka Zuma daka.\nnyankaci dozhi yeda nana dan efo nan de sunna\n\"[[{{int:wm-license- gfdl-full-1.2-link}}|GNU free\nDocumentation License]]''.",
+	"wm-license-gfdl-1.2-and-later": "Yeda danbo ya zhizhe,gingan toh/koma yiyetswa nyan daka nana dan gwata ganmin\n'''[[{{int:wm-license-gfdl-wiki-link}}|GNU free Documentation License]]''', Version 2 koma version ndondo nan ga be tinya gwata [[{{int:wm-license-fsf-wiki-link}}|free software Foundation]]; babu efo zhi, babu nyanka bango, koma nyanka Zuma daka. Nyankaci dozhi yeda nana dan efo nan de sunna ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
 	"wm-license-information-description": "Yeji",
 	"wm-license-information-source": "Gbere",
 	"wm-license-information-date": "Efo",

@@ -3,7 +3,8 @@
 		"authors": [
 			"Brettchenweber",
 			"Lyzzy",
-			"Metalhead64"
+			"Metalhead64",
+			"SaldırganSincap"
 		]
 	},
 	"contactpage-title-requestlicense": "Formular zum Anfordern einer Lizenz",
@@ -49,7 +50,7 @@
 	"contactpage-affcom-user-group-logo-community": "Wikimedia-Gemeinschaftslogo",
 	"contactpage-affcom-user-group-logo-affiliate": "Logo einer Wikimedia-Organisation",
 	"contactpage-affcom-user-group-intent-letter-label": "''Absichtserklärung''' \n*Als Gruppe musst du unabhängig von anderen Wikimedia-Organisationen sein. Bitte stelle einen Link zur öffentlichen Absichtserklärung deiner Gruppe für alle betroffenen/überlappenden Wikimedia-Projekte und angeschlossenen Bewegungen zur Verfügung. Wenn du noch keine Absichtserklärung hast, kannst du diesen [[Special:MyLanguage/Wikimedia Foundation Affiliates Strategy/Implementation/User Group recognition process/Letter of intent example|Mustertext]] verwenden.",
-	"contactpage-affcom-user-group-application-note": "'''Nachdem du diesen Antrag eingereicht hast, wird das [[Special:MyLanguage/Affiliations_Committee|Affiliations Committee]] ihn prüfen und dir Empfehlungen für erforderliche Maßnahmen geben.",
+	"contactpage-affcom-user-group-application-note": "'''Nachdem du diesen Antrag eingereicht hast, wird das [[Special:MyLanguage/Affiliations_Committee|Affiliations Committee]] ihn prüfen und dir Empfehlungen für erforderliche Maßnahmen geben.'''",
 	"contactpage-affcom-user-group-fromname": "'''Grundlegende Informationen'''\n* Dein Name",
 	"contactpage-title-affcomchapthorg": "Beantragung des Status eines Chapters/einer thematischen Organisation",
 	"contactpage-affcom-chapter-thorg-application-type-label": "Wähle unten die Art der Bewerbung deiner Gruppe",
