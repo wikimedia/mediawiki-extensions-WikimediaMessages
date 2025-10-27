@@ -82,6 +82,7 @@
 	"grouppage-eliminator": "{{ns:project}}:Одстрањивачи",
 	"group-eventcoordinator": "Координатори догађаја",
 	"group-eventcoordinator-member": "{{GENDER:$1|координатор|координаторка}} догађаја",
+	"group-eventparticipant": "Учесници догађаја",
 	"group-eventparticipant-member": "{{GENDER:$1|учесник|учесница}} догађаја",
 	"group-filemover": "Премештачи датотека",
 	"group-filemover-member": "{{GENDER:$1|премештач датотека}}",

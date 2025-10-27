@@ -46,7 +46,8 @@
 			"Darafsh",
 			"Ebrahim",
 			"Arasteh",
-			"Jdforrester"
+			"Jdforrester",
+			"LordProfo"
 		]
 	},
 	"wikimediamessages-desc": "پیام‌های مخصوص ویکی‌مدیا",
@@ -194,7 +195,7 @@
 	"group-global-renamer": "تغییرنام‌دهنده‌های سراسری",
 	"group-global-renamer-member": "{{GENDER:$1|تغییرنام‌دهنده سراسری}}",
 	"grouppage-global-renamer": "m:تغییرنام‌دهنده‌های سراسری",
-	"group-global-rollbacker": "واگردانی‌کنندگان سراسری",
+	"group-global-rollbacker": "واگردانان سراسری",
 	"group-global-rollbacker-member": "{{GENDER:$1|واگردانی‌کنندهٔ سراسری}}",
 	"grouppage-global-rollbacker": "m:Global rollback/fa",
 	"group-global-sysop": "مدیران سراسری",
@@ -213,8 +214,8 @@
 	"group-recursive-export-member": "{{GENDER:$1|برون‌بری بازگشتی}}",
 	"group-staff": "پرسنل",
 	"group-staff-member": "عضو پرسنل",
-	"group-steward": "ویکیبدان",
-	"group-steward-member": "ویکیبد",
+	"group-steward": "ویکی‌بدان",
+	"group-steward-member": "{{GENDER:$1|ویکی‌بد}}",
 	"grouppage-steward": "m:Stewards/fa",
 	"group-sysadmin": "مدیران سامانه",
 	"group-sysadmin-member": "{{GENDER:$1|مدیر سامانه}}",

@@ -58,5 +58,6 @@
 	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) — это веб-стандарт, опубликованный Консорциумом Всемирной паутины (W3C). WebAuthn является основным компонентом проекта FIDO2, реализуемого под руководством альянса FIDO. Целью проекта является стандартизация интерфейса для аутентификации пользователей в веб-приложениях и сервисах с использованием криптографии с открытым ключом. [https://en.wikipedia.org/wiki/WebAuthn Подробнее (англ.)] <br> Пожалуйста, имейте в виду, что для входа вам придётся зайти на вики, на которой вы зарегистрировали аутентификатор.",
 	"wikimedia-webauthn-ui-login-prompt": "Пожалуйста, используйте устройство проверки или следуйте инструкциям в браузере. Обратите внимание, что вам потребуется войти в ту же вики, где вы изначально зарегистрировали устройство проверки.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Политика_конфиденциальности Политика конфиденциальности]",
-	"wikimedia-notification-body-oathauth-disable-other": "Если {{GENDER:$2|вы}} не не делали такой запрос, обратитесь в отдел «Доверие и безопасность» Фонда."
+	"wikimedia-notification-body-oathauth-disable-other": "Если {{GENDER:$2|вы}} не не делали такой запрос, обратитесь в отдел «Доверие и безопасность» Фонда.",
+	"wikimedia-similareditors-error-default": "Что-то пошло не так, мы разбираемся. Если проблема не исчезнет, пожалуйста, свяжитесь с нами [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors здесь]."
 }
