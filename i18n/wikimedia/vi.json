@@ -98,6 +98,7 @@
 	"group-engineer": "Kỹ sư",
 	"group-engineer-member": "{{GENDER:$1}}kỹ sư",
 	"grouppage-engineer": "{{ns:project}}:Kỹ sư",
+	"group-electionclerk": "Nhân viên bầu cử",
 	"group-eliminator": "Điều phối viên",
 	"group-eliminator-member": "{{GENDER:$1|điều phối viên}}",
 	"grouppage-eliminator": "{{ns:project}}:Điều phối viên",
