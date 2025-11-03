@@ -16,5 +16,8 @@
 	"group-steward": "Stewards",
 	"group-steward-member": "{{GENDER:$1|Steward}}",
 	"group-sysadmin": "System-Verwalter",
-	"group-sysadmin-member": "{{GENDER:$1|System-Verwalter}}"
+	"group-sysadmin-member": "{{GENDER:$1|System-Verwalter}}",
+	"wikimedia-developers": "Erwerschter",
+	"wikimedia-statslink": "Nummere",
+	"wikimedia-cookiestatement": "Kiechle-Erkläring"
 }

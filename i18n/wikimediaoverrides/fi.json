@@ -33,6 +33,6 @@
 	"wikimedia-urlshortener-badaccessgroups": "Lyhyitä linkejä voi luoda vain [[:m:Special:UrlShortener|Special:UrlShortener]]-sivulla meta.wikimedia.orgissa.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Lyhyitä linkkejä voidaan luoda vain kutsumalla meta.wikimedia.org-wikiä.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Tietosuojakäytäntö]",
-	"wikimedia-notification-body-oathauth-disable-other": "Jos {{GENDER:$2|et}} pyytänyt tätä, {{GENDER:$2|sinun}} tulisi ottaa yhteyttä WMF Trust & Safety -tiimiin.",
+	"wikimedia-notification-body-oathauth-disable-other": "Jos {{GENDER:$2|et}} pyytänyt tätä, {{GENDER:$2|sinun}} kannattaa ottaa yhteyttä WMF:n Trust & Safety -tiimiin.",
 	"wikimedia-similareditors-error-default": "Jotain on mennyt pieleen, tutkimme asiaa. Jos ongelma jatkuu, ota meihin yhteyttä [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors täällä]."
 }

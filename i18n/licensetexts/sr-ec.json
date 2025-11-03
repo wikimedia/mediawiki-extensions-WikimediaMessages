@@ -85,7 +85,7 @@
 	"wm-license-own-work": "Сопствено дело",
 	"wm-license-pd-author-self-text": "Ја, творац овог дела, предајем га у '''[[{{int:wm-license-pd-wiki-link}}|јавно власништво]]'''. Ово се односи на цео свет.",
 	"wm-license-pd-author-with-author-text": "Ово дело је њен носилац ауторских права '''$1''' предао у '''[[{{int:wm-license-pd-wiki-link}}|јавно власништво]]'''. Ово се односи на цео свет.",
-	"wm-license-pd-author-not-legally-possible": "У неким земљама, ово није законски могуће; у том случају:",
+	"wm-license-pd-author-not-legally-possible": "У случају да ово није правно могуће:",
 	"wm-license-pd-author-self-any-purpose": "Ја, творац овог дела дозвољавам свакоме да користи ово дело за '''било коју намену''', без било каквих услова, осим услова које намеће закон.",
 	"wm-license-pd-author-with-author-any-purpose": "$1 творац овог дела дозвољава свакоме да користи ово дело за '''било коју намену''', без било каквих услова, осим услова које намеће закон.",
 	"wm-license-pd-usgov-wiki-link": "w:sr:Федерална влада САД",

@@ -132,7 +132,7 @@
 	"group-ipblock-exempt": "Người được miễn cấm IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1}}người được miễn cấm IP",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Người được miễn cấm IP",
-	"group-noratelimit": "Tài khoản tần suất vô hạn",
+	"group-noratelimit": "Tài khoản không giới hạn tần suất",
 	"group-noratelimit-member": "{{GENDER:$1}}tài khoản tần suất vô hạn",
 	"grouppage-noratelimit": "{{ns:project}}:Tài khoản tần suất vô hạn",
 	"group-patroller": "Tuần tra viên",
