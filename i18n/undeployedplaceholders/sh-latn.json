@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aca",
 			"Winston Sung"
 		]
 	},
 	"wikimedia-log-action-filter-usermerge": "Vrsta radnje:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "Spajanje korisničkog računa",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Brisanje korisničkog računa",
-	"wikimedia-usermerge-logpage": "Evidencija spajanja korisnika",
+	"wikimedia-usermerge-logpage": "Dnevnik spajanja računa",
 	"wikimedia-usermerge-logpagetext": "Ovo je evidencija spajanja korisničkih imena."
 }
