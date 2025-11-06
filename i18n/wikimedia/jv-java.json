@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bennylin",
 			"Sumbukompor"
 		]
 	},
-	"wikimedia-developers": "ꦗꦸꦫꦸꦥꦁꦔꦼꦩ꧀ꦧꦁ"
+	"sitesupport": "ꦲꦸꦫꦸꦤ꧀",
+	"wikimedia-copyrightwarning": "Kanthi nyimpen owahan, panjenengan minangkani [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Bebakuné Pangguna], lan panjenengan tansah minangkani yèn ngamardika pisumbangé panjenengan sarana [https://creativecommons.org/licenses/by-sa/4.0/ Lisènsi CC BY-SA 4.0] lan [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nPanjenengan sarujuk bilih URL waé wis patut minangka atribusi miturut lisènsi Creative Commons.",
+	"wikibase-sitelinks-wikinews": "ꦮꦶꦏꦶꦮꦂꦠ",
+	"wikibase-sitelinks-wikiquote": "ꦮꦶꦏꦸꦕꦸꦥ꧀ꦭꦶꦏ꧀",
+	"wikibase-sitelinks-wikisource": "ꦮꦶꦏꦶꦱꦸꦩ꧀ꦧꦼꦂ",
+	"wikibase-sitelinks-wikivoyage": "ꦮꦶꦏꦶꦮꦶꦱꦠ",
+	"wikimedia-developers": "ꦗꦸꦫꦸꦥꦔꦼꦩ꧀ꦧꦁ",
+	"wikimedia-statslink": "ꦱꦼꦠꦠꦶꦱ꧀ꦠꦶꦏ꧀",
+	"wikimedia-cookiestatement": "ꦥꦿꦚꦠꦤ꧀ꦏꦸꦏꦶ"
 }
