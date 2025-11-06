@@ -12,9 +12,13 @@
 	"wikimedia-centralauth-groupname": "Nadácie Wikimedia",
 	"wikimedia-discussiontools-replywidget-terms-click": "Kliknutím na „$1“ súhlasíte s našimi Podmienkami použitia a súhlasíte s neodvolateľným zverejnením svojho textu za podmienok licencií $2.",
 	"wikimedia-feedback-termsofuse": "Súhlasím s tým, že budem poskytovať spätnú väzbu v súlade s [https://foundation.wikimedia.org/wiki/Terms_of_Use Podmienkami použitia].",
+	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nBlokovanie vykonal/a: $1.\nUvedený dôvod je ''$2''.\n\n* Začiatok blokovania: $8\n* Blokovanie vyprší: $6\n\nVaša aktuálna IP adresa je $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-sitematrix": "Zoznam wiki projektov Nadácie Wikimedia",
 	"wikimedia-sitematrix-others": "Iné projekty nadácie Wikimedia",
 	"wikimedia-sitematrix-summary": "Táto špeciálna stránka obsahuje zoznam všetkých lokalít Wikimedia.",
+	"wikimedia-globalblocking-blockedtext-on-range": "Vaša IP adresa sa nachádza v rozsahu, ktorý bol [[m:Special:MyLanguage/Global blocks|zablokovaný na všetkých wikiprojektoch Wikimedia Foundation]].",
+	"wikimedia-globalblocking-blockedtext-ip-range": "Blokovaný rozsah je $1.",
+	"wikimedia-globalblocking-blockedtext-mistake": "Ak si myslíte, že ste boli zablokovaní omylom, ďalšie informácie a pokyny nájdete v [[m:Special:MyLanguage/Stewards/Wizard|Sprievodcovi pri blokovaní stewardami]].",
 	"wikimedia-skin-minerva-donate-banner-message": "Podporiť teraz",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Ak je vám Wikipédia užitočná, prosím, darujte dnes."
 }

@@ -139,7 +139,7 @@
 	"group-ipblock-exempt-grantor": "IP-estovapautusten myöntäjät",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|IP-estovapautusten myöntäjä}}",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:IP-estovapautusten myöntäjät",
-	"group-noratelimit": "Ei muutosnopeusrajaa -tunnukset",
+	"group-noratelimit": "ei muutosnopeusrajaa -tunnukset",
 	"group-noratelimit-member": "{{GENDER:$1|ei muutosnopeusrajaa -tunnus}}",
 	"grouppage-noratelimit": "{{ns:project}}:Ei muutosnopeusrajaa -tunnukset",
 	"group-patroller": "tarkastajat",

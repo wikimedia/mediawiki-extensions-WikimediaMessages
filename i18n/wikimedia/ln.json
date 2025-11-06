@@ -9,9 +9,6 @@
 		]
 	},
 	"sitesupport": "Lisungi na misɔlɔ",
-	"group-event-organizer": "Babongisi ya molulu",
-	"group-event-organizer-member": "{{GENDER:$1| mobongisi-molulu}}",
-	"grouppage-event-organizer": "{{ns:project}}:Babongisi ya makambo",
 	"wikimedia-copyrightwarning": "Na kobombaka mbongwana, ondimi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Mibeko ya kosalela], mpe ondimi na ndenge ya kozanga kobongwana kobimisa likabo na yo na nsé ya [https://creativecommons.org/licenses/by-sa/4.0/ Licence ya CC BY-SA 4.0] mpe ya [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nOndimi ete hyperlien to URL ezali attribution ekoki na se ya licence ya Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Wikisika",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
@@ -19,7 +16,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Batóngi",
 	"wikimedia-statslink": "Mitúya",
-	"wikimedia-cookiestatement": "Liloba ya cookie",
-	"tooltip-gadget-purgetab-text": "Purge cache ya serveur ya page oyo",
-	"gadget-purgetab-error": "Kolongola bato elongaki te"
+	"wikimedia-cookiestatement": "Liloba ya cookie"
 }
