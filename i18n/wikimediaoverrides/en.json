@@ -86,5 +86,7 @@
 	"wikimedia-skin-minerva-donate-banner-reduced-motion": "https://en.wikipedia.org/static/images/donate/donate.png",
 	"wikimedia-skin-minerva-donate-banner-gif": "https://en.wikipedia.org/static/images/donate/donate.gif",
 	"wikimedia-skin-minerva-donate-banner-url": "https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign={{SERVERNAME}}&uselang={{CONTENTLANGUAGE}}&wmf_key=minerva",
-	"wikimedia-pvi-month-count-value": "[https://pageviews.wmcloud.org/?project={{SERVERNAME}}&platform=all-access&agent=user&redirects=0&range=latest-30&pages={{urlencode:$2}} $1]"
+	"wikimedia-pvi-month-count-value": "[https://pageviews.wmcloud.org/?project={{SERVERNAME}}&platform=all-access&agent=user&redirects=0&range=latest-30&pages={{urlencode:$2}} $1]",
+	"wikimedia-emailauth-accountrecovery-intro": "Recover your Wikimedia account",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Email registered with your Wikimedia account"
 }

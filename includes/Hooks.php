@@ -212,6 +212,9 @@ class Hooks implements
 			'namespaceinfo-description-ns470',
 			// T395565
 			'pvi-month-count-value',
+			// T399742
+			'emailauth-accountrecovery-intro',
+			'emailauth-accountrecovery-registeredemail-label',
 		];
 
 		static $allbutmetawikikeys = [
