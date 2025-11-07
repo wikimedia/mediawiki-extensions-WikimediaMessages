@@ -90,5 +90,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Deze vertaalbare pagina bestaat uit meer dan $1 {{PLURAL:$1| pagina|pagina’s}}.''' Vanwege technische beperkingen kan het hernoemen van vertaalbare pagina’s die uit meer dan $1 {{PLURAL:$1| pagina|pagina's}} bestaan, niet via de gebruikersinterface worden uitgevoerd. '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ Dien een Phabricator-taak in]''' en vul de velden van het formulier in om de [[:m:system administrators|systeembeheerders]] te vragen de pagina namens u te hernoemen.",
 	"wikimedia-skin-minerva-donate-banner-message": "Doneer nu",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Als Wikipedia nuttig voor u is, doneer dan vandaag nog.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Als deze site nuttig voor u is, doneer dan vandaag nog."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Als deze site nuttig voor u is, doneer dan vandaag nog.",
+	"wikimedia-emailauth-accountrecovery-intro": "Wikimedia-account herstellen",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "E-mailadres geregistreerd bij uw Wikimedia-account"
 }
