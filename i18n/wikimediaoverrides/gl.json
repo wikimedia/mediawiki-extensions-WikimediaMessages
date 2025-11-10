@@ -29,7 +29,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "Estás a piques de bloquear á vez contas e enderezos IP polo mesmo motivo despois de usares os datos do verificador de usuarios. Isto pode incumprir a [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy política de acceso a datos persoais non públicos]. Queres facelo?",
 	"wikimedia-delete-toobig": "Esta páxina ten un historial de edicións extenso, de máis de $1 {{PLURAL:$1|revisión|revisións}}.\nO borrado de páxinas con grandes historiais de edición está restrinxido para previr problemas de funcionamento accidentais en {{SITENAME}}.\nContacta cos [[m:Special:MyLanguage/Stewards|stewards]] en [[m:Steward requests/Miscellaneous|Meta]] para solicitares a eliminación desta páxina.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Ao premeres no botón \"$1\", aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$3|baixo}} $2.",
-	"wikimedia-emailauth-login-help": "Se tes problemas para recibir o código, [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery sigue estas instrucións].",
+	"wikimedia-emailauth-login-help": "Se tes problemas para recibir o código, podes [[Special:AccountRecovery|recuperar a conta]].",
 	"wikimedia-feedback-termsofuse": "Estou de acordo en proporcionar comentarios en conformidade cos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso].",
 	"wikimedia-flow-terms-of-use-new-topic": "Ao premeres no botón \"{{int:flow-newtopic-save}}\", aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$2|baixo}} $1.",
 	"wikimedia-flow-terms-of-use-reply": "Ao premeres no botón \"{{int:flow-reply-link}}\", aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$2|baixo}} $1.",
@@ -83,5 +83,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Esta páxina traducible ten máis {{PLURAL:$1|dunha páxina|de $1 páxinas}}.''' Debido a problemas técnicos, o traslado de páxinas traducibles con máis {{PLURAL:$1|dunha páxina|de $1 páxinas}} non se pode facer a través da interface de usuario. '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ Crea unha tarefa en Phabricator]''' e enche os campos do formulario para solicutar que un [[:m:system administrators|administrador do sistema]] faga o traslado no teu nome.",
 	"wikimedia-skin-minerva-donate-banner-message": "Doa agora",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Se a Wikipedia é útil para ti, fai unha doazón.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Se este sitio é útil para ti, fai unha doazón."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Se este sitio é útil para ti, fai unha doazón.",
+	"wikimedia-emailauth-accountrecovery-intro": "Recuperar a túa conta da Wikimedia",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Correo electrónico rexistrado na túa conta da Wikimedia"
 }

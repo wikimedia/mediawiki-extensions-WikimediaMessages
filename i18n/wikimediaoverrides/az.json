@@ -29,7 +29,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "Təftişçi məlumatından istifadə etdikdən sonra eyni səbəbdən eyni anda həm hesabları, həm də IP-ləri bloklamaq üzrəsiniz. Bu, [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy İctimai olmayan şəxsi məlumatlara giriş siyasətini] poza bilər. Bunu etmək istədiyinizə əminsiniz?",
 	"wikimedia-delete-toobig": "Bu səhifənin böyük redaktə tarixçəsi var, $1 {{PLURAL:$1| revision|revisions}}.\nÇox böyük redaktə tarixçəsi olan səhifələrin silinməsi {{SITENAME}} layihəsinin pozulmasının qarşısını almaq üçün məhdudlaşdırılıb.\nZəhmət olmasa, [[m:Special:MyLanguage/Stewards|stüardlarla]] [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] səhifəsində əlaqə saxlayın.",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" düyməsinə klikləməklə siz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use istifadə şərtlərimizi] qəbul edir və dəyişikliklərinizin $2 {{PLURAL:$3|əsasında}} geri qaytarılmadan yayımlanmasına razılıq verirsiniz.",
-	"wikimedia-emailauth-login-help": "Kodu qəbul etməkdə çətinlik çəkirsinizsə, [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery bu təlimatlara] əməl edin.",
+	"wikimedia-emailauth-login-help": "Kodu qəbul etməkdə çətinlik çəkirsinizsə, [[Special:AccountRecovery|hesabınızı bərpa edə bilərsiniz]].",
 	"wikimedia-feedback-termsofuse": "Mən [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use İstifadə Şərtlərinə] uyğun olaraq rəy bildirməyə razıyam.",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" düyməsinə klikləməklə, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use İstifadə Şərtləri] ilə razılaşırsınız və geri qaytarılmamaq şərti ilə mətni $1 {{PLURAL:$2|altında}} yayımlayırsınız.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" düyməsinə klikləməklə, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use İstifadə Şərtləri] ilə razılaşırsınız və geri qaytarılmamaq şərti ilə mətni $1 {{PLURAL:$2|altında}} yayımlayırsınız.",
@@ -83,5 +83,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Bu tərcümə edilə bilən səhifə $1 {{PLURAL:$1|səhifədən}} çox səhifə ehtiva edir.''' Etibarlılıq problemlərinə görə, $1 səhifədən çox səhifədən ibarət olan tərcümə edilə bilən səhifələrin köçürülməsi istifadəçi interfeysi vasitəsilə həyata keçirilə bilməz. Zəhmət olmasa müvafiq '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ Phabricator tapşırığı] yaradın''' və [[:m:system administrators|sistem administratorlarından]] sizin adınıza səhifənin köçürülməsini tələb etmək üçün formanın sahələrini doldurun.",
 	"wikimedia-skin-minerva-donate-banner-message": "İndi ianə et",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Əgər Vikipediya sizin üçün faydalıdırsa, bu gün ianə edin.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Bu sayt sizin üçün faydalı olubsa, zəhmət olmasa, bu gün ianə edin."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Bu sayt sizin üçün faydalı olubsa, zəhmət olmasa, bu gün ianə edin.",
+	"wikimedia-emailauth-accountrecovery-intro": "Vikimedia hesabınızı bərpa edin",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Vikimedia hesabınızda qeydiyyatdan keçmiş e-poçt"
 }

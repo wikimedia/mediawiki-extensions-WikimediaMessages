@@ -38,7 +38,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "CheckUser verilerini kullandıktan sonra, hesapları ve IP'leri aynı anda aynı nedenle engellemek üzeresiniz. Bu, [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy Kamuya açık olmayan kişisel verilere erişim ilkesini] ihlal edebilir. Bunu yapmak istediğinizden emin misin?",
 	"wikimedia-delete-toobig": "Bu sayfa $1 {{PLURAL:$1|revizyondan}} fazla değişiklik geçmişine sahip.\nÇok büyük değişiklik geçmişlerine sahip sayfaların silinmesi, {{SITENAME}} sitesinin kazayla bozulmasını önlemek için sınırlandırılmıştır.\nLütfen bu sayfanın silinmesini istemek için [[m:Steward requests/Miscellaneous|Meta’daki Kahya istekleri/Çeşitli]] sayfasında [[m:Special:MyLanguage/Stewards|kahyalar]] ile iletişime geçin.",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" düğmesine tıklayarak, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/tr Kullanım Şartlarımızı] kabul etmiş ve değişikliklerinizin $2 {{PLURAL:$3|kapsamında}} geri döndürülemez bir şekilde yayımlanmasını kabul etmiş olursunuz.",
-	"wikimedia-emailauth-login-help": "Kodu alırken sorun yaşıyorsanız, [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery şu yönergeleri izleyin].",
+	"wikimedia-emailauth-login-help": "Kodu alırken sorun yaşıyorsanız, [[Special:AccountRecovery|hesabınızı kurtarabilirsiniz]].",
 	"wikimedia-feedback-termsofuse": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/tr Kullanım Şartları]'na uygun geri bildirim sağlamayı kabul ediyorum.",
 	"wikimedia-flow-terms-of-use-new-topic": "\"{{int:flow-newtopic-save}}\" düğmesine tıklayarak, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/tr Kullanım Şartlarımızı] kabul etmiş ve metninizin $1 {{PLURAL:$2|kapsamında}} geri döndürülemez bir şekilde yayımlanmasını kabul etmiş olursunuz.",
 	"wikimedia-flow-terms-of-use-reply": "\"{{int:flow-reply-link}}\" düğmesine tıklayarak, [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/tr Kullanım Şartlarımızı] kabul etmiş ve değişikliklerinizin $1 {{PLURAL:$2|kapsamında}} geri döndürülemez bir şekilde yayımlanmasını kabul etmiş olursunuz.",
@@ -92,5 +92,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Bu çevrilebilir sayfa $1 ve daha fazla {{PLURAL:$1|sayfadan}} oluşuyor.''' Güvenilirlik sorunları nedeniyle, $1 ve daha fazla {{PLURAL:$1|sayfadan}} oluşan çevrilebilir sayfalar kullanıcı arayüzü üzerinden taşınamaz. Lütfen '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ bir Phabricator görevi oluşturun]''' ve [[:m:system administrators|sistem yöneticileri]]nden sizin adınıza sayfa taşımasını istemek için formdaki alanları doldurun.",
 	"wikimedia-skin-minerva-donate-banner-message": "Şimdi Bağış Yapın",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Eğer Vikipedi sizin için yararlıysa lütfen bugün bağış yapın.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Eğer bu site sizin için yararlı olduysa lütfen bugün bağış yapın."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Eğer bu site sizin için yararlı olduysa lütfen bugün bağış yapın.",
+	"wikimedia-emailauth-accountrecovery-intro": "Wikimedia hesabınızı kurtarın",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia hesabınıza kayıtlı e-posta adresi"
 }

@@ -79,5 +79,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Iste pagina traducibile consiste de plus de $1 pagina{{PLURAL:$1||s}}.''' A causa de limitationes technic, non es possibile renominar paginas traducibile que consiste de plus de $1 pagina{{PLURAL:$1||s}} per le interfacie de usator. Per favor '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ insere un carga sur Phabricator]''' e completa le campos del formulario pro requestar que le [[:m:system administrators|administratores del systema]] exeque le renomination del pagina in tu nomine.",
 	"wikimedia-skin-minerva-donate-banner-message": "Donar ora",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipedia te es utile, per favor dona hodie mesmo.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si iste sito te ha essite utile, per favor dona hodie mesmo."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si iste sito te ha essite utile, per favor dona hodie mesmo.",
+	"wikimedia-emailauth-accountrecovery-intro": "Recuperar tu conto de Wikimedia",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse de e-mail registrate in tu conto de Wikimedia"
 }

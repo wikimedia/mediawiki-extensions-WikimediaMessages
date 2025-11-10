@@ -34,7 +34,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "{{GENDER:|אתה עומד|את עומדת}} לחסום את שני החשבונות וכתובות IP עם אותה הסיבה ובאותו הזמן לאחר השימוש בנתוני בדיקה (CheckUser). זה עשוי להפר את [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy מדיניות הגישה לנתונים אישיים שאינם ציבוריים]. האם {{GENDER:|אתה בטוח שאתה|את בטוחה את}} רוצה לעשות את זה?",
 	"wikimedia-delete-toobig": "לדף הזה יש היסטוריית עריכות גדולה, שמכילה יותר {{PLURAL:$1|מגרסה אחת|מ־$1 גרסאות}}.\nמחיקת דפים עם היסטוריית עריכה גדולה מאוד הוגבלה כדי למנוע בעיות בתפקוד של {{SITENAME}}.\nנא ליצור קשר עם ה[[m:Special:MyLanguage/Stewards|דיילים]] בדף [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] שבמטא־ויקי כדי לבקש את המחיקה של הדף הזה.",
 	"wikimedia-discussiontools-replywidget-terms-click": "לחיצה על \"$1\" מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] שלנו ואת הסכמתך הבלתי־חוזרת לפרסם את הטקסט שלך לפי תנאי {{PLURAL:$3|רישיון|הרישיונות}} $2",
-	"wikimedia-emailauth-login-help": "אם יש לך בעיה עם קבלת הקוד, נא [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery לפעול לפי ההוראות הבאות].",
+	"wikimedia-emailauth-login-help": "אם יש לך בעיה עם קבלת הקוד, אפשר [[Special:AccountRecovery|לשחזר את החשבון שלך]].",
 	"wikimedia-feedback-termsofuse": "אני מסכים לספק משוב בהתאם ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש].",
 	"wikimedia-flow-terms-of-use-new-topic": "לחיצה על \"{{int:flow-newtopic-save}}\" מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] שלנו ואת הסכמתך הבלתי־חוזרת לפרסם את הטקסט שלך לפי תנאי {{PLURAL:$2|רישיון|הרישיונות}} $1",
 	"wikimedia-flow-terms-of-use-reply": "לחיצה על \"{{int:flow-reply-link}}\" מהווה את הסכמתך ל[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use תנאי השימוש] שלנו ואת הסכמתך הבלתי־חוזרת לפרסם את הטקסט שלך לפי תנאי {{PLURAL:$2|רישיון|הרישיונות}} $1",
@@ -88,5 +88,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''דף התרגום הזה מורכב מיותר {{PLURAL:$1|מדף אחד|$1 דפים}}.''' עקב בעיות יציבוּת, לא ניתן לבצע דרך ממשק המשתמש העברת דפי תרגום המורכבים מיותר {{PLURAL:$1|מדף אחד|$1 דפים}}. נא '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ ליצור משימה בפבריקטור]''' ולמלא את השדות של הטופס כדי לבקש מ[[:m:system administrators|מנהלי מערכת]] לבצע את העברת הדף בשבילך.",
 	"wikimedia-skin-minerva-donate-banner-message": "לתרום עכשיו",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום.",
+	"wikimedia-emailauth-accountrecovery-intro": "שחזור החשבון הוויקימדיה שלך",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "כתובת הדוא\"ל הרשומה בחשבון הוויקימדיה שלך"
 }

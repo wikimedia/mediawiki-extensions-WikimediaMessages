@@ -39,7 +39,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "Bạn sắp cấm cả tài khoản và IP cùng lúc với cùng lý do sau khi sử dụng dữ liệu CheckUser. Điều này có thể vi phạm [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy Chính sách về Truy cập dữ liệu cá nhân không công khai]. Bạn có chắc chắn muốn thực hiện việc này không?",
 	"wikimedia-delete-toobig": "Trang này có lịch sử sửa đổi dài, hơn $1 phiên bản.\nTác vụ xóa trang có lịch sử sửa đổi rất dài được hạn chế để cho {{SITENAME}} khỏi bị gián đoạn.\nXin hãy liên lạc với [[m:Special:MyLanguage/Stewards|các tiếp viên]] ở [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous tại Meta]] để yêu cầu xóa trang này.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Nhấn vào “$1” có nghĩa là bạn đồng ý với các [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/vi?uselang=vi Điều khoản Sử dụng] và phát hành nội dung mình đóng góp {{PLURAL:$3|theo}} $2. Bạn không thể rút lại thỏa thuận này.",
-	"wikimedia-emailauth-login-help": "Nếu bạn gặp sự cố khi nhận mã, hãy [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery xem hướng dẫn này].",
+	"wikimedia-emailauth-login-help": "Nếu bạn gặp sự cố khi nhận mã, bạn có thể [[Special:AccountRecovery|khôi phục tài khoản của mình]].",
 	"wikimedia-feedback-termsofuse": "Tôi đồng ý gửi phản hồi theo các [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Điều khoản Sử dụng].",
 	"wikimedia-flow-terms-of-use-new-topic": "Nhấp vào “{{int:flow-newtopic-save}}” có nghĩa là bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn {{PLURAL:$2|}}theo giấy phép $1.",
 	"wikimedia-flow-terms-of-use-reply": "Nhấp vào “{{int:flow-reply-link}}” có nghĩa là bạn chấp nhận [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Điều khoản Sử dụng] của chúng tôi và đồng ý phát hành, một cách không thể hủy bỏ, văn bản của bạn {{PLURAL:$2|}}theo giấy phép $1.",
@@ -93,5 +93,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Trang có thể dịch này bao gồm hơn $1 {{PLURAL:$1|trang}}.''' Do vấn đề về độ tin cậy, việc di chuyển các trang có thể dịch bao gồm hơn $1 {{PLURAL:$1|trang}} không thể được thực hiện thông qua giao diện người dùng. Vui lòng '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ nộp một nhiệm vụ Phabricator]''' và điền vào các trường của biểu mẫu để yêu cầu [[:m:Special:MyLanguage/System administrators|quản trị viên hệ thống]] thực hiện việc di chuyển trang thay mặt bạn.",
 	"wikimedia-skin-minerva-donate-banner-message": "Quyên góp",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Nếu Wikipedia hữu ích với bạn, bạn có thể quyên góp cho chúng tôi.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Nếu trang web này hữu ích với bạn, bạn có thể quyên góp cho chúng tôi."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Nếu trang web này hữu ích với bạn, bạn có thể quyên góp cho chúng tôi.",
+	"wikimedia-emailauth-accountrecovery-intro": "Khôi phục tài khoản Wikimedia của bạn",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Nhập địa chỉ email mà bạn đã dùng để đăng ký tài khoản Wikimedia của bạn"
 }
