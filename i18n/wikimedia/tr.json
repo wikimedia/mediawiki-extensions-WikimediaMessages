@@ -39,7 +39,8 @@
 			"Vito Genovese",
 			"Samoasambia",
 			"Leo",
-			"Gadir"
+			"Gadir",
+			"Wooze"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -211,6 +212,8 @@
 	"group-translationadmin": "Çeviri hizmetlileri",
 	"group-translationadmin-member": "{{GENDER:$1|çeviri hizmetlisi}}",
 	"grouppage-translationadmin": "{{ns:project}}:Çeviri hizmetlileri",
+	"group-u4c-member": "U4C üyeleri",
+	"group-u4c-member-member": "{{GENDER:$1|U4C üyesi}}",
 	"group-vrt-permissions": "VRT izin temsilcileri",
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT izin temsilcisi}}",
 	"group-wmf-officeit": "WMF Office IT",

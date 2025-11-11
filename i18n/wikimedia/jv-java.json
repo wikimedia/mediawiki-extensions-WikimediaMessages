@@ -1,8 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sumbukompor"
+			"Sumbukompor",
+			"Bennylin"
 		]
 	},
-	"wikimedia-developers": "ꦗꦸꦫꦸꦥꦁꦔꦼꦩ꧀ꦧꦁ"
+	"sitesupport": "ꦲꦸꦫꦸꦤ꧀",
+	"wikibase-sitelinks-wikinews": "ꦮꦶꦏꦶꦮꦂꦠ",
+	"wikibase-sitelinks-wikiquote": "ꦮꦶꦏꦸꦕꦸꦥ꧀ꦭꦶꦏ꧀",
+	"wikibase-sitelinks-wikisource": "ꦮꦶꦏꦶꦱꦸꦩ꧀ꦧꦼꦂ",
+	"wikibase-sitelinks-wikivoyage": "ꦮꦶꦏꦶꦮꦶꦱꦠ",
+	"wikimedia-developers": "ꦗꦸꦫꦸꦥꦔꦼꦩ꧀ꦧꦁ",
+	"wikimedia-statslink": "ꦱꦼꦠꦠꦶꦱ꧀ꦠꦶꦏ꧀",
+	"wikimedia-cookiestatement": "ꦥꦿꦚꦠꦤ꧀ꦏꦸꦏꦶ"
 }

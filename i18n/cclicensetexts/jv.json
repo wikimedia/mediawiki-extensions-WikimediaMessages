@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"NoiX180",
-			"Pras"
+			"Pras",
+			"Bennylin"
 		]
 	},
 	"wm-license-cc-attribution": "Atribusi",
-	"wm-license-cc-by-sa-3.0-text": "Barkas iki kalilakaké sangisoring palilah [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Atribusi-Andum Mèmper 3.0 Tanpa Adhaptasi]].",
+	"wm-license-cc-by-sa-3.0-text": "Bérkas iki kalilakaké sangisoring palilah [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Atribusi-Andum Mèmper 3.0 Tanpa Adhaptasi]].",
 	"wm-license-cc-free": "Kowé kena:",
 	"wm-license-cc-free-to-share-header": "ngedum",
 	"wm-license-cc-free-to-share-text": "nyalin, nyebar, lan ngirim karya",

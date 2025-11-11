@@ -9,5 +9,9 @@
 	"wm-license-information-description": "Descripcion",
 	"wm-license-information-source": "Source",
 	"wm-license-information-date": "Fecha",
-	"wm-license-information-author": "Autor"
+	"wm-license-information-author": "Autor",
+	"wm-license-information-permission": "Permiso",
+	"wm-license-information-permission-reusing-text": "Usa otra vez con este file",
+	"wm-license-own-work": "Trabajo propio",
+	"wm-license-self-multiple-licenses-select": "Puede tu escoge el licencia que ta preferi tu."
 }
