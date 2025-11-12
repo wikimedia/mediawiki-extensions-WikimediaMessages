@@ -33,7 +33,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "شما در حال اعمال همزمان قطع دسترسی هم بر روی حساب‌های کاربری و هم بر روی نشانی‌های آی‌پی پس از استفاده از داده‌های بازرسی هستید. این کار ممکن است ناقض [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy سیاست دسترسی به داده‌های شخصی عمومی‌نشده] باشد. آیا از انجام این کار مطمئن هستید؟",
 	"wikimedia-delete-toobig": "این صفحه دارای حجم زیادی تاریخچهٔ ویرایش است، بیش از $1 {{PLURAL:$1|ویرایش}}. حذف صفحات دارای تاریخچهٔ پر ویرایش محدود شده است تا از به‌هم‌ریختگی اتفاقی {{SITENAME}} جلوگیری شود.\nبرای درخواست حذف این صفحه لطفاً با [[m:Special:MyLanguage/Stewards|ویکی‌بدها]] در [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous متا]] تماس بگیرید.",
 	"wikimedia-discussiontools-replywidget-terms-click": "با کلیک روی «$1»، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شرایط استفادهٔ ما] را می‌پذیرید و به طور غیر قابل برگشتی با انتشار متن‌تان {{PLURAL:$3|تحت}} $2 موافقت می‌کنید.",
-	"wikimedia-emailauth-login-help": "اگر دیگر به نشانی ایمیل حساب خود دسترسی ندارید، با ca@wikimedia.org تماس بگیرید.",
+	"wikimedia-emailauth-login-help": "اگر در دریافت کد با مشکل مواجه هستید، می‌توانید [[Special:AccountRecovery|حساب خود را بازیابی کنید]].",
 	"wikimedia-feedback-termsofuse": "من موافقت می‌کنم که بازخورد خود را مطابق با [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شرایط استفاده] ارائه دهم.",
 	"wikimedia-flow-terms-of-use-new-topic": "با کلیک روی «{{int:flow-newtopic-save}}»، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل بازگشتی با انتشار متن‌تان {{PLURAL:$2|تحت}} $1 موافقت می‌کنید.",
 	"wikimedia-flow-terms-of-use-reply": "با کلیک روی «{{int:flow-reply-link}}»، [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شرایط استفاده] ما را می‌پذیرید و به طور غیر قابل بازگشتی با انتشار متن‌تان {{PLURAL:$2|تحت}} $1 موافقت می‌کنید.",
@@ -59,5 +59,7 @@
 	"wikimedia-globalblocking-blockedtext-all-wikis": "دسترسی نشانی آی‌پی شما [[m:Special:MyLanguage/Global blocks|در تمام ویکی‌ها مسدود شده است]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "یک یا چند مورد از سرورهای پروکسی مورد استفاده در درخواست شما [[m:Special:MyLanguage/Global blocks|به‌صورت سراسری مسدود شده‌اند]].",
 	"wikimedia-globalblocking-blockedtext-proxy": "نشانی پروکسی مسدودشده $1 بوده است.",
-	"wikimedia-globalblocking-blockedtext-mistake": "اگر معتقدید که به اشتباه بسته شده‌اید، می‌توانید در [[m:Special:MyLanguage/Stewards/Wizard|جادوگر قطع دسترسی ویکی‌بدان]] اطلاعات و راهنماهای بیشتر را بیابید."
+	"wikimedia-globalblocking-blockedtext-mistake": "اگر معتقدید که به اشتباه بسته شده‌اید، می‌توانید در [[m:Special:MyLanguage/Stewards/Wizard|جادوگر قطع دسترسی ویکی‌بدان]] اطلاعات و راهنماهای بیشتر را بیابید.",
+	"wikimedia-emailauth-accountrecovery-intro": "حساب ویکی‌مدیایی خود را بازیابی کنید",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "نشانی ایمیل ثبت‌شده به‌همراه حساب ویکی‌مدیایی شما"
 }

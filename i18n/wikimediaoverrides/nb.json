@@ -31,7 +31,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "Du er i ferd med å blokkere kontoer og IP-adresser samtidig og med samme årsak etter å ha brukt IP-kontrolldata. Dette kan være i strid med [https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy policyen for tilgang til ikke-offentlige personlige data]. Er du sikker på at du ønsker å gjøre dette?",
 	"wikimedia-delete-toobig": "Denne siden har en stor redigeringshistorikk, med over $1 {{PLURAL:$1|sideversjon|sideversjoner}}.\nSletting av sider med veldig stor redigeringshistorikk er begrenset for å forhindre utilsiktet forstyrrelse av {{SITENAME}}.\nKontakt [[m:Special:MyLanguage/Stewards|forvalterne]] på [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous]] for å be om sletting av denne siden.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Ved å trykke på «$1» samtykker du i våre [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under {{PLURAL:$3|lisensen|lisensene}} $2.",
-	"wikimedia-emailauth-login-help": "[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Account_recovery Følg disse instruksjonene] hvis du har problemer med å motta koden.",
+	"wikimedia-emailauth-login-help": "Du kan [[Special:AccountRecovery|gjenopprette kontotilgangen]] hvis du ikke mottar koden.",
 	"wikimedia-feedback-termsofuse": "Jeg godtar å gi tilbakemelding i tråd med [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkårene].",
 	"wikimedia-flow-terms-of-use-new-topic": "Ved å klikke på «{{int:flow-newtopic-save}}» samtykker du i våre [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under {{PLURAL:$2|lisensen|lisensene}} $1.",
 	"wikimedia-flow-terms-of-use-reply": "Ved å klikke på «{{int:flow-reply-link}}» samtykker du i våre [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use bruksvilkår] og samtykker i å ugjenkallelig slippe teksten din under {{PLURAL:$2|lisensen|lisensene}} $1.",
@@ -85,5 +85,7 @@
 	"wikimedia-pt-movepage-page-count-limit": "'''Denne oversettbare siden består av over $1 {{PLURAL:$1|side|sider}}.''' På grunn av problemer med pålitelighet er det ikke mulig å flytte sider som består av mer enn $1 {{PLURAL:$1|side|sider}} via grensesnittet. '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ Legg inn en oppgave på Phabricator]''' og fyll inn feltene i skjemaet for å be en [[:m:system administrators|systemadministrator]] om å utføre flyttingen på dine vegne.",
 	"wikimedia-skin-minerva-donate-banner-message": "Doner nå",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Doner i dag hvis Wikipedia er nyttig for deg.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Doner i dag hvis dette nettstedet har vært nyttig for deg."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Doner i dag hvis dette nettstedet har vært nyttig for deg.",
+	"wikimedia-emailauth-accountrecovery-intro": "Gjenopprett Wikimedia-kontoen din",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "E-postadressen som er registrert på Wikimedia-kontoen din"
 }

@@ -139,6 +139,7 @@
 	"group-massmessage-sender": "ډله‌ييز پيغام لېږونکی",
 	"group-massmessage-sender-member": "{{GENDER:$1|ډله‌ييز پيغام لېږونکی}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:ډله‌ييز پيغام لېږونکي",
+	"group-ombuds": "له دولتي ادارو د خلکو شکايتونو څېړونکی",
 	"group-pagemover": "مخ لېږدوونکی",
 	"group-pagemover-member": "{{GENDER:$1|مخ لېږدوونکی}}",
 	"grouppage-pagemover": "{{ns:project}}:مخ لېږدوونکي",
