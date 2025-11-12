@@ -23,5 +23,7 @@
 	"wikimedia-apierror-urlshortener-disabled": "Kratke veze možete napraviti samo pozivom na sajt meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Kratke veze možete napraviti samo pomoću obrasca [[:m:Special:UrlShortener|Special:UrlShortener]] na sajtu meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Kratke veze možete napraviti samo pozivom sajt meta.wikimedia.org.",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Politika privatnosti]"
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Politika privatnosti]",
+	"wikimedia-skin-minerva-donate-banner-message": "Doniranje",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Ako vam Wikipedija znači, podržite nas."
 }
