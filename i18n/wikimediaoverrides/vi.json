@@ -22,7 +22,7 @@
 	"wikimedia-createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|giúp tôi chọn]])",
 	"wikimedia-prefs-user-downloaddata-help-message": "Bạn có thể xem trang Tùy chọn của [[m:Special:CentralAuth/$1|các dự án Wikimedia khác]] để tải dữ liệu tài khoản của bạn tại các dự án đó.",
 	"wikimedia-createacct-imgcaptcha-help": "Bạn không thấy được chữ? [[{{MediaWiki:createacct-captcha-help-url}}|Hãy yêu cầu mở tài khoản]].",
-	"wikimedia-centralauth-groupname": "Quỹ Wikimedia",
+	"wikimedia-centralauth-groupname": "Wikimedia Foundation",
 	"wikimedia-centralauth-login-error-locked": "<strong>Tài khoản này đã bị [[m:Special:MyLanguage/Global locks|khóa toàn cục]].</strong> {{GENDER:$1|Bạn}} sẽ không thể đăng nhập vào bất kỳ wiki nào của Wikimedia được nữa. Vui lòng [[m:Special:Contact/stewards|liên hệ với tiếp viên]] nếu {{GENDER:$1|bạn}} có câu hỏi.",
 	"createacct-helpusername-url": "{{ns:Project}}:Tên người dùng",
 	"wikimedia-delete-toobig": "Trang này có lịch sử sửa đổi dài, hơn $1 phiên bản.\nTác vụ xóa trang có lịch sử sửa đổi rất dài được hạn chế để cho {{SITENAME}} khỏi bị gián đoạn.\nXin hãy liên lạc với [[m:Special:MyLanguage/Stewards|các tiếp viên]] ở [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous tại Meta]] để yêu cầu xóa trang này.",

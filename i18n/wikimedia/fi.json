@@ -129,7 +129,7 @@
 	"group-ipblock-exempt": "IP-estoista vapautetut",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP-estoista vapautettu}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP-estoista vapautetut käyttäjät",
-	"group-noratelimit": "Ei muutosnopeusrajaa -tunnukset",
+	"group-noratelimit": "ei muutosnopeusrajaa -tunnukset",
 	"group-noratelimit-member": "{{GENDER:$1|ei muutosnopeusrajaa -tunnus}}",
 	"grouppage-noratelimit": "{{ns:project}}:Ei muutosnopeusrajaa -tunnukset",
 	"group-patroller": "tarkastajat",
