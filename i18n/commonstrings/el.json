@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Geraki",
+			"Jimkats",
 			"Nikki",
 			"Varnent"
 		]
@@ -25,7 +26,7 @@
 	"wm-commonstrings-questions": "Ερωτήσεις;",
 	"wm-commonstrings-register-account": "Δημιουργία λογαριασμού",
 	"wm-commonstrings-reports": "Αναφορές",
-	"wm-commonstrings-resolutions": "Ψηφίσματα",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Ψήφισμα|Ψηφίσματα}}",
 	"wm-commonstrings-scope": "Πεδίο δράσης",
 	"wm-commonstrings-seealso": "Δείτε επίσης",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Συντόμευση|Συντομεύσεις}}",

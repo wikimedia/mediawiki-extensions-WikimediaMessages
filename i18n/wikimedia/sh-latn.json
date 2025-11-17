@@ -249,7 +249,7 @@
 	"protect-level-editextendedsemiprotected": "dopušteno samo autopatrolerima",
 	"restriction-level-editextendedsemiprotected": "zaštićeno (autopatroleri)",
 	"action-banner-protect": "zaštitu prevodivih stranicā s kojima radi proširenje i uključenih u središnje obavjesnice",
-	"wikimedia-centralauth-contribs-locked": "Ovaj račun je globalno zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1|detalje o globalnom računu]].",
+	"wikimedia-centralauth-contribs-locked": "Ovaj račun globalno je zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1|globalni račun]].",
 	"action-viewdeletedfile": "pregled obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"right-viewdeletedfile": "Pregledanje obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Izbori za članove odbora",
