@@ -63,7 +63,7 @@
 	"wm-license-lgpl-text": "Kjo librair është një [[{{int:wm-license-free-software-wiki-link}}|softuer i lirë]]; ju mund ta rishpërndani dhe/ose modifikoni sipas kushteve të '''[[{{int:wm-license-lgpl-wiki-link}}|GNU Lesser General Public License]]''' publikuar nga [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; ose versioni 2.1 i Licensës ose (sipas mendimit tuaj) çdo version i mëvonshëm. Kjo librari shpërndahet me shpresën se do të jetë e përdorshme, por '''pa asnjë garanci'''; madje pa as garancinë e shprehur të '''shitjes''' ose '''përshtatje për një qëllimtë caktuar'''. Shikoni [{{int:wm-license-lgpl-2.1-full-link}} versionin 2.1] dhe [{{int:wm-license-lgpl-3-full-link}} versionin 3 të GNU General Public License] për më shumë detaje.",
 	"wm-license-licensing-update-text": "Kjo etiketë licencimi u shtua te kjo skedë si pjesë e [[{{int:wm-license-licensing-update-wiki-link}}|përditësimit të lincecimit]]. GFDL.",
 	"wm-license-original-upload-log": "Regjistri origjinal i ngarkimeve",
-	"wm-license-own-work": "Puna vetjake",
+	"wm-license-own-work": "Punë e juaja",
 	"wm-license-pd-author-self-text": "Unë,krijuesi i kësaj pune, e lëshoj këtë punë në '''[[{{int:wm-license-pd-wiki-link}}|public domain]]'''. Kjo aplikohet në të gjithë botën.",
 	"wm-license-pd-author-with-author-text": "Kjo skedë është lëshuar në '''[[{{int:wm-license-pd-wiki-link}}|public domain]]''' nga autori i saj, '''$1'''. Kjo aplikohet në të gjithë botën.",
 	"wm-license-pd-author-not-legally-possible": "Në disa vende kjo mund të mos jetë e mundur ligjërisht; nëse është kështu:",
