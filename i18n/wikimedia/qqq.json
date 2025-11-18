@@ -452,6 +452,8 @@
 	"wikimedia-wikistats-label": "Label for Wikistats, used in navigation or headers",
 	"wikimedia-wikistats-tagline": "Tagline for Wikistats, used in navigation and labels.",
 	"wikimedia-cookiestatement": "Text for link to Wikimedia Foundation statement about using [[:w:en:HTTP cookie|web cookies]] on governancewiki for the footer on all Wikimedia wikis.",
+	"wikimedia-legal-safety-contacts": "Text for footer link to Wikimedia Foundation Legal and Safety Contact Information page.",
+	"wikimedia-legal-safety-contacts-url": "{{notranslate}}\nThe URL of the Wikimedia Foundation Legal and Safety Contact Information page. The URL uses Special:MyLanguage to automatically redirect users to the translated version if available.",
 	"ext-quicksurveys-performance-internal-survey-question": "The question for the perceived performance internal survey",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Points to the privacy statement specific to the perceived performance internal survey",
 	"ext-quicksurveys-patrollertools-external-survey-question": "The question for the Patroller Tools Use external survey",
