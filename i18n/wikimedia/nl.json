@@ -435,6 +435,7 @@
 	"readinglists-list-empty-message": "U kunt deze lijst importeren als u Wikipedia-app installeert.",
 	"ipinfo-global-contributions-url-label": "Globale bijdragen",
 	"checkuser-group-requirements-temporary-account-viewer": "Gebruiker voldoet niet aan de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users toegangscriteria]",
+	"userrights-restricted-group-temporary-account-viewer": "Gebruiker voldoet niet aan de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users toegangscriteria]",
 	"wikimedia-foundation-projects-label": "Wikimedia Foundation-projecten",
 	"wikimedia-foundation-projects-of-label-link": "Projecten van de [[$1|Wikimedia Foundation]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Projecten van de Wikimedia Foundation",

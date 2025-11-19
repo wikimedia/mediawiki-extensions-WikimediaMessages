@@ -427,6 +427,7 @@
 	"research-incentive-confirm-msg": "Kiitos!",
 	"ipinfo-global-contributions-url-label": "Järjestelmänlaajuiset muokkaukset",
 	"checkuser-group-requirements-temporary-account-viewer": "Käyttäjä ei täytä [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_user pääsyvaatimuksia]",
+	"userrights-restricted-group-temporary-account-viewer": "Käyttäjä ei täytä [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_user pääsyvaatimuksia]",
 	"wikimedia-foundation-projects-label": "Wikimedia-säätiön projektit",
 	"wikimedia-foundation-projects-of-label-link": "[[$1|Wikimedia Foundation]]in hankkeet",
 	"wikimedia-foundation-projects-of-label-nolink": "Wikimedia-säätiön hankkeet",

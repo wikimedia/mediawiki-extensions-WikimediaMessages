@@ -482,6 +482,7 @@
 	"research-incentive-confirm-msg": "شكرًا!",
 	"ipinfo-global-contributions-url-label": "مساهمات عالمية",
 	"checkuser-group-requirements-temporary-account-viewer": "المستخدم لا يفي [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_user بمعايير الوصول]",
+	"userrights-restricted-group-temporary-account-viewer": "المستخدم لا يفي بمعايير الوصول [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users]",
 	"protect-level-edit-legal": "سمح فقط للمستخدمين الذين يمكنهم تعديل الصفحات المتعلقة بالقانون",
 	"restriction-level-edit-legal": "محمي قانونيًا",
 	"wikimedia-foundation-projects-label": "مشاريع مؤسسة ويكيميديا",

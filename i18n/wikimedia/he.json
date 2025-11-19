@@ -433,6 +433,7 @@
 	"research-incentive-privacy": "ר' את מדיניות הפרטיות שלך למידע נוסף על תוכניות המחקר שלנו [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program כאן].",
 	"ipinfo-global-contributions-url-label": "תרומות גלובליות",
 	"checkuser-group-requirements-temporary-account-viewer": "המשתמש אינו עומד ב[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users תנאי הגישה]",
+	"userrights-restricted-group-temporary-account-viewer": "המשתמש אינו עומד ב[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users תנאי הגישה]",
 	"wikimedia-foundation-projects-label": "מיזמי קרן ויקימדיה",
 	"wikimedia-foundation-projects-of-label-link": "מיזמים של [[$1|קרן ויקימדיה]]",
 	"wikimedia-foundation-projects-of-label-nolink": "מיזמים של קרן ויקימדיה",

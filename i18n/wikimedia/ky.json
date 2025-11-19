@@ -4,6 +4,7 @@
 			"Bosogo",
 			"Chorobek",
 			"Growingup",
+			"Janabaevazizbek",
 			"Janatkg",
 			"Varnent",
 			"Элдин беги"
@@ -29,6 +30,7 @@
 	"group-engineer": "Инженерлер",
 	"group-engineer-member": "{{GENDER:$1|инженер}}",
 	"grouppage-engineer": "{{ns:project}}:Инженерлер",
+	"group-eliminator": "Чечим кабыл алуучулар",
 	"group-event-organizer": "Иш-чаранын уюштуруучулары",
 	"group-event-organizer-member": "{{GENDER:$1|иш-чаранын уюштуруучусу}}",
 	"grouppage-event-organizer": "{{ns:project}}:Иш-чаранын уюштуруучулары",
