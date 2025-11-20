@@ -416,7 +416,7 @@
 	"research-incentive-answer-negative": "Нет",
 	"research-incentive-confirm-msg": "Спасибо!",
 	"ipinfo-global-contributions-url-label": "Глобальный вклад",
-	"checkuser-group-requirements-temporary-account-viewer": "Пользователь не ознакомился с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users критериями доступа]",
+	"checkuser-group-requirements-temporary-account-viewer": "Пользователь не удовлетворяет [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users критериям доступа]",
 	"wikimedia-foundation-projects-label": "Проекты Фонда Викимедиа",
 	"wikimedia-foundation-projects-of-label-nolink": "Проекты Фонда Викимедиа",
 	"wikimedia-projects-label": "Проекты Викимедиа",

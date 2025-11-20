@@ -330,7 +330,7 @@
 	"upload-more-photos-of-this-monument": "Unggah lebih banyak foto dari monumen ini",
 	"createacct-captcha-help-url": "{{ns:Project}}:Mohon buatkan akun",
 	"wikimedia-developers": "Pengembang",
-	"wikimedia-torblock-blocked": "Alamat IP Anda, <strong>$1</strong>, telah teridentifikasi secara otomatis sebagai node keluar [https://en.wikipedia.org/wiki/Tor_(network) Tor].\nPenyuntingan melalui Tor diblokir untuk mencegah penyalahgunaan.\nUntuk informasi tambahan dan petunjuk bagi pengguna yang sah, lihat kebijakan global mengenai [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies \n proksi terbuka].",
+	"wikimedia-torblock-blocked": "Alamat IP Anda, <strong>$1</strong>, telah teridentifikasi secara otomatis sebagai node keluar [https://en.wikipedia.org/wiki/Tor_(network) Tor]. Penyuntingan melalui Tor diblokir untuk mencegah penyalahgunaan. Untuk informasi tambahan dan petunjuk bagi pengguna yang sah, lihat kebijakan global mengenai [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies proksi terbuka].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Kebijakan Privasi]",
 	"upload-form-label-own-work-message-commons": "Saya menyatakan bahwa saya memiliki hak cipta atas berkas ini, dan setuju untuk merilis berkas ini tanpa dapat ditarik kembali ke Wikimedia Commons di bawah [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike 4.0] lisensi, dan saya menyetujui [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use].",

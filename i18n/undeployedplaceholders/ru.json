@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"No se"
+			"No se",
+			"Colt browning"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 объединил{{GENDER:$2||а}} учётную запись \"$4\" ($5) с {{GENDER:$8|$6}} ($7)",
@@ -10,5 +11,6 @@
 	"wikimedia-graph-tracking-category": "Страницы с графиками",
 	"wikimedia-graph-tracking-category-desc": "Страница включает в себя тег <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Страницы со сломанными графиками",
-	"wikimedia-graph-broken-category-desc": "На этой странице неверно используется тег <code>&lt;graph&gt;</code>."
+	"wikimedia-graph-broken-category-desc": "На этой странице неверно используется тег <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-disabled-category": "Страницы с отключёнными графиками"
 }

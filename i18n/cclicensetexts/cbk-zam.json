@@ -7,7 +7,15 @@
 		]
 	},
 	"wm-license-cc-attribution": "Atribucion",
+	"wm-license-cc-by-sa-3.0-text": "Este file tiene licencia bajo na [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Licencia [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
+	"wm-license-cc-free": "Libre tu:",
 	"wm-license-cc-free-to-share-header": "para comparti",
+	"wm-license-cc-free-to-share-text": "copia, distribui y transmiti el obra",
+	"wm-license-cc-free-to-remix-header": "remezcla",
+	"wm-license-cc-free-to-remix-text": "adapta con el obra",
+	"wm-license-cc-conditions": "Bajo del seguidito condiciones:",
 	"wm-license-cc-conditions-attribution-header": "atribucion",
-	"wm-license-cc-conditions-share_alike-header": "comparti con el igual"
+	"wm-license-cc-conditions-attribution-text": "Debe tiene tu credito propio, dale un link para na licencia, y indica si tiene cambio ya hace. Puede man tu hace na masquin cosa manera razonable, pero hende na masquin cosa manera que ta sugeri que el licenciante ta endorsa contigo o que laya tu ta usa.",
+	"wm-license-cc-conditions-share_alike-header": "comparti con el igual",
+	"wm-license-cc-conditions-share_alike-text": "Si remezcla, transforma, o construi con este material, debe tu distribui el maga contribucion de tuyo bajo na [[ccorg:share-your-work/licensing-considerations/compatible-licenses|semejante o compatible licencia]] igual na original."
 }

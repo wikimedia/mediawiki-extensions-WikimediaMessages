@@ -17,6 +17,7 @@
 	"wikimedia-sitematrix": "Spisak Wikimedijinih wikija",
 	"wikimedia-sitematrix-others": "Ostali projekti Wikimedije",
 	"wikimedia-sitematrix-summary": "Ova posebna stranica prikazuje sve Wikimedia wikije.",
+	"wikimedia-ipinfo-help-text": "Vaša upotreba ovog alata podliježe [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Wikimedijinim smjernicama]. Prikazane informacije pružaju MaxMind i [https://docs.spur.us/data-types Spur]. Moguće je da nisu u potpunosti tačne.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Vaša IP-adresa [[m:Special:MyLanguage/Global blocks|blokirana je na svim wikijima]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Jedan ili više proxy-servera koji koristite [[m:Special:MyLanguage/Global blocks|globalno je blokiran]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Ako smatrate da ste greškom blokirani, dodatne informacije i uputstva možete pronaći na stranici o globalnoj smjernici \"[[m:Special:MyLanguage/No open proxies|Zabranjeni otvoreni proksiji]]\".\nU suprotnom, [[m:Steward requests/Global|zahtjev za blokadu postavite na Meta-Wikiju]].",

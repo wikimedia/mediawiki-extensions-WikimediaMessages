@@ -425,7 +425,7 @@
 	"research-incentive-answer-negative": "Non",
 	"research-incentive-confirm-msg": "Grazas!",
 	"ipinfo-global-contributions-url-label": "Contribucións globais",
-	"checkuser-group-requirements-temporary-account-viewer": "A conta non cumpre os [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_user criterios de acceso]",
+	"checkuser-group-requirements-temporary-account-viewer": "A conta non cumpre os [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users criterios de acceso]",
 	"wikimedia-foundation-projects-label": "Proxectos da Fundación Wikimedia",
 	"wikimedia-foundation-projects-of-label-link": "Proxectos da [[$1|Fundación Wikimedia]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Proxectos da Fundación Wikimedia",
