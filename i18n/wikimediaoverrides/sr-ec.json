@@ -58,5 +58,7 @@
 	"wikimedia-oathauth-step1-test": "Преузмите програм за двофакторску аутентификацију. Видети [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication] за препоручене клијенте.",
 	"wikimedia-skin-minerva-donate-banner-message": "Донирај",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Ако вам је Википедија од вајде, молимо донирајте данас.",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Ако вам је овај сајт од вајде, молимо донирајте данас."
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Ако вам је овај сајт од вајде, молимо донирајте данас.",
+	"wikimedia-emailauth-accountrecovery-intro": "Опоравак Вашег Викимедијиног налога",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Имејл регистрован са Вашим Викимедијиним налогом"
 }
