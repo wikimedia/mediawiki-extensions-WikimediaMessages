@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Köpleres",
 			"RFScott"
 		]
 	},
@@ -13,7 +14,7 @@
 	"wm-license-cc-free-to-remix-text": "эйвэ таговорит",
 	"wm-license-cc-conditions": "Туй тами ая:",
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
-	"wm-license-cc-conditions-attribution-text": "!!FUZZ!!Уй эйвэ ангохани? Гусэрэусу!",
+	"wm-license-cc-conditions-attribution-text": "<!-- !!FUZZ!! -->Уй эйвэ ангохани? Гусэрэусу!",
 	"wm-license-cc-conditions-share_alike-header": "тэй колиди гэлэури",
 	"wm-license-cc-conditions-share_alike-text": "Си калайси, ангойси хайва-да тэй дякади осини, тамача колиди тами ая: [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses]"
 }
