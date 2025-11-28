@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"StanProg",
+			"Ted Masters",
 			"Vlad5250"
 		]
 	},
@@ -13,5 +14,7 @@
 	"wikimedia-graph-tracking-category": "Страници с графики",
 	"wikimedia-graph-tracking-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг.",
 	"wikimedia-graph-broken-category": "Страници с повредени графики",
-	"wikimedia-graph-broken-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг, използван по неправилен начин."
+	"wikimedia-graph-broken-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг, използван по неправилен начин.",
+	"wikimedia-graph-disabled-category": "Страници със спрени графики",
+	"wikimedia-graph-disabled-category-desc": "Страницата съдържа <code>&lt;graph&gt;</code> таг, който е временно недостъпен ([[phab:T334940|T334940]])."
 }
