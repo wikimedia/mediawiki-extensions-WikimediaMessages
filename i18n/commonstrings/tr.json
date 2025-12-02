@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"SaldırganSincap"
 		]
 	},
 	"wm-commonstrings-activities": "Etkinlikler",
@@ -24,7 +25,7 @@
 	"wm-commonstrings-questions": "Sorular?",
 	"wm-commonstrings-register-account": "Hesap kaydı",
 	"wm-commonstrings-reports": "Raporlar",
-	"wm-commonstrings-resolutions": "Alınan kararlar",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Çözüm|Çözümler}}",
 	"wm-commonstrings-scope": "Kapsam",
 	"wm-commonstrings-seealso": "Ayrıca bakınız",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Kısayol|Kısayollar}}",

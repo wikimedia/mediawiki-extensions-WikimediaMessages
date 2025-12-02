@@ -206,6 +206,7 @@
 	"group-translationadmin": "Administratorzy tłumaczeń",
 	"group-translationadmin-member": "{{GENDER:$1|administrator|administratorka}} tłumaczeń",
 	"grouppage-translationadmin": "{{ns:project}}:Administratorzy tłumaczeń",
+	"group-u4c-member": "Członkowie U4C",
 	"group-vrt-permissions": "Agenci z uprawnieniami VRT",
 	"group-wmf-officeit": "Wewnętrzni pracownicy IT w WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1|Informatyk biura WMF}}",
@@ -356,5 +357,5 @@
 	"wikimedia-talkheader-signature": "[[$1|Podpisywaniu]] wypowiedzi czterema tyldami (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie treść w języku angielskim.",
 	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]].",
-	"wikimedia-talk-archive-page-intro": "To jest '''archiwum''' wcześniejszych dyskusji. '''Nie edytuj zawartości tej strony.''' Jeśli chcesz rozpocząć nową dyskusję lub ożywić starą, zrób to na [[$ |bieżącej stronie dyskusji]]."
+	"wikimedia-talk-archive-page-intro": "To jest '''archiwum''' wcześniejszych dyskusji. '''Nie edytuj zawartości tej strony.''' Jeśli chcesz rozpocząć nową dyskusję lub ożywić starą, zrób to na [[$1|bieżącej stronie dyskusji]]."
 }

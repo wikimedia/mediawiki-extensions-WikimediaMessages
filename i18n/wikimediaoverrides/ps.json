@@ -16,5 +16,6 @@
 	"createacct-helpusername-url": "{{ns:Project}}:کارن‌نوم تگلار",
 	"wikimedia-sitematrix": "د ويکي‌‌رسنۍ د ويکي‌گانو لړليک",
 	"wikimedia-sitematrix-others": "د ويکي‌رسنۍ نورې پروژې",
-	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکي‌رسنۍ د ټولو ويکي گانو لړليک ښکاره کوي."
+	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکي‌رسنۍ د ټولو ويکي گانو لړليک ښکاره کوي.",
+	"wikimedia-globalblocking-blockedtext-ip-range": "بنديز لړۍ $1 دی."
 }

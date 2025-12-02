@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"No se"
+			"No se",
+			"Colt browning"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 объединил{{GENDER:$2||а}} учётную запись \"$4\" ($5) с {{GENDER:$8|$6}} ($7)",

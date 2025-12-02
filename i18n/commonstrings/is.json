@@ -1,8 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Nikki"
+			"Nikki",
+			"Sveinn í Felli"
 		]
 	},
+	"wm-commonstrings-events": "Viðburðir",
+	"wm-commonstrings-news-events": "Fréttir og viðburðir",
 	"wm-commonstrings-seealso": "Sjá einnig"
 }
