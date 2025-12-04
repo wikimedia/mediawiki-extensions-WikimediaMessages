@@ -18,7 +18,7 @@
 			"Xiplus"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "最近此 wiki 上有訪客使用了您的 IP 地址建立了 {{PLURAL:$1|1 個帳號|$1 個帳號}}，已達到在此時段裡的最大允許數量。\n因此，目前使用該 IP 地址的訪客將無法建立更多的帳號。\n\n如果您目前正在投入貢獻維基媒體專案相關活動的話，請查看[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|請求臨時提升 IP 權限]]來協助解決此問題。",
+	"wikimedia-acct_creation_throttle_hit": "在最近$2此 wiki 上有訪客使用了您的 IP 地址建立了 {{PLURAL:$1|1|$1}} 個帳號，已達到在此時段裡的最大允許數量。\n因此，目前使用該 IP 地址的訪客將無法建立更多的帳號。\n\n如果您目前正在投入貢獻維基媒體專案相關活動的話，請查看[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|請求臨時提升 IP 權限]]來協助解決此問題。",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|（協助我選擇）]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "您可存取[[m:Special:CentralAuth/$1|其他曾貢獻過的維基媒體專案]]的偏好設定頁面來下載那些專案的帳戶資料。",
 	"wikimedia-createacct-imgcaptcha-help": "無法看到圖像嗎？[[{{MediaWiki:createacct-captcha-help-url}}|請求建立用戶]]",
@@ -54,13 +54,13 @@
 	"wikimedia-urlshortener-badaccessgroups": "短連結僅可透過在 meta.wikimedia.org 上的 [[:m:Special:UrlShortener|Special:UrlShortener]] 建立。",
 	"wikimedia-apierror-urlshortener-permissiondenied": "短連結僅能以調用 meta.wikimedia.org wiki 來建立。",
 	"wikimedia-webauthn-module-description": "'''不推薦：'''WebAuthn（Web Authentication）是全球資訊網協會（W3C）發布的一個網路標準。WebAuthn是FIDO聯盟領導下FIDO2專案的核心部件。該專案旨在使用公鑰加密來標準化使用者向基於網路的應用或服務驗證身分時的介面。[https://zh.wikipedia.org/wiki/WebAuthn 了解更多]。請注意，您需要登入到您最初註冊驗證裝置時所在的同一個wiki。您還須組態瀏覽器以接受來自其他所有姊妹wiki的cookie。如果不知道如何操作，您可能無法完成登入。因此，目前對於大多數使用者來說，不建議採用此方法。",
-	"wikimedia-webauthn-ui-login-prompt": "請輕觸您的驗證設備或是依照瀏覽器的說明進行。請注意您需要在原先註冊的驗證設備裡，登入到相同的 wiki 上",
+	"wikimedia-webauthn-ui-login-prompt": "請輕觸您的驗證設備或是依照瀏覽器的說明進行。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隱私政策]",
-	"wikimedia-ipinfo-preference-use-agreement": "我同意根據[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP資訊工具指引]來使用本工具，僅用於調查或阻止破壞、濫用或其他違反維基媒體基金會及社群方針的行為。",
+	"wikimedia-ipinfo-preference-use-agreement": "我同意根據[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP資訊工具指引]來使用本工具，僅用於調查或阻止破壞、濫用或其他違反維基媒體基金會及社群方針的行為",
 	"wikimedia-centralauth-admin-log-otherwiki": "此帳號已被鎖定。參見[[meta:Special:CentralAuth/$1|元維基的全域帳號詳情]]以取得更多詳情。",
 	"wikimedia-globalblocking-blockedtext-on-range": "您的IP位址處於[[m:Special:MyLanguage/Global blocks|所有維基媒體基金會wiki上被封鎖]]的區段範圍內。",
 	"wikimedia-globalblocking-blockedtext-ip-range": "被封鎖的位址段為$1。",
 	"wikimedia-globalblocking-blockedtext-proxy": "被封鎖的代理伺服器位址是$1。",
-	"wikimedia-globalblocking-blockedtext-mistake": "如果您認為自己被錯誤封鎖，可以在[[m:Special:MyLanguage/No open proxies|請勿使用開放代理]]中檢視更多資訊和說明。\n此外，請[[m:Steward requests/Global|在元維基上發布稽核請求]]討論該封鎖。",
+	"wikimedia-globalblocking-blockedtext-mistake": "如果您認為自己被封鎖是場錯誤，可以在[[m:Special:MyLanguage/Stewards/Wizard\n|監管員封鎖精靈]]中檢視更多資訊和說明。",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果維基百科對您有助益，不妨現在就考慮捐款。"
 }

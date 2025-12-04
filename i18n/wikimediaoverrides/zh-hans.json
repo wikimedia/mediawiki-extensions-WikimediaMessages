@@ -87,7 +87,7 @@
 	"wikimedia-jsonconfig-license-notice": "'''注意：'''编辑此页面即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并且您同意不可撤销地依照[{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]协议条款发布您的贡献。",
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''注意：'''编辑此页面即表明您同意我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并且您同意不可撤销地依照<code>license</code>字段中提供的协议发布您的贡献。",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "我同意按照维基媒体基金会的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，谨慎处理在活动注册期间收集的参与者信息，包括参与者个人身份信息。",
-	"wikimedia-oathauth-step1-test": "请下载一个双重验证程序。请查看[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:双因素身份验证]以了解推荐的客户端。",
+	"wikimedia-oathauth-step1-test": "请下载一个双重认证应用程序。请参阅[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:双重认证]以了解推荐的客户端。",
 	"wikimedia-oathauth-recovery-code-hint": "无法访问您的设备或者应用程序？您可以在此字段中输入恢复代码（启用双重验证时提供）。如果无法完成，请查看[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help:双因素身份验证]以了解更多选项。",
 	"wikimedia-skin-minerva-donate-banner-message": "立即捐款",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果维基百科对您有所助益，不妨现在就考虑捐款。",
