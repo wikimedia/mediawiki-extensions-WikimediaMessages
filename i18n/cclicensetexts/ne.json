@@ -12,7 +12,7 @@
 		]
 	},
 	"wm-license-cc-attribution": "एट्रिब्युसन",
-	"wm-license-cc-by-sa-3.0-text": "यो फाइल [[{{int:wm-license-cc-wiki-link}}|क्रिएटिभ कमन्स]] [[creativecommons:by-sa/3.0/|एट्रिब्युसन-सेयर एलाइक ३.० अनपोर्टेड]] लाइसेन्स अनुसारको अनुमति प्राप्त छ।",
+	"wm-license-cc-by-sa-3.0-text": "यो फाइल [[{{int:wm-license-cc-wiki-link}}|क्रिएटिभ कमन्स]] [[creativecommons:by-sa/3.0/deed.en|एट्रिब्युसन-सेयर एलाइक ३.० अनपोर्ट]] लाइसेन्स अन्तर्गत इजाजतपत्र प्राप्त छ।",
 	"wm-license-cc-free": "तपाईं स्वतन्त्र हुनुहुन्छ :",
 	"wm-license-cc-free-to-share-header": "साझेदारी गर्नुहाेस्",
 	"wm-license-cc-free-to-share-text": "रचनालाई कपी, वितरित तथा संचारित गर्नको लागि",
@@ -22,5 +22,5 @@
 	"wm-license-cc-conditions-attribution-header": "श्रेय",
 	"wm-license-cc-conditions-attribution-text": "तपाईंले रचनाको श्रेय अनुमतिपत्रकर्ता अथवा लेखकले बताएको माध्यमले दिनु पर्नेछ (तर यस प्रकार हैन, जसमा लागोस् की उ तपाईंलाई अथवा तपाईंको रचनाको प्रयोगलाई समर्थन गर्छन्)।",
 	"wm-license-cc-conditions-share_alike-header": "शेयर अलाइक",
-	"wm-license-cc-conditions-share_alike-text": "यदि तपाई यस रचनामा कुनै परिवर्तन अथवा संसोधन गर्नुहुन्छ या यसमा आधारित केही रचना गर्नुहुन्छ भने तपाई निष्कर्ष स्वरूप बनेको रचनालाई मात्र [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses यहाँ अथवा यसको समान कुनै अनिमति पत्र] अन्तर्गत वितरित गर्न सक्नुहुन्छ।"
+	"wm-license-cc-conditions-share_alike-text": "यदि तपाईंले सामग्रीलाई संसोधन, रूपान्तरण, वा निर्माण गर्नुभयो भने, तपाईंले आफ्नो योगदानहरू [[ccorg:share-your-work/licensing-considerations/compatible-licenses|उस्तै वा मिल्दो लाइसेन्स]] अन्तर्गत मूल रूपमा वितरण गर्नुपर्छ।"
 }

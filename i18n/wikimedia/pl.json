@@ -37,7 +37,8 @@
 			"ToSter",
 			"Varnent",
 			"WTM",
-			"Woytecr"
+			"Woytecr",
+			"Sandiooses"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -202,9 +203,12 @@
 	"group-steward-member": "{{GENDER:$1|steward|stewardka}}",
 	"group-sysadmin": "Administratorzy systemu",
 	"group-sysadmin-member": "{{GENDER:$1|administrator|administratorka}} systemu",
+	"group-translator": "Tłumacze",
+	"group-translator-member": "{{GENDER:$1|tłumacz|tłumaczka}}",
 	"group-translationadmin": "Administratorzy tłumaczeń",
 	"group-translationadmin-member": "{{GENDER:$1|administrator|administratorka}} tłumaczeń",
 	"grouppage-translationadmin": "{{ns:project}}:Administratorzy tłumaczeń",
+	"group-u4c-member": "Członkowie U4C",
 	"group-vrt-permissions": "Agenci z uprawnieniami VRT",
 	"group-wmf-officeit": "Wewnętrzni pracownicy IT w WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1|Informatyk biura WMF}}",
@@ -315,6 +319,7 @@
 	"wikimedia-cookiestatement": "Oświadczenie o ciasteczkach",
 	"ext-quicksurveys-performance-internal-survey-question": "Czy strona ładowała się wystarczająco szybko?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Zobacz [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement zasady prywatności] tej ankiety aby dowiedzieć się więcej.",
+	"ext-quicksurveys-patrollertools-external-survey-question": "Czy jesteś zainteresowany wzięciem udziału w krótkiej ankiecie, której celem jest udoskonalenie narzędzi służących do przeglądania i wycofywania edycji na Twojej wiki?",
 	"wikimedia-switchover-read-only": "Nie możesz teraz edytować z powodów konserwacyjnych. Skopiuj i zapisz tekst swojej edycji, a następnie spróbuj ponownie za parę minut.",
 	"group-oathauth-tester": "Testerzy uwierzytelniania dwuskładnikowego",
 	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} uwierzytelniania dwuskładnikowego",
@@ -338,9 +343,11 @@
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Nie",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Tak",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Nie",
+	"tooltip-gadget-purgetab-text": "Wyczyść pamięć podręczną tej strony",
 	"gadget-souspages-subpages": "Podstrony",
 	"ext-campaignevents-register-policy": "Zapisując się zgadzasz się z [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Warunkami użytkowania], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Polityką prywatności], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct Powszechnymi Zasadami Postępowania] oraz innymi zasadami przyjaznej przestrzeni ustalonymi przez organizatora wydarzenia.",
 	"ipinfo-global-contributions-url-label": "Globalny wkład",
+	"checkuser-group-requirements-temporary-account-viewer": "Użytkownik nie spełnia [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users kryteriów dostępu]",
 	"protect-level-edit-legal": "Dozwolone tylko dla użytkowników z pozwoleniem na edytowanie materiałów prawnych",
 	"restriction-level-edit-legal": "tylko dla prawników",
 	"wikimedia-foundation-projects-of-label-nolink": "Projekty Wikimedia Foundation",
@@ -353,7 +360,7 @@
 	"wikimedia-talkheader-signature": "[[$1|Podpisywaniu]] wypowiedzi czterema tyldami (~~~~)",
 	"wikimedia-translation-disclaimer-nolink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie treść w języku angielskim.",
 	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]].",
-	"wikimedia-talk-archive-page-intro": "To jest '''archiwum''' wcześniejszych dyskusji. '''Nie edytuj zawartości tej strony.''' Jeśli chcesz rozpocząć nową dyskusję lub ożywić starą, zrób to na [[$ |bieżącej stronie dyskusji]].",
+	"wikimedia-talk-archive-page-intro": "To jest '''archiwum''' wcześniejszych dyskusji. '''Nie edytuj zawartości tej strony.''' Jeśli chcesz rozpocząć nową dyskusję lub ożywić starą, zrób to na [[$1|bieżącej stronie dyskusji]].",
 	"wikimedia-articletopics-group-geography": "Geografia",
 	"wikimedia-articletopics-group-culture": "Kultura",
 	"wikimedia-articletopics-group-history-and-society": "Historia i społeczeństwo",
@@ -396,5 +403,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Matematyka",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medycyna i zdrowie",
 	"wikimedia-articletopics-topic-physics": "Fizyka",
-	"wikimedia-articletopics-topic-technology": "Technologia"
+	"wikimedia-articletopics-topic-technology": "Technologia",
+	"wikimedia-namespaceinfo-description-ns470": "Przestrzeń nazw schematów używanych przez stary system EventLogging do walidacji zdarzeń analitycznych. Wszystkie strony w przestrzeni nazw Schema zostały wyczyszczone w ramach [[phab:T238230|likwidacji starego systemu EventLogging]]."
 }
