@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"Samoasambia",
 			"Seipinne"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(iššeed muu valjiđ)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Puávtáh eelliđ Asâttâsah-siijđost [[m:Special:CentralAuth/$1|eres Wikimedia-haavâin, main lah hammim]] ete puávtáh luođđiđ tuu tili tiäđuid tain haavâin.",
+	"wikimedia-createacct-imgcaptcha-help": "Jieh-uv uáini kove? [[{{MediaWiki:createacct-captcha-help-url}}|Táátu tubdâlduv]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Kevtteetubdâldâh"
 }
