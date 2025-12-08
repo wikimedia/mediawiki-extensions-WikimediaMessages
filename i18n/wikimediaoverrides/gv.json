@@ -1,8 +1,10 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"MacTire02"
+		]
 	},
 	"wikimedia-sitematrix": "Rolley wikighyn Wikimedia",
-	"wikimedia-sitematrix-others": "Shaleeghyn elley Wikimedia",
-	"wikimedia-sitematrix-summary": "Ta rolley dagh ooilley wiki Wikimedia er y duillag er lheh shoh"
+	"wikimedia-sitematrix-others": "Shaleeyn Wikimedia elley",
+	"wikimedia-sitematrix-summary": "Ta dagh ooilley wiki lesh Wikimedia listit er y duillag er lheh shoh."
 }

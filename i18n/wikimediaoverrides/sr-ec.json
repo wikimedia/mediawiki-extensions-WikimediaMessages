@@ -56,7 +56,7 @@
 	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Објављивањем измена, прихватате [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења]  и неопозиво прихватате да објавите свој допринос под лиценцама наведеним у пољу <code>licence</code>.",
 	"wikimedia-jsonconfig-license-notice": "Објављивањем измена, прихватате [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења]  и неопозиво прихватате да објавите свој допринос под лиценцама [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''Напомена:''' Уређивањем ове странице прихватате [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења], и неопозиво прихватате да објавите свој допринос под лиценцама наведеним  у пољу <code>licence</code>.",
-	"wikimedia-oathauth-step1-test": "Преузмите програм за двофакторску аутентификацију. Видети [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication] за препоручене клијенте.",
+	"wikimedia-oathauth-step1-test": "Преузмите апликацију за двофакторску аутентификацију. Видети [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Помоћ:Двофакторска аутентификација] за препоручене клијенте.",
 	"wikimedia-skin-minerva-donate-banner-message": "Донирај",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Ако вам је Википедија од вајде, молимо донирајте данас.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Ако вам је овај сајт од вајде, молимо донирајте данас.",

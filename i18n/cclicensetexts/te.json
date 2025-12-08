@@ -6,7 +6,8 @@
 			"Multichill",
 			"RanjithSutari",
 			"Ravichandra",
-			"Veeven"
+			"Veeven",
+			"WikiPBR"
 		]
 	},
 	"wm-license-cc-attribution": "ఆపాదింపు",
@@ -181,5 +182,5 @@
 	"wm-license-cc-conditions-attribution-header": "ఆపాదింపు",
 	"wm-license-cc-conditions-attribution-text": "సముచితమైన శ్రేయస్సును ఇవ్వాలి, లైసెన్సుకు లింకు ఇవ్వాలి, మార్పులేమైనా చేస్తే వాటిని సూచించాలి. అందుకు సముచితమైన పద్ధతి దేన్నైనా అవలంబించవచ్చు. కానీ మీకూ మీ వాడుకకూ హక్కుదారు అనుమతించారు అనే అర్థం వచ్చేటట్లుగా మాత్రం కాదు.",
 	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "మీరు ఈ కృతిని అనుకరిస్తే, మారిస్తే, లేదా మెరుగుపరిస్తే తత్ఫలిత కృతిని [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses ఇదే లైసెన్సు లేదా దీనికి అనుగుణ్యమైన లైసెన్సు] క్రింద మాత్రమే పంపిణీ చేయాలి."
+	"wm-license-cc-conditions-share_alike-text": "మీరు ఆ విషయాన్ని అనుకరించినా, రూపాంతరం చేసినా లేదా నిర్మించినా, మీరు మీ సహకారాలను అసలు దాని వలె [[ccorg:share-your-work/licensing-considerations/compatible-licenses|అనుకూల లైసెన్స్]] కింద పంపిణీ చేయాలి."
 }

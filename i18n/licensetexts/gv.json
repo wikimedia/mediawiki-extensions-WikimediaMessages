@@ -1,8 +1,16 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"MacTire02"
+		]
 	},
 	"wm-license-free-software-wiki-link": "w:gv:Cooid vog heyr",
 	"wm-license-information-description": "Coontey",
-	"wm-license-information-source": "Bun"
+	"wm-license-information-source": "Bun",
+	"wm-license-information-date": "Date",
+	"wm-license-information-author": "Ughtar",
+	"wm-license-information-permission": "Kied",
+	"wm-license-information-permission-reusing-text": "Gaa-ymmyd y coadan shoh",
+	"wm-license-own-work": "Obbyr hene",
+	"wm-license-self-multiple-licenses-select": "Foddee oo reih dty chiedoonys."
 }
