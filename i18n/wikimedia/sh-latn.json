@@ -258,7 +258,7 @@
 	"eri-rcfilters-tour-confirm-description": "Možete otvoriti <strong>stranicu za beta mogućnosti</strong> da biste dali povratne informacije ili isključili ovu mogućnost.",
 	"eri-wlfilters-tour-intro-welcome-title": "Dobro došli u poboljšano Filtriranje praćenih",
 	"eri-wlfilters-tour-intro-preferences-description": "Idite na karticu za praćene u postavkama da biste se otpisali od poboljšane verzije.",
-	"wikimedia-centralauth-contribs-locked": "Ovaj račun je globalno zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1|detalje o globalnom računu]].",
+	"wikimedia-centralauth-contribs-locked": "Ovaj račun globalno je zaključan.\nZa više informacija pogledajte [[m:Special:CentralAuth/$1|globalni račun]].",
 	"action-viewdeletedfile": "pregled obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"right-viewdeletedfile": "Pregledanje obrisanih datoteka i stranica u imenskim prostorima {{ns:file}} i {{ns:file_talk}}",
 	"securepoll-dblist-securepollglobal": "Izbori za članove odbora",

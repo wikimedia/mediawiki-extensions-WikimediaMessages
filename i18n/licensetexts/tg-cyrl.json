@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ibrahim",
-			"ToJack"
+			"ToJack",
+			"ZulfiqorF"
 		]
 	},
 	"wm-license-artwork-title": "Унвон",
@@ -16,9 +17,9 @@
 	"wm-license-book-translator": "Тарҷумон",
 	"wm-license-creator-description": "Тавзеҳот",
 	"wm-license-creator-date-of-birth": "Санаи тавпллуд",
-	"wm-license-information-description": "Тавсифот",
+	"wm-license-information-description": "Тавсиф",
 	"wm-license-information-source": "Манбаъ",
-	"wm-license-information-date": "Сана",
+	"wm-license-information-date": "Таърих",
 	"wm-license-information-author": "Муаллиф",
 	"wm-license-information-permission": "Иҷозат",
 	"wm-license-information-permission-reusing-text": "Пешроҳандозии ин парванда",

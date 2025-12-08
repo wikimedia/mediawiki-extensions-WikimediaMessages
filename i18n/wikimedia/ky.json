@@ -6,7 +6,8 @@
 			"Growingup",
 			"Janatkg",
 			"Элдин беги",
-			"Varnent"
+			"Varnent",
+			"Janabaevazizbek"
 		]
 	},
 	"wikimediamessages-desc": "Викимедианын атайын билдирүүлөрү",
@@ -29,6 +30,7 @@
 	"group-engineer": "Инженерлер",
 	"group-engineer-member": "{{GENDER:$1|инженер}}",
 	"grouppage-engineer": "{{ns:project}}:Инженерлер",
+	"group-eliminator": "Чечим кабыл алуучулар",
 	"group-eventparticipant": "Иш-чаранын катышуучулары",
 	"group-eventparticipant-member": "{{GENDER:$1|иш-чаранын катышуучусу}}",
 	"grouppage-eventparticipant": "{{ns:project}}:Иш-чаранын катышуучулары",

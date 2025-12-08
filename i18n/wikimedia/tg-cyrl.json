@@ -5,7 +5,8 @@
 			"ToJack",
 			"Vashgird",
 			"לערי ריינהארט",
-			"Darafsh"
+			"Darafsh",
+			"ZulfiqorF"
 		]
 	},
 	"wikimediamessages-desc": "Пайғомҳои махсуси Викимедиа",
@@ -72,10 +73,10 @@
 	"wikibase-sitelinks-sitename-metawiki": "Фаро-вики",
 	"wikibase-sitelinks-sitename-species": "Викинамуд",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Викидода",
-	"wikimedia-developers": "Таҳиягарон",
+	"wikimedia-developers": "Падидоварон",
 	"wikimedia-globalblocking-ipblocked": "''Суроғаи IP шумо [[m:Special:MyLanguage/Global blocks|дар тамоми викиҳо баста шуд]].'''\n\nҲисоби Шуморо $1 ($2) баст.\nСабаш ''$3''.\n\n* Аввали басташавӣ: $4\n* Анҷоми басташавӣ: $5\n\nСуроғаи IP ҳозираи Шумо ин аст $6.\nЛутфан тамоми деталҳои болоро дар саволҳои худ ҷой диҳед.\n\nАгар шумо боварӣ доред, ки ҳисоби шуморо иштибоҳан бастанд, шумо метавонед маълумоти иловагиро ва инструксияро дар [[m:Special:MyLanguage/No open proxies|Ҳеҷ проксие кушода нест]]и сиёсати саросарӣ пайдо намоед.\nБарои баҳси басташавӣ [[m:Steward requests/Global|дар Meta-Wiki дархост гузоред]].",
 	"interlanguage-link-wikipedia": "Википедия",
 	"interlanguage-link-commons": "Викианбор",
 	"wikimedia-statslink": "Омор",
-	"wikimedia-cookiestatement": "Созишномаи куки"
+	"wikimedia-cookiestatement": "Баёнияи куки"
 }
