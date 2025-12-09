@@ -115,6 +115,7 @@ class Hooks implements
 
 		static $keysToOverride = [
 			'acct_creation_throttle_hit',
+			'acct_creation_throttle_hit-temp',
 			'centralauth-contribs-locked',
 			// T216347
 			'centralauth-login-error-locked',
