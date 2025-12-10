@@ -4,7 +4,8 @@
 			"Nikki",
 			"Nux",
 			"Tar Lócesilion",
-			"Varnent"
+			"Varnent",
+			"Woytecr"
 		]
 	},
 	"wm-commonstrings-aboutme": "O mnie",
@@ -13,12 +14,14 @@
 	"wm-commonstrings-background": "Wprowadzenie",
 	"wm-commonstrings-bylaws": "Statut",
 	"wm-commonstrings-closed": "Zamknięte",
+	"wm-commonstrings-conclusion": "Wniosek",
 	"wm-commonstrings-connect": "Zamknięte",
 	"wm-commonstrings-contacthuman": "Skontaktuj się z człowiekiem",
 	"wm-commonstrings-contactus": "Kontakt",
 	"wm-commonstrings-enterquestion": "Wpisz pytanie.",
 	"wm-commonstrings-events": "Wydarzenia",
 	"wm-commonstrings-externallinks": "Linki zewnętrzne",
+	"wm-commonstrings-feedback": "Opinie",
 	"wm-commonstrings-follow": "Obserwuj",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Główny artykuł: $1|Główne artykuły: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Główna strona: $1|Główne strony: $1}}",
@@ -36,11 +39,12 @@
 	"wm-commonstrings-questions": "Masz pytania?",
 	"wm-commonstrings-register-account": "Załóż konto",
 	"wm-commonstrings-reports": "Raporty",
-	"wm-commonstrings-resolutions": "Uchwały",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Uchwała|Uchwały}}",
 	"wm-commonstrings-scope": "Zasięg",
 	"wm-commonstrings-seealso": "Zobacz też",
-	"wm-commonstrings-shortcut": "{{PLURAL:$1|Skrót|Skróts}}",
+	"wm-commonstrings-shortcut": "{{PLURAL:$1|Skrót|Skróty}}",
 	"wm-commonstrings-staff": "Pracownicy",
 	"wm-commonstrings-talktous": "Kontakt z nami",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Szablon|Szablony}}",
 	"wm-commonstrings-updates": "Aktualizacje"
 }

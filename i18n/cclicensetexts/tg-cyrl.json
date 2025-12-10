@@ -5,19 +5,20 @@
 			"ToJack",
 			"Vashgird",
 			"ZulfiqorF",
-			"Farorud"
+			"Farorud",
+			"Ravshanzamir"
 		]
 	},
 	"wm-license-cc-attribution": "Тахсис",
-	"wm-license-cc-by-sa-3.0-text": "Ин файл тибқи иҷозатномаи [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] иҷозатнома дорад.",
+	"wm-license-cc-by-sa-3.0-text": "Ин парванда тибқи иҷозатномаи [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] иҷозатнома дорад.",
 	"wm-license-cc-free": "Шумо озодед:",
-	"wm-license-cc-free-to-share-header": "мубодилот намудан",
+	"wm-license-cc-free-to-share-header": "барои ҳамрасонӣ",
 	"wm-license-cc-free-to-share-text": "копӣ, паҳн ва фиристадани асар",
 	"wm-license-cc-free-to-remix-header": "ремикс кардан",
 	"wm-license-cc-free-to-remix-text": "татбиқи кор",
 	"wm-license-cc-conditions": "Бо риояи шартҳои зерин:",
-	"wm-license-cc-conditions-attribution-header": "тахсис",
+	"wm-license-cc-conditions-attribution-header": "интисоб",
 	"wm-license-cc-conditions-attribution-text": "Шумо бояд муаллифро нишон диҳед, пайванди иҷозатномаро пешниҳод кунед ва нишон диҳед, ки оё муаллиф ягон тағирот ворид кардааст. Шумо метавонед ин корро бо ҳар роҳи оқилона иҷро кунед, аммо на ба тавре, ки иҷозатномадиҳанда шуморо ё истифодаи корро тасдиқ мекунад.",
-	"wm-license-cc-conditions-share_alike-header": "саҳми яксон",
+	"wm-license-cc-conditions-share_alike-header": "ҳамрасонии мушобеҳ",
 	"wm-license-cc-conditions-share_alike-text": "Агар ин асарро иваз мекунед ё бар пояи он асари дигаре месозед,бояд ҳиссагузориҳои худро таҳи муҷаввизи[[ccorg:share-your-work/licensing-considerations/compatible-licenses|яксон ё мушобеҳ]]бо асли он паҳн кунед"
 }
