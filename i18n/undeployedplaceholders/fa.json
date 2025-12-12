@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Huji",
 			"Jeeputer"
 		]
 	},
@@ -14,5 +15,6 @@
 	"wikimedia-graph-tracking-category": "صفحه‌های دارای گراف",
 	"wikimedia-graph-tracking-category-desc": "این صفحه حاوی برچسب <code>&lt;graph&gt;</code> است.",
 	"wikimedia-graph-broken-category": "صفحه‌های دارای گراف شکسته",
-	"wikimedia-graph-broken-category-desc": "این صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> با کاربرد نادرست است."
+	"wikimedia-graph-broken-category-desc": "این صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> با کاربرد نادرست است.",
+	"wikimedia-graph-disabled-category": "صفحه‌های دارای نمودارهای غیرفعال"
 }

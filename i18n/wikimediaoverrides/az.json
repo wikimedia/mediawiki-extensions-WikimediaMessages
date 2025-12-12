@@ -9,6 +9,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "IP ünvanınızdan istifadə edərək bu vikiyə daxil olan ziyarətçilər son $2 gündə {{PLURAL:$1|1 hesab}} yaradıb, bu, bu müddət ərzində icazə verilən maksimum saydır.\nNəticədə, bu IP ünvanından istifadə edən ziyarətçilər hazırda başqa hesab yarada bilməzlər.\n\nVikimedia layihələrinə töhfə vermək məqsədli tədbirdəsinizsə, zəhmət olmasa bu problemi həll etmək üçün [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP tutumunun müvəqqəti ləğvi üçün müraciət]] bölməsinə baxın.",
+	"wikimedia-acct_creation_throttle_hit-temp": "Bu yaxınlarda sizin IP ünvanınızdan çoxlu müvəqqəti hesab yaratmaq cəhdləri olub. Zəhmət olmasa, redaktənizə davam etmək üçün [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} hesab yaradın] və ya daha sonra yenidən cəhd edin.\n\nƏgər siz Vikimedia layihələrinə töhfə vermənin diqqət mərkəzində olduğu tədbirdəsinizsə, zəhmət olmasa, problemin həllinə kömək etmək üçün [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|müvəqqəti olaraq limitin ləğv edilməsi]] səhifəsinə baxın.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(seçməyimə yardım edin)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Hesab məlumatlarınızı yükləmək üçün [[m:Special:CentralAuth/$1|töhfə verdiyiniz müvafiq Vikimedia layihələrindəki]] \"Nizamlamalar\" səhifəsinə daxil ola bilərsiniz.",
 	"wikimedia-createacct-imgcaptcha-help": "Şəkli görə bilmirsiniz? [[{{MediaWiki:createacct-captcha-help-url}}|İstifadəçi hesabı istəyin]]",
