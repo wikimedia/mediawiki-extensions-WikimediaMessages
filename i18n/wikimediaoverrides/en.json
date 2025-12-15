@@ -52,8 +52,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Short links can only be created with a call to meta.wikimedia.org wiki.",
 	"wikimedia-urlshortener-badaccessgroups": "Short links can only be created via [[:m:Special:UrlShortener|Special:UrlShortener]] page on meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Short links can only be created with a call to meta.wikimedia.org wiki.",
-	"wikimedia-webauthn-module-description": "WebAuthn is in an experimental state and currently limited to physical devices. There is currently no recovery option for lost or damaged authentication devices for this method and WebAuthn does not allow you to login through mobile apps at this time. \n\n[https://en.wikipedia.org/wiki/WebAuthn Learn more about WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Please touch your verification device or follow the instructions from the browser.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy]",
 	"wikimedia-notification-body-oathauth-disable-other": "If {{GENDER:$2|you}} did not request this, {{GENDER:$2|you}} should contact WMF Trust & Safety.",
 	"wikimedia-oathauth-notifications-disable-helplink": "m:Special:MyLanguage/Help:Two-factor authentication",

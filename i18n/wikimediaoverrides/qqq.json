@@ -66,8 +66,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Error message sent by API when the user tries to create a new shortened URL on wikis other than meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Error message shown when user tries to create new shortened url without the needed rights, should only be shown on wikis other than meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Error message sent by API when the user tries to create a new shortened URL without the necessary rights. Should only be shown on wikis other than meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "Description of WebAuthn module used on Special:OATHManage",
-	"wikimedia-webauthn-ui-login-prompt": "Message explaining user-required actions on login",
 	"wikimedia-mwoauth-form-privacypolicy-link": "Wikitext link pointing to the Wikimedia Foundation privacy policy for all sites. Replace Special:MyLanguage/Policy:Privacy_policy in the URL with Special:MyLanguage/Policy:Privacy_policy/''your_language'', for example, Special:MyLanguage/Policy:Privacy_policy/fr for French..\n{{Identical|Privacy policy}}",
 	"wikimedia-notification-body-oathauth-disable-other": "Notification body text for when two-factor authentication has been disabled by an administrator or sysadmin.\n$2 - Name of user for GENDER.",
 	"wikimedia-oathauth-notifications-disable-helplink": "{{notranslate}}",
