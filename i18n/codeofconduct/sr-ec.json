@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Obsuser"
+			"Obsuser",
+			"Milicevic01"
 		]
 	},
-	"wm-codeofconduct": "Кодекс понашања"
+	"wm-codeofconduct": "Кодекс понашања",
+	"wm-techcodeofconduct": "Кодекс понашања"
 }
