@@ -74,6 +74,7 @@
 	"wikimedia-globalblocking-blockedtext-appeal-user": "ブロックについて議論するには、[[m:Steward requests/Global|メタウィキでブロックの見直しを依頼を投稿]]してください。",
 	"wikimedia-globalblocking-blockedtext-mistake": "このブロックが錯誤によるものだと思われる場合は、[[m:Special:MyLanguage/Stewards/Wizard|Stewards Block Wizard]]で追加の情報と案内が得られます。",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "あなたのIPアドレスは、$1によってブロックされた別の利用者が使用していたため、自動的に[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロックされました]]。",
+	"wikimedia-oathauth-step1-test": "二要素認証のためのアプリをダウンロードしてください。推奨されるクライアントは [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication] を参照してください。",
 	"wikimedia-skin-minerva-donate-banner-message": "今すぐ寄付する",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "もしウィキペディアがあなたにとって役に立ったなら、ぜひ今日寄付してください。"
 }

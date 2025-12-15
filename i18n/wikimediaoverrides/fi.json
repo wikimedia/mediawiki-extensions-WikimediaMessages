@@ -13,7 +13,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "IP-osoitteestasi on luotu tähän wikiin jo {{PLURAL:$1|1 tunnus|$1 tunnusta}} lyhyessä ajassa ($2), mikä on suurin sallittu määrä tällä ajanjaksolla.\nTästä johtuen tästä IP-osoitteesta ei voi tällä hetkellä luoda uusia tunnuksia.\n\nJos olet tapahtumassa, joka keskittyy Wikimedia-hankkeiden muokkaamiseen, katso sivu [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP-katon väliaikaisen nostamisen pyytäminen]] ongelman ratkaisemiseksi.",
-	"wikimedia-acct_creation_throttle_hit-temp": "IP-osoitteestasi on yritetty luoda tilapäisiä tunnuksia liian monta kertaa lyhyessä ajassa. [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} Luo käyttäjätunnus] jatkaasesi muokkaustasi tai yritä myöhemmin uudelleen.\n\nJos olet tapahtumassa, joka keskittyy Wikimedia-hankkeiden muokkaamiseen, katso sivu [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP-katon väliaikaisen nostamisen pyytäminen]] ongelman ratkaisemiseksi.",
+	"wikimedia-acct_creation_throttle_hit-temp": "Olemme väliaikaisesti rajoittaneet sisäänkirjautumattomien muokkauksia sijainnistasi. [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} Luo käyttäjätunnus] jatkaasesi muokkaustasi tai yritä myöhemmin uudelleen.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(auta minua valitsemaan)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Voit käydä Asetukset-sivulla [[m:Special:CentralAuth/$1|muissa Wikimedia-hankkeissa, joissa olet muokannut]] ladataksesi tilitietosi näistä hankkeista.",
 	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
