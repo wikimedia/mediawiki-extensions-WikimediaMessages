@@ -11,7 +11,8 @@
 			"Kenrick95",
 			"Mnam23",
 			"Nemo bis",
-			"Veracious"
+			"Veracious",
+			"Penyuwangi"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Pengunjung wiki ini telah membuat {{PLURAL:$1|1 akun|$1 akun}} menggunakan alamat IP Anda selama 24 jam terakhir, yang merupakan banyak pembuatan maksimum yang diperbolehkan selama periode waktu ini. Akibatnya, pengunjung yang menggunakan alamat IP ini tidak bisa membuat lebih banyak akun pada saat ini.\n\nJika Anda berada di acara yang berfokus pada berkontribusi ke proyek Wikimedia, tolong lihat [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Meminta penangguhan sementara batas IP]] untuk membantu menyelesaikan masalah ini.",
@@ -19,10 +20,10 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "Anda bisa mengunjungi halaman Preferensi Anda pada [[m:Special:CentralAuth/$1|proyek Wikimedia lain dimana Anda pernah berkontribusi]] untuk mengunduh data akun Anda dari proyek-proyek tersebut.",
 	"wikimedia-createacct-imgcaptcha-help": "Tidak dapat melihat gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon buatkan akun]]",
 	"wikimedia-centralauth-groupname": "Yayasan Wikimedia",
-	"wikimedia-centralauth-login-error-locked": "<strong>Akun ini [[m:Special:MyLanguage/Global locks|diblokir secara global]].</strong> {{GENDER:$1|Anda}} tidak akan bisa masuk log ke wiki Wikimedia mana pun. Tolong [[m:Special:Contact/stewards|hubungi steward]] apabila {{GENDER:$1|Anda}} punya pertanyaan.",
+	"wikimedia-centralauth-login-error-locked": "<strong>Akun ini [[m:Special:MyLanguage/Global locks|diblokir secara global]].</strong> {{GENDER:$1|Anda}} tidak akan bisa masuk log ke wiki Wikimedia mana pun. Harap [[m:Special:Contact/stewards|hubungi penatalayan]] jika {{GENDER:$1|Anda}} punya pertanyaan.",
 	"createacct-helpusername-url": "{{ns:Project}}:Kebijakan_nama_pengguna",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\">&#91;[//guc.toolforge.org/?user=$1 kontribusi global] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} periksa] • [{{fullurl:Special:Block/$1}} Blokir lokal] atau [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 Blokir global] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 periksa indikator proksi] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
-	"wikimedia-delete-toobig": "Halaman ini memiliki sejarah penyuntingan yang panjang, melebihi $1 {{PLURAL:$1|revisi|revisi}}. Penghapusan halaman dengan sejarah penyuntingan yang panjang tidak diperbolehkan untuk mencegah kerusakan di {{SITENAME}}.\nTolong hubungi [[m:Special:MyLanguage/Stewards|steward]] di [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous di Meta]] untuk meminta penghapusan halaman ini.",
+	"wikimedia-delete-toobig": "Halaman ini riwayat penyuntingannya panjang, melebihi $1 {{PLURAL:$1|revisi}}. Penghapusan halaman dengan riwayat penyuntingan yang panjang dibatasi untuk mencegah kerusakan di {{SITENAME}}.\nHarap hubungi [[m:Special:MyLanguage/Stewards|penatalayan]] di [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous di Meta]] untuk meminta penghapusan halaman ini.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Dengan menekan \"$1\", Anda setuju untuk tunduk pada [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id Ketentuan Penggunaan] kami dan setuju untuk melepas teks Anda di {{PLURAL:$3|bawah}} $2.",
 	"wikimedia-feedback-termsofuse": "Saya setuju untuk memberikan masukan dengan mematuhi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Ketentuan Penggunaan].",
 	"wikimedia-flow-terms-of-use-new-topic": "Dengan menekan \"{{int:flow-newtopic-save}}\", Anda menyatakan setuju untuk tunduk pada [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/id Ketentuan Penggunaan] dan setuju untuk melepas teks Anda di {{PLURAL:$2|bawah}} $1.",

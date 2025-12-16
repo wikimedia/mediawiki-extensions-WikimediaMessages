@@ -7,5 +7,12 @@
 	"sitesupport": "Toyrtyssyn",
 	"tooltip-n-sitesupport": "Cooin lhien",
 	"group-staff": "Fwirran",
-	"group-staff-member": "oltey fwirran"
+	"group-staff-member": "{{GENDER:$1|fwirran}}",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Lhiasseyderyn",
+	"wikimedia-statslink": "Staddyssaght",
+	"wikimedia-cookiestatement": "Tuarastyl ny minniagyn"
 }

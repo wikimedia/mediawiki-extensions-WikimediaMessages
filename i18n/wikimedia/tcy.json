@@ -82,6 +82,11 @@
 	"interlanguage-link-mul": "ನಾನಾತ್ ಬಾಸೆಲು",
 	"interlanguage-link-wikipedia": "ವಿಕಿಪೀಡಿಯ",
 	"right-extendedconfirmed": "ನಿರ್ಬಂದೊದ ಪುಟೊಕುಲೆನ್ ಸಂಪೊಲಿಪುಲೆ",
+	"protect-level-extendedconfirmed": "ಸ್ಥಾಪಿತ ಸಂಪಾದಕೆರೆಗ್ ಬುಕ್ಕೊ ನಿರ್ವಾಹಕೆರೆಗ್ ಮಾತ್ರ ಅನುಮತಿ",
+	"right-editeditorprotected": "\"{{int:protect-level-editatorprotected}}\" ಪಂಡ್ದ್ ರಕ್ಷಣೆ ಮಲ್ತುನ ಪುಟೊಕುಲೆನ್ ಸಂಪೊಲಿಪುಲೆ",
+	"protect-level-editeditorprotected": "ಸಂಪಾದಕೆರೆಗ್ ಮಾತ್ರೊ ಅನುಮತಿ",
+	"action-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" ಪಂಡ್ದ್ ರಕ್ಷಣೆ ಮಲ್ತುನ ಪುಟೊಕುಲೆನ್ ಸಂಪೊಲಿಪುಲೆ",
+	"right-editextendedsemiprotected": "\"{{int:protect-level-editextendedsemiprotected}}\" ಪಂಡ್ದ್ ರಕ್ಷಣೆ ಮಲ್ತುನ ಪುಟೊಕುಲೆನ್ ಸಂಪೊಲಿಪುಲೆ",
 	"wikimedia-statslink": "ಅಂಕಿಅಂಸೊಲು",
 	"wikimedia-cookiestatement": "ಕುಕಿ ಹೇಳಿಕೆ",
 	"ext-quicksurveys-name": "ತ್ವರಿತ ಸಮೀಕ್ಷೆಲು"
