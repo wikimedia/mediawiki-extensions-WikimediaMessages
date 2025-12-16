@@ -101,5 +101,6 @@
 	"wikimedia-skin-minerva-donate-banner-url": "{{notranslate}}",
 	"wikimedia-pvi-month-count-value": "{{notranslate}}",
 	"wikimedia-emailauth-accountrecovery-intro": "Title and description for the account recovery special page",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Label for the registered email input field on the account recovery form"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Label for the registered email input field on the account recovery form",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Additional Warning message shown to users with extended rights when deleting the last 2FA method"
 }

@@ -216,6 +216,8 @@ class Hooks implements
 			// T399742
 			'emailauth-accountrecovery-intro',
 			'emailauth-accountrecovery-registeredemail-label',
+			// T410341
+			'oathauth-delete-warning-final-privileged-user',
 		];
 
 		static $allbutmetawikikeys = [
