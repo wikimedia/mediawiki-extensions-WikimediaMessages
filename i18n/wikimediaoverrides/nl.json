@@ -60,8 +60,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep van de wiki meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Korte koppelingen kunnen alleen via de pagina [[:m:Special:UrlShortener|Special:UrlShortener]] op meta.wikimedia.org worden aangemaakt.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Korte koppelingen kunnen alleen worden aangemaakt met een aanroep van de wiki meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn bevindt zich in een experimentele fase en is nog beperkt tot fysieke apparaten. Er is nog geen herstelmogelijkheid voor verloren of beschadigde authenticatieapparaten voor deze methode en WebAuthn staat nog niet toe dat u zich aanmeldt via mobiele apps. \n\n[https://en.wikipedia.org/wiki/WebAuthn Meer informatie over WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Raak uw verificatieapparaat aan of volg de instructies van de browser.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/nl Privacybeleid]",
 	"wikimedia-notification-body-oathauth-disable-other": "Als {{GENDER:$2|u}} hier niet om hebt gevraagd, neem dan contact op met WMF Trust & Safety.",
 	"wikimedia-ipinfo-help-text": "Uw gebruik van deze tool valt onder de [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines richtlijnen IP Information tool]. De weergegeven informatie komt van MaxMind en [https://docs.spur.us/data-types Spur] en is mogelijk niet helemaal nauwkeurig.",

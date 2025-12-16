@@ -22,8 +22,6 @@
 	"wikimedia-sitematrix": "維基媒體嘅wiki一覽",
 	"wikimedia-sitematrix-others": "維基媒體嘅其他計劃",
 	"wikimedia-sitematrix-summary": "呢版專門版列示維基媒體所有 wiki。",
-	"wikimedia-webauthn-module-description": "WebAuthn 處於實驗狀態，目前淨係限於實體裝置。呢個方法而家冇任何關於遺失或者損壞嘅認證裝置嘅恢復選項，而WebAuthn而家唔畀你透過流動應用程式簽到。\n\n[https://en.wikipedia.org/wiki/WebAuthn 知多啲WebAuthn]。",
-	"wikimedia-webauthn-ui-login-prompt": "請觸摸你嘅驗證裝置或者按照返瀏覽器嘅指示操作。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/yue 私隱政策]",
 	"wikimedia-skin-minerva-donate-banner-message": "即刻捐",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果維基百科對你有用，請你考慮下捐錢支持。",

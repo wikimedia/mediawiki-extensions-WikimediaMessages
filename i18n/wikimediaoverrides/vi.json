@@ -64,8 +64,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Liên kết rút gọn chỉ có thể được tạo khi gọi đến wiki meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Liên kết rút gọn chỉ có thể được tạo qua trang [[:m:Special:UrlShortener|Special:UrlShortener]] trên meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Liên kết rút gọn chỉ có thể được tạo khi gọi đến wiki meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn đang trong giai đoạn thử nghiệm và hiện chỉ giới hạn ở các thiết bị vật lý. Hiện tại, phương pháp này không có tùy chọn khôi phục thiết bị xác thực bị mất hoặc bị hỏng, và WebAuthn hiện không cho phép bạn đăng nhập qua ứng dụng di động. \n\n[https://en.wikipedia.org/wiki/WebAuthn Tìm hiểu thêm về WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Vui lòng chạm vào thiết bị xác thực của bạn hoặc làm theo hướng dẫn trên trình duyệt.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Chính sách quyền riêng tư]",
 	"wikimedia-notification-body-oathauth-disable-other": "Nếu {{GENDER:$2|bạn}} không thực hiện yêu cầu này, {{GENDER:$2|bạn}} nên liên hệ với WMF Trust & Safety.",
 	"wikimedia-ipinfo-help-text": "Việc bạn sử dụng công cụ này tuân theo [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Hướng dẫn sử dụng công cụ Thông tin IP]. Thông tin hiển thị được lấy từ MaxMind và [https://docs.spur.us/data-types Spur]. Thông tin này có thể không hoàn toàn chính xác.",

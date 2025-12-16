@@ -49,8 +49,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Le ligamines curte pote solmente esser create con un appello al wiki meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Le ligamines curte pote solmente esser create per medio del pagina [[:m:Special:UrlShortener|Special:UrlShortener]] sur meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Le ligamines curte pote solmente esser create con un appello al wiki meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn es in un stato experimental e actualmente functiona solo sur apparatos physic. Iste methodo non ha ancora alcun option de recuperation pro apparatos de authentication perdite o damnificate e WebAuthn non permitte ancora aperir session per medio de applicationes sur apparatos mobile.\n\n[https://en.wikipedia.org/wiki/WebAuthn Lege plus sur WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Per favor tocca tu apparato de verification o seque le instructiones del navigator.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Politica de confidentialitate]",
 	"wikimedia-notification-body-oathauth-disable-other": "Si {{GENDER:$2|tu}} non ha requestate isto, tu deberea contactar le equipa de confidentia e securitate (\"Trust & Safety\") del Fundation Wikimedia.",
 	"wikimedia-ipinfo-help-text": "Tu uso de iste instrumento es regulate per le [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines directivas del utensile de information IP]. Le information monstrate proveni de Maxmind e de [https://docs.spur.us/data-types Spur]. Es possibile que le datos non es totalmente precise.",

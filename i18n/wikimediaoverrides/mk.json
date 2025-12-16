@@ -51,8 +51,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Кратките врски можат да се создаваат повикувајќи го викито meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Кратките врски можат да се создаваат само преку [[:m:Special:UrlShortener|скратувачот на URL-а]] на meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Кратките врски можат да се создаваат повикувајќи го викито meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn (Семрежна заверка) моментално е во експериментална состојба и ограничен на физички уреди. Засега нема можност за повраток на изгубени или оштетени уреди за заерка за овој начин, а WebAuthn засега не ви дава да се најавите преку мобилни прилози. \n\n[https://en.wikipedia.org/wiki/WebAuthn Learn more about WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Допрете го уредут за заверка или проследете ги напатствијата од прелистувачот.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Заштита на личните податоци].",
 	"wikimedia-notification-body-oathauth-disable-other": "Ако {{GENDER:$2|вие}} го немате побарано ова, ќе треба да се обратите {{GENDER:$2|обратите}} кај Доверба и безбедност на Фондацијата Викимедија.",
 	"wikimedia-ipinfo-help-text": "Вашата употреба на оваа алатка се води според [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines насоките на алатката IP-информации]. Прикажаните информации доаѓаат од MaxMind и [https://docs.spur.us/data-types Spur]. Може да не се наполно точни.",

@@ -25,6 +25,5 @@
 	"wikimedia-sitematrix": "Сьпіс усіх праектаў Вікімэдыі",
 	"wikimedia-sitematrix-others": "Іншыя праекты Вікімэдыі",
 	"wikimedia-sitematrix-summary": "Гэтая спэцыяльная старонка ўтрымлівае сьпіс усіх вікі Вікімэдыі.",
-	"wikimedia-webauthn-module-description": "WebAuthn цяпер у экспэрымэнтальным стане і абмежаваны фізычнымі прыладамі. Для гэтага мэтаду няма магчымасьці аднавіць страчаныя ці пашкоджаныя аўтэнтыфікацыйныя прылады, і цяпер WebAuthn не дазваляе ўваходзіць у сыстэму праз мабільныя праграмы.\n\n[https://en.wikipedia.org/wiki/WebAuthn Болей пра WebAuthn].",
 	"wikimedia-notification-body-oathauth-disable-other": "Калі {{GENDER:$2|вы}} гэтага не запытвалі, то мусіце зьвязацца з „Даверам і бясьпекай“ ФВМ."
 }

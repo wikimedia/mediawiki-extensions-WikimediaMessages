@@ -56,7 +56,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Lyhyitä linkkejä voidaan luoda vain kutsumalla meta.wikimedia.org-wikiä.",
 	"wikimedia-urlshortener-badaccessgroups": "Lyhyitä linkejä voi luoda vain [[:m:Special:UrlShortener|Special:UrlShortener]]-sivulla meta.wikimedia.orgissa.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Lyhyitä linkkejä voidaan luoda vain kutsumalla meta.wikimedia.org-wikiä.",
-	"wikimedia-webauthn-module-description": "WebAuthn on kokeiluvaiheessa ja tällä hetkellä rajoitettu vain fyysisiin laitteisiin. Tälle tunnistautumistavalle ei tällä hetkellä ole palautusvaihtoehtoja tunnistautumislaitteen kadotessa tai vaurioituessa, eikä WebAuthn tällä hetkellä salli kirjautumista mobiilisovellusten kautta. \n\n[https://fi.wikipedia.org/wiki/WebAuthn Lisätietoja WebAuthnista].",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Tietosuojakäytäntö]",
 	"wikimedia-notification-body-oathauth-disable-other": "Jos {{GENDER:$2|et}} pyytänyt tätä, {{GENDER:$2|sinun}} kannattaa ottaa yhteyttä WMF:n Trust & Safety -tiimiin.",
 	"wikimedia-ipinfo-help-text": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP-tietotyökalun suuntaviivat] säätelee tämän työkalun käyttöä. Näytettävät tiedot ovat peräisin MaxMind- ja [https://docs.spur.us/data-types Spur]-tietokannoista. Ne eivät välttämättä ole täysin tarkkoja.",

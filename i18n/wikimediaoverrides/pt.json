@@ -47,8 +47,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Os URL curtos só podem ser criados com uma chamada à wiki meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Só podem ser criadas hiperligações curtas usando a página [[:m:Special:UrlShortener|Special:UrlShortener]] na wiki meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Só podem ser criadas hiperligações curtas com uma chamada à wiki meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "O WebAuthn está em fase experimental e atualmente limitado a dispositivos físicos. Para este método, de momento não existe opção de recuperação para dispositivos de autenticação perdidos ou danificados, e WebAuthn não permite actualmente login através de aplicações.\n\n[https://en.wikipedia.org/wiki/WebAuthn Saiba mais sobre o WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Por favor, toque no dispositivo de verificação ou siga as instruções do navegador.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Política de Privacidade]",
 	"wikimedia-notification-body-oathauth-disable-other": "Se não pediu isto deve contactar a equipa de \"Confiança e segurança\" da WMF (WMF Trust & Safety).{{GENDER:$2|}}",
 	"wikimedia-ipinfo-infobox-use-terms": "A ferramenta de informações sobre endereços IP usa as bases de dados MaxMind para mostrar detalhes como a localização aproximada, o ''proxy'' e quantos dispositivos estão a compartilhar este endereço IP. Antes de ativá-la, releia as [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines diretrizes da ferramenta de informações sobre endereços IP], por favor.",

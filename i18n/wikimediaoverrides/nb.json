@@ -55,8 +55,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Korte lenker kan bare opprettes via et kall til wikien meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Korte lenker kan bare opprettes via [[:m:Special:UrlShortener|Special:UrlShortener]] på meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Korte lenker kan kun opprettes med et kall til wikien meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn er eksperimentelt, og er for tiden begrenset til fysiske enheter. Det er ingen gjenopprettingsalternativer for tapte eller skadde autentiseringsenheter for denne metoden, og ebAuthn tillater for tiden ikke at du logger inn via mobilapper.\n\n[https://en.wikipedia.org/wiki/WebAuthn Lær mer om WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Trykk på bekreftelsesenheten din eller følg instruksjonene fra nettleseren.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Personvernspolicy]",
 	"wikimedia-notification-body-oathauth-disable-other": "Hvis {{GENDER:$2|du}} ikke ba om dette bør du kontakte WMF Trust & Safety.",
 	"wikimedia-ipinfo-help-text": "Din bruk av dette verktøyet er underlagt [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines retningslinjene for IP-informasjonsverktøyet]. Informasjonen som vises kommer fra MaxMind og [https://docs.spur.us/data-types Spur]. Den kan være unøyaktig.",

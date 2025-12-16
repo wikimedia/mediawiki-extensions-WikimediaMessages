@@ -61,8 +61,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Kurzlinks können nur im meta.wikimedia.org-Wiki erstellt werden.",
 	"wikimedia-urlshortener-badaccessgroups": "Kurzlinks können nur über die [[:m:Special:UrlShortener|Special:UrlShortener]]-Seite auf meta.wikimedia.org erstellt werden.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Kurzlinks können nur mit einem Aufruf des Wikis meta.wikimedia.org erstellt werden.",
-	"wikimedia-webauthn-module-description": "WebAuthn befindet sich in einem experimentellen Stadium und ist derzeit auf physische Geräte beschränkt. Für diese Methode gibt es derzeit keine Wiederherstellungsoption für verlorene oder beschädigte Authentifizierungsgeräte und WebAuthn ermöglicht derzeit keine Anmeldung über mobile Apps.\n[https://de.wikipedia.org/wiki/WebAuthn Weitere Informationen über  WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Bitte berühre dein Verifizierungsgerät oder folge den Anweisungen des Browsers.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Datenschutzrichtlinie]",
 	"wikimedia-notification-body-oathauth-disable-other": "Wenn {{GENDER:$2|du}} dies nicht beantragt hast, solltest {{GENDER:$2|du}} WMF Trust & Safety kontaktieren.",
 	"wikimedia-ipinfo-help-text": "Deine Nutzung dieses Tools wird durch die [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Richtlinien für das IP-Informationstool] geregelt. Die angezeigten Informationen stammen von MaxMind und [https://docs.spur.us/data-types Spur]. Möglicherweise sind sie nicht ganz genau.",

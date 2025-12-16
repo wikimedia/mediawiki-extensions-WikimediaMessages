@@ -36,7 +36,5 @@
 	"wikimedia-apierror-urlshortener-disabled": "Le collegaminde curte ponne essere sulamende ccrejate cu 'na chiamate a 'a uicchi meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Le collegaminde curte ponne essere sulamende ccrejate cu 'a pàgene [[:m:Special:UrlShortener|Special:UrlShortener]] sus a meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Le collegaminde curte ponne essere sulamende ccrejate cu 'na chiamate a 'a uicchi meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) jè 'nu stàndàrd web pubblecate da 'u Consorzie World Wide Web (W3C). WebAuthn jè 'nu combonende prengepàle d'u Pruggette FIDO2 sotte 'a guide de FIDO Alliance. L'obbiettive d'u pruggette jè standardizzà 'n'inderfacce pe autendicà le utinde sus applecaziune web-based e servizie ausanne 'na crittografije a chaive pubbleche. [https://en.wikipedia.org/wiki/WebAuthn Lìgge de cchiù]. Pe piacere arrecuèrde ca ha trasè jndr'à stessa uicchi addò è reggistrate all'inizie 'u despositive de verifeche tune.",
-	"wikimedia-webauthn-ui-login-prompt": "Pe piacere tuècche e condrolle 'u despositive o segue le 'struziune da 'u browser. Pigghie note ca è abbesogne de trasè jndr'à stessa uicchi addò è reggistrate all'inizie 'u despositive de verifeche",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Regole de privacy]"
 }

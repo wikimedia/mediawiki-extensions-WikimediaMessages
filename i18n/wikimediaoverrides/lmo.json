@@ -36,8 +36,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "I conligament curt i poden vesser cread domà con una ciamada a meta.wikimedia.org wiki.",
 	"wikimedia-urlshortener-badaccessgroups": "I conligament curt i poden vesser ingenerad domà in su la pagina [[:m:Special:UrlShortener|Special:UrlShortener]] in su meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "I conligament curt i poden vesser cread domà per mezz d'una ciamada a meta.wikimedia.org wiki.",
-	"wikimedia-webauthn-module-description": "WebAuthn (Web Authentication) a l'è un standard de la red definid del World Wide Web Consortium (W3C). WebAuthn a l'è 'n component fondamental del proget FIDO2 sota la direzzion de la FIDO Alliance. El fin del proget l'è quell de definì i carateristiche d'una interfacia standard per i utent che se autentichen in di aplicazzion e i servizzi de la red, cont el drovà la criptografia a ciav publica.  Per piesè ten in cunt che t'hee de andà dent in l'istessa wiki indoe t'hee in origin registrad el dispositiv de verifica.",
-	"wikimedia-webauthn-ui-login-prompt": "Toca el to dispositiv de verifica o vagh adree ai istruzzion delprograma de navigazzion. Per piesè ten in cunt che t'hee de andà dent in l'istessa wiki indoe t'hee in origin registrad el dispositiv de verifica.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy/it Informativa sora la riservatezza]",
 	"wikimedia-notification-body-oathauth-disable-other": "Se {{GENDER:$2|t'}}hee minga ciamad quest-chì, {{GENDER:$2|te}} te gh'havarisset de toeu contat con WMF Trust & Safety."
 }

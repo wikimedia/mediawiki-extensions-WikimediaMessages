@@ -50,8 +50,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Йоца хьажоргаш йан йиш йац meta.wikimedia.org вики кхайкхамца бен.",
 	"wikimedia-urlshortener-badaccessgroups": "Йоца хьажоргаш йан йиш йац [[:m:Special:UrlShortener|Special:UrlShortener]] агӀонехула бен meta.wikimedia.org тӀехь.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Йоца хьажоргаш йан йиш йац meta.wikimedia.org вики кхайкхамца бен.",
-	"wikimedia-webauthn-module-description": "WebAuthn экспериментан йу, карарчу хенахь физикин аппараташ тӀехь бен болх беш йац. Карарчу хенахь цу методна дайна йа доьхна аутентификацин гӀирсаш меттахӀитто некъ бац, ткъа WebAuthn-о карарчу хенахь бакъо ца ло мобилан Ӏалашонашца логин йан.\n\n[https://en.wikipedia.org/wiki/WebAuthn WebAuthn-х лаьцна мадарра] (ингалсан маттахь).",
-	"wikimedia-webauthn-ui-login-prompt": "Дехар до, таллархьама Ӏоттало аппаратах  йа браузер чуьра инструкцино бохург де",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Конфиденциаллалин политика]",
 	"wikimedia-notification-body-oathauth-disable-other": "Нагахь {{GENDER:$2|ахь}} хӀара дехар ца динехь, {{GENDER:$2|ахь}} дехардан мега WMF Trust & Safety тӀехь.",
 	"wikimedia-ipinfo-help-text": "ХӀара гӀирс лелор нисдеш ду [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Викимедиан IP адресийн политикица]. Гойтуш болу хаамаш MaxMind а, [https://docs.spur.us/data-types Spur] а тӀера схьаэцна бу, уьш дерриге а нийса ца хила а тарло.",

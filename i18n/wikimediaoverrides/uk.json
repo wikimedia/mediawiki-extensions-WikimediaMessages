@@ -59,8 +59,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Скорочені посилання можуть бути створені тільки викликаючи вікі meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Скорочені посилання можна створювати лише на сторінці [[:m:Special:UrlShortener|Special:UrlShortener]] на meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Скорочені посилання можуть бути створені тільки через виклик вікі meta.wikimedia.org.",
-	"wikimedia-webauthn-module-description": "WebAuthn перебуває в стані експерименту і наразі обмежений до фізичних пристроїв. Наразі не існує можливості відновити втрачені чи пошкоджені пристрої автентифікації для цього методу, а WebAuthn поки не дозволяє входити через мобільні застосунки.\n\n[https://en.wikipedia.org/wiki/WebAuthn Дізнатися більше про WebAuthn].",
-	"wikimedia-webauthn-ui-login-prompt": "Будь ласка, торкніться свого пристрою верифікації, або дотримуйтесь браузерних інструкцій.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Політика конфіденційності]",
 	"wikimedia-notification-body-oathauth-disable-other": "Якщо {{GENDER:$2|ви}} не робили цього запиту, {{GENDER:$2|вам}} варто звернутися до Trust & Safety Фонду Вікімедіа.",
 	"wikimedia-ipinfo-help-text": "Використання вами цього інструменту регулюється [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines настановами інструменту IP-інфо]. Відображена інформація взята з MaxMind та [https://docs.spur.us/data-types Spur]. Вона може бути не зовсім точною.",

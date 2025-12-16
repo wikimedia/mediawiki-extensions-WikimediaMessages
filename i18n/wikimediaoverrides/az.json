@@ -54,8 +54,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "Qısa keçidlər yalnız meta.wikimedia.org vikisinə sorğu göndərilərək yaradıla bilər.",
 	"wikimedia-urlshortener-badaccessgroups": "Qısa keçidlər yalnız meta.wikimedia.org saytındakı [[:m:Special:UrlShortener|Special:UrlShortener]] səhifəsi vasitəsilə yaradıla bilər.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Qısa keçidlər yalnız meta.wikimedia.org vikisinə sorğu göndərilərək yaradıla bilər.",
-	"wikimedia-webauthn-module-description": "WebAuthn eksperimental vəziyyətdədir və hal-hazırda fiziki cihazlarla məhdudlaşır. Hal-hazırda bu üsul üçün itirilmiş və ya zədələnmiş autentifikasiya cihazları üçün bərpa seçimi yoxdur və WebAuthn hazırda sizə mobil proqramlar vasitəsilə daxil olmağa imkan vermir. \n\n[https://en.wikipedia.org/wiki/WebAuthn WebAuthn haqqında ətraflı məlumat əldə edin].",
-	"wikimedia-webauthn-ui-login-prompt": "Zəhmət olmasa, doğrulama cihazınıza toxunun və ya brauzerin təlimatlarına əməl edin.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Məxfilik Siyasəti]",
 	"wikimedia-notification-body-oathauth-disable-other": "Bunu {{GENDER:$2|siz}} etməmisinizsə, WMF Təhlükəsizlik komandası ilə əlaqəyə {{GENDER:$2|keçməlisiniz}}",
 	"wikimedia-ipinfo-help-text": "Bu alətdən istifadəniz [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP Məlumat aləti təlimatları] ilə tənzimlənir. Göstərilən məlumat MaxMind və [https://docs.spur.us/data-types Spur]-dan gəlir. Tam dəqiq olmaya bilər.",

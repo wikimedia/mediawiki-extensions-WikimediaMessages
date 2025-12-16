@@ -65,8 +65,6 @@
 	"wikimedia-apierror-urlshortener-disabled": "短链接只能通过调用meta.wikimedia.org wiki来创建。",
 	"wikimedia-urlshortener-badaccessgroups": "短链接只能通过meta.wikimedia.org上的[[:m:Special:UrlShortener|Special:UrlShortener]]页面创建。",
 	"wikimedia-apierror-urlshortener-permissiondenied": "短链接只能通过调用meta.wikimedia.org wiki来创建。",
-	"wikimedia-webauthn-module-description": "WebAuthn处于实验阶段，且目前仅支持实体设备。此方法目前尚不支持恢复丢失或损坏的身份验证设备，且不允许通过移动应用登录。\n\n[https://zh.wikipedia.org/wiki/WebAuthn 了解关于WebAuthn的更多信息]",
-	"wikimedia-webauthn-ui-login-prompt": "请触摸您的验证设备或按照浏览器中的说明进行操作。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隐私政策]",
 	"wikimedia-notification-body-oathauth-disable-other": "如果{{GENDER:$2|您}}并未提出此要求，{{GENDER:$2|您}}应当联系基金会信任和安全团队。",
 	"wikimedia-ipinfo-help-text": "您对此工具的使用受[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP信息工具指引]的约束。显示的信息来自MaxMind和[https://docs.spur.us/data-types Spur]，可能不完全准确。",
