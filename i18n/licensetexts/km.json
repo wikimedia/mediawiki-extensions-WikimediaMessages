@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"MeahNunh",
 			"Multichill",
 			"Sovichet",
 			"គីមស៊្រុន"
@@ -41,7 +42,7 @@
 	"wm-license-creator-location-of-birth": "ទីកន្លែងកំណើត",
 	"wm-license-creator-location-of-birth-and-death": "ទីកន្លែងកំណើតនិងស្លាប់",
 	"wm-license-gfdl-1.2-and-later": "រូបភាពនៃទំព័រនេះជាកម្មសិទ្ធិរបស់'''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]'''។  Version 1.2 ឬក៏ខ្ពស់ជាងនេះត្រូវបានឧបត្ថមគាំទ្រដោយ មូលនិធិសូហ្វវែរដោយឥតគិតថ្លៃ ([[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]) ដែលមិនមានផ្នែកណាមួយរបស់ប្រភពដើមរួមទាំងអក្សរនៅលើគំរបមុខនិងខ្នង ត្រូវបានផ្លាស់ប្តូរទេ។ ចំពោះផ្នែកដែលមិនអាចផ្លាស់ប្តូរបាន សូមមើល[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]។",
-	"wm-license-information-description": "ការ​ពិពណ៌នា",
+	"wm-license-information-description": "ពិពណ៌នា",
 	"wm-license-information-description-missing": "មេឌា​នេះ​មិន​មាន​'''ការពិពណ៌នា'''ទេ និង ប្រហែល​ជា​ខ្វះ​ព័ត៌មាន​ដទៃទៀត។",
 	"wm-license-information-description-missing-request": "សូម​ផ្តល់​នូវ​ការ​ពិពណ៌នា​ដ៏​មាន​អត្ថន័យ​ដល់​មេឌា​ហ្វាល់នេះ។",
 	"wm-license-information-source": "ប្រភព",

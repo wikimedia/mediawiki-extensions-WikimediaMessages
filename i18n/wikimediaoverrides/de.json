@@ -91,5 +91,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Wenn du Wikipedia nützlich findest, spende bitte noch heute.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Wenn diese Website für dich nützlich war, spende bitte noch heute.",
 	"wikimedia-emailauth-accountrecovery-intro": "Stelle dein Wikimedia-Konto wieder her",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Die mit deinem Wikimedia-Konto verknüpfte E-Mail-Adresse"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Die mit deinem Wikimedia-Konto verknüpfte E-Mail-Adresse",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Du hast Berechtigungen auf {{SITENAME}}, die eine Zwei-Faktor-Authentifizierung erfordern. <strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Diese Berechtigungen] wirst du verlieren und musst sie gegebenenfalls manuell erneut beantragen.</strong> Tipp: Füge eine neue Methode hinzu, bevor du diese entfernst."
 }
