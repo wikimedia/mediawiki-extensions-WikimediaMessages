@@ -81,5 +81,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Ако Википедија ви е од корист, би Ве замолиле да дадете прилог денес.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Ако нашево мрежно место ви е од корист, би Ве замолиле да дадете прилог денес.",
 	"wikimedia-emailauth-accountrecovery-intro": "Повратете си ја сметката на Викимедија",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Е-пошта регистрирана со вашата сметка на Викимедија"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Е-пошта регистрирана со вашата сметка на Викимедија",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Имете привилегии на {{SITENAME}} кои бараат двочинителска заверка.\n\n<strong>Можете да [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights ги изгубите овие привилегии] и може да треба повторно да ги побарате рачно.</strong>\n\nСовет: Додајте нов начин на заверка пред да го отстраните овој."
 }

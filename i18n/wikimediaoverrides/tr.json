@@ -93,5 +93,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Eğer Vikipedi sizin için yararlıysa lütfen bugün bağış yapın.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Eğer bu site sizin için yararlı olduysa lütfen bugün bağış yapın.",
 	"wikimedia-emailauth-accountrecovery-intro": "Wikimedia hesabınızı kurtarın",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia hesabınıza kayıtlı e-posta adresi"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia hesabınıza kayıtlı e-posta adresi",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} üzerinde iki faktörlü kimlik doğrulaması gerektiren ayrıcalıklarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu ayrıcalıkları] kaybedebilirsiniz ve bunları elle yeniden istemeniz gerekebilir.</strong> \n\nİpucu: Bunu kaldırmadan önce yeni bir yöntem ekleyin."
 }

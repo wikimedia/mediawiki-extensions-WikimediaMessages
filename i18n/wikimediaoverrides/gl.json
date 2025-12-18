@@ -84,5 +84,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Se a Wikipedia é útil para ti, fai unha doazón.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Se este sitio é útil para ti, fai unha doazón.",
 	"wikimedia-emailauth-accountrecovery-intro": "Recuperar a túa conta da Wikimedia",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Correo electrónico rexistrado na túa conta da Wikimedia"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Correo electrónico rexistrado na túa conta da Wikimedia",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tes privilexios en {{SITENAME}} que necesitan unha autenticación de dous factores.\n\n<strong>Podes [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder estes privilexios] e se cadra ter que solicitalos de novo manualmente.</strong>\n\nConsello: Engade un método novo antes de eliminares este."
 }
