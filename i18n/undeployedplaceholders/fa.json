@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jeeputer"
+			"Jeeputer",
+			"Huji"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 حساب کاربری «$4» ($5) را در {{GENDER:$8|$6}} ($7) {{GENDER:$2|ادغام کرد}}",
@@ -14,5 +15,6 @@
 	"wikimedia-graph-tracking-category": "صفحه‌های دارای گراف",
 	"wikimedia-graph-tracking-category-desc": "این صفحه حاوی برچسب <code>&lt;graph&gt;</code> است.",
 	"wikimedia-graph-broken-category": "صفحه‌های دارای گراف شکسته",
-	"wikimedia-graph-broken-category-desc": "این صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> با کاربرد نادرست است."
+	"wikimedia-graph-broken-category-desc": "این صفحه حاوی یک برچسب <code>&lt;graph&gt;</code> با کاربرد نادرست است.",
+	"wikimedia-graph-disabled-category": "صفحه‌های دارای نمودارهای غیرفعال"
 }

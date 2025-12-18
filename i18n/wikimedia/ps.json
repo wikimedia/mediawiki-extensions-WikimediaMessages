@@ -239,6 +239,8 @@
 	"group-docseditor-member": "{{GENDER:$1|لاسوند سمونگر}}",
 	"action-docseditor": "لاسوند سمول",
 	"right-docseditor": "لاسوند سمول",
+	"right-edit-legal": "هغه مخونه سمول چې ښايي قانوني پايلې لري",
+	"action-edit-legal": "هغه مخونه سمول چې ښايي قانوني پايلې لري",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "هو",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "نه",
 	"protect-level-edit-legal": "يوازې هغه کارنانو ته اجازه ورکول چې په قانوني توگه اړوند مخونه سمولی شي",

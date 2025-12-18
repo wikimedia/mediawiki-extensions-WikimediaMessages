@@ -14,7 +14,8 @@
 			"Suryavnk",
 			"Varnent",
 			"Veeven",
-			"రహ్మానుద్దీన్"
+			"రహ్మానుద్దీన్",
+			"WikiPBR"
 		]
 	},
 	"wikimediamessages-desc": "వికీమీడియా సంబంధిత సందేశాలు",
@@ -119,7 +120,7 @@
 	"group-translationadmin-member": "{{GENDER:$1|అనువాద నిర్వాహకుడు|అనువాద నిర్వాహకురాలు}}",
 	"grouppage-translationadmin": "{{ns:project}}:అనువాద నిర్వాహకులు",
 	"wikimedia-copyright-footer": "పాఠ్యం [https://creativecommons.org/licenses/by-sa/4.0/ క్రియేటివ్ కామన్స్ అట్రిబ్యూషన్/షేర్-ఎలైక్ లైసెన్సు]; క్రింద లభ్యం\nఅదనపు షరతులు వర్తించవచ్చు.\nమరిన్ని వివరాలకు [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use వాడుక నియమాలను] చూడండి.",
-	"wikimedia-copyrightwarning": "మీ మార్పులను భద్రపరచడం ద్వారా మీ కృతిని [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use వాడుక నిబంధనలకు] సమ్మతిస్తున్నారు.  [https://creativecommons.org/licenses/by-sa/4.0/   క్రియేటివ్ కామన్స్ యాట్రిబ్యూషన్ షేర్ ఎలైక్ లైసెన్స్4.0], [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License  జిఎఫ్డిఎల్] లకు లోబడి తిరిగి వెనక్కి తీసుకోలేని విధంగా విడుదల చేసేందుకు కూడా మీరు సమ్మతిస్తున్నారు. \nక్రియేటివ్ కామన్స్ లైసెన్సు కింద శ్రేయస్సు ఇవ్వడానికి యుఆర్ఎల్ (URL) ఇస్తే సరిపోతుందని మీరు ఒప్పుకుంటున్నారు.",
+	"wikimedia-copyrightwarning": "మార్పులను భద్రపరచడం ద్వారా, మీరు  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use వాడుక నియమాలకు] అంగీకరిస్తున్నారు. మీ మార్పుచేర్పులను [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 లైసెన్సు], [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] ల కింద, వెనక్కి తీసుకోలేని విధంగా విడుదల చేసేందుకు అంగీకరిస్తున్నారు.\nక్రియేటివ్ కామన్స్ లైసెన్సు కింద శ్రేయస్సు ఇచ్చేందుకు హైపర్‌లింకు గానీ, URL గానీ సరిపోతుందని మీరు అంగీకరిస్తున్నారు.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|స్వాగతం}}, $1!",
 	"wikibase-repo-name": "వికీడేటా",
 	"wikibase-sitelinks-wikinews": "వికీన్యూస్",

@@ -7,5 +7,13 @@
 	"sitesupport": "Toyrtyssyn",
 	"tooltip-n-sitesupport": "Cooin lhien",
 	"group-staff": "Fwirran",
-	"group-staff-member": "oltey fwirran"
+	"group-staff-member": "{{GENDER:$1|fwirran}}",
+	"wikimedia-copyrightwarning": "My vees oo sauail dty chaghlaaghyn, t’ou coardail rish ny [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Conaantyn-ymmyd], as t’ou coardail rish seyrey dty chohoyrtys dy neuchaghlaaee fo’n [https://creativecommons.org/licenses/by-sa/4.0/ Chiedoonys CC BY-SA 4.0] as y [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. T’ou ayns coardailys dy nee daill dy liooar eh jeean-chiangley ny URL fo’n chiedoonys Creative Commons.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikimedia-developers": "Lhiasseyderyn",
+	"wikimedia-statslink": "Staddyssaght",
+	"wikimedia-cookiestatement": "Tuarastyl ny minniagyn"
 }

@@ -411,6 +411,7 @@
 	"gadget-curidlink-link-by-id": "Ссылка через идентификатор",
 	"gadget-curidlink-link-by-id-desc": "Показать ссылку на эту страницу через её идентификатор",
 	"gadget-souspages-subpages": "Подстраницы",
+	"ext-campaignevents-register-policy": "Регистрируясь, вы соглашаетесь с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Условиями использования], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Политикой конфиденциальности], [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct Универсальным кодексом поведения] и любой местной политикой «Дружелюбного пространства», предоставленной организаторами мероприятия.",
 	"readinglists-import-app-with-link": "[Загрузка $1 ] и установите последнюю версию приложения Wikipedia:",
 	"research-incentive-answer-positive": "Да",
 	"research-incentive-answer-negative": "Нет",

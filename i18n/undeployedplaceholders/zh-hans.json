@@ -4,7 +4,8 @@
 			"Ericliu1912",
 			"Lakejason0",
 			"Stang",
-			"沈澄心"
+			"沈澄心",
+			"Peterxy12"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1将用户账户“$4”（$5）{{GENDER:$2|合并}}到{{GENDER:$8|$6}}（$7）",
@@ -18,5 +19,6 @@
 	"wikimedia-graph-tracking-category-desc": "页面包含<code>&lt;graph&gt;</code>标签。",
 	"wikimedia-graph-broken-category": "有损坏图表的页面",
 	"wikimedia-graph-broken-category-desc": "页面包含无效用法的<code>&lt;graph&gt;</code>标签。",
-	"wikimedia-graph-disabled-category": "有已停用图表的页面"
+	"wikimedia-graph-disabled-category": "有已停用图表的页面",
+	"wikimedia-graph-disabled-category-desc": "此页面包含一个 <code>&lt;graph&gt;</code>标签，该标签暂时不可用（[[phab:T334940|T33494]]）。"
 }

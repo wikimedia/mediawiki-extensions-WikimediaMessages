@@ -15,7 +15,8 @@
 			"Vlad5250",
 			"W",
 			"Wizardist",
-			"Zedlik"
+			"Zedlik",
+			"Ucukor"
 		]
 	},
 	"wikimediamessages-desc": "Спэцыфічныя паведамленьні фундацыі «Вікімэдыя»",
@@ -196,5 +197,5 @@
 	"ipinfo-global-contributions-url-label": "Глябальны ўнёсак",
 	"wikimedia-foundation-projects-of-label-nolink": "Праекты Фундацыі «Вікімэдыя»",
 	"wikimedia-projects-label": "Праекты Вікімэдыі",
-	"wikimedia-help-translate-prompt": "Жадаеце дапамагчы зь перакладам? [$1 Перакладзіце адсутныя паведамленьні]."
+	"wikimedia-help-translate-prompt": "Жадаеце дапамагчы зь перакладам? [$1 Перакладзіце адсутныя радкі]."
 }
