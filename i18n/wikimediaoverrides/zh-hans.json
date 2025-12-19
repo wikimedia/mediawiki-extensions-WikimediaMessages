@@ -13,6 +13,7 @@
 			"Lakejason0",
 			"LittlePaw365",
 			"Liuxinyu970226",
+			"Pawsdt",
 			"Peterxy12",
 			"Plana",
 			"SaldırganSincap",
@@ -91,5 +92,6 @@
 	"wikimedia-oathauth-recovery-code-hint": "无法访问您的设备或者应用程序？您可以在此字段中输入恢复代码（启用双重验证时提供）。如果无法完成，请查看[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help:双因素身份验证]以了解更多选项。",
 	"wikimedia-skin-minerva-donate-banner-message": "立即捐款",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果维基百科对您有所助益，不妨现在就考虑捐款。",
-	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "如果本站对您有所助益，不妨现在就考虑捐款。"
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "如果本站对您有所助益，不妨现在就考虑捐款。",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "您在{{SITENAME}}上拥有需要双重身份验证的权限。\n\n<strong>你可能 https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights 并且可能需要重新手动申请。</strong>\n\n提示：在移除此方法前，请先添加新的方法。"
 }
