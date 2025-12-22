@@ -24,6 +24,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في آخر $2، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
+	"wikimedia-acct_creation_throttle_hit-temp": "نُقيّد مؤقتًا إمكانية التعديل من موقعك بعد تسجيل الخروج. يُرجى [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} إنشاء حساب] للتعديل، أو المحاولة لاحقًا.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ساعدني في الاختيار)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "ربما ترغب بزيارة صفحة تفضيلاتك [[m:Special:CentralAuth/$1| في مشاريع ويكيميديا الأخرى التي ساهمت بها]] من أجل تنزيل بيانات حسابك من تلك المشاريع.",
 	"wikimedia-createacct-imgcaptcha-help": "لا تستطيع رؤية الصورة؟ [[{{MediaWiki:createacct-captcha-help-url}}|اطلب حسابا]]",
@@ -91,12 +92,13 @@
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''ملاحظة:''' عندما تقوم بتحرير هذه الصفحة، فإنك توافق على [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام]، وتوافق بشكل لا رجعة فيه على إصدار مساهمتك وفقًا للترخيص المحدد في حقل <code>الرخصة</code>.",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "أوافق على التعامل مع معلومات المشاركين، بما في ذلك معلومات التعريف الشخصية للمشاركين، التي تم جمعها أثناء التسجيل في الفعالية بعناية ووفقًا لشروط الاستخدام الخاصة بمؤسسة ويكيميديا [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام].",
 	"wikimedia-campaignevents-edit-form-questions-pii-notice": "لعرض الردود المجمعة للمشاركين والتي تحتوي على معلومات شخصية، سيُطلب منك التعامل مع معلومات المشاركين، بما في ذلك معلومات التعريف الشخصية للمشاركين، التي تم جمعها أثناء التسجيل في الفعالية بعناية ووفقًا لشروط الاستخدام الخاصة بمؤسسة ويكيميديا [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use شروط الاستخدام].",
-	"wikimedia-oathauth-step1-test": "قم بتنزيل برنامج للمصادقة الثنائية. راجع [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication] للحصول على عملاء مقترحين.",
-	"wikimedia-oathauth-recovery-code-hint": "ليس لديك إمكانية الوصول إلى جهازك أو تطبيقك؟ يمكنك إدخال رموز الاسترداد (المقدمة عند تمكين المصادقة الثنائية) في هذا الحقل. إذا لم تتمكن من القيام بذلك، راجع [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device المساعدة: المصادقة الثنائية] لمزيد من الخيارات.",
+	"wikimedia-oathauth-step1-test": "نزّل تطبيقًا للمصادقة الثنائية. راجع [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication] للاطلاع على التطبيقات المقترحة.",
+	"wikimedia-oathauth-recovery-code-hint": "لا يمكنك الوصول إلى جهازك أو تطبيقك؟ يمكنك إدخال رموز الاسترداد (التي ظهرت عند تفعيل المصادقة الثنائية) في هذا الحقل. إذا لم تتمكن من ذلك، فراجع [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help:Two-factor authentication] للاطلاع على خيارات أخرى.",
 	"wikimedia-pt-movepage-page-count-limit": "'''تتكون هذه الصفحة القابلة للترجمة من أكثر من $1 {{PLURAL:$1|صفحة}}.''' نظرًا لمشاكل الموثوقية، لا يمكن نقل الصفحات القابلة للترجمة التي تتكون من أكثر من $1 {{PLURAL:$1|صفحة}} من خلال واجهة المستخدم. يرجى '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ تقديم مهمة Phabricator]''' وملء حقول النموذج للطلب من [[:m:system administrators|مسؤولي النظام]] تنفيذ نقل الصفحة نيابة عنك.",
 	"wikimedia-skin-minerva-donate-banner-message": "تبرع الآن",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "إذا كانت ويكيبيديا مفيدة لك، يرجى التبرع اليوم.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "إذا كان هذا الموقع مفيدًا لك، فيرجى التبرع به اليوم.",
 	"wikimedia-emailauth-accountrecovery-intro": "استعادة حساب ويكيميديا الخاص بك",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "البريد الإلكتروني المسجل بحساب ويكيميديا الخاص بك"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "البريد الإلكتروني المسجل بحساب ويكيميديا الخاص بك",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "لديك صلاحيات على {{SITENAME}} تتطلب المصادقة الثنائية.\n\n<strong>قد تفقد هذه الصلاحيات، وقد تحتاج إلى طلبها يدويًا مرة أخرى.</strong>\n\nنصيحة: أضف طريقة جديدة قبل إزالة هذه الطريقة."
 }

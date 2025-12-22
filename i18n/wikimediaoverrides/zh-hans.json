@@ -16,6 +16,7 @@
 			"Pawsdt",
 			"Peterxy12",
 			"Plana",
+			"RyanCray88",
 			"SaldırganSincap",
 			"Shizhao",
 			"Stang",
@@ -42,7 +43,7 @@
 	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "您正在用户查核后，使用相同的理由同时封禁账号和IP地址。此操作可能违反了[https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy 非公开数据访问政策]。您确定要这么做吗？",
 	"wikimedia-delete-toobig": "此页面有巨大的编辑历史，超过$1个{{PLURAL:$1|修订版本}}。删除拥有非常大编辑历史的页面已被限制，以阻止对{{SITENAME}}的意外破坏。请在[[m:Steward requests/Miscellaneous|元维基请求页面]]联络[[m:Special:MyLanguage/Stewards|监管员]]请求删除此页面。",
 	"wikimedia-discussiontools-replywidget-terms-click": "点击“$1”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并同意{{PLURAL:$3|根据}}$2发表您的贡献，该授权不可撤回。",
-	"wikimedia-emailauth-login-help": "如果您无法访问您的账号电子邮件地址，请联系ca@wikimedia.org",
+	"wikimedia-emailauth-login-help": "如果您在接收代码时遇到问题，可以[[Special:AccountRecovery|恢复您的帐户]]。",
 	"wikimedia-feedback-termsofuse": "我同意按照[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]提供反馈。",
 	"wikimedia-flow-terms-of-use-new-topic": "点击“{{int:flow-newtopic-save}}”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并同意{{PLURAL:$2|根据}}$1发表您的贡献，该授权不可撤回。",
 	"wikimedia-flow-terms-of-use-reply": "点击“{{int:flow-reply-link}}”，即表明您同意遵守我们的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]，并同意{{PLURAL:$2|根据}}$1发表您的贡献，该授权不可撤回。",
@@ -93,5 +94,5 @@
 	"wikimedia-skin-minerva-donate-banner-message": "立即捐款",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果维基百科对您有所助益，不妨现在就考虑捐款。",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "如果本站对您有所助益，不妨现在就考虑捐款。",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "您在{{SITENAME}}上拥有需要双重身份验证的权限。\n\n<strong>你可能 https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights 并且可能需要重新手动申请。</strong>\n\n提示：在移除此方法前，请先添加新的方法。"
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "您在{{SITENAME}}上拥有需要双重身份验证的权限。\n\n<strong>你可能[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights 失去这些权限]，并且可能需要重新手动申请。</strong>\n\n提示：在移除此方法前，请先添加新的方法。"
 }
