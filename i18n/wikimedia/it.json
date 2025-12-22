@@ -39,7 +39,8 @@
 			"Samoasambia",
 			"GryffindorD",
 			"Giorgx12",
-			"Sannita"
+			"Sannita",
+			"Valepert"
 		]
 	},
 	"wikimediamessages-desc": "Messaggi specifici di Wikimedia",
@@ -230,7 +231,7 @@
 	"wikibase-otherprojects-meta": "Meta-Wiki",
 	"wikibase-otherprojects-outreach": "Wikimedia Outreach",
 	"wikibase-otherprojects-sources": "Wikisource multilingue",
-	"wikibase-otherprojects-species": "Wikispecie",
+	"wikibase-otherprojects-species": "Wikispecies",
 	"wikibase-otherprojects-wikibooks": "Wikibooks",
 	"wikibase-otherprojects-wikidata": "Wikidata",
 	"wikibase-otherprojects-wikinews": "Wikinotizie",
@@ -244,7 +245,7 @@
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
-	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multilingue",
+	"wikibase-sitelinks-sitename-sourceswiki": "Multilingual Wikisource",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
 	"cant-delete-main-page": "Non puoi cancellare o spostare la pagina principale.",
