@@ -361,7 +361,7 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Apakah halaman ini dimuat dengan cukup cepat?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Untuk informasi lebih lanjut, lihat [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement pernyataan privasi survei] ini.",
 	"wikimedia-switchover-read-only": "Anda tidak bisa menyunting sekarang. Ini disebabkan oleh pemeliharaan. Salin dan simpan teks Anda lalu coba lagi beberapa menit nanti.",
-	"passwordpolicies-policy-blockattacker": "Kebijakan kata sandi untuk mitigasi serangan yang diketahui dimana pengungkapan rincian akan menghambat mitigasi",
+	"passwordpolicies-policy-blockattacker": "Kebijakan kata sandi untuk mitigasi serangan yang diketahui, di mana pengungkapan rincian akan menghambat mitigasi",
 	"technical-maintenance-soon": "Pemeliharaan teknis akan dilakukan sebentar lagi:",
 	"technical-maintenance-edit": "Selama masa ini Anda kemungkinan tidak akan dapat menyimpan suntingan apa pun.",
 	"group-oathauth-tester": "Penguji autentikasi dua faktor",
