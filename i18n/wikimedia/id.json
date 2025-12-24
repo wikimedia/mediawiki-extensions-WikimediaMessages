@@ -387,7 +387,7 @@
 	"ext-quicksurveys-patrollertools-external-survey-link": "https://wikimediafoundation.limesurvey.net/332214?lang=id",
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/id Pernyataan Privasi]",
 	"wikimedia-switchover-read-only": "Anda tidak bisa menyunting sekarang. Ini disebabkan oleh pemeliharaan. Salin dan simpan teks Anda lalu coba lagi beberapa menit nanti.",
-	"passwordpolicies-policy-blockattacker": "Kebijakan kata sandi untuk mitigasi serangan yang diketahui dimana pengungkapan rincian akan menghambat mitigasi",
+	"passwordpolicies-policy-blockattacker": "Kebijakan kata sandi untuk mitigasi serangan yang diketahui, di mana pengungkapan rincian akan menghambat mitigasi",
 	"technical-maintenance-soon": "Pemeliharaan teknis akan dilakukan sebentar lagi:",
 	"technical-maintenance-edit": "Selama masa ini Anda kemungkinan tidak akan dapat menyimpan suntingan apa pun.",
 	"group-oathauth-tester": "Penguji autentikasi dua faktor",
