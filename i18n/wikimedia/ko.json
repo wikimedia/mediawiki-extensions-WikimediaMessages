@@ -252,6 +252,7 @@
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA 3.0] 및 [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikimedia-mobile-mainpage-title-loggedin": "$1님, {{GENDER:$1|환영합니다}}!",
 	"wikibase-repo-name": "위키데이터",
+	"wikibase-page-schema-publisher-name": "위키미디어 재단",
 	"wikibase-page-schema-author-name": "위키미디어 프로젝트 기여자",
 	"wikibase-statementsection-constraints": "제약 조건",
 	"wikibase-sitelinks-wikibooks": "위키책",

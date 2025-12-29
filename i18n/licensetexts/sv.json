@@ -15,7 +15,8 @@
 			"Sabelöga",
 			"Stefan2",
 			"Tobulos1",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Stefan2255"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Upphovsrättsinnehavaren till denna fil, $1, tillåter vem som helst att använda den '''i valfritt syfte, förutsatt att''' lämplig hänvisning till upphovsrättsinnehavaren ges.\nVidaredistribution, redigering av verk, kommersiell användning och all övrig användning är tillåten.",
@@ -108,7 +109,7 @@
 	"wm-license-pd-usgov-noaa-wiki-link": "w:sv:National Oceanic and Atmospheric Administration",
 	"wm-license-pd-wiki-link": "w:sv:Public domain",
 	"wm-license-self": "Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande {{PLURAL:$1|licens|licenser}}:",
-	"wm-license-self-with-author": "$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande {{PLURAL:$1|licens|licenser}}:",
+	"wm-license-self-with-author": "$1 , upphovsrättsinnehavaren till detta verk, publicerar härmed det under följande {{PLURAL:$2| licens|licenser}}:",
 	"wm-license-self-one-license": "Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:",
 	"wm-license-self-one-license-with-author": "$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:",
 	"wm-license-self-multiple-licenses": "Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licenser:",

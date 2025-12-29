@@ -7,7 +7,8 @@
 			"SaldırganSincap",
 			"WikiPhoenix",
 			"Belteshassar",
-			"Ludvig Broman"
+			"Ludvig Broman",
+			"Stefan2255"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besökare på den här webbplatsen med din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} den senaste dagen, vilket är det högsta tillåtna antalet den tidsperioden.\nPå grund av detta kan för tillfället inte besökare med denna IP-adress skapa fler konton.\n\nOm du är på ett evenemang med fokus på att bidra till Wikimedias projekt, var god läs [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] för att lösa problemet.",
