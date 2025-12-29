@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Penyuwangi",
 			"William Surya Permana"
 		]
 	},
@@ -8,5 +9,5 @@
 	"wikimedia-graph-tracking-category": "Halaman dengan bagan",
 	"wikimedia-graph-tracking-category-desc": "Halaman yang menyertakan tag <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Halaman dengan bagan rusak",
-	"wikimedia-graph-broken-category-desc": "Halaman yang menyertakan tag <code>&lt;graph&gt;</code> dengan penggunaan yang tidak sah."
+	"wikimedia-graph-broken-category-desc": "Halaman menyertakan tanda <code>&lt;graph&gt;</code> dengan penggunaan tidak absah."
 }
