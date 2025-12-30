@@ -32,7 +32,8 @@
 			"Varnent",
 			"Warrakkk",
 			"WikiPhoenix",
-			"Gkyziridis"
+			"Gkyziridis",
+			"Stefan2255"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia-specifika meddelanden",
@@ -218,6 +219,9 @@
 	"wikimedia-copyrightwarning-ccbysa40only": "Genom att spara ändringar accepterar du [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use användarvillkoren] och samtycker oåterkalleligen till att släppa ditt bidrag enligt licensen [https://creativecommons.org/licenses/by-sa/4.0/deed.sv CC BY-SA 4.0].\nDu accepterar att en hyperlänk eller webbadress utgör tillräcklig tillskrivning i enlighet med Creative Commons-licensen.",
 	"wikimedia-license-links": "licensen [https://creativecommons.org/licenses/by-sa/4.0/deed.sv CC BY-SA 4.0] och [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.sv CC BY-SA 4.0] och [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikifunctions-site-footer-copyright-footer": "Alla funktionsdefinitioner, etiketter och dokumentation i huvudnamnrymden är tillgängliga under [//creativecommons.org/publicdomain/zero/1.0/deed.sv Creative Commons CC0-licensen]. Alla kodfragment och implementeringar i huvudnamnrymden är tillgängliga under [https://www.apache.org/licenses/LICENSE-2.0 Apache 2.0-licensen]. Text i andra namnrymder är tillgänglig under [//creativecommons.org/licenses/by-sa/4.0/deed.sv Creative Commons Erkännande-DelaLika-licensen]; ytterligare villkor kan gälla. Genom att använda den här webbplatsen godkänner du [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/sv Användarvillkor] och [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/sv Sekretesspolicy].",
+	"wikifunctions-editing-copyrightwarning-function": "Genom att klicka på \"publicera\", godkänner du [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/sv Användarvillkoren] och du samtycker oåterkalleligen till att släppa ditt bidrag under [//creativecommons.org/publicdomain/zero/1.0/deed.sv Creative Commons CC0-licensen].",
+	"wikifunctions-editing-copyrightwarning-implementation": "Genom att klicka på \"publicera\" godkänner du [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/sv Användarvillkoren] och du samtycker oåterkalleligen till att publicera ditt bidrag under [https://www.apache.org/licenses/LICENSE-2.0 Apache 2.0-licensen].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Välkommen}}, $1!",
 	"wikibase-page-schema-author-name": "Bidragsgivare till Wikimedia-projekten",
 	"wikibase-statementsection-constraints": "Begränsningar",
