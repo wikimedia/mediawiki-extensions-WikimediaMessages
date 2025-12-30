@@ -15,6 +15,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Відвідувачі цієї вікі, що використовували Вашу IP-адресу, створили {{PLURAL:$1|$1 обліковий запис|$1 облікові записи|$1 облікових записів}} за останній час ($2), що є максимальною кількістю для цього періоду часу.\nВ результаті відвідувачі, що використовують цю IP-адресу, наразі більше не можуть створювати облікові записи.\n\nЯкщо Ви перебуваєте на заході, тематикою якого є внесок до проектів Вікімедіа, будь ласка, перегляньте сторінку [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|запитів на тимчасове підвищення ліміту для IP]], щоб отримати допомогу  із вирішенням цього питання.",
+	"wikimedia-acct_creation_throttle_hit-temp": "Ми тимчасово обмежуємо редагування без входу в систему з вашого місцезнаходження. Будь ласка, [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} створіть обліковий запис] для редагування або спробуйте ще раз пізніше.",
 	"wikimedia-createacct-helpusername": "([[{{MediaWiki:createacct-helpusername-url}}|допоможіть мені вибрати]])",
 	"wikimedia-prefs-user-downloaddata-help-message": "Ви можете перейти на сторінку своїх налаштувань в [[m:Special:CentralAuth/$1|інших проєктах Вікімедіа, де ви робили внесок]], щоб завантажити дані свого облікового запису з цих проєктів.",
 	"wikimedia-createacct-imgcaptcha-help": "Не можете побачити зображення? [[{{MediaWiki:createacct-captcha-help-url}}|Запит облікового запису]]",
@@ -89,5 +90,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Якщо Вікіпедія корисна для вас, будь ласка, пожертвуйте сьогодні.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Якщо цей сайт був для вас корисним, будь ласка, пожертвуйте сьогодні.",
 	"wikimedia-emailauth-accountrecovery-intro": "Відновити свій обліковий запис Вікімедіа",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Електронна адреса, зареєстрована у вашому обліковому записі Вікімедіа"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Електронна адреса, зареєстрована у вашому обліковому записі Вікімедіа",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "У вас є привілеї на сайті {{SITENAME}}, які вимагають двофакторної автентифікації.\n\n<strong>Ви можете [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights/uk втратити ці привілеї] і, можливо, вам доведеться знову подати запит на них вручну.</strong> \n\nПорада: Додайте новий метод, перш ніж видаляти цей."
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Chaduvari",
 			"V Bhavya",
 			"Veeven"
 		]
@@ -10,6 +11,7 @@
 	"project-localized-name-awawiki": "అవధి వికీపీడియా",
 	"project-localized-name-ckbwiktionary": "సెంట్రల్ కుర్దిష్ విక్షనరీ",
 	"project-localized-name-kbdwiktionary": "కబార్డియన్ విక్షనరీ",
+	"project-localized-name-tewiki": "తెలుగు వికీపీడియా",
 	"project-localized-name-thankyouwiki": "కృతజ్ఞతలు",
 	"project-localized-name-wikidatawiki": "వికీడేటా"
 }
