@@ -269,6 +269,7 @@
 	"ext-campaignevents-registration-form-policy": "Üritused, mida Wikimedia Foundation rahastab või millele Wikimedia Foundation pakub toimumiskohta, peavad pidama kinni kõigist Wikimedia Foundationi reeglitest, kaasa arvatud [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy noorte turvalisust] puudutavatest reeglitest.",
 	"ipinfo-global-contributions-url-label": "Globaalne kaastöö",
 	"checkuser-group-requirements-temporary-account-viewer": "Kasutaja ei vasta [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users juurdepääsu kriteeriumitele].",
+	"userrights-restricted-group-temporary-account-viewer": "Kasutaja ei vasta [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users juurdepääsu kriteeriumitele]",
 	"wikimedia-help-translate-prompt": "Soovid aidata tõlkida? [$1 Tõlgi puuduvad osad].",
 	"wikimedia-articletopics-group-geography": "Piirkonnad",
 	"wikimedia-articletopics-group-culture": "Kultuur",
