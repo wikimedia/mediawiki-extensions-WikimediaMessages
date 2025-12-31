@@ -7,7 +7,8 @@
 			"Josve05a",
 			"Lokal Profil",
 			"WikiPhoenix",
-			"Yupik"
+			"Yupik",
+			"Stefan2255"
 		]
 	},
 	"contactpage-title-requestlicense": "Begär ett licensformulär",
@@ -15,7 +16,7 @@
 	"contactpage-subject-requestlicense": "Begäran om att använda ett Wikimedia-varumärke",
 	"contactpage-license-request-username": "Användarnamn",
 	"contactpage-license-request-relevantsite": "Relevant Wikimedia-webbplats (om det finns någon)",
-	"contactpage-license-request-group": "Wikimedia-förening, tematisk organisation eller användargrupp & titel (om någon finns) *",
+	"contactpage-license-request-group": "Wikimedia-förening, tematisk organisation eller användargrupp & titel (om någon finns)",
 	"contactpage-license-request-title": "Titel (om tillämpligt)",
 	"contactpage-license-request-organization": "Organisation (om tillämpligt)",
 	"contactpage-license-request-organization-type": "Organisationstyp (om tillämpligt)",
@@ -55,6 +56,7 @@
 	"contactpage-title-affcomusergroup": "Begär att starta en användargrupp",
 	"contactpage-affcom-user-group-description-label": "\"'Beskrivning\"'\n* Berätta om vad er grupp planerar att göra.",
 	"contactpage-affcom-user-group-logo-label": "\"\"Logotyp\"'\n* Vilken logotyp vill du använda för din grupp?",
+	"contactpage-affcom-user-group-logo-wm-logo": "''Om du önskar att använda '''Wikimedia-logotypen''' kan du [[Special:Contact/requestlicense|be om en varumärkeslicens]].''",
 	"contactpage-affcom-user-group-logo-community": "Wikimedia-gemenskapens logotyp",
 	"contactpage-movecom-signup-username-label": "Dina användarnamn",
 	"contactpage-movecom-signup-affiliation-foundation": "Wikimedia Foundation",

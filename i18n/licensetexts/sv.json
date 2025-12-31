@@ -15,7 +15,8 @@
 			"Sabelöga",
 			"Stefan2",
 			"Tobulos1",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Stefan2255"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Upphovsrättsinnehavaren till denna fil, $1, tillåter vem som helst att använda den '''i valfritt syfte, förutsatt att''' lämplig hänvisning till upphovsrättsinnehavaren ges.\nVidaredistribution, redigering av verk, kommersiell användning och all övrig användning är tillåten.",
@@ -65,6 +66,7 @@
 	"wm-license-gfdl-1.2-only-header": "1.2&nbsp;endast",
 	"wm-license-gfdl-1.3-and-later": "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 eller senare publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
 	"wm-license-gfdl-1.3-only": "Tillstånd ges att kopiera, distribuera och/eller modifiera detta dokument under villkoren i '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Version 1.3 endast som publicerad av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]], utan oföränderliga avsnitt, framsidestexter eller baksidestexter. En kopia av licensen ingår i avsnittet ''[[{{int:wm-license-gfdl-full-1.3-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.3-only-header": "1.3&nbsp;endast",
 	"wm-license-gfdl-wiki-link": "w:sv:GNU Free Documentation License",
 	"wm-license-gpl-text": "Detta verk är [[{{int:wm-license-free-software-wiki-link}}|fri programvara]]; du kan distribuera det och/eller modifiera det under villkoren i '''[[{{int:wm-license-gpl-wiki-link}}|GNU General Public License]]''' som publicerat av [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; antingen version 2 av licensen, eller någon senare version. Detta verk distribueras i hopp om att det ska vara användbart, men '''utan någon garanti''', även utan underförstådd garanti om '''säljbarhet''' eller '''lämplighet för ett särskilt ändamål'''. Se  [{{int:wm-license-gpl-2-full-link}} version 2] och [{{int:wm-license-gpl-3-full-link}} version 3 av GNU General Public License] för mer information.",
 	"wm-license-gpl-wiki-link": "w:sv:GNU General Public License",
@@ -108,10 +110,11 @@
 	"wm-license-pd-usgov-noaa-wiki-link": "w:sv:National Oceanic and Atmospheric Administration",
 	"wm-license-pd-wiki-link": "w:sv:Public domain",
 	"wm-license-self": "Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande {{PLURAL:$1|licens|licenser}}:",
-	"wm-license-self-with-author": "$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande {{PLURAL:$1|licens|licenser}}:",
+	"wm-license-self-with-author": "$1 , upphovsrättsinnehavaren till detta verk, publicerar härmed det under följande {{PLURAL:$2| licens|licenser}}:",
 	"wm-license-self-one-license": "Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:",
 	"wm-license-self-one-license-with-author": "$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licens:",
 	"wm-license-self-multiple-licenses": "Jag, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licenser:",
 	"wm-license-self-multiple-licenses-with-author": "$1, upphovsrättsinnehavaren av detta verk, publicerar härmed det under följande licenser:",
-	"wm-license-self-multiple-licenses-select": "Du får själv välja den licens du vill använda."
+	"wm-license-self-multiple-licenses-select": "Du får själv välja den licens du vill använda.",
+	"wm-license-self-invalid-parameter": "Ogiltig parameter. Denna mall, som är allmän egendom, bör inte användas i egenmallen."
 }

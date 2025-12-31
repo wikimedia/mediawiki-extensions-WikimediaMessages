@@ -20,7 +20,7 @@
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Ajude-me a escolher)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Você pode visitar sua página de Preferências em [[m:Special:CentralAuth/$1|outros projetos da Wikimedia onde você contribuiu]] para baixar os dados da sua conta desses projetos.",
 	"wikimedia-createacct-imgcaptcha-help": "Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]",
-	"wikimedia-centralauth-groupname": "a Fundação Wikimedia",
+	"wikimedia-centralauth-groupname": "Fundação Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>Esta conta está [[m:Special:MyLanguage/Global locks|bloqueada globalmente]].</strong> Não {{GENDER:$1|poderá}} entrar em nenhuma wiki da Wikimedia. Se {{GENDER:$1|tem}} alguma pergunta [[m:Special:Contact/stewards|contacte os ''stewards'']], por favor.",
 	"createacct-helpusername-url": "{{ns:Project}}:Política_de_nomes_de_usuário",
 	"wikimedia-delete-toobig": "Esta página tem um grande histórico de edição, com mais de $1 {{PLURAL:$1|revisão|revisões}}.\nExclusão de páginas com históricos de edição muito grandes é restrita para evitar interrupção acidental do {{SITENAME}}.\nPor favor, entre em contato com [[m:Special:MyLanguage/Stewards|stewards]] em [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] para solicitar a exclusão desta página.",
