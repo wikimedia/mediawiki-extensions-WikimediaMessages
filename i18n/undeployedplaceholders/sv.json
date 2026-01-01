@@ -3,7 +3,8 @@
 		"authors": [
 			"Jon Harald Søby",
 			"Lejonel",
-			"Sabelöga"
+			"Sabelöga",
+			"Stefan2255"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|sammanfogade}} användarkontot \"$4\" ($5) med {{GENDER:$8|$6}} ($7)",
