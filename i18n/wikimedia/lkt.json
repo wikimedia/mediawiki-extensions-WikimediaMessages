@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"AmazingJus",
 			"Peter57770",
 			"R12ntech"
 		]
 	},
 	"sitesupport": "Mázaska kič’úŋ",
-	"tooltip-n-sitesupport": "Uŋpátitaŋ po/pe",
+	"tooltip-n-sitesupport": "Uŋpátitaŋ {{GENDER:|po|pe|po/pe}}",
 	"wikimedia-copyright-footer": "[https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] ektá wówasukiye iwóglakapi;\nNakúŋ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] él wónaȟ’uŋ yaŋké.",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",

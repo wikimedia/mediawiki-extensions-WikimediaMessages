@@ -6,6 +6,7 @@
 			"LNDDYL",
 			"Liuxinyu970226",
 			"LowensteinYang",
+			"Peterxy12",
 			"Spring Roll Conan",
 			"Winston Sung"
 		]
@@ -59,7 +60,7 @@
 	"contactpage-affcom-user-group-location-label": "'''地點'''\n* 請提供您的群組計畫駐點的國家與城市，如果您的群組計畫是國際群組，您可以填寫「國際」。",
 	"contactpage-affcom-user-group-leaders-label": "'''三位活躍中的維基媒體人'''\n* 請分別'''三位成員'''的姓名、電子郵件位址以及維基媒體使用者名稱（這些成員的註冊帳號已存在''' 6 個月'''以上，並且有''' 300 次或更多貢獻'''）。",
 	"contactpage-affcom-user-group-logo-label": "'''標誌'''\n* 請提供您的使用者群組標誌的維基共享資源檔案連結。",
-	"contactpage-affcom-user-group-rules-label": "'''使用者群組規範'''\n* 若符合以下條件，您就有資格成立使用者群組：\n** 您至少有 '''3 位'''已註冊超過 '''6 個月'''且超過 '''300 次'''維基媒體專案貢獻的成員。\n** 您完全同意[[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|'''使用者群組協議行為守則''']]。\n** 您同意遵守[[foundation:Special:MyLanguage/Policy:Trademark_policy|'''商標政策''']]以及：\n** 您是獨立於其他維基媒體組織。",
+	"contactpage-affcom-user-group-rules-label": "'''使用者群組規範'''\n* 若符合以下條件，您就有資格成立使用者群組：\n** 您至少有'''3位'''已註冊超過'''6個月'''且超過'''300次'''維基媒體專案貢獻的成員。\n** 您完全同意[[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|'''使用者群組協議行為守則''']]。\n** 您同意遵守[[foundation:Special:MyLanguage/Policy:Trademark_policy|'''商標政策''']]以及：\n** 您是獨立於其他維基媒體組織。",
 	"contactpage-affcom-user-group-terms-label": "我已閱讀並同意以上條款與[[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|使用者群組協議與行為守則]]。",
 	"contactpage-affcom-user-group-logo-wm-logo": "''若您希望使用'''維基媒體標誌'''，您可以[[Special:Contact/requestlicense|請求商標授權]]。''",
 	"contactpage-affcom-user-group-logo-community": "維基媒體社群標誌",
