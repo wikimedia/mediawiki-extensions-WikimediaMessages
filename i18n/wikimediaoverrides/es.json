@@ -18,6 +18,7 @@
 			"Luisangelrg",
 			"Macofe",
 			"MarcoAurelio",
+			"McDutchie",
 			"No se",
 			"PoLuX124",
 			"Rodney Araujo",
@@ -81,5 +82,5 @@
 	"wikimedia-campaignevents-edit-form-questions-pii-notice": "Para ver las respuestas agregadas de los participantes que contienen información personal, se le pedirá que maneje con cuidado la información del participante, incluida la información de identificación personal del participante, recopilada durante el registro del acto y de acuerdo con la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Política:Términos_de_Uso Términos de uso] de la Fundación Wikimedia.",
 	"wikimedia-skin-minerva-donate-banner-message": "Dona ahora",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipedia te resulta útil, dona hoy.",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tienes privilegios en {{SITENAME}} que requieren autenticación de dos factores.\n\n<strong>Podrías [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights lose these privileges] perder estos privilegios y tener que solicitarlos manualmente de nuevo.</strong>\n\nConsejo: Agrega un nuevo método antes de eliminar este."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tienes privilegios en {{SITENAME}} que requieren autenticación de dos factores.\n\n<strong>Podrías [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder estos privilegios] y tener que solicitarlos manualmente de nuevo.</strong>\n\nConsejo: Agrega un nuevo método antes de eliminar este."
 }

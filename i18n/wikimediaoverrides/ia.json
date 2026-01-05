@@ -80,5 +80,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipedia te es utile, per favor dona hodie mesmo.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si iste sito te ha essite utile, per favor dona hodie mesmo.",
 	"wikimedia-emailauth-accountrecovery-intro": "Recuperar tu conto de Wikimedia",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse de e-mail registrate in tu conto de Wikimedia"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse de e-mail registrate in tu conto de Wikimedia",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tu ha privilegios sur {{SITENAME}} que require le authentication bifactorial.\n\n<strong>Tu pote [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder iste privilegios], in le qual caso tu debera requestar los de novo manualmente.</strong>\n\nConsilio: Adde un nove methodo ante de remover iste."
 }
