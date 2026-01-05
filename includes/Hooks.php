@@ -179,10 +179,6 @@ class Hooks implements
 			'sitematrix-others',
 			'sitematrix-summary',
 			'sulrenamewarning-usenew',
-			// T248367
-			'webauthn-module-description',
-			// T248367
-			'webauthn-ui-login-prompt',
 			// T218160
 			'log-action-filter-usermerge',
 			'log-action-filter-usermerge-mergeuser',
