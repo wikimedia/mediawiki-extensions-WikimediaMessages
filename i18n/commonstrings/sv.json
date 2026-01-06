@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Nikki",
-			"Varnent"
+			"Varnent",
+			"Stefan2255"
 		]
 	},
 	"wm-commonstrings-activities": "Aktiviteter",
@@ -20,7 +21,7 @@
 	"wm-commonstrings-questions": "Frågor?",
 	"wm-commonstrings-register-account": "Registrera konto",
 	"wm-commonstrings-reports": "Rapporter",
-	"wm-commonstrings-resolutions": "Beslut",
+	"wm-commonstrings-resolutions": "{{PLURAL:$1|Resolution|Resolutioner}}",
 	"wm-commonstrings-scope": "Omfattning",
 	"wm-commonstrings-seealso": "Se även",
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Genväg|Genvägs}}",

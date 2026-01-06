@@ -43,7 +43,8 @@
 			"Vinickw",
 			"Samoasambia",
 			"Albertoleoncio",
-			"Jdforrester"
+			"Jdforrester",
+			"RogueScholar"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -302,7 +303,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Concorda que, ao fornecer esta informação à Wikimedia Foundation, possamos contactá-lo sobre traduções ou outros temas relacionados com o movimento Wikimedia que achemos que possam ser do seu interesse. Concorda igualmente que os seus dados possam ser armazenados nos Estados Unidos da América e estejam sujeitos à nossa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy política de privacidade].",
 	"upload-more-photos-of-this-monument": "Carregar mais fotos deste monumento",
 	"createacct-captcha-help-url": "{{ns:Project}}:Pedir uma conta",
-	"wikimedia-developers": "Programadores",
+	"wikimedia-developers": "Desenvolvedores",
 	"wikimedia-torblock-blocked": "Seu endereço IP, <strong>$1</strong> , foi automaticamente identificado como um nó de saída [https://en.wikipedia.org/wiki/Tor_(network) Tor].\nA edição através do Tor está bloqueada para evitar abusos.\nFor informações e instruções adicionais para usuários legítimos, consulte a política global [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies no open proxies].",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Política de Privacidade]",
 	"upload-form-label-own-work-message-commons": "Confirmo que sou o proprietário dos direitos de autor deste ficheiro, e aceito publicar irrevogavelmente este ficheiro na wiki Wikimedia Commons com a licença [https://creativecommons.org/licenses/by-sa/4.0/deed.pt Creative Commons Atribuição-CompartilhaIgual 4.0], e concordo com as [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Condições de Utilização].",

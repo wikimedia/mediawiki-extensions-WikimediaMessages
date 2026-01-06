@@ -7,7 +7,8 @@
 			"Liuxinyu970226",
 			"LowensteinYang",
 			"Spring Roll Conan",
-			"Winston Sung"
+			"Winston Sung",
+			"Peterxy12"
 		]
 	},
 	"contactpage-title-requestlicense": "請求授權條款表單",
@@ -70,6 +71,7 @@
 	"contactpage-affcom-chapter-thorg-application-thorg-status": "申請專題組織成員",
 	"contactpage-affcom-chapter-thorg-group-name-label": "'''提供建議的分會/組織名稱'''\n\n一旦獲得核准，這會是註冊法人實體的名稱。",
 	"contactpage-affcom-chapter-thorg-application-subpage-label": "'''請提供您組織在元維基上申請子頁面的 URL 連結'''\n\n這是您在分會/專題組織建立指南流程第一步中建立的頁面",
+	"contactpage-affcom-chapter-thorg-bylaws-label": "'''請在元維基上提供貴組織章程的 URL 連結'''\n\n章程審核是取得分會/專題組織認可的第一步，應在進行任何讓協會正式成立的活動（例如開設銀行帳戶、召開成立大會、或是向貴國當局註冊）前完成。地方自治體委員會代表會以任何問題、建議或更正與您聯繫。",
 	"contactpage-affcom-chapter-thorg-self-assessment-checklist-label": "'''自我評估清單'''\n\n請確認在規章中已涵蓋以下章節",
 	"contactpage-affcom-chapter-thorg-legal-status-label": "法律地位聲明",
 	"contactpage-affcom-chapter-thorg-group-mission-label": "群組任務",
@@ -107,6 +109,7 @@
 	"contactpage-ombudscommission-affected-accounts": "哪些帳號會受到此投訴的影響？如果只有您本人受到影響，可以略過此欄位。",
 	"contactpage-ombudscommission-proposed-solution": "您提出的解決方案是什麼？您對委員會有什麼期望？",
 	"contactpage-ombudscommission-additional-information": "請補充您認為有助於理解本案例的任何其他資訊。",
+	"contactpage-ombudscommission-disclaimer-label": "免責聲明：您包含在此表單的所有資訊會提交給社群成員志工來處理回覆（特別是[[Special:MyLanguage/Ombuds commission|申訴專員委員會]]的成員），而非維基媒體基金會。請不要包含到任何您並未打算分享給維基媒體志工的資訊。處理您所提交資訊的相關回覆和相關函件，不會視為維基媒體基金會的官方聲明。有關官方函件，請透過列在 https://wikimediafoundation.org/about/contact/ 的方法來聯絡維基媒體基金會。",
 	"contactpage-fromname-accountvanishapps": "申請者的使用者名稱",
 	"contactpage-fromaddress-accountvanishapps": "申請者的電子郵件地址",
 	"contactpage-title-accountvanishapps": "帳號隱退申請表",
