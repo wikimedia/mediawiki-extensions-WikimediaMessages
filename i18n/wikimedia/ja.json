@@ -431,7 +431,7 @@
 	"action-docseditor": "解説文の編集",
 	"right-docseditor": "解説文を編集",
 	"right-edit-legal": "法的影響が想定されるページを編集",
-	"action-edit-legal": "法的影響が想定されるページを編集",
+	"action-edit-legal": "法的影響が想定されるページの編集",
 	"ext-quicksurveys-tst-internal-survey-question": "この30日間に、あなたはオンラインでウィキペディア（{{SERVERNAME}}）に参加することが安全でない、あるいは不安に感じましたか。",
 	"ext-quicksurveys-name": "簡易アンケート",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "はい",

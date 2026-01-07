@@ -5,7 +5,8 @@
 			"Boivie",
 			"Lokal Profil",
 			"Sabelöga",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Stefan2255"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Censur",
@@ -13,6 +14,7 @@
 	"group-oversight-member": "{{GENDER:$1|censor}}",
 	"hello": "Hej",
 	"please-translate": "Hjälp till att översätta till ditt språk",
+	"please-translate-short": "Hjälp till att översätta",
 	"thank-you": "{{GENDER:$1|Tack.}}",
 	"specialinvestigate-feedback": "Lämna återkoppling",
 	"graph-disabled-category": "Sidor med inaktiverade grafer",

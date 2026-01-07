@@ -55,7 +55,7 @@
 	"contactpage-license-abuse-yourcontact": "Din kontaktinformation (om vi får kontakta dig)",
 	"contactpage-title-affcomusergroup": "Begär att starta en användargrupp",
 	"contactpage-affcom-user-group-description-label": "\"'Beskrivning\"'\n* Berätta om vad er grupp planerar att göra.",
-	"contactpage-affcom-user-group-logo-label": "\"\"Logotyp\"'\n* Vilken logotyp vill du använda för din grupp?",
+	"contactpage-affcom-user-group-logo-label": "'''Logotyp'''\n* Vänligen länka till Commons-filen med din användargrupps logotyp.",
 	"contactpage-affcom-user-group-logo-wm-logo": "''Om du önskar att använda '''Wikimedia-logotypen''' kan du [[Special:Contact/requestlicense|be om en varumärkeslicens]].''",
 	"contactpage-affcom-user-group-logo-community": "Wikimedia-gemenskapens logotyp",
 	"contactpage-movecom-signup-username-label": "Dina användarnamn",
