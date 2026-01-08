@@ -140,6 +140,7 @@
 	"group-steward-member": "{{GENDER:$1| ਮੁਖ਼ਤਿਆਰ}}",
 	"group-translationadmin": "ਤਰਜਮਾ ਪ੍ਰਬੰਧਕ",
 	"group-translationadmin-member": "{{GENDER:$1|ਤਰਜਮਾ ਪ੍ਰਬੰਧਕ}}",
+	"grouppage-translationadmin": "{{ns:project}}:ਉਲਥਾ ਪ੍ਰਬੰਧਕ",
 	"tag-AWB-description": "[https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser] ਨਾਲ ਕੀਤੇ ਗਏ ਸੋਧ",
 	"search-interwiki-custom": "wikt:ਵਿਕਸ਼ਨਰੀ ਤੋਂ\nb:ਵਿਕੀਕਿਤਾਬਾਂ ਤੋਂ\nn:ਵਿਕੀਖ਼ਬਰਾਂ ਤੋਂ\nq:ਵਿਕੀਹਵਾਲਾ ਤੋਂ\ns:ਵਿਕੀਸਰੋਤ ਤੋਂ\nv:ਵਿਕੀਵਰਸਿਟੀ ਤੋਂ\nvoy:ਵਿਕੀਸਫ਼ਰ ਤੋਂ",
 	"wikimedia-copyright-footer": "ਇਹ ਲਿਖਤ [https://creativecommons.org/licenses/by-sa/4.0/  ਕ੍ਰਿਏਟਿਵ ਕਾਮਨਜ਼ ਐਟਰੀਬਿਊਸ਼ਨ-ਸ਼ੇਅਰਅਲਾਈਕ ਲਸੰਸ ਤਹਿਤ ਉਪਲਬਧ ਹੈ];\nਹੋਰ ਸ਼ਰਤਾਂ ਲਾਗੂ ਹੋ ਸਕਦੀਆਂ ਹਨ।\nਹੋਰ ਜਾਣਕਾਰੀ ਲਈ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ਵਰਤੋਂ ਦੀਆਂ ਸ਼ਰਤਾਂ ਵੇਖੋ]।",

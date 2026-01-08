@@ -11,7 +11,7 @@
 			"이강철"
 		]
 	},
-	"search-interwiki-results-abwiki": "[[:ab:|압하지야어 위키백과]]의 결과를 보여줍니다.",
+	"search-interwiki-results-abwiki": "[[:ab:|압카즈어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-acewiki": "[[:ace:|아체어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-adywiki": "[[:ady:|아디게어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-afwiki": "[[:af:|아프리칸스어 위키백과]]의 결과를 보여줍니다.",
@@ -279,6 +279,8 @@
 	"search-interwiki-results-yowiki": "[[:yo:|요루바어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-zawiki": "[[:za:|좡어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-zh_classicalwiki": "[[:zh-classical:|한문 위키백과]]에서 결과를 표시하는 중.",
+	"search-interwiki-results-zh_min_nanwiki": "[[:zh-min-nan:|민난어 위키백과]]의 결과를 보여줍니다.",
+	"search-interwiki-results-zh_yuewiki": "[[:zh-yue:|광둥어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-zhwiki": "[[:zh:|중국어 위키백과]]의 결과를 보여줍니다.",
 	"search-interwiki-results-zuwiki": "[[:zu:|줄루어 위키백과]]의 결과를 보여줍니다."
 }

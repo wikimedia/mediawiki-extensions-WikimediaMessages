@@ -3,7 +3,8 @@
 		"authors": [
 			"Jon Harald Søby",
 			"Lejonel",
-			"Sabelöga"
+			"Sabelöga",
+			"Stefan2255"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|sammanfogade}} användarkontot \"$4\" ($5) med {{GENDER:$8|$6}} ($7)",
@@ -17,5 +18,6 @@
 	"wikimedia-graph-tracking-category-desc": "Den här sidan innehåller en <code>&lt;graph&gt;</code>-tagg.",
 	"wikimedia-graph-broken-category": "Sidor med trasiga grafer",
 	"wikimedia-graph-broken-category-desc": "Den är sidan innehåller en <code>&lt;graph&gt;</code>-tagg som används felaktigt.",
-	"wikimedia-graph-disabled-category": "Sidor med inaktiverade grafer"
+	"wikimedia-graph-disabled-category": "Sidor med inaktiverade grafer",
+	"wikimedia-graph-disabled-category-desc": "Sidan innehåller en<code>&lt;graph&gt;</code>-tagg, som tillfälligt inte är tillgänglig ([[phab:T334940|T334940]])."
 }
