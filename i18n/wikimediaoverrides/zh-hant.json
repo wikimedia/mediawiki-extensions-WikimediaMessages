@@ -30,6 +30,7 @@
 	"wikimedia-checkuser-temporary-accounts-onboarding-dialog-ip-info-step-content": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/IP_Info IP資訊]工具可讓管理員、反破壞人員以及經驗豐富的使用者在無需查看IP位址的情況下，更輕鬆地存取IP位址的資訊。\n\n滿足[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines#Requirements_for_access 存取要求]的使用者可以在其偏好設定中啟用IP資訊功能。啟用後，IP資訊彈出視窗將顯示在臨時帳號和傳統IP位址旁。IP資訊也會顯示在使用者貢獻頁面。",
 	"wikimedia-delete-toobig": "此頁面有包含超過 $1 次{{PLURAL:$1|修訂|修訂}}，內含大量的編輯歷史。刪除帶有大量編輯歷史頁面的操作會遭限制，以防止對{{SITENAME}}產生的意外破壞。請在[[m:Steward requests/Miscellaneous|監管員請求/元維基雜項請求]]來聯絡[[m:Special:MyLanguage/Stewards|監管員]]請求刪除此頁面。",
 	"wikimedia-discussiontools-replywidget-terms-click": "點擊「$1」，即表明您同意遵守我們的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意{{PLURAL:$3|根據}}$2發表您的貢獻，該授權不可撤回。",
+	"wikimedia-emailauth-login-help": "如果您在接收驗證碼時遇到問題，您可以[[Special:AccountRecovery|恢復您的帳號]]。",
 	"wikimedia-feedback-termsofuse": "我同意按照[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]提供回饋。",
 	"wikimedia-flow-terms-of-use-new-topic": "點擊「{{int:flow-newtopic-save}}」，即表明您同意遵守我們的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意{{PLURAL:$2|根據}}$1發表您的貢獻，該授權不可撤回。",
 	"wikimedia-flow-terms-of-use-reply": "點擊「{{int:flow-reply-link}}」，即表明您同意遵守我們的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意{{PLURAL:$2|根據}}$1發表您的貢獻，該授權不可撤回。",
@@ -60,5 +61,9 @@
 	"wikimedia-globalblocking-blockedtext-ip-range": "被封鎖的位址段為$1。",
 	"wikimedia-globalblocking-blockedtext-proxy": "被封鎖的代理伺服器位址是$1。",
 	"wikimedia-globalblocking-blockedtext-mistake": "如果您認為自己被封鎖是場錯誤，可以在[[m:Special:MyLanguage/Stewards/Wizard\n|監管員封鎖精靈]]中檢視更多資訊和說明。",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "如果維基百科對您有助益，不妨現在就考慮捐款。"
+	"wikimedia-skin-minerva-donate-banner-message": "立即捐款",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "如果維基百科對您有助益，不妨現在就考慮捐款。",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "如果本站對您有助益，不妨考慮現在捐款。",
+	"wikimedia-emailauth-accountrecovery-intro": "恢復您的維基媒體帳號",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "您在維基媒體帳號中註冊的電子郵件"
 }
