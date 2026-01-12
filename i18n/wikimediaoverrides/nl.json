@@ -16,6 +16,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Bezoekers van deze wiki hebben in de afgelopen $2 vanaf uw IP-adres {{PLURAL:$1|één account|$1 accounts}} aangemaakt, wat het maximale aantal is voor deze tijdsperiode.\nDaarom kunnen bezoekers vanaf dit IP-adres op dit moment geen andere accounts meer aanmaken.\n\nAls u aanwezig bent bij een evenement waarbij de nadruk ligt op het bijdragen aan Wikimedia-projecten, zie dan [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Tijdelijke ontheffing van de IP-limiet]] voor hulp bij het oplossen van dit probleem.",
+	"wikimedia-acct_creation_throttle_hit-temp": "De mogelijkheid tot het bewerken zonder aanmelden is tijdelijk beperkt. [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} Maak een account aan] om te bewerken, of probeer het later nog eens.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mij met kiezen)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "U kunt naar uw voorkeuren op [[m:Special:CentralAuth/$1|andere Wikimedia-projecten waaraan u hebt bijgedragen]] gaan om uw accountgegevens van die projecten te downloaden.",
 	"wikimedia-createacct-imgcaptcha-help": "Kunt u de afbeelding niet zien? [[{{MediaWiki:createacct-captcha-help-url}}|Vraag dan een account aan]]",
@@ -90,5 +91,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Als Wikipedia nuttig voor u is, doneer dan vandaag nog.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Als deze site nuttig voor u is, doneer dan vandaag nog.",
 	"wikimedia-emailauth-accountrecovery-intro": "Wikimedia-account herstellen",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "E-mailadres geregistreerd bij uw Wikimedia-account"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "E-mailadres geregistreerd bij uw Wikimedia-account",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "U hebt op {{SITENAME}} bevoegdheden waarvoor tweetrapsauthenticatie vereist is.\n\n<strong>U kunt [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights deze bevoegdheden kwijtraken] zodat u ze handmatig opnieuw moet aanvragen.</strong>\n\nTip: Voeg een nieuwe methode toe alvorens deze te verwijderen."
 }
