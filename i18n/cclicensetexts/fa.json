@@ -16,7 +16,8 @@
 			"Multichill",
 			"Reza1615",
 			"Sahim",
-			"Wayiran"
+			"Wayiran",
+			"M j"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:fa:کرییتیو کامنز",
@@ -225,8 +226,8 @@
 	"wm-license-cc-free-to-remix-text": "برای انطباق اثر",
 	"wm-license-cc-conditions": "تحت شرایط زیر:",
 	"wm-license-cc-conditions-attribution-header": "انتساب",
-	"wm-license-cc-conditions-attribution-text": "شما باید اعتبار مربوطه را به دست آورید، پیوندی به مجوز ارائه دهید و نشان دهید که آیا تغییرات ایجاد شده‌اند یا خیر. شما ممکن است این کار را به هر روش منطقی انجام دهید، اما نه به هر شیوه‌ای که پیشنهاد می‌کند که مجوزدهنده از شما یا استفاده‌تان حمایت کند.",
+	"wm-license-cc-conditions-attribution-text": "شما باید اعتبار مربوطه را به دست آورید، پیوندی به مجوز ارائه دهید و اگر تغییراتی ایجاد شده است، آن را ذکر کنید. شما می‌توانید این کار را به هر روش معقولی انجام دهید، اما نه به‌طوریکه نشان دهید صاحب مجوز، شما یا استفاده شما را تأیید می‌کند.",
 	"wm-license-cc-conditions-share_alike-header": "انتشار مشابه",
 	"wm-license-cc-conditions-share_alike-text": "اگر این اثر را تلفیق یا تبدیل می‌کنید، یا بر پایه‌ آن اثری دیگر خلق می‌کنید،  می‌‌بایست مشارکت‌های خود را تحت مجوز [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses  یکسان یا مشابه]  با ا اصل آن توزیع کنید.",
-	"wm-license-cc-pd-mark-text": "این پرونده تحت قانون حق تکثیر محدودیت آزاد منتشر شده که شامل تمامی حقوق مربوطه و حقوق نزدیک به آن می‌شود."
+	"wm-license-cc-pd-mark-text": "این پرونده فاقد محدودیت‌های شناخته‌شده تحت قانون حق تکثیر است که شامل تمامی حقوق مربوطه و حقوق نزدیک به آن می‌شود."
 }

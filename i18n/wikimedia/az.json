@@ -170,7 +170,7 @@
 	"group-global-deleter-member": "{{GENDER:$1|qlobal silici}}",
 	"group-global-flow-create": "Qlobal Flow yaradıcıları",
 	"group-global-flow-create-member": "{{GENDER:$1|Qlobal Flow yaradıcısı}}",
-	"group-global-ipblock-exempt": "Qlobal IP-blokundan azad olanlar",
+	"group-global-ipblock-exempt": "Qlobal IP blokundan azad olanlar",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|qlobal IP blokundan azad olma}}",
 	"group-global-interface-editor": "Qlobal interfeys redaktorları",
 	"group-global-interface-editor-member": "{{GENDER:$1|qlobal interfeys redaktoru}}",
