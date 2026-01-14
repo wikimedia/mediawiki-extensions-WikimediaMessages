@@ -43,7 +43,8 @@
 			"Wnme",
 			"XanonymusX",
 			"Απεργός",
-			"PBradley-WMF"
+			"PBradley-WMF",
+			"IWL04"
 		]
 	},
 	"wikimediamessages-desc": "Ermöglicht spezifische Systemnachrichten für Projekte der Wikimedia Foundation",
@@ -53,7 +54,7 @@
 	"nstab-creator": "Urheber",
 	"nstab-institution": "Institution",
 	"nstab-sequence": "Sequenz",
-	"nstab-timedtext": "Timed Text",
+	"nstab-timedtext": "TimedText",
 	"group-image-reviewer": "Dateiprüfer",
 	"group-image-reviewer-member": "{{GENDER:$1|Dateiprüfer|Dateiprüferin}}",
 	"grouppage-image-reviewer": "{{ns:project}}:Dateiprüfer",

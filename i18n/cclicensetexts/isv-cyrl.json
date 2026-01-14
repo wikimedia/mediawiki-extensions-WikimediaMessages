@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Qiorly"
+			"Qiorly",
+			"IJzeren Jan"
 		]
 	},
 	"wm-license-cc-attribution": "Приписање авторства",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "признање авторства",
 	"wm-license-cc-conditions-attribution-text": "Трбујете указати авторство тутого твора, надати линк к лиценцији и примєтити, был ли он како-небуд ихмєњены. Вы можете то сдєлати было какым способом, але не тако,же може издавити се, же лиценцијат поддрживаје вас иди ваше употребјење твора.",
 	"wm-license-cc-conditions-share_alike-header": "разпространити на тыхже самых условјах",
-	"wm-license-cc-conditions-share_alike-text": "Ако вы измєните или прєобратите тутој твор, или створите ины твор на јего основє, можете разпространити своје дєло једино под [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses тојуже самоју или сумєстимоју лиценцијеју] како оригинал."
+	"wm-license-cc-conditions-share_alike-text": "Ако вы измєните или прєобратите тутој твор, или створите ины твор на јего основє, можете разпространити своје дєло једино под [[ccorg:share-your-work/licensing-considerations/compatible-licenses тојуже самоју или сумєстимоју лиценцијеју]] како оригинал."
 }
