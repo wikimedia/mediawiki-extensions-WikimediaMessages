@@ -25,7 +25,7 @@
 	"wikimedia-urlshortener-badaccessgroups": "Kratke veze možete napraviti samo pomoću obrasca [[:m:Special:UrlShortener|Special:UrlShortener]] na sajtu meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "Kratke veze možete napraviti samo pozivom sajt meta.wikimedia.org.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Politika privatnosti]",
-	"wikimedia-ipinfo-preference-use-agreement": "Pristajem da koristim ovu alatku u skladu sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines smjernicama] isključivo za istragu ili prevenciju vandalizma, zloupotreba ili drugih kršenja pravila Fondacije Wikimedija ili pravila zajednice",
+	"wikimedia-ipinfo-preference-use-agreement": "Pristajem da koristim ovaj alat u skladu sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines smjernicama] isključivo za istragu ili prevenciju vandalizma, zloupotreba ili drugih kršenja pravila Fondacije Wikimedija ili pravila zajednice",
 	"wikimedia-skin-minerva-donate-banner-message": "Doniranje",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Ako vam Wikipedija znači, podržite nas."
 }
