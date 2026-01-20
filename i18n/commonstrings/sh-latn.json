@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Winston Sung"
+			"Winston Sung",
+			"Aca"
 		]
 	},
 	"wm-commonstrings-activities": "Aktivnosti",
@@ -15,7 +16,7 @@
 	"wm-commonstrings-overview": "Pregled",
 	"wm-commonstrings-participate": "Učestvujte",
 	"wm-commonstrings-questions": "Pitanja?",
-	"wm-commonstrings-register-account": "Registrujte nalog",
+	"wm-commonstrings-register-account": "Registrirajte račun",
 	"wm-commonstrings-reports": "Izveštaji",
 	"wm-commonstrings-scope": "Obim",
 	"wm-commonstrings-seealso": "Povezano",

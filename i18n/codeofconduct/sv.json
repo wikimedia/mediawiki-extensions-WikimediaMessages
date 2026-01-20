@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Josve05a"
+			"Josve05a",
+			"Stefan2255"
 		]
 	},
-	"wm-codeofconduct": "Uppförandekod"
+	"wm-codeofconduct": "Uppförandekod",
+	"wm-techcodeofconduct": "Uppförandekod"
 }
