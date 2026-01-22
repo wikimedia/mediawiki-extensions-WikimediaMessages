@@ -4,9 +4,11 @@
 			"Caro de Segeda"
 		]
 	},
+	"wm-license-cc-attribution": "Atribución",
 	"wm-license-cc-free": "Éris libri:",
 	"wm-license-cc-free-to-share-header": "de compartil",
 	"wm-license-cc-free-to-remix-header": "de remistural",
 	"wm-license-cc-free-to-remix-text": "de adaptal o traballu",
-	"wm-license-cc-conditions-attribution-header": "atribución"
+	"wm-license-cc-conditions-attribution-header": "atribución",
+	"wm-license-cc-conditions-share_alike-header": "compartil igual"
 }

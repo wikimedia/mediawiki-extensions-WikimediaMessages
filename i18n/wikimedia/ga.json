@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aindriu80",
 			"Alison",
 			"Dowlinme",
 			"Kscanne",
@@ -45,6 +46,7 @@
 	"group-sysadmin": "Riarthóirí",
 	"group-sysadmin-member": "riarthóir",
 	"shared-repo-name-shared": "Cómhaoin Wikimedia",
+	"wikimedia-copyrightwarning": "Trí athruithe a shábháil, aontaíonn tú leis na [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], agus aontaíonn tú go neamh-inchúlghairthe do ranníocaíocht a scaoileadh faoin [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 Cheadúnas] agus an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nAontaíonn tú gur leor hipearnasc nó URL mar lua faoin gceadúnas Creative Commons.",
 	"wikibase-sitelinks-wikinews": "Vicínuacht",
 	"wikibase-sitelinks-wikiquote": "Vicíshliocht",
 	"wikibase-sitelinks-wikisource": "Vicífhoinse",
