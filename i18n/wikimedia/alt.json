@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Батыр Комдошев",
-			"Кудайкул"
+			"Кудайкул",
+			"Null the Great"
 		]
 	},
 	"sitesupport": "Акча берип болужары",
 	"tooltip-n-sitesupport": "Бисти јӧмӧжӧр",
-	"wikimedia-copyright-footer": "Бу текст [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons Attribution-ShareAlike лицензиялу]; кезик тушта башка айалгалар кожулат.\nЈартын кӧрӧргӧ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Эдинетен айалгаларды] кӧрӧр.",
+	"wikimedia-copyright-footer": "Бу текст [https://creativecommons.org/licenses/by-sa/4.0/deed.ru Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA) лицензиялу]; кезик тушта башка айалгалар кожулат.\nЈартын кӧрӧргӧ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Эдинетен айалгаларды] кӧрӧр.",
 	"wikimedia-copyrightwarning": "Солынтыларды артызып јадала, слер [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Эдинетен ээжилер] јӧпсинип јадар, анайда ок кайра алынбас кепке чыкканыла слер јӧпсинип јадар мындый лицензиялар аайынча [https://creativecommons.org/licenses/by-sa/4.0/deed.ru CC BY-SA 4.0] и [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]. Слердиҥ јӧпти берип јадар, келишкен бӱктӧн уулап турган гипертайанты эмезе оныҥ URL-адрези Creative Commons лицензияныҥ ээжилерин бӱдӱрерге јеткил болор.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Кӱӱнзеп келер!}}, $1!",
 	"wikibase-sitelinks-wikinews": "Викисолундар",

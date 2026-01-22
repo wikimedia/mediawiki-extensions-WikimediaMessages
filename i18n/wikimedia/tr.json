@@ -90,7 +90,7 @@
 	"group-botadmin-member": "{{GENDER:$1|hizmetli haklarına sahip bot}}",
 	"grouppage-botadmin": "{{ns:project}}:Hizmetli haklarına sahip botlar",
 	"group-global-temporary-account-viewer": "Küresel geçici hesap IP görüntüleyicileri",
-	"group-global-temporary-account-viewer-member": "{{GENDER:$1|küresel geçici hesap IP görüntüleyicisi}}",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|küresel geçici hesap IP görüntüleyici}}",
 	"group-confirmed": "Onaylı kullanıcılar",
 	"group-confirmed-member": "{{GENDER:$1|onaylı kullanıcı}}",
 	"grouppage-confirmed": "{{ns:project}}:Onaylı kullanıcılar",
