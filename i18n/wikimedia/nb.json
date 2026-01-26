@@ -348,8 +348,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "For mer informasjon, se denne undersøkelsens [https://foundation.wikimedia.org/Wiki/Performance_Perception_Survey_Privacy_Statement personvernserklæring].",
 	"wikimedia-switchover-read-only": "Du kan ikke redigere nå. Dette er på grunn av vedlikehold. Kopier og lagre teksten din og prøv igjen om noen minutter.",
 	"passwordpolicies-policy-blockattacker": "Passordregler for forhindring av kjente angrep der avsløring av detaljer ville skade forhindringen.",
-	"group-oathauth-tester": "Testere av tofaktorautentisering",
-	"group-oathauth-tester-member": "{{GENDER:$1|tester av tofaktorautentisering}}",
 	"querypage-updates-half-monthly": "Oppdateringer for denne siden kjøres to ganger i måneden.",
 	"querypage-updates-monthly": "Oppdateringer for denne siden kjøres to ganger i måneden.",
 	"right-editautoreviewprotected": "Redigere sider beskyttet som «{{int:protect-level-editautoreviewprotected}}»",

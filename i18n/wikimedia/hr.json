@@ -282,8 +282,6 @@
 	"wikimedia-statslink": "Statistika",
 	"wikimedia-wikistats-label": "Wikistatistike",
 	"wikimedia-cookiestatement": "Izjava o kolačićima",
-	"group-oathauth-tester": "Ispitivači dvofaktorske autentifikacije",
-	"group-oathauth-tester-member": "{{GENDER:$1|ispitivač dvofaktorske autentifikacije|ispitivačica dvofaktorske autentifikacije}}",
 	"protect-level-editautopatrolprotected": "Dopusti samo autoophođenima",
 	"restriction-level-editautopatrolprotected": "zaštićeno (samo autoophođeni)",
 	"right-editautopatrolprotected": "uređivanje stranicā zaštićenih kao »{{int:protect-level-editautopatrolprotected}}«",

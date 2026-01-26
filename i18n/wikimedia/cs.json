@@ -309,8 +309,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Více informací najdete v [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement prohlášení o ochraně osobních údajů] k tomuto průzkumu.",
 	"wikimedia-switchover-read-only": "V současné chvíli nemůžete editovat kvůli probíhající údržbě. Zkopírujte a uložte si svůj text a zkuste to znovu za několik minut.",
 	"passwordpolicies-policy-blockattacker": "Politika hesel bránící známým útokům, u které by zveřejnění podrobností ohrozilo tuto ochranu.",
-	"group-oathauth-tester": "Testeři dvoufaktorové autentizace",
-	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} dvoufaktorové autentizace",
 	"querypage-updates-half-monthly": "Aktualizace této stránky probíhají dvakrát za měsíc.",
 	"querypage-updates-monthly": "Aktualizace této stránky probíhají jednou za měsíc.",
 	"protect-level-editautopatrolprotected": "Povolit jen uživatelům s automaticky prověřenými editacemi",

@@ -278,8 +278,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "অধিক তথ্যৰ বাবে, এই জৰীপৰ [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement গোপনীয়তা বিবৃতি] চাওক।",
 	"wikimedia-switchover-read-only": "আপুনি এতিয়া সম্পাদনা কৰিব নোৱাৰে। ইয়াৰ কাৰণ হৈছে চলি থকা কাৰিকৰী ৰক্ষণাবেক্ষণ। আপোনাৰ পাঠ্য বেলেগত প্ৰতিলিপি আৰু সংৰক্ষণ কৰক আৰু কেইমিনিটমানৰ পাছত পুনৰ চেষ্টা কৰক।",
 	"passwordpolicies-policy-blockattacker": "জ্ঞাত আক্ৰমণৰ প্ৰশমনৰ বাবে গুপ্তশব্দ নীতি য'ত বিৱৰণ প্ৰকাশে প্ৰশমনত বাধা দিব পাৰে",
-	"group-oathauth-tester": "দুই-উপলক্ষ্য প্ৰমাণীকৰণ পৰীক্ষক",
-	"group-oathauth-tester-member": "{{GENDER:$1|দুই-উপলক্ষ্য প্ৰমাণীকৰণ পৰীক্ষক}}",
 	"querypage-updates-half-monthly": "এই পৃষ্ঠাটো মাহত দুবাৰ নবীকৰণ কৰা হয়।",
 	"querypage-updates-monthly": "এই পৃষ্ঠাটো মাহত এবাৰ নবীকৰণ কৰা হয়।",
 	"protect-level-editautoreviewprotected": "কেৱল স্বয়ংক্ৰিয় পৰ্যালোচকক অনুমতি দিয়ক",

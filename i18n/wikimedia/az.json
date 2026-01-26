@@ -377,8 +377,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Məxfilik Bəyanatı]",
 	"wikimedia-switchover-read-only": "İndi redaktə edə bilməzsiniz. Bunun səbəbi texniki baxış keçirilməsidir. Mətni kopyalayıb yadda saxlayın və bir neçə dəqiqədən sonra yenidən cəhd edin.",
 	"passwordpolicies-policy-blockattacker": "Təfərrüatların açıqlanması təsirin azaldılmasına mane olacağı məlum hücumların azaldılması üçün parol siyasəti",
-	"group-oathauth-tester": "İki faktorlu autentifikasiya testçiləri",
-	"group-oathauth-tester-member": "{{GENDER:$1|iki faktorlu autentifikasiya testçiləri}}",
 	"querypage-updates-half-monthly": "Bu səhifə ayda iki dəfə yenilənir.",
 	"querypage-updates-monthly": "Bu səhifə ayda bir dəfə yenilənir.",
 	"protect-level-editautoreviewprotected": "Sadəcə avtopatrullara icazə ver",

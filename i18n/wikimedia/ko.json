@@ -379,8 +379,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-question": "위키에서 편집 내용을 검토하거나 되돌리는 데 사용되는 도구를 개선하기 위한 짧은 설문 조사에 관심이 있으신가요?",
 	"wikimedia-switchover-read-only": "유지보수로 인해 지금 편집할 수 없습니다. 텍스트를 복사해서 저장한 다음 몇 분 뒤 다시 시도하십시오.",
 	"passwordpolicies-policy-blockattacker": "세부 정보 공개가 경감을 방해하는 알려진 공격의 경감을 위한 비밀번호 정책입니다",
-	"group-oathauth-tester": "2요소 인증 테스터",
-	"group-oathauth-tester-member": "{{GENDER:$1|2요소 인증 테스터}}",
 	"querypage-updates-half-monthly": "이 문서의 갱신은 한 달에 두 차례 수행됩니다.",
 	"protect-level-editautoreviewprotected": "자동 검토자만 허용",
 	"right-editautoreviewprotected": "\"{{int:protect-level-editautoreviewprotected}}\" 단계로 보호된 문서 편집",

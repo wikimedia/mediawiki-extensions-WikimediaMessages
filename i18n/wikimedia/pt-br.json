@@ -385,8 +385,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Para mais informações, consulte a [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaração de privacidade]desta pesquisa",
 	"wikimedia-switchover-read-only": "Você não pode editar agora. Isso é por causa da manutenção. Copie e salve seu texto e tente novamente em alguns minutos.",
 	"passwordpolicies-policy-blockattacker": "Política de senha para mitigação de ataques conhecidos, onde a divulgação de detalhes impediria a mitigação",
-	"group-oathauth-tester": "Testadores de autenticação de dois fatores",
-	"group-oathauth-tester-member": "{{GENDER:$1|testador de autenticação de dois fatores|testadora de autenticação de dois fatores}}",
 	"querypage-updates-half-monthly": "As atualizações para esta página estão sendo executadas duas vezes por mês.",
 	"querypage-updates-monthly": "As atualizações para esta página são executadas uma vez por mês.",
 	"protect-level-editautoreviewprotected": "Permitir apenas autorrevisores",

@@ -362,8 +362,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Конфиденциаллалин дӀахьедар]",
 	"wikimedia-switchover-read-only": "ХӀинца хийца йиш йац хьан. Иза доьзна ду сайт техникин латторца. Оьшуш хилча, хьайн текст копи йина, тӀаккха масех минот йаьлча йуха а Ӏалашйан хьажа.",
 	"passwordpolicies-policy-blockattacker": "ГӀарадаьлла тӀелатарш кӀаддеш болу паролийн низам, хаамаш схьабелла новкъарло йирайолун",
-	"group-oathauth-tester": "Шина факторан авторизаци зерхой",
-	"group-oathauth-tester-member": "{{GENDER:$1|шина факторан авторизаци зерхо}}",
 	"querypage-updates-half-monthly": "ХӀара агӀо хӀора баттахь шозза карлайоккхуш йу.",
 	"querypage-updates-monthly": "ХӀара агӀо баттахь цкъа карлайоккхуш йу.",
 	"protect-level-editautoreviewprotected": "авто талламхой бен",

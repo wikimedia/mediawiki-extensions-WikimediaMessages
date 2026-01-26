@@ -359,8 +359,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Ташалыкъны баямы]",
 	"wikimedia-switchover-read-only": "Бусагъатда тюзетиу эталлыкъ тюлсюз. Бу сайтны техникалыкъ баджарыуу ючюндю. Текстигизни копия этиб эм сакъландырыб, талай минутдан джангыдан сынагъыз.",
 	"passwordpolicies-policy-blockattacker": "Деталларын ачыкъланыууну азайтыуун тыярыгъы белгили болгъан атакаланы азайтыр ючюн пароль политика",
-	"group-oathauth-tester": "Эки факторлу аутентификация тестчиле",
-	"group-oathauth-tester-member": "{{GENDER:$1|эки факторлу аутентификация тестчи}}",
 	"querypage-updates-half-monthly": "Бу бет ючюн джангыртыула айда эки кере этиледи.",
 	"querypage-updates-monthly": "Бу бет ючюн джангыртыула айда бир кере этиледи.",
 	"protect-level-editautoreviewprotected": "Къуру автотинтиучюлеге эркинлик бер",

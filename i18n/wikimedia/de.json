@@ -399,8 +399,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/de unserer Datenschutzerklärung]",
 	"wikimedia-switchover-read-only": "Du kannst aufgrund von Wartungsarbeiten derzeit nicht bearbeiten. Kopiere und speichere deinen Text und versuche es in einigen Minuten erneut.",
 	"passwordpolicies-policy-blockattacker": "Es gibt eine weitere Passwortrichtlinie, die momentan aus Sicherheitsgründen nicht veröffentlicht wurde.",
-	"group-oathauth-tester": "Tester der Zwei-Faktor-Authentifizierung",
-	"group-oathauth-tester-member": "{{GENDER:$1|Tester|Testerin}} der Zwei-Faktor-Authentifizierung",
 	"querypage-updates-half-monthly": "Aktualisierungen für diese Seite erfolgen zweimal im Monat.",
 	"querypage-updates-monthly": "Aktualisierungen für diese Seite erfolgen einmal im Monat.",
 	"restriction-level-editautoreviewprotected": "geschützt (nur aktive Sichter)",

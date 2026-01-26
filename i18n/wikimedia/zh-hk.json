@@ -32,7 +32,5 @@
 	"wikimedia-developers": "開發人員",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 私隱政策]",
 	"wikimedia-statslink": "統計",
-	"wikimedia-cookiestatement": "Cookie聲明",
-	"group-oathauth-tester": "雙重認証測試員",
-	"group-oathauth-tester-member": "{{GENDER:$1|雙重認証測試員}}"
+	"wikimedia-cookiestatement": "Cookie聲明"
 }

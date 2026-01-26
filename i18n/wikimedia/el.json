@@ -254,8 +254,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Για περισσότερες πληροφορίες, ανατρέξτε στη [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement δήλωση ιδιωτικότητας] της έρευνας.",
 	"wikimedia-switchover-read-only": "Δεν μπορείτε να επεξεργαστείτε τώρα. Αυτό οφείλεται στη συντήρηση. Αντιγράψτε και αποθηκεύστε το κείμενό σας και δοκιμάστε ξανά σε λίγα λεπτά.",
 	"passwordpolicies-policy-blockattacker": "Πολιτική κωδικού πρόσβασης για τον μετριασμό γνωστών επιθέσεων όπου η αποκάλυψη στοιχείων θα εμπόδιζε τον μετριασμό",
-	"group-oathauth-tester": "Δοκιμαστές ταυτοποίησης μέσω δύο παραγόντων",
-	"group-oathauth-tester-member": "{{GENDER:$1|δοκιμαστής ταυτοποίησης μέσω δύο παραγόντων}}",
 	"querypage-updates-half-monthly": "Οι ενημερώσεις για αυτήν τη σελίδα εκτελούνται δύο φορές το μήνα.",
 	"querypage-updates-monthly": "Οι ενημερώσεις για αυτήν τη σελίδα εκτελούνται μια φορά το μήνα.",
 	"protect-level-editautopatrolprotected": "Να επιτρέπονται μόνο οι autopatrollers",

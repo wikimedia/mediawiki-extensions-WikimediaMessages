@@ -369,8 +369,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement Declaración de privacidade]",
 	"wikimedia-switchover-read-only": "Arestora non podes editar debido a tarefas de mantemento. Copia e garda o texto e inténtao de novo nuns minutos.",
 	"passwordpolicies-policy-blockattacker": "Norma de contrasinais para a mitigación de ataques coñecidos nos que a divulgación de detalles dificultaría a mitigación",
-	"group-oathauth-tester": "Probadores da autenticación de dous factores",
-	"group-oathauth-tester-member": "{{GENDER:$1|probador|probadora}} da autenticación de dous factores",
 	"querypage-updates-half-monthly": "Esta páxina actualízase dúas veces ao mes.",
 	"querypage-updates-monthly": "Esta páxina actualízase unha vez ao mes.",
 	"protect-level-editautoreviewprotected": "Permitir só os revisores automáticos",

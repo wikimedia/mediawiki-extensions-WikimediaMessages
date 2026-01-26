@@ -419,8 +419,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "更多信息，请参考调查的[https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement 隐私声明]。",
 	"wikimedia-switchover-read-only": "您现在不能编辑。这是因为维修。复制并保存您的文本并在几分钟内重试。",
 	"passwordpolicies-policy-blockattacker": "用于减缓已知攻击的密码方针，若细节泄露将阻止减缓流程",
-	"group-oathauth-tester": "双因素身份验证测试者",
-	"group-oathauth-tester-member": "{{GENDER:$1|双因素身份验证测试者}}",
 	"querypage-updates-half-monthly": "本页面的更新每月运行两次。",
 	"querypage-updates-monthly": "本页面的更新每月运行一次。",
 	"protect-level-editautoreviewprotected": "仅允许自动复核用户",

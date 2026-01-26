@@ -367,8 +367,6 @@
 	"ext-quicksurveys-performance-internal-survey-question": "Trang này có tải đủ nhanh không?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Để tìm hiểu thêm, hãy đọc [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement lời tuyên bố về quyền riêng tư] của cuộc thăm dò ý kiến này.",
 	"wikimedia-switchover-read-only": "Bạn hiện không thể sửa đổi do hệ thống đang được bảo trì. Xin sao lưu nội dung và thử lại sau vài phút.",
-	"group-oathauth-tester": "Người được sử dụng xác thực hai yếu tố",
-	"group-oathauth-tester-member": "{{GENDER:$1|người được sử dụng xác thực hai yếu tố}}",
 	"protect-level-editautoreviewprotected": "Chỉ cho phép các người tự duyệt",
 	"restriction-level-editautoreviewprotected": "hạn chế cho người tự duyệt",
 	"right-editautoreviewprotected": "Sửa trang bị khóa ở mức “{{int:protect-level-editautoreviewprotected}}”",

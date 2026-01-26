@@ -245,8 +245,6 @@
 	"wikimedia-cookiestatement": "Küpsiste avaldus",
 	"wikimedia-switchover-read-only": "Hooldustööde tõttu ei saa praegu redigeerida. Kopeeri ja salvesta tekst ning proovi mõne minuti pärast uuesti.",
 	"passwordpolicies-policy-blockattacker": "Paroolireeglid, mille üksikasju ei avaldata, selleks et teadaolevaid ründeid tõhusamalt nõrgendada.",
-	"group-oathauth-tester": "Kaheastmelise autentimise proovijad",
-	"group-oathauth-tester-member": "{{GENDER:$1|kaheastmelise autentimise proovija}}",
 	"querypage-updates-half-monthly": "See lehekülg uueneb kaks korda kuus.",
 	"querypage-updates-monthly": "See lehekülg uueneb üks kord kuus.",
 	"protect-level-editautoreviewprotected": "Lubatud vaid automaatsetele ülevaatajatele",

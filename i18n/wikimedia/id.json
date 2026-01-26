@@ -396,8 +396,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/id Pernyataan Privasi]",
 	"wikimedia-switchover-read-only": "Anda tidak bisa menyunting sekarang. Ini disebabkan oleh pemeliharaan. Salin dan simpan teks Anda lalu coba lagi beberapa menit nanti.",
 	"passwordpolicies-policy-blockattacker": "Kebijakan kata sandi untuk mitigasi serangan yang diketahui, di mana pengungkapan rincian akan menghambat mitigasi",
-	"group-oathauth-tester": "Penguji autentikasi dua faktor",
-	"group-oathauth-tester-member": "{{GENDER:$1|penguji autentikasi dua faktor}}",
 	"querypage-updates-half-monthly": "Pembaruan untuk halaman ini dilakukan dua kali sebulan.",
 	"querypage-updates-monthly": "Pembaruan untuk halaman ini dilakukan sekali sebulan.",
 	"protect-level-editautoreviewprotected": "Izinkan hanya peninjau otomatis",

@@ -421,8 +421,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement/ar بيان الخصوصية الخاص بنا]",
 	"wikimedia-switchover-read-only": "لا يمكنك التعديل الآن. هذا بسبب الصيانة. انسخ واحفظ نصك وحاول مرة أخرى بعد عدة دقائق.",
 	"passwordpolicies-policy-blockattacker": "سياسة كلمة المرور للتخفيف من الهجمات المعروفة حيث يؤدي الإفصاح عن التفاصيل إلى إعاقة التخفيف",
-	"group-oathauth-tester": "مختبرو التوثيق ذي العاملين",
-	"group-oathauth-tester-member": "{{GENDER:$1|مختبر|مختبرة}} التوثيق ذي العاملين",
 	"querypage-updates-half-monthly": "يتم تشغيل تحديثات هذه الصفحة مرتين في الشهر.",
 	"querypage-updates-monthly": "يتم تشغيل تحديثات هذه الصفحة مرة في الشهر.",
 	"protect-level-editautoreviewprotected": "السماح للمستخدمين المراجعين تلقائيا فقط",

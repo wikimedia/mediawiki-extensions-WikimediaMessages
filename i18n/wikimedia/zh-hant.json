@@ -410,8 +410,6 @@
 	"ext-quicksurveys-patrollertools-external-survey-privacy-policy": "[//foundation.wikimedia.org/wiki/Legal:Patroller_Tools_Baseline_Satisfaction_Survey_Privacy_Statement 隱私權聲明]",
 	"wikimedia-switchover-read-only": "因在維護的關係，您現在無法編輯。請複製儲存您的文字並在稍後幾分鐘後重試。",
 	"passwordpolicies-policy-blockattacker": "用於減緩已知攻擊的密碼方針，若細節遭洩露將會造成妨礙",
-	"group-oathauth-tester": "雙重認證測試者",
-	"group-oathauth-tester-member": "{{GENDER:$1|雙重認證測試者}}",
 	"querypage-updates-half-monthly": "此頁面一個月更新兩次。",
 	"querypage-updates-monthly": "此頁面一個月更新一次。",
 	"protect-level-editautoreviewprotected": "僅允許巡查豁免者",

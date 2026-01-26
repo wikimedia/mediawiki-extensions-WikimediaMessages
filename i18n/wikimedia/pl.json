@@ -322,8 +322,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Zobacz [https://foundation.wikimedia.org/wiki/Legal:Performance_Perception_Survey_Privacy_Statement zasady prywatności] tej ankiety aby dowiedzieć się więcej.",
 	"ext-quicksurveys-patrollertools-external-survey-question": "Czy jesteś zainteresowany wzięciem udziału w krótkiej ankiecie, której celem jest udoskonalenie narzędzi służących do przeglądania i wycofywania edycji na Twojej wiki?",
 	"wikimedia-switchover-read-only": "Nie możesz teraz edytować z powodów konserwacyjnych. Skopiuj i zapisz tekst swojej edycji, a następnie spróbuj ponownie za parę minut.",
-	"group-oathauth-tester": "Testerzy uwierzytelniania dwuskładnikowego",
-	"group-oathauth-tester-member": "{{GENDER:$1|tester|testerka}} uwierzytelniania dwuskładnikowego",
 	"querypage-updates-half-monthly": "Aktualizacje tej strony są uruchamiane dwa razy w miesiącu.",
 	"querypage-updates-monthly": "Aktualizacje tej strony są uruchamiane raz w miesiącu.",
 	"protect-level-editautopatrolprotected": "Dozwolone tylko dla patrolujących automatycznie",

@@ -261,8 +261,6 @@
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Pa más información, consulta la [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement declaración de privacidá] d'esta encuesta.",
 	"wikimedia-switchover-read-only": "Anguaño nun pues editar. Tamos realizando llabores de caltenimientu. Copia y guarda el to testu ya inténtalo n'unos minutos.",
 	"passwordpolicies-policy-blockattacker": "Política de contraseñes p'apangar ataques conocíos cuando revelar los detalles d'aquellos torgue l'arreglu",
-	"group-oathauth-tester": "Probadores d'identificación de dos factores",
-	"group-oathauth-tester-member": "{{GENDER:$1|probador|probadora}} del sistema d'identificación en dos pasos",
 	"querypage-updates-half-monthly": "Los anovamientos d'esta páxina execútense dos vegaes al mes.",
 	"querypage-updates-monthly": "Los anovamientos d'esta páxina execútense una vegada al mes.",
 	"protect-level-editautopatrolprotected": "Permitir sólo autopatrulleros",
