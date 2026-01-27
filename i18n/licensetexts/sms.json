@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tynnoel",
 			"Yupik"
 		]
 	},
@@ -13,6 +14,8 @@
 	"wm-license-information-description": "Deskriptt",
 	"wm-license-information-source": "Teâttkäivv",
 	"wm-license-information-date": "Peiʹvvmieʹrr",
+	"wm-license-information-author": "Tuejjeei",
 	"wm-license-information-permission": "Ââʹnnemvuõiggâdvuõtt",
-	"wm-license-information-permission-reusing-text": "Tän teâttõõzz oʹđđestâânnmõš"
+	"wm-license-information-permission-reusing-text": "Tän teâttõõzz oʹđđestâânnmõš",
+	"wm-license-own-work": "Jiijjâs tuâjj"
 }
