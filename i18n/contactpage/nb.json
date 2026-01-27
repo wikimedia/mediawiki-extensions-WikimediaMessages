@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Jon Harald Søby"
+			"Jon Harald Søby",
+			"Yupik"
 		]
 	},
 	"contactpage-title-requestlicense": "Skjema for lisensforespørsler",
@@ -84,7 +85,7 @@
 	"contactpage-movecom-signup-display-name": "Navn",
 	"contactpage-movecom-signup-display-username": "Brukernavn",
 	"contactpage-movecom-signup-display-nameusername": "Navn og brukernavn",
-	"contactpage-movecom-signup-terms-label": "Jeg har lest gjennom beskrivelsen til [[Special:MyLanguage/Movement communications group|Movement communications group]] og samtykker i [[foundation:Special:MyLanguage/Policy:Friendly space policy|Wikimedia Fonudations inkluderingsregler]] når jeg deltar i denne gruppa. Jeg forstår at brudd på disse reglene vil føre til utestengelse fra gruppa.",
+	"contactpage-movecom-signup-terms-label": "Jeg har lest gjennom beskrivelsen til [[Special:MyLanguage/Movement communications group|Movement communications group]] og samtykker i [[foundation:Special:MyLanguage/Policy:Friendly space policy|Wikimedia Foundations inkluderingsregler]] når jeg deltar i denne gruppa. Jeg forstår at brudd på disse reglene vil føre til utestengelse fra gruppa.",
 	"contactpage-title-ombudscommission": "Kontakt ombudskommisjonen",
 	"contactpage-ombudscommission-case-explanation": "Forklar hva som har hendt:",
 	"contactpage-ombudscommission-relevant-links": "Inkluder URL-er til wikihandlingene eller -sidene:",

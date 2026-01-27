@@ -7,10 +7,11 @@
 			"N0one",
 			"Neptune, the Mystic",
 			"Ponor",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"Hijerovit"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomozi mi odabrati)]]",
+	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Pravila za odabir imena)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Možete posjetiti svoju stranicu postavki na [[m:Special:CentralAuth/$1|drugim projektima Zaklade Wikimedija gdje ste doprinosili]] kako biste učitali podatke svojega računa s tih projekata.",
 	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite suradnički račun]]",
 	"wikimedia-centralauth-groupname": "{{#SWITCH:{{{1|}}}\n|#default=Zaklada Wikimedije\n|gen=Wikimedijine zaklade\n}}",
