@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Pampanid nga agraman kadagiti grapo",
+	"wikimedia-graph-tracking-category-desc": "Ti panid ket mangiraman iti etiketa ti <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Pampanid nga agraman kadagiti nadadael a grapo",
+	"wikimedia-graph-broken-category-desc": "Ti panid ket mangiraman iti etiketa ti <code>&lt;graph&gt;</code> nga agraman iti imbalido a panagusar."
+}
