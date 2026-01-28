@@ -425,6 +425,8 @@
 	"readinglists-import-app-with-link": "विकिपीडिया ऐप का नवीनतम संस्करण [$1 डाउनलोड] और स्थापित करें:",
 	"readinglists-list-empty-message": "आप विकिपीडिया ऐप को स्थापित करके यह सूची आयात कर सकते हैं।",
 	"ipinfo-global-contributions-url-label": "ग्लोबल योगदान",
+	"protect-level-edit-legal": "सिर्फ उन्हीं सदस्यों को अनुमति है जो कानून-संबंधी पृष्ठ सम्पादित कर सकते हैं",
+	"restriction-level-edit-legal": "कानूनी सुरक्षित",
 	"wikimedia-foundation-projects-label": "विकिमीडिया संस्थान की परियोजनाएँ",
 	"wikimedia-foundation-projects-of-label-link": "[[$1|विकिमीडिया संस्थान]] की परियोजनाएँ",
 	"wikimedia-foundation-projects-of-label-nolink": "विकिमीडिया संस्थान की परियोजनाएँ",

@@ -2,16 +2,17 @@
 	"@metadata": {
 		"authors": [
 			"Red Winged Duck",
-			"Renessaince"
+			"Renessaince",
+			"Ucukor"
 		]
 	},
-	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|аб’яднаў|аб’яднала}} уліковы запіс „$4“ ($5) у {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|аб’яднаў|аб’яднала}} рахунак „$4“ ($5) у {{GENDER:$8|$6}} ($7)",
 	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|выдаліў|выдаліла}} рахунак «$4» ($5)",
 	"wikimedia-log-action-filter-usermerge": "Тып дзеяньня:",
-	"wikimedia-log-action-filter-usermerge-mergeuser": "Аб’яднаньне ўліковых запісаў",
-	"wikimedia-log-action-filter-usermerge-deleteuser": "Выдаленьне ўліковых запісаў",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Аб’яднаньне рахункаў карыстальнікаў",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Выдаленьне рахунку карыстальніка",
 	"wikimedia-usermerge-logpage": "Журнал аб’яднаньня ўліковых запісаў",
-	"wikimedia-usermerge-logpagetext": "Гэта журнал аб’яднаньняў уліковых запісаў удзельнікаў.",
+	"wikimedia-usermerge-logpagetext": "Гэта журнал аб’яднаньняў рахункаў удзельнікаў.",
 	"wikimedia-graph-tracking-category": "Старонкі з графікамі",
 	"wikimedia-graph-tracking-category-desc": "Старонка ўтрымлівае тэг <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Старонкі з сапсаванымі графікамі",

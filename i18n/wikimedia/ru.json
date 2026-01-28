@@ -71,7 +71,8 @@
 			"WindEwriX",
 			"Александр Сигачёв",
 			"Умар",
-			"Megitsune-chan"
+			"Megitsune-chan",
+			"Merrahtar"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -212,6 +213,7 @@
 	"group-global-bot": "Глобальные боты",
 	"group-global-bot-member": "{{GENDER:$1|глобальный бот}}",
 	"group-global-deleter": "Глобальные удаляющие",
+	"group-global-deleter-member": "{{GENDER:$1|глобальный удаляющий|глобальная удаляющая}}",
 	"group-global-flow-create": "Глобальные создатели Flow",
 	"group-global-flow-create-member": "{{GENDER:$1|Глобальный создатель Flow}}",
 	"group-global-ipblock-exempt": "Исключения из глобальных IP-блокировок",
@@ -319,6 +321,7 @@
 	"wikimedia-taglines-phabricator": "Инструмент отслеживания проблем и планирования для программных проектов",
 	"wikimedia-taglines-meta": "Координация сообщества & документации",
 	"wikimedia-taglines-sources": "Бесплатная библиотека контента",
+	"wikimedia-taglines-wikibooks": "Свободные учебники",
 	"wikimedia-taglines-wikidata": "Свободная база знаний",
 	"wikimedia-taglines-wikifunctions": "Свободная библиотека функций",
 	"wikimedia-taglines-wikimania": "Международная конференция",
@@ -403,6 +406,7 @@
 	"ext-quicksurveys-name": "Быстрые опросы",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "Да",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "Нет",
+	"ext-quicksurveys-tst-internal-survey-confirm-msg": "Благодарим за обратную связь.",
 	"ext-quicksurveys-internal-gdi-safety-survey-question": "В течение последних 30-ти дней испытывали ли Вы дискомфорт или чувствовали ли себя в опасности, работая над Википедией ({{SERVERNAME}})?",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Да",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Нет",
@@ -422,6 +426,7 @@
 	"wikimedia-foundation-projects-label": "Проекты Фонда Викимедиа",
 	"wikimedia-foundation-projects-of-label-nolink": "Проекты Фонда Викимедиа",
 	"wikimedia-projects-label": "Проекты Викимедиа",
+	"wikimedia-mailservices-tagline": "Списки рассылок Викимедиа",
 	"wikimedia-movement-affiliates-shortlabel": "Партнёрские организации",
 	"wikimedia-movement-affiliates-oneword": "Филиалы",
 	"wikimedia-news-label": "Новости Викимедиа",

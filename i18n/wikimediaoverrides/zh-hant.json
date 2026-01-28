@@ -58,6 +58,7 @@
 	"wikimedia-notification-body-oathauth-disable-other": "若{{GENDER:$2|您}}未提過請求，{{GENDER:$2|您}}應聯絡維基媒體基金會信任和安全團隊。",
 	"wikimedia-ipinfo-preference-use-agreement": "我同意根據[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP資訊工具指引]來使用本工具，僅用於調查或阻止破壞、濫用或其他違反維基媒體基金會及社群方針的行為",
 	"wikimedia-centralauth-admin-log-otherwiki": "此帳號已被鎖定。參見[[meta:Special:CentralAuth/$1|元維基的全域帳號詳情]]以取得更多詳情。",
+	"wikimedia-globalblocking-blockedtext-all-wikis": "您的 IP 地址已[[m:Special:MyLanguage/Global blocks|在所有 wiki 上受到封鎖]]。",
 	"wikimedia-globalblocking-blockedtext-on-range": "您的IP位址處於[[m:Special:MyLanguage/Global blocks|所有維基媒體基金會wiki上被封鎖]]的區段範圍內。",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "您的請求所使用的一個或多個代理伺服器已被[[m:Special:MyLanguage/Global blocks|全域封鎖]]。",
 	"wikimedia-globalblocking-blockedtext-on-user": "您的帳號已[[m:Special:MyLanguage/Global blocks|在所有 wiki 上受到封鎖]]。",
