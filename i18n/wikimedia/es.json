@@ -118,7 +118,7 @@
 	"group-arbcom": "Miembros del comité de arbitraje",
 	"group-arbcom-member": "{{GENDER:$1|miembro del comité de arbitraje}}",
 	"grouppage-arbcom": "{{ns:project}}:Miembros del comité de arbitraje",
-	"group-autopatrolled": "Autoverificadores",
+	"group-autopatrolled": "Autoverificados",
 	"group-autopatrolled-member": "{{GENDER:$1|autoverificado|autoverificada}}",
 	"grouppage-autopatrolled": "{{ns:project}}:Autoverificados",
 	"group-autoreviewer": "Autorrevisores",

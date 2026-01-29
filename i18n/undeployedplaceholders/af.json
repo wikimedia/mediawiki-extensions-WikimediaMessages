@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Bladsye met grafieke",
+	"wikimedia-graph-tracking-category-desc": "Dié bladsy bevat 'n <code>&lt;graph&gt;</code>-etiket.",
+	"wikimedia-graph-broken-category": "Bladsye met gebreekte grafieke",
+	"wikimedia-graph-broken-category-desc": "Dié bladsy bevat 'n <code>&lt;graph&gt;</code>-etiket wat verkeerd gebruik is."
+}

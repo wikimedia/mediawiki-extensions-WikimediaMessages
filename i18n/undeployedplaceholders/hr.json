@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"MaGa"
+		]
+	},
+	"wikimedia-graph-tracking-category": "Stranice koje sadrže grafikone",
+	"wikimedia-graph-tracking-category-desc": "Stranica sadrži oznaku <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Stranice s greškama u grafikonima",
+	"wikimedia-graph-broken-category-desc": "Stranica sadrži oznaku <code>&lt;graph&gt;</code> koja je nepravilno upotrijebljena.",
+	"wikimedia-graph-disabled-category": "Stranice s onemogućenim grafikonima",
+	"wikimedia-graph-disabled-category-desc": "Stranica sadrži oznaku <code>&lt;graph&gt;</code> koja trenutačno nije dostupna ([[phab:T334940|T334940]])."
+}

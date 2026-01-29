@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Puslapiai su grafikais",
+	"wikimedia-graph-tracking-category-desc": "Puslapyje yra <code>&lt;graph&gt;</code> žyma.",
+	"wikimedia-graph-broken-category": "Puslapiai su sugedusiais grafikais",
+	"wikimedia-graph-broken-category-desc": "Puslapyje yra <code>&lt;graph&gt;</code> žyma su netinkamu naudojimu."
+}

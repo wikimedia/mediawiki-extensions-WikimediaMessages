@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "ഗ്രാഫുകൾ ഉപയോഗിക്കുന്ന താളുകൾ",
+	"wikimedia-graph-tracking-category-desc": "<code>&lt;graph&gt;</code> റ്റാഗ് ഉൾക്കൊള്ളുന്ന താൾ.",
+	"wikimedia-graph-broken-category": "പൊട്ടിയ ഗ്രാഫുകളുള്ള താളുകൾ",
+	"wikimedia-graph-broken-category-desc": "ഈ താളിൽ അസാധുവായ ഉപയോഗമുള്ള <code>&lt;graph&gt;</code> റ്റാഗ് ഉണ്ട്."
+}

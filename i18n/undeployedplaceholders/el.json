@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Σελίδες με γραφήματα",
+	"wikimedia-graph-tracking-category-desc": "Η σελίδα περιλαμβάνει μια ετικέτα <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Σελίδες με σπασμένα γραφήματα",
+	"wikimedia-graph-broken-category-desc": "Η σελίδα περιλαμβάνει μια ετικέτα <code>&lt;graph&gt;</code> με μη έγκυρη χρήση."
+}
