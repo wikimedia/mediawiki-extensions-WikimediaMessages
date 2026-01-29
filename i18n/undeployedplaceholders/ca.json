@@ -1,9 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"SMP"
+		]
 	},
 	"wikimedia-graph-tracking-category": "Pàgines amb gràfics",
 	"wikimedia-graph-tracking-category-desc": "La pàgina conté una etiqueta <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Pàgines amb gràfics que no funcionen",
-	"wikimedia-graph-broken-category-desc": "La pàgina conté una etiqueta <code>&lt;graph&gt;</code> no usada de manera vàlida."
+	"wikimedia-graph-broken-category-desc": "La pàgina conté una etiqueta <code>&lt;graph&gt;</code> no usada de manera vàlida.",
+	"wikimedia-graph-disabled-category": "Pàgines amb gràfics desactivats"
 }
