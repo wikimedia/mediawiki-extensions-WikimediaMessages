@@ -2,10 +2,19 @@
 	"@metadata": {
 		"authors": [
 			"Msz2001",
-			"The Polish"
+			"The Polish",
+			"Woytecr"
 		]
 	},
 	"wikimedia-usermerge-logpage": "Rejestr integracji użytkowników",
+	"wikimedia-lqt-log-name": "Rejestr wątków dyskusji",
+	"wikimedia-lqt-log-action-move": "przeniósł [[$1]] z [[$2]] do [[$3]] ($4).",
+	"wikimedia-lqt-log-action-split": "wydzielił [[$1]] z [[$3]] tworząc nowy temat „$2”",
+	"wikimedia-lqt-log-action-merge-across": "przeniósł [[$1]] z [[$2]] do [[$3]]",
+	"wikimedia-lqt-log-action-merge-down": "przyłączył [[$1]] do [[$3]]",
+	"wikimedia-lqt-log-action-subjectedit": "zmienił temat [[$1]] z „$2” na „$3”",
+	"wikimedia-lqt-log-action-resort": "zmienił sposób sortowania [[$1]] z $2 na $3",
+	"wikimedia-lqt-log-action-signatureedit": "zmienił podpis w [[$1]] z „$2” na „$3”",
 	"wikimedia-graph-tracking-category": "Strony z wykresami",
 	"wikimedia-graph-tracking-category-desc": "Ta strona zawiera znacznik <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Strony z zepsutymi diagramami",

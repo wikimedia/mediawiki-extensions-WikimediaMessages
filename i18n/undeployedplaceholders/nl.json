@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Mainframe98",
-			"McDutchie"
+			"McDutchie",
+			"Siebrand"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|heeft}} het gebruikersaccount “$4” ($5) in {{GENDER:$8|$6}} samengevoegd ($7)",
@@ -12,6 +13,15 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Verwijdering gebruikersaccount",
 	"wikimedia-usermerge-logpage": "Gebruikerssamenvoegingslogboek",
 	"wikimedia-usermerge-logpagetext": "Dit is het logboek van gebruikerssamenvoegingen.",
+	"wikimedia-lqt-log-name": "Onderwerpenlogboek",
+	"wikimedia-lqt-log-header": "Dit logboek bevat details over handelingen ten aanzien van onderwerpen.",
+	"wikimedia-lqt-log-action-move": "heeft [[$1]] verplaatst van [[$2]] naar [[$3]] ($4)",
+	"wikimedia-lqt-log-action-split": "heeft [[$1]] afgesplitst van [[$3]] met als nieuw onderwerp \"$2\".",
+	"wikimedia-lqt-log-action-merge-across": "heeft [[$1]] verplaatst uit [[$2]] naar [[$3]].",
+	"wikimedia-lqt-log-action-merge-down": "heeft [[$1]] samengevoegd onder [[$3]].",
+	"wikimedia-lqt-log-action-subjectedit": "heeft het onderwerp voor [[$1]] gewijzigd van \"$2\" naar \"$3\"",
+	"wikimedia-lqt-log-action-resort": "heeft de sorteervolgorde voor [[$1]] gewijzigd. Sorteersleutel van $2 naar $3",
+	"wikimedia-lqt-log-action-signatureedit": "heeft de ondertekening voor [[$1]] gewijzigd van \"$2\" naar \"$3\"",
 	"wikimedia-graph-tracking-category": "Pagina's met grafieken",
 	"wikimedia-graph-tracking-category-desc": "De pagina bevat een <code>&lt;graph&gt;</code>-tag.",
 	"wikimedia-graph-broken-category": "Pagina's met niet-werkende grafieken",
