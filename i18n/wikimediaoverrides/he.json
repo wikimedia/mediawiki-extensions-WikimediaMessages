@@ -14,6 +14,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "{{PLURAL:$1|מבקר בוויקי הזה שהשתמש בכתובת ה־IP שלך יצר חשבון|מבקרים בוויקי הזה שהשתמשו בכתובת ה־IP שלך יצרו $1 חשבונות}} במהלך $2, וזה המספר המרבי המותר בזמן הזה.\nכתוצאה מזה, לא ניתן להשתמש בכתובת ה־IP הזאת ליצירת חשבונות נוספים.\n\nאם הגעת להשתתף באירוע שמתמקד בתרומה למיזמי ויקימדיה, ר' את הדף [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], שיכול לעזור לתקן את הבעיה.",
+	"wikimedia-acct_creation_throttle_hit-temp": "אנו מגבילים זמנית עריכה ללא כניסה לחשבון מהמיקום שלך. נא [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} ליצור חשבון] כדי לערוך, או לנסות שוב מאוחר יותר.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(עִזרו לי לבחור)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "{{GENDER:|אתה יכול|את יכולה}} לבקר בדף ההעדפות שלך ב[[m:Special:CentralAuth/$1|אתרי ויקימדיה אחרים שתרמת להם]] כדי להוריד את נתוני החשבון שלך מהמיזמים האלה.",
 	"wikimedia-createacct-imgcaptcha-help": "לא רואה את התמונה? [[{{MediaWiki:createacct-captcha-help-url}}|בקשת חשבון]]",
@@ -88,5 +89,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום.",
 	"wikimedia-emailauth-accountrecovery-intro": "שחזור החשבון הוויקימדיה שלך",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "כתובת הדוא\"ל הרשומה בחשבון הוויקימדיה שלך"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "כתובת הדוא\"ל הרשומה בחשבון הוויקימדיה שלך",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "יש לך הרשאות באתר {{SITENAME}} שדורשות אימות דו־שלבי.\n\n<strong>ייתכן ש[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights ההרשאות האלו יינטלו ממך] ויהיה עליך לבקש אותן שוב באופן ידני.</strong> \n\nעצה: יש להוסיף שיטה חדשה לפני הסרת השיטה הזאת."
 }
