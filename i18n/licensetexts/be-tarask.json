@@ -7,7 +7,8 @@
 			"Renessaince",
 			"Wizardist",
 			"Zedlik",
-			"ZlyiLev"
+			"ZlyiLev",
+			"Ucukor"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Уладальнік аўтарскіх правоў на гэты файл, $1, дазваляе ўсім выкарыстоўваць яго '''ў любых мэтах, пры ўмове, што''' уладальнік аўтарскіх правоў пазначаны належным чынам. Распаўсюджаньне, стварэньне вытворных прац, камэрцыйнай выкарыстаньне і іншыя выкарыстаньні дазволеныя.",
@@ -36,7 +37,7 @@
 	"wm-license-book-start-this-book": "Праглядзець кнігу",
 	"wm-license-book-subtitle": "Падзагаловак",
 	"wm-license-book-title": "Назва",
-	"wm-license-book-translator": "Перакладчык",
+	"wm-license-book-translator": "Перакладнік",
 	"wm-license-book-volume": "Том",
 	"wm-license-book-year-of-publication": "Год выданьня",
 	"wm-license-cecill-text": "Гэтая праца зьяўляецца [[{{int:wm-license-free-software-wiki-link}}|вольным праграмным забесьпячэньнем]]; Вы можаце распаўсюджваць альбо зьмяняць яе згодна умоваў [[{{int:wm-license-cecill-wiki-link}}|CeCILL]]. Умовы ліцэнзіі CeCILL даступныя на [{{int:wm-license-cecill-full-link}} www.cecill.info].",
@@ -70,7 +71,7 @@
 	"wm-license-information-source-missing-request": "Калі ласка, адрэдагуйце апісаньне файла і дадайце крыніцу яго паходжаньня.",
 	"wm-license-information-date": "Дата",
 	"wm-license-information-author": "Аўтар",
-	"wm-license-information-author-missing": "У апісаньні гэтага файла не хапае інфармацыі пра '''аўтара'''.",
+	"wm-license-information-author-missing": "У апісаньні гэтага файла бракуе інфармацыі пра '''аўтара'''.",
 	"wm-license-information-permission": "Дазвол",
 	"wm-license-information-permission-reusing-text": "Паўторнае выкарыстаньне гэтага файлу",
 	"wm-license-information-permission-see-below": "Глядзіце ніжэй.",

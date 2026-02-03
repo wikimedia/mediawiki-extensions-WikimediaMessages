@@ -38,7 +38,8 @@
 			"Darellur",
 			"Samoasambia",
 			"AramilFeraxa",
-			"Sandiooses"
+			"Sandiooses",
+			"Michał Ski"
 		]
 	},
 	"wikimediamessages-desc": "Komunikaty unikalne dla projektów Wikimedia",
@@ -267,6 +268,7 @@
 	"wikimedia-taglines-sources": "Wolna biblioteka treści źródłowych",
 	"wikimedia-taglines-wikidata": "Wolna baza wiedzy",
 	"wikimedia-taglines-wikinews": "Wolny serwis informacyjny",
+	"wikimedia-taglines-wikipedia": "Wolna encyklopedia",
 	"wikimedia-taglines-wikitech": "Dokumentacja techniczna Wikimedia",
 	"wikimedia-taglines-wikivoyage": "Wolny przewodnik turystyczny",
 	"wikimedia-taglines-wiktionary": "Wolny słownik",
@@ -357,11 +359,13 @@
 	"wikimedia-foundation-department-shortname-communications": "Komunikacja",
 	"wikimedia-foundation-department-shortname-legal": "Prawne",
 	"wikimedia-nutshell-page-intro": "Ta strona w pigułce: $1",
+	"wikimedia-talkheader-archives": "Starsze dyskusje możesz znaleźć w [[$1|indeksie archiwum]].",
 	"wikimedia-talkheader-civility": "Uczestnicz w dyskusji [[$1|w uprzejmy sposób]].",
 	"wikimedia-talkheader-pageprompt": "Ta strona służy do prowadzenia dyskusji związanych ze stroną $1.",
 	"wikimedia-talkheader-signature": "[[$1|Podpisywaniu]] wypowiedzi czterema tyldami (~~~~)",
 	"wikimedia-questions-label": "Pytania do Wikimedia?",
 	"wikimedia-translation-disclaimer-nolink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie treść w języku angielskim.",
 	"wikimedia-translation-disclaimer-withlink": "Zastrzega się, że w razie wystąpienia jakichkolwiek rozbieżności w znaczeniu lub interpretacji pomiędzy oryginalną wersją niniejszego dokumentu w języku angielskim a jego tłumaczeniem, wiążąca pozostanie [[$1|treść w języku angielskim]].",
+	"wikimedia-foundation-staffdisclaimer-userpage": "Pracuję dla Fundacji Wikimedia lub świadczę na jej rzecz usługi i to właśnie z tego konta staram się korzystać do edycji i zamieszczania oświadczeń w ramach tej funkcji. Fundacja nie odpowiada jednak wszystkie moje działania, a edycje, oświadczenia i inne treści zamieszczane za pośrednictwem tego konta mogą nie odzwierciedlać poglądów Fundacji.",
 	"wikimedia-talk-archive-page-intro": "To jest '''archiwum''' wcześniejszych dyskusji. '''Nie edytuj zawartości tej strony.''' Jeśli chcesz rozpocząć nową dyskusję lub ożywić starą, zrób to na [[$1|bieżącej stronie dyskusji]]."
 }

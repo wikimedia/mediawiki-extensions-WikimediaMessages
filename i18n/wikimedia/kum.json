@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Arsenekoumyk",
-			"ArslanX"
+			"ArslanX",
+			"Кумнац"
 		]
 	},
 	"sitesupport": "Акъча багъышламакъ",
@@ -14,5 +15,7 @@
 	"wikibase-sitelinks-wikisource": "Викичыкъмакълыкъ",
 	"wikibase-sitelinks-wikivoyage": "Викигезев",
 	"wikibase-otherprojects-wikimania": "Викимания",
-	"wikimedia-developers": "Ясавчулар"
+	"wikimedia-developers": "Ясавчулар",
+	"wikimedia-statslink": "Статистик",
+	"wikimedia-cookiestatement": "Cookie (куки) файллардан пайдаланыв гьакъда билдирив"
 }
