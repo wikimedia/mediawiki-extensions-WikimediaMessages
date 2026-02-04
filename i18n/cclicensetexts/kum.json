@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Arsenekoumyk",
-			"ArslanX"
+			"ArslanX",
+			"Кумнац"
 		]
 	},
 	"wm-license-cc-attribution": "Атрибутлав",
@@ -16,5 +17,5 @@
 	"wm-license-cc-conditions-attribution-header": "атрибуция",
 	"wm-license-cc-conditions-attribution-text": "Муаллиф яда лицензиячы белгилеген кююне гёре асарны такъма борчлусан (амма сени асарынг яда сен оланы асарын къоллайгъанынг къабул этивюню яда таклифге чыгъарагъанын гьеч бир ёл булан ойгъа салмай).",
 	"wm-license-cc-conditions-share_alike-header": "шо кюйде шартлагъа гёре яйыв",
-	"wm-license-cc-conditions-share_alike-text": "Эгер янгы тувулунгъан асарны ярата бусанг, яда алышдыра бусанг яда янгырта тура бусанг, натижада ясалгъан асарны тек алда болгъан лицензияны шартлагъа гёре яда огъаг расланагъан оьзге лицензияны шартлагъа гёре яйып боласан."
+	"wm-license-cc-conditions-share_alike-text": "Эгер сиз бу материалны янгыдан ишлей бусагъыз, тюсюн алышдыра бусагъыз яда оьзюгюзню муратларыгъыз учун къоллана бусагъыз, сиз оьзюгюзню натижаларыгъызны оригинал булан бир йимик яда [[ccorg:share-your-work/licensing-considerations/compatible-licenses|same or compatible license]]шартларына гёре яйылдырмагъа борчлусуз»."
 }

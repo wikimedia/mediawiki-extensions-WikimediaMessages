@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Faqet me grafikë",
+	"wikimedia-graph-tracking-category-desc": "Faqja përfshin një <code>&lt;graph&gt;</code> etiketë.",
+	"wikimedia-graph-broken-category": "Faqet me grafikë të prishur",
+	"wikimedia-graph-broken-category-desc": "Faqja përfshin një <code>&lt;graph&gt;</code> etiketë me përdorim të pavlefshëm."
+}

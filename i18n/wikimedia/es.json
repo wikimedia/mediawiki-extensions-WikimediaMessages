@@ -407,7 +407,7 @@
 	"restriction-level-editautoreviewprotected": "protegido para autorrevisores",
 	"right-editautoreviewprotected": "Editar páginas protegidas como «{{int:protect-level-editautoreviewprotected}}»",
 	"action-editautoreviewprotected": "editar páginas protegidas como «{{int:protect-level-editautoreviewprotected}}»",
-	"protect-level-editautopatrolprotected": "Permitir solo autoverificadores",
+	"protect-level-editautopatrolprotected": "Permitir solo autoverificados",
 	"restriction-level-editautopatrolprotected": "autopatrollers protegidos",
 	"right-editautopatrolprotected": "Editar páginas protegidas como «{{int:protect-level-editautopatrolprotected}}»",
 	"action-editautopatrolprotected": "editar páginas protegidas como «{{int:protect-level-editeditorprotected}}»",

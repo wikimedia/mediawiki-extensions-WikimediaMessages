@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Páxines con gráfiques",
+	"wikimedia-graph-tracking-category-desc": "La páxina incluye una etiqueta <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-broken-category": "Páxines con gráfiques frañaes",
+	"wikimedia-graph-broken-category-desc": "La páxina incluye una etiqueta <code>&lt;graph&gt;</code> con usu inválidu."
+}

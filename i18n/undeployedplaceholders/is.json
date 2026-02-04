@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"wikimedia-graph-tracking-category": "Síður með gröf",
+	"wikimedia-graph-tracking-category-desc": "Síðan inniheldur <code>&lt;graph&gt;</code>-merki.",
+	"wikimedia-graph-broken-category-desc": "Síðan innifelur <code>&lt;graph&gt;</code>-merki með ógildri notkun."
+}
