@@ -130,6 +130,8 @@
 	"group-ipblock-exempt-grantor": "IP blokundan azad olma hüququ verənlər",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|IP blokundan azad olma hüququ verən}}",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:IP blokundan azad olma hüququ verənlər",
+	"group-local-bot": "Lokal botlar",
+	"group-local-bot-member": "{{GENDER:$1|lokal bot}}",
 	"group-noratelimit": "Noratelimit hesabları",
 	"group-noratelimit-member": "{{GENDER:$1|noratelimit hesabı}}",
 	"grouppage-noratelimit": "{{ns:project}}:Noratelimit hesabları",

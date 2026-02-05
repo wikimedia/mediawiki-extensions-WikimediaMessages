@@ -179,6 +179,8 @@
 	"group-ipblock-exempt": "Exentos de bloqueo a IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|exento de bloqueo IP|exenta de bloqueo IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Exento de bloqueo a IP",
+	"group-local-bot": "Bots locales",
+	"group-local-bot-member": "bot local",
 	"group-noratelimit": "Cuentas no sujetas a límites de frecuencia de edición",
 	"group-noratelimit-member": "{{GENDER:$1|no sujeto|no sujeta}} a límites de edición",
 	"grouppage-noratelimit": "{{ns:project}}:Cuentas no sujetas a límites de edición",

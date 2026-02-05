@@ -145,6 +145,8 @@
 	"group-ipblock-exempt": "IP-Sperren-Ausgenommene",
 	"group-ipblock-exempt-member": "{{GENDER:$1|IP-Sperren-Ausgenommener|IP-Sperren-Ausgenommene}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP-Sperren-Ausgenommene",
+	"group-local-bot": "Lokale Bots",
+	"group-local-bot-member": "{{GENDER:$1|lokaler Bot}}",
 	"group-noratelimit": "Limit-Ausgenommene",
 	"group-noratelimit-member": "{{GENDER:$1|Limit-Ausgenommener|Limit-Ausgenommene}}",
 	"grouppage-noratelimit": "{{ns:project}}:Limit-Ausgenommene",

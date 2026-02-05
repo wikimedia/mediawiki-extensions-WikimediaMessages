@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"0x48fe75df30",
 			"22593",
 			"94rain",
 			"A Chinese Wikipedian",
@@ -180,6 +181,8 @@
 	"group-ipblock-exempt-grantor": "IP封禁豁免权授予者",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|IP封禁豁免权授予者}}",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:IP封禁豁免权授予者",
+	"group-local-bot": "局域机器人",
+	"group-local-bot-member": "{{GENDER:$1|局域机器人}}",
 	"group-noratelimit": "无速率影响账号",
 	"group-noratelimit-member": "{{GENDER:$1|无速率影响账号}}",
 	"grouppage-noratelimit": "{{ns:project}}:无速率影响账号",
