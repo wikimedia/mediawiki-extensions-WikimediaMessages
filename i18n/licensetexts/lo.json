@@ -9,5 +9,8 @@
 	"wm-license-information-source": "ແຫຼ່ງທີ່ມາ",
 	"wm-license-information-date": "ວັນທີ",
 	"wm-license-information-author": "ຜູ້ຂຽນ",
-	"wm-license-own-work": "ວຽກງານຂອງຂ້ອຍ"
+	"wm-license-information-permission": "ການອະນຸຍາດ",
+	"wm-license-information-permission-reusing-text": "ການນຳໃຊ້ໄຟລ໌ນີ້ຄືນໃໝ່",
+	"wm-license-own-work": "ວຽກງານຂອງຂ້ອຍ",
+	"wm-license-self-multiple-licenses-select": "ທ່ານສາມາດເລືອກໃບອະນຸຍາດຕາມຄວາມຕ້ອງການຂອງທ່ານ"
 }

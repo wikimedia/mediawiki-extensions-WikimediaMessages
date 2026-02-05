@@ -12,6 +12,7 @@
 	"group-oversight-member": "{{GENDER:$1|ओवरसाइट}}",
 	"hello": "नमस्ते",
 	"please-translate": "कृपया अपनी भाषा में अनुवादित करने में सहायता करें",
+	"please-translate-short": "अनुवाद में सहायता करें",
 	"thank-you": "{{GENDER:$1|धन्यवाद।}}",
 	"specialinvestigate-feedback": "प्रतिक्रिया छोडें"
 }
