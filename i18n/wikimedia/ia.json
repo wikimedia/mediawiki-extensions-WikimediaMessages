@@ -111,6 +111,8 @@
 	"group-ipblock-exempt-grantor": "Concessores de exemptiones a blocadas de adresses IP",
 	"group-ipblock-exempt-grantor-member": "Concessor{{GENDER:$1||a}} de exemptiones a blocadas de adresses IP",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:Concessores de exemptiones a blocadas de adresses IP",
+	"group-local-bot": "Robots local",
+	"group-local-bot-member": "{{GENDER:$1|robot local}}",
 	"group-noratelimit": "Contos sin limite de frequentia",
 	"group-noratelimit-member": "{{GENDER:$1|conto sin limite de frequentia}}",
 	"grouppage-noratelimit": "{{ns:project}}:Contos sin limite de frequentia",

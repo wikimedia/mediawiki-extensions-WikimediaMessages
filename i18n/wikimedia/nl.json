@@ -140,6 +140,8 @@
 	"group-ipblock-exempt-grantor": "Verleners vrijstelling blokkades IP-adressen",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|Verlener|Verleenster}} vrijstelling blokkades IP-adressen",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:Verleners vrijstelling blokkades IP-adressen",
+	"group-local-bot": "Lokale bots",
+	"group-local-bot-member": "{{GENDER:$1|lokale robot}}",
 	"group-noratelimit": "Noratelimit-gebruikers",
 	"group-noratelimit-member": "{{GENDER:$1|noratelimit-account}}",
 	"grouppage-noratelimit": "{{ns:project}}:Noratelimit-gebruikers",

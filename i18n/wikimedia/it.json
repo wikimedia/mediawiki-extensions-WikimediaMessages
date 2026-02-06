@@ -120,6 +120,8 @@
 	"group-ipblock-exempt": "Esenti dal blocco IP",
 	"group-ipblock-exempt-member": "{{GENDER:$1|esente dal blocco IP}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:Esenti dal blocco IP",
+	"group-local-bot": "Bot locali",
+	"group-local-bot-member": "{{GENDER:$1|bot locale}}",
 	"group-noratelimit": "Utenze non soggette al limite di azioni",
 	"group-noratelimit-member": "utente non {{GENDER:$1|soggetto|soggetta|soggetto/a}} al limite di azioni",
 	"grouppage-noratelimit": "{{ns:project}}:Utenze non soggette al limite di azioni",

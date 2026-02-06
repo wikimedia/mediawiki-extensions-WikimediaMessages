@@ -121,6 +121,8 @@
 	"group-ipblock-exempt-grantor": "Concedentes de exencións de bloqueo do enderezo IP",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|concedente de exencións de bloqueo do enderezo IP}}",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:Concedentes de exencións de bloqueo do enderezo IP",
+	"group-local-bot": "Bots locais",
+	"group-local-bot-member": "{{GENDER:$1|bot local}}",
 	"group-noratelimit": "Contas sen límite de frecuencia",
 	"group-noratelimit-member": "{{GENDER:$1|conta sen límite de frecuencia}}",
 	"grouppage-noratelimit": "{{ns:project}}:Contas sen límite de frecuencia",

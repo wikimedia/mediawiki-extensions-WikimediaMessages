@@ -126,6 +126,8 @@
 	"group-ipblock-exempt-grantor": "מעניקי פטור מחסימות IP",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|מעניק|מעניקת}} פטור מחסימות IP",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:מעניקי פטור מחסימות IP",
+	"group-local-bot": "בוטים מקומיים",
+	"group-local-bot-member": "{{GENDER:$1|בוט מקומי}}",
 	"group-noratelimit": "חשבונות שמאפשרים עקיפת הגבלת קצב העריכות",
 	"group-noratelimit-member": "{{GENDER:$1|חשבון שמאפשר עקיפת הגבלת קצב העריכות}}",
 	"grouppage-noratelimit": "{{ns:project}}:חשבונות שמאפשרים עקיפת הגבלת קצב העריכות",
