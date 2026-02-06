@@ -102,5 +102,7 @@
 	"wikimedia-pvi-month-count-value": "{{notranslate}}",
 	"wikimedia-emailauth-accountrecovery-intro": "Title and description for the account recovery special page",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Label for the registered email input field on the account recovery form",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "Additional Warning message shown to users with extended rights when deleting the last 2FA method"
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Additional Warning message shown to users with extended rights when deleting the last 2FA method",
+	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "A sentence instructing the user to contact Wikimedia Trust & Safety if they did not request the 2FA recovery codes, part of {{msg-mw|oathauth-recover-email-text}}. See also: {{msg-mw|oathauth-recover-email-text-please-contact-with-address}}.\n\nParameters:\n* $1 - Name of the recipient of the email, for GENDER\n* $2 - Contact address of Trust & Safety",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Part of Echo notification, informing about new recovery codes that have been generated for them. It's displayed as a label for the link that allows user contact Wikimedia Trust & Safety if they did not request new recovery codes"
 }

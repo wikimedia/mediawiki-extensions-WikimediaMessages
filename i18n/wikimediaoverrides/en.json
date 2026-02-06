@@ -88,5 +88,7 @@
 	"wikimedia-pvi-month-count-value": "[https://pageviews.wmcloud.org/?project={{SERVERNAME}}&platform=all-access&agent=user&redirects=0&range=latest-30&pages={{urlencode:$2}} $1]",
 	"wikimedia-emailauth-accountrecovery-intro": "Recover your Wikimedia account",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Email registered with your Wikimedia account",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "You have privileges on {{SITENAME}} that require two-factor authentication.\n\n<strong>You may [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights lose these privileges] and may need to request them again manually.</strong>\n\nTip: Add a new method before removing this one."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "You have privileges on {{SITENAME}} that require two-factor authentication.\n\n<strong>You may [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights lose these privileges] and may need to request them again manually.</strong>\n\nTip: Add a new method before removing this one.",
+	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "In such case, please {{GENDER:$1|contact}} Trust & Safety ($2).",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contact Trust & Safety"
 }

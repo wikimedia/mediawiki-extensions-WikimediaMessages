@@ -215,6 +215,11 @@ class Hooks implements
 			'emailauth-accountrecovery-registeredemail-label',
 			// T410341
 			'oathauth-delete-warning-final-privileged-user',
+			// T416484
+			'oathauth-notifications-recoverycodes-generated-for-user-contacturl',
+			'oathauth-recover-email-text-site-admin-contact',
+			'oathauth-recover-email-text-please-contact-with-address',
+			'oathauth-notifications-recoverycodes-generated-for-user-contact',
 		];
 
 		static $allbutmetawikikeys = [

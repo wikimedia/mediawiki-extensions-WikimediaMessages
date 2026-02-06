@@ -2,5 +2,7 @@
 	"@metadata": [],
 	"wikimedia-privacypage": "foundation:Special:MyLanguage/Policy:Privacy policy",
 	"wikimedia-privacypage-labs": "wikitech:Wikitech:Cloud Services Terms of use",
-	"wikimedia-cookiestatement-page": "foundation:Special:MyLanguage/Policy:Cookie statement"
+	"wikimedia-cookiestatement-page": "foundation:Special:MyLanguage/Policy:Cookie statement",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contacturl": "mailto:ca@wikimedia.org",
+	"wikimedia-oathauth-recover-email-text-site-admin-contact": "ca@wikimedia.org"
 }

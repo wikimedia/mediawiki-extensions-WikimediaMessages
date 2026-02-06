@@ -2,5 +2,7 @@
 	"@metadata": [],
 	"wikimedia-privacypage": "{{notranslate}} Default Wikimedia projects link to privacy policy. Should only be changed at the request of Wikimedia Foundation's Legal Department.",
 	"wikimedia-privacypage-labs": "{{notranslate}} Default Wikimedia Labs projects link to terms of use. Should only be changed at the request of Wikimedia Foundation's Legal Department.",
-	"wikimedia-cookiestatement-page": "{{notranslate}} Default link to Wikimedia Foundation cookie statement for the footer on all Wikimedia Foundation sites."
+	"wikimedia-cookiestatement-page": "{{notranslate}} Default link to Wikimedia Foundation cookie statement for the footer on all Wikimedia Foundation sites.",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contacturl": "{{notranslate}} Default contact email address to use if 2FA recovery codes were generated for a user, when user does not recognize the action. Has to be a valid URL, including protocol",
+	"wikimedia-oathauth-recover-email-text-site-admin-contact": "{{notranslate}} Default contact email address to use if 2FA recovery codes were generated for a user, when user does not recognize the action"
 }
