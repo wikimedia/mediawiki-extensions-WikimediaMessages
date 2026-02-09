@@ -118,8 +118,8 @@
 	"protect-level-superprotect": "Дозволяти лем хоснователям з правами супер-охраны",
 	"right-templateeditor": "Едітованя замкнутых шаблонів",
 	"right-extendedconfirmed": "Едітованя замкнутых сторінок",
-	"right-editeditorprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editeditorprotected}}“",
-	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:protect-level-editextendedsemiprotected}}“",
+	"right-editeditorprotected": "Едітованя сторінок замкнутых на „{{int:restriction-level-editeditorprotected}}“",
+	"right-editextendedsemiprotected": "Едітованя сторінок замкнутых на „{{int:restriction-level-editextendedsemiprotected}}“",
 	"wikimedia-statslink": "Статістика",
 	"wikimedia-cookiestatement": "Кукі"
 }

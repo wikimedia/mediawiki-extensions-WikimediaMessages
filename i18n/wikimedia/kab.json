@@ -26,5 +26,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikasikel",
 	"wikimedia-developers": "Ineflayen",
 	"wikimedia-statslink": "Tidaddanin",
-	"right-editautopatrolprotected": "Beddel isebtar yettumsetnen s \"{{int:protect-level-editautopatrolprotected}}\""
+	"right-editautopatrolprotected": "Beddel isebtar yettumsetnen s \"{{int:restriction-level-editautopatrolprotected}}\""
 }

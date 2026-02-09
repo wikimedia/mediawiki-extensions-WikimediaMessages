@@ -8,5 +8,5 @@
 	"wikimedia-lqt-log-header": "यह लॉग चर्चा थ्रेड्स पर किए गए कार्यों का विस्तार प्रदान करता है।",
 	"wikimedia-lqt-log-action-split": "[[$1]] को [[$3]] से, नए विषय \"$2\" पर अलग किया",
 	"wikimedia-lqt-log-action-merge-across": "[[$1]] को [[$2]] में से [[$3]] में स्थानांतरित किया",
-	"wikimedia-lqt-log-action-resort": "[[$1]] के छाँटने का क्रम बदला। छाँटने की कुँजी को $2 से $3 में बदला"
+	"wikimedia-lqt-log-action-resort": "[[$1]] के छाँटने का क्रम बदला। क्रमांकन कुँजी को $2 से $3 में बदला"
 }

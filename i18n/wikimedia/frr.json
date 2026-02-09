@@ -174,7 +174,7 @@
 	"right-superprotect": "Superseekerhaid feranre",
 	"protect-level-superprotect": "Bluas superseeker brükern tuläät",
 	"restriction-level-superprotect": "Superseekerhaid",
-	"right-editeditorprotected": "Sidjen bewerke, diar mä \"{{int:protect-level-editeditorprotected}}\" seekert san",
+	"right-editeditorprotected": "Sidjen bewerke, diar mä \"{{int:restriction-level-editeditorprotected}}\" seekert san",
 	"protect-level-editeditorprotected": "Ferloof bluas för kontrolöören",
 	"restriction-level-editeditorprotected": "seekert (bluas kontrolöören)",
 	"wikimedia-centralauth-contribs-locked": "Detdiar brükerkonto as globaal speret wurden. \nMuar diartu fanjst dü oner\n[[m:Special:CentralAuth/$1|Neis tu't globaal brükerkonto]].",

@@ -181,7 +181,7 @@
 	"interlanguage-link-sitename-commons": "- Wikkimeedija Commons - de Sammlong vun Mehdije-Datteije -",
 	"interlanguage-link-dmoz": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Open Directory Project - Directory Mozilla\">DMOZ</i> Wäb-Kattalohch",
 	"interlanguage-link-sitename-dmoz": "<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Open Directory Project - Directory Mozilla\">DMOZ</i>&nbsp;Wäb-Kattalohch",
-	"right-editeditorprotected": "Sigge met däm Schoz „{{int:protect-level-editeditorprotected}}“ ändere",
+	"right-editeditorprotected": "Sigge met däm Schoz „{{int:restriction-level-editeditorprotected}}“ ändere",
 	"wikimedia-centralauth-contribs-locked": "Heh dä Zohjang övver en jemeinsamme Aanmäldong es överall jeschpächt.\nMih Aanjahbe derzoh fengk mer op dä Sigg övver de [[m:Special:CentralAuth/$1|Einzelheijte vun de jemeinsamme Aanmäldong]]",
 	"right-viewdeletedfile": "Fottjeschmeße Datteije un Sigge en de Appachemangs „{{ns:file}}“ un „{{ns:file_talk}}“ belohre",
 	"securepoll-dblist-securepollglobal": "Vörschtandswahle",
