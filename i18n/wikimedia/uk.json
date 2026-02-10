@@ -422,7 +422,7 @@
 	"protect-level-edittrustedprotected": "Дозволити лише надійним користувачам",
 	"restriction-level-edittrustedprotected": "захищені надійні користувачі",
 	"right-edittrustedprotected": "Редагувати сторінки, захищені як «{{int:protection-level-edittrustedprotected}}»",
-	"action-edittrustedprotected": "редагувати сторінки, захищені як «{{int:protection-level-edittrustedprotected}}»",
+	"action-edittrustedprotected": "редагувати захищені сторінки ({{int:restriction-level-edittrustedprotected}})",
 	"group-docseditor": "Редактори документації",
 	"group-docseditor-member": "{{GENDER:$1|редактор документації|редакторка документації}}",
 	"action-docseditor": "редагування документації",
