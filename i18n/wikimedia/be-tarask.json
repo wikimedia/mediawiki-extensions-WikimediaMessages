@@ -123,6 +123,8 @@
 	"group-steward-member": "{{GENDER:$1|сьцюард|сьцюардка}}",
 	"group-sysadmin": "Сыстэмныя адміністратары",
 	"group-sysadmin-member": "{{GENDER:$1|сыстэмны адміністратар|сыстэмная адміністратарка}}",
+	"group-translator": "Перакладнікі",
+	"grouppage-translator": "{{ns:project}}:Перакладнікі",
 	"group-translationadmin": "Адміністратары перакладаў",
 	"group-translationadmin-member": "{{GENDER:$1|адміністратар перакладаў|адміністратарка перакладаў}}",
 	"grouppage-translationadmin": "{{ns:project}}:Адміністратары перакладаў",
