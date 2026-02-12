@@ -552,5 +552,6 @@
 	"wikimedia-articletopics-topic-mathematics": "गणित",
 	"wikimedia-articletopics-topic-medicine-and-health": "चिकित्सा और स्वास्थ्य",
 	"wikimedia-articletopics-topic-physics": "भौतिकी",
-	"wikimedia-articletopics-topic-technology": "प्रौद्योगिकी"
+	"wikimedia-articletopics-topic-technology": "प्रौद्योगिकी",
+	"wikimedia-namespaceinfo-description-ns470": "विरासती EventLogging द्वारा सांख्यिकी की घटनाओं को सत्यापित करने के लिए भूतपूर्व प्रयुक्त पृष्ठ। Schema नामस्थान के सभी पृष्ठ [[phab:T238230|विरासती EventLogging की विमुक्ति]] के हिस्से के रूप में खाली कर दिए गए थे।"
 }
