@@ -385,6 +385,8 @@
 	"research-incentive-answer-negative": "Non",
 	"research-incentive-confirm-msg": "Grazas!",
 	"ipinfo-global-contributions-url-label": "Contribucións globais",
+	"protect-level-edit-legal": "Permitir só os usuarios que poden editar as páxinas de carácter legal",
+	"restriction-level-edit-legal": "protección legal",
 	"wikimedia-foundation-projects-label": "Proxectos da Fundación Wikimedia",
 	"wikimedia-foundation-projects-of-label-link": "Proxectos da [[$1|Fundación Wikimedia]]",
 	"wikimedia-foundation-projects-of-label-nolink": "Proxectos da Fundación Wikimedia",
