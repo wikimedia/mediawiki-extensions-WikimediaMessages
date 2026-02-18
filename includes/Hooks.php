@@ -220,6 +220,10 @@ class Hooks implements
 			'oathauth-recover-email-text-site-admin-contact',
 			'oathauth-recover-email-text-please-contact-with-address',
 			'oathauth-notifications-recoverycodes-generated-for-user-contact',
+			// T410807
+			'notificationemail_html_footer',
+			'notificationemail_body_changed',
+			'notificationemail_body_removed',
 		];
 
 		static $allbutmetawikikeys = [
