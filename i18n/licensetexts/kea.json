@@ -1,13 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
+			"GrogeXaKaba",
+			"Letra.berdi",
 			"Waldyrious"
 		]
 	},
-	"wm-license-gfdl-1.2-and-later": "E permitidu kopia, distribui i/o modifika es dokumenty na termus di '''[[{{int:wm-license-gfdl-wiki-link}}|GNU Free Documentation License]]''', Verson 1.2 o kualker verson mas novu publikadu pa [[{{int:wm-license-fsf-wiki-link}}|Free Software Foundation]]; sem Seksons Invariantis, sen Testus di Kapa i sen Testus di Kontra-Kapa. Ten un kópia des lisensa na sekson ''[[{{int:wm-license-gfdl-full-1.2-link}}|GNU Free Documentation License]]''.",
+	"wm-license-gfdl-1.2-and-later": "E pirmitidu kopia, distribui i/o modifika es dukumentu na térmus di '''[[{{int:wm-license-gfdl-wiki-link}}|Lisénsa di Dukumentason Libri GNU]]''', Verson 1.2 o kolker verson más nobu publikadu pa [[{{int:wm-license-fsf-wiki-link}}|Fundason Softuér Libri]]; sin Seksons Nbarianti, sin Testus di Kapa i sin Testus di Kóntra-Kapa. Ten un kópia di es lisénsa na sekson ''[[{{int:wm-license-gfdl-full-1.2-link}}|Lisénsa di Dukumentason Libri GNU]]''.",
 	"wm-license-information-description": "Diskrison",
-	"wm-license-information-source": "Orijen",
+	"wm-license-information-source": "Oriji",
 	"wm-license-information-date": "Data",
-	"wm-license-information-author": "Autor",
-	"wm-license-self-multiple-licenses-select": "Bu ten ki skodji lisensa ki bu kre uza."
+	"wm-license-information-author": "Otor",
+	"wm-license-self-multiple-licenses-select": "Bu ten ki skodji lisénsa ki bu kre uza."
 }

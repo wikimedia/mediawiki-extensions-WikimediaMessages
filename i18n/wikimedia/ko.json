@@ -3,6 +3,7 @@
 		"authors": [
 			"Albamhandae",
 			"Apzp79",
+			"Bisang",
 			"Bluehill",
 			"Bluemersen",
 			"ChongDae",
@@ -154,6 +155,8 @@
 	"group-ipblock-exempt-grantor": "IP 차단 면제 허가자",
 	"group-ipblock-exempt-grantor-member": "{{GENDER:$1|IP 차단 면제 허가자}}",
 	"grouppage-ipblock-exempt-grantor": "{{ns:project}}:IP 차단 면제 허가자",
+	"group-local-bot": "로컬 봇",
+	"group-local-bot-member": "{{GENDER:$1|로컬 봇}}",
 	"group-noratelimit": "속도 제한에 영향을 받지 않는 계정",
 	"group-noratelimit-member": "{{GENDER:$1|속도 제한에 영향을 받지 않는 계정}}",
 	"grouppage-noratelimit": "{{ns:project}}:속도 제한에 영향을 받지 않는 계정",

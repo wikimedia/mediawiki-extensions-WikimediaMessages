@@ -12,6 +12,8 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "İstifadəçi hesabı silmə",
 	"wikimedia-usermerge-logpage": "İstifadəçi hesabı birləşdirmə jurnalı",
 	"wikimedia-usermerge-logpagetext": "Bu, istifadəçi hesabı birləşdirmə əməliyyatlarının jurnalıdır.",
+	"wikimedia-lqt-log-name": "Mövzulu müzakirə jurnalı",
+	"wikimedia-lqt-log-header": "Bu jurnal müzakirə mövzularında görülən fəaliyyətləri ətraflı göstərir.",
 	"wikimedia-graph-tracking-category": "Qrafik olan səhifələr",
 	"wikimedia-graph-tracking-category-desc": "Səhifədə <code>&lt;graph&gt;</code> teqi var.",
 	"wikimedia-graph-broken-category": "İşləməyən qrafikləri olan səhifələr",

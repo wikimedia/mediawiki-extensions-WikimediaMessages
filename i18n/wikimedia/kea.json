@@ -1,21 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
+			"GrogeXaKaba",
+			"Letra.berdi",
 			"Quintino Lopes Castro Tavares",
 			"Waldir",
 			"Waldyrious"
 		]
 	},
-	"sitesupport": "Fazi un donativu",
+	"sitesupport": "Fasi un duason",
 	"tooltip-n-sitesupport": "Apoiá-nu",
-	"wikimedia-copyright-footer": "Es testu sta disponível na termus di lisensa [https://creativecommons.org/licenses/by-sa/4.0/deed.pt Atribuison-PartilhaIgual 4.0 Nãu Adaptadu (CC BY-SA 4.0) di Creative Commons];\nel podi ten más otus kondison.\nPa más informason, djobe [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termus di uzu].",
-	"wikimedia-copyrightwarning": "Si bu guarda bus kontributus, bu ta konkorda ku [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termus di uzu], i bu ta aseita oferesi bu kontributu pa sempri na termus di [https://creativecommons.org/licenses/by-sa/4.0/ Lisensa CC BY-SA 4.0] i di [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBu ta konkorda tambe ki un iperligason o URL ta sirvi pa identifiká-bu na ámbitu di kel lisensa Creative Commons.",
+	"wikimedia-copyright-footer": "Es testu sta dispunívi na térmus di lisénsa [https://creativecommons.org/licenses/by-sa/4.0/deed.pt Atribuson-PartidjaIgual 4.0 Non Adapitadu (CC BY-SA 4.0) di Creative Commons];\nel podi ten más otus kundison.\nPa más nfurmason, djobe [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Térmus di uzu].",
+	"wikimedia-copyrightwarning": "Si bu garda es alterasons, bu ta konkorda ku [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Térmus di uzu], i bu ta seta feresi bu kuntributus pa sénpri na térmus di [https://creativecommons.org/licenses/by-sa/4.0/ Lisensa CC BY-SA 4.0] i di [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nBu ta konkorda tanbe ki un iperligason o URL ta sirbi pa identifika-bu na ánbitu di kel lisénsa Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Benvindo|Benvinda}}, $1!",
-	"wikibase-sitelinks-wikinews": "Wikinutísias",
-	"wikibase-sitelinks-wikiquote": "Wikiquote",
-	"wikibase-sitelinks-wikisource": "Wikisource",
-	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Programadoris",
+	"wikibase-sitelinks-wikinews": "Uikinóbas",
+	"wikibase-sitelinks-wikiquote": "Uikisitason",
+	"wikibase-sitelinks-wikisource": "Uikifonti",
+	"wikibase-sitelinks-wikivoyage": "Uikibiáji",
+	"wikimedia-developers": "Dizanvolvedoris",
 	"wikimedia-statslink": "Statístikas",
-	"wikimedia-cookiestatement": "Deklarason sobri \"cookies\""
+	"wikimedia-cookiestatement": "Diklarason sobri kukis"
 }

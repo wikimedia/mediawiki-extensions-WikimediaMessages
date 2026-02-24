@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
+			"GrogeXaKaba",
+			"Letra.berdi",
 			"Waldyrious"
 		]
 	},
 	"wm-license-cc-by-sa-3.0-text": "Es fixeru sta kubertu pa lisensa [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/|Attribution-ShareAlike 3.0 Unported]].",
 	"wm-license-cc-free": "Bu podi:",
-	"wm-license-cc-free-to-share-header": "partilha",
-	"wm-license-cc-free-to-share-text": "kopia, distribui i transmiti es obra",
-	"wm-license-cc-free-to-remix-header": "mistura",
-	"wm-license-cc-free-to-remix-text": "adapta es obra",
-	"wm-license-cc-conditions": "Na kondisons sigintis:",
-	"wm-license-cc-conditions-attribution-header": "atribuison",
-	"wm-license-cc-conditions-attribution-text": "Bu ten ki indika ken ke autor, fornesi un iperligason pa lisensa, i mensiona si foi fetu algun alterason. Bu podi fazel di kualker forma razuável, ma sen sujeri ki lisensiador ta apoia bu uzu des obra.",
+	"wm-license-cc-free-to-share-header": "partidja",
+	"wm-license-cc-free-to-share-text": "kupia, distribui i transmiti es óbra",
+	"wm-license-cc-free-to-remix-header": "mustura",
+	"wm-license-cc-free-to-remix-text": "kiria óbras dirivadu",
+	"wm-license-cc-conditions": "Na kundisons siginti:",
+	"wm-license-cc-conditions-attribution-header": "atribuson",
+	"wm-license-cc-conditions-attribution-text": "Bu ten ki ndika ken k'é otor, furnisi un ligason pa lisénsa, i minta si foi fetu algun alterason. Bu podi fase-l di kolker fórma razuávi, ma sin sujiri ki lisensiador ta apoia-bu o ta subiskrebi uzu ki bu ta fasi di es óbra.",
 	"wm-license-cc-conditions-share_alike-header": "partilha igual",
-	"wm-license-cc-conditions-share_alike-text": "Si bu mistura, transforma o aumenta es kontiudu, bu ten ki distribui bus kontributus ku [[ccorg:share-your-work/licensing-considerations/compatible-licenses|mesmu lisensa o un lisensa konpatível]] ku kel orijinal."
+	"wm-license-cc-conditions-share_alike-text": "Si bu mustura, transfurma o omenta es kuntiúdu, bu ten ki distribui bus kontributus ku [[ccorg:share-your-work/licensing-considerations/compatible-licenses|mésmu lisensa o un lisensa konpatívi]] ku kel orijinal."
 }

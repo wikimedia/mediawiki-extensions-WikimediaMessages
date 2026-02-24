@@ -85,5 +85,7 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Bu sayt sizin üçün faydalı olubsa, zəhmət olmasa, bu gün ianə edin.",
 	"wikimedia-emailauth-accountrecovery-intro": "Vikimedia hesabınızı bərpa edin",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Vikimedia hesabınızda qeydiyyatdan keçmiş e-poçt",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} saytında iki faktorlu autentifikasiya tələb edən hüquqlarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu hüquqları itirə] və onları manual olaraq yenidən tələb etməli ola bilərsiniz.</strong> \n\nMəsləhət: Bunu silməzdən əvvəl yeni bir metod əlavə edin."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} saytında iki faktorlu autentifikasiya tələb edən hüquqlarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu hüquqları itirə] və onları manual olaraq yenidən tələb etməli ola bilərsiniz.</strong> \n\nMəsləhət: Bunu silməzdən əvvəl yeni bir metod əlavə edin.",
+	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Belə olan halda, xahiş edirik, Təhlükəsizlik komandası ($2) ilə {{GENDER:$1|əlaqə saxlayın}}.",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Təhlükəsizlik komandası ilə əlaqə saxlayın"
 }

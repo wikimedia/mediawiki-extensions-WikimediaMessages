@@ -313,7 +313,7 @@
 	"right-templateeditor": "সংরক্ষিত টেমপ্লেটসমূহ সম্পাদনা করা",
 	"restriction-level-templateeditor": "টেমপ্লেট সম্পাদক সুরক্ষিত",
 	"protect-level-templateeditor": "একমাত্র টেমপ্লেট সম্পাদক ও প্রশাসকদের অনুমতি দিন",
-	"right-editeditorprotected": "\"{{int:restriction-level-editeditorprotected}}\" হিসাবে সুরক্ষিত পাতায় সম্পাদনা",
+	"right-editeditorprotected": "সুরক্ষিত পাতায় সম্পাদনা ({{int:restriction-level-editeditorprotected}})",
 	"protect-level-editeditorprotected": "কেবল সম্পাদককে অনুমতি দাও",
 	"restriction-level-editeditorprotected": "সম্পাদক সুরক্ষিত",
 	"right-editextendedsemiprotected": "\"{{int:restriction-level-editextendedsemiprotected}}\" হিসাবে সুরক্ষিত পাতায় সম্পাদনা করে",

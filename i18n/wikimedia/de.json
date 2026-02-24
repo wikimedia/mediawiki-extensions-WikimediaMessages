@@ -375,7 +375,7 @@
 	"action-editeditorprotected": "Seiten zu bearbeiten, die geschützt sind ({{int:restriction-level-editeditorprotected}})",
 	"right-editeditorprotected": "Seiten bearbeiten, die geschützt sind ({{int:restriction-level-editeditorprotected}})",
 	"protect-level-editeditorprotected": "Nur Sichtern erlauben",
-	"restriction-level-editeditorprotected": "geschützt (nur Sichter)",
+	"restriction-level-editeditorprotected": "schreibgeschützt (nur Sichter)",
 	"action-editextendedsemiprotected": "Seiten zu bearbeiten, die geschützt sind ({{int:restriction-level-editextendedsemiprotected}})",
 	"right-editextendedsemiprotected": "Seiten bearbeiten, die geschützt sind ({{int:restriction-level-editextendedsemiprotected}})",
 	"protect-level-editextendedsemiprotected": "Nur automatischen Kontrolleuren erlauben",

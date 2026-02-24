@@ -86,5 +86,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Jos Wikipedia on sinulle hyödyllinen, harkitse lahjoittamista tänään.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Jos tämä sivusto on sinulle hyödyllinen, harkitse lahjoittamista tänään.",
 	"wikimedia-emailauth-accountrecovery-intro": "Palauta Wikimedia-tunnuksesi",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia-tunnukseesi liitetty sähköpostiosoite"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia-tunnukseesi liitetty sähköpostiosoite",
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Sinulla on {{GRAMMAR:inessive|{{SITENAME}}}} käyttöoikeuksia, jotka vaativat kaksivaiheista tunnistautumista.\n\n<strong>Saatat [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights menettää nämä käyttöoikeudet] ja joutua pyytämään niitä uudelleen manuaalisesti.</strong>\n\nVihje: Lisää uusi tunnistautumistapa ennen kuin poistat tämän."
 }
