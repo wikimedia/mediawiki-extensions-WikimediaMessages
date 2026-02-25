@@ -9,7 +9,8 @@
 			"BraunOBruno",
 			"ItsaMeSandy",
 			"Mansil alfalb",
-			"Albertoleoncio"
+			"Albertoleoncio",
+			"Pcoombe"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Visitantes desta wiki com o seu endereço IP criaram {{PLURAL:$1|1 conta|$1 contas}} no último dia, que é o máximo permitido nesse período.\nEm resultado, os visitantes que utilizem este endereço não podem criar mais contas neste momento.\n\nSe estiver num evento onde o foco é a contribuição para projetos da Wikimedia, consulte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Pedir remoção temporária do limite IP]] para ajudar a resolver este problema, por favor.",
@@ -66,5 +67,7 @@
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''Nota:''' Ao editar esta página, concorda com as nossas [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use condições de utilização] e em, irrevogavelmente, publicar a sua contribuição de acordo com a licença especificada no campo <code>licence</code>.",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Concordo em tratar as informações dos participantes recolhidas durante a inscrição no evento com cuidado e de acordo com as [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use condições de utilização] da Wikimedia Foundation.",
 	"wikimedia-oathauth-step1-test": "Descarregue um programa para autenticação de dois fatores. Consulte [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Ajuda:Autenticação de dois fatores] para conhecer clientes sugeridos.",
-	"wikimedia-oathauth-hint": "Não tem acesso ao seu dispositivo ou aplicação? Pode introduzir chaves de recuperação (apresentadas quando ativou a autenticação de dois fatores) neste campo. Se não conseguir fazê-lo, consulte [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Ajuda:Autenticação de dois fatores] para mais opções."
+	"wikimedia-oathauth-hint": "Não tem acesso ao seu dispositivo ou aplicação? Pode introduzir chaves de recuperação (apresentadas quando ativou a autenticação de dois fatores) neste campo. Se não conseguir fazê-lo, consulte [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Ajuda:Autenticação de dois fatores] para mais opções.",
+	"wikimedia-skin-minerva-donate-banner-message": "Doar agora",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Se a Wikipédia for útil para si, faça um donativo hoje."
 }

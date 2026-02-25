@@ -66,7 +66,7 @@
 	"nstab-creator": "المُنشِئ",
 	"nstab-institution": "مؤسسة",
 	"nstab-sequence": "تتابع",
-	"nstab-timedtext": "توقيت النص",
+	"nstab-timedtext": "نص موقّت",
 	"group-image-reviewer": "مراجعو الصورة",
 	"group-image-reviewer-member": "{{GENDER:$1|مراجع صور|مراجعة صور}}",
 	"grouppage-image-reviewer": "{{ns:project}}:مراجعو الصور",

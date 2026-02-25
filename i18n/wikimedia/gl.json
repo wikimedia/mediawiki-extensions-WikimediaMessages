@@ -368,7 +368,7 @@
 	"querypage-updates-half-monthly": "Esta páxina actualízase dúas veces ao mes.",
 	"querypage-updates-monthly": "Esta páxina actualízase unha vez ao mes.",
 	"protect-level-editautoreviewprotected": "Permitir só os revisores automáticos",
-	"restriction-level-editautoreviewprotected": "limitado aos revisores automáticos",
+	"restriction-level-editautoreviewprotected": "limitado ós revisores automáticos",
 	"right-editautoreviewprotected": "Editar páxinas protexidas como «{{int:protect-level-editautoreviewprotected}}»",
 	"action-editautoreviewprotected": "editar páxinas protexidas como «{{int:protect-level-editautoreviewprotected}}»",
 	"protect-level-editautopatrolprotected": "Permitir só os patrulleiros automáticos",
