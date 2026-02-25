@@ -463,14 +463,14 @@ class Hooks implements
 			case 'wikidata':
 			case 'wikifunctions':
 				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
-				$rightsUrl = $config->get( 'RightsUrl' );
+				$rightsUrl = $config->get( MainConfigNames::RightsUrl );
 				$rightsText = 'Creative Commons Attribution-Share Alike 4.0';
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'wikinews':
 				// Add the license name to the terms-of-use message
-				$rightsUrl = $config->get( 'RightsUrl' );
-				$rightsText = $config->get( 'RightsText' );
+				$rightsUrl = $config->get( MainConfigNames::RightsUrl );
+				$rightsText = $config->get( MainConfigNames::RightsText );
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'commons':
@@ -505,14 +505,14 @@ class Hooks implements
 			case 'wikidata':
 			case 'wikifunctions':
 				// Do not use $wgRightsText or $wgRightsPage, as they are customized for the API (T112606).
-				$rightsUrl = $config->get( 'RightsUrl' );
+				$rightsUrl = $config->get( MainConfigNames::RightsUrl );
 				$rightsText = 'Creative Commons Attribution-Share Alike 4.0';
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'wikinews':
 				// Add the license name to the terms-of-use message
-				$rightsUrl = $config->get( 'RightsUrl' );
-				$rightsText = $config->get( 'RightsText' );
+				$rightsUrl = $config->get( MainConfigNames::RightsUrl );
+				$rightsText = $config->get( MainConfigNames::RightsText );
 				$links = [ "[$rightsUrl $rightsText]", 1 ];
 				break;
 			case 'commons':
