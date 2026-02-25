@@ -18,7 +18,9 @@
 	"wm-commonstrings-enterquestion": "Kirjoita kysymyksesi.",
 	"wm-commonstrings-events": "Tapahtumat",
 	"wm-commonstrings-externallinks": "Ulkoiset linkit",
+	"wm-commonstrings-feedback": "Palaute",
 	"wm-commonstrings-follow": "Seuraa",
+	"wm-commonstrings-leadership": "Johto",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Pääartikkeli: $1|Pääartikkelit: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Etusivu: $1|Etusivut: $1}}",
 	"wm-commonstrings-mywork": "Työni",
@@ -30,7 +32,7 @@
 	"wm-commonstrings-overview": "Yleiskatsaus",
 	"wm-commonstrings-participate": "Osallistu",
 	"wm-commonstrings-please-remember": "Muista: $1",
-	"wm-commonstrings-policies-guidelines": "Käytännöt ja suuntaviivat",
+	"wm-commonstrings-policies-guidelines": "Käytännöt ja ohjeet",
 	"wm-commonstrings-projects-collaborations": "Hankkeet ja yhteistyöt",
 	"wm-commonstrings-purpose": "Tavoite",
 	"wm-commonstrings-questions": "Kysyttävää?",
@@ -42,5 +44,6 @@
 	"wm-commonstrings-shortcut": "{{PLURAL:$1|Oikopolku|Oikopolut}}",
 	"wm-commonstrings-staff": "Henkilökunta",
 	"wm-commonstrings-talktous": "Ota meihin yhteyttä",
+	"wm-commonstrings-templates": "{{PLURAL:$1|Malline|Mallineet}}",
 	"wm-commonstrings-updates": "Päivitykset"
 }
