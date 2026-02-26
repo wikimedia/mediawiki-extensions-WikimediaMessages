@@ -8,7 +8,8 @@
 			"Shizhao",
 			"Xiaomingyan",
 			"Yfdyh000",
-			"沈澄心"
+			"沈澄心",
+			"0x48fe75df30"
 		]
 	},
 	"contactpage-title-requestlicense": "授权申请表单",
@@ -57,7 +58,7 @@
 	"contactpage-title-affcomusergroup": "申请开始一个用户组",
 	"contactpage-affcom-user-group-name-label": "'''名称'''\n* 建议的名称：维基媒体社群用户组 [您的地区或话题]\n* 如果您希望选择其他名称，请参见[[Special:MyLanguage/Wikimedia user groups/Name guidelines|名称指引]]。",
 	"contactpage-affcom-user-group-description-label": "'''描述'''\n* 请告诉我们有关您的群组计划做什么。",
-	"contactpage-affcom-user-group-wikipage-label": "'''Wiki页面'''\n* 请提供一个至您群组的wiki页面的链接。\n* 如果您还没有一个wiki页面，您可以[[Special:MyLanguage/Wikimedia user groups/Wikipage setup guide|在元维基创建一个用户组页面]]。",
+	"contactpage-affcom-user-group-wikipage-label": "'''Wiki页面'''\n* 请提供至您的群组在元维基页面的链接。若您尚未有页面，可以查看该[[Special:MyLanguage/Wikimedia user groups/Wikipage setup guide|设置指引]]。您的元维基页面应当包含：\n**您的群组基本信息；及\n**您的群组第一年计划活动的要点。",
 	"contactpage-affcom-user-group-location-label": "'''位置'''\n* 请提供您的国家和城市，这样我们可以保持对全世界用户组的追踪。如果涵盖全球，可简写为“网络”。",
 	"contactpage-affcom-user-group-leaders-label": "'''三位活跃的维基人'''\n* 请提供三位群组领导人的姓名，电子邮件地址和维基媒体用户名。",
 	"contactpage-affcom-user-group-logo-label": "'''标志'''\n* 您希望为您的群组使用哪个标志？",

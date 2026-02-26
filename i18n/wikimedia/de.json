@@ -373,7 +373,7 @@
 	"action-editeditorprotected": "Seiten zu bearbeiten, die als „{{int:protect-level-editeditorprotected}}“ geschützt sind",
 	"right-editeditorprotected": "Seiten bearbeiten, die als „{{int:protect-level-editeditorprotected}}“ geschützt sind",
 	"protect-level-editeditorprotected": "Nur Sichtern erlauben",
-	"restriction-level-editeditorprotected": "geschützt (nur Sichter)",
+	"restriction-level-editeditorprotected": "schreibgeschützt (nur Sichter)",
 	"action-editextendedsemiprotected": "Seiten zu bearbeiten, die als „{{int:protect-level-editextendedsemiprotected}}“ geschützt sind",
 	"right-editextendedsemiprotected": "Seiten bearbeiten, die als „{{int:protect-level-editextendedsemiprotected}}“ geschützt sind.",
 	"protect-level-editextendedsemiprotected": "Nur automatischen Kontrolleuren erlauben",

@@ -21,7 +21,8 @@
 			"TMg",
 			"Tmv",
 			"Yamagata Yusuke",
-			"春春眠眠"
+			"春春眠眠",
+			"Pcoombe"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
@@ -75,5 +76,5 @@
 	"wikimedia-globalblocking-blockedtext-mistake": "このブロックが錯誤によるものだと思われる場合は、[[m:Special:MyLanguage/Stewards/Wizard|Stewards Block Wizard]]で追加の情報と案内が得られます。",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "あなたのIPアドレスは、$1によってブロックされた別の利用者が使用していたため、自動的に[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロックされました]]。",
 	"wikimedia-skin-minerva-donate-banner-message": "今すぐ寄付する",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "もしウィキペディアがあなたにとって役に立ったなら、ぜひ今日寄付してください。"
+	"wikimedia-skin-minerva-donate-banner-subtitle": "ウィキペディアがあなたのお役に立てているのなら、ぜひ本日ご寄付をお願いいたします。"
 }

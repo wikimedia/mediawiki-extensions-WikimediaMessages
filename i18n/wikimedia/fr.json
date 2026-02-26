@@ -91,10 +91,11 @@
 			"Zetud",
 			"Zolo",
 			"לערי ריינהארט",
-			"Sandiooses"
+			"Sandiooses",
+			"Eihel"
 		]
 	},
-	"wikimediamessages-desc": "Messages spécifiques de Wikimédia",
+	"wikimediamessages-desc": "Messages spécifiques de Wikimedia",
 	"sitesupport": "Faire un don",
 	"tooltip-n-sitesupport": "Soutenez-nous",
 	"specialpages-group-contribution": "Contribution / levée de fonds",
@@ -355,6 +356,8 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource multilingue",
 	"wikibase-sitelinks-sitename-species": "Wikispecies",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikidata",
+	"wikibase-sitelinks-sitename-wikifunctionswiki": "Wikifunctions",
+	"wikibase-sitelinks-sitename-wikimaniawiki": "Wikimania",
 	"wikimedia-otherprojects-cloudservices": "Services cloud de Wikimédia",
 	"wikimedia-otherprojects-endowment": "Dotation Wikimedia",
 	"wikimedia-otherprojects-enterprise": "Wikimédia Entreprise",
