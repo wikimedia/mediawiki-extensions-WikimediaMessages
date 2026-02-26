@@ -90,5 +90,10 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "אם ויקיפדיה שימושית לך, אנו מבקשים ממך לתרום היום.",
 	"wikimedia-emailauth-accountrecovery-intro": "שחזור החשבון הוויקימדיה שלך",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "כתובת הדוא\"ל הרשומה בחשבון הוויקימדיה שלך",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "יש לך הרשאות באתר {{SITENAME}} שדורשות אימות דו־שלבי.\n\n<strong>ייתכן ש[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights ההרשאות האלו יינטלו ממך] ויהיה עליך לבקש אותן שוב באופן ידני.</strong> \n\nעצה: יש להוסיף שיטה חדשה לפני הסרת השיטה הזאת."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "יש לך הרשאות באתר {{SITENAME}} שדורשות אימות דו־שלבי.\n\n<strong>ייתכן ש[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights ההרשאות האלו יינטלו ממך] ויהיה עליך לבקש אותן שוב באופן ידני.</strong> \n\nעצה: יש להוסיף שיטה חדשה לפני הסרת השיטה הזאת.",
+	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "במקרה כזה, נא {{GENDER:$1|ליצור קשר}} עם צוות אמון ובטיחות ($2).",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "יצירת קשר עם צוות אמון ובטיחות",
+	"wikimedia-notificationemail_html_footer": "אם לא עשית את זה, נא לכתוב מייד ל־[mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-notificationemail_body_changed": "שלום $2,\n\nלאחרונה שינית את כתובת הדוא\"ל שלך באתר {{SITENAME}}. כתובת האימייל החדשה היא $3.\n\nאם לא עשית את זה, נא לכתוב מייד לכתובת ca@wikimedia.org.",
+	"wikimedia-notificationemail_body_removed": "שלום $2,\n\nלאחרונה הסרת את כתובת הדוא\"ל שלך באתר {{SITENAME}}.\n\nאם לא עשית את זה, נא לכתוב מייד לכתובת ca@wikimedia.org."
 }

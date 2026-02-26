@@ -87,5 +87,8 @@
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Vikimedia hesabınızda qeydiyyatdan keçmiş e-poçt",
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} saytında iki faktorlu autentifikasiya tələb edən hüquqlarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu hüquqları itirə] və onları manual olaraq yenidən tələb etməli ola bilərsiniz.</strong> \n\nMəsləhət: Bunu silməzdən əvvəl yeni bir metod əlavə edin.",
 	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Belə olan halda, xahiş edirik, Təhlükəsizlik komandası ($2) ilə {{GENDER:$1|əlaqə saxlayın}}.",
-	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Təhlükəsizlik komandası ilə əlaqə saxlayın"
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Təhlükəsizlik komandası ilə əlaqə saxlayın",
+	"wikimedia-notificationemail_html_footer": "Bu siz deyilsizsə, dərhal [mailto:ca@wikimedia.org ca@wikimedia.org] ünvanına yazın.",
+	"wikimedia-notificationemail_body_changed": "Salam $2,\n\n{{SITENAME}} saytındakı e-poçt ünvanınız dəyişdirildi. Yeni e-poçt ünvanınız: $3.\n\nBu siz deyilsizsə, dərhal ca@wikimedia.org ünvanına yazın.",
+	"wikimedia-notificationemail_body_removed": "Salam $2,\n\n{{SITENAME}} saytındakı e-poçt ünvanınızı sildiniz.\n\nBu siz deyilsizsə, dərhal ca@wikimedia.org ünvanına yazın."
 }

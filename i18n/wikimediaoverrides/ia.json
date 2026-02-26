@@ -83,5 +83,8 @@
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse de e-mail registrate in tu conto de Wikimedia",
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tu ha privilegios sur {{SITENAME}} que require le authentication bifactorial.\n\n<strong>Tu pote [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder iste privilegios], in le qual caso tu debera requestar los de novo manualmente.</strong>\n\nConsilio: Adde un nove methodo ante de remover iste.",
 	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "In tal caso, per favor {{GENDER:$1|contacta}} Trust & Safety ($2).",
-	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactar Trust & Safety"
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactar Trust & Safety",
+	"wikimedia-notificationemail_html_footer": "Si non es tu qui ha facite isto, contacta [mailto:ca@wikimedia.org ca@wikimedia.org] immediatemente.",
+	"wikimedia-notificationemail_body_changed": "Salute $2,\n\nTu ha recentemente cambiate tu adresse de e-mail sur {{SITENAME}}. Le nove adresse es $3.\n\nSi non es tu qui ha facite isto, contacta ca@wikimedia.org immediatemente.",
+	"wikimedia-notificationemail_body_removed": "Salute $2,\n\nTu ha recentemente removite tu adresse de e-mail sur {{SITENAME}}.\n\nSi non es tu qui ha facite isto, contacta ca@wikimedia.org immediatemente."
 }

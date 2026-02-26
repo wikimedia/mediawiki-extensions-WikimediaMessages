@@ -9,6 +9,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Посетиоци овом викију су са Ваше тренутне IP адресе већ направили {{PLURAL:$1|1 налог|$1 налога}} у $2, што је максимум за наведени период.\nКао последица тога, посетиоци са ове IP адресе тренутно не могу правити нове налоге.\n\nАко сте на догађају где је фокус на уређивању Викимедијиних пројеката, молимо погледајте [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]] за помоћ.",
+	"wikimedia-acct_creation_throttle_hit-temp": "Привремено ограничавамо анонимно уређивање са Ваше локације. Молимо [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} отворите налог] или поново покушајте касније.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помоћ око избора)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Затражите налог]]",
 	"wikimedia-centralauth-groupname": "Задужбине Викимедије",
@@ -61,5 +62,8 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Ако вам је Википедија од вајде, молимо донирајте данас.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Ако вам је овај сајт од вајде, молимо донирајте данас.",
 	"wikimedia-emailauth-accountrecovery-intro": "Опоравак Вашег Викимедијиног налога",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Имејл регистрован са Вашим Викимедијиним налогом"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Имејл регистрован са Вашим Викимедијиним налогом",
+	"wikimedia-notificationemail_html_footer": "Ако ово нисте били ви,одмах се јавите на [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-notificationemail_body_changed": "Здраво $2,\n\nНедавно сте променили свој имејл на {{SITENAME}}. Нови имејл је $3.\n\nАко ово нисте били ви,одмах се јавите на ca@wikimedia.org.",
+	"wikimedia-notificationemail_body_removed": "Здраво $2,\n\nНедавно сте уклонили свој имејл на {{SITENAME}}.\n\nАко ово нисте били ви,одмах се јавите на ca@wikimedia.org."
 }
