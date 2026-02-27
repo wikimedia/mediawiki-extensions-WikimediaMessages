@@ -93,5 +93,21 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contact Trust & Safety",
 	"wikimedia-notificationemail_html_footer": "If this wasn't you, write to [mailto:ca@wikimedia.org ca@wikimedia.org] immediately.",
 	"wikimedia-notificationemail_body_changed": "Hello $2,\n\nYou recently changed your email on {{SITENAME}}. The new email is $3.\n\nIf this wasn't you, write to ca@wikimedia.org immediately.",
-	"wikimedia-notificationemail_body_removed": "Hello $2,\n\nYou recently removed your email on {{SITENAME}}.\n\nIf this wasn't you, write to ca@wikimedia.org immediately."
+	"wikimedia-notificationemail_body_removed": "Hello $2,\n\nYou recently removed your email on {{SITENAME}}.\n\nIf this wasn't you, write to ca@wikimedia.org immediately.",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "User does not have two-factor authentication enabled, which is [[m:Special:MyLanguage/Meta:Central notice administrators|required]] for CentralNotice administrators",
+	"wikimedia-userrights-restricted-group-checkuser": "User does not have two-factor authentication enabled, which is [[m:Special:MyLanguage/CheckUser policy|required]] for checkusers",
+	"wikimedia-userrights-restricted-group-interface-admin": "User does not have two-factor authentication enabled, which is [[m:Special:MyLanguage/Interface administrators|required]] for interface administrators",
+	"wikimedia-userrights-restricted-group-suppress": "User does not have two-factor authentication enabled, which is [[m:Special:MyLanguage/Oversight policy|required]] for oversighters",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "User does not have two-factor authentication enabled, which is required for Wikidata staff members",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "User does not have two-factor authentication enabled, which is required for Wikifunctions staff members",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "User does not have two-factor authentication enabled, which is required for WMF Office IT staff",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "User does not have two-factor authentication enabled, which is required for WMF Trust & Safety staff",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "CentralNotice administrators [[m:Special:MyLanguage/Meta:Central notice administrators|must have two-factor authentication enabled]], which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Checkusers [[m:Special:MyLanguage/CheckUser policy|must have two-factor authentication enabled]], which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Interface administrators [[m:Special:MyLanguage/Interface administrators|must have two-factor authentication enabled]], which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Oversighters [[m:Special:MyLanguage/Oversight policy|must have two-factor authentication enabled]], which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "Wikidata staff members must have two-factor authentication enabled, which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "Wikifunctions staff members must have two-factor authentication enabled, which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "WMF Office IT staff must have two-factor authentication enabled, which will be checked when submitting the form",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "WMF Trust & Safety staff must have two-factor authentication enabled, which will be checked when submitting the form"
 }

@@ -107,5 +107,21 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Part of Echo notification, informing about new recovery codes that have been generated for them. It's displayed as a label for the link that allows user contact Wikimedia Trust & Safety if they did not request new recovery codes",
 	"wikimedia-notificationemail_html_footer": "Footer in the HTML notification email when user changes or removes their email. WMF override of {{msg-mw|notificationemail_html_footer}} directing users to ca@wikimedia.org instead of a generic site administrator.",
 	"wikimedia-notificationemail_body_changed": "Body of the plaintext email sent to the old address when user changes their email. WMF override of {{msg-mw|notificationemail_body_changed}} directing users to ca@wikimedia.org.\n\nParameters:\n* $1 - the IP address of the user (legacy, may be unused)\n* $2 - the username\n* $3 - the new email address",
-	"wikimedia-notificationemail_body_removed": "Body of the plaintext email sent to the old address when user removes their email. WMF override of {{msg-mw|notificationemail_body_removed}} directing users to ca@wikimedia.org.\n\nParameters:\n* $1 - the IP address of the user (legacy, may be unused)\n* $2 - the username"
+	"wikimedia-notificationemail_body_removed": "Body of the plaintext email sent to the old address when user removes their email. WMF override of {{msg-mw|notificationemail_body_removed}} directing users to ca@wikimedia.org.\n\nParameters:\n* $1 - the IP address of the user (legacy, may be unused)\n* $2 - the username",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "Notice informing why the user cannot be added to CentralNotice administrators group",
+	"wikimedia-userrights-restricted-group-checkuser": "Notice informing why the user cannot be added to checkusers group",
+	"wikimedia-userrights-restricted-group-interface-admin": "Notice informing why the user cannot be added to interface administrators group",
+	"wikimedia-userrights-restricted-group-suppress": "Notice informing why the user cannot be added to oversighters/suppressors group",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "Notice informing why the user cannot be added to Wikidata staff group",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "Notice informing why the user cannot be added to Wikifunctions staff group",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "Notice informing why the user cannot be added to WMF Office IT group",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "Notice informing why the user cannot be added to WMF Trust & Safety group",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "Notice informing that attempting to add a user to CentralNotice administrators will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Notice informing that attempting to add a user to checkusers will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Notice informing that attempting to add a user to interface administrators will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Notice informing that attempting to add a user to oversighters/suppressors will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "Notice informing that attempting to add a user to Wikidata staff will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "Notice informing that attempting to add a user to Wikifunctions staff will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "Notice informing that attempting to add a user to WMF Office IT will succeed only if they user has two-factor authentication enabled",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "Notice informing that attempting to add a user to WMF Trust & Safety will succeed only if they user has two-factor authentication enabled"
 }

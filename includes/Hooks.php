@@ -224,6 +224,23 @@ class Hooks implements
 			'notificationemail_html_footer',
 			'notificationemail_body_changed',
 			'notificationemail_body_removed',
+			// T418586
+			"userrights-restricted-group-centralnoticeadmin",
+			"userrights-restricted-group-checkuser",
+			"userrights-restricted-group-interface-admin",
+			"userrights-restricted-group-suppress",
+			"userrights-restricted-group-wikidata-staff",
+			"userrights-restricted-group-wikifunctions-staff",
+			"userrights-restricted-group-wmf-officeit",
+			"userrights-restricted-group-wmf-supportsafety",
+			"userrights-restricted-group-centralnoticeadmin-private-conditions",
+			"userrights-restricted-group-checkuser-private-conditions",
+			"userrights-restricted-group-interface-admin-private-conditions",
+			"userrights-restricted-group-suppress-private-conditions",
+			"userrights-restricted-group-wikidata-staff-private-conditions",
+			"userrights-restricted-group-wikifunctions-staff-private-conditions",
+			"userrights-restricted-group-wmf-officeit-private-conditions",
+			"userrights-restricted-group-wmf-supportsafety-private-conditions",
 		];
 
 		static $allbutmetawikikeys = [
