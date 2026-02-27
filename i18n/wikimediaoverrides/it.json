@@ -6,6 +6,7 @@
 			"Dream Indigo",
 			"Nail123Real",
 			"Nemo bis",
+			"Neonsn0w",
 			"Pierpao",
 			"Sakretsu",
 			"SaldırganSincap",
@@ -59,5 +60,8 @@
 	"wikimedia-jsonconfig-license-copyrightwarning": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo i termini della licenza [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}].",
 	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Pubblicando le tue modifiche accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'Uso] e accetti irrevocabilmente di pubblicare le tue modifiche secondo la licenza specificata nel parametro <code>license</code>.",
 	"wikimedia-jsonconfig-license-notice-license-unset": "'''Nota:''' Quando modifichi questa pagina, accetti i nostri [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Termini d'uso], e accetti irrevocabilmente di pubblicare i tuoi contributi secondo la licenza specificata nel parametro <code>license</code>.",
-	"wikimedia-skin-minerva-donate-banner-message": "Dona ora"
+	"wikimedia-skin-minerva-donate-banner-message": "Dona ora",
+	"wikimedia-notificationemail_html_footer": "Se non eri tu, scrivi immediatamente a [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-notificationemail_body_changed": "Ciao $2,\n\nHai cambiato di recente la tua email su {{SITENAME}}. La nuova email è $3.\n\nSe non eri tu, scrivi immediatamente a ca@wikimedia.org.",
+	"wikimedia-notificationemail_body_removed": "Ciao $2,\n\nHai recentemente rimosso la tua email da {{SITENAME}}.\n\nSe non eri tu, scrivi immediatamente a ca@wikimedia.org."
 }

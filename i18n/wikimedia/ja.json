@@ -390,7 +390,7 @@
 	"right-extendedconfirmed": "制限されたページを編集",
 	"restriction-level-extendedconfirmed": "拡張半保護",
 	"protect-level-extendedconfirmed": "拡張承認された利用者と管理者に許可",
-	"action-editeditorprotected": "「{{int:restriction-level-editeditorprotected}}」の保護が設定されたページの編集",
+	"action-editeditorprotected": "保護が設定されたページ（{{int:restriction-level-editeditorprotected}}）を編集",
 	"right-editeditorprotected": "「{{int:restriction-level-editeditorprotected}}」の保護が設定されたページを編集",
 	"protect-level-editeditorprotected": "編集者のみ許可",
 	"restriction-level-editeditorprotected": "編集者保護",

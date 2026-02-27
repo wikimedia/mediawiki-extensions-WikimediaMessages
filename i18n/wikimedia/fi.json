@@ -355,7 +355,7 @@
 	"action-editeditorprotected": "muokata suojattuja sivuja ({{int:restriction-level-editeditorprotected}})",
 	"right-editeditorprotected": "Muokata suojattuja sivuja ({{int:restriction-level-editeditorprotected}})",
 	"protect-level-editeditorprotected": "Salli vain muokkaajat",
-	"restriction-level-editeditorprotected": "muokkaajat-suojattu",
+	"restriction-level-editeditorprotected": "seulojat-suojattu",
 	"action-editextendedsemiprotected": "muokata suojattuja sivuja ({{int:restriction-level-editextendedsemiprotected}})",
 	"right-editextendedsemiprotected": "Muokata suojattuja sivuja ({{int:restriction-level-editextendedsemiprotected}})",
 	"protect-level-editextendedsemiprotected": "Salli vain automaattisesti tarkastavat",
