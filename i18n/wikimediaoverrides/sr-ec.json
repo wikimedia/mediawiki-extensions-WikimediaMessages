@@ -63,7 +63,7 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Ако вам је овај сајт од вајде, молимо донирајте данас.",
 	"wikimedia-emailauth-accountrecovery-intro": "Опоравак Вашег Викимедијиног налога",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Имејл регистрован са Вашим Викимедијиним налогом",
-	"wikimedia-notificationemail_html_footer": "Ако ово нисте били ви,одмах се јавите на [mailto:ca@wikimedia.org ca@wikimedia.org].",
-	"wikimedia-notificationemail_body_changed": "Здраво $2,\n\nНедавно сте променили свој имејл на {{SITENAME}}. Нови имејл је $3.\n\nАко ово нисте били ви,одмах се јавите на ca@wikimedia.org.",
+	"wikimedia-notificationemail_html_footer": "Ако ово нисте били ви, одмах се јавите на [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-notificationemail_body_changed": "Здраво $2,\n\nНедавно сте променили свој имејл на {{SITENAME}}. Нови имејл је $3.\n\nАко ово нисте били ви, одмах се јавите на ca@wikimedia.org.",
 	"wikimedia-notificationemail_body_removed": "Здраво $2,\n\nНедавно сте уклонили свој имејл на {{SITENAME}}.\n\nАко ово нисте били ви,одмах се јавите на ca@wikimedia.org."
 }

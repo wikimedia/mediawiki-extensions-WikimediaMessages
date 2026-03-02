@@ -31,7 +31,7 @@
 	"wikimedia-delete-toobig": "Esta páxina ten un historial de edicións extenso, de máis de $1 {{PLURAL:$1|revisión|revisións}}.\nO borrado de páxinas con grandes historiais de edición está restrinxido para previr problemas de funcionamento accidentais en {{SITENAME}}.\nContacta cos [[m:Special:MyLanguage/Stewards|stewards]] en [[m:Steward requests/Miscellaneous|Meta]] para solicitares a eliminación desta páxina.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Ao premeres no botón \"$1\", aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$3|baixo}} $2.",
 	"wikimedia-emailauth-login-help": "Se tes problemas para recibir o código, podes [[Special:AccountRecovery|recuperar a conta]].",
-	"wikimedia-feedback-termsofuse": "Estou de acordo en proporcionar comentarios en conformidade cos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso].",
+	"wikimedia-feedback-termsofuse": "Ao enviares, aceptas proporcionar os comentarios en conformidade cos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso].",
 	"wikimedia-flow-terms-of-use-new-topic": "Ao premeres no botón \"{{int:flow-newtopic-save}}\", aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$2|baixo}} $1.",
 	"wikimedia-flow-terms-of-use-reply": "Ao premeres no botón \"{{int:flow-reply-link}}\", aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$2|baixo}} $1.",
 	"wikimedia-flow-terms-of-use-edit": "Ao publicares os cambios, aceptas os nosos [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/gl termos de uso] e aceptas liberar irrevogablemente o teu texto {{PLURAL:$2|baixo}} $1.",
@@ -85,5 +85,10 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Se este sitio é útil para ti, fai unha doazón.",
 	"wikimedia-emailauth-accountrecovery-intro": "Recuperar a túa conta da Wikimedia",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Correo electrónico rexistrado na túa conta da Wikimedia",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tes privilexios en {{SITENAME}} que necesitan unha autenticación de dous factores.\n\n<strong>Podes [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder estes privilexios] e se cadra ter que solicitalos de novo manualmente.</strong>\n\nConsello: Engade un método novo antes de eliminares este."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tes privilexios en {{SITENAME}} que necesitan unha autenticación de dous factores.\n\n<strong>Podes [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder estes privilexios] e se cadra ter que solicitalos de novo manualmente.</strong>\n\nConsello: Engade un método novo antes de eliminares este.",
+	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Nese caso, {{GENDER:$1|contacta}} co equipo de confianza e seguridade ($2).",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactar co equipo de confianza e seguridade",
+	"wikimedia-notificationemail_html_footer": "Se non fuches ti, escribe a [mailto:ca@wikimedia.org ca@wikimedia.org] inmediatamente.",
+	"wikimedia-notificationemail_body_changed": "Ola, $2:\n\nAcabas de modificar o teu enderezo de correo electrónico en {{SITENAME}}. O novo enderezo é «$3».\n\nSe non fuches ti, escribe a ca@wikimedia.org inmediatamente.",
+	"wikimedia-notificationemail_body_removed": "Ola, $2:\n\nAcabas de eliminar o teu enderezo de correo electrónico en {{SITENAME}}.\n\nSe non fuches ti, escribe a ca@wikimedia.org inmediatamente."
 }

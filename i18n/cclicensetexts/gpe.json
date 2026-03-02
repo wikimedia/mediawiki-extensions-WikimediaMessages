@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"DaSupremo"
+			"DaSupremo",
+			"Yaw tuba"
 		]
 	},
 	"wm-license-cc-attribution": "Attribution",
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "attribution",
 	"wm-license-cc-conditions-attribution-text": "You for give appropriate credit, provide link to de license, den indicate if dem make changes. You fi do so for any reasonable manner insyd, but no be any way wey dey suggest de licensor dey endorse you anaa your use.",
 	"wm-license-cc-conditions-share_alike-header": "share alike",
-	"wm-license-cc-conditions-share_alike-text": "If you remix, transform, or build upon de material, you fi distribute your contributions under de [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses same anaa compatible license] as de original."
+	"wm-license-cc-conditions-share_alike-text": "If you remix, transform, anaa build upon de material, you fi distribute your contributions under de [[ccorg:share-your-work/licensing-considerations/compatible-licenses|same or compatible license]] as de original."
 }
