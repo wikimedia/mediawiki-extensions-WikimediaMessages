@@ -1,11 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tenzin Thoesam"
+			"Tenzin Thoesam",
+			"Dhondup"
 		]
 	},
 	"wm-license-information-description": "གསལ་བཤད།",
 	"wm-license-information-source": "མ་ཡིག",
 	"wm-license-information-date": "ཟླ་ཚེས།",
-	"wm-license-information-author": "རྩོམ་པ་པོ།"
+	"wm-license-information-author": "རྩོམ་པ་པོ།",
+	"wm-license-information-permission": "ཆོག་མཆན།",
+	"wm-license-information-permission-reusing-text": "ཡིག་ཆ་འདི་བསྐྱར་སྤྱོད་བྱེད་བཞིན་ཡོད།",
+	"wm-license-own-work": "རང་གི་ལས་ཀ",
+	"wm-license-self-multiple-licenses-select": "ཁྱེད་ཀྱིས་བདམས་པ་དེའི་ཆོག་མཆན་འདེམ་རོགས།"
 }
