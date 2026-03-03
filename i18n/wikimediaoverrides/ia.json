@@ -86,5 +86,13 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactar Trust & Safety",
 	"wikimedia-notificationemail_html_footer": "Si non es tu qui ha facite isto, contacta [mailto:ca@wikimedia.org ca@wikimedia.org] immediatemente.",
 	"wikimedia-notificationemail_body_changed": "Salute $2,\n\nTu ha recentemente cambiate tu adresse de e-mail sur {{SITENAME}}. Le nove adresse es $3.\n\nSi non es tu qui ha facite isto, contacta ca@wikimedia.org immediatemente.",
-	"wikimedia-notificationemail_body_removed": "Salute $2,\n\nTu ha recentemente removite tu adresse de e-mail sur {{SITENAME}}.\n\nSi non es tu qui ha facite isto, contacta ca@wikimedia.org immediatemente."
+	"wikimedia-notificationemail_body_removed": "Salute $2,\n\nTu ha recentemente removite tu adresse de e-mail sur {{SITENAME}}.\n\nSi non es tu qui ha facite isto, contacta ca@wikimedia.org immediatemente.",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "Le usator non ha activate le authentication bifactorial, que es [[m:Special:MyLanguage/Meta:Central notice administrators|obligatori]] pro le administratores de CentralNotice",
+	"wikimedia-userrights-restricted-group-checkuser": "Le usator non ha activate le authentication bifactorial, que es [[m:Special:MyLanguage/CheckUser policy|obligatori]] pro le verificatores de usatores",
+	"wikimedia-userrights-restricted-group-interface-admin": "Le usator non ha activate le authentication bifactorial, que es [[m:Special:MyLanguage/Interface administrators|obligatori]] pro le administratores del interfacie",
+	"wikimedia-userrights-restricted-group-suppress": "Le usator non ha activate le authentication bifactorial, que es [[m:Special:MyLanguage/Oversight policy|obligatori]] pro le supervisores",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le membros del personal de Wikidata",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le membros del personal de Wikifunctiones",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le personal informatic del Officio WMF",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le personal de Confidentia & Securitate del WMF"
 }

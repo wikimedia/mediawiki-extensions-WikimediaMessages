@@ -97,5 +97,21 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Kontaktiere Trust & Safety",
 	"wikimedia-notificationemail_html_footer": "Falls du das nicht warst, schreibe bitte umgehend an [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Hallo $2,\n\ndu hast kürzlich deine E-Mail-Adresse auf {{SITENAME}} geändert. Die neue E-Mail-Adresse lautet $3.\n\nFalls du dies nicht warst, schreibe bitte umgehend an ca@wikimedia.org.",
-	"wikimedia-notificationemail_body_removed": "Hallo $2,\n\ndu hast kürzlich deine E-Mail-Adresse auf {{SITENAME}} entfernt.\n\nFalls du dies nicht warst, schreibe bitte umgehend an ca@wikimedia.org."
+	"wikimedia-notificationemail_body_removed": "Hallo $2,\n\ndu hast kürzlich deine E-Mail-Adresse auf {{SITENAME}} entfernt.\n\nFalls du dies nicht warst, schreibe bitte umgehend an ca@wikimedia.org.",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für CentralNotice-Administratoren [[m:Special:MyLanguage/Meta:Central notice administrators|erforderlich]] ist.",
+	"wikimedia-userrights-restricted-group-checkuser": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Checkuser [[m:Special:MyLanguage/CheckUser policy|erforderlich]] ist.",
+	"wikimedia-userrights-restricted-group-interface-admin": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Oberflächenadministratoren [[m:Special:MyLanguage/Interface administrators|erforderlich]] ist.",
+	"wikimedia-userrights-restricted-group-suppress": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Oversighter [[m:Special:MyLanguage/Oversight policy|erforderlich]] ist.",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Angestellte von Wikidata erforderlich ist.",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Angestellte von Wikifunctions erforderlich ist.",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Angestellte von WMF Office IT erforderlich ist.",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Angestellte von WMF Trust & Safety erforderlich ist.",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "CentralNotice-Administratoren [[m:Special:MyLanguage/Meta:Central notice administrators|müssen die Zwei-Faktor-Authentifizierung aktiviert haben]]. Dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Checkuser [[m:Special:MyLanguage/CheckUser policy|müssen die Zwei-Faktor-Authentifizierung aktiviert haben]]. Dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Oberflächenadministratoren [[m:Special:MyLanguage/Interface administrators|müssen die Zwei-Faktor-Authentifizierung aktiviert haben]]. Dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Oversighter [[m:Special:MyLanguage/Oversight policy|müssen die Zwei-Faktor-Authentifizierung aktiviert haben]]. Dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "Angestellte von Wikidata müssen die Zwei-Faktor-Authentifizierung aktiviert haben; dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "Angestellte von Wikifunctions müssen die Zwei-Faktor-Authentifizierung aktiviert haben; dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "Angestellte vom WMF Office IT müssen die Zwei-Faktor-Authentifizierung aktiviert haben; dies wird beim Absenden des Formulars überprüft.",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "Angestellte von WMF Trust & Safety müssen die Zwei-Faktor-Authentifizierung aktiviert haben; dies wird beim Absenden des Formulars überprüft."
 }

@@ -92,5 +92,21 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Ota yhteyttä Trust & Safetyyn",
 	"wikimedia-notificationemail_html_footer": "Jos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Hei $2!\n\nVaihdoit äskettäin sähköpostiosoitettasi {{GRAMMAR:inessive|{{SITENAME}}}}. Uusi sähköpostiosoite on $3.\n\nJos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org].",
-	"wikimedia-notificationemail_body_removed": "Hei $2!\n\nPoistit äskettäin sähköpostiosoitteesi {{GRAMMAR:inessive|{{SITENAME}}}}.\n\nJos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org]."
+	"wikimedia-notificationemail_body_removed": "Hei $2!\n\nPoistit äskettäin sähköpostiosoitteesi {{GRAMMAR:inessive|{{SITENAME}}}}.\n\nJos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on [[m:Special:MyLanguage/Meta:Central notice administrators|vaatimus]] Central notice -ylläpitäjille",
+	"wikimedia-userrights-restricted-group-checkuser": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on [[m:Special:MyLanguage/CheckUser policy|vaatimus]] osoitepaljastimen käyttäjille",
+	"wikimedia-userrights-restricted-group-interface-admin": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on [[m:Special:MyLanguage/Interface administrators|vaatimus]] käyttöliittymän ylläpitäjille",
+	"wikimedia-userrights-restricted-group-suppress": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on [[m:Special:MyLanguage/Oversight policy|vaatimus]] häivyttäjille",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on vaatimus Wikidatan työntekijöille",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on vaatimus Wikifunctionsin työntekijöille",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on vaatimus WMF Office IT -työntekijöille",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on vaatimus WMF:n Luottamus ja Turva -työntekijöille",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "Central notice -ylläpitäjillä [[m:Special:MyLanguage/Meta:Central notice administrators|tulee olla kaksivaiheinen tunnistautuminen käytössä]], mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Osoitepaljastimen käyttäjillä [[m:Special:MyLanguage/CheckUser policy|tulee olla kaksivaiheinen tunnistautuminen käytössä]], mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Käyttöliittymän ylläpitäjillä [[m:Special:MyLanguage/Interface administrators|tulee olla kaksivaiheinen tunnistautuminen käytössä]], mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Häivyttäjillä [[m:Special:MyLanguage/Oversight policy|tulee olla kaksivaiheinen tunnistautuminen käytössä]], mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "Wikidatan työntekijöillä tulee olla kaksivaiheinen tunnistautuminen käytössä, mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "Wikifunctionsin työntekijöillä tulee olla kaksivaiheinen tunnistautuminen käytössä, mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "WMF Office IT -työntekijöillä tulee olla kaksivaiheinen tunnistautuminen käytössä, mikä tarkistetaan lomakkeen lähettämisen yhteydessä",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "WMF:n Luottamus ja Turva -työntekijöillä tulee olla kaksivaiheinen tunnistautuminen käytössä, mikä tarkistetaan lomakkeen lähettämisen yhteydessä"
 }

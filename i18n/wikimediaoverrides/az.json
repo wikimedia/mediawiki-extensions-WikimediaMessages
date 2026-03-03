@@ -90,5 +90,21 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Təhlükəsizlik komandası ilə əlaqə saxlayın",
 	"wikimedia-notificationemail_html_footer": "Bu siz deyilsizsə, dərhal [mailto:ca@wikimedia.org ca@wikimedia.org] ünvanına yazın.",
 	"wikimedia-notificationemail_body_changed": "Salam $2,\n\n{{SITENAME}} saytındakı e-poçt ünvanınız dəyişdirildi. Yeni e-poçt ünvanınız: $3.\n\nBu siz deyilsizsə, dərhal ca@wikimedia.org ünvanına yazın.",
-	"wikimedia-notificationemail_body_removed": "Salam $2,\n\n{{SITENAME}} saytındakı e-poçt ünvanınızı sildiniz.\n\nBu siz deyilsizsə, dərhal ca@wikimedia.org ünvanına yazın."
+	"wikimedia-notificationemail_body_removed": "Salam $2,\n\n{{SITENAME}} saytındakı e-poçt ünvanınızı sildiniz.\n\nBu siz deyilsizsə, dərhal ca@wikimedia.org ünvanına yazın.",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da CentralNotice administratorları üçün [[m:Special:MyLanguage/Meta:Central notice administrators|tələb olunur]]",
+	"wikimedia-userrights-restricted-group-checkuser": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da təftişçilər üçün [[m:Special:MyLanguage/CheckUser policy|tələb olunur]]",
+	"wikimedia-userrights-restricted-group-interface-admin": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da interfeys inzibatçıları üçün [[m:Special:MyLanguage/Interface administrators|tələb olunur]]",
+	"wikimedia-userrights-restricted-group-suppress": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da gizlədicilər üçün [[m:Special:MyLanguage/Oversight policy|tələb olunur]]",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da Vikidata əməkdaşları üçün tələb olunur",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da Vikifunksiya əməkdaşları üçün tələb olunur",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da WMF Ofis IT əməkdaşları üçün tələb olunur",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "İstifadəçinin iki faktorlu autentifikasiyası aktiv deyil, bu da WMF Təhlükəsizlik Əməkdaşları üçün üçün tələb olunur",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "CentralNotice inzibatçıları [[m:Special:MyLanguage/Meta:Central notice administrators|iki faktorlu autentifikasiya aktiv olmalıdır]], bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Təftişçilərdə [[m:Special:MyLanguage/CheckUser policy|iki faktorlu autentifikasiya aktiv olmalıdır]], bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "İnterfeys inzibatçılarında [[m:Special:MyLanguage/Interface administrators|iki faktorlu autentifikasiya aktiv olmalıdır]], bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Gizlədicilərdə [[m:Special:MyLanguage/Oversight policy|iki faktorlu autentifikasiya aktiv olmalıdır]], bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "Vikidata əməkdaşlarında iki faktorlu autentifikasiya aktiv olmalıdır, bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "Vikifunksiya əməkdaşlarında iki faktorlu autentifikasiya aktiv olmalıdır, bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "WMF Ofis IT əməkdaşlarında iki faktorlu autentifikasiya aktiv olmalıdır, bu, formanı təqdim edərkən yoxlanılacaq",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "WMF Təhlükəsizlik əməkdaşlarında iki faktorlu autentifikasiya aktiv olmalıdır, bu, formanı təqdim edərkən yoxlanılacaq"
 }
