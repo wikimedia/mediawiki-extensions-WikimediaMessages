@@ -90,5 +90,21 @@
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactar co equipo de confianza e seguridade",
 	"wikimedia-notificationemail_html_footer": "Se non fuches ti, escribe a [mailto:ca@wikimedia.org ca@wikimedia.org] inmediatamente.",
 	"wikimedia-notificationemail_body_changed": "Ola, $2:\n\nAcabas de modificar o teu enderezo de correo electrónico en {{SITENAME}}. O novo enderezo é «$3».\n\nSe non fuches ti, escribe a ca@wikimedia.org inmediatamente.",
-	"wikimedia-notificationemail_body_removed": "Ola, $2:\n\nAcabas de eliminar o teu enderezo de correo electrónico en {{SITENAME}}.\n\nSe non fuches ti, escribe a ca@wikimedia.org inmediatamente."
+	"wikimedia-notificationemail_body_removed": "Ola, $2:\n\nAcabas de eliminar o teu enderezo de correo electrónico en {{SITENAME}}.\n\nSe non fuches ti, escribe a ca@wikimedia.org inmediatamente.",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin": "O usuario non ten activada a autenticación de dous factores, que é [[m:Special:MyLanguage/Meta:Central notice administrators|obrigatoria]] para os administradores do aviso central",
+	"wikimedia-userrights-restricted-group-checkuser": "O usuario non ten activada a autenticación de dous factores, que é [[m:Special:MyLanguage/CheckUser policy|obrigatoria]] para os verificadores de usuarios",
+	"wikimedia-userrights-restricted-group-interface-admin": "O usuario non ten activada a autenticación de dous factores, que é [[m:Special:MyLanguage/Interface administrators|obrigatoria]] para os administradores da interface",
+	"wikimedia-userrights-restricted-group-suppress": "O usuario non ten activada a autenticación de dous factores, que é [[m:Special:MyLanguage/Oversight policy|obrigatoria]] para os supervisores",
+	"wikimedia-userrights-restricted-group-wikidata-staff": "O usuario non ten activada a autenticación de dous factores, que é obrigatoria para o persoal de Wikidata",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff": "O usuario non ten activada a autenticación de dous factores, que é obrigatoria para o persoal de Wikifuncións",
+	"wikimedia-userrights-restricted-group-wmf-officeit": "O usuario non ten activada a autenticación de dous factores, que é obrigatoria para o persoal informático da oficina da WMF",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "O usuario non ten activada a autenticación de dous factores, que é obrigatoria para o persoal de confianza e seguridade da WMF",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "Os administradores do aviso central [[m:Special:MyLanguage/Meta:Central notice administrators|deben ter activada a autenticación de dous pasos]], o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Os verificadores de usuarios [[m:Special:MyLanguage/CheckUser policy|deben ter activada a autenticación de dous pasos]], o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Os administradores da interface [[m:Special:MyLanguage/Interface administrators|deben ter activada a autenticación de dous pasos]], o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Os supervisores [[m:Special:MyLanguage/Oversight policy|deben ter activada a autenticación de dous pasos]], o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "O persoal de Wikidata debe ter activada a autenticación de dous pasos, o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "O persoal de Wikifuncións debe ter activada a autenticación de dous pasos, o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "O ersoal informático da oficina da WMF debe ter activada a autenticación de dous pasos, o que se comprobará ao enviar o formulario",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "O persoal de confianza e seguridade da WMF debe ter activada a autenticación de dous pasos, o que se comprobará ao enviar o formulario"
 }
