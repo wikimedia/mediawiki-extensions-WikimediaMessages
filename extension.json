@@ -126,6 +126,10 @@
 		"WikimediaMessagesAnonDonateLink": {
 			"value": false,
 			"description": "Move the donate link for anonymous users from the menu sidebar to login/account creation area"
+		},
+		"WikimediaMessagesHasLiquidThreadsLogs": {
+			"value": false,
+			"description": "Whether a wiki has logs from the LiquidThreads extension. Used to determine if the LiquidThreads log type should be added by WikimediaMessages if that extension is undeployed"
 		}
 	},
 	"attributes": {
