@@ -1804,7 +1804,11 @@ class Hooks implements
 			];
 		}
 
-		if ( !ExtensionRegistry::getInstance()->isLoaded( 'LiquidThreads' ) ) {
+		global $wgWikimediaMessagesHasLiquidThreadsLogs;
+		if (
+			!ExtensionRegistry::getInstance()->isLoaded( 'Liquid Threads' ) &&
+			$wgWikimediaMessagesHasLiquidThreadsLogs
+		) {
 			global $wgLogTypes, $wgLogNames, $wgLogHeaders, $wgLogActionsHandlers;
 
 			$wgLogTypes[] = 'liquidthreads';
