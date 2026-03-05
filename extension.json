@@ -65,7 +65,9 @@
 	},
 	"DefaultUserOptions": {
 		"echo-subscriptions-web-boardelection": true,
-		"echo-subscriptions-email-boardelection": true
+		"echo-subscriptions-email-boardelection": true,
+		"echo-subscriptions-web-2fa-warning": true,
+		"echo-subscriptions-email-2fa-warning": false
 	},
 	"Hooks": {
 		"OutputPageBeforeHTML": {
@@ -141,6 +143,10 @@
 					"no-dismiss": [
 						"all"
 					]
+				},
+				"2fa-warning": {
+					"title": "wikimedia-2fa-echo-category-title",
+					"priority": 1
 				}
 			},
 			"Notifications": {
@@ -149,6 +155,12 @@
 					"group": "neutral",
 					"section": "message",
 					"presentation-model": "MediaWiki\\Extension\\WikimediaMessages\\Notifications\\BoardElection2025PresentationModel"
+				},
+				"2fa-warning": {
+					"category": "2fa-warning",
+					"group": "interactive",
+					"section": "alert",
+					"presentation-model": "MediaWiki\\Extension\\WikimediaMessages\\Notifications\\TwoFactorAuthWarningPresentationModel"
 				}
 			},
 			"NotificationIcons": {
@@ -156,6 +168,18 @@
 					"path": {
 						"ltr": "WikimediaMessages/modules/Wikimedia-logo_black.svg",
 						"rtl": "WikimediaMessages/modules/Wikimedia-logo_black.svg"
+					}
+				},
+				"key-warning": {
+					"path": {
+						"ltr": "WikimediaMessages/modules/icon_key.svg",
+						"rtl": "WikimediaMessages/modules/icon_key-rtl.svg"
+					}
+				},
+				"info": {
+					"path": {
+						"ltr": "WikimediaMessages/modules/icon_info.svg",
+						"rtl": "WikimediaMessages/modules/icon_info.svg"
 					}
 				}
 			}

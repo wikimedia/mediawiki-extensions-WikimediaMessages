@@ -647,5 +647,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Label for an article topic",
 	"wikimedia-articletopics-topic-physics": "Label for an article topic",
 	"wikimedia-articletopics-topic-technology": "Label for an article topic",
-	"wikimedia-namespaceinfo-description-ns470": "Description for the Schema namespace"
+	"wikimedia-namespaceinfo-description-ns470": "Description for the Schema namespace",
+	"wikimedia-2fa-echo-category-title": "Title for Echo category about mandatory two-factor authentication warnings",
+	"wikimedia-2fa-notification-header": "Notification header asking the user to enable two-factor authentication on their account",
+	"wikimedia-2fa-notification-body": "Notification body, explaining that the user will lose membership in some groups, unless they enable 2FA by the specified date. Parameters:\n* $1 - the date by which the user must enable 2FA to avoid losing group memberships",
+	"wikimedia-2fa-notification-action": "Label for the action related to going to the preferences page to enable 2FA",
+	"wikimedia-2fa-notification-info": "Label for the link to the information page about the 2FA requirement"
 }
