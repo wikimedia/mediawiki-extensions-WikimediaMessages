@@ -592,5 +592,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicine and health",
 	"wikimedia-articletopics-topic-physics": "Physics",
 	"wikimedia-articletopics-topic-technology": "Technology",
-	"wikimedia-namespaceinfo-description-ns470": "Namespace for schemas that were used by Legacy EventLogging to validate analytics events. All pages in the Schema namespace were emptied as part of [[phab:T238230|decommissioning Legacy EventLogging]]."
+	"wikimedia-namespaceinfo-description-ns470": "Namespace for schemas that were used by Legacy EventLogging to validate analytics events. All pages in the Schema namespace were emptied as part of [[phab:T238230|decommissioning Legacy EventLogging]].",
+	"wikimedia-2fa-echo-category-title": "Two-factor authentication is not enabled on your account",
+	"wikimedia-2fa-notification-header": "Please configure two-factor authentication now",
+	"wikimedia-2fa-notification-body": "Do it before $1 or you'll lose some of your user groups.",
+	"wikimedia-2fa-notification-action": "Set up two-factor authentication",
+	"wikimedia-2fa-notification-info": "More information"
 }
