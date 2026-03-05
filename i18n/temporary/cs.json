@@ -13,5 +13,7 @@
 	"group-oversight-member": "{{GENDER:$1|utajovatel|utajovatelka}}",
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
-	"thank-you": "{{GENDER:$1|Děkujeme vám.}}"
+	"please-translate-short": "Pomozte s překladem",
+	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
+	"specialinvestigate-feedback": "Sdělte nám svůj názor"
 }

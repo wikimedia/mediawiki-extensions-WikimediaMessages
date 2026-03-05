@@ -16,7 +16,7 @@
 			"TheEduGobi"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "Os visitantes desta wiki utilizando o seu endereço de IP criaram {{PLURAL:$1|uma conta|$1 contas}} no último dia, que é o máximo permitido neste período de tempo.\nComo resultado, os visitantes que utilizam este endereço de IP não podem criar mais contas neste momento.\n\nSe você estiver num evento onde contribuir com os projetos da Wikimedia é o foco, por favo veja \"[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Solicitando a eliminação temporal de limitação de IP]]\" para te ajudar a resolver este problema.",
+	"wikimedia-acct_creation_throttle_hit": "Os visitantes desta wiki utilizando o seu endereço de IP criaram {{PLURAL:$1|uma conta|$1 contas}} no(s) último(s) $2, que é o máximo permitido neste período de tempo.\nComo resultado, os visitantes que utilizam este endereço de IP não podem criar mais contas neste momento.\n\nSe você estiver num evento onde contribuir com os projetos da Wikimedia é o foco, por favo veja \"[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Solicitando a eliminação temporal de limitação de IP]]\" para te ajudar a resolver este problema.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(Ajude-me a escolher)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Você pode visitar sua página de Preferências em [[m:Special:CentralAuth/$1|outros projetos da Wikimedia onde você contribuiu]] para baixar os dados da sua conta desses projetos.",
 	"wikimedia-createacct-imgcaptcha-help": "Não consegue ver a imagem? [[{{MediaWiki:createacct-captcha-help-url}}|Solicitar uma conta]]",
