@@ -43,7 +43,7 @@
 	"action-editextendedsemiprotected": "纂「{{int:restriction-level-editextendedsemiprotected}}」錮頁",
 	"right-editextendedsemiprotected": "纂「{{int:restriction-level-editextendedsemiprotected}}」錮頁",
 	"wikimedia-statslink": "彙統",
-	"wikimedia-cookiestatement": "鑑識聲明",
+	"wikimedia-cookiestatement": "鑑識告示",
 	"right-editautopatrolprotected": "纂「{{int:restriction-level-editautopatrolprotected}}」錮頁",
 	"action-editautopatrolprotected": "纂「{{int:restriction-level-editautopatrolprotected}}」錮頁",
 	"right-editpatrolprotected": "纂「{{int:restriction-level-editpatrolprotected}}」錮頁",
