@@ -540,5 +540,10 @@
 	"wikimedia-articletopics-topic-mathematics": "Matematiikka",
 	"wikimedia-articletopics-topic-medicine-and-health": "Lääketiede ja terveys",
 	"wikimedia-articletopics-topic-physics": "Fysiikka",
-	"wikimedia-articletopics-topic-technology": "Teknologia"
+	"wikimedia-articletopics-topic-technology": "Teknologia",
+	"wikimedia-2fa-echo-category-title": "Kaksivaiheinen tunnistautuminen ei ole käytössä tunnuksellasi",
+	"wikimedia-2fa-notification-header": "Määritä kaksivaiheinen tunnistautuminen nyt",
+	"wikimedia-2fa-notification-body": "Tee se ennen $1 tai menetät osan käyttäjäryhmistäsi.",
+	"wikimedia-2fa-notification-action": "Ota käyttöön kaksivaiheinen tunnistautuminen",
+	"wikimedia-2fa-notification-info": "Lisätietoja"
 }

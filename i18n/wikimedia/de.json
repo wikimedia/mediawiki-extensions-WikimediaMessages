@@ -561,5 +561,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Medizin und Gesundheit",
 	"wikimedia-articletopics-topic-physics": "Physik",
 	"wikimedia-articletopics-topic-technology": "Technologie",
-	"wikimedia-namespaceinfo-description-ns470": "Namensraum für Schemata, die von veralteten EventLogging-Erweiterung zur Validierung von Analyseereignissen verwendet wurden. Alle Seiten im Schema-Namensraum wurden im Rahmen der [[phab:T238230|Abschaffung von EventLogging]] geleert."
+	"wikimedia-namespaceinfo-description-ns470": "Namensraum für Schemata, die von veralteten EventLogging-Erweiterung zur Validierung von Analyseereignissen verwendet wurden. Alle Seiten im Schema-Namensraum wurden im Rahmen der [[phab:T238230|Abschaffung von EventLogging]] geleert.",
+	"wikimedia-2fa-echo-category-title": "Die Zwei-Faktor-Authentifizierung ist für dein Konto nicht aktiviert.",
+	"wikimedia-2fa-notification-header": "Bitte konfiguriere jetzt die Zwei-Faktor-Authentifizierung.",
+	"wikimedia-2fa-notification-body": "Erledige dies vor dem $1, sonst verlierst du einige deiner Benutzergruppen.",
+	"wikimedia-2fa-notification-action": "Zwei-Faktor-Authentifizierung einrichten",
+	"wikimedia-2fa-notification-info": "Weitere Informationen"
 }

@@ -552,5 +552,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Tibb",
 	"wikimedia-articletopics-topic-physics": "Fizika",
 	"wikimedia-articletopics-topic-technology": "Texnologiya",
-	"wikimedia-namespaceinfo-description-ns470": "Analitika jurnallarını qeyd etmək üçün üçün Legacy EventLogging tərəfindən istifadə edilən sxemlər üçün ad məkanı. Sxem ad fəzasındakı bütün səhifələr [[phab:T238230|Legacy EventLogging-in istismardan çıxarılması]]nın bir hissəsi kimi boşaldılıb."
+	"wikimedia-namespaceinfo-description-ns470": "Analitika jurnallarını qeyd etmək üçün üçün Legacy EventLogging tərəfindən istifadə edilən sxemlər üçün ad məkanı. Sxem ad fəzasındakı bütün səhifələr [[phab:T238230|Legacy EventLogging-in istismardan çıxarılması]]nın bir hissəsi kimi boşaldılıb.",
+	"wikimedia-2fa-echo-category-title": "Hesabınızda iki faktorlu autentifikasiya aktiv deyil",
+	"wikimedia-2fa-notification-header": "Zəhmət olmasa, iki faktorlu autentifikasiyanı indi konfiqurasiya edin",
+	"wikimedia-2fa-notification-body": "Bunu $1 tarixindən əvvəl etməyi nəzərdən keçirin, əks halda istifadəçi qruplarınızın bəzilərini itirəcəksiniz.",
+	"wikimedia-2fa-notification-action": "İki faktorlu autentifikasiyanı aktivləşdir",
+	"wikimedia-2fa-notification-info": "Əlavə məlumat"
 }

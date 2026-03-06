@@ -393,5 +393,9 @@
 	"wikimedia-articletopics-topic-mathematics": "Математика",
 	"wikimedia-articletopics-topic-medicine-and-health": "Медицина и здравље",
 	"wikimedia-articletopics-topic-physics": "Физика",
-	"wikimedia-articletopics-topic-technology": "Технологија"
+	"wikimedia-articletopics-topic-technology": "Технологија",
+	"wikimedia-2fa-echo-category-title": "Двофакторска аутентификација није омогућена на Вашем налогу",
+	"wikimedia-2fa-notification-header": "Молимо подесите двофакторску аутентификацију одмах",
+	"wikimedia-2fa-notification-action": "Подеси двофакторску аутентификацију",
+	"wikimedia-2fa-notification-info": "Више информација"
 }

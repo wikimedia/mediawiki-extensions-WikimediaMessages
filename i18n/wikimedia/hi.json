@@ -121,7 +121,7 @@
 	"group-import": "आयातक",
 	"group-import-member": "{{GENDER:$1|आयातक}}",
 	"grouppage-import": "{{ns:project}}:आयातक",
-	"group-interface-editor": "इंटरफ़ेस सम्पादक",
+	"group-interface-editor": "अंतरफलक सम्पादक",
 	"group-interface-editor-member": "{{GENDER:$1|इंटरफ़ेस सम्पादक}}",
 	"grouppage-interface-editor": "{{ns:project}}:इंटरफ़ेस सम्पादक",
 	"group-ipblock-exempt": "IP अवरोध अपवाद",
@@ -186,8 +186,8 @@
 	"group-global-flow-create-member": "{{GENDER:$1|ग्लोबल Flow निर्माता}}",
 	"group-global-ipblock-exempt": "ग्लोबल IP अवरोध अपवाद",
 	"group-global-ipblock-exempt-member": "{{GENDER:$1|ग्लोबल IP अवरोध अपवादित}}",
-	"group-global-interface-editor": "ग्लोबल इंटरफ़ेस सम्पादक",
-	"group-global-interface-editor-member": "{{GENDER:$1|ग्लोबल इंटरफ़ेस सम्पादक}}",
+	"group-global-interface-editor": "ग्लोबल अंतरफलक सम्पादक",
+	"group-global-interface-editor-member": "{{GENDER:$1|ग्लोबल अंतरफलक सम्पादक}}",
 	"group-global-renamer": "ग्लोबल पुनः नामकर्ताएँ",
 	"group-global-renamer-member": "{{GENDER:$1|ग्लोबल पुनः नामकर्ता}}",
 	"group-global-rollbacker": "ग्लोबल रोलबैकर्स",
@@ -555,5 +555,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "चिकित्सा और स्वास्थ्य",
 	"wikimedia-articletopics-topic-physics": "भौतिकी",
 	"wikimedia-articletopics-topic-technology": "प्रौद्योगिकी",
-	"wikimedia-namespaceinfo-description-ns470": "विरासती EventLogging द्वारा सांख्यिकी की घटनाओं को सत्यापित करने के लिए भूतपूर्व प्रयुक्त पृष्ठ। Schema नामस्थान के सभी पृष्ठ [[phab:T238230|विरासती EventLogging की विमुक्ति]] के हिस्से के रूप में खाली कर दिए गए थे।"
+	"wikimedia-namespaceinfo-description-ns470": "विरासती EventLogging द्वारा सांख्यिकी की घटनाओं को सत्यापित करने के लिए भूतपूर्व प्रयुक्त पृष्ठ। Schema नामस्थान के सभी पृष्ठ [[phab:T238230|विरासती EventLogging की विमुक्ति]] के हिस्से के रूप में खाली कर दिए गए थे।",
+	"wikimedia-2fa-echo-category-title": "आपके खाते पर दो-कारक प्रमाणीकरण सक्षम नहीं है",
+	"wikimedia-2fa-notification-header": "कृपया अभी दो-कारक प्रमाणीकरण कॉन्फ़िगर करें",
+	"wikimedia-2fa-notification-body": "ऐसा $1 से पहले करें, अन्यथा आप अपने कुछ सदस्य समूह खो देंगे।",
+	"wikimedia-2fa-notification-action": "दो-कारक प्रमाणीकरण सेटअप करें",
+	"wikimedia-2fa-notification-info": "अधिक जानकारी"
 }

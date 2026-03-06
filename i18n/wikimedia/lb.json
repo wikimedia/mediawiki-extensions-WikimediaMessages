@@ -300,5 +300,10 @@
 	"wikimedia-articletopics-topic-mathematics": "Mathematik",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medezin a Gesondheet",
 	"wikimedia-articletopics-topic-physics": "Physik",
-	"wikimedia-articletopics-topic-technology": "Technologie"
+	"wikimedia-articletopics-topic-technology": "Technologie",
+	"wikimedia-2fa-echo-category-title": "D'Zwee-Faktor-Authentifizéierung ass fir Äre Kont net aktivéiert",
+	"wikimedia-2fa-notification-header": "Konfiguréiert wgl. elo d'Zwee-Faktor-Authentifizéierung",
+	"wikimedia-2fa-notification-body": "Maacht dat virum $1, soss verléiert Dir d'Zougehéieregkeet zu verschiddene Benotzergruppen.",
+	"wikimedia-2fa-notification-action": "Zwee-Faktor-Authentifizéierung ariichten",
+	"wikimedia-2fa-notification-info": "Méi Informatiounen"
 }
