@@ -164,6 +164,7 @@
 	"grouppage-translationadmin": "{{ns:project}}:Администратори превода",
 	"group-wmf-researcher": "WMF истраживачи",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF истраживач}}",
+	"mulwikisource-sidebar-random-book": "Случајна књига",
 	"tag-emoji": "Емоџи",
 	"tag-AWB": "Аутовикибраузер",
 	"tag-AWB-description": "Измене направљене [https://sr.wikipedia.org/wiki/Википедија:Аутовикибраузер Аутовикибраузером]",

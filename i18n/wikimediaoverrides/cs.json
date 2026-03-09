@@ -60,5 +60,7 @@
 	"wikimedia-skin-minerva-donate-banner-message": "Přispějte nyní",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Pokud je pro vás Wikipedie užitečná, darujte prosím ještě dnes.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Pokud pro vás byl tento projekt užitečný, darujte ještě dnes.",
-	"wikimedia-notificationemail_html_footer": "Pokud jste to nebyli vy, okamžitě napište na [mailto:ca@wikimedia.org ca@wikimedia.org]."
+	"wikimedia-notificationemail_html_footer": "Pokud jste to nebyli vy, okamžitě napište na [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-notificationemail_body_changed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno změnili svoji e-mailovou adresu. Nový e-mail je $3.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org.",
+	"wikimedia-notificationemail_body_removed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno odebrali svoji e-mailovou adresu.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org."
 }

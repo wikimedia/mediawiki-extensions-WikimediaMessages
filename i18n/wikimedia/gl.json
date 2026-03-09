@@ -222,6 +222,9 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|investigador|investigadora}} da WMF",
 	"group-wmf-supportsafety": "Confianza e seguridade da WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|membro de confianza e seguridade da WMF}}",
+	"mulwikisource-sidebar-scriptorium": "Scriptorium",
+	"mulwikisource-sidebar-news": "Novas",
+	"mulwikisource-sidebar-random-book": "Libro ao chou",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usado polo filtro de abusos global 110.",
 	"tag-AWB-description": "Edicións feitas a través de [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
@@ -542,5 +545,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicina e saúde",
 	"wikimedia-articletopics-topic-physics": "Física",
 	"wikimedia-articletopics-topic-technology": "Tecnoloxía",
-	"wikimedia-namespaceinfo-description-ns470": "Espazo de nomes para os esquemas que empregaba Legacy EventLogging para validar eventos de análise. Todas as páxinas do espazo de nomes «Schema» baleiráronse como parte da [[phab:T238230|desactivación de Legacy EventLogging]]."
+	"wikimedia-namespaceinfo-description-ns470": "Espazo de nomes para os esquemas que empregaba Legacy EventLogging para validar eventos de análise. Todas as páxinas do espazo de nomes «Schema» baleiráronse como parte da [[phab:T238230|desactivación de Legacy EventLogging]].",
+	"wikimedia-2fa-echo-category-title": "A autenticación de dous factores non está activada na túa conta",
+	"wikimedia-2fa-notification-header": "Configura agora a autenticación de dous factores",
+	"wikimedia-2fa-notification-body": "Faino antes do $1 ou perderás algúns dos teus grupos de usuario.",
+	"wikimedia-2fa-notification-action": "Configurar a autenticación de dous factores",
+	"wikimedia-2fa-notification-info": "Máis información"
 }

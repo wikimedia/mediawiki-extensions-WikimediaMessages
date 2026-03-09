@@ -436,5 +436,7 @@
 	"wikimedia-articletopics-topic-mathematics": "Matematica",
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicina e salute",
 	"wikimedia-articletopics-topic-physics": "Fisica",
-	"wikimedia-articletopics-topic-technology": "Tecnologia"
+	"wikimedia-articletopics-topic-technology": "Tecnologia",
+	"wikimedia-2fa-notification-action": "Imposta autenticazione a due fattori",
+	"wikimedia-2fa-notification-info": "Ulteriori informazioni"
 }
