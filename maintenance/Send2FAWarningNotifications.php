@@ -33,7 +33,8 @@ class Send2FAWarningNotifications extends Maintenance {
 		$text = $this->getStdin( Maintenance::STDIN_ALL );
 		$success = 0;
 		foreach ( explode( "\n", $text ) as $i => $userName ) {
-			if ( trim( $userName ) === '' ) {
+			$userName = trim( $userName );
+			if ( $userName === '' ) {
 				continue;
 			}
 			if ( str_contains( $userName, '@' ) ) {
@@ -44,7 +45,6 @@ class Send2FAWarningNotifications extends Maintenance {
 					continue;
 				}
 			}
-
 			$userIdentity = $userIdentityLookup->getUserIdentityByName( $userName );
 			if ( !$userIdentity ) {
 				$this->error( ( $i + 1 ) . ": User is invalid or not registered: $userName" );
