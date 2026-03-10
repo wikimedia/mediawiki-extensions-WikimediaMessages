@@ -14,6 +14,7 @@ class Send2FAWarningNotifications extends Maintenance {
 		$this->requireExtension( 'WikimediaMessages' );
 		$this->addDescription( 'Send notifications about mandatory 2FA to users (read from stdin)' );
 		$this->addOption( 'deadline', 'Deadline for 2FA compliance in YYYYMMDD format', true, true );
+		$this->addOption( 'input-file', 'Name of file with users to notify. If absent, use stdin', false, true );
 		$this->setBatchSize( 100 );
 	}
 
@@ -30,7 +31,16 @@ class Send2FAWarningNotifications extends Maintenance {
 		// Notifications expect a timestamp, so append time to the date and convert to timestamp
 		$deadline .= '000000';
 
-		$text = $this->getStdin( Maintenance::STDIN_ALL );
+		if ( $this->hasOption( 'input-file' ) ) {
+			$fileName = $this->getOption( 'input-file' );
+			if ( !file_exists( $fileName ) || !is_readable( $fileName ) ) {
+				$this->error( "Input file does not exist or is not readable: $fileName" );
+				return;
+			}
+			$text = file_get_contents( $fileName );
+		} else {
+			$text = $this->getStdin( Maintenance::STDIN_ALL );
+		}
 		$success = 0;
 		foreach ( explode( "\n", $text ) as $i => $userName ) {
 			$userName = trim( $userName );
