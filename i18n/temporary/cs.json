@@ -13,7 +13,9 @@
 	"group-oversight-member": "{{GENDER:$1|utajovatel|utajovatelka}}",
 	"hello": "Dobrý den",
 	"please-translate": "Prosíme, pomozte s překladem do svého jazyka",
+	"please-translate-short": "Pomozte s překladem",
 	"thank-you": "{{GENDER:$1|Děkujeme vám.}}",
+	"specialinvestigate-feedback": "Sdělte nám svůj názor",
 	"graph-disabled-category": "Stránky s vypnutými grafy",
 	"graph-disabled-category-desc": "Tato stránka obsahuje značku <code>&lt;graph&gt;</code>, která dočasně není k dispozici ([[phab:T334940|T334940]])."
 }
