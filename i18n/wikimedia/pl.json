@@ -417,7 +417,7 @@
 	"wikimedia-namespaceinfo-description-ns470": "Przestrzeń nazw schematów używanych przez stary system EventLogging do walidacji zdarzeń analitycznych. Wszystkie strony w przestrzeni nazw Schema zostały wyczyszczone w ramach [[phab:T238230|likwidacji starego systemu EventLogging]].",
 	"wikimedia-2fa-echo-category-title": "Uwierzytelnianie dwuskładnikowe nie jest włączone na Twoim koncie",
 	"wikimedia-2fa-notification-header": "Skonfiguruj uwierzytelnianie dwuskładnikowe teraz",
-	"wikimedia-2fa-notification-body": "Zrób to do $1, albo inaczej stracisz część swoich uprawnień.",
+	"wikimedia-2fa-notification-body": "Zrób to do $1, inaczej stracisz część swoich uprawnień.",
 	"wikimedia-2fa-notification-action": "Skonfiguruj uwierzytelnianie dwuskładnikowe",
 	"wikimedia-2fa-notification-info": "Więcej informacji"
 }
