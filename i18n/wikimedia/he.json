@@ -227,6 +227,8 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|חוקר|חוקרת}} בקרן ויקימדיה",
 	"group-wmf-supportsafety": "צוות אמון ובטיחות של קרן ויקימדיה",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|איש|אשת}} צוות אמון ובטיחות של קרן ויקימדיה",
+	"mulwikisource-sidebar-news": "חדשות",
+	"mulwikisource-sidebar-random-book": "ספר אקראי",
 	"tag-emoji": "אמוג'י",
 	"tag-emoji-description": "בשימוש על־ידי מסנן ההשחתות הגלובלי מספר 110.",
 	"tag-AWB-description": "עריכות שנעשו באמצעות [https://he.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
@@ -547,5 +549,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "רפואה ובריאות",
 	"wikimedia-articletopics-topic-physics": "פיזיקה",
 	"wikimedia-articletopics-topic-technology": "טכנולוגיה",
-	"wikimedia-namespaceinfo-description-ns470": "מרחב שם עבור סכֵמות ששימשו את הגרסה הישנה של EventLogging לאימות אירועי ניתוח נתונים. כל הדפים במרחב השם Schema רוקנו כחלק מ[[phab:T238230|הוצאת הגרסה הישנה של EventLogging משימוש]]."
+	"wikimedia-namespaceinfo-description-ns470": "מרחב שם עבור סכֵמות ששימשו את הגרסה הישנה של EventLogging לאימות אירועי ניתוח נתונים. כל הדפים במרחב השם Schema רוקנו כחלק מ[[phab:T238230|הוצאת הגרסה הישנה של EventLogging משימוש]].",
+	"wikimedia-2fa-echo-category-title": "לא מופעל אימות דו־שלבי על החשבון שלך",
+	"wikimedia-2fa-notification-header": "נא להגדיר אימות דו־שלבי כעת",
+	"wikimedia-2fa-notification-body": "כדאי לעשות זאת לפני $1 או שחלק מקבוצות המשתמשים שלך תלכנה לאיבוד.",
+	"wikimedia-2fa-notification-action": "הגדרת אימות דו־שלבי",
+	"wikimedia-2fa-notification-info": "פרטים נוספים"
 }

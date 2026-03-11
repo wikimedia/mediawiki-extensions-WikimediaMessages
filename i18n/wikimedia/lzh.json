@@ -45,11 +45,11 @@
 	"right-editextendedsemiprotected": "頁已封緘，{{int:restriction-level-editextendedsemiprotected}}之",
 	"wikimedia-statslink": "彙統",
 	"wikimedia-cookiestatement": "鑑識告示",
-	"right-editautopatrolprotected": "纂「{{int:restriction-level-editautopatrolprotected}}」錮頁",
-	"action-editautopatrolprotected": "纂「{{int:restriction-level-editautopatrolprotected}}」錮頁",
-	"right-editpatrolprotected": "纂「{{int:restriction-level-editpatrolprotected}}」錮頁",
-	"action-editpatrolprotected": "纂「{{int:restriction-level-editpatrolprotected}}」錮頁",
-	"right-edittrustedprotected": "纂「{{int:restriction-level-edittrustedprotected}}」錮頁",
-	"action-edittrustedprotected": "纂「{{int:restriction-level-edittrustedprotected}}」錮頁",
+	"right-editautopatrolprotected": "纂封緘之頁（{{int:restriction-level-editautopatrolprotected}}之）",
+	"action-editautopatrolprotected": "纂封緘之頁（{{int:restriction-level-editautopatrolprotected}}之）",
+	"right-editpatrolprotected": "纂封緘之頁（{{int:restriction-level-editpatrolprotected}}之）",
+	"action-editpatrolprotected": "纂封緘之頁（{{int:restriction-level-editpatrolprotected}}之）",
+	"right-edittrustedprotected": "纂封緘之頁（{{int:restriction-level-edittrustedprotected}}之）",
+	"action-edittrustedprotected": "纂封緘之頁（{{int:restriction-level-edittrustedprotected}}之）",
 	"wikimedia-help-translate-prompt": "欲助譯哉？[$1 譯其缺者]。"
 }
