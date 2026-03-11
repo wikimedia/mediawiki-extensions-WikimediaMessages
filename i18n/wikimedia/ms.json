@@ -68,7 +68,7 @@
 	"group-eliminator-member": "{{GENDER:$1|penyingkir}}",
 	"grouppage-eliminator": "{{ns:project}}:Penyingkir",
 	"group-event-organizer": "Penganjur acara",
-	"group-event-organizer-member": "{{GENDER:$1|penganjur-acara}}",
+	"group-event-organizer-member": "{{GENDER:$1|penganjur acara}}",
 	"grouppage-event-organizer": "{{ns:project}}:Penganjur acara",
 	"group-eventcoordinator": "Penyelaras acara",
 	"group-eventcoordinator-member": "{{GENDER:$1|penyelaras acara}}",

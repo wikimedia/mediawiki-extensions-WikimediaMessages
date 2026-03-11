@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Varnent"
+			"Varnent",
+			"Davidzdh"
 		]
 	},
 	"wm-commonstrings-closed": "閉",
@@ -14,7 +15,7 @@
 	"wm-commonstrings-overview": "略",
 	"wm-commonstrings-participate": "與",
 	"wm-commonstrings-questions": "惑哉？",
-	"wm-commonstrings-register-account": "增簿",
+	"wm-commonstrings-register-account": "登簿",
 	"wm-commonstrings-reports": "報",
 	"wm-commonstrings-scope": "所涵",
 	"wm-commonstrings-seealso": "兼查",
