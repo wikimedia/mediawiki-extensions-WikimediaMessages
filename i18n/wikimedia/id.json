@@ -31,7 +31,8 @@
 			"Varnent",
 			"Veracious",
 			"William Surya Permana",
-			"Penyuwangi"
+			"Penyuwangi",
+			"Bayahiu"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan khusus Wikimedia",
@@ -456,6 +457,7 @@
 	"research-incentive-privacy": "Lihat kebijakan privasi kami dan pelajari lebih lanjut tentang program penelitian kami [https://www.mediawiki.org/wiki/Wikimedia_Research/Design_Research/Research_Participant_Program/id di sini].",
 	"research-incentive-confirm-msg": "Terima kasih!",
 	"ipinfo-global-contributions-url-label": "Kontribusi global",
+	"checkuser-group-requirements-temporary-account-viewer": "Pengguna tidak memenuhi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users kriteria akses]",
 	"protect-level-edit-legal": "Izinkan hanya pengguna yang dapat menyunting halaman terkait hukum",
 	"restriction-level-edit-legal": "dilindungi untuk alasan hukum",
 	"wikimedia-foundation-projects-label": "proyek Wikimedia Foundation",
@@ -471,7 +473,7 @@
 	"wikimedia-foundation-news-label": "Berita Wikimedia Foundation",
 	"wikimedia-movement-blog-label": "Blog Gerakan",
 	"wikimedia-movement-calendar-label": "Kalender Gerakan",
-	"wikimedia-help-translate-prompt": "Ingin membantu menerjemahkan? [$1 Terjemahkan pesan yang belum ada].",
+	"wikimedia-help-translate-prompt": "Ingin bantu terjemahkan? [$1 Terjemahkanlah pesan yang belum ada].",
 	"wikimedia-foundation-memory-bank-label": "Bank Memori Wikimedia Foundation",
 	"wikimedia-foundation-memory-bank-shortlabel": "Bank Memori",
 	"wikimedia-foundation-logo-label": "Logo Wikimedia Foundation",

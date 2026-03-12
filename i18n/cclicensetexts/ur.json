@@ -10,6 +10,8 @@
 	},
 	"wm-license-cc-attribution": "لگاؤ",
 	"wm-license-cc-by-sa-3.0-text": "اس ملف کا لائسنس [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] کے تحط ہے۔",
+	"wm-license-cc-zero-text": "یہ فائل [[{{int:wm-license-cc-wiki-link}}|کریئیٹیو کامنز]] [[ccorg:publicdomain/zero/1.0/deed.en|سی سی 0 کے 1.0 عالمی دائرہ عام (Universal Public Domain Dedication)]] کے تحت دستیاب ہے۔",
+	"wm-license-cc-zero-explanation": "جس شخص نے اس کام کو اس دستاویز کے ساتھ منسلک کیا ہے، اس نے قانونِ حقِ اشاعت کے تحت عالمی سطح پر اپنے تمام تر حقوق، بشمول تمام متعلقہ اور ہمسایہ حقوق سے قانون کی اجازت یافتہ حد تک دست بردار ہو کر اس تخلیق کو [[{{int:wm-license-pd-wiki-link}}|دائرہ عام]] کے تحت وقف کر دیا ہے۔ آپ اس کام کو بلا اجازت نقل کرنے، اس میں ترمیم کرنے، اسے تقسیم کرنے اور پیش کرنے کے مجاز ہیں، حتیٰ کہ تجارتی مقاصد کے لیے بھی استعمال کر سکتے ہیں۔",
 	"wm-license-cc-free": "آپ آزاد ہیں:",
 	"wm-license-cc-free-to-share-header": "شیئر کرنے",
 	"wm-license-cc-free-to-share-text": "کام کو نقل، تقسیم یا منتقل کرنے کے لیے",
