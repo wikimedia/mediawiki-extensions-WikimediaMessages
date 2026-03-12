@@ -242,6 +242,8 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-onderzoeker}}",
 	"group-wmf-supportsafety": "WMF Vertrouwen en Veiligheid",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF Vertrouwen en Veiligheid}}",
+	"mulwikisource-sidebar-news": "Nieuws",
+	"mulwikisource-sidebar-random-book": "Willekeurig boek",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Gebruikt door het globale misbruikfilter 110.",
 	"tag-AWB": "AutoWikiBrowser",
@@ -579,5 +581,7 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Geneeskunde en gezondheid",
 	"wikimedia-articletopics-topic-physics": "Natuurkunde",
 	"wikimedia-articletopics-topic-technology": "Technologie",
-	"wikimedia-namespaceinfo-description-ns470": "Naamruimte voor schema's die door Legacy EventLogging werden gebruikt om analysegebeurtenissen te valideren. Alle pagina's in de naamruimte Schema zijn leeggemaakt als onderdeel van [[phab:T238230|het buiten gebruik stellen van Legacy EventLogging]]."
+	"wikimedia-namespaceinfo-description-ns470": "Naamruimte voor schema's die door Legacy EventLogging werden gebruikt om analysegebeurtenissen te valideren. Alle pagina's in de naamruimte Schema zijn leeggemaakt als onderdeel van [[phab:T238230|het buiten gebruik stellen van Legacy EventLogging]].",
+	"wikimedia-2fa-notification-action": "Tweetrapsauthenticatie instellen",
+	"wikimedia-2fa-notification-info": "Meer informatie"
 }
