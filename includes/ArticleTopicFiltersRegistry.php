@@ -289,6 +289,7 @@ class ArticleTopicFiltersRegistry {
 	 * @phan-return list<array{groupId:string,msgKey:string,topics:list<array{topicId:string,msgKey:string,articleTopics:list<string>}>}>
 	 */
 	public static function getGroupedTopics(): array {
+		// @phan-suppress-next-line PhanTypeMismatchReturn phan-return list vs. array mismatch
 		return self::FILTERS;
 	}
 
