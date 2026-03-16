@@ -94,5 +94,13 @@
 	"wikimedia-userrights-restricted-group-wikidata-staff": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le membros del personal de Wikidata",
 	"wikimedia-userrights-restricted-group-wikifunctions-staff": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le membros del personal de Wikifunctiones",
 	"wikimedia-userrights-restricted-group-wmf-officeit": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le personal informatic del Officio WMF",
-	"wikimedia-userrights-restricted-group-wmf-supportsafety": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le personal de Confidentia & Securitate del WMF"
+	"wikimedia-userrights-restricted-group-wmf-supportsafety": "Le usator non ha activate le authentication bifactorial, que es obligatori pro le personal de Confidentia & Securitate del WMF",
+	"wikimedia-userrights-restricted-group-centralnoticeadmin-private-conditions": "Le administratores de CentralNotice [[m:Special:MyLanguage/Meta:Central notice administrators|debe haber activate le authentication bifactorial]]. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Le verificatores de usatores [[m:Special:MyLanguage/CheckUser policy|debe haber activate le authentication bifactorial]]. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Le administratores del interfacie [[m:Special:MyLanguage/Interface administrators|debe haber activate le authentication bifactorial]]. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-suppress-private-conditions": "Le supervisores [[m:Special:MyLanguage/Oversight policy|debe haber activate le authentication bifactorial]]. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-wikidata-staff-private-conditions": "Le membros del personal de Wikidata debe haber activate le authentication bifactorial. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-wikifunctions-staff-private-conditions": "Le membros del personal de Wikifunctiones debe haber activate le authentication bifactorial. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-wmf-officeit-private-conditions": "Le personal WMF Office IT debe haber activate le authentication bifactorial. Isto essera verificate al momento de submission del formulario.",
+	"wikimedia-userrights-restricted-group-wmf-supportsafety-private-conditions": "Le personal WMF Trust & Safety debe haber activate le authentication bifactorial. Isto essera verificate al momento de submission del formulario."
 }

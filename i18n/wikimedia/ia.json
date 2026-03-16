@@ -212,6 +212,9 @@
 	"group-wmf-researcher-member": "Recercat{{GENDER:$1|or|rice}} del WMF",
 	"group-wmf-supportsafety": "Confidentia e securitate WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Confidentia e securitate WMF}}",
+	"mulwikisource-sidebar-scriptorium": "Scriptorio",
+	"mulwikisource-sidebar-news": "Novas",
+	"mulwikisource-sidebar-random-book": "Libro aleatori",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Usate per le filtro anti-abuso global 110.",
 	"tag-AWB-description": "Modificationes facite con [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
@@ -518,5 +521,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Medicina e sanitate",
 	"wikimedia-articletopics-topic-physics": "Physica",
 	"wikimedia-articletopics-topic-technology": "Technologia",
-	"wikimedia-namespaceinfo-description-ns470": "Spatio de nomines pro schemas que esseva usate per Legacy EventLogging pro validar eventos de analyse. Tote le paginas in le spatio de nomines Schema ha essite vacuate como parte del [[phab:T238230|retiro de Legacy EventLogging]]."
+	"wikimedia-namespaceinfo-description-ns470": "Spatio de nomines pro schemas que esseva usate per Legacy EventLogging pro validar eventos de analyse. Tote le paginas in le spatio de nomines Schema ha essite vacuate como parte del [[phab:T238230|retiro de Legacy EventLogging]].",
+	"wikimedia-2fa-echo-category-title": "Le authentication bifactorial non es activate in tu conto",
+	"wikimedia-2fa-notification-header": "Per favor configura ora le authentication bifactorial",
+	"wikimedia-2fa-notification-body": "Face lo ante $1 o tu perdera alcunes de tu gruppos de usatores.",
+	"wikimedia-2fa-notification-action": "Configurar authentication bifactorial",
+	"wikimedia-2fa-notification-info": "Plus information"
 }
