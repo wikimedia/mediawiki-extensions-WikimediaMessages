@@ -40,7 +40,8 @@
 			"Samoasambia",
 			"Leo",
 			"Gadir",
-			"Wooze"
+			"Wooze",
+			"Sandiooses"
 		]
 	},
 	"wikimediamessages-desc": "Wikimedia'ya özgü iletiler",
@@ -367,6 +368,6 @@
 	"wikimedia-movement-affiliates-shortlabel": "Hareket bağlıları",
 	"wikimedia-help-translate-prompt": "Çeviriye yardım etmek ister misiniz? [$1 Eksik mesajları çevirin].",
 	"wikimedia-nutshell-page-intro": "Kısaca bu sayfa: $1",
-	"wikimedia-translation-disclaimer-nolink": "Bu sayfanın orijinal İngilizce versiyonu ile bu çevirisi arasında herhangi bir anlam veya yorum farklılığı olması durumunda, orijinal İngilizce versiyonun öncelikli olduğunu lütfen unutmayın.",
-	"wikimedia-translation-disclaimer-withlink": "Bu sayfanın orijinal İngilizce versiyonu ile bu çevirisi arasında herhangi bir anlam veya yorum farklılığı olması durumunda, [[$1|orijinal İngilizce versiyonun]] öncelikli olduğunu lütfen unutmayın."
+	"wikimedia-translation-disclaimer-nolink": "İşbu içeriğin İngilizce asıl metni ile herhangi bir tercümesi arasında anlam veya yorumlama açısından çelişki bulunması durumunda İngilizce metin öncelik teşkil edecektir.",
+	"wikimedia-translation-disclaimer-withlink": "İşbu içeriğin [[$1|İngilizce asıl metni]] ile herhangi bir tercümesi arasında anlam veya yorumlama açısından çelişki bulunması durumunda İngilizce metin öncelik teşkil edecektir."
 }

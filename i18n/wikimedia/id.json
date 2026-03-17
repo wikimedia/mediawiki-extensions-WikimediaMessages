@@ -31,7 +31,8 @@
 			"Biyanto",
 			"Samoasambia",
 			"Hidayatsrf",
-			"Penyuwangi"
+			"Penyuwangi",
+			"Bayahiu"
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan khusus Wikimedia",
@@ -434,9 +435,9 @@
 	"wikimedia-foundation-news-label": "Berita Wikimedia Foundation",
 	"wikimedia-movement-blog-label": "Blog Gerakan",
 	"wikimedia-movement-calendar-label": "Kalender Gerakan",
-	"wikimedia-help-translate-prompt": "Ingin membantu menerjemahkan? [$1 Terjemahkan pesan yang belum ada].",
-	"wikimedia-foundation-memory-bank-label": "Bank Memori Wikimedia Foundation",
-	"wikimedia-foundation-memory-bank-shortlabel": "Bank Memori",
+	"wikimedia-help-translate-prompt": "Ingin bantu terjemahkan? [$1 Terjemahkanlah pesan yang belum ada].",
+	"wikimedia-foundation-memory-bank-label": "Bank Kenangan Yayasan Wikimedia",
+	"wikimedia-foundation-memory-bank-shortlabel": "Bank Kenangan",
 	"wikimedia-foundation-logo-label": "Logo Wikimedia Foundation",
 	"wikimedia-foundation-mark-label": "Tanda Wikimedia Foundation",
 	"wikimedia-foundation-department-shortname-advancement": "Pemajuan",

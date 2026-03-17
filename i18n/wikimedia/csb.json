@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Kaszeba",
-			"Kirsan"
+			"Kirsan",
+			"Orbitminis"
 		]
 	},
 	"sitesupport": "Wspòmòżenié",
@@ -17,5 +18,6 @@
 	"wikibase-otherprojects-wikidata": "Wikipòdôwczi",
 	"wikibase-sitelinks-sitename-wikidatawiki": "Wikipòdôwczi",
 	"wikimedia-developers": "Rozwijarze",
+	"wikimedia-statslink": "Statisticzi",
 	"wikimedia-cookiestatement": "Ò kùszkach"
 }
