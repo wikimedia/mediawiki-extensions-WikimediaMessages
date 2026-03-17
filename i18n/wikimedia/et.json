@@ -11,6 +11,7 @@
 			"Oop",
 			"Pikne",
 			"Platonides",
+			"Rivoz",
 			"Samoasambia",
 			"Varnent",
 			"WikedKentaur"
@@ -160,6 +161,8 @@
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT loaagent}}",
 	"group-wmf-researcher": "WMF-i analüütikud",
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF-i analüütik}}",
+	"mulwikisource-sidebar-news": "Uudised",
+	"mulwikisource-sidebar-random-book": "Juhuslik raamat",
 	"tag-emoji": "Emodži",
 	"tag-emoji-description": "Kasutusel globaalses väärtarvitusfiltris 110.",
 	"tag-AWB": "AWB",
