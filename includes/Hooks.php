@@ -143,6 +143,8 @@ class Hooks implements
 			'checkuser-global-contributions-no-results-no-permissions',
 			// T362548
 			'checkuser-investigateblock-warning-ips-and-users-in-targets',
+			// T420537
+			'checkuser-suggestedinvestigations-summary',
 			'createacct-helpusername',
 			'createacct-imgcaptcha-help',
 			// T139797
