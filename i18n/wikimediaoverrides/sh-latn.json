@@ -19,7 +19,7 @@
 	"wikimedia-interfaceadmin-info": "Uređivanje općemrežnih datoteka CSS/JS/JSON ograničeno je na pripadnike skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
 	"wikimedia-sitematrix": "Spisak Wikimedijinih wikija",
 	"wikimedia-sitematrix-others": "Ostali Wikimedijini projekti",
-	"wikimedia-sitematrix-summary": "Ova posebna stranica prikazuje popis svih Wikimedijinih wikija.",
+	"wikimedia-sitematrix-summary": "Ova posebna stranica prikazuje listu svih Wikimedijinih projekata.",
 	"wikimedia-urlshortener-disabled": "Kratke veze možete napraviti samo pomoću obrasca [[:m:Special:UrlShortener|Special:UrlShortener]] na sajtu meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-disabled": "Kratke veze možete napraviti samo pozivom na sajt meta.wikimedia.org.",
 	"wikimedia-urlshortener-badaccessgroups": "Kratke veze možete napraviti samo pomoću obrasca [[:m:Special:UrlShortener|Special:UrlShortener]] na sajtu meta.wikimedia.org.",

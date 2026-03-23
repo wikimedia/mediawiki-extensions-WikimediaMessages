@@ -100,5 +100,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "إذا كان هذا الموقع مفيدًا لك، فيرجى التبرع به اليوم.",
 	"wikimedia-emailauth-accountrecovery-intro": "استعادة حساب ويكيميديا الخاص بك",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "البريد الإلكتروني المسجل بحساب ويكيميديا الخاص بك",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "لديك صلاحيات على {{SITENAME}} تتطلب المصادقة الثنائية.\n\n<strong>قد تفقد هذه الصلاحيات، وقد تحتاج إلى طلبها يدويًا مرة أخرى.</strong>\n\nنصيحة: أضف طريقة جديدة قبل إزالة هذه الطريقة."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "لديك صلاحيات على {{SITENAME}} تتطلب المصادقة الثنائية.\n\n<strong>قد تفقد هذه الصلاحيات، وقد تحتاج إلى طلبها يدويًا مرة أخرى.</strong>\n\nنصيحة: أضف طريقة جديدة قبل إزالة هذه الطريقة.",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "يجب على إداريي الواجهة [[m:Special:MyLanguage/Interface administrators|تفعيل خاصية التحقق ذو العاملين]]، وسيتم التحقق من ذلك عند إرسال النموذج."
 }
