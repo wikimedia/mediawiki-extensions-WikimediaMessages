@@ -180,7 +180,7 @@
 	"group-global-rollbacker-member": "{{GENDER:$1|qlobal rolbaker}}",
 	"group-global-sysop": "Qlobal inzibatçılar",
 	"group-global-sysop-member": "{{GENDER:$1|qlobal inzibatçı}}",
-	"group-massmessage-sender": "Kütləvi mesaj göndərənlər",
+	"group-massmessage-sender": "Kütləvi mesaj göndəricilər",
 	"group-massmessage-sender-member": "{{GENDER:$1|kütləvi mesaj göndərən}}",
 	"grouppage-massmessage-sender": "{{ns:project}}:Kütləvi mesaj göndərənlər",
 	"group-new-wikis-importer": "Yeni viki idxalçıları",
