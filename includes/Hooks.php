@@ -1959,6 +1959,8 @@ class Hooks implements
 				'text' => $context->msg( 'sitesupport' )->text(),
 				'href' => $context->msg( 'sitesupport-url' )->text(),
 				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
+				'icon' => 'heart',
+				'class' => 'donate-button-heart'
 			] ];
 			// Ensure donate link goes before other links
 			if ( array_key_exists( 'user-menu', $links ) ) {

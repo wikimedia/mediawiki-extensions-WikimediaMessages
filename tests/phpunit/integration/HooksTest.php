@@ -96,11 +96,11 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		RequestContext::getMain()->setUser( $user );
 
 		$skin = $this->getServiceContainer()->getSkinFactory()->makeSkin( 'vector-2022' );
-		$links = [];
+		$links = [ 'user-menu' => [] ];
 
 		$hooks->onSkinTemplateNavigation__Universal( $skin, $links );
 
-		$this->assertSame( [], $links );
+		$this->assertSame( [ 'user-menu' => [] ], $links );
 	}
 
 	/**
@@ -129,6 +129,10 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->assertSame( $donateLink['href'], RequestContext::getMain()->msg( 'sitesupport-url' )->text() );
 		$this->assertArrayHasKey( 'title', $donateLink );
 		$this->assertSame( $donateLink['title'], RequestContext::getMain()->msg( 'tooltip-n-sitesupport' )->text() );
+		$this->assertArrayHasKey( 'icon', $donateLink );
+		$this->assertSame( 'heart', $donateLink['icon'] );
+		$this->assertArrayHasKey( 'class', $donateLink );
+		$this->assertSame( 'donate-button-heart', $donateLink['class'] );
 	}
 
 	/**
