@@ -129,7 +129,7 @@
 	"group-rollbacker-member": "{{GENDER:$1|revertér|revertérka|revertér}}",
 	"grouppage-rollbacker": "{{ns:project}}:Revertéři",
 	"group-scrutineer": "Skrutátoři",
-	"group-scrutineer-member": "{{GENDER:$1|Skrutátor|Skrutátorka}}",
+	"group-scrutineer-member": "{{GENDER:$1|skrutátor|skrutátorka}}",
 	"grouppage-scrutineer": "{{ns:project}}:Skrutátoři",
 	"group-transwiki": "Transwiki importéři",
 	"group-transwiki-member": "transwiki {{GENDER:$1|importér|importérka|importér}}",
