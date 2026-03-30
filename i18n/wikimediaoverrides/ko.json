@@ -20,6 +20,7 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "현재 사용하고 있는 IP 주소로 이 위키에 방문한 사람이 $2 동안 {{PLURAL:$1|1개의 계정}}을 만들어, 지정된 시간 동안 허용되어 있는 계정 생성 제한을 초과하였습니다. 따라서, 이 IP 주소를 이용하고 계시는 방문자들은 현재 더 이상의 계정을 만드실 수 없습니다.\n\n혹시 위키미디어 프로젝트에 기여하기 위한 모임 등에 참여하고 계시다면, 문제를 해결하기 위해 [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|일시적 계정생성 제한 해제요청 페이지]]를 참고해 주시기 바랍니다.",
+	"wikimedia-acct_creation_throttle_hit-temp": "현재 위치에서는 로그아웃 상태의 편집이 일시적으로 제한됩니다. 편집하려면 [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} 계정을 생성]하거나 나중에 다시 시도해 주세요.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(고르는 방법 보기)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|기여하신 다른 위키미디어 프로젝트]]의 환경 설정 문서를 방문하여 해당 프로젝트의 계정 데이터를 다운로드할 수 있습니다.",
 	"wikimedia-createacct-imgcaptcha-help": "그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]",
