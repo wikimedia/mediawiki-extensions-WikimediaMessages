@@ -835,6 +835,7 @@ class Hooks implements
 		$wgGrammarForms['cs'] = [
 			// only forms different than default/given
 			'1sg' => [
+				'Abstract Wikipedia' => 'Abstraktní Wikipedie',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikifunctions' => 'Wikifunkce',
 				'Wikinews'    => 'Wikizprávy',
@@ -848,6 +849,7 @@ class Hooks implements
 			],
 			'2sg' => [
 				'uživatel'    => 'uživatele',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedie',
 				'Wikibooks'   => 'Wikiknih',
 				'Wikidata'    => 'Wikidat',
 				'Wikifunctions' => 'Wikifunkcí',
@@ -871,6 +873,7 @@ class Hooks implements
 			],
 			'3sg' => [
 				'uživatel'    => 'uživateli',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedii',
 				'Wikibooks'   => 'Wikiknihám',
 				'Wikidata'    => 'Wikidatům',
 				'Wikifunctions' => 'Wikifunkcím',
@@ -882,6 +885,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitě',
 				'Wikivoyage'  => 'Wikicestám',
 				'Wiktionary'  => 'Wikislovníku',
+				'Abstraktní Wikipedie' => 'Abstraktní Wikipedii',
 				'Wikicesty'   => 'Wikicestám',
 				'Wikicitáty'  => 'Wikicitátům',
 				'Wikidruhy'   => 'Wikidruhům',
@@ -895,6 +899,7 @@ class Hooks implements
 			],
 			'4sg' => [
 				'uživatel'    => 'uživatele',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedii',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikifunctions' => 'Wikifunkce',
 				'Wikinews'    => 'Wikizprávy',
@@ -905,11 +910,13 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitu',
 				'Wikivoyage'  => 'Wikicesty',
 				'Wiktionary'  => 'Wikislovník',
+				'Abstraktní Wikipedie' => 'Abstraktní Wikipedii',
 				'Wikipedie'   => 'Wikipedii',
 				'Wikiverzita' => 'Wikiverzitu',
 			],
 			'5sg' => [
 				'uživatel'    => 'uživateli',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedie',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikifunctions' => 'Wikifunkce',
 				'Wikinews'    => 'Wikizprávy',
@@ -925,6 +932,7 @@ class Hooks implements
 			],
 			'6sg' => [
 				'uživatel'    => 'uživateli',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedii',
 				'Wikibooks'   => 'Wikiknihách',
 				'Wikidata'    => 'Wikidatech',
 				'Wikifunctions' => 'Wikifunkcích',
@@ -936,6 +944,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitě',
 				'Wikivoyage'  => 'Wikicestách',
 				'Wiktionary'  => 'Wikislovníku',
+				'Abstraktní Wikipedie' => 'Abstraktní Wikipedii',
 				'Wikicesty'   => 'Wikicestách',
 				'Wikicitáty'  => 'Wikicitátech',
 				'Wikidruhy'   => 'Wikidruzích',
@@ -949,6 +958,7 @@ class Hooks implements
 			],
 			'7sg' => [
 				'uživatel'    => 'uživatelem',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedií',
 				'Wikibooks'   => 'Wikiknihami',
 				'Wikidata'    => 'Wikidaty',
 				'Wikifunctions' => 'Wikifunkcemi',
@@ -960,6 +970,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitou',
 				'Wikivoyage'  => 'Wikicestami',
 				'Wiktionary'  => 'Wikislovníkem',
+				'Abstraktní Wikipedie' => 'Abstraktní Wikipedií',
 				'Wikicesty'   => 'Wikicestami',
 				'Wikifunkce'  => 'Wikifunkcemi',
 				'Wikiknihy'   => 'Wikiknihami',
@@ -971,6 +982,7 @@ class Hooks implements
 			],
 			'1pl' => [
 				'uživatel'    => 'uživatelé',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedie',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikifunctions' => 'Wikifunkce',
 				'Wikinews'    => 'Wikizprávy',
@@ -986,6 +998,7 @@ class Hooks implements
 			],
 			'2pl' => [
 				'uživatel'    => 'uživatelů',
+				'Abstract Wikipedia' => 'Abstraktních Wikipedií',
 				'Wikibooks'   => 'Wikiknih',
 				'Wikidata'    => 'Wikidat',
 				'Wikifunctions' => 'Wikifunkcí',
@@ -997,6 +1010,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzit',
 				'Wikivoyage'  => 'Wikicest',
 				'Wiktionary'  => 'Wikislovníků',
+				'Abstraktní Wikipedie' => 'Abstraktních Wikipedií',
 				'Wikicesty'   => 'Wikicest',
 				'Wikicitáty'  => 'Wikicitátů',
 				'Wikidruhy'   => 'Wikidruhů',
@@ -1010,6 +1024,7 @@ class Hooks implements
 			],
 			'3pl' => [
 				'uživatel'    => 'uživatelům',
+				'Abstract Wikipedia' => 'Abstraktním Wikipediím',
 				'Wikibooks'   => 'Wikiknihám',
 				'Wikidata'    => 'Wikidatům',
 				'Wikifunctions' => 'Wikifunkcím',
@@ -1021,6 +1036,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitám',
 				'Wikivoyage'  => 'Wikicestám',
 				'Wiktionary'  => 'Wikislovníkům',
+				'Abstraktní Wikipedie' => 'Abstraktním Wikipediím',
 				'Wikicesty'   => 'Wikicestám',
 				'Wikicitáty'  => 'Wikicitátům',
 				'Wikidruhy'   => 'Wikidruhům',
@@ -1034,6 +1050,7 @@ class Hooks implements
 			],
 			'4pl' => [
 				'uživatel'    => 'uživatele',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedie',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikifunctions' => 'Wikifunkce',
 				'Wikinews'    => 'Wikizprávy',
@@ -1049,6 +1066,7 @@ class Hooks implements
 			],
 			'5pl' => [
 				'uživatel'    => 'uživatelé',
+				'Abstract Wikipedia' => 'Abstraktní Wikipedie',
 				'Wikibooks'   => 'Wikiknihy',
 				'Wikifunctions' => 'Wikifunkce',
 				'Wikinews'    => 'Wikizprávy',
@@ -1064,6 +1082,7 @@ class Hooks implements
 			],
 			'6pl' => [
 				'uživatel'    => 'uživatelích',
+				'Abstract Wikipedia' => 'Abstraktních Wikipediích',
 				'Wikibooks'   => 'Wikiknihách',
 				'Wikidata'    => 'Wikidatech',
 				'Wikifunctions' => 'Wikifunkcích',
@@ -1075,6 +1094,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitách',
 				'Wikivoyage'  => 'Wikicestách',
 				'Wiktionary'  => 'Wikislovnících',
+				'Abstraktní Wikipedie' => 'Abstraktních Wikipediích',
 				'Wikicesty'   => 'Wikicestách',
 				'Wikicitáty'  => 'Wikicitátech',
 				'Wikidruhy'   => 'Wikidruzích',
@@ -1088,6 +1108,7 @@ class Hooks implements
 			],
 			'7pl' => [
 				'uživatel'    => 'uživateli',
+				'Abstract Wikipedia' => 'Abstraktními Wikipediemi',
 				'Wikibooks'   => 'Wikiknihami',
 				'Wikidata'    => 'Wikidaty',
 				'Wikifunctions' => 'Wikifunkcemi',
@@ -1099,6 +1120,7 @@ class Hooks implements
 				'Wikiversity' => 'Wikiverzitami',
 				'Wikivoyage'  => 'Wikicestami',
 				'Wiktionary'  => 'Wikislovníky',
+				'Abstraktní Wikipedie' => 'Abstraktními Wikipediemi',
 				'Wikicesty'   => 'Wikicestami',
 				'Wikifunkce'  => 'Wikifunkcemi',
 				'Wikiknihy'   => 'Wikiknihami',
