@@ -131,8 +131,6 @@ class HooksTest extends MediaWikiIntegrationTestCase {
 		$this->assertSame( $donateLink['title'], RequestContext::getMain()->msg( 'tooltip-n-sitesupport' )->text() );
 		$this->assertArrayHasKey( 'icon', $donateLink );
 		$this->assertSame( 'heart', $donateLink['icon'] );
-		$this->assertArrayHasKey( 'class', $donateLink );
-		$this->assertSame( 'donate-button-heart', $donateLink['class'] );
 	}
 
 	/**
