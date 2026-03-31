@@ -16,7 +16,7 @@
 	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nBlokiranje je obavio korisnik $1.\nNaveden je sljedeći razlog: ''$2''.\n\n* Početak blokade: $8\n* Kraj blokade: $6\n\nVaša trenutna IP adresa je $3.\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nBlokiranje je obavio korisnik $1.\nNaveden je sljedeći razlog: ''$2''.\n\n* Početak blokade: $8\n* Kraj blokade: $6\n\n{{int:wikimedia-globalblocking-blockedtext-proxy|$7}}\n{{int:wikimedia-globalblocking-blockedtext-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-interfaceadmin-info": "Uređivanje općemrežnih datoteka CSS/JS/JSON ograničeno je na pripadnike skupine [[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]].",
-	"wikimedia-sitematrix": "Spisak Wikimedijinih wikija",
+	"wikimedia-sitematrix": "Lista Wikimedijinih projekata",
 	"wikimedia-sitematrix-others": "Ostali Wikimedijini projekti",
 	"wikimedia-sitematrix-summary": "Ova posebna stranica prikazuje listu svih Wikimedijinih projekata.",
 	"wikimedia-urlshortener-disabled": "Kratke veze možete napraviti samo pomoću obrasca [[:m:Special:UrlShortener|Special:UrlShortener]] na sajtu meta.wikimedia.org.",

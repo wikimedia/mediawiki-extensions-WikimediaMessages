@@ -237,6 +237,7 @@
 	"upload-form-label-not-own-work-message-commons": "Ако не поседујете ауторска права за ову датотеку или је желите објавити под другом лиценцом, размотрите коришћење [https://commons.wikimedia.org/wiki/Special:UploadWizard Водича за отпремање на Оставу].",
 	"upload-form-label-not-own-work-local-commons": "Зажелећете и да испробате [[Special:Upload|страницу за отпремање датотека на пројекту]], ако правила дозвољавају отпремање ове датотеке.",
 	"interlanguage-link-mul": "Више језика",
+	"interlanguage-link-sitename-mul": "Вишејезични {{SITENAME}}",
 	"interlanguage-link-wikipedia": "Википедија",
 	"interlanguage-link-sitename-wikipedia": "Википедија, слободна енциклопедија",
 	"interlanguage-link-commons": "Остава",
