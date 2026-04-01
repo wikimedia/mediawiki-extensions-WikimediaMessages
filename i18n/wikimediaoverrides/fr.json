@@ -106,5 +106,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipédia vous est utile, pensez à donner aujourd'hui.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si ce site vous a été utile, vous pouvez faire un don aujourd'hui.",
 	"wikimedia-emailauth-accountrecovery-intro": "Récupérez votre compte Wikimedia",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse électronique associée à votre compte Wikimedia"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse électronique associée à votre compte Wikimedia",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Les administrateurs d'interface [[m:Special:MyLanguage/Interface administrators|doivent avoir activé l'authentification à deux facteurs]], qui sera vérifiée lors de la soumission du formulaire."
 }

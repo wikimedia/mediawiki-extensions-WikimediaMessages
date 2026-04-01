@@ -86,6 +86,8 @@
 	"group-ipblock-exempt": "IP-aadressi blokeerimise erandid",
 	"group-ipblock-exempt-member": "IP-aadressi blokeerimise erand",
 	"grouppage-ipblock-exempt": "{{ns:project}}:IP-aadressi blokeerimise erandid",
+	"group-local-bot": "Kohalikud robotid",
+	"group-local-bot-member": "{{GENDER:$1|kohalik robot}}",
 	"group-patroller": "Kontrollijad",
 	"group-patroller-member": "{{GENDER:$1|kontrollija}}",
 	"grouppage-patroller": "{{ns:project}}:Kontrollijad",
