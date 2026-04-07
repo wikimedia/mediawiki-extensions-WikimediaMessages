@@ -27,7 +27,8 @@
 			"Varnent",
 			"Vlad5250",
 			"Zoranzoki21",
-			"Samoasambia"
+			"Samoasambia",
+			"NAramayo-WMF"
 		]
 	},
 	"wikimediamessages-desc": "Posebne poruke Wikimedije",
@@ -298,5 +299,7 @@
 	"wikimedia-foundation-projects-label": "Projekti Zaklade Wikimedija",
 	"wikimedia-projects-label": "Wikimedijini projekti",
 	"wikimedia-help-translate-prompt": "Želite li pomoći s prevođenjem? [$1 Prevedite poruke koje nemaju prijevod].",
-	"wikimedia-nutshell-page-intro": "Ova stranica u najkraćim crtama: $1"
+	"wikimedia-nutshell-page-intro": "Ova stranica u najkraćim crtama: $1",
+	"wikimedia-translation-disclaimer-nolink": "Imajte na umu da u slučaju bilo kakvih razlika u značenju ili tumačenju između izvorne engleske inačice ovog sadržaja i prijevoda, prednost ima izvorna engleska inačica.",
+	"wikimedia-translation-disclaimer-withlink": "Imajte na umu da u slučaju bilo kakvih razlika u značenju ili tumačenju između [[$1|izvorne engleske inačice]] ovog sadržaja i prijevoda, prednost ima izvorna engleska inačica."
 }

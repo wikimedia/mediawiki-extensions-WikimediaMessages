@@ -45,7 +45,8 @@
 			"Albertoleoncio",
 			"Jdforrester",
 			"RogueScholar",
-			"Sandiooses"
+			"Sandiooses",
+			"MrNinja"
 		]
 	},
 	"wikimediamessages-desc": "Mensagens específicas da Wikimedia",
@@ -73,7 +74,7 @@
 	"group-abusefilter-helper-member": "{{GENDER:$1|auxiliar de filtros de abusos}}",
 	"group-abusefilter-maintainer": "Administradores de filtros de abusos",
 	"group-abusefilter-maintainer-member": "{{GENDER:$1|administrador|administradora}} de filtros de abusos",
-	"group-accountcreator": "Criadores de conta",
+	"group-accountcreator": "Criadores de contas",
 	"group-accountcreator-member": "{{GENDER:$1|criador de conta}}",
 	"grouppage-accountcreator": "{{ns:project}}:Criadores de conta",
 	"group-arbcom": "Membros da comissão de arbitragem",
