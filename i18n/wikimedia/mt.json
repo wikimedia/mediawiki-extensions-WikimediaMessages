@@ -8,7 +8,8 @@
 			"Matma Rex",
 			"Nemo bis",
 			"ToniSant",
-			"Varnent"
+			"Varnent",
+			"NAramayo-WMF"
 		]
 	},
 	"wikimediamessages-desc": "Messaġġi speċifiki tal-Wikimedia",
@@ -99,5 +100,7 @@
 	"wikimedia-developers": "Żviluppaturi",
 	"interlanguage-link-mul": "Aktar lingwi",
 	"wikimedia-statslink": "Statistika",
-	"wikimedia-cookiestatement": "Stqarrija dwar il-cookies"
+	"wikimedia-cookiestatement": "Stqarrija dwar il-cookies",
+	"wikimedia-translation-disclaimer-nolink": "Jekk jogħġbok kun af li jekk ikun hemm xi differenzi fit-tifsira jew interpretazzjoni bejn il-verżjoni oriġinali Ingliża ta’ dan il-kontenut u t-traduzzjoni, il-verżjoni oriġinali Ingliża tieħu preċedenza.",
+	"wikimedia-translation-disclaimer-withlink": "Jekk jogħġbok kun af li jekk ikun hemm xi differenzi fit-tifsira jew interpretazzjoni bejn il-verżjoni oriġinali Ingliża ta’ dan il-kontenut u t-traduzzjoni, il-[[$1|verżjoni oriġinali Ingliża]] tieħu preċedenza."
 }

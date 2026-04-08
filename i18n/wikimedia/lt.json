@@ -17,7 +17,8 @@
 			"Vogone",
 			"Vpovilaitis",
 			"Zygimantus",
-			"Matma Rex"
+			"Matma Rex",
+			"NAramayo-WMF"
 		]
 	},
 	"wikimediamessages-desc": "Vikimedijos specialieji pranešimai",
@@ -167,6 +168,8 @@
 	"ext-quicksurveys-name": "Greitos apklausos",
 	"wikimedia-projects-label": "Vikimedijos projektai",
 	"wikimedia-help-translate-prompt": "Nori padėti išversti? [$1 Išversk trūkstamas žinutes].",
+	"wikimedia-translation-disclaimer-nolink": "Jei šio turinio originalios versijos anglų kalba ir vertimo prasmė ar aiškinimas skiriasi, pirmenybė teikiama originaliai versijai anglų kalba.",
+	"wikimedia-translation-disclaimer-withlink": "Jei šio turinio [[$1| originalios versijos anglų kalba]] ir vertimo prasmė ar aiškinimas skiriasi, pirmenybė teikiama originaliai versijai anglų kalba.",
 	"wikimedia-articletopics-group-geography": "Regionai",
 	"wikimedia-articletopics-group-culture": "Kultūra",
 	"wikimedia-articletopics-topic-africa": "Afrika",
