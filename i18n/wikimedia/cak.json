@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"CeciMagi",
 			"Chocoj"
 		]
 	},
 	"sitesupport": "Tasipaj",
 	"tooltip-n-sitesupport": "Kojato'",
-	"wikimedia-developers": "B'anonela'"
+	"wikimedia-developers": "B'anonela'",
+	"wikimedia-statslink": "Retamab'alil tzij",
+	"wikimedia-cookiestatement": "rutzijol ri taq cookies"
 }
