@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Flynn",
 			"Kw-Moon",
 			"Malafaya",
 			"MinecraftAustralia",
@@ -20,5 +21,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-captcha-help-url": "{{ns:Project}}:Govyn akont",
-	"wikimedia-developers": "Displegyoryon"
+	"wikimedia-developers": "Displegyoryon",
+	"wikimedia-statslink": "Statystygyon",
+	"wikimedia-cookiestatement": "Menegyans cookie"
 }
