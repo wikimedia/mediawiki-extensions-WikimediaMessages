@@ -261,6 +261,9 @@
 	"group-wmf-researcher-member": "باحث{{GENDER:$1||ة}} لمؤسسة ويكيميديا",
 	"group-wmf-supportsafety": "الثقة والسلامة في مؤسسة ويكيميديا",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|الثقة والسلامة في مؤسسة ويكيميديا}}",
+	"mulwikisource-sidebar-scriptorium": "غرفة الكتابة",
+	"mulwikisource-sidebar-news": "أخبار",
+	"mulwikisource-sidebar-random-book": "كتاب عشوائي",
 	"tag-emoji": "إيموجي",
 	"tag-emoji-description": "مستخدم من قبل مرشح الإساءة العالمي 110.",
 	"tag-AWB": "أوتوويكي براوزر",
@@ -598,5 +601,10 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "طب وصحة",
 	"wikimedia-articletopics-topic-physics": "فيزياء",
 	"wikimedia-articletopics-topic-technology": "تقانة",
-	"wikimedia-namespaceinfo-description-ns470": "مساحة اسم المخططات التي استخدمها تسجيل الأحداث القديم للتحقق من صحة أحداث التحليلات. تم إفراغ جميع الصفحات في مساحة اسم المخطط كجزء من [[phab:T238230|إلغاء تسجيل الأحداث القديم]]."
+	"wikimedia-namespaceinfo-description-ns470": "مساحة اسم المخططات التي استخدمها تسجيل الأحداث القديم للتحقق من صحة أحداث التحليلات. تم إفراغ جميع الصفحات في مساحة اسم المخطط كجزء من [[phab:T238230|إلغاء تسجيل الأحداث القديم]].",
+	"wikimedia-2fa-echo-category-title": "لم يتم تفعيل المصادقة الثنائية على حسابك",
+	"wikimedia-2fa-notification-header": "يرجى إعداد المصادقة الثنائية الآن",
+	"wikimedia-2fa-notification-body": "افعل ذلك قبل أن يصل $1 وإلا ستخسر بعض مجموعات المستخدمين لديك.",
+	"wikimedia-2fa-notification-action": "قم بإعداد المصادقة الثنائية",
+	"wikimedia-2fa-notification-info": "للمزيد من المعلومات"
 }

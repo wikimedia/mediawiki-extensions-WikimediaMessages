@@ -68,5 +68,6 @@
 	"wikimedia-skin-minerva-donate-banner-message": "Dona ora",
 	"wikimedia-notificationemail_html_footer": "Se non eri tu, scrivi immediatamente a [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Ciao $2,\n\nHai cambiato di recente la tua email su {{SITENAME}}. La nuova email è $3.\n\nSe non eri tu, scrivi immediatamente a ca@wikimedia.org.",
-	"wikimedia-notificationemail_body_removed": "Ciao $2,\n\nHai recentemente rimosso la tua email da {{SITENAME}}.\n\nSe non eri tu, scrivi immediatamente a ca@wikimedia.org."
+	"wikimedia-notificationemail_body_removed": "Ciao $2,\n\nHai recentemente rimosso la tua email da {{SITENAME}}.\n\nSe non eri tu, scrivi immediatamente a ca@wikimedia.org.",
+	"wikimedia-userrights-restricted-group-translationadmin-private-conditions": "Gli amministratori delle traduzioni devono avere l'autenticazione a due fattori abilitata, che verrà verificata al momento dell'invio del modulo."
 }
