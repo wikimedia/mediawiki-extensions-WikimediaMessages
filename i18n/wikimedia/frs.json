@@ -1,11 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"Neronno"
+			"Neronno",
+			"VanModers",
+			"WikiFayo95"
 		]
 	},
 	"sitesupport": "Spennen",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Undwiklers",
 	"wikimedia-statslink": "Stóótistik",
-	"wikimedia-cookiestatement": "Cookie statement"
+	"wikimedia-cookiestatement": "Stellennóóem tau cookies"
 }

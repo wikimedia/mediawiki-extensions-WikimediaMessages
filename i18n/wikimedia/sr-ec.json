@@ -176,6 +176,7 @@
 	"wikifunctions-editing-copyrightwarning-implementation": "Објављивањем измена, прихватате [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use услове коришћења] и неопозиво прихватате да објавите свој допринос под лиценцом [https://www.apache.org/licenses/LICENSE-2.0 Apache 2.0].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Добро дошли}}, $1!",
 	"wikibase-repo-name": "Википодаци",
+	"wikibase-page-schema-publisher-name": "Задужбина Викимедија",
 	"wikibase-page-schema-author-name": "Сарадници пројеката Викимедије",
 	"wikibase-statementsection-constraints": "Ограничења",
 	"wikibase-sitelinks-wikibooks": "Викикњиге",

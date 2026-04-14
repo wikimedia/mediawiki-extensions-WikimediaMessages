@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Enkhsaihan2005"
+			"Enkhsaihan2005",
+			"Anand.orkhon"
 		]
 	},
-	"sitesupport": "ᠬᠠᠨᠳᠢᠪ ᠥᠭᠬᠦ",
+	"sitesupport": "ᠬᠠᠨᠳᠢᠪ",
 	"wikimedia-developers": "ᠬᠥᠭᠵᠢᠭᠦᠯᠦᠭᠴᠢᠳ",
 	"wikimedia-statslink": "ᠰᠲ᠋ᠠᠲ᠋ᠢᠰᠲ᠋ᠢᠺ",
-	"wikimedia-cookiestatement": "ᢈᠦᠦᠻᠢ ᠶ᠋ᠢᠨ ᠲᠠᠯᠠᠭᠠᠷᢈᠢ ᠮᠡᠳᠡᢉᠡᠯᠡᠯ"
+	"wikimedia-cookiestatement": "ᠻᠦᠦᠻᠢ᠎ᠶᠢᠨ ᠲᠠᠯᠠᠭᠠᠷᠬᠢ ᠮᠡᠳᠡᢉᠡᠯᠡᠯ"
 }

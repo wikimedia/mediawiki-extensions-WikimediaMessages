@@ -17,5 +17,6 @@
 	"wikimedia-sitematrix-others": "వికీమీడియాలోని ఇతర ప్రాజెక్టులు",
 	"wikimedia-sitematrix-summary": "ఈ ప్రత్యేక పేజీ అన్ని వికీమీడియా వికీల జాబితాను చూపిస్తుంది.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Privacy_policy గోప్యతా విధానం]",
-	"wikimedia-notification-body-oathauth-disable-other": "ఇది {{GENDER:$2|మీరు}} అడిగి ఉండకపోతే, WMF ట్రస్టును, సేఫ్టీని {{GENDER:$2|సంప్రదించండి}}."
+	"wikimedia-notification-body-oathauth-disable-other": "ఇది {{GENDER:$2|మీరు}} అడిగి ఉండకపోతే, WMF ట్రస్టును, సేఫ్టీని {{GENDER:$2|సంప్రదించండి}}.",
+	"wikimedia-campaignevents-edit-form-questions-pii-notice": "పాల్గొనేవారి వ్యక్తిగత సమాచారం ఉన్న, సమగ్ర స్పందనలను చూడడానికి, ఈవెంటు నమోదు సమయంలో సేకరించిన, వ్యక్తిగతంగా గుర్తించదగ్గ సమాచారంతో సహా, పాల్గొనేవారి సమాచారాన్ని జాగ్రత్తగా, వికీమీడియా ఫౌండేషను వారి [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use వినియోగ నిబంధనలకు] అనుగుణంగా నిర్వహించమని మిమ్మల్ని అడుగుతాం."
 }
