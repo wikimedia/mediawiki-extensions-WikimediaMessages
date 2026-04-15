@@ -2,11 +2,16 @@
 	"@metadata": {
 		"authors": [
 			"Neronno",
-			"VanModers"
+			"VanModers",
+			"WikiFayo95"
 		]
 	},
 	"sitesupport": "Spennen",
 	"wikimedia-copyrightwarning": "Mit dat spaichern fan annerns ferklorst duu dii mit däi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use nütsensbedingens] inf'rstóón un litsensäärst diin beaarbaidens unweerraupelk unner däi litsens [https://creativecommons.org/licenses/by-sa/4.0/deed.de ''Creative-Commons'' „Nóómensnöymen – wiidergeeven unner glîik bedingens 4.0“] un däi [https://de.wikipedia.org/wiki/Wikipedia:GNU_Free_Documentation_License GFDL].\nDuu stemst tau, dat 'n hyperlink of 'n URL nóó d' siid föör dat nöödiğ tauskriiven nóó ''Creative-Commons''-litsens fuldaund is.",
+	"wikibase-sitelinks-wikinews": "Wikinews",
+	"wikibase-sitelinks-wikiquote": "Wikiquote",
+	"wikibase-sitelinks-wikisource": "Wikisource",
+	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Undwiklers",
 	"wikimedia-statslink": "Stóótistik",
 	"wikimedia-cookiestatement": "Stellennóóem tau cookies"

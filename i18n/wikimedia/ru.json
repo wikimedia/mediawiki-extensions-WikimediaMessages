@@ -74,7 +74,8 @@
 			"Megitsune-chan",
 			"Merrahtar",
 			"Engineer56",
-			"Sandiooses"
+			"Sandiooses",
+			"Shabe"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -108,7 +109,7 @@
 	"group-accountcreator": "Создатели учётных записей",
 	"group-accountcreator-member": "{{GENDER:$1|создатель учётных записей|создательница учётных записей}}",
 	"grouppage-accountcreator": "{{ns:project}}:Создатели учётных записей",
-	"group-arbcom": "Члены арбитражного комитета",
+	"group-arbcom": "Члены Арбитражного комитета",
 	"group-arbcom-member": "{{GENDER:$1|член арбитражного комитета}}",
 	"grouppage-arbcom": "{{ns:project}}:Члены арбитражного комитета",
 	"group-autopatrolled": "Автопатрулируемые",

@@ -6,7 +6,8 @@
 			"MinecraftAustralia",
 			"Nemo bis",
 			"Nicky.ker",
-			"Nrowe"
+			"Nrowe",
+			"Flynn"
 		]
 	},
 	"sitesupport": "Argevri",
@@ -20,5 +21,7 @@
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"createacct-captcha-help-url": "{{ns:Project}}:Govyn akont",
-	"wikimedia-developers": "Displegyoryon"
+	"wikimedia-developers": "Displegyoryon",
+	"wikimedia-statslink": "Statystygyon",
+	"wikimedia-cookiestatement": "Menegyans cookie"
 }
