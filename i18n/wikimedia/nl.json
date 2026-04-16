@@ -37,7 +37,8 @@
 			"Troefkaart",
 			"Tvdm",
 			"Varnent",
-			"Sneezless"
+			"Sneezless",
+			"ItsNyoty"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -277,7 +278,7 @@
 	"wikibase-otherprojects-testwikidata": "Wikidata",
 	"wikibase-otherprojects-mediawiki": "MediaWiki",
 	"wikibase-otherprojects-meta": "Meta-Wiki",
-	"wikibase-otherprojects-outreach": "Wikimedia-voorlichting",
+	"wikibase-otherprojects-outreach": "Wikimedia Outreach",
 	"wikibase-otherprojects-sources": "Meertalige Wikisource",
 	"wikibase-otherprojects-species": "Wikispecies",
 	"wikibase-otherprojects-test": "Test-Wikipedia",

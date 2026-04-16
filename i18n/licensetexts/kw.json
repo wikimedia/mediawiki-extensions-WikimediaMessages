@@ -4,7 +4,8 @@
 			"GwikorFrank",
 			"Kernoweger",
 			"Kw-Moon",
-			"Nrowe"
+			"Nrowe",
+			"Flynn"
 		]
 	},
 	"wm-license-information-description": "Deskrifans",
@@ -14,5 +15,6 @@
 	"wm-license-information-author-missing": "Ny's teves an restren ma kedhlow a'n '''awtour'''.",
 	"wm-license-information-permission": "Kummyas",
 	"wm-license-information-permission-reusing-text": "Dastevnydhya an restren ma",
-	"wm-license-own-work": "Ober honan"
+	"wm-license-own-work": "Ober honan",
+	"wm-license-self-multiple-licenses-select": "Hwi a yll dewis an leshyans dewisowgh."
 }

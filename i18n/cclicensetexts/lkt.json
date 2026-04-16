@@ -6,8 +6,14 @@
 	},
 	"wm-license-cc-attribution": "Ohútkȟaŋ",
 	"wm-license-cc-by-sa-3.0-text": "Wópȟaȟta kiŋ le [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike\n 3.0 Unported]] ogná wóiyowiŋkhiyeya.",
-	"wm-license-cc-free-to-share-header": "ok'u",
+	"wm-license-cc-free": "Iyówiŋničhiyapi:",
+	"wm-license-cc-free-to-share-header": "oyák'u",
+	"wm-license-cc-free-to-share-text": "wakáǧapi kiŋ luóta, yakpámni na tȟoyákšu",
+	"wm-license-cc-free-to-remix-header": "wakáǧapi kiŋ tȟogyé yakaǧa",
+	"wm-license-cc-free-to-remix-text": "media théča ogná wakáǧapi kiŋ akȟé yakaǧa",
+	"wm-license-cc-conditions": "Takómni léčhel ečhánuŋ kte:",
 	"wm-license-cc-conditions-attribution-header": "ohútkȟaŋ",
 	"wm-license-cc-conditions-attribution-text": "Takómni ohútkȟaŋ iwoyawa kte, wóopȟe-wóiyowiƞkhiye ektá wóičhikȟoyake waŋ yakáǧa kte, na wóyutȟokča iwoyawa kte. Tókhel hečhánuŋ kte, éyaš tuwá wóopȟe-wóiyowiƞkhiye yuha kiŋ wičaničila kiŋ oláka iyowíŋničhiyapi šni.",
-	"wm-license-cc-conditions-share_alike-header": "iyéčhel ok’u"
+	"wm-license-cc-conditions-share_alike-header": "iyéčhel ok’u",
+	"wm-license-cc-conditions-share_alike-text": "Wakáǧapi kiŋ tȟogyé yakaǧa, lutȟókeča, naíŋš he akáŋn wayákaǧa eháŋtaŋš, takomni [[ccorg:share-your-work/licensing-considerations/compatible-licenses|wóopȟe-wóiyowiƞkhiye ákhilečheča]] uŋ yakpámni kte."
 }
