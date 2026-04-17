@@ -2,8 +2,6 @@
 
 namespace MediaWiki\Extension\WikimediaMessages;
 
-use HtmlArmor;
-use MediaWiki\Cache\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Config\Config;
 use MediaWiki\Config\ConfigException;
 use MediaWiki\Config\ServiceOptions;
@@ -11,12 +9,10 @@ use MediaWiki\Exception\ErrorPageError;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMLiquidThreadsLogFormatter;
 use MediaWiki\Extension\WikimediaMessages\LogFormatter\WMUserMergeLogFormatter;
 use MediaWiki\Hook\EditPageCopyrightWarningHook;
-use MediaWiki\Hook\SidebarBeforeOutputHook;
-use MediaWiki\Hook\SkinAddFooterLinksHook;
-use MediaWiki\Hook\SkinCopyrightFooterMessageHook;
-use MediaWiki\Hook\SkinTemplateNavigation__UniversalHook;
-use MediaWiki\Hook\UploadForm_initialHook;
 use MediaWiki\Html\Html;
+use MediaWiki\Language\Hook\MessageCacheFetchOverridesHook;
+use MediaWiki\Language\MessageCache;
+use MediaWiki\Language\MessageLocalizer;
 use MediaWiki\Linker\Linker;
 use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\MainConfigNames;
@@ -27,17 +23,21 @@ use MediaWiki\Permissions\PermissionManager;
 use MediaWiki\Registration\ExtensionRegistry;
 use MediaWiki\ResourceLoader\Hook\ResourceLoaderRegisterModulesHook;
 use MediaWiki\ResourceLoader\ResourceLoader;
+use MediaWiki\Skin\Hook\SidebarBeforeOutputHook;
+use MediaWiki\Skin\Hook\SkinAddFooterLinksHook;
+use MediaWiki\Skin\Hook\SkinCopyrightFooterMessageHook;
+use MediaWiki\Skin\Hook\SkinTemplateNavigation__UniversalHook;
 use MediaWiki\Skin\Skin;
 use MediaWiki\Skin\SkinTemplate;
 use MediaWiki\SpecialPage\Hook\SpecialPageBeforeExecuteHook;
 use MediaWiki\SpecialPage\SpecialPage;
+use MediaWiki\Specials\Hook\UploadForm_initialHook;
 use MediaWiki\Specials\SpecialUpload;
 use MediaWiki\Title\Title;
 use MediaWiki\User\Options\UserOptionsLookup;
 use MediaWiki\WikiMap\WikiMap;
-use MessageCache;
-use MessageLocalizer;
 use MobileContext;
+use Wikimedia\HtmlArmor\HtmlArmor;
 use Wikimedia\IPUtils;
 use Wikimedia\Message\MessageSpecifier;
 
