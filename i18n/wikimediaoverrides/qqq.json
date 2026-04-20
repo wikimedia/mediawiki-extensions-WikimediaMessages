@@ -94,6 +94,7 @@
 	"wikimedia-oathauth-step1-test": "Text for step 1 on Special:OATH form",
 	"wikimedia-oathauth-recovery-code-hint": "Reminder that users can use recovery tokens if they don't have access to their device or application",
 	"wikimedia-pt-movepage-page-count-limit": "Error message showing when a translation admin attempts to move a page with too many subpages\n\nParameters:\n* $1 – maximum allowed number of subpages to move",
+	"wikimedia-rest-module-site.v1-desc": "Description of the site.v1 REST module",
 	"wikimedia-skin-minerva-donate-banner-message": "Title for donation banner that appears in the mobile main menu when open.",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "A donation banner message that appears in the mobile main menu when open.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "A donation banner message that appears in the sister sites mobile main menu when open.",

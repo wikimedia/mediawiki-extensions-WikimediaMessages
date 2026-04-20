@@ -251,6 +251,8 @@ class Hooks implements
 			"userrights-restricted-group-wikifunctions-staff-private-conditions",
 			"userrights-restricted-group-wmf-officeit-private-conditions",
 			"userrights-restricted-group-wmf-supportsafety-private-conditions",
+			// T418195
+			"rest-module-site.v1-desc",
 		];
 
 		static $allbutmetawikikeys = [
