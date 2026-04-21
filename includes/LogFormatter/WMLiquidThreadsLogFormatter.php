@@ -42,7 +42,7 @@ class WMLiquidThreadsLogFormatter extends LogFormatter {
 		}
 
 		array_unshift( $parameters, $title->getPrefixedText() );
-		$html = wfMessage( $msg, $parameters );
+		$html = $this->msg( $msg, $parameters );
 
 		if ( $this->plaintext ) {
 			$html = StringUtils::delimiterReplace( '<', '>', '', $html->inContentLanguage()->parse() );
