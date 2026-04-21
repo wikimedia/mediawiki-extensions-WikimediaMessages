@@ -1,10 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pitchrigi"
+			"Pitchrigi",
+			"Muhamad Izzul Fiqih"
 		]
 	},
 	"sitesupport": "Nyumbang",
+	"wikibase-sitelinks-wikinews": "Wikiberito",
+	"wikibase-sitelinks-wikiquote": "Wikiseloko",
+	"wikibase-sitelinks-wikisource": "Wikisumber",
+	"wikibase-sitelinks-wikivoyage": "Wikiwisata",
 	"wikimedia-developers": "Pengembang",
 	"wikimedia-statslink": "Statistik",
 	"wikimedia-cookiestatement": "Penyataan kuki"
