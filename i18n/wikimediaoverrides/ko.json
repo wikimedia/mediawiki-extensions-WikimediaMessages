@@ -16,7 +16,8 @@
 			"메이",
 			"밝은소년",
 			"아라",
-			"Bisang"
+			"Bisang",
+			"Tensama0415"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "현재 사용하고 있는 IP 주소로 이 위키에 방문한 사람이 하루 동안 {{PLURAL:$1|1개의 계정|$1개의 계정}}을 만들어, 현재의 시기에 허용되어 있는 계정 생성 제한을 초과하였습니다. 그에 따라, IP 주소를 이용하고 계시는 방문자들은 현재 더 이상의 계정을 만드실 수 없습니다. \n\n혹시 위키미디어 프로젝트에 기여하기 위한 모임 등에 참여하고 계시다면, 문제를 해결하기 위해 [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|일시적 계정생성 제한 해제요청 페이지]]를 참고해 주시기 바랍니다.",
@@ -53,6 +54,8 @@
 	"wikimedia-ipinfo-infobox-use-terms": "IP 정보 도구는 MaxMind 데이터베이스를 사용하여 IP 주소의 대략적인 위치, 프록시, 함께 공유하는 장치 수와 같은 상세 정보를 표시합니다. 도구를 활성화하기 전에 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 정보 도구 지침]을 검토해 주십시오.",
 	"wikimedia-ipinfo-preference-use-agreement": "나는 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 정보 도구 지침]에 따라 위키미디어 재단 또는 커뮤니티 정책에서의 문서 훼손, 악용 또는 기타 위반에 대한 조사 또는 예방에만 이 도구를 사용하는 데 동의합니다",
 	"wikimedia-centralauth-admin-log-otherwiki": "이 계정은 잠겼습니다. 자세한 내용은 [[meta:Special:CentralAuth/$1|메타위키의 전역 계정 세부 정보]]를 참조하세요.",
+	"wikimedia-globalblocking-blockedtext-ip-range": "차단된 대역은 $1입니다.",
+	"wikimedia-globalblocking-blockedtext-proxy": "차단된 프록시 주소는 $1입니다.",
 	"wikimedia-oathauth-step1-test": "2요소 인증을 위한 프로그램을 다운로드하세요. 제안되는 클라이언트의 경우 [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication 도움말:2요소 인증]을 참고하세요.",
 	"wikimedia-skin-minerva-donate-banner-message": "지금 기부하기",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "위키백과가 유용하시다면 오늘 기부해 주세요."
