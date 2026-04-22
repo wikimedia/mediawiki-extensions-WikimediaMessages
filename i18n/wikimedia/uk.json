@@ -247,6 +247,7 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|дослідник|дослідниця}} ФВМ",
 	"group-wmf-supportsafety": "Довіра та безпека ФВМ",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|довіра та безпека ФВМ}}",
+	"mulwikisource-sidebar-scriptorium": "Скрипторій",
 	"mulwikisource-sidebar-news": "Новини",
 	"mulwikisource-sidebar-random-book": "Випадкова книга",
 	"tag-emoji": "Смайлики",
@@ -281,6 +282,7 @@
 	"wikibase-sitelinks-wikiversity": "Віківерситет",
 	"wikibase-sitelinks-wikivoyage": "Вікімандри",
 	"wikibase-sitelinks-wiktionary": "Вікісловник",
+	"wikibase-otherprojects-abstract": "Абстрактна Вікіпедія",
 	"wikibase-otherprojects-commons": "Вікісховище",
 	"wikibase-otherprojects-foundation": "Фонд Вікімедіа",
 	"wikibase-otherprojects-testwikidata": "Вікідані",
@@ -302,6 +304,7 @@
 	"wikibase-otherprojects-wikivoyage": "Вікімандри",
 	"wikibase-otherprojects-wiktionary": "Вікісловник",
 	"wikibase-otherprojects-wikimania": "Вікіманія",
+	"wikibase-sitelinks-sitename-abstractwiki": "Абстрактна Вікіпедія",
 	"wikibase-sitelinks-sitename-commonswiki": "Сховище",
 	"wikibase-sitelinks-sitename-foundationwiki": "Фонд Вікімедіа",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
@@ -581,5 +584,10 @@
 	"wikimedia-articletopics-topic-mathematics": "Математика",
 	"wikimedia-articletopics-topic-medicine-and-health": "Медицина і здоров'я",
 	"wikimedia-articletopics-topic-physics": "Фізика",
-	"wikimedia-articletopics-topic-technology": "Технології"
+	"wikimedia-articletopics-topic-technology": "Технології",
+	"wikimedia-2fa-echo-category-title": "Двофакторна автентифікація не ввімкнена у вашому обліковому записі",
+	"wikimedia-2fa-notification-header": "Будь ласка, налаштуйте двофакторну автентифікацію зараз",
+	"wikimedia-2fa-notification-body": "Зробіть це до $1, інакше ви втратите приналежність до деяких своїх груп користувачів.",
+	"wikimedia-2fa-notification-action": "Налаштувати двофакторну автентифікацію",
+	"wikimedia-2fa-notification-info": "Більше інформації"
 }
