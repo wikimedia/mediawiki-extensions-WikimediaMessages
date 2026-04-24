@@ -58,7 +58,7 @@
 	"wikimedia-centralauth-admin-log-otherwiki": "이 계정은 잠겼습니다. 자세한 내용은 [[meta:Special:CentralAuth/$1|메타위키의 전역 계정 세부 정보]]를 참조하세요.",
 	"wikimedia-globalblocking-blockedtext-ip-range": "차단된 대역은 $1입니다.",
 	"wikimedia-globalblocking-blockedtext-proxy": "차단된 프록시 주소는 $1입니다.",
-	"wikimedia-oathauth-step1-test": "2요소 인증을 위한 프로그램을 다운로드하세요. 제안되는 클라이언트의 경우 [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication 도움말:2요소 인증]을 참고하세요.",
+	"wikimedia-oathauth-step1-test": "2단계 인증을 위한 앱을 다운로드하세요. 제안되는 클라이언트의 경우 [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication 도움말:2단계 인증]을 참고하세요.",
 	"wikimedia-skin-minerva-donate-banner-message": "지금 기부하기",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "위키백과가 유용하시다면 오늘 기부해 주세요."
 }

@@ -19,7 +19,7 @@
 	"group-staff": "Kalikian",
 	"group-staff-member": "{{GENDER:$1|kalikiang miyembro}}",
 	"wikimedia-copyright-footer": "Magagamit an teksto sa irarom kan [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License]; \nposibleng malapat an dagdag pang mga termino.\nHilingon an [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License] para sa detalye.",
-	"wikimedia-copyrightwarning": "Sa paagi nin pagtagama nin mga pagbabago, minaoyon ka sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use], asin dae mababawi an saimong minaoyon na iluwas an saimong kontribusyon sa irarom kan [https://creativecommons.org/licenses/by-SA. asin an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nMinaoyon ka na an sarong hyperlink o URL igo nang atribusyon sa irarom kan lisensya kan Creative Commons.",
+	"wikimedia-copyrightwarning": "Sa pagtagama kan mga pagbabago, minauyon ka sa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Mga Kondisyon sa Paggamit], asin ika dai na mababawi na minauyon na iluwas an saimong kontribusyon sa irarom kan [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] asin sa [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nMinauyon ka na an sarong hyperlink o URL igo nang atribusyon sa irarom kan lisensya kan Creative Commons.",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Maugmang pag-abot}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wikibarita",
 	"wikibase-sitelinks-wikiquote": "Wikisambit",
