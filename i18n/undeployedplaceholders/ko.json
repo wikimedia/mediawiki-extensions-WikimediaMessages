@@ -5,14 +5,26 @@
 			"Ykhwong"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1님이 \"$4\" ($5) 계정을 {{GENDER:$8|$6}} ($7)으로 {{GENDER:$2|합쳤습니다}}",
+	"wikimedia-logentry-usermerge-deleteuser": "$1님이 \"$4\"($5) 사용자 계정을 {{GENDER:$2|삭제했습니다}}",
 	"wikimedia-log-action-filter-usermerge": "조치 유형:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "사용자 계정 병합",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "사용자 계정 삭제",
 	"wikimedia-usermerge-logpage": "사용자 병합 기록",
+	"wikimedia-usermerge-logpagetext": "사용자 병합 동작의 기록입니다.",
 	"wikimedia-lqt-log-name": "스레드식 토론 기록",
+	"wikimedia-lqt-log-header": "이 기록은 스레드 토론에 관한 동작에 대한 기록입니다.",
+	"wikimedia-lqt-log-action-move": "님이 [[$1]] 스레드를 [[$2]]에서 [[$3]](으)로 이동했습니다 ($4)",
+	"wikimedia-lqt-log-action-split": "님이 [[$3]] 스레드에서 [[$1]]을 분리하여 \"$2\"라는 새 제목을 붙였습니다",
+	"wikimedia-lqt-log-action-merge-across": "님이 [[$1]] 스레드를 [[$2]]에서 [[$3]](으)로 이동했습니다",
+	"wikimedia-lqt-log-action-merge-down": "님이 [[$1]] 스레드를 [[$3]]에 합쳤습니다",
+	"wikimedia-lqt-log-action-subjectedit": "님이 [[$1]]의 주제를 \"$2\"에서 \"$3\"(으)로 바꾸었습니다",
+	"wikimedia-lqt-log-action-resort": "님이 [[$1]]의 정렬 순서를 바꿨습니다. 정렬 키를 $2에서 $3(으)로 바꿨습니다",
+	"wikimedia-lqt-log-action-signatureedit": "님이 [[$1]]의 서명을 \"$2\"에서 \"$3\"(으)로 바꾸었습니다",
 	"wikimedia-graph-tracking-category": "그래프가 있는 문서",
 	"wikimedia-graph-tracking-category-desc": "이 문서는 <code>&lt;graph&gt;</code> 태그를 포함하고 있습니다.",
 	"wikimedia-graph-broken-category": "손상된 그래프가 포함된 문서",
 	"wikimedia-graph-broken-category-desc": "이 문서는 잘못된 용도로 <code>&lt;graph&gt;</code> 태그를 포함하고 있습니다.",
-	"wikimedia-graph-disabled-category": "비활성화된 그래프가 있는 문서"
+	"wikimedia-graph-disabled-category": "비활성화된 그래프가 있는 문서",
+	"wikimedia-graph-disabled-category-desc": "문서는 일시적으로 사용이 불가능한 <code>&lt;graph&gt;</code> 태그를 포함합니다([[phab:T334940|T334940]])."
 }
