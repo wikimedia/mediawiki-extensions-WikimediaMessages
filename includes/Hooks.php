@@ -226,7 +226,9 @@ class Hooks implements
 			'notificationemail_html_footer',
 			'notificationemail_body_changed',
 			'notificationemail_body_removed',
-			// T418586, T423118
+			// T418586, T423118, T423119
+			"userrights-restricted-group-arbcom",
+			"userrights-restricted-group-bureaucrat",
 			"userrights-restricted-group-centralnoticeadmin",
 			"userrights-restricted-group-checkuser",
 			"userrights-restricted-group-editor",
@@ -239,6 +241,8 @@ class Hooks implements
 			"userrights-restricted-group-wikifunctions-staff",
 			"userrights-restricted-group-wmf-officeit",
 			"userrights-restricted-group-wmf-supportsafety",
+			"userrights-restricted-group-arbcom-private-conditions",
+			"userrights-restricted-group-bureaucrat-private-conditions",
 			"userrights-restricted-group-centralnoticeadmin-private-conditions",
 			"userrights-restricted-group-checkuser-private-conditions",
 			"userrights-restricted-group-editor-private-conditions",
