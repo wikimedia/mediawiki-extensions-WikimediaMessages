@@ -60,5 +60,6 @@
 	"wikimedia-globalblocking-blockedtext-proxy": "차단된 프록시 주소는 $1입니다.",
 	"wikimedia-oathauth-step1-test": "2단계 인증을 위한 앱을 다운로드하세요. 제안되는 클라이언트의 경우 [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication 도움말:2단계 인증]을 참고하세요.",
 	"wikimedia-skin-minerva-donate-banner-message": "지금 기부하기",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "위키백과가 유용하시다면 오늘 기부해 주세요."
+	"wikimedia-skin-minerva-donate-banner-subtitle": "위키백과가 유용하시다면 오늘 기부해 주세요.",
+	"wikimedia-userrights-restricted-group-editor": "사용자가 2단계 인증을 활성화하지 않았습니다. 이는 편집자에게 필수입니다."
 }
