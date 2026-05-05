@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kallmemel",
 			"ObaTango"
 		]
 	},
@@ -15,5 +16,5 @@
 	"wm-license-cc-conditions-attribution-header": "atribushon",
 	"wm-license-cc-conditions-attribution-text": "Bo mester duna krédito na e outor, duna un lenk na e lisensia, i indiká si a hasi kambio. Bo por hasi esei na kualke manera rasonabel, perono na manera ku por sugerí ku esun ku ta otorgá e lisensia ta respaldá abo òf bo uzo.",
 	"wm-license-cc-conditions-share_alike-header": "kompartí meskos",
-	"wm-license-cc-conditions-share_alike-text": "Si bo meskla, transfrmáòf modifiká e obra bo mester distribuí bo kontribushonnan bou di [mes lisensia https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses òf unu kompatibel] ku esun original."
+	"wm-license-cc-conditions-share_alike-text": "Si bo meskla, transfrmá, òf modifiká e obra, bo mester distribuí bo kontribushon bou di [[ccorg:share-your-work/licensing-considerations/compatible-licenses|mesun lisensia òf unu kompatibel]] ku esun original."
 }
