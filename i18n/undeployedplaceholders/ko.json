@@ -1,11 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ykhwong"
+			"Ykhwong",
+			"Tensama0415"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1님이 \"$4\" ($5) 계정을 {{GENDER:$8|$6}} ($7)으로 {{GENDER:$2|합쳤습니다}}",
+	"wikimedia-logentry-usermerge-deleteuser": "$1님이 \"$4\"($5) 사용자 계정을 {{GENDER:$2|삭제했습니다}}",
 	"wikimedia-log-action-filter-usermerge": "조치 유형:",
 	"wikimedia-log-action-filter-usermerge-mergeuser": "사용자 계정 병합",
 	"wikimedia-log-action-filter-usermerge-deleteuser": "사용자 계정 삭제",
-	"wikimedia-usermerge-logpage": "사용자 병합 기록"
+	"wikimedia-usermerge-logpage": "사용자 병합 기록",
+	"wikimedia-usermerge-logpagetext": "사용자 병합 동작의 기록입니다."
 }
