@@ -12,7 +12,8 @@
 			"Varnent",
 			"Yanteng3",
 			"列维劳德",
-			"逆襲的天邪鬼"
+			"逆襲的天邪鬼",
+			"Above mountain"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特集",
@@ -40,7 +41,7 @@
 	"interlanguage-link-commons": "維基共享",
 	"action-editeditorprotected": "頁已封緘，{{int:restriction-level-editeditorprotected}}之",
 	"right-editeditorprotected": "頁已封緘，{{int:restriction-level-editeditorprotected}}之",
-	"protect-level-editeditorprotected": "唯文士得修",
+	"protect-level-editeditorprotected": "唯分校",
 	"action-editextendedsemiprotected": "頁已封緘，{{int:restriction-level-editextendedsemiprotected}}之",
 	"right-editextendedsemiprotected": "頁已封緘，{{int:restriction-level-editextendedsemiprotected}}之",
 	"wikimedia-statslink": "彙統",
