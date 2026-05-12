@@ -1998,6 +1998,9 @@ class Hooks implements
 				'href' => $context->msg( 'sitesupport-url' )->text(),
 				'title' => $context->msg( 'tooltip-n-sitesupport' )->text(),
 				'icon' => 'heart',
+				'data' => [
+					'mw-donate-attempt' => 'top_link'
+				],
 			] ];
 			// Ensure donate link goes before other links
 			if ( array_key_exists( 'user-menu', $links ) ) {
@@ -2026,6 +2029,29 @@ class Hooks implements
 					if ( isset( $link['id'] ) && $link['id'] === 'n-sitesupport' ) {
 						unset( $sidebar[$section][$index] );
 					}
+				}
+			}
+		}
+	}
+
+	/**
+	 * Add data attributes to the donate link in the sidebar.
+	 * We do it here instead of onSidebarBeforeOutout because the results are cached.
+	 *
+	 * @param Skin $skin
+	 * @param array &$sidebar
+	 */
+	public function onSkinBuildSidebar( $skin, &$sidebar ): void {
+		foreach ( $sidebar as $section => &$links ) {
+			if ( !is_array( $links ) ) {
+				continue;
+			}
+			foreach ( $links as &$link ) {
+				if ( $link['id'] === 'n-sitesupport' ) {
+					$link['data'] = [
+						'mw-donate-attempt' => 'main_menu',
+					];
+					break;
 				}
 			}
 		}
