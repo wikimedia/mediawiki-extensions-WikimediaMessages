@@ -40,5 +40,12 @@
 	"contactpage-title-stewards": "Kontaktovat stevardy",
 	"contactpage-stewards-disclaimer-label": "Upozornění: Všechny informace, které uvedete na tomto formuláři, jsou odeslány, zpracovány a řešeny dobrovolnými členy komunity (konkrétně [[Special:MyLanguage/Stewards|stevardy]]), nikoli Wikimedia Foundation. Nevkládejte prosím žádné informace, u kterých by vám vadilo jejich sdílení s dobrovolníky Wikimedia. Reakce a další korespondece týkající se zpracování vámi odeslaných informací se nepovažují za oficiální vyjádření Wikimedia Foundation. Pro oficiální komunikaci s Wikimedia Foundation kontaktujte nadaci jednou z metod uvedených na https://wikimediafoundation.org/about/contact/.",
 	"contactpage-title-ombudscommission": "Kontaktovat Komisi Ombudsmanů",
+	"contactpage-ombudscommission-case-explanation": "Vysvětlete, co se stalo:",
+	"contactpage-ombudscommission-relevant-links": "Poskytněte odkazy na akce na wiki nebo stránky:",
+	"contactpage-ombudscommission-violation-type": "V pár slovech vysvětlete, jaké wiki pravidlo bylo porušeno",
+	"contactpage-ombudscommission-involved-users": "Na které uživatele si stěžujete? Poskytněte jejich uživatelská jména na wiki:",
+	"contactpage-ombudscommission-affected-accounts": "Kterých účtů se tato stížnost týká? Pokud se stížnost netýká nikoho jiného než vás, můžete toto pole přeskočit.",
+	"contactpage-ombudscommission-proposed-solution": "Jaké řešení navrhujete? Co očekáváte od komise?",
+	"contactpage-ombudscommission-additional-information": "Doplňte jakékoli další informace, které považujete za relevantní pro pochopení tohoto případu.",
 	"contactpage-ombudscommission-disclaimer-label": "Upozornění: Všechny informace, které uvedete na tomto formuláři, jsou odeslány, zpracovány a řešeny dobrovolnými členy komunity (konkrétně členové [[Special:MyLanguage/Ombuds commission|Komise Ombudsmanů]]), nikoli Wikimedia Foundation. Nevkládejte prosím žádné informace, u kterých by vám vadilo jejich sdílení s dobrovolníky Wikimedia. Reakce a další korespondence týkající se zpracování vámi odeslaných informací se nepovažují za oficiální vyjádření Wikimedia Foundation. Pro oficiální komunikaci s Wikimedia Foundation kontaktujte nadaci jednou z metod uvedených na https://wikimediafoundation.org/about/contact/."
 }
