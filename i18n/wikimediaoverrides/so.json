@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Abshirdheere",
+			"AhmedG612",
 			"Nemo bis"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(i caawi dooro)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]",
+	"wikimedia-userrights-restricted-group-checkuser": "Isticmaaluhu ma shidin xaqiijinta laba-tallaabo ah, taas oo [[m:Special:MyLanguage/CheckUser policy|looga baahan yahay]]  Checkusers"
 }
