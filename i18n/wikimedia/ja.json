@@ -65,7 +65,8 @@
 			"ネイ",
 			"春春眠眠",
 			"青子守歌",
-			"아라"
+			"아라",
+			"Cookie4782"
 		]
 	},
 	"wikimediamessages-desc": "ウィキメディア固有のメッセージ",
@@ -265,6 +266,7 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF調査員}}",
 	"group-wmf-supportsafety": "WMF信頼と安全",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|WMF信頼と安全}}",
+	"mulwikisource-sidebar-news": "お知らせ",
 	"tag-emoji": "絵文字",
 	"tag-emoji-description": "グローバル不正利用フィルター 110 によって使用されます。",
 	"tag-AWB": "AutoWikiBrowser",
