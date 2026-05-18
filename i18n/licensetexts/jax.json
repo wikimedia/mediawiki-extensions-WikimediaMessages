@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Muhamad Izzul Fiqih"
+			"Muhamad Izzul Fiqih",
+			"Pitchrigi"
 		]
 	},
 	"wm-license-information-description": "Deskripsi",
@@ -10,5 +11,6 @@
 	"wm-license-information-author": "Pembikin",
 	"wm-license-information-permission": "Izin",
 	"wm-license-information-permission-reusing-text": "Makek lagi berkas ko",
-	"wm-license-own-work": "Karya dewek"
+	"wm-license-own-work": "Karya dewek",
+	"wm-license-self-multiple-licenses-select": "Anda boléh la milih pilian Anda."
 }
