@@ -2,9 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Abshirdheere",
-			"Nemo bis"
+			"Nemo bis",
+			"AhmedG612"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(i caawi dooro)]]",
-	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]"
+	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]",
+	"wikimedia-checkuser-temporary-accounts-onboarding-dialog-ip-info-step-content": "Qalabka [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/IP_Info Macluumaadka IP-ga] (Macluumaadka IP-ga) waxa uu u fududeeyaa maamulayaasha, la dagaallamayaasha burburinta iyo isticmaaleyaasha khibradda leh inay helaan xog ku saabsan cinwaannada IP-ga iyaga oo aan si toos ah u arkin cinwaannada IP-ga laftooda.\n\nIsticmaaleyaasha buuxiya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines#Requirements_for_access shuruudaha gelitaanka] waxay IP Info ka hawlgelin karaan dookhyadooda. Marka la hawlgeliyo, IP Info pop-up ayaa ka soo muuqan doona agagaarka akoonnada ku-meelgaarka ah iyo cinwaannada IP-ga ee hore. Xogta IP-ga sidoo kale waxa lagu soo bandhigi doonaa bogga wax ku biirinta.",
+	"wikimedia-delete-toobig": "Boggan waxa uu leeyahay taariikh wax ka beddel oo weyn, in ka badan $1 {{PLURAL:$1|wax ka beddel|wax ka beddello}}.\nTirtiridda bogag leh taariikho wax ka beddel oo aad u waaweyn waa la xaddiday si looga hortago carqalad ku timaadda {{SITENAME}}.\nFadlan la xiriir [[m:Special:MyLanguage/Stewards|stewards-ka]] ee [[m:Steward requests/Miscellaneous|Codsiyada steward-ka/Miscellaneous ee Meta]] si aad u codsato in boggan la tirtiro.",
+	"wikimedia-discussiontools-replywidget-terms-click": "Adigoo gujinaya \"$1\", waxaad oggolaanaysaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha Isticmaalka] waxaadna si aan dib loo celin karin u sii deynaysaa qoraalkaaga {{PLURAL:$3|hoos}} $2.",
+	"wikimedia-flow-terms-of-use-new-topic": "Adigoo gujinaya \"{{int:flow-newtopic-save}}\", waxaad oggolaanaysaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha Isticmaalka] waxaadna si aan dib loo celin karin u sii deynaysaa qoraalkaaga {{PLURAL:$2|hoos}} $1.",
+	"wikimedia-flow-terms-of-use-reply": "Adigoo gujinaya \"{{int:flow-reply-link}}\", waxaad oggolaanaysaa  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha Isticmaalka] waxaadna si aan dib loo celin karin u sii deynaysaa qoraalkaaga {{PLURAL:$2|hoos}} $1.",
+	"wikimedia-flow-terms-of-use-edit": "Adigoo daabacaya isbeddellada, waxaad oggolaanaysaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha Isticmaalka] waxaadna si aan dib loogu celin karin u sii deynaysaa qoraalkaaga {{PLURAL:$2|hoos}} $1.",
+	"wikimedia-flow-terms-of-use-summarize": "Adigoo gujinaya \"{{int:flow-topic-action-update-topic-summary}}\", waxaad oggolaanaysaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha Isticmaalka] waxaadna si aan dib loo celin karin u sii deynaysaa qoraalkaaga {{PLURAL:$2|hoos}} $1.",
+	"wikimedia-flow-terms-of-use-unlock-topic": "Adigoo gujinaya \"{{int:flow-topic-action-unlock-topic}}\", waxaad oggolaanaysaa [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha Isticmaalka] waxaadna si aan dib loogu celin karin u sii deynaysaa qoraalkaaga {{PLURAL:$2|hoos}} $1.",
+	"wikimedia-ipinfo-help-text": "Isticmaalka qalabkan waxaa maamula [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines tilmaamaha qalabka macluumaadka IP]. Macluumaadka la muujiyo wuxuu ka yimaadaa MaxMind iyo [https://docs.spur.us/data-types Spur]. Waxaa laga yaabaa inuusan si buuxda u sax ahayn.",
+	"wikimedia-globalblocking-blockedtext-on-proxy": "Hal ama in ka badan oo adeeg proxy ah oo codsigaaga isticmaalay waa [[m:Special:MyLanguage/Global blocks|si caalami ah loo xanibay]].",
+	"wikimedia-globalblocking-blockedtext-mistake": "Haddii aad aaminsan tahay in si khalad ah laguu xanibay, waxaad ka heli kartaa macluumaad dheeraad ah iyo tilmaamo ku jira [[m:Special:MyLanguage/Stewards/Wizard|Haddiyada Xannibaadda ee Steward-ka\n]]."
 }
