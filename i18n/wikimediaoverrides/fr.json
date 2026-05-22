@@ -28,7 +28,8 @@
 			"Urhixidur",
 			"Verdy p",
 			"Wladek92",
-			"ꠢꠣꠍꠘ ꠞꠣꠎꠣ"
+			"ꠢꠣꠍꠘ ꠞꠣꠎꠣ",
+			"Jérémy-Günther-Heinz Jähnick"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Les visiteurs de ce wiki utilisant votre adresse IP ont créé $1 compte{{PLURAL:$1||s}} lors de cette dernière période de $2, ce qui est le maximum autorisé pour cette période de temps. Par conséquent, les visiteurs utilisant cette adresse IP ne peuvent plus pour l’instant créer de compte.\n\nSi vous participez à un événement qui a pour but de contribuer aux projets de Wikimedia, veuillez voir [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Demander la levée temporaire de la limitation IP]] pour aider à résoudre ce problème.",
@@ -107,5 +108,6 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Si ce site vous a été utile, vous pouvez faire un don aujourd'hui.",
 	"wikimedia-emailauth-accountrecovery-intro": "Récupérez votre compte Wikimedia",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse électronique associée à votre compte Wikimedia",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactez le service Trust & Safety",
 	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Les administrateurs d'interface [[m:Special:MyLanguage/Interface administrators|doivent avoir activé l'authentification à deux facteurs]], qui sera vérifiée lors de la soumission du formulaire."
 }

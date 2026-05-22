@@ -12,7 +12,8 @@
 			"Tobi 406",
 			"Umherirrender",
 			"WikiBayer",
-			"Wnme"
+			"Wnme",
+			"IWL04"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besucher dieses Wikis, die deine IP-Adresse benutzen, haben während $2 {{PLURAL:$1|ein Benutzerkonto|$1 Benutzerkonten}} erstellt. Dies ist die maximal erlaubte Anzahl in diesem Zeitraum.\nDaher können Besucher, die diese IP-Adresse benutzen, derzeit keine weiteren Benutzerkonten erstellen.\n\nFalls du dich auf einer Veranstaltung befindest, die sich auf die Mitwirkung bei Wikimedia-Projekten fokussiert, beantrage bitte [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|eine temporäre Aufhebung der IP-Sperre]], um bei der Lösung dieses Problems zu helfen.",
@@ -38,7 +39,7 @@
 	"wikimedia-checkuser-suggestedinvestigations-summary": "Diese Seite enthält Konten, die automatisch als potenziell verdächtig markiert wurden und von Checkusern überprüft werden sollen.\n\nFür Feature-Anfragen und Fehlermeldungen nutze [https://phabricator.wikimedia.org/maniphest/task/edit/form/75/ dieses Formular] für vertrauliche Aufgaben. [https://www.mediawiki.org/wiki/Product_Safety_and_Integrity/Anti-abuse_signals/Suggested_Investigations Weitere Informationen].",
 	"wikimedia-delete-toobig": "Diese Seite hat eine lange Versionsgeschichte, über {{PLURAL:$1|eine Version|$1 Versionen}}.\nDas Löschen von Seiten mit sehr langen Versionsgeschichten wurde beschränkt, um einen zufälligen Zusammenbruch von {{SITENAME}} zu verhindern.\nBitte kontaktiere die [[m:Special:MyLanguage/Stewards|Stewards]] auf [[m:Steward requests/Miscellaneous|Stewardanfragen/Verschiedenes auf Meta]], um die Löschung dieser Seite zu beantragen.",
 	"wikimedia-discussiontools-replywidget-terms-click": "Mit dem Klicken auf „$1“ stimmst du unseren [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Textes {{PLURAL:$3|unter}} $2 zu.",
-	"wikimedia-emailauth-login-help": "Wenn du Probleme beim Empfangen des Codes hast, kannst du [[Special:AccountRecovery|deinen Account wiederherstellen]]",
+	"wikimedia-emailauth-login-help": "Wenn du Probleme beim Empfangen des Codes hast, kannst du [[Special:AccountRecovery|deinen Account wiederherstellen]].",
 	"wikimedia-feedback-termsofuse": "Mit dem Absenden erkläre ich mich damit einverstanden, Feedback gemäß den Nutzungsbedingungen [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Nutzungsbedingungen] zu geben.",
 	"wikimedia-flow-terms-of-use-new-topic": "Mit dem Klicken auf „{{int:flow-newtopic-save}}“ stimmst du unseren [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Textes {{PLURAL:$2|unter}} $1 zu.",
 	"wikimedia-flow-terms-of-use-reply": "Mit dem Klicken auf „{{int:flow-reply-link}}“ stimmst du unseren [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Nutzungsbedingungen] und unwiderruflich der Veröffentlichung deines Textes {{PLURAL:$2|unter}} $1 zu.",

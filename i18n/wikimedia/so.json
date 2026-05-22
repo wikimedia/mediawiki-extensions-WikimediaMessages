@@ -4,14 +4,19 @@
 			"Abdullahi",
 			"Abshirdheere",
 			"Mimursal",
-			"Varnent"
+			"Varnent",
+			"AhmedG612"
 		]
 	},
 	"sitesupport": "Tabarucid",
 	"tooltip-n-sitesupport": "Nacaawi",
+	"nstab-timedtext": "Qoraal waqtiyaysan",
 	"group-autopatrolled": "Kormeer-iskiis",
 	"wikimedia-copyright-footer": "Qoralka waa la heli karaa sida uu qabo [https://creativecommons.org/licenses/by-sa/4.0/ Ruqasadda Commons ee hindisidda ee marka loo eego la midka];\nwaxaa soo hoos gali kara qodobo kale.\nEeg [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha adeegsiga] ee faahfaahinta.",
 	"wikimedia-copyrightwarning": "Marka aad kaydinayso bedelka, waxaad waafaqsantahay [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Shuruudaha adeegsiga], adigoo fasaxaya qoraalada aad galisay kamana laaban kartid [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 Ruqsadda] iyo [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nwaxaa sidoo kale ogoshahay in qoraalka magacaada lala xuso, dhanka linkiga oo kaliya.",
+	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 shatiga] iyo [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] iyo [https://www.gnu.org/licenses/fdl.html GFDL]",
+	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Soo dhawoow}}, $1!",
 	"wikibase-sitelinks-wikinews": "Wararkawiki",
 	"wikibase-sitelinks-wikiquote": "Xigoshadawiki",
 	"wikibase-sitelinks-wikisource": "Xogtawiki",
@@ -19,5 +24,10 @@
 	"wikimedia-developers": "Soo saareyaasha",
 	"wikimedia-statslink": "Tirakoobyada",
 	"wikimedia-cookiestatement": "Bayaanka Kukiyada",
+	"wikimedia-legal-safety-contacts": "Xiriirrada sharci & badbaado",
+	"protect-level-editpatrolprotected": "U oggolow oo keliya roondeeya",
+	"restriction-level-editpatrolprotected": "la ilaaliyey roondeeye",
+	"right-editpatrolprotected": "Wax ka beddel bogag la ilaaliyay ({{int:restriction-level-editpatrolprotected}})",
+	"action-editpatrolprotected": "Wax ka beddel bogag la ilaaliyay ({{int:restriction-level-editpatrolprotected}})",
 	"wikimedia-help-translate-prompt": "Ma waxaad doonaysaa in aad  tarjuntid? [$1 Tarjum fariimaha maqan]."
 }
