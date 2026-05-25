@@ -22,6 +22,7 @@
 	"wikimedia-ipinfo-help-text": "Isticmaalka qalabkan waxaa maamula [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines tilmaamaha qalabka macluumaadka IP]. Macluumaadka la muujiyo wuxuu ka yimaadaa MaxMind iyo [https://docs.spur.us/data-types Spur]. Waxaa laga yaabaa inuusan si buuxda u sax ahayn.",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Hal ama in ka badan oo adeeg proxy ah oo codsigaaga isticmaalay waa [[m:Special:MyLanguage/Global blocks|si caalami ah loo xanibay]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Haddii aad aaminsan tahay in si khalad ah laguu xanibay, waxaad ka heli kartaa macluumaad dheeraad ah iyo tilmaamo ku jira [[m:Special:MyLanguage/Stewards/Wizard|Haddiyada Xannibaadda ee Steward-ka\n]].",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Haddii Wikipedia uu kuu faa’iido leeyahay, fadlan maanta wax ku tabaruc.",
 	"wikimedia-emailauth-accountrecovery-intro": "Soo cesho akoonkaaga Wikimedia",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "Isticmaaluhu ma haysto xaqiijin laba tallaabo oo la hawlgeliyay, taas oo [[m:Special:MyLanguage/Abuse filter helpers|loo baahan yahay]] kaaliyeyaasha shaandhaynta xadgudubka",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "Isticmaaluhu ma haysto xaqiijin laba tallaabo oo la hawlgeliyay, taas oo [[m:Special:MyLanguage/Abuse filter maintainers|loo baahan yahay]] ilaaliyeyaasha shaandhaynta xadgudubka",
