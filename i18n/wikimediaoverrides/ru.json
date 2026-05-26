@@ -17,6 +17,7 @@
 			"Okras",
 			"Ole Yves",
 			"Pacha Tchernof",
+			"Shabe",
 			"Smigles",
 			"Stjn",
 			"Sunpriat",
@@ -87,6 +88,7 @@
 	"wikimedia-globalblocking-blockedtext-appeal-user": "Обсудить эту блокировку можно путём [[m:Steward requests/Global|подачи запроса на проверку в Мета-вики]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Если вы считаете, что вас заблокировали по ошибке, вы можете найти дополнительную информацию и инструкции в [[m:Special:MyLanguage/Stewards/Wizard|Мастере по изготовлению блоков стюардов]].",
 	"wikimedia-campaignevents-edit-field-clickwrap-checkbox-label": "Я согласен обращаться с информацией об участниках, включая личную информацию участника, собранную во время регистрации мероприятия, бережно и в соответствии с [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Условиями использования].",
+	"wikimedia-oathauth-step1-test": "Скачайте приложение для двухфакторной аутентификации. Рекомендуемые клиенты см. в разделе «[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Помощь: Двухфакторная аутентификация]».",
 	"wikimedia-skin-minerva-donate-banner-message": "Пожертвовать сейчас",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Если Википедия вам полезна, пожалуйста, сделайте пожертвование.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Если этот сайт был вам полезен, пожалуйста, сделайте пожертвование."
