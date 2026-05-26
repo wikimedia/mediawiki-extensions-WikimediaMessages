@@ -8,6 +8,9 @@
 			"Steenth"
 		]
 	},
+	"grouppage-oversight": "{{ns:project}}:Tilsyn",
+	"group-oversight": "Tilsynsførende",
+	"group-oversight-member": "{{GENDER:$1|tilsyn}}",
 	"hello": "Hej",
 	"please-translate": "Hjælp venligst med at oversætte til dit sprog",
 	"please-translate-short": "Hjælp til med at oversætte",
