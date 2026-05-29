@@ -6,6 +6,7 @@
 			"AhmedG612"
 		]
 	},
+	"wikimedia-acct_creation_throttle_hit": "Booqdayaasha wiki-ga ee adeegsanaya cinwaanka IP-gaaga ayaa abuuray {{PLURAL:$1|1 koonto|$1 koonto}} $2 ee la soo dhaafay, taasoo ah tirada ugu badan ee la oggol yahay muddadan.\nNatiijadaas awgeed, booqdayaasha adeegsanaya IP-kan ma abuuri karaan koontooyin dheeraad ah xilligan.\n\nHaddii aad joogto dhacdo diiradda lagu saarayo wax ku biirinta mashaariicda Wikimedia, fadlan eeg [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Codsiga si ku-meelgaar ah loo qaado xadka IP-ga]] si loo xalliyo arrintan.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(i caawi dooro)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]",
 	"wikimedia-checkuser-temporary-accounts-onboarding-dialog-ip-info-step-content": "Qalabka [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/IP_Info Macluumaadka IP-ga] (Macluumaadka IP-ga) waxa uu u fududeeyaa maamulayaasha, la dagaallamayaasha burburinta iyo isticmaaleyaasha khibradda leh inay helaan xog ku saabsan cinwaannada IP-ga iyaga oo aan si toos ah u arkin cinwaannada IP-ga laftooda.\n\nIsticmaaleyaasha buuxiya [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines#Requirements_for_access shuruudaha gelitaanka] waxay IP Info ka hawlgelin karaan dookhyadooda. Marka la hawlgeliyo, IP Info pop-up ayaa ka soo muuqan doona agagaarka akoonnada ku-meelgaarka ah iyo cinwaannada IP-ga ee hore. Xogta IP-ga sidoo kale waxa lagu soo bandhigi doonaa bogga wax ku biirinta.",
@@ -21,6 +22,7 @@
 	"wikimedia-ipinfo-help-text": "Isticmaalka qalabkan waxaa maamula [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines tilmaamaha qalabka macluumaadka IP]. Macluumaadka la muujiyo wuxuu ka yimaadaa MaxMind iyo [https://docs.spur.us/data-types Spur]. Waxaa laga yaabaa inuusan si buuxda u sax ahayn.",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Hal ama in ka badan oo adeeg proxy ah oo codsigaaga isticmaalay waa [[m:Special:MyLanguage/Global blocks|si caalami ah loo xanibay]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Haddii aad aaminsan tahay in si khalad ah laguu xanibay, waxaad ka heli kartaa macluumaad dheeraad ah iyo tilmaamo ku jira [[m:Special:MyLanguage/Stewards/Wizard|Haddiyada Xannibaadda ee Steward-ka\n]].",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Haddii Wikipedia uu kuu faa’iido leeyahay, fadlan maanta wax ku tabaruc.",
 	"wikimedia-emailauth-accountrecovery-intro": "Soo cesho akoonkaaga Wikimedia",
 	"wikimedia-userrights-restricted-group-checkuser": "Isticmaaluhu ma shidin xaqiijinta laba-tallaabo ah, taas oo [[m:Special:MyLanguage/CheckUser policy|looga baahan yahay]]  Checkusers"
 }
