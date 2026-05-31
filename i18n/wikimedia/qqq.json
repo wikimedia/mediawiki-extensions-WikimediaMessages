@@ -293,6 +293,8 @@
 	"mulwikisource-sidebar-scriptorium": "Link label for sidebar link to the ''Scriptorium'', which is the Multilingual Wikisource's village pump.\n\nIt is OK to translate this into a more general term like \"Central discussion\" or \"Village pump\", if those terms are more sensible in your language.",
 	"mulwikisource-sidebar-news": "Link label for sidebar link to the page Wikisource:News in the multilingual Wikisource.",
 	"mulwikisource-sidebar-random-book": "Link label for sidebar link to go to a random book in the multilingual Wikisource.",
+	"wikilambda-abstractwiki-sidebar-projectchat": "Link label for sidebar link to the Project chat (village pump) in the Abstract Wikipedia.",
+	"wikilambda-abstractwiki-sidebar-createarticle": "Link label for sidebar link to create a new article in the Abstract Wikipedia.",
 	"tag-emoji": "Name for a change tag. Shown in diffs and revision lists next to edits which have been tagged by an abuse filter, and on [[Special:Tags]].",
 	"tag-emoji-description": "Long description for a change tag. Shown on [[Special:Tags]].",
 	"tag-AWB": "{{optional}}\n\nName for a change tag. Shown in diffs and revision lists next to edits which have been tagged as being made by AutoWikiBrowser, and on [[Special:Tags]].",
