@@ -5,6 +5,7 @@
 			"Alex Khimich",
 			"Andriykopanytsia",
 			"Base",
+			"Movses",
 			"Piramidion",
 			"Vlad5250",
 			"Ата",
@@ -16,6 +17,7 @@
 	"group-oversight-member": "{{GENDER:$1|приховувач|приховувачка}}",
 	"hello": "Привіт",
 	"please-translate": "Будь ласка, допоможіть перекласти Вашою мовою",
+	"please-translate-short": "Допоможіть перекласти",
 	"thank-you": "{{GENDER:$1|Дякуємо.}}",
 	"specialinvestigate-feedback": "Залишити відгук"
 }
