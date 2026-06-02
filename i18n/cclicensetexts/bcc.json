@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Moshtank"
+			"Moshtank",
+			"Yasirkhan"
 		]
 	},
 	"wm-license-cc-attribution": "پَننام",
-	"wm-license-cc-by-sa-3.0-text": "اے پایل گۏن [[{{int:wm-license-cc-wiki-link}}|کریتیو کامنزءِ]] مننتاکا [[creativecommons:by-sa/3.0/|Attribution-Share Alike 3.0 نہ ٹَھِتَگ]] ءُ شِنگ کنگ بیتگ.",
+	"wm-license-cc-by-sa-3.0-text": "اے فائل گوں [[{{int:wm-license-cc-wiki-link}}|کریٹیو کامنز]] [//creativecommons.org/licenses/by-sa/3.0/ انتساب-یکساں شنگکاری 3.0 انپورٹڈ] لائسنس ءِ رد ءَ اِنت۔",
 	"wm-license-cc-free": "شما آزات اِت:",
 	"wm-license-cc-free-to-share-header": "پہ امرسانی کنگا",
 	"wm-license-cc-free-to-share-text": "پہ کپی کنگ ءُ چیزپدءِ شِنگ ءُ شۏنا",
