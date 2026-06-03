@@ -25,5 +25,7 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle": "که ويکيپېډيا ستاسو لپاره گټوره وي، مهرباني وکړئ نن ورځ ورکړئ.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "که دا وېبځی ستاسو لپاره گټوره وي، مهرباني وکړئ نن ورځ ورکړئ.",
 	"wikimedia-emailauth-accountrecovery-intro": "د خپل ويکي‌رسنۍ گڼون بياترلاسنه",
-	"wikimedia-emailauth-accountrecovery-registeredemail-label": "ستاسو ويکي‌رسنۍ گڼون کې نوم‌ليکلی برېښليک"
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "ستاسو ويکي‌رسنۍ گڼون کې نوم‌ليکلی برېښليک",
+	"wikimedia-userrights-restricted-group-wmf-email-block-override": "کارن دوه‌پړاويز تاييد چارن کړی نه دی، کوم چې د ويکي‌رسنۍ بنسټ برېښليک بنديز له سره ليکنې کارنانو ته اړين دی",
+	"wikimedia-userrights-restricted-group-wmf-email-block-override-private-conditions": "د ويکي‌رسنۍ بنسټ برېښليک بنديز له سره ليکنې کارنان بايد دوه‌پړاويز تاييد چارن کړي، کوم به چې د فورمې سپارلو پرمهال وکتل شي"
 }
