@@ -8,7 +8,8 @@
 			"Multichill",
 			"Robert Važan",
 			"Rudko",
-			"TomášPolonec"
+			"TomášPolonec",
+			"Wizzard"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:sk:Creative Commons",
@@ -147,7 +148,7 @@
 	"wm-license-cc-by-sa-2.5-si-text": "Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/si/|Attribution-Share Alike 2.5 Slovenia]].",
 	"wm-license-cc-by-sa-2.5-tw-text": "Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/tw/|Attribution-Share Alike 2.5 Taiwan]].",
 	"wm-license-cc-by-sa-2.5-za-text": "Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/2.5/za/|Attribution-Share Alike 2.5 South Africa]].",
-	"wm-license-cc-by-sa-3.0-text": "Tento súbor podlieha licencii [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/|Attribution-Share Alike 3.0 Unported]]",
+	"wm-license-cc-by-sa-3.0-text": "Tento súbor je licencovaný pod licenciou [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
 	"wm-license-cc-by-sa-3.0-2.5-2.0-1.0-text": "Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] Attribution-Share Alike [[creativecommons:by-sa/3.0/|3.0 Unported]], [[creativecommons:by-sa/2.5/|2.5 Generic]], [[creativecommons:by-sa/2.0/|2.0 Generic]] a [[creativecommons:by-sa/1.0/|1.0 Generic]].",
 	"wm-license-cc-by-sa-3.0-at-text": "Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/at/|Attribution-Share Alike 3.0 Austria]].",
 	"wm-license-cc-by-sa-3.0-au-text": "Tento súbor je licencovaný za podmienok [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/au/|Attribution-Share Alike 3.0 Australia]].",
@@ -186,6 +187,6 @@
 	"wm-license-cc-conditions-attribution-header": "uvedenie autorov",
 	"wm-license-cc-conditions-attribution-text": "Musíte spomenúť autorov (jednotlivo alebo kolektívne), poskytnúť odkaz na licenciu a uviesť, či ste niečo zmenili. Môžete to urobiť ľubovoľným primeraným spôsobom, ale nie spôsobom naznačujúcim, že poskytovateľ licencie podporuje vás alebo vaše použitie diela.",
 	"wm-license-cc-conditions-share_alike-header": "meniť za rovnakých podmienok",
-	"wm-license-cc-conditions-share_alike-text": "Ak toto dielo zmeníte, prevediete do inej formy alebo použijete ako základ iného diela, musíte výsledok šíriť pod [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses rovnakou alebo kompatibilnou licenciou] ako originál.",
+	"wm-license-cc-conditions-share_alike-text": "Ak materiál upravíte, transformujete alebo na ňom postavíte vlastné dielo, musíte svoje príspevky šíriť pod [[ccorg:share-your-work/licensing-considerations/compatible-licenses|rovnakou alebo kompatibilnou licenciou]] ako originál.",
 	"wm-license-cc-pd-mark-text": "Tento súbor bol identifikovaný, že nemá žiadne známe obmedzenia vyplývajúce z autorského zákona vrátane všetkých súvisiacich a susedných práv."
 }
