@@ -577,5 +577,6 @@
 	"wikimedia-articletopics-topic-mathematics": "Математика",
 	"wikimedia-articletopics-topic-medicine-and-health": "Медицина і здоров'я",
 	"wikimedia-articletopics-topic-physics": "Фізика",
-	"wikimedia-articletopics-topic-technology": "Технології"
+	"wikimedia-articletopics-topic-technology": "Технології",
+	"wikimedia-namespaceinfo-description-ns470": "Простір імен для схем, що використовувалися Legacy EventLogging для перевірки аналітичних подій. Усі сторінки в просторі імен Schema було очищено в рамках [[phab:T238230|виведення з експлуатації Legacy EventLogging]]."
 }
