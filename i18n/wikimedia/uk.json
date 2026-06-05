@@ -585,6 +585,7 @@
 	"wikimedia-articletopics-topic-medicine-and-health": "Медицина і здоров'я",
 	"wikimedia-articletopics-topic-physics": "Фізика",
 	"wikimedia-articletopics-topic-technology": "Технології",
+	"wikimedia-namespaceinfo-description-ns470": "Простір імен для схем, що використовувалися Legacy EventLogging для перевірки аналітичних подій. Усі сторінки в просторі імен Schema було очищено в рамках [[phab:T238230|виведення з експлуатації Legacy EventLogging]].",
 	"wikimedia-2fa-echo-category-title": "Двофакторна автентифікація не ввімкнена у вашому обліковому записі",
 	"wikimedia-2fa-notification-header": "Будь ласка, налаштуйте двофакторну автентифікацію зараз",
 	"wikimedia-2fa-notification-body": "Зробіть це до $1, інакше ви втратите приналежність до деяких своїх груп користувачів.",
