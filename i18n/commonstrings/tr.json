@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"HakanIST",
 			"Nikki",
 			"SaldırganSincap",
 			"Varnent"
@@ -13,6 +14,7 @@
 	"wm-commonstrings-connect": "Bağlan",
 	"wm-commonstrings-contactus": "İletişim",
 	"wm-commonstrings-events": "Etkinlikler",
+	"wm-commonstrings-follow": "Takip et",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Ana madde: $1|Ana maddeler: $1}}",
 	"wm-commonstrings-noticeboard": "Duyuru panosu",
 	"wm-commonstrings-objectives": "Amaçlar",
