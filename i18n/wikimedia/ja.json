@@ -457,7 +457,7 @@
 	"tooltip-gadget-purgetab-text": "このページのサーバーキャッシュを破棄します",
 	"gadget-purgetab-error": "キャッシュの破棄に失敗しました",
 	"gadget-souspages-subpages": "下位ページ",
-	"ext-campaignevents-registration-form-policy": "ウィキメディア財団が主催または資金提供するイベントは、 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_space_policy 友好な空間に関する方針]をはじめウィキメディア財団のすべての方針に準拠する必要があります。",
+	"ext-campaignevents-registration-form-policy": "ウィキメディア財団が主催または資金提供するイベントは、 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Friendly_Space_Policy_for_Wikimedia_Foundation_Events 友好的な空間の方針]をはじめウィキメディア財団のすべての方針に準拠する必要があります。",
 	"readinglists-import-app": "このリーディングリストをインポートするには、最新版のウィキペディアアプリをインストールしてください。",
 	"readinglists-import-app-with-link": "最新バージョンのウィキペディアアプリを[$1 ダウンロード]してインストール:",
 	"readinglists-list-empty-message": "ウィキペディアのアプリをインストールすると、この一覧をインポートできます。",

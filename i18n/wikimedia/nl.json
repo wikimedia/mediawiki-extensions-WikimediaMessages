@@ -430,7 +430,7 @@
 	"restriction-level-edittrustedprotected": "beveiligd: alleen vertrouwde gebruikers",
 	"right-edittrustedprotected": "Pagina’s bewerken die beveiligd zijn als “{{int:restriction-level-edittrustedprotected}}”",
 	"action-edittrustedprotected": "pagina’s te bewerken die beveiligd zijn als “{{int:restriction-level-edittrustedprotected}}”",
-	"group-docseditor": "Documentatie-redacteuren",
+	"group-docseditor": "Documentatiebewerkers",
 	"group-docseditor-member": "documentatie-redact{{GENDER:$1|eur|rice}}",
 	"action-docseditor": "documentatie te bewerken",
 	"right-docseditor": "Documentatie bewerken",
