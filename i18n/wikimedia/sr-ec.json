@@ -37,7 +37,7 @@
 	"nstab-creator": "Творац",
 	"nstab-institution": "Установа",
 	"nstab-sequence": "Низ",
-	"nstab-timedtext": "Усклађен текст",
+	"nstab-timedtext": "Титлови",
 	"group-image-reviewer": "Прегледачи слика",
 	"group-image-reviewer-member": "{{GENDER:$1|прегледач слика|прегледачица слика|прегледач слика}}",
 	"grouppage-image-reviewer": "{{ns:project}}:Прегледачи слика",
