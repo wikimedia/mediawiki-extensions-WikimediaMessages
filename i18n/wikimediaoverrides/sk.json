@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Luky001",
-			"Teslaton"
+			"Teslaton",
+			"Wizzard"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Návštevníci tejto wiki z vašej IP adresy už za posledný deň vytvorili {{PLURAL:$1|$1 účet|$1 účty|$1 účtov}}, čo je maximálny počet povolený za toto časové obdobie.\nZ tohto dôvodu nemôžu návštevníci z tejto IP adresy momentálne vytvoriť ďalšie účty.\n\nPokiaľ sa zúčastňujete akcie, ktorá sa zameriava na prispievanie do projektov Wikimedia, pozrite sa na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žiadosť o dočasné zrušenenie obmedzenia pre IP adresu]], aby šlo tento problém vyriešiť.",
@@ -10,12 +11,12 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "Môžete tiež navštíviť nastavenia aj na [[m:Special:CentralAuth/$1|ďalších projektoch Wikimedia, na ktorých ste prispeli]], aby ste si mohli stiahnuť dáta z vášho účtu z týchto projektov.",
 	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázok? [[{{MediaWiki:createacct-captcha-help-url}}|Požiadajte o účet]].",
 	"wikimedia-centralauth-groupname": "Nadácie Wikimedia",
-	"wikimedia-discussiontools-replywidget-terms-click": "Kliknutím na „$1“ súhlasíte s našimi Podmienkami použitia a súhlasíte s neodvolateľným zverejnením svojho textu za podmienok licencií $2.",
+	"wikimedia-discussiontools-replywidget-terms-click": "Kliknutím na „$1“ súhlasíte s našimi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Podmienkami použitia] a súhlasíte s neodvolateľným zverejnením svojho textu {{PLURAL:$3|za podmienok}} $2.",
 	"wikimedia-feedback-termsofuse": "Súhlasím s tým, že budem poskytovať spätnú väzbu v súlade s [https://foundation.wikimedia.org/wiki/Terms_of_Use Podmienkami použitia].",
 	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nBlokovanie vykonal/a: $1.\nUvedený dôvod je ''$2''.\n\n* Začiatok blokovania: $8\n* Blokovanie vyprší: $6\n\nVaša aktuálna IP adresa je $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-sitematrix": "Zoznam wiki projektov Nadácie Wikimedia",
-	"wikimedia-sitematrix-others": "Iné projekty nadácie Wikimedia",
-	"wikimedia-sitematrix-summary": "Táto špeciálna stránka obsahuje zoznam všetkých lokalít Wikimedia.",
+	"wikimedia-sitematrix": "Zoznam wiki projektov Wikimedia",
+	"wikimedia-sitematrix-others": "Iné projekty Wikimedia",
+	"wikimedia-sitematrix-summary": "Táto špeciálna stránka obsahuje zoznam všetkých wiki Wikimedia.",
 	"wikimedia-globalblocking-blockedtext-on-range": "Vaša IP adresa sa nachádza v rozsahu, ktorý bol [[m:Special:MyLanguage/Global blocks|zablokovaný na všetkých wikiprojektoch Wikimedia Foundation]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Blokovaný rozsah je $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Ak si myslíte, že ste boli zablokovaní omylom, ďalšie informácie a pokyny nájdete v [[m:Special:MyLanguage/Stewards/Wizard|Sprievodcovi pri blokovaní stewardami]].",

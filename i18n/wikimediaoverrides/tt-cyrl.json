@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Mansur",
-			"Ерней"
+			"Ерней",
+			"Ильгиз"
 		]
 	},
+	"wikimedia-prefs-user-downloaddata-help-message": "Сез [[m:Special:CentralAuth/$1|кертемегез булган башка Викимедиа проектларындагы]] көйләнмәләрегез битенә керә аласыз. Хисапъязма мәгълүматларыгыз шул проектлардан йөкләнеләчәк.",
 	"wikimedia-centralauth-groupname": "Викимедиа Фонды",
 	"wikimedia-sitematrix": "Викимедиа вики-проектлары исемлеге",
 	"wikimedia-sitematrix-others": "Башка Викимедиа проектлары",
