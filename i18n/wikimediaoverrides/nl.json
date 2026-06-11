@@ -108,7 +108,7 @@
 	"wikimedia-userrights-restricted-group-checkuser": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/CheckUser policy|vereist]] is voor checkusers.",
 	"wikimedia-userrights-restricted-group-editor": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat vereist is voor bewerkers",
 	"wikimedia-userrights-restricted-group-founder": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat vereist is voor oprichters",
-	"wikimedia-userrights-restricted-group-global-interface-editor": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/Global interface editors|vereist]] is voor globale interface-editors",
+	"wikimedia-userrights-restricted-group-global-interface-editor": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/Global interface editors|vereist]] is voor globale interfacebewerkers",
 	"wikimedia-userrights-restricted-group-global-sysop": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/Global sysops|vereist]] is voor globale sysops",
 	"wikimedia-userrights-restricted-group-interface-admin": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/Interface administrators|vereist]] is voor interfacebeheerders.",
 	"wikimedia-userrights-restricted-group-new-wikis-importer": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/New wikis importers|vereist]] is voor nieuwe wiki-importeurs",
