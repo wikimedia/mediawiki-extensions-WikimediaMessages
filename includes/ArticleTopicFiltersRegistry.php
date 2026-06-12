@@ -9,7 +9,8 @@ use InvalidArgumentException;
 /**
  * This class provides a list of topic filters for articles that can be presented directly to users. Each filter defined
  * here is mapped to one or more topics in the Articletopic taxonomy (https://www.mediawiki.org/wiki/ORES/Articletopic)
- * used by LiftWing (https://api.wikimedia.org/wiki/Lift_Wing_API/Reference/Get_articletopic_outlink_prediction).
+ * used by the Lift Wing API (https://wikitech.wikimedia.org/wiki/Machine_Learning/LiftWing/API)
+ * via the predict-topics endpoint (https://www.mediawiki.org/w/index.php?api=lift-wing&title=Special%3ARestSandbox#/Topics%20and%20descriptions/outlinkTopicModelPredict).
  * Topic filters are grouped by category, and both the topics and the categories are localisable.
  * Originally written for the ContentTranslation extension in includes/ArticleTopicsDefinition.php.
  */
