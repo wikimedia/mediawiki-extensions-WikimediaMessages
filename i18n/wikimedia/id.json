@@ -37,7 +37,7 @@
 		]
 	},
 	"wikimediamessages-desc": "Pesan-pesan khusus Wikimedia",
-	"sitesupport": "Menyumbang",
+	"sitesupport": "Sumbangi",
 	"tooltip-n-sitesupport": "Dukung kami",
 	"specialpages-group-contribution": "Kontribusi/Penggalang dana",
 	"nstab-creator": "Pencipta",
@@ -525,7 +525,7 @@
 	"wikimedia-talkheader-civility": "Jaga [[$1|kesopanan]] selama berdiskusi.",
 	"wikimedia-talkheader-pageprompt": "Halaman ini untuk diskusi terkait dengan halaman $1.",
 	"wikimedia-talkheader-signature": "[[$1|tanda tangani]] komentar anda menggunakan empat tilde (~~~~)",
-	"wikimedia-questions-label": "Pertanyaan untuk Wikimedia?",
+	"wikimedia-questions-label": "Mau tanyai Wikimedia?",
 	"wikimedia-foundation-questions-prompt": "Ada pertanyaan tentang Wikimedia Foundation atau proyek kami? Hubungi tim kami.",
 	"wikimedia-foundation-questions-prompt-withemail": "Ada pertanyaan untuk Yayasan Wikimedia? Hubungi tim kami melalui surel di '''answers@wikimedia.org'''",
 	"wikimedia-foundation-search-label-short": "Telusuri Yayasan",
