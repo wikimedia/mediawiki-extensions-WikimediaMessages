@@ -9,5 +9,8 @@
 	"wikimedia-centralauth-groupname": "de Wikimedia Foundation",
 	"wikimedia-sitematrix": "Lyste van Wikimedia-wikis",
 	"wikimedia-sitematrix-others": "Aandere projekten van Wikimedia",
-	"wikimedia-sitematrix-summary": "Disse spesiale zied gif n overzicht van alle wiki's van Wikimedia."
+	"wikimedia-sitematrix-summary": "Disse spesiale zied gif n overzicht van alle wiki's van Wikimedia.",
+	"wikimedia-userrights-restricted-group-arbcom": "Disse gebruker hevt geen tweytrapsautentikaty ansetted, wat vereisd is vöär leaden van de arbitragekommissy.",
+	"wikimedia-userrights-restricted-group-bureaucrat": "Disse gebruuker hevt geen tweytrapsautentikaty ansetted, wat vereisd is vöär bürokraten.",
+	"wikimedia-userrights-restricted-group-ombuds": "Disse gebruker hevt geen tweytrapsautentikaty ansetted, wat [[m:Special:MyLanguage/Ombuds commission|vereisd]] is vöär de ombüdsdeenst"
 }

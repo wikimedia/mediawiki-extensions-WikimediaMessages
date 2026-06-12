@@ -29,5 +29,6 @@
 	"restriction-level-editpatrolprotected": "la ilaaliyey roondeeye",
 	"right-editpatrolprotected": "Wax ka beddel bogag la ilaaliyay ({{int:restriction-level-editpatrolprotected}})",
 	"action-editpatrolprotected": "Wax ka beddel bogag la ilaaliyay ({{int:restriction-level-editpatrolprotected}})",
+	"ipinfo-global-contributions-url-label": "Wax ku darsiyada caalamiga ah",
 	"wikimedia-help-translate-prompt": "Ma waxaad doonaysaa in aad  tarjuntid? [$1 Tarjum fariimaha maqan]."
 }
