@@ -383,7 +383,7 @@
 	"restriction-level-edittrustedprotected": "beveiligd: alleen vertrouwde gebruikers",
 	"right-edittrustedprotected": "Pagina’s bewerken die beveiligd zijn als “{{int:protect-level-edittrustedprotected}}”",
 	"action-edittrustedprotected": "pagina’s te bewerken die beveiligd zijn als “{{int:protect-level-edittrustedprotected}}”",
-	"group-docseditor": "Documentatie-redacteuren",
+	"group-docseditor": "Documentatiebewerkers",
 	"group-docseditor-member": "documentatie-redact{{GENDER:$1|eur|rice}}",
 	"action-docseditor": "documentatie te bewerken",
 	"right-docseditor": "Documentatie bewerken",
@@ -469,8 +469,8 @@
 	"wikimedia-foundation-footer-description-short": "De Wikimedia Foundation, Inc is een liefdadigheidsorganisatie zonder winstoogmerk die zich inzet voor het stimuleren van de groei, ontwikkeling en distributie van vrije, meertalige inhoud, en voor het kosteloos ter beschikking stellen van de volledige inhoud van deze op wiki gebaseerde projecten aan het publiek.",
 	"wikimedia-capacity-development-label-short": "Capaciteitsontwikkeling",
 	"wikimedia-movement-resources-label-short": "Bewegingsbronnen",
-	"wikimedia-translation-disclaimer-nolink": "Let op dat in het geval van strijdigheid tussen de betekenis of interpretatie in de originele Engelse versie van dit document en een vertaling, de originele Engelse versie voorrang zal hebben.",
-	"wikimedia-translation-disclaimer-withlink": "Let op dat in het geval van strijdigheid tussen de betekenis of interpretatie in de originele Engelse versie van dit document en een vertaling, de [[$1|originele Engelse versie]] voorrang zal hebben.",
+	"wikimedia-translation-disclaimer-nolink": "Let op dat in het geval van strijdigheid tussen de betekenis of interpretatie in de oorspronkelijke Engelse versie van dit document en een vertaling, de oorspronkelijke Engelse versie voorrang zal hebben.",
+	"wikimedia-translation-disclaimer-withlink": "Let op dat in het geval van strijdigheid tussen de betekenis of interpretatie in de oorspronkelijke Engelse versie van dit document en een vertaling, de [[$1|oorspronkelijke Engelse versie]] voorrang zal hebben.",
 	"wikimedia-foundation-staffdisclaimer-userpage": "Ik werk voor of lever diensten aan de Wikimedia Foundation, en dit is het account dat ik tracht te gebruiken voor bewerkingen of uitspraken die ik in die rol doe. De Foundation controleert echter niet al mijn activiteiten. De via dit account aangebrachte bewerkingen, verklaringen of andere bijdragen weerspiegelen daarom mogelijk niet de mening van de Foundation.",
 	"wikimedia-talk-archive-page-intro": "Dit is een '''archief''' van eerdere discussies. '''Bewerk de inhoud van deze pagina niet.''' Als u een nieuwe discussie wilt starten of een oude wilt doen herleven, doe dit dan op de [[$1|huidige overlegpagina]]."
 }
