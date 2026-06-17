@@ -13,7 +13,8 @@
 			"Re demz",
 			"SaldırganSincap",
 			"TheEduGobi",
-			"BraunOBruno"
+			"BraunOBruno",
+			"Pcoombe"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Os visitantes desta wiki utilizando o seu endereço de IP criaram {{PLURAL:$1|uma conta|$1 contas}} no último dia, que é o máximo permitido neste período de tempo.\nComo resultado, os visitantes que utilizam este endereço de IP não podem criar mais contas neste momento.\n\nSe você estiver num evento onde contribuir com os projetos da Wikimedia é o foco, por favo veja \"[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Solicitando a eliminação temporal de limitação de IP]]\" para te ajudar a resolver este problema.",
@@ -50,5 +51,7 @@
 	"wikimedia-webauthn-ui-login-prompt": "Por favor toque no seu dispositivo de verificação ou siga as instruções do navegador. Observe que você precisará fazer login no mesmo wiki em que registrou originalmente seu dispositivo de verificação",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Privacy_policy Política de privacidade]",
 	"wikimedia-ipinfo-help-text": "O uso desta ferramenta é regido pelas [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines diretrizes da ferramenta de informações de IP]. As informações exibidas são provenientes da MaxMind e da [https://docs.spur.us/data-types Spur]. Podem não ser totalmente precisas.",
-	"wikimedia-ipinfo-preference-use-agreement": "Concordo em usar esta ferramenta de acordo com as [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines diretrizes da ferramenta de informações de IP], exclusivamente para a investigação ou prevenção de vandalismo, abuso ou outras violações da Fundação Wikimedia ou das políticas da comunidade."
+	"wikimedia-ipinfo-preference-use-agreement": "Concordo em usar esta ferramenta de acordo com as [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines diretrizes da ferramenta de informações de IP], exclusivamente para a investigação ou prevenção de vandalismo, abuso ou outras violações da Fundação Wikimedia ou das políticas da comunidade.",
+	"wikimedia-skin-minerva-donate-banner-message": "Doar agora",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Se a Wikipédia é útil para você, doe hoje mesmo."
 }
