@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"ArcaneIE",
 			"StanProg"
 		]
 	},
-	"search-interwiki-results-bgwiki": "Резултати от [[:bg:|Уикипедия на български]]."
+	"search-interwiki-results-bgwiki": "Резултати от [[:bg:|Уикипедия на български]].",
+	"search-interwiki-results-nynwiki": "Показване на резултати от [[:nyn:|Рънянкор Уикипедия]]."
 }
