@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"grouppage-oversight": "{{ns:project}}:Oversight",
+	"group-oversight": "Kormeerayaasha",
+	"group-oversight-member": "{{GENDER:$1|kormeere}}",
+	"hello": "Salaan",
+	"please-translate": "Fadlan ka caawi turjumaadda luqaddaada",
+	"please-translate-short": "Ka caawi tarjumaadda",
+	"thank-you": "{{GENDER:$1|Mahadsanid.}}",
+	"specialinvestigate-feedback": "Ka tag ra'yi celin"
+}

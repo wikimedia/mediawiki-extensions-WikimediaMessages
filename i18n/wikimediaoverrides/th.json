@@ -4,7 +4,8 @@
 			"Aefgh39622",
 			"Ekminarin",
 			"Horus",
-			"RidJasper"
+			"RidJasper",
+			"Ouclie"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(อ่านก่อนตั้งชื่อ)]]",
@@ -35,6 +36,7 @@
 	"wikimedia-globalblocking-blockedtext-all-wikis": "เลขที่อยู่ไอพีของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกทุกวิกิ]]",
 	"wikimedia-globalblocking-blockedtext-on-range": "ที่อยู่ไอพีของคุณอยู่ในช่วงไอพีที่[[m:Special:MyLanguage/Global blocks|ถูกบล็อกในทุกวิกิของมูลนิธิวิกิมีเดีย]]",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "พร็อกซีเซิร์ฟเวอร์อย่างน้อยหนึ่งเซิร์ฟเวอร์ที่ใช้โดยคำขอของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกข้ามโครงการ]]",
+	"wikimedia-globalblocking-blockedtext-on-user": "บัญชีของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกในทุกวิกิ]]",
 	"wikimedia-globalblocking-blockedtext-ip-range": "ช่วงที่ถูกบล็อกคือ $1",
 	"wikimedia-globalblocking-blockedtext-proxy": "ที่อยู่พร็อกซีที่ถูกบล็อกคือ $1",
 	"wikimedia-globalblocking-blockedtext-mistake": "หากคุณเชื่อว่าคุณถูกบล็อกโดยไม่ถูกต้อง คุณสามารถดูสารสนเทศเพิ่มเติมและคำแนะนำได้ที่[[m:Stewards/Wizard|ตัวช่วยจัดการการบล็อกของผู้จัดการโครงการ]]"
