@@ -464,6 +464,7 @@
 	"project-localized-name-internalwiki": "{{ProjectNameDocumentation|url=https://internal.wikimedia.org|name=Internal}}\n{{Identical|Internal}}",
 	"project-localized-name-iowiki": "{{ProjectNameDocumentation|url=https://io.wikipedia.org|name=Ido Wikipedia|language=io}}",
 	"project-localized-name-iowiktionary": "{{ProjectNameDocumentation|url=https://io.wiktionary.org|name=Ido Wiktionary|language=io}}",
+	"project-localized-name-isvwiki": "{{ProjectNameDocumentation|url=https://isv.wikipedia.org|name=Interslavic Wikipedia|language=isv}}",
 	"project-localized-name-iswiki": "{{ProjectNameDocumentation|url=https://is.wikipedia.org|name=Icelandic Wikipedia|language=is}}",
 	"project-localized-name-iswikibooks": "{{ProjectNameDocumentation|url=https://is.wikibooks.org|name=Icelandic Wikibooks|language=is}}",
 	"project-localized-name-iswikiquote": "{{ProjectNameDocumentation|url=https://is.wikiquote.org|name=Icelandic Wikiquote|language=is}}",
