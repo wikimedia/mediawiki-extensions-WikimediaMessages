@@ -101,6 +101,7 @@
 	"wikimedia-notificationemail_html_footer": "If this wasn't you, write to [mailto:ca@wikimedia.org ca@wikimedia.org] immediately.",
 	"wikimedia-notificationemail_body_changed": "Hello $2,\n\nYou recently changed your email on {{SITENAME}}. The new email is $3.\n\nIf this wasn't you, write to ca@wikimedia.org immediately.",
 	"wikimedia-notificationemail_body_removed": "Hello $2,\n\nYou recently removed your email on {{SITENAME}}.\n\nIf this wasn't you, write to ca@wikimedia.org immediately.",
+	"wikimedia-userlogout-temp-moreinfo": "Please be aware that using multiple temporary accounts for disruption, block evasion, or avoiding detection violates this wiki’s policies and could lead to blocks or other restrictions.",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "User does not have two-factor authentication enabled, which is [[m:Special:MyLanguage/Abuse filter helpers|required]] for abuse filter helpers",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "User does not have two-factor authentication enabled, which is [[m:Special:MyLanguage/Abuse filter maintainers|required]] for abuse filter maintainers",
 	"wikimedia-userrights-restricted-group-arbcom": "User does not have two-factor authentication enabled, which is required for Arbitration Committee members",

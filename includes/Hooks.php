@@ -231,6 +231,8 @@ class Hooks implements
 			'notificationemail_html_footer',
 			'notificationemail_body_changed',
 			'notificationemail_body_removed',
+			// T423519
+			'userlogout-temp-moreinfo',
 			// T418586, T423118, T423119, T423120
 			"userrights-restricted-group-abusefilter-helper",
 			"userrights-restricted-group-abusefilter-maintainer",

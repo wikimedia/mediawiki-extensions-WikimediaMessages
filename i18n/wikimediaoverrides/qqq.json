@@ -116,6 +116,7 @@
 	"wikimedia-notificationemail_html_footer": "Footer in the HTML notification email when user changes or removes their email. WMF override of {{msg-mw|notificationemail_html_footer}} directing users to ca@wikimedia.org instead of a generic site administrator.",
 	"wikimedia-notificationemail_body_changed": "Body of the plaintext email sent to the old address when user changes their email. WMF override of {{msg-mw|notificationemail_body_changed}} directing users to ca@wikimedia.org.\n\nParameters:\n* $1 - the IP address of the user (legacy, may be unused)\n* $2 - the username\n* $3 - the new email address",
 	"wikimedia-notificationemail_body_removed": "Body of the plaintext email sent to the old address when user removes their email. WMF override of {{msg-mw|notificationemail_body_removed}} directing users to ca@wikimedia.org.\n\nParameters:\n* $1 - the IP address of the user (legacy, may be unused)\n* $2 - the username",
+	"wikimedia-userlogout-temp-moreinfo": "Extra information shown to temporary users logging out, warning against creating multiple accounts.\\n{{format|jquerymsg}}",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "Notice informing why the user cannot be added to global abuse filter helpers group",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "Notice informing why the user cannot be added to global abuse filter maintainers group",
 	"wikimedia-userrights-restricted-group-arbcom": "Notice informing why the user cannot be added to Arbitration Committee group",
