@@ -165,6 +165,12 @@ class Hooks implements
 			'interfaceadmin-info',
 			// T121639
 			'ipb-confirmhideuser',
+			// T95133
+			'mwoauth-consumer-allwikis',
+			'mwoauth-form-description-allwikis',
+			'mwoauth-form-description-allwikis-nogrants',
+			'mwoauth-form-description-allwikis-privateinfo',
+			'mwoauth-form-description-allwikis-privateinfo-norealname',
 			'mwoauth-form-privacypolicy-link',
 			// T252375
 			'mobile-frontend-terms-url',
