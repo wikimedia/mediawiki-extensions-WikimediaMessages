@@ -287,6 +287,8 @@ class Hooks implements
 			"userrights-restricted-group-wmf-supportsafety-private-conditions",
 			// T418195
 			"rest-module-site.v1-desc",
+			// T27611
+			"show-big-image-preview-differ",
 		];
 
 		static $allbutmetawikikeys = [

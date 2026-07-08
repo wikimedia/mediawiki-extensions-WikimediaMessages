@@ -247,6 +247,7 @@
 	"tag-AWB-helppage": "https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser",
 	"search-interwiki-custom": "wikt:From Wiktionary\nb:From Wikibooks\nn:From Wikinews\nq:From Wikiquote\ns:From Wikisource\nv:From Wikiversity\nvoy:From Wikivoyage",
 	"shared-repo-name-shared": "Wikimedia Commons",
+	"wikimedia-show-big-image-preview-differ": "Size of the above preview of this $2 file: $1.",
 	"wikimedia-styles-exclude": "",
 	"wikimedia-copyright-footer": "Text is available under the [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nadditional terms may apply.\nSee [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] for details.",
 	"wikimedia-commons-copyright-footer": "Files are available under licenses specified on their description page. All structured data from the file namespace is available under the [https://creativecommons.org/publicdomain/zero/1.0/ Creative Commons CC0 License]; all unstructured text is available under the [https://creativecommons.org/licenses/by-sa/4.0/ Creative Commons Attribution-ShareAlike License];\nadditional terms may apply.\nBy using this site, you agree to the [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] and the [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy].",
