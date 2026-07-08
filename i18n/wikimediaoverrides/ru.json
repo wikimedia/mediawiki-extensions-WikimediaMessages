@@ -94,5 +94,5 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Если этот сайт был вам полезен, пожалуйста, сделайте пожертвование.",
 	"wikimedia-userrights-restricted-group-arbcom-private-conditions": "Арбитры должны включить двухфакторную аутентификацию. Это будет проверено при отправке данной формы",
 	"wikimedia-userrights-restricted-group-bureaucrat-private-conditions": "Бюрократы должны включить двухфакторную аутентификацию. Это будет проверено при отправке данной формы",
-	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Администраторы интерфейса [[m:Special:MyLanguage/Interface administrators\n|должны включить двухфакторную аутентификацию]]. Это будет проверено при отправке данной формы"
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Администраторы интерфейса [[m:Special:MyLanguage/Interface administrators|должны включить двухфакторную аутентификацию]]. Это будет проверено при отправке данной формы"
 }

@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bachounda",
 			"Oldstoneage"
 		]
 	},
@@ -10,7 +11,7 @@
 	"wm-license-information-date": "تاريخ",
 	"wm-license-information-author": "الكاتب",
 	"wm-license-information-permission": "ترخيص",
-	"wm-license-information-permission-reusing-text": "عاود استعمل هاد الفيشي",
+	"wm-license-information-permission-reusing-text": "عاود استعمل هاد الملف",
 	"wm-license-own-work": "خدمة تاعك",
 	"wm-license-self-multiple-licenses-select": "تنجم تخيّر الليسانس الّي تساعدك."
 }

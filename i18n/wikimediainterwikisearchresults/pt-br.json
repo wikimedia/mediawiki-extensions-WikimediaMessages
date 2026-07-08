@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"EGobi",
 			"Eduardo Addad de Oliveira",
 			"Eduardoaddad",
 			"Robertpontes",
@@ -47,7 +48,7 @@
 	"search-interwiki-results-bmwiki": "Mostrando resultados da [[:bm:|Wikipédia bambara]].",
 	"search-interwiki-results-bnwiki": "Mostrando resultados da [[:bn:|Wikipédia bengali]].",
 	"search-interwiki-results-bowiki": "Mostrando resultados da [[:bo:|Wikipédia tibetana]].",
-	"search-interwiki-results-bpywiki": "Mostrando resultados da [[:bpy:|Bishnupriya Manipuri Wikipedia]].",
+	"search-interwiki-results-bpywiki": "Mostrando resultados da [[:bpy:|Wikipédia em manipur bisnupria]].",
 	"search-interwiki-results-brwiki": "Mostrando resultados da [[:br:|Wikipédia bretã]].",
 	"search-interwiki-results-bswiki": "Mostrando resultados da [[:bs:|Wikipédia bósnia]].",
 	"search-interwiki-results-bugwiki": "Mostrando resultados da [[:bug:|Wikipédia em buginês]].",
@@ -106,9 +107,9 @@
 	"search-interwiki-results-glwiki": "Mostrando resultados da [[:gl:|Wikipédia em galego]].",
 	"search-interwiki-results-gnwiki": "Mostrando resultados da [[:gn:|Wikipédia em guarani]].",
 	"search-interwiki-results-gomwiki": "Mostrando resultados da [[:gom:|Wikipédia em concani]].",
-	"search-interwiki-results-gorwiki": "Mostrando resultados de [[:gor:|Wikipedia em Gorontalo]].",
+	"search-interwiki-results-gorwiki": "Mostrando resultados da [[:gor:|Wikipédia em gorontalo]].",
 	"search-interwiki-results-gotwiki": "Mostrando resultados da [[:got:|Wikipédia em gótico]].",
-	"search-interwiki-results-gurwiki": "Exibindo resultados da [[:gur:|Wikipedia Frafra]].",
+	"search-interwiki-results-gurwiki": "Exibindo resultados da [[:gur:|Wikipédia em farefare]].",
 	"search-interwiki-results-guwiki": "Mostrando resultados da [[:gu:|Wikipédia em guzerate]].",
 	"search-interwiki-results-gvwiki": "Mostrando resultados da [[:gv:|Wikipédia em manês]].",
 	"search-interwiki-results-hakwiki": "Mostrando resultados da [[:hak:|Wikipédia em hakka]].",
@@ -164,7 +165,7 @@
 	"search-interwiki-results-lbewiki": "Mostrando resultados da [[:lbe:|Wikipédia em lak]].",
 	"search-interwiki-results-lbwiki": "Mostrando resultados da [[:lb:|Wikipédia em luxemburguês]].",
 	"search-interwiki-results-lezwiki": "Mostrando resultados da [[:lez:|Wikipédia em lezgui]].",
-	"search-interwiki-results-lfnwiki": "Mostrando resultados de [[:lfn:|Lingua Franca Nova Wikipedia]].",
+	"search-interwiki-results-lfnwiki": "Mostrando resultados da [[:lfn:|Wikipédia em língua franca nova]].",
 	"search-interwiki-results-lgwiki": "Mostrando resultados da [[:lg:|Wikipédia em luganda]].",
 	"search-interwiki-results-lijwiki": "Mostrando resultados da [[:lij:|Wikipédia em ligúrico]].",
 	"search-interwiki-results-liwiki": "Mostrando resultados da [[:li:|Wikipédia em limburguês]].",

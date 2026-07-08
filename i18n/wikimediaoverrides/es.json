@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"-jem-",
 			"AlvaroMolina",
 			"ArenaL5",
 			"Avengium",
@@ -88,5 +89,6 @@
 	"wikimedia-skin-minerva-donate-banner-message": "Dona ahora",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Si Wikipedia te resulta útil, dona hoy.",
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "Tienes privilegios en {{SITENAME}} que requieren autenticación de dos factores.\n\n<strong>Podrías [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights perder estos privilegios] y tener que solicitarlos manualmente de nuevo.</strong>\n\nConsejo: Agrega un nuevo método antes de eliminar este.",
+	"wikimedia-userrights-restricted-group-bureaucrat-private-conditions": "Los burócratas deben tener activada la autenticación de dos factores, lo cual se comprobará al enviar el formulario.",
 	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Los [[m:Special:MyLanguage/Interface administrators|administradores de la interfaz]] deben tener habilitada la autenticación de dos factores, que se verificará al enviar el formulario."
 }
