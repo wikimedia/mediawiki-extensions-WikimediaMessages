@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|isku daray}} akoonka isticmaalaha \"$4\" ($5) kuna daray {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|tirtiray}} akoonka isticmaalaha \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Nooca falka:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Isku darka akoonka isticmaalaha",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Tirtiridda akoonka isticmaalaha",
+	"wikimedia-usermerge-logpage": "Diiwaanka Isku darka Isticmaalaha",
+	"wikimedia-usermerge-logpagetext": "Tani waa diiwaan ka mid ah falalka isku darka isticmaalaha.",
+	"wikimedia-graph-tracking-category": "Bogag leh garaafyo",
+	"wikimedia-graph-tracking-category-desc": "Boggu wuxuu ka kooban yahay <code>&lt;graph&gt;</code> calaamad",
+	"wikimedia-graph-broken-category": "Bogagga leh garaafyo jaban",
+	"wikimedia-graph-broken-category-desc": "Bogagga leh garaafyo jaban oo leh <code>&lt;graph&gt;</code> calaamad aan sax ahayn",
+	"wikimedia-graph-disabled-category": "Bogagga leh garaafyo naafo ah",
+	"wikimedia-graph-disabled-category-desc": "Bogagga leh garaafyada la damiyay sababtuna waa <code>&lt;graph&gt;</code> calaamad oo si ku meel gaar ah aan la heli karin ([[phab:T334940|T334940]])"
+}

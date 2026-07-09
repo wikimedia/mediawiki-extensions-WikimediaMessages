@@ -26,7 +26,9 @@
 			"Pawsdt",
 			"RyanCray88",
 			"Key0121",
-			"0x48fe75df30"
+			"0x48fe75df30",
+			"Ouclie",
+			"Zhoucantd"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "在最近$2，使用您的IP地址访问此wiki的访客创建了{{PLURAL:$1|$1个账号}}，已达到此时间段内允许创建的最大账号数。因此，使用此IP地址的访客目前不能再创建更多账号。\n\n如果向维基媒体项目作出贡献是您当前参加的活动的重要事项，请参见[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|请求临时提升IP限制]]一文以帮助解决此问题。",
@@ -39,7 +41,7 @@
 	"wikimedia-checkuser-api-useragent-clienthints-explanation": "我们会收集用户代理提示数据，以支持维基媒体社群反破坏及防滥用。这些数据会在符合[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隐私政策]以及[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy 非公开个人数据访问政策]的情况下收集与使用。要查看更多信息，请参见 https://www.mediawiki.org/wiki/Extension:CheckUser/Client_Hints。",
 	"wikimedia-checkuser-global-contributions-anon-tools": "搜索[https://guc.toolforge.org/?user={{urlcode:$1}} GUC]或[https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1}} XTools GC]以查看[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 遗留IP编辑]。",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "搜索[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]或[https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC]以查看[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 遗留IP编辑]。",
-	"wikimedia-checkuser-global-contributions-registered-user-tools": "搜索[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]或[https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC]以查看最近$2{{PLURAL:$2|天}}之内的编辑。",
+	"wikimedia-checkuser-global-contributions-registered-user-tools": "搜索[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]或[https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC]以查看最近$2天之内的编辑。",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\">&#91;[//guc.toolforge.org/?user=$1 全域编辑计数] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} 本地复核计数] • [{{fullurl:Special:Block/$1}} 本地封禁列表] 或[//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 全域封禁列表] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 查询] • [//whatismyipaddress.com/ip/$1 地理位置] • [//ipcheck.toolforge.org/index.php?ip=$1 代理指示检查] • [//meta.toolforge.org/stalktoy/$1 stalktoy//ipcheck.toolforge.org/index.php?ip=$1]&#93;</span>",
 	"wikimedia-checkuser-tempaccount-enable-preference-description": "在开启这些设置之前，<b>您必须阅读并同意《[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses 访问临时账号IP地址方针]》</b>。具体如下：\n\n您不得访问、使用或透露临时账号的IP地址信息，除非存在用于<b>调查或对破坏、滥用、垃圾内容、骚扰、扰乱行为，及其他违反维基媒体基金会或社群方针政策的行为采取强制措施</b>的合理必要性。如果您确实需要与他人共享信息，您必须谨慎处理共享的地点与方式，并且在他人不再需要查看时删除信息。\n\n其他有权访问临时账号IP地址的用户将能看到您已开启此设置。",
 	"wikimedia-checkuser-temporary-accounts-onboarding-dialog-temp-accounts-step-content": "为保护用户隐私，{{SITENAME}}将不再公开显示退出登录的编辑者的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address IP地址]。\n\n取而代之的是，退出登录的编辑者会被给予自动生成的用户名，该用户名链接到<strong>[https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Temporary_accounts 临时账号]</strong>，并且他们的IP地址将只对[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy 有需要的工作人员和用户]可见，以对抗破坏和骚扰行为。\n\nWhen a temporary account is created for a logged-out editor, a cookie will be set in that editor’s browser. That temporary account will then be [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-public-contribs attributed to all subsequent edits], even if the IP address of that editor changes.\n\n当临时账号为退出登录的编辑者创建后，该编辑者的浏览器里将会设置一个cookie。即使那个编辑者的IP地址变化，那个临时账户也会被[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-public-contribs 分配所有后续的编辑]。",
