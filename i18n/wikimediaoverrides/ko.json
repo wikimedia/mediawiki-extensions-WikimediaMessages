@@ -21,7 +21,7 @@
 			"아라"
 		]
 	},
-	"wikimedia-acct_creation_throttle_hit": "현재 사용하고 있는 IP 주소로 이 위키에 방문한 사람이 $2 동안 {{PLURAL:$1|1개의 계정}}을 만들어, 지정된 시간 동안 허용되어 있는 계정 생성 제한을 초과하였습니다. 따라서, 이 IP 주소를 이용하고 계시는 방문자들은 현재 더 이상의 계정을 만드실 수 없습니다.\n\n혹시 위키미디어 프로젝트에 기여하기 위한 모임 등에 참여하고 계시다면, 문제를 해결하기 위해 [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|일시적 계정생성 제한 해제요청 페이지]]를 참고해 주시기 바랍니다.",
+	"wikimedia-acct_creation_throttle_hit": "현재 사용하고 있는 IP 주소로 이 위키에 방문한 사람이 $2 동안 {{PLURAL:$1|$1개의 계정}}을 만들어, 지정된 시간 동안 허용되어 있는 계정 생성 제한을 초과하였습니다. 따라서, 이 IP 주소를 이용하고 계시는 방문자들은 현재 더 이상의 계정을 만드실 수 없습니다.\n\n혹시 위키미디어 프로젝트에 기여하기 위한 모임 등에 참여하고 계시다면, 문제를 해결하기 위해 [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|일시적 계정생성 제한 해제요청 페이지]]를 참고해 주시기 바랍니다.",
 	"wikimedia-acct_creation_throttle_hit-temp": "현재 위치에서는 로그아웃 상태의 편집이 일시적으로 제한됩니다. 편집하려면 [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} 계정을 생성]하거나 나중에 다시 시도해 주세요.",
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(고르는 방법 보기)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|기여하신 다른 위키미디어 프로젝트]]의 환경 설정 문서를 방문하여 해당 프로젝트의 계정 데이터를 다운로드할 수 있습니다.",
@@ -69,6 +69,10 @@
 	"wikimedia-urlshortener-badaccessgroups": "단축 링크는 meta.wikimedia.org의 [[:m:Special:UrlShortener|Special:UrlShortener]]를 통해서만 생성할 수 있습니다.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "단축 링크는 meta.wikimedia.org 위키 호출로만 생성할 수 있습니다.",
 	"wikimedia-mwoauth-consumer-allwikis": "모든 위키미디어 프로젝트",
+	"wikimedia-mwoauth-form-description-allwikis": "$1님 안녕하세요,\n\n'''$2''' 애플리케이션이 당신을 대신하여 모든 위키미디어 프로젝트에 다음 작업을 수행할 권한이 필요합니다:\n\n$4",
+	"wikimedia-mwoauth-form-description-allwikis-nogrants": "$1님 안녕하세요,\n\n'''$2''' 애플리케이션이 당신을 대신하여 모든 위키미디어 프로젝트의 정보에 접근할 권한이 필요합니다. 계정에는 어떠한 변화도 이루어지지 않습니다.",
+	"wikimedia-mwoauth-form-description-allwikis-privateinfo": "$1님 안녕하세요,\n\n요청을 마치려면 '''$2''' 애플리케이션이 모든 위키미디어 프로젝트에 대해 실명과 이메일 주소를 포함한 당신에 관한 정보에 접근할 권한이 필요합니다. 계정에 어떠한 변경도 이루어지지 않습니다.",
+	"wikimedia-mwoauth-form-description-allwikis-privateinfo-norealname": "$1님 안녕하세요,\n\n요청을 마치려면 '''$2''' 애플리케이션이 모든 위키미디어 프로젝트에 대해 실명을 포함한 당신에 관한 정보에 접근할 권한이 필요합니다. 계정에 어떠한 변경도 이루어지지 않습니다.",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 개인정보보호정책]",
 	"wikimedia-notification-body-oathauth-disable-other": "만약 {{GENDER:$2|당신}}이 하지 않았다면, 위키미디어 재단 신뢰와 안전에 문의하세요.",
 	"wikimedia-ipinfo-help-text": "이 도구의 사용은 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 정보 도구 지침]을 따릅니다. 표시된 정보는 맥스마인드와 [https://docs.spur.us/data-types 스퍼]에서 제공됩니다. 완전히 정확하지는 않을 수도 있습니다.",
