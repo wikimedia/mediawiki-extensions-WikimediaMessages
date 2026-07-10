@@ -119,7 +119,7 @@
 	"wikimedia-userrights-restricted-group-interface-admin": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Oberflächenadministratoren [[m:Special:MyLanguage/Interface administrators|erforderlich]] ist.",
 	"wikimedia-userrights-restricted-group-new-wikis-importer": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Importeure neuer Wikis [[m:Special:MyLanguage/New wikis importers|erforderlich]] ist.",
 	"wikimedia-userrights-restricted-group-oauthadmin": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für OAuth-Administratoren [[m:Special:MyLanguage/Meta:OAuth administrators|erforderlich]] ist.",
-	"wikimedia-userrights-restricted-group-ombuds": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Ombudspersonen [[m:Special:MyLanguage/Ombuds commission|required]]erforderlich]] ist.",
+	"wikimedia-userrights-restricted-group-ombuds": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Ombudspersonen [[m:Special:MyLanguage/Ombuds commission|required|erforderlich]] ist.",
 	"wikimedia-userrights-restricted-group-staff": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Angestellte erforderlich ist.",
 	"wikimedia-userrights-restricted-group-steward": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Stewards [[m:Special:MyLanguage/Stewards|erforderlich]] ist.",
 	"wikimedia-userrights-restricted-group-suppress": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Oversighter [[m:Special:MyLanguage/Oversight policy|erforderlich]] ist.",
