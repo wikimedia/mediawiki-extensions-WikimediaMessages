@@ -109,5 +109,9 @@
 	"wikimedia-emailauth-accountrecovery-intro": "Récupérez votre compte Wikimedia",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Adresse électronique associée à votre compte Wikimedia",
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contactez le service Trust & Safety",
+	"wikimedia-userrights-restricted-group-checkuser": "L'utilisateur n'a pas activé l'authentification à deux facteurs, ce qui est [[m:Special:MyLanguage/CheckUser policy|requis]] pour vérificateurs d'utilisateurs.",
+	"wikimedia-userrights-restricted-group-editor": "L'utilisateur n'a pas activé l'authentification à deux facteurs, qui est requise pour les contributeurs",
+	"wikimedia-userrights-restricted-group-interface-admin": "L'utilisateur n'a pas activé l'authentification à deux facteurs, qui est [[m:Special:MyLanguage/Interface administrators|requise]] pour les administrateurs d'interface",
+	"wikimedia-userrights-restricted-group-suppress": "L'utilisateur n'a pas activé l'authentification à deux facteurs, ce qui est [[m:Special:MyLanguage/Oversight policy|requis]] pour les masqueurs",
 	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Les administrateurs d'interface [[m:Special:MyLanguage/Interface administrators|doivent avoir activé l'authentification à deux facteurs]], qui sera vérifiée lors de la soumission du formulaire."
 }

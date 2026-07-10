@@ -79,7 +79,8 @@
 			"铁桶",
 			"飞舞回堂前",
 			"아라",
-			"Peterxy"
+			"Peterxy",
+			"臺灣象象"
 		]
 	},
 	"wikimediamessages-desc": "维基媒体特有消息",
@@ -284,6 +285,9 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|基金会研究员}}",
 	"group-wmf-supportsafety": "基金会信任和安全团队",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|基金会信任和安全团队成员}}",
+	"mulwikisource-sidebar-scriptorium": "写字间",
+	"mulwikisource-sidebar-news": "新闻",
+	"mulwikisource-sidebar-random-book": "随机书籍",
 	"tag-emoji": "绘文字",
 	"tag-emoji-description": "由全域滥用过滤器110所使用。",
 	"tag-AWB": "AutoWikiBrowser",
@@ -456,6 +460,8 @@
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "我有兴趣",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "先不用",
 	"gadget-curidlink-link-by-id": "通过ID链接",
+	"tooltip-gadget-purgetab-text": "清除此页面的服务器缓存",
+	"gadget-purgetab-error": "清除失败",
 	"gadget-souspages-subpages": "子页面",
 	"readinglists-import-app": "要导入此阅读列表，请安装最新版本的维基百科应用程序：",
 	"ipinfo-global-contributions-url-label": "全域贡献",

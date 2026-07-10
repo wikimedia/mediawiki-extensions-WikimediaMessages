@@ -4,7 +4,8 @@
 			"Can",
 			"Hedda",
 			"Pedian4169",
-			"SaldırganSincap"
+			"SaldırganSincap",
+			"Leo"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1, \"$4\" ($5) kullanıcı hesabını {{GENDER:$8|$6}} ($7) kullanıcısıyla {{GENDER:$2|birleştirdi}}",
@@ -14,6 +15,7 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Kullanıcı hesabı silme",
 	"wikimedia-usermerge-logpage": "Kullanıcı birleştirme günlüğü",
 	"wikimedia-usermerge-logpagetext": "Bu, kullanıcı birleştirme eylemlerinin günlüğüdür.",
+	"wikimedia-lqt-log-name": "Konu bazlı tartışma günlüğü",
 	"wikimedia-graph-tracking-category": "Grafikli sayfalar",
 	"wikimedia-graph-tracking-category-desc": "Sayfa bir <code>&lt;graph&gt;</code> etiketi içerir.",
 	"wikimedia-graph-broken-category": "Grafikleri bozuk sayfalar",

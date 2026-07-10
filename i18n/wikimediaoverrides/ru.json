@@ -24,7 +24,8 @@
 			"Vonavy",
 			"Yurina Tatiana",
 			"Умар",
-			"Shabe"
+			"Shabe",
+			"HyoerFlint"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Посетители этой вики, использующие ваш IP-адрес, за последнее время ($2) создали $1 {{PLURAL:$1|учётную запись|учётные записи|учётных записей}}, что является допустимым максимумом для такого промежутка времени.\nВ результате, посетители с этого IP-адреса в данный момент больше не могут создавать учётные записи.\n\nЕсли вы находитесь на мероприятии, фокусирующемся на вкладе в проекты Викимедиа, то в решении этой проблемы вам поможет [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|запрос на временное увеличение лимита для IP]].",
@@ -92,5 +93,5 @@
 	"wikimedia-skin-minerva-donate-banner-message": "Пожертвовать сейчас",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Если Википедия вам полезна, пожалуйста, сделайте пожертвование.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Если этот сайт был вам полезен, пожалуйста, сделайте пожертвование.",
-	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Администраторы интерфейса [[m:Special:MyLanguage/Interface administrators\n|должны включить двухфакторную аутентификацию]]. Это будет проверено при отправке данной формы"
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Администраторы интерфейса [[m:Special:MyLanguage/Interface administrators|должны включить двухфакторную аутентификацию]]. Это будет проверено при отправке данной формы"
 }

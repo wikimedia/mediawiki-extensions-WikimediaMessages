@@ -2,11 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"NEHAOUA",
-			"Oldstoneage"
+			"Oldstoneage",
+			"Bachounda"
 		]
 	},
 	"wm-license-cc-attribution": "التنساب",
-	"wm-license-cc-by-sa-3.0-text": "هاد الفيشي راه محطوط تحت الرخصة [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [http://creativecommons.org/licenses/by-sa/3.0/deed.fr نسّب لمولاه – اتقاسم بلا ما تبدّل 3.0 (non transposée)].",
+	"wm-license-cc-by-sa-3.0-text": "هاد الملف مرخص تحت [[{{int:wm-license-cc-wiki-link}}|ابداعية كومنز]] [[creativecommons:by-sa/3.0/deed.en|نسبة المصنف-المشاركة بالمثل 3.0 غير موطنة]].",
 	"wm-license-cc-free": "راك مسرّح:",
 	"wm-license-cc-free-to-share-header": "باش تتقاسم",
 	"wm-license-cc-free-to-share-text": "باش تنسّخ ، تنشّر و تاني تعاود ترسّل كاش خدمة.",
@@ -16,5 +17,5 @@
 	"wm-license-cc-conditions-attribution-header": "التنساب",
 	"wm-license-cc-conditions-attribution-text": "لازم لك تمد انسّبه قد قد، وتمد اربط للرخصة، وتحدد بلاك بلاك كاين ما تبدل، تقدر تقوم بها كيما تحب بصح تكون لوجيك، بصح ماشي كلي لي صاحبها راهو معاك ولا يخدمك",
 	"wm-license-cc-conditions-share_alike-header": "تقاسم بل متيل",
-	"wm-license-cc-conditions-share_alike-text": "يلا تنضّم، تبدّل ولا تعاود تبني شي حاجة تستعمل فيها هاد المضمون، لازم تعاود تنشّر الخدمة تاعك تحت [https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses الترخيص تاعها بدّات ولا يكون موماتل] معا اللي راه فيها ضركا."
+	"wm-license-cc-conditions-share_alike-text": "إلا بدلت، حوّلت، ولا بنيت على هاد الماتريال، لازم تنشر المساهمات ديالك تحت [[ccorg:share-your-work/licensing-considerations/compatible-licenses|نفس الرخصة ولا رخصة تَتْوالم معاها]] كيما الأصلية."
 }

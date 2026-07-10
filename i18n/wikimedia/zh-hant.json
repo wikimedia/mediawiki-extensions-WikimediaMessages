@@ -59,7 +59,8 @@
 			"星海",
 			"沈澄心",
 			"飞舞回堂前",
-			"Peterxy"
+			"Peterxy",
+			"臺灣象象"
 		]
 	},
 	"wikimediamessages-desc": "維基媒體特定訊息",
@@ -264,6 +265,8 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|WMF 研究人員}}",
 	"group-wmf-supportsafety": "基金會信任與安全團隊",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|基金會信任與安全團隊成員}}",
+	"mulwikisource-sidebar-scriptorium": "寫字間",
+	"mulwikisource-sidebar-news": "新聞",
 	"tag-emoji": "繪文字",
 	"tag-emoji-description": "由全域防濫用過濾器110所使用。",
 	"tag-AWB": "AutoWikiBrowser",
