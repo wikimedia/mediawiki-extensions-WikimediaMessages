@@ -118,7 +118,7 @@
 	"wikimedia-userrights-restricted-group-wmf-researcher": "لم يفعّل المستخدم خاصية المصادقة الثنائية، وهي خاصية مطلوبة لباحثي مؤسسة ويكيميديا.",
 	"wikimedia-userrights-restricted-group-wmf-supportsafety": "لا يتم تمكين المستخدم من التوثيق بثنائي العوامل، وهو أمر مطلوب لموظفي WMF Trust &amp; Safety",
 	"wikimedia-userrights-restricted-group-arbcom-private-conditions": "يجب على أعضاء لجنة التحكيم تفعيل خاصية المصادقة الثنائية، وسيتم التحقق من ذلك عند تقديم النموذج.",
-	"wikimedia-userrights-restricted-group-bureaucrat-private-conditions": "يجب على الموظفين الحكوميين تفعيل خاصية المصادقة الثنائية، وسيتم التحقق من ذلك عند تقديم النموذج.",
+	"wikimedia-userrights-restricted-group-bureaucrat-private-conditions": "يجب أن يكون لدى البيروقراطيين تفعيلٌ للمصادقة الثنائية، وسيُتحقَّق من ذلك عند إرسال الاستمارة.",
 	"wikimedia-userrights-restricted-group-editor-private-conditions": "يجب أن يكون المحررين تمكين من التحقق من المصادقة بثنائي العوامل، والتي سيتم التحقق منها عند تقديم النموذج",
 	"wikimedia-userrights-restricted-group-founder-private-conditions": "يجب على المؤسسين تفعيل خاصية المصادقة الثنائية، وسيتم التحقق من ذلك عند إرسال النموذج.",
 	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "يجب على إداريي الواجهة [[m:Special:MyLanguage/Interface administrators|تفعيل خاصية التحقق ذو العاملين]]، وسيتم التحقق من ذلك عند إرسال النموذج.",
