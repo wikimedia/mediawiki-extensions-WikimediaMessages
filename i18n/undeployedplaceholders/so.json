@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|isku daray}} akoonka isticmaalaha \"$4\" ($5) kuna daray {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|tirtiray}} akoonka isticmaalaha \"$4\" ($5)",
+	"wikimedia-log-action-filter-usermerge": "Nooca falka:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "Isku darka akoonka isticmaalaha",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "Tirtiridda akoonka isticmaalaha",
+	"wikimedia-usermerge-logpage": "Diiwaanka Isku darka Isticmaalaha",
+	"wikimedia-usermerge-logpagetext": "Tani waa diiwaan ka mid ah falalka isku darka isticmaalaha."
+}
