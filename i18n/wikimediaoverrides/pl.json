@@ -11,7 +11,8 @@
 			"Railfail536",
 			"Tar Lócesilion",
 			"WTM",
-			"Woytecr"
+			"Woytecr",
+			"PanWor"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Z adresu IP, z którego korzystasz {{PLURAL:$1|ktoś już utworzył dziś konto|utworzono dziś $1 konta|utworzono dziś $1 kont}} w ciągu ostatniej doby, co jest maksymalną dopuszczalną liczbą w tym czasie.\nW związku z tym, osoby korzystające z tego adresu IP w chwili obecnej nie mogą założyć kolejnego konta.\n\nJeżeli znajdujesz się właśnie na wydarzeniu o tematyce edytowania projektów Wikimedia, zobacz stronę [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], gdzie znajdują się wskazówki jak poradzić sobie z tym ograniczeniem.",
@@ -63,7 +64,7 @@
 	"wikimedia-centralauth-sul3-oathmanage-sitenotice-local": "Wiki Wikimedia zmieniły system logowania na taki, korzystający z centralnej domeny (auth.wikimedia.org). Ponieważ kluczami uwierzytelniającymi Web Authentication można zarządzać tylko w domenie, dla której są skonfigurowane, przejdź do [$1 centralnego systemu logowania], aby dodać nowe klucze WebAuthn.",
 	"wikimedia-centralauth-sul3-oathmanage-sitenotice-central": "Wiki Wikimedia zmieniły system logowania na taki, korzystający z centralnej domeny (auth.wikimedia.org). Ponieważ kluczami uwierzytelniającymi Web Authentication można zarządzać tylko w domenie, dla której są skonfigurowane, przejdź na [$1 lokalną wiki], aby usunąć stare klucze WebAuthn (sprzed wprowadzenia auth.wikimedia.org).",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Zasady zachowania poufności]",
-	"wikimedia-notification-body-oathauth-disable-other": "Jeżeli o to nie {{GENDER:$2|prosiłeś|prosiłaś}}, zawiadom zespół WMF Trust & Safety.",
+	"wikimedia-notification-body-oathauth-disable-other": "Jeżeli o to nie {{GENDER:$2|prosiłeś|prosiłaś|proszono}}, zawiadom zespół WMF Trust & Safety.",
 	"wikimedia-ipinfo-help-text": "Korzystanie z tego narzędzia podlega [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines wytycznym dotyczącym narzędzia IP Info]. Wyświetlane informacje pochodzą z MaxMind i [https://docs.spur.us/data-types Spur]. Mogą nie być w pełni dokładne.",
 	"wikimedia-ipinfo-infobox-use-terms": "Narzędzie Informacje o IP wykorzystuje bazę danych MaxMind aby pokazywać szczegóły takie jak lokalizacja, proxy oraz ile urządzeń współużytkuje ten adres IP. Sprawdź [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines wytyczne korzystania z narzędzia Informacje o IP] zanim je włączysz.",
 	"wikimedia-ipinfo-preference-use-agreement": "Zgadzam się korzystać z tego narzędzia zgodnie z [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines wytycznymi korzystania z narzędzia Informacje o IP], wyłącznie w celu tropienia i zapobiegania wandalizmom, nadużyciom i innym naruszeniom zasad Wikimedia Foundation i społeczności",

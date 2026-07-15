@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Tensama0415"
 		]
 	},
-	"wm-codeofconduct": "行動規範"
+	"wm-codeofconduct": "行動規範",
+	"wm-techcodeofconduct": "行動規範"
 }
