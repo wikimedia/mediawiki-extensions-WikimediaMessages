@@ -3,6 +3,7 @@
 		"authors": [
 			"Fugithora",
 			"Nikki",
+			"Steenth",
 			"Varnent"
 		]
 	},
@@ -18,7 +19,7 @@
 	"wm-commonstrings-contactus": "Kontakt os",
 	"wm-commonstrings-enterquestion": "Indtast dit spørgsmål.",
 	"wm-commonstrings-events": "Begivenheder",
-	"wm-commonstrings-externallinks": "Eksterne links",
+	"wm-commonstrings-externallinks": "Eksterne henvisninger",
 	"wm-commonstrings-follow": "Følg",
 	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Hovedartikel: $1|Hovedartikler: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Hovedside: $1|Hovedsider: $1}}",
