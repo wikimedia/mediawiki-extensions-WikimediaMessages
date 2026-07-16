@@ -8,7 +8,8 @@
 			"Sabelöga",
 			"SaldırganSincap",
 			"WikiPhoenix",
-			"Stefan2255"
+			"Stefan2255",
+			"Boivie"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besökare på denna wiki som använder din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} under de senaste $2, vilket är det maximala antalet tillåtna under denna tidsperiod.\n\nDärför kan besökare som använder denna IP-adress inte skapa fler konton för tillfället.\n\nOm du är på ett evenemang där fokus ligger på att bidra till Wikimedia-projekt, vänligen se [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Begär tillfällig hävning av IP-tak]] för att lösa problemet.",
