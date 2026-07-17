@@ -8,7 +8,8 @@
 			"Sabelöga",
 			"SaldırganSincap",
 			"Stefan2255",
-			"WikiPhoenix"
+			"WikiPhoenix",
+			"Boivie"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besökare på denna wiki som använder din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} under de senaste $2, vilket är det maximala antalet tillåtna under denna tidsperiod.\n\nDärför kan besökare som använder denna IP-adress inte skapa fler konton för tillfället.\n\nOm du är på ett evenemang där fokus ligger på att bidra till Wikimedia-projekt, vänligen se [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Begär tillfällig hävning av IP-tak]] för att lösa problemet.",
@@ -88,5 +89,10 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Om den här webbplatsen har varit användbar för dig, vänligen ge en donation idag.",
 	"wikimedia-emailauth-accountrecovery-intro": "Återställ ditt Wikimedia-konto",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "E-postadress registrerad med ditt Wikimedia-konto",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "Du har behörigheter på {{SITENAME}} som kräver tvåfaktorsautentisering.\n\n<strong>Du kan [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights förlora dessa behörigheter] och kan behöva begära dem igen manuellt.</strong>\n\nTips: Lägg till en ny metod innan du tar bort den här."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "Du har behörigheter på {{SITENAME}} som kräver tvåfaktorsautentisering.\n\n<strong>Du kan [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights förlora dessa behörigheter] och kan behöva begära dem igen manuellt.</strong>\n\nTips: Lägg till en ny metod innan du tar bort den här.",
+	"wikimedia-userrights-restricted-group-checkuser": "Användaren har inte aktiverat tvåfaktorsautentisering, vilket [[m:Special:MyLanguage/CheckUser policy|krävs]] för IP-kontrollanter",
+	"wikimedia-userrights-restricted-group-interface-admin": "Användaren har inte aktiverat tvåfaktorsautentisering, vilket [[m:Special:MyLanguage/Interface administrators|krävs]] för gränssnittsadministratörer",
+	"wikimedia-userrights-restricted-group-suppress": "Användaren har inte aktiverat tvåfaktorsautentisering, vilket [[m:Special:MyLanguage/Oversight policy|krävs]] för censorer",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "IP-kontrollanter [[m:Special:MyLanguage/CheckUser policy|måste ha tvåfaktorsautentisering aktiverad]], vilket kommer att kontrolleras när formuläret skickas in.",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Gränssnittsadministratörer [[m:Special:MyLanguage/Interface administrators|måste ha tvåfaktorsautentisering aktiverad]], vilket kommer att kontrolleras när formuläret skickas in."
 }
