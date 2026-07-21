@@ -10,7 +10,9 @@
 			"Matěj Suchánek",
 			"Raymond",
 			"Reedy",
-			"Tacsipacsi"
+			"Tacsipacsi",
+			"McDutchie",
+			"Woytecr"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Error message at [[Special:CreateAccount]].\n\n\"in the last day\" precisely means: during the lasts 86400 seconds (24 hours) ending right now.\n\nParameters:\n* $1 - number of accounts",
@@ -67,7 +69,7 @@
 	"wikimedia-globalblocking-blockedtext-on-range": "Used as a component of a global block message.",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Used as a component of a global block message.",
 	"wikimedia-globalblocking-blockedtext-on-user": "Used as a component of a global block message.",
-	"wikimedia-globalblocking-blockedtext-ip-range": "Used as a component of a global block message. $1 - the blocked range.",
+	"wikimedia-globalblocking-blockedtext-ip-range": "Used as a component of a global block message. It's the customized version of {{msg-mw|Globalblocking-blockedtext-ip-range}}.\n\nParameters:\n* $1 - the blocked range",
 	"wikimedia-globalblocking-blockedtext-proxy": "Used as a component of a global block message. $1 - the blocked proxy address.",
 	"wikimedia-globalblocking-blockedtext-appeal-user": "Used as a component of a global block message.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Used as a component of a global block message.",
