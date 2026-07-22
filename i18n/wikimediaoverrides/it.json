@@ -16,7 +16,8 @@
 			"Neonsn0w",
 			"FL2226",
 			"Horcrux92",
-			"Titore"
+			"Titore",
+			"Ouclie"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "I visitatori di questo progetto che utilizzano il tuo indirizzo IP hanno creato {{PLURAL:$1|1 account|$1 account}} nelle ultime 24 ore, che è il massimo consentito in questo lasso di tempo. Di conseguenza, i visitatori che utilizzano questo indirizzo IP non possono creare ulteriori account al momento.\n\nSe ti trovi in un evento in cui l'obiettivo principale è contribuire ai progetti Wikimedia, vedi come [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|richiedere un'esenzione temporanea alle limitazioni degli IP]] per aiutarti a risolvere questo problema.",
@@ -54,6 +55,7 @@
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Il tuo indirizzo IP è stato [[m:Special:MyLanguage/Global blocks|bloccato su tutti i wiki]].",
 	"wikimedia-globalblocking-blockedtext-on-range": "Il tuo indirizzo IP è in un intervallo che è stato [[m:Special:MyLanguage/Global blocks|bloccato su tutti i wiki della Wikimedia Foundation]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Uno o più server proxy utilizzati dalla tua richiesta sono [[m:Special:MyLanguage/Global blocks|bloccati globalmente]].",
+	"wikimedia-globalblocking-blockedtext-on-user": "Il tuo account è stato [[m:Special:MyLanguage/Global blocks|bloccato su tutte le wiki]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "L'intervallo bloccato è $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "L'indirizzo proxy bloccato è $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Se ritieni di essere stato/a bloccato/a per errore, puoi trovare ulteriori informazioni e istruzioni nella [[m:Special:MyLanguage/Stewards/Wizard|Procedura guidata per il blocco degli stewards]].",
