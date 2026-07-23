@@ -15,6 +15,10 @@
 	"wikimedia-centralauth-groupname": "der Wikimedia Fondatioun",
 	"wikimedia-centralauth-login-error-locked": "<strong>Dëse Benotzerkont ass [[m:Special:MyLanguage/Global locks|global gespaart]]</strong>. {{GENDER:$1|Dir}} kënnt Iech op kenger Wikimedia-Wiki umelle kënnen. [[m:Special:Contact/stewards|Kontaktéiert wgl. d'Stewarden]], wann {{GENDER:$1|Dir}} Froen dozou hutt.",
 	"createacct-helpusername-url": "{{ns:Project}}:Benotzernumm Richtlinn",
+	"wikimedia-checkuser-global-contributions-anon-tools": "Sicht op [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] oder [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] no [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits Legacy-IP-Ännerungen].",
+	"wikimedia-checkuser-global-contributions-ip-range-tools": "Sicht op [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] oder [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC] no [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits Legacy-IP-Ännerungen].",
+	"wikimedia-checkuser-global-contributions-registered-user-tools": "Sicht op [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] oder [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] no Ännerungen, déi viru méi wéi $2 {{PLURAL:$2|Dag|Deeg}} gemaach goufen.",
+	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\">&#91;[//guc.toolforge.org/?user=$1 global Kontributiounen] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} Kontrollen] • [{{fullurl:Special:Block/$1}} lokal Spären] oder [//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 global Spären] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolokaliséieren] • [//ipcheck.toolforge.org/index.php?ip=$1 Proxy-Indicateur-Kontroll] • [//meta.toolforge.org/stalktoy/$1 Stalktoy]&#93;</span>",
 	"wikimedia-delete-toobig": "Dës Säit huet eng laang Lëscht vu Versiounen, méi wéi {{PLURAL:$1|eng Versioun|$1 Versiounen}}.\nD'Läsche vu Säite mat enger laanger Lëscht vu Versiounen ass limitéiert fir ongewollt Tëschefäll op {{SITENAME}} ze verhënneren.\nKontaktéiert wgl. d'[[m:Special:MyLanguage/Stewards|Stewards]] op [[m:Steward requests/Miscellaneous|Steward requests/Miscellaneous on Meta]] fir d'Läsche vun dëser Säit ze froen.",
 	"wikimedia-emailauth-login-help": "Kontaktéiert ca@wikimedia.org, wann Dir keen Zougrëff méi op d'E-Mail-Adress vun Ärem Kont hutt",
 	"wikimedia-flow-terms-of-use-new-topic": "Duerch d'Klicken op \"{{int:flow-topic-action-unlock-topic}}\", sidd Dir mat eisen [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Benotzungsbedéngungen] an der Verëffentlechung vun Ärem Text {{PLURAL:$2|ënner}} $1 averstanen.",
@@ -36,9 +40,10 @@
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Dateschutzrichtlinn]",
 	"wikimedia-ipinfo-preference-use-agreement": "Ech akzeptéieren dësen Tool am Aklang mat den [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP-Informatiouns-Tool Richtlinnen ze benotzen], eleng fir d'Ermëttlung oder d'Préventioun vu Vandalismus, Mëssbrauch oder aner Verstéiss. vun der Wikimedia Foundation oder de Richtlinne vun der Communautéit.",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Är IP-Adress gouf [[m:Special:MyLanguage/Global blocks|op all Wiki gespaart]].",
-	"wikimedia-globalblocking-blockedtext-on-range": "Är IP-Adress ass an engem Beräich, deen [[m:Special:MyLanguage/Global blocks|op all Wiki vun der Wikimedia Foundation gespaart gouf]].",
+	"wikimedia-globalblocking-blockedtext-on-range": "Är IP-Adress läit an engem Beräich, deen [[m:Special:MyLanguage/Global blocks|op all Wiki vun der Wikimedia Foundation gespaart gouf]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "De gespaarte Beräich ass $1.",
 	"wikimedia-globalblocking-blockedtext-proxy": "Déi gespaarte Proxyadress war $1.",
 	"wikimedia-skin-minerva-donate-banner-message": "Maacht elo en Don",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "Wa Wikipedia nëtzlech fir Iech ass, maacht haut wgl. en Don.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Wann Dir dës Säit nëtzlech fonnt hutt, maacht haut wgl. en Don."
 }

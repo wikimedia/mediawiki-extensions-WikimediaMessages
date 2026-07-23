@@ -20,7 +20,8 @@
 			"Shbib Al-Subaie",
 			"بدارين",
 			"ديفيد",
-			"علاء"
+			"علاء",
+			"Ouclie"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "قام زوار هذا الويكي باستخدام عنوان الآيبي الخاص بك بإنشاء {{PLURAL:$1|1 حساب|$1 حسابات}} في آخر $2، وهو الحد الأقصى المسموح به في هذه الفترة الزمنية،\n\nنتيجة لذلك; لا يمكن للزوار الذين يستخدمون عنوان الآيبي هذا إنشاء المزيد من الحسابات في الوقت الحالي. \n\nإذا كنت في حدث تساهم فيه مشاريع ويكيميديا، يُرجَى الاطلاع على [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|طلب رفع مؤقت لقبعة الآيبي]] للمساعدة في حل هذه المشكلة.",
@@ -83,7 +84,7 @@
 	"wikimedia-globalblocking-blockedtext-on-user": "لقد تم حظر حسابك [[m:Special:MyLanguage/Global blocks|على جميع مواقع الويكي]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "النطاق المحظور هو $1 .",
 	"wikimedia-globalblocking-blockedtext-proxy": "كان عنوان الوكيل المحظور $1 .",
-	"wikimedia-globalblocking-blockedtext-appeal-user": "لمناقشة الحظر، يرجى [[m:Steward requests/Global\n|نشر طلب للمراجعة على موقع ميتا ويكي]].",
+	"wikimedia-globalblocking-blockedtext-appeal-user": "لمناقشة الحظر، يرجى [[m:Steward requests/Global|نشر طلب للمراجعة على موقع ميتا ويكي]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "إذا كنت تعتقد أنه تم حظرك عن طريق الخطأ، فيمكنك العثور على معلومات وإرشادات إضافية في [[m:Special:MyLanguage/Stewards/Wizard|معالج حظر المضيفين]].",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "تم حظر عنوان IP الخاص بك تلقائيًا [[m:Special:MyLanguage/Global blocks|على جميع الويكيات]] لأنه تم استخدامه بواسطة مستخدم آخر، والذي تم حظره بواسطة $1 .",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro-xff": "تم حظر خادم وكيل واحد أو أكثر يستخدمه طلبك تلقائيًا [[m:Special:MyLanguage/Global blocks|على جميع الويكيات]] لأنه تم استخدامه بواسطة مستخدم آخر، والذي تم حظره بواسطة $1 .",
