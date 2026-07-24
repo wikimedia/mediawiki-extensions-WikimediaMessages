@@ -13,7 +13,6 @@ use MediaWiki\Html\Html;
 use MediaWiki\Language\Hook\MessageCacheFetchOverridesHook;
 use MediaWiki\Language\MessageCache;
 use MediaWiki\Language\MessageLocalizer;
-use MediaWiki\Linker\Linker;
 use MediaWiki\Linker\LinkRenderer;
 use MediaWiki\MainConfigNames;
 use MediaWiki\Message\Message;
@@ -400,7 +399,7 @@ class Hooks implements
 			: 'wikimedia-skin-minerva-donate-banner-subtitle-generic';
 	}
 
-	private function getShortRightsLink(): string {
+	private function getShortRightsLink( Title $title ): string {
 		$rightsText = $this->options->get( MainConfigNames::RightsText );
 		$rightsPage = $this->options->get( MainConfigNames::RightsPage );
 		$rightsUrl = $this->options->get( MainConfigNames::RightsUrl );
@@ -417,7 +416,7 @@ class Hooks implements
 			$title = Title::newFromText( $rightsPage );
 			$link = $this->linkRenderer->makeKnownLink( $title, new HtmlArmor( $rightsText ), [] );
 		} elseif ( $rightsUrl ) {
-			$link = Linker::makeExternalLink( $rightsUrl, $rightsText, true, '', [] );
+			$link = $this->linkRenderer->makeExternalLink( $rightsUrl, $rightsText, $title );
 		} else {
 			$link = $rightsText;
 		}
@@ -458,14 +457,15 @@ class Hooks implements
 			case 'standard':
 				// Almost all Wikimedia wikis using CC-BY-SA 4.0 are also dual-licensed under GFDL.
 				$msgSpec = $isMobile
-					? Message::newFromSpecifier( 'mobile-frontend-copyright' )->rawParams( $this->getShortRightsLink() )
+					? Message::newFromSpecifier( 'mobile-frontend-copyright' )->rawParams(
+						$this->getShortRightsLink( $title ) )
 					: Message::newFromSpecifier( 'wikimedia-copyright-footer' );
 				break;
 			case 'wikinews':
 				// Use the default MediaWiki message. (It's overridden locally on most Wikinewses.)
 				$msgSpec = $isMobile
-					? Message::newFromSpecifier( 'mobile-frontend-copyright' )->rawParams( $this->getShortRightsLink() )
-					: $msgSpec;
+					? Message::newFromSpecifier( 'mobile-frontend-copyright' )->rawParams(
+						$this->getShortRightsLink( $title ) ) : $msgSpec;
 				break;
 			case 'wikifunctions':
 				// Wikifunctions like Wikidata is licensed under CC-BY-SA 4.0 only, no GFDL. The data is
