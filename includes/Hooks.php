@@ -287,6 +287,8 @@ class Hooks implements
 			"rest-module-site.v1-desc",
 			// T27611
 			"show-big-image-preview-differ",
+			// T433324
+			'oathauth-recovery-codes-expired-error',
 		];
 
 		static $allbutmetawikikeys = [
