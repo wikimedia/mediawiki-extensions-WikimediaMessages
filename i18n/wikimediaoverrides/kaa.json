@@ -5,7 +5,6 @@
 			"Nurlan"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(paydalanıwshı atın saylawda járdem)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Súwrettegi jazıwdı túsinbey atırsız ba? [[{{MediaWiki:createacct-captcha-help-url}}|Esap betin jaratıwdı soraw]]",
 	"wikimedia-discussiontools-replywidget-terms-click": "«$1» túymesin basıw arqalı siz biziń [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Paydalanıw shártleri]mizge kelisim bildiresiz, sonıń menen birge óz tekstińizdi $2 licenziyası tiykarında qaytpasqa járiyalawǵa kelisesiz.",
 	"wikimedia-globalblocking-blockedtext-ip": "'''Siziń IP mánzilińiz [[m:Special:MyLanguage/Global blocks|bárshe wikilerde bloklanǵan]].'''\n\nBloklanıw $1 tárepinen ámelge asırıldı.\nKórsetilgen sebep ''$2''.\n\n* Bloklanıwdıń baslanıwı: $8\n* Bloklanıwdıń ámel qılıw múddeti: $6\n\nSiziń ámeldegi IP mánzilińiz $3.\nMárhámát, joqarıdaǵı barlıq maǵlıwmatlardı sorawıńızǵa tolıq kiritiń..\n\nEger bloklanıw qátelik sebepli bolǵan dep esaplasańız, qosımsha maǵlıwmat hám kórsetpelerdi [[m:Special:MyLanguage/No open proxies|No open proxies]] global siyasatında tabıwıńız múmkin.\nKeri jaǵdayda, bloklanıwdı talqılaw ushın [[m:Steward requests/Global|Meta-Wikide kórip shıǵıw ushın soraw jiberiń]].",

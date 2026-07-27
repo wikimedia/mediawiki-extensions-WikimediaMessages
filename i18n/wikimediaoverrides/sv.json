@@ -14,7 +14,6 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Besökare på denna wiki som använder din IP-adress har skapat {{PLURAL:$1|1 konto|$1 konton}} under de senaste $2, vilket är det maximala antalet tillåtna under denna tidsperiod.\n\nDärför kan besökare som använder denna IP-adress inte skapa fler konton för tillfället.\n\nOm du är på ett evenemang där fokus ligger på att bidra till Wikimedia-projekt, vänligen se [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Begär tillfällig hävning av IP-tak]] för att lösa problemet.",
 	"wikimedia-acct_creation_throttle_hit-temp": "Vi begränsar tillfälligt redigering för utloggade från din plats. Vänligen [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} skapa ett konto] för att redigera, eller försök igen senare.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjälp mig att välja)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Du kan besöka dina inställningar på [[m:Special:CentralAuth/$1|andra Wikimedia-projekt där du har bidragit]] för att ladda ner dina kontouppgifter från de projekten.",
 	"wikimedia-createacct-imgcaptcha-help": "Kan du inte se bilden? [[{{MediaWiki:createacct-captcha-help-url}}|Begär ett konto]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",

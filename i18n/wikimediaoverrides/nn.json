@@ -4,7 +4,6 @@
 			"Njardarlogar"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hjelp meg å velja)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Du kan vitja innstillingssida di på [[m:Special:CentralAuth/$1|andre Wikimedia-prosjekt der du har bidrege]] for å lasta ned kontoopplysingane frå desse prosjekta.",
 	"wikimedia-createacct-imgcaptcha-help": "Ser du ikkje biletet? [[{{MediaWiki:createacct-captcha-help-url}}|Be om ein brukarkonto]]",
 	"wikimedia-centralauth-groupname": "Wikimedia Foundation",

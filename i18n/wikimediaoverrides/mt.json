@@ -5,7 +5,6 @@
 			"Leli Forte"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(għini nagħżel)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ma tistax tara l-istampa? [[{{MediaWiki:createacct-captcha-help-url}}|Itlob kont]]",
 	"wikimedia-centralauth-groupname": "Fondazzjoni Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Isem tal-utent",

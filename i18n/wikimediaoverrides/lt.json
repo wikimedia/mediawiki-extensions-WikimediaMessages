@@ -8,7 +8,6 @@
 			"Tomasdd"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(padėkite man pasirinkti)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nematote paveikslėlio? [[{{MediaWiki:createacct-captcha-help-url}}|Prašykite paskyros]]",
 	"wikimedia-centralauth-groupname": "Vikimedijos fondas",
 	"createacct-helpusername-url": "{{ns:Project}}:Naudotojo vardo_politika",

@@ -7,7 +7,6 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Selle viki külastajad, kes kasutavad sinu IP-aadressi, on lühikese aja ($2) jooksul loonud {{PLURAL:$1|ühe konto|$1 kontot}}, mis on selles ajavahemikus ülemmääraks.\nSeetõttu ei saa seda IP-aadressi kasutades hetkel rohkem kontosid luua.\n\nKui osaled üritusel, mille peateemaks on kaastöö tegemine Wikimedia projektidele, siis loe, kuidas [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|taotleda IP-aadressilt piirangu ajutist eemaldamist]].",
 	"wikimedia-acct_creation_throttle_hit-temp": "Piirame ajutiselt sisselogimata redigeerimist sinu asukohast. Palun [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} loo konto] või proovi hiljem uuesti.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(aita mul valida)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Võid külastada eelistuste lehekülge [[m:Special:CentralAuth/$1|teistes Wikimedia projektides, kus oled kaastööd teinud]], et laadida konto andmed alla neist projektidest.",
 	"wikimedia-createacct-imgcaptcha-help": "Kas sa ei näe pilti? [[{{MediaWiki:createacct-captcha-help-url}}|Taotle kontot]]",
 	"wikimedia-centralauth-groupname": "Wikimedia",

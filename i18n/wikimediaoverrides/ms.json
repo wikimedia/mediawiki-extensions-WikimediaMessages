@@ -9,7 +9,6 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Pelawat ke wiki ini yang menggunakan alamat IP anda telah mencipta {{PLURAL:$1|1 akaun|$1 akaun}} pada $2 terkini, iaitu maksimum yang dibenarkan dalam tempoh masa ini.\nAkibatnya, pelawat yang menggunakan alamat IP ini tidak boleh mencipta sebarang akaun lagi buat masa ini.\n\nJika anda berada di sebuah acara yang memberi tumpuan kepada sumbangan terhadap projek Wikimedia, sila lihat [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Permohonan penarikbalikan sementara had IP]] untuk menyelesaikan isu berkaitan ini.",
 	"wikimedia-acct_creation_throttle_hit-temp": "Kami sedang mengehadkan sementara suntingan log keluar dari lokasi anda. Sila [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} cipta akaun] untuk menyunting, atau cuba lagi kemudian.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(tolong saya pilih)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Anda boleh melawati laman Keutamaan anda di [[m:Special:CentralAuth/$1|projek Wikimedia lain yang anda telah beri sumbangan]] untuk memuat turun data akaun anda daripada projek tersebut.",
 	"wikimedia-createacct-imgcaptcha-help": "Tak nampak gambar? [[{{MediaWiki:createacct-captcha-help-url}}|Mohon akaun]]",
 	"wikimedia-centralauth-groupname": "Yayasan Wikimedia",

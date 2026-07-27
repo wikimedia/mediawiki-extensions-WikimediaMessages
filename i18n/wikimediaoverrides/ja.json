@@ -26,7 +26,6 @@
 			"春春眠眠"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|その他投稿したことのあるWikimediaプロジェクト]]の設定ページで順番にアカウントデータをダウンロードする必要があるかもしれません。",
 	"wikimedia-createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
 	"wikimedia-centralauth-groupname": "ウィキメディア財団",

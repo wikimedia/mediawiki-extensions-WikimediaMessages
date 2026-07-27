@@ -5,7 +5,6 @@
 			"Bikarhêner"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(alîkariya hilbijartinê bike)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Nikarî wêne bibînî? [[{{MediaWiki:createacct-captcha-help-url}}|Hesabekî bixwaze]]",
 	"wikimedia-discussiontools-replywidget-terms-click": "Bi tikandina bişkoka \"$1\", tu [https://foundation.wikimedia.org/wiki/Terms_of_Use Mercên me yên bikaranînê] qebûl dikî, û tu bi awayekî bêveger parvekirina nivîsa xwe {{PLURAL:$3|di bin}} $2 de qebûl dikî.",
 	"wikimedia-flow-terms-of-use-edit": "Bi qeydkirina guhartinên xwe, tu [https://foundation.wikimedia.org/wiki/Terms_of_Use Mercên bikaranînê] qebûl dikî, û tu bi awayekî bêveger parvekirina nivîsa xwe {{PLURAL:$2|di bin}} $1 de qebûl dikî.",

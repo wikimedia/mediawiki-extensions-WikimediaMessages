@@ -1,8 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
+			"Albinfo",
 			"Terfili"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "attribuziun"
+	"wm-license-cc-attribution": "Menziun dal num",
+	"wm-license-cc-free": "Questa ovra po vegnir:",
+	"wm-license-cc-free-to-share-header": "derasada",
+	"wm-license-cc-free-to-share-text": "reproducida, derasada e rendida accessibla publicamain.",
+	"wm-license-cc-free-to-remix-header": "messa ensemen da nov",
+	"wm-license-cc-free-to-remix-text": "modifitgada ed elavurada",
+	"wm-license-cc-conditions": "Tar las suandantas cundiziuns:",
+	"wm-license-cc-conditions-attribution-header": "attribuziun",
+	"wm-license-cc-conditions-share_alike-header": "surdada sut las medemas cundiziuns"
 }

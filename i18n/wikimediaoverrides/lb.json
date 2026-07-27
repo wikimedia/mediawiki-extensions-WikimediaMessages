@@ -9,7 +9,6 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Visiteuren op dëser Wiki, déi Är IP-Adress benotzt hunn, hunn an de leschte(n) $2 {{PLURAL:$1|ee Benotzerkont|$1 Benotzerkonten}} ugeluecht. Dat ass de Maximum, deen an deem Zäitraum erlaabt ass. Dofir kënne Benotzer, déi dës IP-Adress benotzen, den Ament keng nei Benotzerkonte méi uleeën.\n\nWann Dir bei engem Evenement sidd, op deem d'Matmaache bei Wikimedia-Projeten am Fokus steet, da kuckt wgl. [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Ufroe fir temporär d'Limitt fir IP-Adressen ze héijen]], fir ze hëllefen dëse Problem ze léisen.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(hëlleft mir beim Eraussichen)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Dir kënnt op [[m:Special:CentralAuth/$1|anere Wikimedia-Projeten, op deenen Dir matschafft]], d'Säit mat Ären Astellunge besichen, fir Är Benotzerdate vum respektive Projet erofzelueden.",
 	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
 	"wikimedia-centralauth-groupname": "der Wikimedia Fondatioun",
@@ -33,7 +32,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Problem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo just ugeluecht hutt, da loggt Iech wgl. aus an duerno nees an a probéiert dann nach eng Kéier, fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo just ugeluecht hutt, da gitt wgl. op [https://meta.wikimedia.org/ meta.wikimedia.org] a probéiert dann nach eng Kéier, fir d'App z'autoriséieren. (Feelercode: E008)",
 	"wikimedia-sitematrix": "Lëscht vun de Wikimedia-Wikien",
 	"wikimedia-sitematrix-others": "Aner Wikimedia-Projeten",
-	"wikimedia-sitematrix-summary": "Op dëser Spezialsäit stinn all Wikimedia Wikien.",
+	"wikimedia-sitematrix-summary": "Dës Spezialsäit lëscht all d'Wikimedia-Wikien op.",
 	"wikimedia-ipb-confirmhideuser": "Dir sidd am Gaang e Benotzer ze späre mat der Funktioun \"Benotzer verstoppen\" ageschalt. Dëst hëlt den Numm vum Benotzer aus alle Lëschten a Logbicher eraus. Sidd Dir sécher datt Dir dat maache wëllt?\n\nWann de Benotzernumm op alle Wikimedia Wikie verstoppt gi muss, da kontaktéiert d'[[m:Special:MyLanguage/Stewards|Stewards]] iwwer [[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|on-wiki E-Mail]] oder iwwer <kbd>stewards@wikimedia.org</kbd>.\n\nMerci",
 	"wikimedia-apierror-urlshortener-disabled": "Kuerz Linken kënnen nëmme mat engem Call op meta.wikimedia.org Wiki erstallt ginn.",
 	"wikimedia-urlshortener-badaccessgroups": "Kuerz Linke kënnen nëmmen iwwer d'[[:m:Special:UrlShortener|Spezial:UrlShortener]]-Säit op meta.wikimedia.org erstallt ginn.",

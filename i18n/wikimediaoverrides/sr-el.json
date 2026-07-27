@@ -5,7 +5,6 @@
 			"Obsuser"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomoć oko izbora)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ne vidite sliku? [[{{MediaWiki:createacct-captcha-help-url}}|Zatražite nalog]]",
 	"wikimedia-centralauth-groupname": "Zadužbine Vikimedije",
 	"createacct-helpusername-url": "{{ns:Project}}:Korisničko_ime",

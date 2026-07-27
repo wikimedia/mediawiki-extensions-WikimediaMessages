@@ -6,7 +6,6 @@
 			"Robin van der Vliet"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(helpu min elekti)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ĉu vi ne vidas la bildon? [[{{MediaWiki:createacct-captcha-help-url}}|Petu konton]]",
 	"wikimedia-centralauth-groupname": "la Fondaĵo Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Uzantnomo",

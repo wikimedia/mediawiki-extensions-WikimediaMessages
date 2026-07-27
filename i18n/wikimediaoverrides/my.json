@@ -5,7 +5,6 @@
 			"Ninjastrikers"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ရွေးချယ်ရန် ကူညီပေးပါ)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "အကောင့်ဒေတာများကို ဒေါင်းလုတ်ပြုလုပ်ရန်  [[m:Special:CentralAuth/$1|သင်ပံ့ပိုးထားသော အခြားဝီကီမီဒီယာပရောဂျက်များမှ]] သင်၏ ရွေးချယ်စရာများစာမျက်နှာသို့ သွားရောက်နိုင်ပါသည်။",
 	"wikimedia-createacct-imgcaptcha-help": "ရုပ်ပုံကို မမြင်ရပါသလား [[{{MediaWiki:createacct-captcha-help-url}}|အကောင့်တစ်ခု တောင်းဆိုပါ]]",
 	"wikimedia-centralauth-groupname": "ဝီကီမီဒီယာ ဖောင်ဒေးရှင်း",

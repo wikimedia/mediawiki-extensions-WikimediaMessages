@@ -6,7 +6,6 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Хьан IP-адресца хӀокху вики чу баьхкинчара тӀаьххьарчу дийнахь кхоьллина {{PLURAL:$1|1 аккаунт}}, иза цу хенан уггар дукха барам бу.\nИ бахьана долуш, оцу IP-адресца болчеран кхин аьтто бац кху муьрехь аккаунташ кхолла.\n\nНагахь ахьа Викимедиа-проекташкахь дакъа лацарна тӀе тидам тӀебахийтинехь, хьажа [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Хенна IP-доза совдаккхаран дехар]] хӀара хаттар дӀадаккхарехь гӀо лаха.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(гӀоде ша харжа)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Хьан аьтту бу [[m:Special:CentralAuth/$1|кхечу Викимедиа проекташкара]] нисдаран гӀирсан агӀонга хьажа, оцу проекташкахь хьан къинхьегам балахь, декъашхочун агӀонан хаамаш чубаха таро йу.",
 	"wikimedia-createacct-imgcaptcha-help": "Цаго сурт? [[{{MediaWiki:createacct-captcha-help-url}}|Йеха аккаунт]]",
 	"wikimedia-centralauth-groupname": "Викимедин фондан",

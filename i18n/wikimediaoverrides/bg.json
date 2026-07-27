@@ -10,7 +10,6 @@
 			"Vlad5250"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(помощ при избора)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Може да посетите страницата си със Настройки на [[m:Special:CentralAuth/$1|други проекти на Уикимедия, в които имате приноси]], за да изтеглите данните от сметката си в тези проекти.",
 	"wikimedia-createacct-imgcaptcha-help": "Не виждате изображението? [[{{MediaWiki:createacct-captcha-help-url}}|Помолете за разкриване на сметка]]",
 	"wikimedia-centralauth-groupname": "Фондация Уикимедия",

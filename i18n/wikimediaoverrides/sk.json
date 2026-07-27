@@ -7,7 +7,6 @@
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Návštevníci tejto wiki používajúci vašu IP adresu vytvorili v priebehu $2 {{PLURAL:$1|1 účet|$1 účty|$1 účtov}}, čo je maximálny povolený počet za toto časové obdobie.\nZ tohto dôvodu nemôžu návštevníci používajúci túto IP adresu momentálne vytvoriť ďalšie účty.\n\nAk sa zúčastňujete podujatia zameraného na prispievanie do projektov Wikimedia, pozrite si [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žiadosť o dočasné zrušenie obmedzenia pre IP adresu]], ktorá pomôže tento problém vyriešiť.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomôžte mi vybrať)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Môžete tiež navštíviť nastavenia aj na [[m:Special:CentralAuth/$1|ďalších projektoch Wikimedia, na ktorých ste prispeli]], aby ste si mohli stiahnuť dáta z vášho účtu z týchto projektov.",
 	"wikimedia-createacct-imgcaptcha-help": "Nevidíte obrázok? [[{{MediaWiki:createacct-captcha-help-url}}|Požiadajte o účet]].",
 	"wikimedia-centralauth-groupname": "Nadácie Wikimedia",

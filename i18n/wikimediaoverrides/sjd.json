@@ -4,7 +4,6 @@
 			"Merrahtar"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ве̄кьхэгке мыннӭ воа̄лшэ)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Эгк-гэ уйн тэнн кырьйнэз? [[{{MediaWiki:createacct-captcha-help-url}}|А̄нэсьт аккаунт]]",
 	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nБло̄һктэмушш ля̄йй оаннҍенҍ $1 ӣллькъюввма.\nАннтма а̄шшь лӣ ''$2''.\n\n* Бло̄һктэмуж оа̄лкхэшш: $8 \n* Бло̄һктэмуж ке̄джь: $6 \n\nТо̄н адтҍя IP-а̄дресс лӣ $3.\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalblocking-blockedtext-on-range": "То̄нн IP-а̄дресс лӣ па̄ҋкэсьт, мӣ ля̄йй [[m:Special:MyLanguage/Global blocks|пугк Викимедья Фо̄нд вики-соа̄йтэнҍ бло̄һкта]].",

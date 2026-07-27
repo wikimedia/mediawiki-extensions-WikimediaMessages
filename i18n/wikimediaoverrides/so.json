@@ -8,7 +8,6 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Booqdayaasha wiki-ga ee adeegsanaya cinwaanka IP-gaaga ayaa abuuray {{PLURAL:$1|1 koonto|$1 koonto}} $2 ee la soo dhaafay, taasoo ah tirada ugu badan ee la oggol yahay muddadan.\nNatiijadaas awgeed, booqdayaasha adeegsanaya IP-kan ma abuuri karaan koontooyin dheeraad ah xilligan.\n\nHaddii aad joogto dhacdo diiradda lagu saarayo wax ku biirinta mashaariicda Wikimedia, fadlan eeg [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Codsiga si ku-meelgaar ah loo qaado xadka IP-ga]] si loo xalliyo arrintan.",
 	"wikimedia-acct_creation_throttle_hit-temp": "Waxaan si ku meelgaar ah u xaddidnay wax ka beddelka adigoo aan soo gelin oo ka imanaya goobtaada. Fadlan [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} samee akoon] si aad u wax ka beddesho, ama mar kale isku day waqti dambe.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(i caawi dooro)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Waxaad booqan kartaa bogga doorbidkaaga ee [[m:Special:CentralAuth/$1|mashaariicda kale ee Wikimedia ee aad wax ku biirisay]] si aad uga soo dejiso xogta koontadaada mashaariicdaas.",
 	"wikimedia-createacct-imgcaptcha-help": "Ma arki karo sawirka? [[{{MediaWiki:createacct-captcha-help-url}}|Codsi akoon]]",
 	"wikimedia-centralauth-groupname": "Mu'asasada Wikimedia",

@@ -4,7 +4,6 @@
 			"Candalua"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(jùtame a sièliere)]]",
 	"wikimedia-createacct-imgcaptcha-help": "No sito mia bon de védar l'imagine? [[{{MediaWiki:createacct-captcha-help-url}}|Dimanda na utensa]]",
 	"wikimedia-centralauth-groupname": "la Fondasion Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Politica_nome_utente",

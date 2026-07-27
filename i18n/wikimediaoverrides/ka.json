@@ -9,7 +9,6 @@
 			"Იო ოქრო"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(დამეხმარეთ შერჩევაში)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "თქვენ შეგიძლიათ შეხვიდეთ თქვენი კონფიგურაციის გვერდზე [[m:Special:CentralAuth/$1|ვიკიმედიის იმ პროექტებში, სადაც წვლილი გაქვთ შეტანილი]], რათა გადმოწეროთ თქვენი ანგარიშის მონაცემები ამ პროექტებიდან.",
 	"wikimedia-createacct-imgcaptcha-help": "ვერ ნახულობთ სურათს? [[{{MediaWiki:createacct-captcha-help-url}}|მოითხოვე ანგარიში]]",
 	"wikimedia-centralauth-groupname": "ფონდი ვიკიმედია",

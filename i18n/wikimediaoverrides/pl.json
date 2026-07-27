@@ -17,7 +17,6 @@
 	},
 	"wikimedia-acct_creation_throttle_hit": "Z adresu IP, z którego korzystasz {{PLURAL:$1|ktoś już utworzył dziś konto|utworzono dziś $1 konta|utworzono dziś $1 kont}} w ciągu $2, co jest maksymalną dopuszczalną liczbą w tym czasie.\nW związku z tym, osoby korzystające z tego adresu IP w chwili obecnej nie mogą założyć kolejnego konta.\n\nJeżeli znajdujesz się właśnie na wydarzeniu o tematyce edytowania projektów Wikimedia, zobacz stronę [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Requesting temporary lift of IP cap]], gdzie znajdują się wskazówki jak poradzić sobie z tym ograniczeniem.",
 	"wikimedia-acct_creation_throttle_hit-temp": "Tymczasowo ograniczamy możliwość edytowania przez niezalogowanych z Twojej lokalizacji. Aby móc edytować, [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} utwórz konto] lub spróbuj ponownie później.",
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(pomóż mi wybrać)]]",
 	"wikimedia-prefs-user-downloaddata-help-message": "Odwiedź stronę preferencji w [[m:Special:CentralAuth/$1|innych projektach, w których {{GENDER:|dokonałeś|dokonałaś}} wkładu]], aby pobrać z nich dane dotyczące konta.",
 	"wikimedia-createacct-imgcaptcha-help": "Nie widzisz obrazka? [[{{MediaWiki:createacct-captcha-help-url}}|Złóż wniosek o konto]]",
 	"wikimedia-centralauth-groupname": "Fundacji Wikimedia",

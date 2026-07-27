@@ -4,7 +4,6 @@
 			"Ideophagous"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(عاونّي ف لإختيار)]]",
 	"wikimedia-createacct-imgcaptcha-help": "ماكاتبانش ليك التصويرة؟ [[{{MediaWiki:createacct-captcha-help-url}}|طلب كونط]]",
 	"createacct-helpusername-url": "{{ns:Project}}:لحكام د السمية د لخدايمي",
 	"wikimedia-checkuser-temporary-accounts-onboarding-dialog-temp-accounts-step-content": "باش يحمي لخصوصية ديال لخدايميا، مابقاش موقع {{SITENAME}} كايبيّن لادريسات د IP ديال لكتاتبيا لي ماملوڭينش.\n\nبلاصت من هادشي، لكتاتبيا لي ماملوڭينش غادي يتعطاو ليهم سميات د خدايمي مولّدين تلقائيًا و مرتابطين <strong> [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Temporary_accounts ب كونطات مؤقتين]</strong>، و لادريسات د IP ديالهم غادي يتشافو غير من عند [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy لموضافين و لخدايميا لي كيحتاجو باش يشوفوهم] باش يتعاملو معا التخريب و السلوكات لخايبة.\n\nملي غايتصايب كونط مؤقت ديال كتاتبي ماملوڭيش، غادي يتدار فيشي ديال تعريف الربط ف لبراوزر ديالو. موراها غادي يتنسب هاد لكونط ل [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#your-public-contribs جميع التبديلات لي جايين]، وخا تتبدل لادريسة د IP ديالو.",

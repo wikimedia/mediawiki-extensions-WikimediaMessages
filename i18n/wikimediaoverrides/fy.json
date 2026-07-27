@@ -4,7 +4,6 @@
 			"PiefPafPier"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(help mei kiezen)]]",
 	"wikimedia-createacct-imgcaptcha-help": "Ofbyld net te sjen? [[{{MediaWiki:createacct-captcha-help-url}}|Freegje in akkount]]",
 	"createacct-helpusername-url": "{{ns:Project}}:Meidochnammebelied",
 	"wikimedia-discussiontools-replywidget-terms-click": "Mei it klikken op \"$1\" stimme jo yn mei ús [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Terms_of_Use/fy Gebrûksbetingsten], en geane jo akkoart jo tekst ûnwerroplik frij te jaan {{PLURAL:$3|ûnder}} $2.",

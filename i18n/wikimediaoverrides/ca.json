@@ -8,7 +8,6 @@
 			"Vriullop"
 		]
 	},
-	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(ajuda per escollir-ne un)]]",
 	"wikimedia-createacct-imgcaptcha-help": "No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]",
 	"wikimedia-centralauth-groupname": "la Fundació Wikimedia",
 	"createacct-helpusername-url": "{{ns:Project}}:Política sobre els noms d'usuari",
