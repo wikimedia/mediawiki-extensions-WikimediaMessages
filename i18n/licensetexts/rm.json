@@ -1,12 +1,16 @@
 {
 	"@metadata": {
 		"authors": [
-			"Terfili"
+			"Terfili",
+			"Albinfo"
 		]
 	},
 	"wm-license-information-description": "Descripziun",
 	"wm-license-information-source": "Funtauna",
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Autur",
-	"wm-license-information-permission": "permissiun"
+	"wm-license-information-permission": "permissiun",
+	"wm-license-information-permission-reusing-text": "Ulteriur diever da questa datoteca",
+	"wm-license-own-work": "Atgna ovra",
+	"wm-license-self-multiple-licenses-select": "Per plaschair fixar la licenza tenor tscherna."
 }
