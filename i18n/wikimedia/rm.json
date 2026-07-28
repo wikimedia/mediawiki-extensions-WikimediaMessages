@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Albinfo",
+			"Bild-Sprache",
 			"Gion-andri",
 			"Kazu89",
 			"Terfili"
@@ -15,5 +16,5 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Sviluppaders",
 	"wikimedia-statslink": "Statisticas",
-	"wikimedia-cookiestatement": "Indicaziuns davart ils cookies"
+	"wikimedia-cookiestatement": "Indicaziuns davart cookies"
 }
