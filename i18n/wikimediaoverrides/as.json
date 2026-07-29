@@ -8,7 +8,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "আপুনি আন প্ৰকল্পবোৰৰ পৰা আপোনাৰ একাউণ্ট তথ্য ডাউনল'ড কৰিবলৈ [[m:Special:CentralAuth/$1|আপুনি বৰঙণি আগবঢ়োৱা আন ৱিকিমিডিয়া প্ৰকল্পৰ]] \"পছন্দসমূহ\" পৃষ্ঠা চাব পাৰে।",
 	"wikimedia-createacct-imgcaptcha-help": "ছবিখন দেখা পোৱা নাই? [[{{MediaWiki:createacct-captcha-help-url}}|এটা একাউণ্টৰ বাবে অনুৰোধ কৰক]]",
 	"wikimedia-centralauth-groupname": "ৱিকিমিডিয়া ফাউণ্ডেশ্যন",
-	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"wikimedia-discussiontools-replywidget-terms-click": "\"$1\" ক্লিক কৰি আপুনি আমাৰ [https://foundation.wikimedia.org/wiki/Terms_of_Use ব্যৱহাৰৰ চৰ্তসমূহত] সন্মতি প্ৰদান কৰিছে আৰু আপোনাৰ অৱদান $2-ৰ {{PLURAL:$3|অধিনত}} অপৰিৱৰ্তনীয়ভাৱে প্ৰকাশ কৰাত সন্মত হৈছে।",
 	"wikimedia-sitematrix": "ৱিকিমিডিয়া ৱিকিসমূহৰ তালিকা",
 	"wikimedia-sitematrix-others": "আন ৱিকিমিডিয়া প্ৰকল্পসমূহ",

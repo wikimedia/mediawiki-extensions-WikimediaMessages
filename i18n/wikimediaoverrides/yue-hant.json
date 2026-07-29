@@ -13,7 +13,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "睇唔到圖？[[{{MediaWiki:createacct-captcha-help-url}}|請求開戶口]]",
 	"wikimedia-centralauth-groupname": "維基媒體基金會",
 	"wikimedia-centralauth-login-error-locked": "<strong>呢個戶口已經被[[m:Special:MyLanguage/Global locks|全域封鎖咗]]。</strong> {{GENDER:$1|你}}唔可以喺任何維基媒體嘅網站簽到。如果{{GENDER:$1|你}}有疑問，請[[m:Special:Contact/stewards|聯絡監管員]]。",
-	"createacct-helpusername-url": "{{ns:Project}}:用戶名政策",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:用戶名政策",
 	"wikimedia-checkuser-tempaccount-enable-preference-description": "喺開呢個設定之前，你必須閱讀同同意「[https\n://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses 存取臨時戶口IP地址政策]」。特別係：<ul><li> 你必須符合政策入面所述嘅資格準則；</li><li>你唔可以存取、使用或者披露有關臨時戶口IP位址嘅資料，除非係合理必要嘅<b>調查或者執行破壞行為、濫用、垃圾郵件、騷擾、破壞性行為同埋其他違反維基媒體基金會或者社群政策嘅行為</b>。 如果你確實同其他人分享呢啲資料，你一定要對你喺邊度同點樣分享呢啲資料保持敏感，而你應該喺其他人唔再有合理必要睇到呢啲資料嗰陣剷走呢啲資料。</li></ul>如果你已經睇咗同埋同意呢個政策，你可以剔選呢格嚟開着呢個喜好設定。其他可以存取臨時戶口IP嘅用戶可以睇返呢個喜好設定嘅狀態。",
 	"wikimedia-discussiontools-replywidget-terms-click": "當你撳「$1」，就代表你同意我哋嘅[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意唔反悔{{PLURAL:$3|根據}}$2公開你所寫嘅嘢。",
 	"wikimedia-flow-terms-of-use-new-topic": "當你撳「{{int:flow-newtopic-save}}」，就代表你同意我哋嘅[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用條款]，並同意唔反悔{{PLURAL:$2|以}}$1公開你所寫嘅嘢。",

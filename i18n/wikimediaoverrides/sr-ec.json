@@ -12,7 +12,7 @@
 	"wikimedia-acct_creation_throttle_hit-temp": "Привремено ограничавамо анонимно уређивање са Ваше локације. Молимо [{{fullurl:Special:CreateAccount|campaign=temp-rate-limit}} отворите налог] или поново покушајте касније.",
 	"wikimedia-createacct-imgcaptcha-help": "Не видите слику? [[{{MediaWiki:createacct-captcha-help-url}}|Затражите налог]]",
 	"wikimedia-centralauth-groupname": "Задужбине Викимедије",
-	"createacct-helpusername-url": "{{ns:Project}}:Корисничко_име",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Корисничко_име",
 	"wikimedia-checkuser-global-contributions-anon-tools": "Претражите [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] или [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] да видите [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits пређашње IP измене].",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "Претрага [https://guc.toolforge.org/?user={{urlencode:$1}} GUC-а] или [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC] да видите [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits пређашње IP измене].",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "Погледајте [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] или [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] за измене старије од $2 {{PLURAL:$2|дана}}.",

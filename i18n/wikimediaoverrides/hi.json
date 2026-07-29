@@ -15,7 +15,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "चित्र नहीं दिख रहा है? [[{{MediaWiki:createacct-captcha-help-url}}|खाता निर्माण हेतु अनुरोध करें]]",
 	"wikimedia-centralauth-groupname": "विकिमीडिया संस्थान",
 	"wikimedia-centralauth-login-error-locked": "<strong>यह खाता [[m:Special:MyLanguage/Global locks|वैश्विक रूप से लॉक किया गया]] है।</strong> {{GENDER:$1|आप}} किसी भी विकिमीडिया विकि पर लॉग-इन नहीं कर पाएँगे। अगर आपको कोई प्रश्न है तो कृपया [[m:Special:Contact/stewards|स्टीवार्ड्स से संपर्क करें]]।",
-	"createacct-helpusername-url": "{{ns:Project}}:सदस्यनाम_नाति",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:सदस्यनाम_नाति",
 	"wikimedia-checkuser-global-contributions-anon-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits विरासती IP सम्पादन] देखने के लिए [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] अथवा [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] में खोजें।",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits विरासती IP सम्पादन] देखने के लिए [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] अथवा [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC] में खोजें।",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "पिछले $2 से अधिक {{PLURAL:$2|दिन}} पहले किए गए सम्पादन देखने के लिए [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] अथवा [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] में खोजें।",

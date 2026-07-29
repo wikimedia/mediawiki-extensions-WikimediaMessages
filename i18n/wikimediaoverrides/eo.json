@@ -8,7 +8,7 @@
 	},
 	"wikimedia-createacct-imgcaptcha-help": "Ĉu vi ne vidas la bildon? [[{{MediaWiki:createacct-captcha-help-url}}|Petu konton]]",
 	"wikimedia-centralauth-groupname": "la Fondaĵo Wikimedia",
-	"createacct-helpusername-url": "{{ns:Project}}:Uzantnomo",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Uzantnomo",
 	"wikimedia-sitematrix": "Listo de vikioj de Vikimedio",
 	"wikimedia-sitematrix-others": "Aliaj Vikimediaj projektoj",
 	"wikimedia-sitematrix-summary": "Ĉi tiu speciala paĝo listigas ĉiujn Vikimediajn vikiojn.",

@@ -6,7 +6,7 @@
 	},
 	"wikimedia-createacct-imgcaptcha-help": "Njemóžeš wobraz widźeć? [[{{MediaWiki:createacct-captcha-help-url}}|Konto požadać]]",
 	"wikimedia-centralauth-groupname": "załožby Wikimedia Foundation",
-	"createacct-helpusername-url": "{{ns:Project}}:Prawidła_za_wužiwarske_mjena",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Prawidła_za_wužiwarske_mjena",
 	"wikimedia-sitematrix": "Lisćina wšěch wikijow we Wikimediji",
 	"wikimedia-sitematrix-others": "Dalše projekty we Wikimediji",
 	"wikimedia-sitematrix-summary": "Tuta specialna strona wšě Wikimedijowe wikije nalistuje.",

@@ -8,7 +8,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "[[m:Special:CentralAuth/$1|താങ്കൾ സംഭാവന ചെയ്തിട്ടുള്ള മറ്റ് വിക്കിമീഡിയ പദ്ധതികളിലെ]] ക്രമീകരണങ്ങൾ താൾ സന്ദർശിച്ച് അവിടെ നിന്നും ആ പദ്ധതികളിലെ അംഗത്വവിവരങ്ങൾ താങ്കൾക്ക് എടുക്കാവുന്നതാണ്.",
 	"wikimedia-createacct-imgcaptcha-help": "ചിത്രം കാണാൻ കഴിയുന്നില്ലേ? [[{{MediaWiki:createacct-captcha-help-url}}|അംഗത്വം ആവശ്യപ്പെടുക]]",
 	"wikimedia-centralauth-groupname": "വിക്കിമീഡിയ ഫൗണ്ടേഷൻ",
-	"createacct-helpusername-url": "{{ns:Project}}:ഉപയോക്തൃനാമനയം",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:ഉപയോക്തൃനാമനയം",
 	"wikimedia-discussiontools-replywidget-terms-click": "താങ്കൾ \"$1\" ക്ലിക്ക് ചെയ്യുമ്പോൾ, ഞങ്ങളുടെ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ഉപയോഗനിബന്ധനകൾ] അംഗീകരിക്കുകയും താങ്കളുടെ എഴുത്ത് പിന്നീട് മാറ്റാൻ പറ്റാത്തവിധം $2 {{PLURAL:$3|പ്രകാരം}} പ്രസിദ്ധീകരിക്കുന്നുവെന്ന് സമ്മതിക്കുകയും ചെയ്യുന്നുണ്ട്.",
 	"wikimedia-sitematrix": "വിക്കിമീഡിയ വിക്കികളുടെ പട്ടിക",
 	"wikimedia-sitematrix-others": "മറ്റ് വിക്കിമീഡിയ പദ്ധതികൾ",

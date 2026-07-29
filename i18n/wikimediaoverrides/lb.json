@@ -13,7 +13,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "Kënnt Dir d'Bild net gesinn? [[{{MediaWiki:createacct-captcha-help-url}}|Frot ee Benotzerkont un]]",
 	"wikimedia-centralauth-groupname": "der Wikimedia Fondatioun",
 	"wikimedia-centralauth-login-error-locked": "<strong>Dëse Benotzerkont ass [[m:Special:MyLanguage/Global locks|global gespaart]]</strong>. {{GENDER:$1|Dir}} kënnt Iech op kenger Wikimedia-Wiki umelle kënnen. [[m:Special:Contact/stewards|Kontaktéiert wgl. d'Stewarden]], wann {{GENDER:$1|Dir}} Froen dozou hutt.",
-	"createacct-helpusername-url": "{{ns:Project}}:Benotzernumm Richtlinn",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Benotzernumm Richtlinn",
 	"wikimedia-checkuser-global-contributions-anon-tools": "Sicht op [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] oder [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] no [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits Legacy-IP-Ännerungen].",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "Sicht op [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] oder [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC] no [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits Legacy-IP-Ännerungen].",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "Sicht op [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] oder [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] no Ännerungen, déi viru méi wéi $2 {{PLURAL:$2|Dag|Deeg}} gemaach goufen.",

@@ -19,7 +19,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "تصویر را نمی‌بینید؟ [[{{MediaWiki:createacct-captcha-help-url}}|یک حساب درخواست کنید]]",
 	"wikimedia-centralauth-groupname": "بنیاد ویکی‌مدیا",
 	"wikimedia-centralauth-login-error-locked": "<strong>این حساب کاربری [[m:Special:MyLanguage/Global locks|به‌صورت سراسری قفل شده است]].</strong>\n{{GENDER:$1|شما}} قادر به ورود به هیچ‌یک از ویکی‌های ویکی‌مدیا نخواهید بود. اگر هرگونه سؤالی {{GENDER:$1|دارید}}، لطفاً [[m:Special:Contact/stewards|با ویکی‌بدها تماس بگیرید]].",
-	"createacct-helpusername-url": "{{ns:Project}}:سیاست_نام_کاربری",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:سیاست_نام_کاربری",
 	"wikimedia-checkuser-global-contributions-anon-tools": "برای مشاهدهٔ [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits ویرایش‌های قدیمی آی‌پی]، در [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] یا [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] جستجو کنید.",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "برای مشاهدهٔ [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits ویرایش‌های آی‌پی قدیمی]، در [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] یا [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC] جستجو کنید.",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "برای مشاهدهٔ ویرایش‌های انجام‌شده پیش از $2 {{PLURAL:$2|روز}} گذشته، در [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] یا [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] جستجو کنید.",

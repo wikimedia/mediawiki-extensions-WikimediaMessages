@@ -6,7 +6,7 @@
 		]
 	},
 	"wikimedia-createacct-imgcaptcha-help": "Könst det bil ei sä ? [[{{MediaWiki:createacct-captcha-help-url}}|Am en brükerkonto uunfraage]]",
-	"createacct-helpusername-url": "{{ns:Project}}:Reegeln för brükernöömer",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Reegeln för brükernöömer",
 	"wikimedia-feedback-termsofuse": "Ik steme ragmeldangen uun auerianstemang mä a [https://foundation.wikimedia.org/wiki/Terms_of_Use/de brükerreegeln] tu.",
 	"wikimedia-flow-terms-of-use-new-topic": "Wan dü üüb \"{{int:flow-newtopic-save}}\" trakst, stemest dü a [https://foundation.wikimedia.org/wiki/Terms_of_Use brükerreegeln] tu an dat dan bidrach oner a lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] uun't näät steld woort.",
 	"wikimedia-flow-terms-of-use-reply": "Wan dü üüb \"{{int:flow-reply-link}}\" trakst, stemest dü a [https://foundation.wikimedia.org/wiki/Terms_of_Use brükerreegeln] tu an dat dan bidrach oner a lisensen [https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0] an [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] uun't näät steld woort.",

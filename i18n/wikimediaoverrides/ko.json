@@ -27,7 +27,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "그림을 볼 수 없습니까? [[{{MediaWiki:createacct-captcha-help-url}}|계정을 요청할 수 있습니다]]",
 	"wikimedia-centralauth-groupname": "위키미디어 재단",
 	"wikimedia-centralauth-login-error-locked": "<strong>이 계정은 [[m:Special:MyLanguage/Global locks|전역 잠금]]되었습니다.</strong> {{GENDER:$1|어느}} 위키미디어 위키에도 로그인할 수 없습니다. 문의 사항이 있다면 [[m:Special:Contact/stewards|사무장에게 연락]]하세요.",
-	"createacct-helpusername-url": "{{ns:Project}}:계정_이름",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:계정_이름",
 	"wikimedia-checkuser-api-useragent-clienthints-explanation": "우리는 웹사이트 훼손 및 악용 행위를 방지하기 위해 사용자 에이전트 클라이언트 힌트 데이터를 수집합니다. 이 데이터는 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 개인정보 보호정책] 및 [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy 비공개 개인정보 접근 정책]에 따라 수집 및 사용됩니다. 자세한 내용은 https://www.mediawiki.org/wiki/Extension:CheckUser/Client_Hints를 참조하세요.",
 	"wikimedia-checkuser-global-contributions-anon-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 레거시 IP 편집]을 보려면 [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] 또는 [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC]를 검색하세요.",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 레거시 IP 편집]을 보려면 [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] 또는 [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC]를 검색하세요.",

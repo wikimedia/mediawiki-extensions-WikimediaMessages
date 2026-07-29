@@ -144,6 +144,7 @@ class Hooks implements
 			'checkuser-investigateblock-warning-ips-and-users-in-targets',
 			// T420537
 			'checkuser-suggestedinvestigations-summary',
+			'createacct-helpusername-url',
 			'createacct-imgcaptcha-help',
 			// T139797
 			'delete-toobig',

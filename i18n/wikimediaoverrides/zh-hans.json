@@ -37,7 +37,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "无法看到图像？[[{{MediaWiki:createacct-captcha-help-url}}|申请账号]]",
 	"wikimedia-centralauth-groupname": "维基媒体基金会",
 	"wikimedia-centralauth-login-error-locked": "<strong>该账号已被[[m:Special:MyLanguage/Global locks|全域锁定]]。</strong> {{GENDER:$1|您}}将无法登录任何维基媒体wiki。如果{{GENDER:$1|你}}有任何问题，请[[m:Special:Contact/stewards|联系监管员]]。",
-	"createacct-helpusername-url": "{{ns:Project}}:用户名方针",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:用户名方针",
 	"wikimedia-checkuser-api-useragent-clienthints-explanation": "我们会收集用户代理提示数据，以支持维基媒体社群反破坏及防滥用。这些数据会在符合[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy 隐私政策]以及[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy 非公开个人数据访问政策]的情况下收集与使用。要查看更多信息，请参见 https://www.mediawiki.org/wiki/Extension:CheckUser/Client_Hints。",
 	"wikimedia-checkuser-global-contributions-anon-tools": "搜索[https://guc.toolforge.org/?user={{urlcode:$1}} GUC]或[https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1}} XTools GC]以查看[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 遗留IP编辑]。",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "搜索[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]或[https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC]以查看[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 遗留IP编辑]。",
