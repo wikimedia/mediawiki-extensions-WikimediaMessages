@@ -1,6 +1,8 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Ayaat123"
+		]
 	},
 	"sitesupport": "دان دِیِو",
 	"group-accountcreator": "کھاتہٕ تَخلیٖق کَرَن وٲلؠ",
@@ -14,7 +16,7 @@
 	"grouppage-uploader": "{{ns:project}}: اَپلوڈَر",
 	"shared-repo-name-shared": "وِکیٖمیٖیڈیا کامَنٕز",
 	"wikimedia-copyright-footer": "تَمام مَتَن چھُ [https://creativecommons.org/licenses/by-sa/4.0/deed.en کرٛییٹِو_کامَنٕز_اِجازَتھ_نامہٕ\">کرٛییٹِو کامَنٕز اِنتِساب-یَکسان شَرکَژ اِجازَتھ نامَس] تَحَت دٕستِیاب، اِضٲفی شَرٕط تہِ ہیٚکَن لاگُو گٔژھتھ۔ تَفصیٖل خٲطرٕ  [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use یہِ صَفہٕ وُچھِو ] ۔",
-	"wikimedia-copyrightwarning": "تَبدیٖلہٕ مَحفوٗظ کَرنہٕ سٟتؠ چھِو تُہؠ [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use اِستِمالٕک شَرط] مانان تہٕ چھِو مُتفِق زِ یہِ اؠڈِٹ یِیہِ [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 لاسنہ] تہٕ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] تَحَت شایع کَرنہٕ۔\nتُہؠ چھِو اتفاق کران زِ اکھ ہائپر لنک یا یو آر ایل چھُ  کٲفی انتساب کریٹیو کامنز لاسنہ تحت.",
+	"wikimedia-copyrightwarning": "تبدیلیہٕ محفوٗظ کٔرِتھ، تُہؠ چھِو [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use اِستِمال کؠن شرطن سٟتؠ] پؠٹھ رضامَنٛدی تھاوان، تہٕ تُہؠ چھِو [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 لایسنس] تہٕ [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] تحت پنُن سہکٲری جٲری کرنس پؠٹھ رضامَنٛدی ظٲہِر کران۔\nتُہؠ چھِو مِلژار کران زِ کرٛیٹِو کامَنٕز لاسنہِ تحت چھُ اکھ ہایپر لِنٛک یا یوٗ آر ایل کٲفی اِنتساب ۔",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|خٲر مَقدَم}}، $1!",
 	"wikibase-repo-name": "وِکی ڈیٹا",
 	"wikibase-sitelinks-wikinews": "وِکی خَبَر",
