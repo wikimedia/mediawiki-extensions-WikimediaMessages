@@ -3,7 +3,9 @@
 		"authors": [
 			"Gion-andri",
 			"Kazu89",
-			"Terfili"
+			"Terfili",
+			"Albinfo",
+			"Bild-Sprache"
 		]
 	},
 	"sitesupport": "Donaziuns",
@@ -12,5 +14,7 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Sviluppaders"
+	"wikimedia-developers": "Sviluppaders",
+	"wikimedia-statslink": "Statisticas",
+	"wikimedia-cookiestatement": "Indicaziuns davart cookies"
 }
