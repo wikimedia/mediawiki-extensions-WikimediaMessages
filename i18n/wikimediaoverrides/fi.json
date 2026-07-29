@@ -18,7 +18,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "Eikö kuva näy? [[{{MediaWiki:createacct-captcha-help-url}}|Pyydä tunnusta]]",
 	"wikimedia-centralauth-groupname": "Wikimedia-säätiö",
 	"wikimedia-centralauth-login-error-locked": "<strong>Tämä käyttäjätunnus on [[m:Special:MyLanguage/Global locks|estetty järjestelmänlaajuisesti]].</strong> {{GENDER:$1|Et}} voi kirjautua sisään mihinkään Wikimedia-wikiin. [[m:Special:Contact/stewards|Ota yhteyttä ylivalvojiin]], jos {{GENDER:$1|sinulla}} on kysymyksiä.",
-	"createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnus",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Käyttäjätunnus",
 	"wikimedia-checkuser-global-contributions-anon-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits Vanhojen IP-osoitteiden muokkauksia] voi hakea [https://guc.toolforge.org/?user={{urlencode:$1}} GUC]- tai [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] -työkaluilla.",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits Vanhojen IP-osoitteiden muokkauksia] voi hakea [https\n://guc.toolforge.org/?user={{urlencode:$1}} GUC]- tai [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC] -työkaluilla.",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "Aiemmin kuin $2 {{PLURAL:$2|päivä|päivää}} sitten tehtyjä muokkauksia voi hakea [https://guc.toolforge.org/?user={{urlencode:$1}} GUC]- tai [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] -työkaluilla.",

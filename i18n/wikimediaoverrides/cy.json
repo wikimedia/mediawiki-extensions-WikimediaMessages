@@ -9,7 +9,7 @@
 	},
 	"wikimedia-createacct-imgcaptcha-help": "Methu gweld y ddelwedd? [[{{MediaWiki:createacct-captcha-help-url}}|Holwch am gyfrif]]",
 	"wikimedia-centralauth-groupname": "Sefydliad Wicimedia",
-	"createacct-helpusername-url": "{{ns:Project}}:Polisi_enwau_defnyddiwr",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Polisi_enwau_defnyddiwr",
 	"wikimedia-sitematrix": "Rhestr holl wiciau Wicimedia",
 	"wikimedia-sitematrix-others": "Prosiectau eraill Wicimedia",
 	"wikimedia-sitematrix-summary": "Mae'r dudalen arbennig hon yn rhestru'r holl wicïau Wicimedia.",

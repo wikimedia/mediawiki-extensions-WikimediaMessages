@@ -30,7 +30,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "画像が表示されない場合は[[{{MediaWiki:createacct-captcha-help-url}}|アカウント作成を依頼してください]]",
 	"wikimedia-centralauth-groupname": "ウィキメディア財団",
 	"wikimedia-centralauth-login-error-locked": "<strong>このアカウントは[[m:Special:MyLanguage/Global locks|グローバルロック]]されています。</strong> {{GENDER:$1|あなた}}はどのウィキメディアウィキにもログインできなくなります。ご質問がありましたら、[[m:Special:Contact/stewards|スチュワードまでお問い合わせください]]。",
-	"createacct-helpusername-url": "{{ns:Project}}:利用者名の方針",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:利用者名の方針",
 	"wikimedia-checkuser-global-contributions-anon-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits 従来型のIP編集データ]\nを表示するには、[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]または[https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC]で検索してください。",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "[https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits レガシーIP編集]を表示するには、[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]または[https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC]で検索してください。",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "過去$2{{PLURAL:$2|日}}より前に行われた編集を表示するには[https://guc.toolforge.org/?user={{urlencode:$1}} GUC]または[https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC]で検索してください。",

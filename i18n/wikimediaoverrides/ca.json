@@ -10,7 +10,7 @@
 	},
 	"wikimedia-createacct-imgcaptcha-help": "No podeu veure la imatge? [[{{MediaWiki:createacct-captcha-help-url}}|Sol·liciteu un compte]]",
 	"wikimedia-centralauth-groupname": "la Fundació Wikimedia",
-	"createacct-helpusername-url": "{{ns:Project}}:Política sobre els noms d'usuari",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Política sobre els noms d'usuari",
 	"wikimedia-feedback-termsofuse": "Estic d'acord en publicar comentaris d'acord amb les [https://foundation.wikimedia.org/wiki/Terms_of_Use Condicions d'ús].",
 	"wikimedia-flow-terms-of-use-new-topic": "En clicar \"{{int:flow-newtopic-save}}\", esteu acceptant les nostres [https://foundation.wikimedia.org/wiki/Terms_of_Use/ca Condicions d'ús] i esteu alliberant irrevocablement el vostre text sota la [https://creativecommons.org/licenses/by-sa/3.0/deed.ca llicència CC BY-SA 3.0] i la [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-flow-terms-of-use-reply": "En clicar \"{{int:flow-reply-link}}\", esteu acceptant les nostres [https://foundation.wikimedia.org/wiki/Terms_of_Use/ca Condicions d'ús] i accepteu alliberar irrevocablement el vostre text sota la [https://creativecommons.org/licenses/by-sa/3.0/deed.ca llicència CC BY-SA 3.0] i la [https://ca.wikisource.org/wiki/Viquitexts:Llicència_de_documentació_lliure_de_GNU GFDL]",

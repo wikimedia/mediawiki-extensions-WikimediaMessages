@@ -5,7 +5,7 @@
 		]
 	},
 	"wikimedia-centralauth-groupname": "Фонд Вікімедія",
-	"createacct-helpusername-url": "{{ns:Project}}:Імя хоснователя",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Імя хоснователя",
 	"wikimedia-sitematrix": "Список проєктів Вікімедія",
 	"wikimedia-sitematrix-others": "Іншы проєкты Фонду «Вікімедія»",
 	"wikimedia-sitematrix-summary": "Тота шпеціална сторінка обсягує список вшыткых вікі Фонду Вікімедія"

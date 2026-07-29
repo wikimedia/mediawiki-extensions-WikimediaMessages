@@ -6,7 +6,7 @@
 	},
 	"wikimedia-createacct-imgcaptcha-help": "No sito mia bon de védar l'imagine? [[{{MediaWiki:createacct-captcha-help-url}}|Dimanda na utensa]]",
 	"wikimedia-centralauth-groupname": "la Fondasion Wikimedia",
-	"createacct-helpusername-url": "{{ns:Project}}:Politica_nome_utente",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Politica_nome_utente",
 	"wikimedia-sitematrix": "Ełenco de tuti i projeti Wikimedia ne le varie lengoe",
 	"wikimedia-sitematrix-others": "Altri progeti Wikimedia",
 	"wikimedia-sitematrix-summary": "Sta pagina speciale la elenca tuti i progeti Wikimedia"

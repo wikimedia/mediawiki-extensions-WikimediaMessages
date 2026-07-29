@@ -11,7 +11,7 @@
 	"wikimedia-createacct-imgcaptcha-help": "Kas sa ei näe pilti? [[{{MediaWiki:createacct-captcha-help-url}}|Taotle kontot]]",
 	"wikimedia-centralauth-groupname": "Wikimedia",
 	"wikimedia-centralauth-login-error-locked": "<strong>See konto on [[m:Special:MyLanguage/Global locks|globaalselt lukustatud]].</strong> {{GENDER:$1|Sa}} ei saa ühelegi Wikimedia saidile sisse logida. Palun [[m:Special:Contact/stewards|võta ühendust stjuuarditega]], kui sul on küsimusi.",
-	"createacct-helpusername-url": "{{ns:Project}}:Kasutajanimi",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Kasutajanimi",
 	"wikimedia-checkuser-global-contributions-anon-tools": "Otsi tööriistadega [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] või [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC], et näha [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits IP-aadressi vanu muudatusi].",
 	"wikimedia-checkuser-global-contributions-ip-range-tools": "Otsi tööriistadega [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] või [https://xtools.wmcloud.org/globalcontribs/ipr-{{urlencode:$1|PATH}} XTools GC], et näha [https://www.mediawiki.org/wiki/Special:MyLanguage/Trust_and_Safety_Product/Temporary_Accounts/FAQ#Legacy_IP_edits IP-aadresside vanu muudatusi].",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "Otsi tööriistadega [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] või [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC], et näha muudatusi, mis on vanemad kui $2 {{PLURAL:$2|päev|päeva}}.",

@@ -11,7 +11,7 @@
 	"wikimedia-prefs-user-downloaddata-help-message": "คุณสามารถไปที่หน้าการตั้งค่าของคุณได้ที่[[m:Special:CentralAuth/$1|โครงการวิกิมีเดียอื่น ๆ ที่คุณมีส่วนร่วม]]เพื่อดาวน์โหลดข้อมูลบัญชีของคุณจากโครงการเหล่านั้น",
 	"wikimedia-createacct-imgcaptcha-help": "มองไม่เห็นภาพใช่หรือไม่? [[{{MediaWiki:createacct-captcha-help-url}}|ขอบัญชี]]",
 	"wikimedia-centralauth-groupname": "มูลนิธิวิกิมีเดีย",
-	"createacct-helpusername-url": "{{ns:Project}}:Username_policy",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:Username_policy",
 	"wikimedia-checkuser-global-contributions-anon-tools": "ค้นหา [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] หรือ [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] เพื่อดูการแก้ไขของไอพีเก่า",
 	"wikimedia-checkuser-global-contributions-registered-user-tools": "ค้นหา [https://guc.toolforge.org/?user={{urlencode:$1}} GUC] หรือ [https://xtools.wmcloud.org/globalcontribs/{{urlencode:$1|PATH}} XTools GC] เพื่อดูการแก้ไขที่ทำเกิน $2 {{PLURAL:$2|วัน}}ล่าสุด",
 	"wikimedia-checkuser-global-contributions-no-results-no-permissions": "<strong>ไม่พบผลลัพธ์ที่ตรงกับการค้นหา</strong> คุณอาจไม่ตรงตาม[https://foundation.wikimedia.org/wiki/Policy:Access_to_temporary_account_IP_addresses#Minimum_requirements_for_access ข้อกำหนดขั้นต่ำ]ในการดูที่อยู่ไอพีที่ใช้โดยบัญชีชั่วคราว",
