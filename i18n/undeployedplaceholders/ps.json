@@ -4,5 +4,17 @@
 			"شاه زمان پټان"
 		]
 	},
-	"wikimedia-graph-disabled-category": "ناچارن شوي گراف لرونکي مخونه"
+	"wikimedia-logentry-usermerge-mergeuser": "$1 په {{GENDER:$8|$6}} ($7) کې د \"$4\" ($5) کارن گڼون {{GENDER:$2|واخږه}}",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 د \"$4\" ($5) کارن گڼون {{GENDER:$2|ړنگ کړ}}",
+	"wikimedia-log-action-filter-usermerge": "د چارې ډول:",
+	"wikimedia-log-action-filter-usermerge-mergeuser": "کارن گڼون اخږل",
+	"wikimedia-log-action-filter-usermerge-deleteuser": "کارن گڼون ړنگول",
+	"wikimedia-usermerge-logpage": "د کارن اخږلو يادښت",
+	"wikimedia-usermerge-logpagetext": "دا د کارن اخږلو چارو يو يادښت دی.",
+	"wikimedia-graph-tracking-category": "گراپ لرونکي مخونه",
+	"wikimedia-graph-tracking-category-desc": "په مخ کې د <code>&lt;گراپ&gt;</code> نښلن رانغاړل شوی دی",
+	"wikimedia-graph-broken-category": "مات گراپ لرونکي مخونه",
+	"wikimedia-graph-broken-category-desc": "مخ <code>&lt;گراپ&gt;</code> نښلن له ناسمې کارونې سره لري.",
+	"wikimedia-graph-disabled-category": "ناچارن شوي گراف لرونکي مخونه",
+	"wikimedia-graph-disabled-category-desc": "دا مخ داسې يو <code>&lt;گراپ&gt;</code> نښلن کاروي چې د لنډې مودې لپاره د لاسرسي وړ نه دی ([[phab:T334940|T334940]])."
 }
