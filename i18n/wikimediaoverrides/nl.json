@@ -101,6 +101,7 @@
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "U hebt op {{SITENAME}} bevoegdheden waarvoor tweetrapsauthenticatie vereist is.\n\n<strong>U kunt [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights deze bevoegdheden kwijtraken] zodat u ze handmatig opnieuw moet aanvragen.</strong>\n\nTip: Voeg een nieuwe methode toe alvorens deze te verwijderen.",
 	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Neem in dat geval {{GENDER:$1|contact}} op met Trust & Safety ($2).",
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Contact opnemen met Trust & Safety",
+	"wikimedia-oathauth-recovery-codes-expired-error": "<strong>Uw tijdelijke herstelcodes zijn verlopen</strong>\n\nDe tijdelijke herstelcodes die u per e-mail zijn toegestuurd, zijn verlopen. Neem contact op met [mailto:ca@wikimedia.org ca@wikimedia.org] om weer toegang tot uw account te krijgen.",
 	"wikimedia-notificationemail_html_footer": "Als dit niet op u van toepassing was, schrijf dan onmiddellijk naar [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Hallo $2 ,\n\nU hebt onlangs uw e-mailadres op {{SITENAME}} gewijzigd. Het nieuwe e-mailadres is $3 .\n\nAls u dit niet was, neem dan onmiddellijk contact op met ca@wikimedia.org.",
 	"wikimedia-notificationemail_body_removed": "Hallo $2 ,\n\nU hebt onlangs uw e-mailadres verwijderd op {{SITENAME}}.\n\nAls u dit niet was, neem dan onmiddellijk contact op met ca@wikimedia.org.",

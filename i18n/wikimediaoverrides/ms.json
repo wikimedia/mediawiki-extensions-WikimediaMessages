@@ -93,6 +93,7 @@
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "Anda mempunyai keistimewaan di {{SITENAME}} yang memerlukan pengesahihan dwifaktor.\n\n<strong>Anda mungkin akan [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights kehilangan keistimewaan ini] dan perlu memintanya sekali lagi secara manual.</strong>\n\nPetua: Tambah kaedah baharu sebelum mengalih keluar yang ini.",
 	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Dalam kes sedemikian, sila {{GENDER:$1|hubungi}} Pasukan Amanah & Keselamatan ($2).",
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Hubungi Amanah & Keselamatan",
+	"wikimedia-oathauth-recovery-codes-expired-error": "<strong>Kod pemulihan sementara anda telah tamat tempoh</strong>\n\nKod pemulihan sementara yang diemelkan kepada anda telah tamat tempoh. Untuk mendapatkan semula akses kepada akaun anda, sila hubungi [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_html_footer": "Jika ini bukan anda, laporkan ke [mailto:ca@wikimedia.org ca@wikimedia.org] dengan segera.",
 	"wikimedia-notificationemail_body_changed": "Salam sejahtera $2,\n\nAnda baru-baru ini menukar e-mel anda di {{SITENAME}}. E-mel baharu ialah $3.\n\nJika ini bukan anda, laporkan ke ca@wikimedia.org dengan segera.",
 	"wikimedia-notificationemail_body_removed": "Salam sejahtera $2,\n\nAnda baru-baru ini telah membuang e-mel anda di {{SITENAME}}.\n\nJika tindakan ini bukan anda lakukan, laporkan ke ca@wikimedia.org dengan segera.",
