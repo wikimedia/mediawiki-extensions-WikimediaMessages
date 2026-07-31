@@ -33,7 +33,7 @@
 	"wikimedia-mwoauthserver-invalid-user": "Et gouf e Problem fir Iech global anzeloggen. Wann Dir Äre Benotzerkont elo just ugeluecht hutt, da loggt Iech wgl. aus an duerno nees an a probéiert dann nach eng Kéier, fir d'App z'autoriséieren. Wann Dir de Benotzerkont net elo just ugeluecht hutt, da gitt wgl. op [https://meta.wikimedia.org/ meta.wikimedia.org] a probéiert dann nach eng Kéier, fir d'App z'autoriséieren. (Feelercode: E008)",
 	"wikimedia-sitematrix": "Lëscht vun de Wikimedia-Wikien",
 	"wikimedia-sitematrix-others": "Aner Wikimedia-Projeten",
-	"wikimedia-sitematrix-summary": "Op dëser Spezialsäit stinn all Wikimedia Wikien.",
+	"wikimedia-sitematrix-summary": "Dës Spezialsäit lëscht all d'Wikimedia-Wikien op.",
 	"wikimedia-ipb-confirmhideuser": "Dir sidd am Gaang e Benotzer ze späre mat der Funktioun \"Benotzer verstoppen\" ageschalt. Dëst hëlt den Numm vum Benotzer aus alle Lëschten a Logbicher eraus. Sidd Dir sécher datt Dir dat maache wëllt?\n\nWann de Benotzernumm op alle Wikimedia Wikie verstoppt gi muss, da kontaktéiert d'[[m:Special:MyLanguage/Stewards|Stewards]] iwwer [[m:Special:EmailUser/Wikimedia_Stewards_(Oversight)|on-wiki E-Mail]] oder iwwer <kbd>stewards@wikimedia.org</kbd>.\n\nMerci",
 	"wikimedia-apierror-urlshortener-disabled": "Kuerz Linken kënnen nëmme mat engem Call op meta.wikimedia.org Wiki erstallt ginn.",
 	"wikimedia-urlshortener-badaccessgroups": "Kuerz Linke kënnen nëmmen iwwer d'[[:m:Special:UrlShortener|Spezial:UrlShortener]]-Säit op meta.wikimedia.org erstallt ginn.",

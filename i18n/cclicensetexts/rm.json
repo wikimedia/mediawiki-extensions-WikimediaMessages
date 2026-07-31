@@ -1,8 +1,18 @@
 {
 	"@metadata": {
 		"authors": [
-			"Terfili"
+			"Terfili",
+			"Albinfo",
+			"Bild-Sprache"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "attribuziun"
+	"wm-license-cc-attribution": "Menziun dal num",
+	"wm-license-cc-free": "Igl è permess:",
+	"wm-license-cc-free-to-share-header": "da derasar",
+	"wm-license-cc-free-to-share-text": "da copiar, derasar e dar vinavant l'ovra",
+	"wm-license-cc-free-to-remix-header": "da metter ensemen da nov",
+	"wm-license-cc-free-to-remix-text": "da vegnir modifitgà ed elavurà",
+	"wm-license-cc-conditions": "Sut las suandantas cundiziuns:",
+	"wm-license-cc-conditions-attribution-header": "attribuziun",
+	"wm-license-cc-conditions-share_alike-header": "Transmissiun sut las medemas cundiziuns"
 }
