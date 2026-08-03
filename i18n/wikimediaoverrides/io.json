@@ -13,5 +13,6 @@
 	"wikimedia-sitematrix": "Listo di wiki-i Wikimedia",
 	"wikimedia-sitematrix-others": "Altra projeti di Wikimedia",
 	"wikimedia-ipinfo-infobox-use-terms": "L'utensilo ''IP Information'' uzas datumi de MaxMind por montrar detali, exemple lokizo, ''proxy'', e quanta aparati partigas ta IP-adreso. Voluntez revizar la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines guidolinei dil utensilo ''IP Information''] ante kapabligar ol.",
-	"wikimedia-ipinfo-preference-use-agreement": "Me konkordas pri uzar ta utensilo segun la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines gidolinei por l'utensilo IP Information], nur por inquesto o prevento di vandalismo, abuzo, od altra violaci di la politiki di Wikimedia Foundation o di la komunitato"
+	"wikimedia-ipinfo-preference-use-agreement": "Me konkordas pri uzar ta utensilo segun la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines gidolinei por l'utensilo IP Information], nur por inquesto o prevento di vandalismo, abuzo, od altra violaci di la politiki di Wikimedia Foundation o di la komunitato",
+	"wikimedia-userrights-restricted-group-u4c-member-private-conditions": "Membri de U4C mustas kapabligar l'autentigo per du faktori, qui verifikesos kande la formulario sendesos"
 }

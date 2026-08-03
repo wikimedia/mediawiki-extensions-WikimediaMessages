@@ -70,6 +70,7 @@
 	"wikimedia-apierror-urlshortener-disabled": "meta.wikimedia.org يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع",
 	"wikimedia-urlshortener-badaccessgroups": "لا يمكن إنشاء الروابط القصيرة إلا عبر صفحة[[:m:Special:UrlShortener|خاص:مقصر المسار]] على meta.wikimedia.org.",
 	"wikimedia-apierror-urlshortener-permissiondenied": "يمكن  إنشاء الروابط القصيرة فقط من خلال التواصل مع meta.wikimedia.org.",
+	"wikimedia-mwoauth-consumer-allwikis": "جميع مشاريع ويكيميديا",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Privacy Policy]",
 	"wikimedia-notification-body-oathauth-disable-other": "إذا كان {{GENDER:$2| أنت}} لم تطلب هذا ، {{GENDER:$2| يجب عليك}} الاتصال بـ WMF Trust & Safety.",
 	"wikimedia-ipinfo-help-text": "يخضع استخدامك لهذه الأداة لإرشادات [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines الخاصة بأداة معلومات الملكية الفكرية]. تأتي المعلومات المعروضة من MaxMind و[https://docs.spur.us/data-types Spur]. قد لا تكون دقيقة تمامًا.",
