@@ -17,5 +17,6 @@
 	"wikimedia-sitematrix": "د ويکي‌‌رسنۍ د ويکي‌گانو لړليک",
 	"wikimedia-sitematrix-others": "د ويکي‌رسنۍ نورې پروژې",
 	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکي‌رسنۍ د ټولو ويکي گانو لړليک ښکاره کوي.",
+	"wikimedia-centralauth-admin-log-otherwiki": "دا گڼون تړل شوی دی. د نور سپيناوي لپاره يې  [[meta:Special:CentralAuth/$1|مېټاويکي کې د ټوليز گڼون سپيناوی]] وگورئ.",
 	"wikimedia-globalblocking-blockedtext-ip-range": "بنديز لړۍ $1 دی."
 }

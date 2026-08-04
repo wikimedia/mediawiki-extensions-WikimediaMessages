@@ -4,13 +4,18 @@
 			"SolidBlock",
 			"StarrySky",
 			"列维劳德",
-			"Davidzdh"
+			"Davidzdh",
+			"XiaoAnIsMe"
 		]
 	},
+	"wm-license-cc-attribution": "署",
 	"wm-license-cc-by-sa-3.0-text": "此卷也，為[[{{int:wm-license-cc-wiki-link}}|共享創意授權]]。其條款，則[[creativecommons:by-sa/3.0/deed.en|第三通用本]]。翻印增刪，皆須引據，並同道為之。",
 	"wm-license-cc-free": "子可：",
 	"wm-license-cc-free-to-share-header": "享",
+	"wm-license-cc-free-to-share-text": "複、佈且揚是作",
 	"wm-license-cc-free-to-remix-header": "重改",
+	"wm-license-cc-free-to-remix-text": "埏是作",
+	"wm-license-cc-conditions": "下條須遵：",
 	"wm-license-cc-conditions-attribution-header": "享",
 	"wm-license-cc-conditions-share_alike-header": "共享"
 }

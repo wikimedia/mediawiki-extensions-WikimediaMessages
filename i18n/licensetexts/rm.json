@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Terfili",
-			"Albinfo"
+			"Albinfo",
+			"Bild-Sprache"
 		]
 	},
 	"wm-license-information-description": "Descripziun",
@@ -10,7 +11,7 @@
 	"wm-license-information-date": "Data",
 	"wm-license-information-author": "Autur",
 	"wm-license-information-permission": "permissiun",
-	"wm-license-information-permission-reusing-text": "Ulteriur diever da questa datoteca",
+	"wm-license-information-permission-reusing-text": "Reutilisar questa datoteca",
 	"wm-license-own-work": "Atgna ovra",
-	"wm-license-self-multiple-licenses-select": "Per plaschair fixar la licenza tenor tscherna."
+	"wm-license-self-multiple-licenses-select": "Ti dastgas tschernar la licenza."
 }

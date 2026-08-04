@@ -2,16 +2,18 @@
 	"@metadata": {
 		"authors": [
 			"Terfili",
-			"Albinfo"
+			"Albinfo",
+			"Bild-Sprache"
 		]
 	},
 	"wm-license-cc-attribution": "Menziun dal num",
-	"wm-license-cc-free": "Questa ovra po vegnir:",
-	"wm-license-cc-free-to-share-header": "derasada",
-	"wm-license-cc-free-to-share-text": "reproducida, derasada e rendida accessibla publicamain.",
-	"wm-license-cc-free-to-remix-header": "messa ensemen da nov",
-	"wm-license-cc-free-to-remix-text": "modifitgada ed elavurada",
-	"wm-license-cc-conditions": "Tar las suandantas cundiziuns:",
+	"wm-license-cc-by-sa-3.0-text": "Questa datoteca è licenziada sut la licenza [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]].",
+	"wm-license-cc-free": "Igl è permess:",
+	"wm-license-cc-free-to-share-header": "da derasar",
+	"wm-license-cc-free-to-share-text": "da copiar, derasar e dar vinavant l'ovra",
+	"wm-license-cc-free-to-remix-header": "da metter ensemen da nov",
+	"wm-license-cc-free-to-remix-text": "da vegnir modifitgà ed elavurà",
+	"wm-license-cc-conditions": "Sut las suandantas cundiziuns:",
 	"wm-license-cc-conditions-attribution-header": "attribuziun",
-	"wm-license-cc-conditions-share_alike-header": "surdada sut las medemas cundiziuns"
+	"wm-license-cc-conditions-share_alike-header": "Transmissiun sut las medemas cundiziuns"
 }
