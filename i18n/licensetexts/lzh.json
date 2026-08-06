@@ -5,7 +5,8 @@
 			"Jason924tw",
 			"SolidBlock",
 			"StarrySky",
-			"StephDC"
+			"StephDC",
+			"XiaoAnIsMe"
 		]
 	},
 	"wm-license-book-language": "語",
@@ -15,5 +16,6 @@
 	"wm-license-information-date": "期",
 	"wm-license-information-author": "作者",
 	"wm-license-information-permission": "准",
+	"wm-license-information-permission-reusing-text": "復用是檔",
 	"wm-license-own-work": "己作"
 }
