@@ -63,7 +63,6 @@
 	"group-eliminator": "Eliminatori",
 	"group-eliminator-member": "{{GENDER:$1|eliminator}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminatori",
-	"group-event-organizer-member": "{{GENDER:$1|organizator|organizatorka}} događaja",
 	"group-eventcoordinator": "Usklađivači događaja",
 	"group-eventcoordinator-member": "{{GENDER:$1|usklađivatelj događaja|usklađivateljica događaja}}",
 	"grouppage-eventcoordinator": "{{ns:project}}:Usklađivači događaja",

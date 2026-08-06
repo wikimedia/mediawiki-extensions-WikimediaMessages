@@ -66,8 +66,6 @@
 	"group-eliminator": "Выдаляючыя",
 	"group-eliminator-member": "{{GENDER:$1|выдаляючы|выдаляючая}}",
 	"grouppage-eliminator": "{{ns:project}}:Выдаляючыя",
-	"group-event-organizer": "Арганізатары падзеяў",
-	"grouppage-event-organizer": "{{ns:project}}:Арґанізатары падзеяў",
 	"group-filemover": "Пераносчыкі файлаў",
 	"group-filemover-member": "{{GENDER:$1|пераносчык файлаў|пераносчыца файлаў}}",
 	"grouppage-filemover": "{{ns:project}}:Пераносчыкі файлаў",
