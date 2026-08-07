@@ -6,7 +6,8 @@
 			"Peterxy12",
 			"Stang",
 			"沈澄心",
-			"Peterxy"
+			"Peterxy",
+			"GuoPC"
 		]
 	},
 	"wikimedia-logentry-usermerge-mergeuser": "$1将用户账户“$4”（$5）{{GENDER:$2|合并}}到{{GENDER:$8|$6}}（$7）",
@@ -16,6 +17,15 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "用户账号删除",
 	"wikimedia-usermerge-logpage": "用户合并日志",
 	"wikimedia-usermerge-logpagetext": "这是用户合并操作的日志。",
+	"wikimedia-lqt-log-name": "话题讨论日志",
+	"wikimedia-lqt-log-header": "此日志记录了对讨论话题进行的操作。",
+	"wikimedia-lqt-log-action-move": "已将[[$1]]从[[$2]]移动到[[$3]]（$4）",
+	"wikimedia-lqt-log-action-split": "已将[[$1]]从[[$3]]拆分，并改为新主题“$2”",
+	"wikimedia-lqt-log-action-merge-across": "已将[[$1]]从[[$2]]之下移动到[[$3]]之下",
+	"wikimedia-lqt-log-action-merge-down": "已将[[$1]]合并到下方的[[$3]]",
+	"wikimedia-lqt-log-action-subjectedit": "已将[[$1]]的主题从“$2”更改为“$3”",
+	"wikimedia-lqt-log-action-resort": "修改[[$1]]的排序顺序。排序键从$2更改为$3",
+	"wikimedia-lqt-log-action-signatureedit": "已将[[$1]]的签名从“$2”更改为“$3”",
 	"wikimedia-graph-tracking-category": "有图表的页面",
 	"wikimedia-graph-tracking-category-desc": "页面包含<code>&lt;graph&gt;</code>标签。",
 	"wikimedia-graph-broken-category": "有损坏图表的页面",

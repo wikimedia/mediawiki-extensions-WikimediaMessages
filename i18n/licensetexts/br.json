@@ -7,7 +7,8 @@
 			"Gwendal",
 			"Huñvreüs",
 			"Kouign-amann",
-			"Y-M D"
+			"Y-M D",
+			"Ar choler"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Reiñ a ra d'an holl, piaouer gwirioù ar restr-mañ, $1, an aotre da implijout anezhi '''evit kement mennad gant ma vo''' meneget fraezh anv piaouer ar gwirioù. Aotreet eo adskignañ ar restr, sevel oberennoù deveret pe ober un impjij kenwerzhel anezhi, ha kement implij all a c'hall bezañ.",
@@ -69,7 +70,7 @@
 	"wm-license-information-source-missing": "Mankout a ra titouroù diwar-benn '''mammenn''' ar restr-mañ.",
 	"wm-license-information-source-missing-request": "Mar plij kemmit pajenn deskrivañ ar restr ha roit ar vammenn.",
 	"wm-license-information-date": "Deiziad",
-	"wm-license-information-author": "Aozer",
+	"wm-license-information-author": "Aozer(ez)",
 	"wm-license-information-author-missing": "Mankout a ra titouroù diwar-benn '''oberour''' ar restr-mañ.",
 	"wm-license-information-permission": "Aotre",
 	"wm-license-information-permission-reusing-link": "c:Commons:Adimplijout danvez er-maez eus Wikimedia",

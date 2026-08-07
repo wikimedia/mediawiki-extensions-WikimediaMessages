@@ -9,7 +9,8 @@
 			"Huñvreüs",
 			"Kouign-amann",
 			"Pymouss",
-			"Y-M D"
+			"Y-M D",
+			"Ar choler"
 		]
 	},
 	"wm-license-cc-wiki-link": "w:br:Creative Commons",
@@ -214,7 +215,7 @@
 	"wm-license-cc-zero-text": "Ar restr-mañ a c'heller kavout dindan an aotre-implijout [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[ccorg:publicdomain/zero/1.0/deed.en|CC0 1.0 Donezon hollvedel d'an domani foran]].",
 	"wm-license-cc-zero-explanation": "Neb en deus kevredet un oberenn ouzh an teul-mañ a laka anezhi en [[{{int:wm-license-pd-wiki-link}}|domani foran]] hag a zilez pep gwir warni er bed a-bezh hervez ar gwirioù aozer ha dilezel a ra an holl wirioù lezennel stag ha kar, diouzh ma vez aotreet gant al lezenn. Gallout a rit eilañ, kemmañ ha skignañ an oberenn-mañ hep goulenn aotre ebet, ha pa vefe evit ur pal kenwerzhel.",
 	"wm-license-cc-free": "Gallout a rit :",
-	"wm-license-cc-free-to-share-header": "eskemm",
+	"wm-license-cc-free-to-share-header": "kenlodañ",
 	"wm-license-cc-free-to-share-text": "eilañ, skignañ ha treuzkas an oberenn-mañ",
 	"wm-license-cc-free-to-remix-header": "kemmañ",
 	"wm-license-cc-free-to-remix-text": "azasaat an oberenn-mañ",
@@ -222,6 +223,6 @@
 	"wm-license-cc-conditions-attribution-header": "deroadenn",
 	"wm-license-cc-conditions-attribution-text": "Rankout a rit reiñ an titouroù perc'henniezh rekis diwar-benn an aozer, pourchas ul liamm war-zu an aotre-implijout ha merkañ hag-eñ ez eus bet graet kemmoù. Gallout a rit en ober en un doare reizh met hep lakaat da grediñ ez oc'h bet aprouet gantañ pe ez eo aprouet gantañ implij an oberenn-mañ.",
 	"wm-license-cc-conditions-share_alike-header": "eskemmañ rik-ha-rik",
-	"wm-license-cc-conditions-share_alike-text": "Ma adkempennit, treuzfurmit pe savit dafar diwar an oberenn-mañ e rankit skignañ an oberenn krouet ganeoc'h dindan [[ccorg:share-your-work/licensing-considerations/compatible-licenses|an hevelep aotre-implijout pe un aotre-implijout kar-tost]] d'an hini orin.",
+	"wm-license-cc-conditions-share_alike-text": "Mard adkempennit, treuzfurmit pe savit dafar diwar an oberenn-mañ e rankit skignañ an oberenn krouet ganeoc'h dindan [[ccorg:share-your-work/licensing-considerations/compatible-licenses|an hevelep aotre-implijout pe un aotre-implijout kar-tost]] d'an hini orin.",
 	"wm-license-cc-pd-mark-text": "Rummet eo bet ar restr-mañ e-touez ar restroù hep strishadurioù implij anavezet evit ar pezh a sell ouzh ar gwirioù aozer, ha kement-se evit an holl wirioù kar ha stag."
 }
