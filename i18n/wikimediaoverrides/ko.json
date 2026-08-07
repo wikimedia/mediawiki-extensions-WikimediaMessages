@@ -107,6 +107,7 @@
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}}에 대한 권한이 있어 2단계 인증이 필요합니다.\n\n<strong>이 권한은 [https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights] 상실될 수 있으며, 수동으로 다시 요청해야 할 수도 있습니다.</strong>\n\n팁: 이 수단을 제거하기 전에 새 수단을 추가하세요.",
 	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "그런 경우, 신뢰와 안전에 {{GENDER:$1|문의}}하세요 ($2).",
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "신뢰와 안전에 문의",
+	"wikimedia-oathauth-recovery-codes-expired-error": "<strong>임시 복구 코드가 만료되었습니다</strong>\n\n이메일로 발송된 임시 복구 코드가 만료되었습니다. 계정에 다시 접근하려면 [mailto:ca@wikimedia.org ca@wikimedia.org]로 문의해 주세요.",
 	"wikimedia-notificationemail_html_footer": "만약 본인이 아니라면, [mailto:ca@wikimedia.org ca@wikimedia.org]로 즉시 문의하세요.",
 	"wikimedia-notificationemail_body_changed": "$2님, 안녕하세요.\n\n최근 {{SITENAME}}에서 이메일 주소를 변경하셨습니다. 새 이메일 주소는 $3입니다.\n\n만약 본인이 변경한 것이 아니라면, ca@wikimedia.org로 즉시 문의하세요",
 	"wikimedia-notificationemail_body_removed": "$2님, 안녕하세요.\n\n최근 {{SITENAME}}에서 이메일 주소를 제거하셨습니다.\n\n만약 본인이 제거한 것이 아니라면, ca@wikimedia.org로 즉시 문의하세요.",
