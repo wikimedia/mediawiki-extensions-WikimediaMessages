@@ -12,5 +12,7 @@
 	"wikimedia-sitematrix": "ဝီကီမီဒီယာ ဝီကီများစာရင်း",
 	"wikimedia-sitematrix-others": "အခြားဝီကီမီဒီယာ ပရောဂျက်များ",
 	"wikimedia-sitematrix-summary": "ဤအထူးစာမျက်နှာသည် ဝီကီမီဒီယာဝီကီများအားလုံးကို စာရင်းပြုစုထားပါသည်။",
-	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy ကိုယ်ရေးမူဝါဒ]"
+	"wikimedia-mwoauth-consumer-allwikis": "ဝီကီမီဒီယာ ပရောဂျက်အားလုံး",
+	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy ကိုယ်ရေးမူဝါဒ]",
+	"wikimedia-ipinfo-help-text": "ဤကိရိယာကို သင် အသုံးပြုခြင်းသည် [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines အိုင်ပီသတင်းအချက်အလက်ကိရိယာ လမ်းညွှန်ချက်များ] ဖြင့် ထိန်းချုပ်ထားသည်။ ပြသထားသော အချက်အလက်များသည် MaxMind နှင့် [https://docs.spur.us/data-types Spur] မှ လာပါသည်။ ၎င်းသည် အပြည့်အဝတိကျမှုမရှိနိုင်ပါ။"
 }
