@@ -98,6 +98,7 @@
 	"wikimedia-notificationemail_html_footer": "Jos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Hei $2!\n\nVaihdoit äskettäin sähköpostiosoitettasi {{GRAMMAR:inessive|{{SITENAME}}}}. Uusi sähköpostiosoite on $3.\n\nJos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_removed": "Hei $2!\n\nPoistit äskettäin sähköpostiosoitteesi {{GRAMMAR:inessive|{{SITENAME}}}}.\n\nJos se et ollut sinä, lähetä välittömästi sähköpostia osoitteeseen [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-userlogout-temp-moreinfo": "Huomaa, että useiden tilapäisten tunnusten käyttäminen häiriköimiseksi tai eston kiertämiseksi on tämän wikin käytäntöjen vastaista, ja se voi johtaa estoon tai muihin rajoituksiin.",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on [[m:Special:MyLanguage/Abuse filter helpers|vaatimus]] väärinkäyttösuodattimen avustajille",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on [[m:Special:MyLanguage/Abuse filter maintainers|vaatimus]] väärinkäyttösuodattaminen ylläpitäjät",
 	"wikimedia-userrights-restricted-group-arbcom": "Käyttäjällä ei ole käytössä kaksivaiheista tunnistautumista, mikä on vaatimus välityslautakunnan jäsenille",

@@ -97,6 +97,7 @@
 	"wikimedia-notificationemail_html_footer": "Jika ini bukan anda, laporkan ke [mailto:ca@wikimedia.org ca@wikimedia.org] dengan segera.",
 	"wikimedia-notificationemail_body_changed": "Salam sejahtera $2,\n\nAnda baru-baru ini menukar e-mel anda di {{SITENAME}}. E-mel baharu ialah $3.\n\nJika ini bukan anda, laporkan ke ca@wikimedia.org dengan segera.",
 	"wikimedia-notificationemail_body_removed": "Salam sejahtera $2,\n\nAnda baru-baru ini telah membuang e-mel anda di {{SITENAME}}.\n\nJika tindakan ini bukan anda lakukan, laporkan ke ca@wikimedia.org dengan segera.",
+	"wikimedia-userlogout-temp-moreinfo": "Sila ambil perhatian bahawa penggunaan berbilang akaun sementara untuk tujuan mengganggu, melangkau sekatan, atau mengelak pengesanan adalah melanggar dasar di wiki ini dan boleh membawa kepada sekatan atau pengehadan lain.",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "Pengguna ini tidak mendayakan pengesahihan dwifaktor yang [[m:Special:MyLanguage/Abuse filter helpers|diperlukan]] untuk pembantu penapis salah guna",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "Pengguna ini tidak mendayakan pengesahihan dwifaktor, yang [[m:Special:MyLanguage/Abuse filter maintainers|diperlukan]] untuk penyelenggara penapis salah guna",
 	"wikimedia-userrights-restricted-group-arbcom": "Pengguna ini tidak mendayakan pengesahihan dwifaktor yang diperlukan untuk ahli Jawatankuasa Timbang Tara",

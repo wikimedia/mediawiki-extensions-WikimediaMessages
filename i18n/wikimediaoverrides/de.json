@@ -107,6 +107,7 @@
 	"wikimedia-notificationemail_html_footer": "Falls du das nicht warst, schreibe bitte umgehend an [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Hallo $2,\n\ndu hast kürzlich deine E-Mail-Adresse auf {{SITENAME}} geändert. Die neue E-Mail-Adresse lautet $3.\n\nFalls du dies nicht warst, schreibe bitte umgehend an ca@wikimedia.org.",
 	"wikimedia-notificationemail_body_removed": "Hallo $2,\n\ndu hast kürzlich deine E-Mail-Adresse auf {{SITENAME}} entfernt.\n\nFalls du dies nicht warst, schreibe bitte umgehend an ca@wikimedia.org.",
+	"wikimedia-userlogout-temp-moreinfo": "Bitte beachte, dass die Verwendung mehrerer temporärer Konten für Störungen, Umgehung von Sperren oder das Vermeiden der Erkennung gegen die Richtlinien dieses Wiki verstößt und zu Sperren oder anderen Einschränkungen führen könnte.",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Missbrauchsfilter-Helfer [[m:Special:MyLanguage/Abuse filter helpers|erforderlich]] ist.",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Missbrauchsfilter-Helfer [[m:Special:MyLanguage/Abuse filter maintainers|erforderlich]] ist.",
 	"wikimedia-userrights-restricted-group-arbcom": "Der Benutzer hat die Zwei-Faktor-Authentifizierung nicht aktiviert, die für Mitglieder des Schiedsgerichts erforderlich ist.",

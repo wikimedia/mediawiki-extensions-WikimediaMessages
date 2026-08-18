@@ -96,6 +96,7 @@
 	"wikimedia-notificationemail_html_footer": "Haddii aysan tani adiga ahayn, isla markiiba u qor [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Salaan $2,\n\nWaxaad dhowaan ka beddeshay cinwaanka iimaylkaaga {{SITENAME}}. Cinwaanka iimaylka cusub waa $3.\n\nHaddii aysan tani adiga ahayn, isla markiiba u qor ca@wikimedia.org.",
 	"wikimedia-notificationemail_body_removed": "Salaan $2,\n\nWaxaad dhowaan ka saartay cinwaanka iimaylkaaga {{SITENAME}}.\n\nHaddii aysan tani adiga ahayn, isla markiiba u qor ca@wikimedia.org.",
+	"wikimedia-userlogout-temp-moreinfo": "Fadlan ogow in isticmaalka akoonno ku meelgaar ah oo badan si loo carqaladeeyo, looga baxsado xannibaad, ama looga fogaado ogaanshaha uu jebinayo siyaasadaha wiki-gan, waxaana laga yaabaa inuu keeno xannibaadyo ama xaddidaado kale.",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "Isticmaaluhu ma haysto xaqiijin laba tallaabo oo la hawlgeliyay, taas oo [[m:Special:MyLanguage/Abuse filter helpers|loo baahan yahay]] kaaliyeyaasha shaandhaynta xadgudubka",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "Isticmaaluhu ma haysto xaqiijin laba tallaabo oo la hawlgeliyay, taas oo [[m:Special:MyLanguage/Abuse filter maintainers|loo baahan yahay]] ilaaliyeyaasha shaandhaynta xadgudubka",
 	"wikimedia-userrights-restricted-group-arbcom": "Isticmaaluhu ma shidin xaqiijinta laba tallaabo, taas oo looga baahan yahay xubnaha Guddiga Dhexdhexaadinta",
