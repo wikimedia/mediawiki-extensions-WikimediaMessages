@@ -20,9 +20,6 @@
 	"wikimedia-feedback-termsofuse": "ฉันตกลงที่จะให้ข้อเสนอแนะตาม[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ข้อกำหนดการใช้งาน]",
 	"wikimedia-flow-terms-of-use-new-topic": "เมื่อคลิก \"{{int:flow-newtopic-save}}\" ถือว่าคุณยอมรับ[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ข้อกำหนดการใช้งาน] และคุณตกลงที่จะเผยแพร่ข้อความของคุณ{{PLURAL:$2|ภายใต้}} $1 อย่างไม่อาจเพิกถอนได้",
 	"wikimedia-flow-terms-of-use-summarize": "เมื่อคลิก \"{{int:flow-topic-action-update-topic-summary}}\" ถือว่าคุณยอมรับ[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ข้อกำหนดการใช้งาน] และคุณตกลงที่จะเผยแพร่ข้อความของคุณ{{PLURAL:$2|ภายใต้}} $1 อย่างไม่อาจเพิกถอนได้",
-	"wikimedia-globalblocking-blockedtext-ip": "'''{{int:wikimedia-globalblocking-blockedtext-all-wikis}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\nที่อยู่ไอพีปัจจุบันของคุณคือ $3\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-blockedtext-range": "'''{{int:wikimedia-globalblocking-blockedtext-on-range}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\nที่อยู่ไอพีปัจจุบันของคุณคือ $3\n{{int:wikimedia-globalblocking-blockedtext-ip-range|$7}}\n\n{{int:blockedtext-include-details-queries}}\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
-	"wikimedia-globalblocking-blockedtext-xff": "'''{{int:wikimedia-globalblocking-blockedtext-on-proxy}}'''\n\nถูกบล็อกโดย $1\nเหตุผลที่ระบุคือ ''$2''\n\n* เวลาเริ่มต้นของการบล็อก: $8\n* เวลาสิ้นสุดของการบล็อก: $6\n\n{{int:wikimedia-globalblocking-blockedtext-proxy|$7}}\n{{int:blockedtext-include-details-queries}}\n\n{{int:wikimedia-globalblocking-blockedtext-mistake}}",
 	"wikimedia-globalrenamequeue-email-body-approved": "คำขอเปลี่ยนชื่อผู้ใช้จาก \"{{GENDER:$1|$1}}\" เป็น \"{{GENDER:$1|$2}}\" ได้รับการอนุมัติแล้ว เมื่อดำเนินการเสร็จสิ้น คุณจะสามารถเข้าสู่ระบบโดยใช้ชื่อผู้ใช้ใหม่ด้วยรหัสผ่านเดิมได้ ขอขอบคุณที่ร่วมเป็นส่วนหนึ่งในโครงการวิกิมีเดีย",
 	"wikimedia-sitematrix": "รายชื่อวิกิมีเดีย",
 	"wikimedia-sitematrix-others": "โครงการอื่น ๆ ของวิกิมีเดีย",
@@ -36,7 +33,5 @@
 	"wikimedia-globalblocking-blockedtext-on-range": "ที่อยู่ไอพีของคุณอยู่ในช่วงไอพีที่[[m:Special:MyLanguage/Global blocks|ถูกบล็อกในทุกวิกิของมูลนิธิวิกิมีเดีย]]",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "พร็อกซีเซิร์ฟเวอร์อย่างน้อยหนึ่งเซิร์ฟเวอร์ที่ใช้โดยคำขอของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกข้ามโครงการ]]",
 	"wikimedia-globalblocking-blockedtext-on-user": "บัญชีของคุณถูก[[m:Special:MyLanguage/Global blocks|บล็อกในทุกวิกิ]]",
-	"wikimedia-globalblocking-blockedtext-ip-range": "ช่วงที่ถูกบล็อกคือ $1",
-	"wikimedia-globalblocking-blockedtext-proxy": "ที่อยู่พร็อกซีที่ถูกบล็อกคือ $1",
 	"wikimedia-globalblocking-blockedtext-mistake": "หากคุณเชื่อว่าคุณถูกบล็อกโดยไม่ถูกต้อง คุณสามารถดูสารสนเทศเพิ่มเติมและคำแนะนำได้ที่[[m:Stewards/Wizard|ตัวช่วยจัดการการบล็อกของผู้จัดการโครงการ]]"
 }
