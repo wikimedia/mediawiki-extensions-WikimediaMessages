@@ -9,7 +9,8 @@
 			"Shizhao",
 			"Xiaomingyan",
 			"Yfdyh000",
-			"沈澄心"
+			"沈澄心",
+			"Ouclie"
 		]
 	},
 	"contactpage-title-requestlicense": "授权申请表单",
@@ -30,10 +31,10 @@
 	"contactpage-affcom-user-group-name-label": "'''名称'''\n* 建议的名称：维基媒体社群用户组 [您的地区或话题]\n* 如果您希望选择其他名称，请参见[[Special:MyLanguage/Wikimedia user groups/Name guidelines|名称指引]]。",
 	"contactpage-affcom-user-group-description-label": "'''描述'''\n* 请告诉我们有关您的群组计划做什么。",
 	"contactpage-affcom-user-group-wikipage-label": "'''Wiki页面'''\n* 请提供至您的群组在元维基页面的链接。若您尚未有页面，可以查看该[[Special:MyLanguage/Wikimedia user groups/Wikipage setup guide|设置指引]]。您的元维基页面应当包含：\n**您的群组基本信息；及\n**您的群组第一年计划活动的要点。",
-	"contactpage-affcom-user-group-location-label": "'''位置'''\n* 请提供您的国家和城市，这样我们可以保持对全世界用户组的追踪。如果涵盖全球，可简写为“网络”。",
-	"contactpage-affcom-user-group-leaders-label": "'''三位活跃的维基人'''\n* 请提供三位群组领导人的姓名，电子邮件地址和维基媒体用户名。",
-	"contactpage-affcom-user-group-logo-label": "'''标志'''\n* 您希望为您的群组使用哪个标志？",
-	"contactpage-affcom-user-group-rules-label": "'''用户组规则'''\n* 当您有至少3位拥有注册满6个月的账户，且在任意一个维基媒体项目上拥有300次或更多贡献的成员，并同意[[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|用户组协议和行为准则]]时，您有资格组织用户组：\n** 您应该遵守[[foundation:Special:MyLanguage/Policy:Trademark policy|商标方针]]\n** 您独立于其他维基媒体组织\n* 在提交此申请后，[[Special:MyLanguage/Affiliations Committee|附属机构委员会]]的一位成员将很快联络您以帮助您完成后续步骤\n* 在[[Special:MyLanguage/Wikimedia user groups|维基媒体用户组]]了解更多",
+	"contactpage-affcom-user-group-location-label": "'''地点'''\n* 请提供您团队计划驻扎的城市和国家。如果您的团队计划是国际团队，您可以填写“国际”。",
+	"contactpage-affcom-user-group-leaders-label": "'''三位活跃的维基媒体用户'''\n* 请提供'''3位成员'''的姓名、电子邮件地址和维基媒体用户名，这些成员在注册帐户上对维基媒体项目贡献了'''300次或更多'''，且该帐户已存在'''6个月'''以上。",
+	"contactpage-affcom-user-group-logo-label": "'''徽标'''\n* 请提供您用户组徽标的维基媒体共享资源文件链接。",
+	"contactpage-affcom-user-group-rules-label": "'''用户组规则'''\n* 如果您符合以下条件，则有资格组建用户组：\n** 您至少有'''3名成员'''，且在已注册超过'''6个月'''的账户上，对维基媒体项目贡献了'''300次或更多'''；\n** 您同意遵守[[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|'''用户组协议和行为准则''']]；\n** 您同意遵守 [[foundation:Special:MyLanguage/Policy:Trademark_policy|'''商标政策''']]；并且\n** 您独立于其他维基媒体组织。",
 	"contactpage-affcom-user-group-terms-label": "我已阅读并同意上述规则和[[Special:MyLanguage/Wikimedia user groups/Agreement and code of conduct|用户组协议和行为准则]]。",
 	"contactpage-affcom-user-group-logo-wm-logo": "''如果您希望使用'''维基媒体标志'''，您需要[[Special:Contact/requestlicense|申请商标许可]]。''",
 	"contactpage-affcom-user-group-logo-community": "维基媒体社群标志",
