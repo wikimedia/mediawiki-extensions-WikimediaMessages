@@ -100,6 +100,7 @@
 	"wikimedia-notificationemail_html_footer": "Als dit niet op u van toepassing was, schrijf dan onmiddellijk naar [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Hallo $2 ,\n\nU hebt onlangs uw e-mailadres op {{SITENAME}} gewijzigd. Het nieuwe e-mailadres is $3 .\n\nAls u dit niet was, neem dan onmiddellijk contact op met ca@wikimedia.org.",
 	"wikimedia-notificationemail_body_removed": "Hallo $2 ,\n\nU hebt onlangs uw e-mailadres verwijderd op {{SITENAME}}.\n\nAls u dit niet was, neem dan onmiddellijk contact op met ca@wikimedia.org.",
+	"wikimedia-userlogout-temp-moreinfo": "Houd er rekening mee dat het gebruik van meerdere tijdelijke accounts om te verstoren, om blokkades te omzeilen of om niet ontdekt te worden in strijd is met het beleid van deze wiki en kan leiden tot blokkades of andere beperkingen.",
 	"wikimedia-userrights-restricted-group-abusefilter-helper": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/Abuse filter helpers|vereist]] is voor hulpmethoden voor het misbruikfilter",
 	"wikimedia-userrights-restricted-group-abusefilter-maintainer": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat [[m:Special:MyLanguage/Abuse filter maintainers|vereist]] is voor beheerders van misbruikfilters",
 	"wikimedia-userrights-restricted-group-arbcom": "De gebruiker heeft geen tweetrapsauthenticatie ingeschakeld, wat vereist is voor leden van de arbitragecommissie.",
