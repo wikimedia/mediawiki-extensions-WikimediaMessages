@@ -5,12 +5,16 @@
 			"Iketsi",
 			"Luky001",
 			"Sudo77(new)",
-			"Teslaton"
+			"Teslaton",
+			"Wizzard"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Dozorcovia",
 	"group-oversight": "Dozorcovia",
 	"group-oversight-member": "{{GENDER:$1|dozorca|dozorkyňa}}",
 	"hello": "Dobrý deň",
-	"please-translate": "Pomôžte prosím s prekladom do svojho jazyka"
+	"please-translate": "Pomôžte prosím s prekladom do svojho jazyka",
+	"please-translate-short": "Pomôžte s prekladom",
+	"thank-you": "{{GENDER:$1|Ďakujeme.}}",
+	"specialinvestigate-feedback": "Zanechať spätnú väzbu"
 }

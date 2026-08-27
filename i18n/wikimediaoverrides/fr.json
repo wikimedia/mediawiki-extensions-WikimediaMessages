@@ -29,7 +29,8 @@
 			"ꠢꠣꠍꠘ ꠞꠣꠎꠣ",
 			"Muisha wiki hke",
 			"Raveloaritiana Mamisoa",
-			"Jérémy-Günther-Heinz Jähnick"
+			"Jérémy-Günther-Heinz Jähnick",
+			"Orlodrim"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Les visiteurs de ce wiki utilisant votre adresse IP ont créé $1 compte{{PLURAL:$1||s}} lors de cette dernière période de $2, ce qui est le maximum autorisé pour cette période de temps. Par conséquent, les visiteurs utilisant cette adresse IP ne peuvent plus pour l’instant créer de compte.\n\nSi vous participez à un événement qui a pour but de contribuer aux projets de Wikimedia, veuillez voir [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Demander la levée temporaire de la limitation IP]] pour aider à résoudre ce problème.",
@@ -81,7 +82,7 @@
 	"wikimedia-webauthn-ui-login-prompt": "Veuillez toucher votre dispositif de vérification ou suivre les instructions du navigateur",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Politique de confidentialité]",
 	"wikimedia-notification-body-oathauth-disable-other": "Si {{GENDER:$2|}}vous n’avez pas demandé ceci, {{GENDER:$2|}}vous devriez contacter l’équipe « Confiance et sécurité » de la WMF (« ''WMF Trust & Safety'' »).",
-	"wikimedia-ipinfo-help-text": "Votre utilisation de cet outil est régie par la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Politique relative à l'outil Wikimédia d'information sur l'adresse IP]. Les informations affichées proviennent de MaxMind et [https://docs.spur.us/data-types Spur] (en anglais). Elles peuvent ne pas être entièrement appropriées.",
+	"wikimedia-ipinfo-help-text": "Votre utilisation de cet outil est régie par la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines Politique relative à l'outil Wikimédia d'information sur l'adresse IP]. Les informations affichées proviennent de MaxMind et [https://docs.spur.us/data-types Spur] (en anglais). Leur exactitude n'est pas garantie.",
 	"wikimedia-ipinfo-infobox-use-terms": "L’outil d’informations sur une adresse IP utilise les bases de données de MaxMind pour afficher des détails comme la localisation approximative, la présence d’un serveur mandataire et combien d’appareils partagent cette adresse IP. Veuillez passer en revue les [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines lignes directrices de l’outil d’informations sur une adresse IP] avant de l’activer.",
 	"wikimedia-ipinfo-preference-use-agreement": "J’accepte d’utiliser cet outil en accord avec la [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines politique relative à l’outil d’information sur les adresses IP], uniquement pour l’investigation et la prévention du vandalisme, des abus et des autres violations des politiques de la Fondation Wikimédia et de la communauté",
 	"wikimedia-similareditors-error-default": "Quelque chose s’est mal passé, nous examinons la situation. Si le problème persiste, veuillez [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors nous contacter ici].",
