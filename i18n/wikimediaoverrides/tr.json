@@ -14,7 +14,8 @@
 			"SwornToTranslate29",
 			"ToprakM",
 			"Uncitoyen",
-			"Victor Trevor"
+			"Victor Trevor",
+			"Sadrettin"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "IP adresinizi kullanarak bu vikiyi ziyaret edenler, son $2 içinde {{PLURAL:$1|1 hesap|$1 hesap}} oluşturdu. Bu, bu zaman diliminde izin verilen en fazla sayıdır.\nSonuç olarak, bu IP adresini kullanan ziyaretçiler şu anda daha fazla hesap oluşturamaz.\n\nWikimedia projelerine katkıda bulunmanın odak noktası olduğu bir etkinlikteyseniz, lütfen bu sorunu çözmeye yardımcı olması için [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|IP üst sınırının geçici olarak kaldırılmasının istenmesi]] konusuna bakın.",
@@ -89,10 +90,13 @@
 	"wikimedia-oathauth-step1-test": "İki-etkenli kimlik doğrulama için bir uygulama indirin. Önerilen istemciler için [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Yardım:İki-etkenli kimlik doğrulama] sayfasına bakın.",
 	"wikimedia-oathauth-recovery-code-hint": "Aygıtınıza ya da uygulamanıza erişiminiz yok mu? Bu alana kurtarma simgelerini (2FA'yı etkinleştirdiğinizde sunulur) girebilirsiniz. Bunu yapamıyorsanız, daha fazla seçenek için [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Yardım:İki-etkenli kimlik doğrulama] konusuna bakın.",
 	"wikimedia-pt-movepage-page-count-limit": "'''Bu çevrilebilir sayfa $1 ve daha fazla {{PLURAL:$1|sayfadan}} oluşuyor.''' Güvenilirlik sorunları nedeniyle, $1 ve daha fazla {{PLURAL:$1|sayfadan}} oluşan çevrilebilir sayfalar kullanıcı arayüzü üzerinden taşınamaz. Lütfen '''[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ bir Phabricator görevi oluşturun]''' ve [[:m:system administrators|sistem yöneticileri]]nden sizin adınıza sayfa taşımasını istemek için formdaki alanları doldurun.",
+	"wikimedia-rest-module-site.v1-desc": "Vikimedya proje sitelerine dair bilgi sağlar; site haritaları da buna dâhildir. Kötüye kullanım amaçlı veri kazımayı önlemek ve altyapının adil kullanımını sağlamak için bu API'deki uç noktalara erişim belirli kullanıcı gruplarıyla sınırlandırılmıştır. Bu API'ye kimlerin erişebileceği hakkında daha fazla bilgi için CDN/Backend_api/Sitemap_access sayfasına bakın veya [mailto:bot-traffic@wikimedia.org bot-traffic@wikimedia.org] adresiyle iletişime geçin.",
 	"wikimedia-skin-minerva-donate-banner-message": "Şimdi Bağış Yapın",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "Eğer Vikipedi sizin için yararlıysa lütfen bugün bağış yapın.",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Eğer bu site sizin için yararlı olduysa lütfen bugün bağış yapın.",
 	"wikimedia-emailauth-accountrecovery-intro": "Wikimedia hesabınızı kurtarın",
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia hesabınıza kayıtlı e-posta adresi",
-	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} üzerinde iki faktörlü kimlik doğrulaması gerektiren ayrıcalıklarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu ayrıcalıkları] kaybedebilirsiniz ve bunları elle yeniden istemeniz gerekebilir.</strong> \n\nİpucu: Bunu kaldırmadan önce yeni bir yöntem ekleyin."
+	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} üzerinde iki faktörlü kimlik doğrulaması gerektiren ayrıcalıklarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu ayrıcalıkları] kaybedebilirsiniz ve bunları elle yeniden istemeniz gerekebilir.</strong> \n\nİpucu: Bunu kaldırmadan önce yeni bir yöntem ekleyin.",
+	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Böyle bir durumda lütfen {{GENDER:$1|Trust & Safety}} ($2) ile iletişime geçin.",
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Trust & Safety ile iletişim"
 }
