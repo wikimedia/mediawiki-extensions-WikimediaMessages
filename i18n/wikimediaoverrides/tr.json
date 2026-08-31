@@ -97,5 +97,6 @@
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "Wikimedia hesabınıza kayıtlı e-posta adresi",
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "{{SITENAME}} üzerinde iki faktörlü kimlik doğrulaması gerektiren ayrıcalıklarınız var.\n\n<strong>[https://meta.wikimedia.org/wiki/Mandatory_two-factor_authentication_for_users_with_some_extended_rights Bu ayrıcalıkları] kaybedebilirsiniz ve bunları elle yeniden istemeniz gerekebilir.</strong> \n\nİpucu: Bunu kaldırmadan önce yeni bir yöntem ekleyin.",
 	"wikimedia-oathauth-recover-email-text-please-contact-with-address": "Böyle bir durumda lütfen {{GENDER:$1|Trust & Safety}} ($2) ile iletişime geçin.",
-	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Trust & Safety ile iletişim"
+	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "Trust & Safety ile iletişim",
+	"wikimedia-userlogout-temp-moreinfo": "Lütfen karışıklık çıkarmak, engellemelerden kaçınmak veya tespit edilmekten kaçınmak amacıyla birden fazla geçici hesap kullanmanın bu vikinin politikalarını ihlal ettiğini ve engellemelere veya diğer kısıtlamalara yol açabileceğini unutmayın."
 }
