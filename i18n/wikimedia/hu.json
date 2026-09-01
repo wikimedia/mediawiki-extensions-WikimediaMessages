@@ -22,7 +22,8 @@
 			"Varnent",
 			"Matma Rex",
 			"Jsn.sherman",
-			"Boro"
+			"Boro",
+			"Bencemac"
 		]
 	},
 	"wikimediamessages-desc": "Wikimédia-specifikus üzenetek",
@@ -37,9 +38,9 @@
 	"group-image-reviewer": "képellenőrzők",
 	"group-image-reviewer-member": "képellenőrző",
 	"grouppage-image-reviewer": "{{ns:project}}:Képellenőrzők",
-	"group-otrs-member": "OTRS-tagok",
-	"group-otrs-member-member": "{{GENDER:$1|OTRS-tag}}",
-	"grouppage-otrs-member": "{{ns:project}}:OTRS-tagok",
+	"group-otrs-member": "VRT-tagok",
+	"group-otrs-member-member": "{{GENDER:$1|VRT-tag}}",
+	"grouppage-otrs-member": "{{ns:project}}:VRT-tagok",
 	"group-abusefilter": "vandálszűrő-szerkesztők",
 	"group-abusefilter-member": "vandálszűrő-szerkesztő",
 	"grouppage-abusefilter": "{{ns:project}}:Vandálszűrő-szerkesztők",
@@ -186,6 +187,7 @@
 	"wikibase-otherprojects-wikiversity": "Wikiegyetem",
 	"wikibase-otherprojects-wikivoyage": "Wikivoyage",
 	"wikibase-otherprojects-wiktionary": "Wikiszótár",
+	"wikibase-otherprojects-wikimania": "Wikimánia",
 	"wikibase-sitelinks-sitename-commonswiki": "Commons",
 	"wikibase-sitelinks-sitename-mediawikiwiki": "MediaWiki",
 	"wikibase-sitelinks-sitename-metawiki": "Meta-Wiki",
@@ -232,6 +234,7 @@
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Igen",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Nem, köszönöm",
 	"readinglists-import-app": "Az olvasólista importálásához telepítsd a Wikipédia mobilalkalmazás legfrissebb verzióját:",
+	"ipinfo-global-contributions-url-label": "Globális közreműködések",
 	"wikimedia-foundation-projects-of-label-nolink": "A Wikimédia Alapítvány projektjei",
 	"wikimedia-projects-label": "Wikimédia-projektek",
 	"wikimedia-movement-affiliates-shortlabel": "A mozgalom társult tagjai",
