@@ -57,6 +57,7 @@
 	"wikimedia-notification-body-oathauth-disable-other": "Pokud jste o to {{GENDER:$2|nežádal|nežádala|nežádali}}, {{GENDER:$2|měl|měla|měli}} byste kontaktovat WMF Trust & Safety.",
 	"wikimedia-ipinfo-infobox-use-terms": "Nástroj Informace o IP používá databázi MaxMind, aby zobrazil podrobnosti, jako jsou přibližná poloha, proxy a počet zařízení sdílejících tuto IP adresu. Před jeho zapnutím si prosím pročtěte [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pokyny k nástroji Informace o IP].",
 	"wikimedia-ipinfo-preference-use-agreement": "Prohlašuji, že budu tento nástroj používat v souladu s [https://foundation.wikimedia.org/wiki/IP_Information_tool_guidelines pokyny k nástroji Informace o IP], výhradně pro vyšetřování nebo prevenci vandalismu, zneužívání a dalších porušení pravidel nadace Wikimedia nebo komunity.",
+	"wikimedia-centralauth-admin-log-otherwiki": "Tento účet je uzamčen. Více informací najdete v [[meta:Special:CentralAuth/$1|podrobnostech globálního účtu na Meta-Wiki]].",
 	"wikimedia-globalblocking-blockedtext-all-wikis": "Vaše IP adresa byla [[m:Special:MyLanguage/Global blocks|zablokována na všech wiki]].",
 	"wikimedia-globalblocking-blockedtext-on-range": "Vaše IP adresa je v rozsahu, který byl [[m:Special:MyLanguage/Global blocks|zablokován na všech wiki nadace Wikimedia]].",
 	"wikimedia-globalblocking-blockedtext-on-proxy": "Jeden nebo více proxy serverů, které váš požadavek používá, bylo [[m:Special:MyLanguage/Global blocks|globálně zablokováno]].",

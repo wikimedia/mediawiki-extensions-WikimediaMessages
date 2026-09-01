@@ -17,5 +17,7 @@
 	"wm-license-cc-free-to-remix-text": "埏是作",
 	"wm-license-cc-conditions": "下條須遵：",
 	"wm-license-cc-conditions-attribution-header": "享",
-	"wm-license-cc-conditions-share_alike-header": "共享"
+	"wm-license-cc-conditions-attribution-text": "君須書製者，留權約之渡，並闡有無易之。任法可以書製者，然叵言權者允君或君之使。",
+	"wm-license-cc-conditions-share_alike-header": "共享",
+	"wm-license-cc-conditions-share_alike-text": "若君復合、轉換或二創，君須佈所作以[[ccorg:share-your-work/licensing-considerations/compatible-licenses|同權約或相容權約]]。"
 }

@@ -2,10 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Msz2001",
+			"PanWor",
 			"The Polish",
 			"Woytecr"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|zintegrował|zintegrowała|zintegrował(a)}} konto „$4” ($5) z {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|usunął|usunęła|usunął(-ęła)}} konto „$4” ($5)",
 	"wikimedia-usermerge-logpage": "Rejestr integracji użytkowników",
 	"wikimedia-lqt-log-name": "Rejestr wątków dyskusji",
 	"wikimedia-lqt-log-action-move": "przeniósł [[$1]] z [[$2]] do [[$3]] ($4).",
