@@ -39,6 +39,9 @@
 	"contactpage-affcom-user-group-logo-wm-logo": "''如果您希望使用'''维基媒体标志'''，您需要[[Special:Contact/requestlicense|申请商标许可]]。''",
 	"contactpage-affcom-user-group-logo-community": "维基媒体社群标志",
 	"contactpage-affcom-user-group-logo-affiliate": "维基媒体附属机构标志",
+	"contactpage-affcom-user-group-intent-letter-label": "'''意向书'''\n*作为团体，你们必须独立于其他维基媒体组织。请向所有受影响/重叠的维基媒体项目和运动附属机构提供你们团体的公开意向书链接。如果你们还没有意向书，可以使用以下示例文本：[[Special:MyLanguage/Wikimedia Foundation Affiliates Strategy/Implementation/User Group recognition process/Letter of intent example|建议文本]]。",
+	"contactpage-affcom-user-group-application-note": "'''您提交此申请后，[[Special:MyLanguage/Affiliations Committee|Affiliations Committee]]将对其进行审核，并向您提供所需采取的行动建议。'''",
+	"contactpage-affcom-user-group-fromname": "'''基本信息'''\n* 您的姓名",
 	"contactpage-title-affcomchapthorg": "申请分会/专题组织地位",
 	"contactpage-affcom-chapter-thorg-application-type-label": "在下方选择您团体的申请类型",
 	"contactpage-affcom-chapter-thorg-application-chapter-status": "申请分会地位",
@@ -92,5 +95,14 @@
 	"contactpage-emailsent-accountvanishapps": "请求已发送",
 	"contactpage-emailsenttext-accountvanishapps": "您的账号隐退请求已发送以供评估。如果您对请求有任何疑问，可以随时联系 {{NonSpamEmail|privacy|wikimedia.org}}。",
 	"contactpage-accountvanishapps-details": "有关请求的其他详细信息",
-	"contactpage-blocked-message-accountvanishapps": "抱歉，您的账户或IP地址目前似乎已被阻止发送消息。被阻止时您无法使用账户隐退表单。要继续账户隐退，请发送电子邮件至{{NonSpamEmail|privacy|wikimedia.org}}。"
+	"contactpage-blocked-message-accountvanishapps": "抱歉，您的账户或IP地址目前似乎已被阻止发送消息。被阻止时您无法使用账户隐退表单。要继续账户隐退，请发送电子邮件至{{NonSpamEmail|privacy|wikimedia.org}}。",
+	"contactpage-title-u4c": "请联系通用行为准则协调委员会",
+	"contactpage-u4c-case-explanation": "请解释一下发生了什么：",
+	"contactpage-u4c-relevant-links": "提供维基操作或页面的URL：",
+	"contactpage-u4c-violation-type": "请用几句话解释一下违反了维基百科的哪项政策：",
+	"contactpage-u4c-involved-users": "您投诉的是哪些用户？请提供他们的维基用户名：",
+	"contactpage-u4c-affected-accounts": "哪些账户受到此投诉的影响？如果只有您本人受到影响，则可以跳过此字段。",
+	"contactpage-u4c-proposed-solution": "您提出的解决方案是什么？您对委员会有什么期望？",
+	"contactpage-u4c-additional-information": "请补充您认为有助于理解本案的任何其他信息。",
+	"contactpage-u4c-disclaimer-label": "免责声明：您在此表格中填写的所有信息均由志愿者社群成员（特别是[[Special:MyLanguage/U4C|通用行为准则协调委员会]]的成员）提交、处理和回复，而非维基媒体基金会。请勿填写您不愿与维基媒体志愿者分享的任何信息。与处理您提交的信息相关的回复和其他通信均不构成维基媒体基金会的官方声明。如需官方通信，请通过 https://wikimediafoundation.org/about/contact/ 上列出的方式联系维基媒体基金会。"
 }
