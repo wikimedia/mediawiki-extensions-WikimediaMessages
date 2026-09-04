@@ -104,7 +104,7 @@
 	"wikimedia-campaignevents-edit-form-questions-pii-notice": "要查看包含个人信息的参与者的汇总回复，您将被要求谨慎处理在活动注册期间收集的参与者信息，包括参与者的个人身份信息，并遵守维基媒体基金会的[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 使用条款]。",
 	"wikimedia-oathauth-step1-test": "请下载一个双重认证应用程序。请参阅[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:双重认证]以了解推荐的客户端。",
 	"wikimedia-oathauth-recovery-code-hint": "无法访问您的设备或者应用程序？您可以在此字段中输入恢复代码（启用双重验证时提供）。如果无法完成，请查看[https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication#Recovering_from_a_lost_or_broken_authentication_device Help:双因素身份验证]以了解更多选项。",
-	"wikimedia-pt-movepage-page-count-limit": "'''此可翻译页面包含超过$1个{{PLURAL:$1|页面}}。'''由于可靠性问题，无法通过用户界面移动包含超过$1个{{PLURAL:$1|页面}}的可翻译页面。请[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ 提交Phabricator任务]，并填写表单中的字段，请求[[:m:System administrators/zh|系统管理员]]代表您执行页面移动操作。",
+	"wikimedia-pt-movepage-page-count-limit": "此可翻译页面包含超过$1{{PLURAL:$1|个页面}}。由于可靠性问题，无法通过用户界面移动包含超过$1{{PLURAL:$1|个页面}} 的可翻译页面。请[https://phabricator.wikimedia.org/maniphest/task/edit/form/115/ 提交Phabricator任务]，并填写表单中的字段，请求[[:m:system administrators|系统管理员]]代表您执行页面移动操作。",
 	"wikimedia-rest-module-site.v1-desc": "提供维基媒体项目站点信息，包括站点地图。为防止滥用抓取并确保基础设施的合理使用，此API的端点访问权限仅限于特定用户组。有关谁可以访问此API的更多信息，请参阅 [CDN/Backend_api/Sitemap_access]（https://wikitech.wikimedia.org/wiki/CDN/Backend_api/Sitemap_access）或联系[mailto:bot-traffic@wikimedia.org bot-traffic@wikimedia.org]。",
 	"wikimedia-skin-minerva-donate-banner-message": "立即捐款",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "如果维基百科对您有所助益，不妨现在就考虑捐款。",
