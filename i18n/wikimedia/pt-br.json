@@ -457,7 +457,6 @@
 	"tooltip-gadget-purgetab-text": "Limpar o cache do servidor dessa página",
 	"gadget-purgetab-error": "A purga falhou",
 	"gadget-souspages-subpages": "Subpáginas",
-	"ext-quicksurveys-similareditors-survey-privacy-policy": "Para obter mais informações, consulte a [https://foundation.wikimedia.org/wiki/Legal:SimilarEditors_QuickSurvey_Privacy_Statement declaração de privacidade] da pesquisa.",
 	"readinglists-import-app": "Para importar esta lista de leitura, instale a versão mais recente do aplicativo Wikipédia:",
 	"readinglists-import-app-with-link": "[$1 Faça o download] e instale a versão mais recente do aplicativo da Wikipédia:",
 	"readinglists-list-empty-message": "Você pode importar esta lista instalando o aplicativo Wikipédia.",

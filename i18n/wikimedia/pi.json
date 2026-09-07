@@ -2,8 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Riley",
-			"~riley"
+			"~riley",
+			"咽頭べさ"
 		]
 	},
-	"sitesupport": "ददाति"
+	"sitesupport": "ददाति",
+	"wikimedia-copyrightwarning": "संसोधनं रक्खन्तो त्वं [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms of Use] पयोगनियमे सम्पटिच्छसि। अञाथा न होतु सब्बदा तव दानं [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 लाइसेंस] च [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL] च मुञ्चितुं सम्पटिच्छसि॥\nकॉमन्स लाइसेंस अनुञातपत्ते हि लिङ्कं वा URL वा अलं अस्सादनाय ति सम्पटिच्छसि॥",
+	"wikimedia-developers": "वुद्धिकारका",
+	"wikimedia-statslink": "सङ्ख्याननयो",
+	"wikimedia-cookiestatement": "उपसञ्चितनीति"
 }
