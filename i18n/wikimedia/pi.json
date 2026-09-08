@@ -2,8 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Riley",
-			"~riley"
+			"~riley",
+			"咽頭べさ"
 		]
 	},
-	"sitesupport": "ददाति"
+	"sitesupport": "ददाति",
+	"wikimedia-developers": "वुद्धिकारका",
+	"wikimedia-statslink": "सङ्ख्याननयो",
+	"wikimedia-cookiestatement": "उपसञ्चितनीति"
 }

@@ -3,8 +3,11 @@
 		"authors": [
 			"The Polish",
 			"Msz2001",
-			"Woytecr"
+			"Woytecr",
+			"PanWor"
 		]
 	},
+	"wikimedia-logentry-usermerge-mergeuser": "$1 {{GENDER:$2|zintegrował|zintegrowała|zintegrował(a)}} konto „$4” ($5) z {{GENDER:$8|$6}} ($7)",
+	"wikimedia-logentry-usermerge-deleteuser": "$1 {{GENDER:$2|usunął|usunęła|usunął(-ęła)}} konto „$4” ($5)",
 	"wikimedia-usermerge-logpage": "Rejestr integracji użytkowników"
 }

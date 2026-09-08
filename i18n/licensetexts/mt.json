@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Chrisportelli",
-			"Diebuche"
+			"Diebuche",
+			"JiodoJ"
 		]
 	},
 	"wm-license-attribution-with-author-text": "Id-detentur tal-copyright ta' dan il-fajl, $1, iħalli lil kulħadd jużah '''għal kwalunkwe raġuni, bil-kundizzjoni li''' d-detentur tal-copyright huwa attribwit. Id-distribuzzjoni mill-ġdid, xogħol derivat, użu kummerċjali, u kwalunkwe użu ieħor huwa permess.",
@@ -55,10 +56,10 @@
 	"wm-license-information-author": "Awtur",
 	"wm-license-information-author-missing": "Lil dan il-fajl jonqoslu informazzjoni fuq l-'''awtur'''.",
 	"wm-license-information-permission": "Permess",
-	"wm-license-information-permission-reusing-text": "Użu mill-ġdid tal-fajl",
+	"wm-license-information-permission-reusing-text": "Riużu tal-fajl",
 	"wm-license-information-permission-see-below": "Ara hawn taħt.",
 	"wm-license-information-other-versions": "Verżjonijiet oħra",
-	"wm-license-own-work": "Opra proprja",
+	"wm-license-own-work": "Xogħol proprju",
 	"wm-license-self-one-license": "Jiena, id-detentur tal-copyright ta' dan ix-xogħol, niddikjara li se nippubblikah taħt il-liċenzja segwenti:",
 	"wm-license-self-one-license-with-author": "$1, id-detentur tal-copyright ta' dan ix-xogħol, jiddikjara li se jippubblikah taħt il-liċenzja segwenti:",
 	"wm-license-self-multiple-licenses": "Jiena, id-detentur tal-copyright ta' dan ix-xogħol, niddikjara li se nippubblikah taħt il-liċenzji segwenti:",
