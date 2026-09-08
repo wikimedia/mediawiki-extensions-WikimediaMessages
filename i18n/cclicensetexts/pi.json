@@ -4,11 +4,16 @@
 			"咽頭べさ"
 		]
 	},
+	"wm-license-cc-attribution": "उप्पादकनामदस्सन",
+	"wm-license-cc-by-sa-3.0-text": "इमं फ़ाइल [[{{int:wm-license-cc-wiki-link}}|क्रिएटिव कॉमन्स]] लाइसेंस [[creativecommons:by-sa/3.0/deed.en|गुणारोपन सभागविभाजन ३.० अनियत]]॥",
 	"wm-license-cc-free": "त्वं मुत्तो असि:",
 	"wm-license-cc-free-to-share-header": "संविभजितुं",
 	"wm-license-cc-free-to-share-text": "कम्मं पटिलक्खितुं। वितरितुं पहिणितुञ्च",
 	"wm-license-cc-free-to-remix-header": "सम्मिस्सेतुं",
 	"wm-license-cc-free-to-remix-text": "कम्मं अनुवत्तेतुं",
+	"wm-license-cc-conditions": "इमेहि पच्चयेहि करोतु:",
 	"wm-license-cc-conditions-attribution-header": "एतदग्गनिद्देस",
-	"wm-license-cc-conditions-share_alike-header": "समानविसज्जन"
+	"wm-license-cc-conditions-attribution-text": "त्वं युत्तं सुत्तं सम्पटिच्छितुं, अधिकारस्स सन्धिं दातुं। परिवत्तनानि कतानि वा ति ञापेतुञ्च वेदितब्बो॥ त्वं यथारूपेन अनुच्छविकेन आकारेन एतं कातुं सक्कोसि। अथ खो अधिकारदाता तं वा तव उपयोगं वा अनुमोदति ति यथा न ञापेति तथा कातब्बं॥",
+	"wm-license-cc-conditions-share_alike-header": "समानविसज्जन",
+	"wm-license-cc-conditions-share_alike-text": "यदि त्वं मेथुनं संकरोसि। विवत्तेसि। सम्भोसि वा। अत्तनो योगदानानि समानाय वा समत्थाय वा [[ccorg:share-your-work/licensing-considerations/compatible-licenses|सञ्चारसूचिया]] विस्सज्जेतब्बानि॥"
 }

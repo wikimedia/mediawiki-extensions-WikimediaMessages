@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Luky001",
+			"Spider 001757",
 			"Teslaton",
 			"Wizzard"
 		]
@@ -16,6 +17,7 @@
 	"wikimedia-sitematrix": "Zoznam wiki projektov Wikimedia",
 	"wikimedia-sitematrix-others": "Iné projekty Wikimedia",
 	"wikimedia-sitematrix-summary": "Táto špeciálna stránka obsahuje zoznam všetkých wiki Wikimedia.",
+	"wikimedia-ipinfo-help-text": "Používanie tohto nástroja sa riadi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines pokynmi pre nástroj IP Information]. Zobrazené informácie pochádzajú zo služieb MaxMind a [https://docs.spur.us/data-types Spur]. Nemusia byť úplne presné.",
 	"wikimedia-globalblocking-blockedtext-on-range": "Vaša IP adresa sa nachádza v rozsahu, ktorý bol [[m:Special:MyLanguage/Global blocks|zablokovaný na všetkých wikiprojektoch Wikimedia Foundation]].",
 	"wikimedia-globalblocking-blockedtext-mistake": "Ak si myslíte, že ste boli zablokovaní omylom, ďalšie informácie a pokyny nájdete v [[m:Special:MyLanguage/Stewards/Wizard|Sprievodcovi pri blokovaní stewardami]].",
 	"wikimedia-oathauth-step1-test": "Stiahnite si aplikáciu na dvojfaktorovú autentifikáciu. Odporúčané aplikácie nájdete na stránke [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:Two-factor authentication].",
