@@ -113,9 +113,6 @@
 			"handler": "WikimediaMessagesHooks"
 		}
 	},
-	"ConfigRegistry": {
-		"wikimedia-messages": "MediaWiki\\Config\\GlobalVarConfig::newInstance"
-	},
 	"config": {
 		"WikimediaStylesSkins": {
 			"value": [
