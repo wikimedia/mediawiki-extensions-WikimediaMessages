@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"ऐक्टिवेटेड्"
+		]
+	},
+	"wikimedia-centralauth-groupname": "विकिमीडिया संस्था",
+	"wikimedia-createacct-helpusername-url": "{{ns:Project}}:प्रयोगकर्तानाम_नाति",
+	"wikimedia-skin-minerva-donate-banner-message": "अखनि दान करथिन",
+	"wikimedia-skin-minerva-donate-banner-subtitle": "यदि विकिपीडिया अपनेके कौनो काम ऐलै हे त कृपया आझे दान करथिन ।",
+	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "यदि ई जालस्थल अपनेके कौनो काम ऐलै हे त कृपया आझे दान करथिन ।",
+	"wikimedia-emailauth-accountrecovery-intro": "अपन विकिमीडिया खाता पुनर्प्राप्त करथिन",
+	"wikimedia-emailauth-accountrecovery-registeredemail-label": "अपनेके विकिमीडिया खाता सङ्गे पञ्जीकृत ईमेल"
+}

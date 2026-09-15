@@ -1,8 +1,30 @@
 {
 	"@metadata": {
 		"authors": [
+			"Spider 001757",
 			"Teslaton"
 		]
 	},
-	"project-localized-name-skwiki": "Slovenská Wikipédia"
+	"project-localized-name-aawiki": "Afarská Wikipédia",
+	"project-localized-name-aawikibooks": "Afarské Wikiknihy",
+	"project-localized-name-aawiktionary": "Afarský Wikislovník",
+	"project-localized-name-abstractwiki": "Abstraktná Wikipédia",
+	"project-localized-name-abwiki": "Abcházska Wikipédia",
+	"project-localized-name-abwiktionary": "Abcházsky Wikislovník",
+	"project-localized-name-csbwiki": "Kašubská Wikipédia",
+	"project-localized-name-csbwiktionary": "Kašubský Wikislovník",
+	"project-localized-name-cswiki": "Česká Wikipédia",
+	"project-localized-name-cswikibooks": "České Wikiknihy",
+	"project-localized-name-cswikinews": "České Wikisprávy",
+	"project-localized-name-cswikiquote": "České Wikicitáty",
+	"project-localized-name-cswikisource": "České Wikizdroje",
+	"project-localized-name-cswikiversity": "Česká Wikiverzita",
+	"project-localized-name-cswikivoyage": "České Wikicesty",
+	"project-localized-name-cswiktionary": "Český Wikislovník",
+	"project-localized-name-cuwiki": "Staroslovienska Wikipédia",
+	"project-localized-name-skwiki": "Slovenská Wikipédia",
+	"project-localized-name-skwikibooks": "Slovenské Wikiknihy",
+	"project-localized-name-skwikiquote": "Slovenské Wikicitáty",
+	"project-localized-name-skwikisource": "Slovenské Wikizdroje",
+	"project-localized-name-skwiktionary": "Slovenský Wikislovník"
 }
