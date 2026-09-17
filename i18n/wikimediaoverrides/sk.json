@@ -3,7 +3,8 @@
 		"authors": [
 			"Luky001",
 			"Teslaton",
-			"Wizzard"
+			"Wizzard",
+			"Spider 001757"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Návštevníci tejto wiki používajúci vašu IP adresu vytvorili v priebehu $2 {{PLURAL:$1|1 účet|$1 účty|$1 účtov}}, čo je maximálny povolený počet za toto časové obdobie.\nZ tohto dôvodu nemôžu návštevníci používajúci túto IP adresu momentálne vytvoriť ďalšie účty.\n\nAk sa zúčastňujete podujatia zameraného na prispievanie do projektov Wikimedia, pozrite si [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žiadosť o dočasné zrušenie obmedzenia pre IP adresu]], ktorá pomôže tento problém vyriešiť.",
@@ -17,6 +18,7 @@
 	"wikimedia-sitematrix": "Zoznam wiki projektov Wikimedia",
 	"wikimedia-sitematrix-others": "Iné projekty Wikimedia",
 	"wikimedia-sitematrix-summary": "Táto špeciálna stránka obsahuje zoznam všetkých wiki Wikimedia.",
+	"wikimedia-ipinfo-help-text": "Používanie tohto nástroja sa riadi [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines pokynmi pre nástroj IP Information]. Zobrazené informácie pochádzajú zo služieb MaxMind a [https://docs.spur.us/data-types Spur]. Nemusia byť úplne presné.",
 	"wikimedia-globalblocking-blockedtext-on-range": "Vaša IP adresa sa nachádza v rozsahu, ktorý bol [[m:Special:MyLanguage/Global blocks|zablokovaný na všetkých wikiprojektoch Wikimedia Foundation]].",
 	"wikimedia-globalblocking-blockedtext-ip-range": "Blokovaný rozsah je $1.",
 	"wikimedia-globalblocking-blockedtext-mistake": "Ak si myslíte, že ste boli zablokovaní omylom, ďalšie informácie a pokyny nájdete v [[m:Special:MyLanguage/Stewards/Wizard|Sprievodcovi pri blokovaní stewardami]].",

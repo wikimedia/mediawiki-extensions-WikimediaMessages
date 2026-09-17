@@ -20,7 +20,8 @@
 			"Vlad5250",
 			"Wizzard",
 			"Yardom78",
-			"Απεργός"
+			"Απεργός",
+			"Spider 001757"
 		]
 	},
 	"wikimediamessages-desc": "Správy špecifické pre Wikimedia",
@@ -43,6 +44,10 @@
 	"group-abusefilter": "Redaktori filtrov zneužití",
 	"group-abusefilter-member": "{{GENDER:$1|redaktor filtrov zneužití}}",
 	"grouppage-abusefilter": "{{ns:project}}:Redaktori filtrov zneužití",
+	"group-abusefilter-helper": "Pomocníci filtrov zneužití",
+	"group-abusefilter-maintainer": "Správcovia filtrov zneužití",
+	"group-global-abusefilter-helper": "Pomocníci filtrov zneužití",
+	"group-global-abusefilter-maintainer": "Správcovia filtrov zneužití",
 	"group-accountcreator": "Tvorcovia účtov",
 	"group-accountcreator-member": "{{GENDER:$1|zakladateľ|zakladateľka|zakladateľ}} účtov",
 	"grouppage-accountcreator": "{{ns:project}}:Tvorcovia účtov",
@@ -131,9 +136,12 @@
 	"wikibase-sitelinks-wiktionary": "Wikislovník",
 	"wikibase-otherprojects-sources": "Viacjazyčné Wikizdroje",
 	"wikibase-otherprojects-wikidata": "Wikiúdaje",
+	"wikibase-otherprojects-wikifunctions": "Wikifunkcie",
 	"wikibase-otherprojects-wikipedia": "Wikipédia",
 	"wikibase-sitelinks-sitename-sourceswiki": "Viacjazyčné Wikizdroje",
+	"wikibase-sitelinks-sitename-wikifunctionswiki": "Wikifunkcie",
 	"wikimedia-taglines-wikidata": "Slobodná databáza vedomostí",
+	"wikimedia-taglines-wikifunctions": "Slobodná knižnica funkcií",
 	"wikimedia-taglines-wikivoyage": "Voľne dostupný cestovateľský sprievodca",
 	"createacct-captcha-help-url": "{{ns:Project}}:Potrebujem pomoc",
 	"wikimedia-developers": "Vývojári",
