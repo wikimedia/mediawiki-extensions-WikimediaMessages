@@ -234,12 +234,14 @@
 	"group-u4c-member-member": "{{GENDER:$1|thành viên U4C}}",
 	"group-vrt-permissions": "Tình nguyện viên xác minh cấp phép qua VRT",
 	"group-vrt-permissions-member": "{{GENDER:$1|Tình nguyện viên xác minh cấp phép qua VRT}}",
-	"group-wmf-officeit": "Văn phòng CNTT WMF",
-	"group-wmf-officeit-member": "{{GENDER:$1}}Văn phòng CNTT WMF",
+	"group-wmf-officeit": "Dịch vụ CNTT WMF",
+	"group-wmf-officeit-member": "{{GENDER:$1}}Dịch vụ CNTT WMF",
 	"group-wmf-researcher": "Chuyên viên nghiên cứu WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1}}chuyên viên nghiên cứu WMF",
 	"group-wmf-supportsafety": "Tin cậy và An toàn WMF",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Tin cậy và an toàn WMF}}",
+	"wikilambda-abstractwiki-sidebar-projectchat": "Thảo luận chung",
+	"wikilambda-abstractwiki-sidebar-createarticle": "Tạo bài viết",
 	"tag-emoji": "Emoji",
 	"tag-emoji-description": "Sử dụng bởi bộ lọc sai phạm toàn cục 110.",
 	"tag-AWB": "AutoWikiBrowser",
@@ -505,5 +507,10 @@
 	"wikimedia-articletopics-topic-mathematics": "Toán học",
 	"wikimedia-articletopics-topic-medicine-and-health": "Y học và sức khỏe",
 	"wikimedia-articletopics-topic-physics": "Vật lý",
-	"wikimedia-articletopics-topic-technology": "Công nghệ"
+	"wikimedia-articletopics-topic-technology": "Công nghệ",
+	"wikimedia-2fa-echo-category-title": "Xác thực hai yếu tố chưa được bật trên tài khoản của bạn.",
+	"wikimedia-2fa-notification-header": "Vui lòng cấu hình xác thực hai yếu tố ngay bây giờ.",
+	"wikimedia-2fa-notification-body": "Hãy làm điều đó trước $1, nếu không bạn sẽ mất một số nhóm người dùng.",
+	"wikimedia-2fa-notification-action": "Thiết lập xác thực hai yếu tố",
+	"wikimedia-2fa-notification-info": "Thông tin thêm"
 }

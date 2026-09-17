@@ -77,7 +77,8 @@
 	"wikimedia-notificationemail_html_footer": "Pokud jste to nebyli vy, okamžitě napište na [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno změnili svoji e-mailovou adresu. Nový e-mail je $3.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org.",
 	"wikimedia-notificationemail_body_removed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno odebrali svoji e-mailovou adresu.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org.",
-	"wikimedia-userrights-restricted-group-arbcom-private-conditions": "Členové arbitrážního výboru musejí mít povolenou dvoufaktorovou autorizici, kontrola proběhne po uložení formuláře",
-	"wikimedia-userrights-restricted-group-bureaucrat-private-conditions": "Byrokraté musejí mít povolenou dvoufaktorovou autorizici, kontrola proběhne po uložení formuláře",
-	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Správci rozhraní musejí mít povolenou dvoufaktorovou autorizici, kontrola proběhne po uložení formuláře"
+	"wikimedia-userrights-restricted-group-arbcom-private-conditions": "Členové arbitrážního výboru musejí mít povolenou dvoufaktorovou autorizaci, což se kontroluje při odeslání formuláře",
+	"wikimedia-userrights-restricted-group-bureaucrat-private-conditions": "Byrokraté musejí mít povolenou dvoufaktorovou autorizaci, což se kontroluje při odeslání formuláře",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Revizoři [[m:Special:MyLanguage/CheckUser policy|musejí mít povolenou dvoufaktorovou autorizaci]], což se kontroluje při odeslání formuláře",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Správci rozhraní [[m:Special:MyLanguage/Interface administrators|musejí mít povolenou dvoufaktorovou autorizaci]], což se kontroluje při odeslání formuláře"
 }
