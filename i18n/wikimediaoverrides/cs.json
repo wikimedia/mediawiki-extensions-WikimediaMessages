@@ -11,7 +11,8 @@
 			"Pcoombe",
 			"Polda18",
 			"SaldırganSincap",
-			"YjM"
+			"YjM",
+			"Draceane"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "Uživatelé používající vaši IP adresu za poslední $2 vytvořili už $1 {{PLURAL:$1|účet|účty|účtů}}, což je pro toto období maximum.\nProto není v tuto chvíli dovoleno z této IP adresy zakládat další účty.\n\nPokud se účastníte události, která se zaměřuje na přispívání do projektů Wikimedia, podívejte se na [[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|Žádost o dočasné zrušení omezení pro IP adresu]], aby šlo tento problém vyřešit.",
@@ -76,5 +77,7 @@
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "Pokud pro vás byl tento projekt užitečný, darujte ještě dnes.",
 	"wikimedia-notificationemail_html_footer": "Pokud jste to nebyli vy, okamžitě napište na [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_body_changed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno změnili svoji e-mailovou adresu. Nový e-mail je $3.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org.",
-	"wikimedia-notificationemail_body_removed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno odebrali svoji e-mailovou adresu.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org."
+	"wikimedia-notificationemail_body_removed": "Dobrý den, $2,\n\nna {{grammar:6sg|{{SITENAME}}}} jste si nedávno odebrali svoji e-mailovou adresu.\n\nPokud jste to nebyli vy, okamžitě napište na ca@wikimedia.org.",
+	"wikimedia-userrights-restricted-group-checkuser-private-conditions": "Revizoři [[m:Special:MyLanguage/CheckUser policy|musejí mít povolenou dvoufaktorovou autorizaci]], což se kontroluje při odeslání formuláře",
+	"wikimedia-userrights-restricted-group-interface-admin-private-conditions": "Správci rozhraní [[m:Special:MyLanguage/Interface administrators|musejí mít povolenou dvoufaktorovou autorizaci]], což se kontroluje při odeslání formuláře"
 }

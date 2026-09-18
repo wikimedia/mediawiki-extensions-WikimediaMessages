@@ -509,5 +509,10 @@
 	"wikimedia-articletopics-topic-mathematics": "Toán học",
 	"wikimedia-articletopics-topic-medicine-and-health": "Y học và sức khỏe",
 	"wikimedia-articletopics-topic-physics": "Vật lý",
-	"wikimedia-articletopics-topic-technology": "Công nghệ"
+	"wikimedia-articletopics-topic-technology": "Công nghệ",
+	"wikimedia-2fa-echo-category-title": "Xác thực hai yếu tố chưa được bật trên tài khoản của bạn.",
+	"wikimedia-2fa-notification-header": "Vui lòng cấu hình xác thực hai yếu tố ngay bây giờ.",
+	"wikimedia-2fa-notification-body": "Hãy làm điều đó trước $1, nếu không bạn sẽ mất một số nhóm người dùng.",
+	"wikimedia-2fa-notification-action": "Thiết lập xác thực hai yếu tố",
+	"wikimedia-2fa-notification-info": "Thông tin thêm"
 }
