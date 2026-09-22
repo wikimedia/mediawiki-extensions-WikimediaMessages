@@ -379,6 +379,8 @@
 	"research-incentive-link": "https://airtable.com/shr0x60AzeK832ext",
 	"research-incentive-confirm-msg": "مننه!",
 	"ipinfo-global-contributions-url-label": "ټوليزې ونډې",
+	"checkuser-group-requirements-temporary-account-viewer": "کارن د [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users لاسرسي معيارونه نه پوره کوي]",
+	"userrights-restricted-group-temporary-account-viewer": "کارن د [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users لاسرسي معيارونه نه پوره کوي]",
 	"protect-level-edit-legal": "يوازې هغه کارنانو ته اجازه ورکول چې په قانوني توگه اړوند مخونه سمولی شي",
 	"restriction-level-edit-legal": "په قانوني کچه ژغورل شوی",
 	"wikimedia-foundation-projects-label": "ويکي‌رسنۍ بنسټ پروژې",
@@ -444,5 +446,7 @@
 	"wikimedia-articletopics-topic-mathematics": "شمېرپوهنه",
 	"wikimedia-articletopics-topic-medicine-and-health": "درمل او روغتيا",
 	"wikimedia-articletopics-topic-physics": "پنځپوهنه",
-	"wikimedia-articletopics-topic-technology": "تېکنالوژي"
+	"wikimedia-articletopics-topic-technology": "تېکنالوژي",
+	"wikimedia-2fa-notification-action": "دوه‌گوني تاييد ترتيبول",
+	"wikimedia-2fa-notification-info": "نور مالومات"
 }
