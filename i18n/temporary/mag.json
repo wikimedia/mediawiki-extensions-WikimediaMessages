@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"ऐक्टिवेटेड्"
+		]
+	},
+	"grouppage-oversight": "{{ns:project}}:निरीक्षण",
+	"group-oversight": "निरीक्षक",
+	"group-oversight-member": "{{GENDER:$1|निरीक्षण}}",
+	"hello": "नमस्कार",
+	"please-translate": "कृपया अपन भाषामे अनुवाद करेमे सहयोग करथिन",
+	"please-translate-short": "अनुवादमे सहयोग करथिन",
+	"thank-you": "{{GENDER:$1|धन्यवाद ।}}",
+	"specialinvestigate-feedback": "प्रतिक्रिया प्रदान करथिन"
+}

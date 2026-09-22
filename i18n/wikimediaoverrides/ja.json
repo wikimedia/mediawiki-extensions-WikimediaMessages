@@ -23,7 +23,9 @@
 			"Chqaz",
 			"Dragoniez",
 			"Pcoombe",
-			"Tensama0415"
+			"Tensama0415",
+			"Waki285",
+			"おはぐろ蜻蛉"
 		]
 	},
 	"wikimedia-createacct-helpusername": "[[{{MediaWiki:createacct-helpusername-url}}|(利用者名について)]]",
@@ -32,8 +34,10 @@
 	"wikimedia-centralauth-groupname": "ウィキメディア財団",
 	"wikimedia-centralauth-login-error-locked": "<strong>このアカウントは[[m:Special:MyLanguage/Global locks|グローバルロック]]されています。</strong> {{GENDER:$1|あなた}}はどのウィキメディアウィキにもログインできなくなります。ご質問がありましたら、[[m:Special:Contact/stewards|スチュワードまでお問い合わせください]]。",
 	"createacct-helpusername-url": "{{ns:Project}}:利用者名の方針",
+	"wikimedia-checkuser-api-useragent-clienthints-explanation": "ウィキメディア・プロジェクトにおける荒らし行為や不正利用を減らすために、ユーザーエージェントのクライアントヒントデータを収集しています。このデータは、[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy プライバシー・ポリシー]および[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy 非公開個人データへのアクセスに関する方針]に従って収集および使用されます。詳細については、https://www.mediawiki.org/wiki/Extension:CheckUser/Client_Hints を参照してください。",
 	"wikimedia-checkuser-toollinks": "<span class=\"plainlinks\">&#91;[//guc.toolforge.org/?user=$1 グローバル投稿記録] • [{{fullurl:Special:CheckUserLog|cuSearchType=target&cuSearch=$1}} 調査記録] • [{{fullurl:Special:Block/$1}} ローカルブロック]または[//meta.wikimedia.org/wiki/Special:GlobalBlock?wpAddress=$1 グローバルブロック] • [//whois-referral.toolforge.org/gateway.py?lookup=true&ip=$1 WHOIS] • [//whatismyipaddress.com/ip/$1 geolocate] • [//ipcheck.toolforge.org/index.php?ip=$1 proxy indicator check] • [//meta.toolforge.org/stalktoy/$1 stalktoy]&#93;</span>",
 	"wikimedia-checkuser-tempaccount-enable-preference-description": "この設定を有効化するには、「[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_temporary_account_IP_addresses 臨時アカウントIPアドレスアクセス規定]」の閲読および同意が必要です。特に、以下の点を確認してください。<ul><li>規定に記載されたアクセス有資格者条件を自身が満たしていること。</li><li>'''荒らし行為、不正行為、スパム、ハラスメント、迷惑行為、およびウィキメディア財団の公式方針またはコミュニティ方針の違反の調査・対策のために合理的に必要な場合'''を除き、臨時アカウントのIPアドレス情報を閲覧、使用、開示しないこと。他者に当該情報を共有する場合、その方法および場所を慎重に選定し、閲覧可能な状態を保持する必要がなくなった場合、当該情報を除去すること。</li></ul>規定を精読し、同意する場合、チェックボックスをチェックしこの機能を有効化することが許可されます。",
+	"wikimedia-checkuser-investigateblock-warning-ips-and-users-in-targets": "チェックユーザーのデータを使用した後、同じ理由でアカウントとIPアドレスの両方を同時にブロックしようとしています。これは[https://foundation.wikimedia.org/wiki/Policy:Access_to_nonpublic_personal_data_policy 非公開個人データへのアクセスに関する方針]に違反する可能性があります。本当に実行しますか？",
 	"wikimedia-delete-toobig": "このページには、$1{{PLURAL:$1|版}}を超える編集履歴があります。\nこのようなページの削除は、{{SITENAME}}の偶発的な問題を避けるため、制限されています。\n[[m:Steward requests/Miscellaneous|メタのスチュワードへの依頼/その他]]で[[m:Special:MyLanguage/Stewards|スチュワード]]にこのページの削除を依頼してください。",
 	"wikimedia-discussiontools-replywidget-terms-click": "「$1」をクリックすると、あなたは[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/ja 利用規約]に同意し、この文章を$2{{PLURAL:$3|下で}}撤回できない形で公開することに同意したと見なされます。",
 	"wikimedia-feedback-termsofuse": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に従ってフィードバックを提供することに同意します。",
@@ -49,6 +53,7 @@
 	"wikimedia-globalrenamequeue-email-body-approved": "利用者名\"{{GENDER:$1|$1}}\" を\"{{GENDER:$1|$2}}\" へ変更する要求が承認されました。一旦完了すると, 新しい利用者名と旧来のパスワードでログインできます。ウィキメディア・プロジェクトに参加していただきありがとうございます。",
 	"wikimedia-globalrenamequeue-email-body-rejected": "利用者名「{{GENDER:$1|$1}}」から「{{GENDER:$1|$2}}」への変更依頼を完了できませんでした。\n\n注記: $3\n\n詳細については以下のヘルプページをご覧ください：\nhttps://meta.wikimedia.org/wiki/Help:Unified_login#Frequently_asked_questions\n\n利用者名変更の要望について議論をする場合にはこちらのページにご投稿いただけます: \nhttps://meta.wikimedia.org/wiki/Talk:Steward_requests/Username_changes\n\nまず現在のアカウント名でログインする必要があります。",
 	"wikimedia-interfaceadmin-info": "サイト全体のCSS/JS/JSONの編集における許可は、[[{{int:grouppage-interface-admin}}|{{int:group-interface-admin}}]]グループのメンバーに限定されています。",
+	"wikimedia-mwoauthserver-invalid-user": "グローバルログインに問題が発生しました。アカウントを作成したばかりの場合は、一度ログアウトして再度ログインし、アプリの認証を再度お試しください。アカウントを作成したばかりでない場合は、[https://meta.wikimedia.org/ meta.wikimedia.org] にアクセスしてから、アプリの認証を再度お試しください。（エラーコード: E008）",
 	"wikimedia-sitematrix": "ウィキメディアのウィキ一覧",
 	"wikimedia-sitematrix-others": "ウィキメディアの他のプロジェクト",
 	"wikimedia-sitematrix-summary": "この特別ページではウィキメディアのすべてのウィキを表示しています。",

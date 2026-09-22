@@ -7,5 +7,9 @@
 	"wm-license-information-description": "निद्देस",
 	"wm-license-information-source": "मूलं निद्दिसतु",
 	"wm-license-information-date": "दिनांक",
-	"wm-license-information-author": "कत्ता"
+	"wm-license-information-author": "कत्ता",
+	"wm-license-information-permission": "अब्भनुञ्ञाता",
+	"wm-license-information-permission-reusing-text": "इमं फ़ाइल पुनब्ब्यापारन",
+	"wm-license-own-work": "अत्तकतं निय्यादेतु",
+	"wm-license-self-multiple-licenses-select": "अत्तनो रुचितं लोकानुञ्ञातिं वरयतु॥"
 }
