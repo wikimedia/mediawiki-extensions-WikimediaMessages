@@ -100,7 +100,7 @@
 	"group-engineer-member": "{{GENDER:$1|engineer}}",
 	"grouppage-engineer": "{{ns:project}}:Engineers",
 	"group-electionclerk": "Stemcommissieleden",
-	"group-electionclerk-member": "stemcommissielid{{GENDER:$1||}}",
+	"group-electionclerk-member": "{{GENDER:$1|stemcommissielid}}",
 	"grouppage-electionclerk": "{{ns:project}}:Stemcommissieleden",
 	"group-eliminator": "Opruimers",
 	"group-eliminator-member": "opruimer",
