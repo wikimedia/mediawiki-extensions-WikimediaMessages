@@ -38,7 +38,8 @@
 			"Southparkfan",
 			"Troefkaart",
 			"Tvdm",
-			"Varnent"
+			"Varnent",
+			"Ciell"
 		]
 	},
 	"wikimediamessages-desc": "Berichten voor Wikimedia",
@@ -98,9 +99,9 @@
 	"group-engineer": "Engineers",
 	"group-engineer-member": "{{GENDER:$1|engineer}}",
 	"grouppage-engineer": "{{ns:project}}:Engineers",
-	"group-electionclerk": "Verkiezingsmedewerkers",
-	"group-electionclerk-member": "verkiezingsmedewerk{{GENDER:$1||st}}er",
-	"grouppage-electionclerk": "{{ns:project}}:Verkiezingsmedewerkers",
+	"group-electionclerk": "Stemcommissieleden",
+	"group-electionclerk-member": "{{GENDER:$1|stemcommissielid}}",
+	"grouppage-electionclerk": "{{ns:project}}:Stemcommissieleden",
 	"group-eliminator": "Opruimers",
 	"group-eliminator-member": "opruimer",
 	"grouppage-eliminator": "{{ns:project}}:Opruimers",
