@@ -5,13 +5,16 @@
 			"Ahmed-Najib-Biabani-Ibrahimkhel",
 			"Amjad Khan",
 			"Baloch Khan",
+			"باران",
 			"شاه زمان پټان"
 		]
 	},
-	"grouppage-oversight": "{{ns:project}}:پټونکي",
-	"group-oversight": "پټونکي",
+	"grouppage-oversight": "{{ns:project}}:پټوونکي",
+	"group-oversight": "پټوونکي",
 	"group-oversight-member": "{{GENDER:$1|پټوونکي}}",
 	"hello": "سلامونه",
 	"please-translate": "مهرباني وکړئ خپلي ژبې ته د ور ژباړلو لپاره مرسته وکړئ",
-	"thank-you": "{{GENDER:$1|مننه}}"
+	"please-translate-short": "په ژباړلو کې مرسته وکړئ",
+	"thank-you": "{{GENDER:$1|مننه}}",
+	"specialinvestigate-feedback": "غبرگون پرېږدئ"
 }
