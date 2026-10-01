@@ -2,22 +2,28 @@
 	"@metadata": {
 		"authors": [
 			"Ahmed-Najib-Biabani-Ibrahimkhel",
-			"شاه زمان پټان"
+			"شاه زمان پټان",
+			"باران"
 		]
 	},
 	"wm-license-artwork-artist": "هنرمند",
 	"wm-license-artwork-title": "لقب",
 	"wm-license-artwork-medium": "منځوی",
+	"wm-license-artwork-dimensions": "ډډې",
 	"wm-license-artwork-current-location": "اوسنی ځای",
 	"wm-license-artwork-references": "سرچينې",
+	"wm-license-artwork-inscriptions": "ليکنې",
 	"wm-license-artwork-notes": "يادښتونه",
+	"wm-license-artwork-id": "لاسرسي شمېره",
 	"wm-license-artwork-source": "سرچينه/انځورگر",
+	"wm-license-book-edition": "نوبڼه",
 	"wm-license-book-editor": "سمونگر",
 	"wm-license-book-language": "ژبه",
 	"wm-license-book-page-overview": "مخ مخليدنه",
 	"wm-license-book-place-of-publication": "د خپرېدو ځای",
 	"wm-license-book-printer": "چاپگر",
 	"wm-license-book-publisher": "خپروونکی",
+	"wm-license-book-series-title": "د لړۍ سرليک",
 	"wm-license-book-start-this-book": "دا کتاب پيلول",
 	"wm-license-book-subtitle": "لمنليک",
 	"wm-license-book-title": "سرليک",
