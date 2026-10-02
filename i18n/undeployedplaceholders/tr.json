@@ -16,6 +16,7 @@
 	"wikimedia-usermerge-logpage": "Kullanıcı birleştirme günlüğü",
 	"wikimedia-usermerge-logpagetext": "Bu, kullanıcı birleştirme eylemlerinin günlüğüdür.",
 	"wikimedia-lqt-log-name": "Konu bazlı tartışma günlüğü",
+	"wikimedia-lqt-log-header": "Bu günlük, tartışma başlıkları üzerinde gerçekleştirilen işlemleri ayrıntılı olarak gösterir.",
 	"wikimedia-graph-tracking-category": "Grafikli sayfalar",
 	"wikimedia-graph-tracking-category-desc": "Sayfa bir <code>&lt;graph&gt;</code> etiketi içerir.",
 	"wikimedia-graph-broken-category": "Grafikleri bozuk sayfalar",
