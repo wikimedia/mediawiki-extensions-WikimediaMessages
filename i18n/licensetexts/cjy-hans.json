@@ -1,0 +1,15 @@
+{
+	"@metadata": {
+		"authors": [
+			"Villager-bloc-h"
+		]
+	},
+	"wm-license-information-description": "说明",
+	"wm-license-information-source": "源头",
+	"wm-license-information-date": "日期",
+	"wm-license-information-author": "作者",
+	"wm-license-information-permission": "授权",
+	"wm-license-information-permission-reusing-text": "再用这个文件",
+	"wm-license-own-work": "自个个作品",
+	"wm-license-self-multiple-licenses-select": "您可以挑您想用个许可协议。"
+}
