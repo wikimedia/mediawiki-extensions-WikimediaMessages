@@ -470,6 +470,7 @@
 	"ipinfo-global-contributions-url-label": "Глобальний внесок",
 	"checkuser-group-requirements-temporary-account-viewer": "Користувач не відповідає [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users критеріям доступу]",
 	"userrights-restricted-group-temporary-account-viewer": "Користувач не відповідає [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy#Other_users критеріям доступу]",
+	"checkuser-suggestedinvestigations-queue-view-sockpuppets": "Можливе лялькарство",
 	"protect-level-edit-legal": "Дозволити лише користувачам, які можуть редагувати юридичні сторінки",
 	"restriction-level-edit-legal": "захищено до рівня юристів",
 	"wikimedia-foundation-projects-label": "Проєкти Фонду Вікімедіа",
