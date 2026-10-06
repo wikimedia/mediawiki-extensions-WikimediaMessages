@@ -18,5 +18,6 @@
 	"wikimedia-sitematrix-others": "د ويکي‌رسنۍ نورې پروژې",
 	"wikimedia-sitematrix-summary": "دا ځانگړی مخ د ويکي‌رسنۍ د ټولو ويکي گانو لړليک ښکاره کوي.",
 	"wikimedia-centralauth-admin-log-otherwiki": "دا گڼون تړل شوی دی. د نور سپيناوي لپاره يې  [[meta:Special:CentralAuth/$1|مېټاويکي کې د ټوليز گڼون سپيناوی]] وگورئ.",
-	"wikimedia-globalblocking-blockedtext-ip-range": "بنديز لړۍ $1 دی."
+	"wikimedia-globalblocking-blockedtext-ip-range": "بنديز لړۍ $1 دی.",
+	"wikimedia-globalblocking-blockedtext-autoblock-intro": "ستاسو په وېب‌پته [[m:Special:MyLanguage/Global blocks|په ټولو ټيکي‌گانو کې خپلکاری بنديز لگېدلی]]؛ ځکه چې دا د يو بل کارن له خوا چې $1 پرې بنديز لگولی، کارېدلی وه."
 }

@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Villager-bloc-h"
+		]
+	},
+	"wm-license-cc-attribution": "署名",
+	"wm-license-cc-by-sa-3.0-text": "这个文件是按照[[{{int:wm-license-cc-wiki-link}}|知识共享]][[creativecommons:by-sa/3.0/deed.zh-hans|署名-相同方式共享 3.0 未本地化版本]]个许可协议授权的。",
+	"wm-license-cc-free": "您可以自由：",
+	"wm-license-cc-free-to-share-header": "共享",
+	"wm-license-cc-free-to-share-text": "复制、发行并传播本作品",
+	"wm-license-cc-free-to-remix-header": "修改",
+	"wm-license-cc-free-to-remix-text": "改编作品",
+	"wm-license-cc-conditions": "在以下条件底下：",
+	"wm-license-cc-conditions-attribution-header": "署名",
+	"wm-license-cc-conditions-attribution-text": "你得给作品署名，提供授权条款个链接，还要说清楚有没有改过原来个内容。署名咋也行，但不能说许可人认可你或者你咋用。",
+	"wm-license-cc-conditions-share_alike-header": "相同方式共享"
+}
