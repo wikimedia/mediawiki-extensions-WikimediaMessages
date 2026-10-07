@@ -194,6 +194,7 @@
 	"right-editeditorprotected": "Рэдагаваньне старонак, абароненых як «{{int:restriction-level-editeditorprotected}}»",
 	"action-editextendedsemiprotected": "рэдагаваньне старонак, абароненых як «{{int:restriction-level-editextendedsemiprotected}}»",
 	"right-editextendedsemiprotected": "Рэдагаваньне старонак, абароненых як «{{int:restriction-level-editextendedsemiprotected}}»",
+	"right-banner-protect": "Абараніць перакладальныя паведамленьні, якія апрацоўваюцца пашырэньнем Перакладу і ўключаюцца ў абвесткі Цэнтралізаваных паведамленьняў",
 	"wikimedia-statslink": "Статыстыка",
 	"wikimedia-cookiestatement": "Заява пра маркёр",
 	"protect-level-editautoreviewprotected": "Дазволіць толькі аўтарэцэнзэнтам",

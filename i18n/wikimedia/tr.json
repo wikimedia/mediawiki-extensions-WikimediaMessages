@@ -332,6 +332,7 @@
 	"protect-level-editextendedsemiprotected": "Yalnızca otomatik devriyelere izin ver",
 	"restriction-level-editextendedsemiprotected": "otomatik devriye korumalı",
 	"action-banner-protect": "Çeviri uzantısı tarafından işlenen ve CentralNotice bannerlarına dahil edilen çevrilebilir mesajları koru",
+	"right-banner-protect": "Çeviri uzantısı tarafından işlenen ve CentralNotice afişlerinde yer alan çevrilebilir mesajları koru",
 	"wikimedia-centralauth-contribs-locked": "Bu hesap küresel olarak kilitlendi. \nDaha fazla bilgi için [[m:Special:CentralAuth/$1|küresel hesap ayrıntılarına]] bakınız.",
 	"action-viewdeletedfile": "{{ns:file}} ve {{ns:file_talk}} silinen ad alanlarında dosyaları ve sayfaları görüntüle",
 	"right-viewdeletedfile": "{{ns:file}} ve {{ns:file_talk}} ad alanlarındaki silinen sayfaları ve dosyaları görüntüle",
