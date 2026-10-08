@@ -384,6 +384,7 @@
 	"protect-level-editextendedsemiprotected": "Alleen autopatrollers toestaan",
 	"restriction-level-editextendedsemiprotected": "beveiligd: alleen autopatrollers",
 	"action-banner-protect": "vertaalbare berichten te beveiligen die worden afgehandeld door de uitbreiding Translate en opgenomen in CentralNotice-banners",
+	"right-banner-protect": "Beveilig vertaalbare berichten afgehandeld door de Vertalingsextensie en inbegrepen in CentralNoticebanners",
 	"wikimedia-centralauth-contribs-locked": "Dit account is globaal vergrendeld.\nZie de [[m:Special:CentralAuth/$1|globale accountgegevens]] voor meer informatie.",
 	"action-viewdeletedfile": "verwijderde bestanden en pagina’s in de naamruimten {{ns:file}} en de {{ns:file_talk}} te bekijken",
 	"right-viewdeletedfile": "Bestanden en pagina’s bekijken die uit de naamruimten {{ns:file}} en {{ns:file_talk}} zijn verwijderd",

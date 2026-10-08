@@ -375,6 +375,7 @@
 	"protect-level-editextendedsemiprotected": "Разрешить только автопатрулируемым",
 	"restriction-level-editextendedsemiprotected": "защищено до автопатрулируемых",
 	"action-banner-protect": "защита переводимых страниц, с которыми работает расширение перевода, и включенных в баннеры CentralNotice",
+	"protect-level-banner-protect": "Разрешено администраторам переводов и администраторам централизованных уведомлений",
 	"wikimedia-centralauth-contribs-locked": "Эта учётная запись заморожена. См. [[m:Special:CentralAuth/$1|данные глобальной учётной записи]] для получения более подробной информации.",
 	"action-viewdeletedfile": "просмотр удалённых файлов и страниц в пространствах имён {{ns:file}} и {{ns:file_talk}}",
 	"right-viewdeletedfile": "Просмотр удалённых файлов и страниц в пространствах имён {{ns:file}} и {{ns:file_talk}}",
