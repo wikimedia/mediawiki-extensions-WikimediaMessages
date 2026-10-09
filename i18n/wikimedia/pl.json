@@ -341,6 +341,7 @@
 	"protect-level-editextendedsemiprotected": "Dozwolone tylko dla patrolujących automatycznie",
 	"restriction-level-editextendedsemiprotected": "zabezpieczone ne poziomie patrolujących automatycznie",
 	"action-banner-protect": "zabezpieczania komunikatów do przetłumaczenia obsługiwanych przez rozszerzenie Translate umieszczonych w powiadomieniach CentralNotice",
+	"right-banner-protect": "Zabezpieczanie komunikatów do przetłumaczenia obsługiwanych przez rozszerzenie Translate umieszczonych w powiadomieniach CentralNotice",
 	"wikimedia-centralauth-contribs-locked": "To konto jest globalnie zablokowane.\nZobacz więcej szczegółów w [[m:Special:CentralAuth/$1|informacji o koncie globalnym]].",
 	"action-viewdeletedfile": "podglądu usuniętych plików i stron w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}",
 	"right-viewdeletedfile": "Zobacz usunięte pliki i strony w przestrzeniach nazw {{ns:file}} i {{ns:file_talk}}",
