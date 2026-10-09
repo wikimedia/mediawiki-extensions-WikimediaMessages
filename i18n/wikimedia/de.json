@@ -237,6 +237,8 @@
 	"group-u4c-member-member": "{{GENDER:$1|U4C-Mitglied}}",
 	"group-vrt-permissions": "Support-Team-Mitglieder",
 	"group-vrt-permissions-member": "{{GENDER:$1|Support-Team-Mitglied}}",
+	"group-wmf-legal": "WMF-Rechtsabteilung",
+	"group-wmf-legal-member": "{{GENDER:$1|Mitarbeiter der WMF-Rechtsabteilung|Mitarbeiterin der WMF-Rechtsabteilung}}",
 	"group-wmf-officeit": "WMF-IT-Service-Miterarbeitende",
 	"group-wmf-officeit-member": "{{GENDER:$1|WMF-IT-Service-Miterarbeitender|WMF-IT-Service-Miterarbeitende}}",
 	"group-wmf-researcher": "WMF-Forscher",
