@@ -104,7 +104,7 @@
 	"wikimedia-emailauth-accountrecovery-registeredemail-label": "البريد الإلكتروني المسجل بحساب ويكيميديا الخاص بك",
 	"wikimedia-oathauth-delete-warning-final-privileged-user": "لديك صلاحيات على {{SITENAME}} تتطلب المصادقة الثنائية.\n\n<strong>قد تفقد هذه الصلاحيات، وقد تحتاج إلى طلبها يدويًا مرة أخرى.</strong>\n\nنصيحة: أضف طريقة جديدة قبل إزالة هذه الطريقة.",
 	"wikimedia-oathauth-notifications-recoverycodes-generated-for-user-contact": "تواصل مع قسم الثقة والأمان",
-	"wikimedia-oathauth-recovery-codes-expired-error": "<strong>انتهت صلاحية رموز الاسترداد المؤقتة الخاصة بك</strong> ! انتهت صلاحية رموز الاسترداد المؤقتة التي تم إرسالها إليك عبر البريد الإلكتروني. لاستعادة الوصول إلى حسابك، يرجى التواصل عبر البريد الإلكتروني [mailto:ca@wikimedia.org ca@wikimedia.org].",
+	"wikimedia-oathauth-recovery-codes-expired-error": "<strong>انتهت صلاحية رموز</strong> الاسترداد الأولية المؤقتة التي تم إرسالها إليك عبر البريد الإلكتروني. لاستعادة الوصول إلى حسابك، يُرجى التواصل عبر البريد الإلكتروني [mailto:ca@wikimedia.org ca@wikimedia.org].",
 	"wikimedia-notificationemail_html_footer": "إذا لم تكن أنت من فعل ذلك، فاكتب إلى [mailto:ca@wikimedia.org ca@wikimedia.org] على الفور.",
 	"wikimedia-notificationemail_body_changed": "مرحباً $2،\n\nلقد قمتَ مؤخراً بتغيير بريدك الإلكتروني على {{SITENAME}}. البريد الإلكتروني الجديد هو $3.\n\nإذا لم تكن أنت من قام بذلك، فيُرجى الاتصال بمسؤول الموقع فوراً.",
 	"wikimedia-notificationemail_body_removed": "مرحباً $2 ،\n\nلقد قمت مؤخراً بحذف بريدك الإلكتروني من {{SITENAME}}.\n\nإذا لم تكن أنت من قام بذلك، فاتصل بمسؤول الموقع فوراً.",
