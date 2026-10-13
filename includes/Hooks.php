@@ -627,16 +627,9 @@ class Hooks implements
 			$skin->msg( 'wikimedia-developers' )->text()
 		);
 
-		// T401547: Instead of just reading $wgServerName which is overridden when on the shared
-		// domain, let's get the current wiki's ID from the shared domain perspective and extract
-		// the hostname from there.
-		$wiki = WikiMap::getWiki( WikiMap::getCurrentWikiId() );
-		if ( !$wiki ) {
-			// Fallback to the default server name of the current domain
-			$serverName = $skin->getConfig()->get( MainConfigNames::ServerName );
-		} else {
-			$serverName = $wiki->getDisplayName();
-		}
+		// T401547: Instead of just reading $wgServerName, which is overridden when on the shared
+		// domain, get it via WikiMap/$wgConf which still has the original value.
+		$serverName = WikiMap::getWiki( WikiMap::getCurrentWikiId() )->getDisplayName();
 
 		$statsDestination = Skin::makeInternalOrExternalUrl(
 			$skin->msg( 'wikimedia-statslink-url', $serverName )->inContentLanguage()->text()
