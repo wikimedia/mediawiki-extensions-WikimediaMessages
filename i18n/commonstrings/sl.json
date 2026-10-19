@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Eleassar",
+			"Upwinxp",
 			"Varnent"
 		]
 	},
+	"wm-commonstrings-aboutme": "O meni",
 	"wm-commonstrings-activities": "Dejavnosti",
 	"wm-commonstrings-background": "Ozadje",
 	"wm-commonstrings-closed": "Zaprto",
@@ -12,7 +14,7 @@
 	"wm-commonstrings-contactus": "Stik z nami",
 	"wm-commonstrings-events": "Dogodki",
 	"wm-commonstrings-externallinks": "Zunanje povezave",
-	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|one=Glavni članek: $1|two=Glavna članka: $1|few=Glavni članki: $1|Glavni članki: $1}}",
+	"wm-commonstrings-mainarticle-prompt": "{{PLURAL:$2|Glavni članek: $1|Glavna članka: $1|Glavni članki: $1}}",
 	"wm-commonstrings-mainpage-prompt": "{{PLURAL:$2|Glavna stran: $1|Glavne strani: $1}}",
 	"wm-commonstrings-noticeboard": "Obvestilni panel",
 	"wm-commonstrings-objectives": "Cilji",
@@ -20,6 +22,7 @@
 	"wm-commonstrings-open": "Odprto",
 	"wm-commonstrings-overview": "Pregled",
 	"wm-commonstrings-participate": "Sodeluj",
+	"wm-commonstrings-purpose": "Namen",
 	"wm-commonstrings-questions": "Vprašanja?",
 	"wm-commonstrings-reports": "Poročila",
 	"wm-commonstrings-resolutions": "Sklepi",
