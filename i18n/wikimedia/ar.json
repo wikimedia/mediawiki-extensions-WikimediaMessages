@@ -256,6 +256,8 @@
 	"group-vrt-permissions-member": "{{GENDER:$1|VRT وكيل الأذونات}}",
 	"group-wmf-antiabuse-restricted": "موظفو دعم مكافحة الإساءة في مؤسسة WMF",
 	"group-wmf-antiabuse-restricted-member": "{{GENDER:$1|فريق دعم مكافحة الإساءة التابع لمؤسسة ويكيميديا}}",
+	"group-wmf-legal": "الفريق القانوني لمؤسسة ويكيميديا",
+	"group-wmf-legal-member": "{{GENDER:$1|عضو الفريق القانوني لمؤسسة ويكيميديا}}",
 	"group-wmf-officeit": "خدمات تكنولوجيا المعلومات في WMF",
 	"group-wmf-officeit-member": "{{GENDER:$1|خدمات تكنولوجيا المعلومات في مؤسسة ويكيميديا}}",
 	"group-wmf-researcher": "باحثو مؤسسة ويكيميديا",
