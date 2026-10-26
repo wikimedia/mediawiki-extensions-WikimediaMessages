@@ -200,6 +200,8 @@
 	"group-translationadmin": "Správci překladů",
 	"group-translationadmin-member": "{{GENDER:$1|správce|správkyně|správce}} překladů",
 	"grouppage-translationadmin": "{{ns:project}}:Správci překladů",
+	"group-u4c-member": "Členové U4C",
+	"group-u4c-member-member": "{{GENDER:$1|člen|členka}} U4C",
 	"group-wmf-researcher": "Výzkumníci WMF",
 	"group-wmf-researcher-member": "{{GENDER:$1|výzkumník|výzkumnice}} WMF",
 	"mulwikisource-sidebar-scriptorium": "U pramene",

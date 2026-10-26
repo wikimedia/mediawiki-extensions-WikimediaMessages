@@ -6,7 +6,7 @@
 		]
 	},
 	"wikimedia-jsonconfig-license-copyrightwarning": "Хүврлтсән ниитлсәр та мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗәнәт болн [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] лицензиг дахҗ, эврә орулсн хүв-немриг һарһад, буцах арһ угаһан зөвшәрҗәнәт.",
-	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Хүврлтсән ниитлхәр та мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, талврт заасн <code>licence</code> лицензиг дахад, эврә орулх хүв-немриг буцлт угаһар зөвшәрҗәнәт.",
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "Хүврлтсән ниитлхәр та мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, талврт заасн <code>license</code> лицензиг дахад, эврә орулх хүв-немриг буцлт угаһар зөвшәрҗәнәт.",
 	"wikimedia-jsonconfig-license-notice": "'''Темдглл:''' Та эн халхиг ясврлхларн, мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, эврә күслтиг цуцлхыг буцал угаһар зөвшәрҗәнәт болн [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] лицензиг дахад, эврә хүв-немриг буцлт угаһар зөвшәрҗәнәт.",
-	"wikimedia-jsonconfig-license-notice-license-unset": "'''Темдглл:''' Та эн халхиг ясврлхларн, мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, эврә орулсн хүв-немриг <code>licence</code> талврт заасн лицензиг дахҗ, буцлт угаһар зөвшәрҗәнәт."
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''Темдглл:''' Та эн халхиг ясврлхларн, мана [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Керглх нөкцл]-иг зөвшәрҗ, эврә орулсн хүв-немриг <code>license</code> талврт заасн лицензиг дахҗ, буцлт угаһар зөвшәрҗәнәт."
 }
