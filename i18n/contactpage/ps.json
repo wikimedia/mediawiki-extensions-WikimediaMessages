@@ -8,6 +8,9 @@
 			"شاه زمان پټان"
 		]
 	},
+	"contactpage-title-requestlicense": "د منښتليک فورمې غوښتنه وکړئ",
+	"contactpage-pagetext-requestlicense": "د ويکي‌رسنۍ سوداگريزې نښې کارولو په اړه د اړيکې لپاره مهرباني وکړئ لاندې فورمه وکاروئ.",
+	"contactpage-subject-requestlicense": "د ويکي‌رسنۍ سوداگريزې نښې کارولو غوښتنه کول",
 	"contactpage-license-request-username": "کارن‌نوم",
 	"contactpage-license-request-relevantsite": "اړونده ويکيمېډيا وېبځی (که وي)",
 	"contactpage-license-request-use-online": "پرليکه (وېبځی، برېښليک)",
@@ -15,6 +18,7 @@
 	"contactpage-license-request-use-print": "چاپول",
 	"contactpage-license-request-use-tv": "تلويزون، فېلم یا خپرونه",
 	"contactpage-license-request-use-other": "بل",
+	"contactpage-license-request-description": "د کارونې څرگنداوی",
 	"contactpage-wikimedia-trademark-wikiwordmark": "ويکيپېډيا نښه",
 	"contactpage-wikimedia-trademark-w": "ډول ټاکلی \"W\"",
 	"contactpage-wikimedia-trademark-foundation": "ويکيمېډيا بنسټ",
@@ -30,6 +34,7 @@
 	"contactpage-wikimedia-trademark-wikiversity": "ويکيپوهنتون",
 	"contactpage-wikimedia-trademark-wiktionary": "ويکيسيند",
 	"contactpage-wikimedia-trademark-wikivoyage": "ويکيسفر",
+	"contactpage-title-licenseabuse": "د ناوړه‌گټه‌اخيستنې راپور ورکولو فورمه",
 	"contactpage-subject-licenseabuse": "د ويکيمېډيا سوداگريزې نښې د ناوړکارنې يادگيرنه",
 	"contactpage-affcom-user-group-logo-community": "د ويکيمېډيا ټولنې نښان",
 	"contactpage-fromname-accountvanishapps": "غوښتونکي کارن‌نوم",
