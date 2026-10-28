@@ -12,8 +12,7 @@ use MediaWiki\Logging\LogFormatter;
  */
 class WMUserMergeLogFormatter extends LogFormatter {
 
-	/** @var int[] */
-	private static $mapLegacy = [
+	private const MAP_LEGACY = [
 		'oldName' => 0,
 		'oldId' => 1,
 		'newName' => 2,
@@ -38,7 +37,7 @@ class WMUserMergeLogFormatter extends LogFormatter {
 	private function getParameter( $param ) {
 		$parameters = $this->entry->getParameters();
 		if ( $this->entry->isLegacy() ) {
-			$param = self::$mapLegacy[$param];
+			$param = self::MAP_LEGACY[$param];
 		}
 		return $parameters[$param];
 	}
