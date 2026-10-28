@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Spider 001757",
-			"Teslaton"
+			"Teslaton",
+			"KormiSK"
 		]
 	},
 	"project-localized-name-aawiki": "Afarská Wikipédia",
@@ -26,5 +27,6 @@
 	"project-localized-name-skwikibooks": "Slovenské Wikiknihy",
 	"project-localized-name-skwikiquote": "Slovenské Wikicitáty",
 	"project-localized-name-skwikisource": "Slovenské Wikizdroje",
-	"project-localized-name-skwiktionary": "Slovenský Wikislovník"
+	"project-localized-name-skwiktionary": "Slovenský Wikislovník",
+	"project-localized-name-wlxwiki": "Wali Wikipédia"
 }

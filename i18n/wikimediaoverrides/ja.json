@@ -25,7 +25,8 @@
 			"Waki285",
 			"Yamagata Yusuke",
 			"おはぐろ蜻蛉",
-			"春春眠眠"
+			"春春眠眠",
+			"TAKAHASHI Shuuji"
 		]
 	},
 	"wikimedia-acct_creation_throttle_hit": "あなたのIPアドレスを使用してこのウィキにアクセスした訪問者は、過去$2日間に{{PLURAL:$1|$1個のアカウント}}を作成しました。これは、この期間に許可されている最大数です。\nそのため、このIPアドレスを使用している訪問者は、現時点でこれ以上アカウントを作成できません。\n\nウィキメディア・プロジェクトへの貢献が中心となるイベントに参加している場合は、この問題を解決するために[[m:Mass account creation#Requesting_temporary_lift_of_IP_cap|一時的なIP上限の引き上げを申請]] を参照してください。",
@@ -83,5 +84,9 @@
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "あなたのIPアドレスは、$1によってブロックされた別の利用者が使用していたため、自動的に[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロックされました]]。",
 	"wikimedia-oathauth-step1-test": "二要素認証に使用するアプリをダウンロードしてください。推奨されるクライアントについては [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:二要素認証]を参照してください。",
 	"wikimedia-skin-minerva-donate-banner-message": "今すぐ寄付する",
-	"wikimedia-skin-minerva-donate-banner-subtitle": "ウィキペディアがあなたのお役に立てているのなら、ぜひ本日ご寄付をお願いいたします。"
+	"wikimedia-skin-minerva-donate-banner-subtitle": "ウィキペディアがあなたのお役に立てているのなら、ぜひ本日ご寄付をお願いいたします。",
+	"wikimedia-notificationemail_html_footer": "もしこれがあなたによるものでない場合は、今すぐ[mailto:ca@wikimedia.org ca@wikimedia.org]までメールで報告してください。",
+	"wikimedia-notificationemail_body_changed": "$2 さん、こんにちは。\n\n最近、{{SITENAME}} であなたのメールアドレスが変更されました。新しいメールアドレスは $3 です。\n\nもしこれがあなたでない場合は、今すぐ ca@wikimedia.org までメールで報告してください。",
+	"wikimedia-notificationemail_body_removed": "$2 さん、こんにちは。\n\n最近、{{SITENAME}} であなたのメールアドレスが削除されました。\n\nもしこれがあなたでない場合は、今すぐ ca@wikimedia.org までメールで報告してください。",
+	"wikimedia-userlogout-temp-moreinfo": "妨害行為、ブロック回避、または検出回避のために複数の一時アカウントを使用することは、このウィキのポリシーに違反しています。ブロックやその他の制限につながる可能性があることに注意してください。"
 }

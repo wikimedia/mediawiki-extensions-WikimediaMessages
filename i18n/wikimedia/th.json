@@ -66,8 +66,8 @@
 	"group-botadmin": "บอตที่มีสิทธิผู้ดูแลระบบ",
 	"group-botadmin-member": "{{GENDER:$1|บอตที่มีสิทธิผู้ดูแลระบบ}}",
 	"grouppage-botadmin": "{{ns:project}}:บอตที่มีสิทธิผู้ดูแลระบบ",
-	"group-global-temporary-account-viewer": "ผู้ดูไอพีบัญชีชั่วคราว",
-	"group-global-temporary-account-viewer-member": "{{GENDER:$1|ผู้ดูไอพีบัญชีชั่วคราว}}",
+	"group-global-temporary-account-viewer": "ผู้ดูไอพีบัญชีชั่วคราวข้ามโครงการ",
+	"group-global-temporary-account-viewer-member": "{{GENDER:$1|ผู้ดูไอพีบัญชีชั่วคราวข้ามโครงการ}}",
 	"group-confirmed": "ผู้ใช้ยืนยันแล้ว",
 	"group-confirmed-member": "{{GENDER:$1|ผู้ใช้ยืนยันแล้ว}}",
 	"grouppage-confirmed": "{{ns:project}}:ผู้ใช้ยืนยันแล้ว",
@@ -112,6 +112,8 @@
 	"group-ipblock-exempt": "ผู้ยกเว้นการบล็อกไอพี",
 	"group-ipblock-exempt-member": "{{GENDER:$1|ผู้ยกเว้นการบล็อกไอพี}}",
 	"grouppage-ipblock-exempt": "{{ns:project}}:การยกเว้นการระงับหมายเลขไอพี",
+	"group-local-bot": "บอตท้องถิ่น",
+	"group-local-bot-member": "{{GENDER:$1|บอตท้องถิ่น}}",
 	"group-noratelimit": "สร้างบัญชีโดยไม่มีขีดจำกัด",
 	"group-noratelimit-member": "{{GENDER:$1|สร้างบัญชีโดยไม่มีขีดจำกัด}}",
 	"grouppage-noratelimit": "{{ns:project}}:การสร้างบัญชีโดยไม่มีขีดจำกัด",
@@ -200,6 +202,7 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|นักวิจัยของมูลนิธิ}}",
 	"group-wmf-supportsafety": "ฝ่ายความมั่นคงและความปลอดภัยมูลนิธิวิกิมีเดีย",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|ฝ่ายความมั่นคงและความปลอดภัยมูลนิธิวิกิมีเดีย}}",
+	"mulwikisource-sidebar-news": "ข่าว",
 	"tag-emoji": "อิโมจี",
 	"tag-emoji-description": "ใช้งานโดยตัวกรองการแก้ไขหมายเลข 110",
 	"tag-AWB-description": "การแก้ไขที่สร้างโดย [https://en.wikipedia.org/wiki/Wikipedia:AutoWikiBrowser AutoWikiBrowser]",
@@ -251,6 +254,7 @@
 	"wikibase-sitelinks-sitename-sourceswiki": "วิกิซอร์ซพหุภาษา",
 	"wikibase-sitelinks-sitename-species": "วิกิสปีชีส์",
 	"wikibase-sitelinks-sitename-wikidatawiki": "วิกิสนเทศ",
+	"wikibase-sitelinks-sitename-wikimaniawiki": "วิกิเมเนีย",
 	"wikimedia-otherprojects-cloudservices": "บริการคลาวด์วิกิมีเดีย",
 	"wikimedia-taglines-endowment": "การประกันความรู้ฟรีสําหรับรุ่นหน้า",
 	"wikimedia-taglines-sources": "ห้องสมุดเนื้อหาเสรี",
@@ -363,5 +367,6 @@
 	"wikimedia-articletopics-topic-mathematics": "คณิตศาสตร์",
 	"wikimedia-articletopics-topic-medicine-and-health": "การแพทย์และสุขภาพ",
 	"wikimedia-articletopics-topic-physics": "ฟิสิกส์",
-	"wikimedia-articletopics-topic-technology": "เทคโนโลยี"
+	"wikimedia-articletopics-topic-technology": "เทคโนโลยี",
+	"wikimedia-2fa-notification-info": "ข้อมูลเพิ่มเติม"
 }
