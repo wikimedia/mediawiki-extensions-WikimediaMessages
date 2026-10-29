@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikibilig"
+			"Wikibilig",
+			"Anand.orkhon"
 		]
 	},
-	"wm-license-cc-conditions-attribution-header": "ᠵᠣᠬᠢᠶᠠᠭᠴᠬᠢ ‍ᠢᠢ ᠳᠤᠷᠠᠳᠤᠭᠰᠠᠨ"
+	"wm-license-cc-attribution": "ᠵᠣᠬᠢᠶᠠᠭᠴᠬᠢ ‍ᠢᠢ ᠳᠤᠷᠠᠳᠤᠭᠰᠠᠨ",
+	"wm-license-cc-by-sa-3.0-text": "ᠡᠨᠡ ᠹᠠᠢᠯ ᠨᠢ [[{{int:wm-license-cc-wiki-link}}|Creative Commons]] [[creativecommons:by-sa/3.0/deed.en|Attribution-Share Alike 3.0 Unported]] ᠯᠢᠼᠧᠨ᠋ᠽ ᠲᠡᠢ ᠪᠠᠢᠨ᠎ᠠ.",
+	"wm-license-cc-free": "ᠲᠠ ᠴᠢᠯᠦᠭᠡᠲᠡᠢ᠄",
+	"wm-license-cc-free-to-share-header": "ᠬᠤᠪᠢᠶᠠᠯᠴᠠᠬᠤ",
+	"wm-license-cc-free-to-share-text": "ᠪᠦᠲᠦᠭᠡᠯ᠎ᠢ ᠬᠠᠭᠤᠯᠪᠤᠷᠢᠯᠠᠬᠤ᠂ ᠲᠦᠭᠡᠭᠡᠬᠦ᠂ ᠳᠠᠮᠵᠢᠭᠤᠯᠬᠤ",
+	"wm-license-cc-free-to-remix-header": "ᠷᠧᠮᠢᠻᠰ ᠬᠢᠬᠦ",
+	"wm-license-cc-free-to-remix-text": "ᠠᠵᠢᠯ᠎ᠢ ᠲᠤᠬᠢᠷᠠᠭᠤᠯᠬᠤ",
+	"wm-license-cc-conditions": "ᠳᠠᠷᠠᠭᠠᠬᠢ ᠨᠥᠬᠥᠴᠡᠯ᠎ᠳᠦ᠄",
+	"wm-license-cc-conditions-attribution-header": "ᠵᠣᠬᠢᠶᠠᠭᠴᠬᠢ ‍ᠢᠢ ᠳᠤᠷᠠᠳᠤᠭᠰᠠᠨ",
+	"wm-license-cc-conditions-attribution-text": "ᠲᠠ ᠵᠣᠬᠢᠬᠤ ᠻᠷᠧᠳᠢᠲ᠎ᠢ ᠥᠭᠴᠦ᠂ ᠯᠢᠼᠧᠨᠽᠢ᠎ᠶᠢᠨ ᠬᠣᠯᠪᠣᠭᠠᠰᠤ᠎ᠶᠢ ᠥᠭᠴᠦ᠂ ᠥᠭᠡᠷᠡᠴᠢᠯᠡᠯᠲᠡ ᠣᠷᠣᠭᠤᠯᠤᠭᠰᠠᠨ ᠡᠰᠡᠬᠦ᠎ᠶᠢ ᠵᠢᠭᠠᠵᠤ ᠥᠭᠬᠦ ᠶᠣᠰᠣᠲᠠᠢ᠃ ᠲᠠ ᠡᠭᠦᠨ᠎ᠢ ᠶᠠᠮᠠᠷ ᠴᠤ ᠪᠣᠯᠤᠮᠵᠢ᠎ᠶᠢᠨ ᠠᠷᠭ᠎ᠠ᠎ᠪᠠᠷ ᠬᠢᠵᠦ ᠪᠣᠯᠤᠨ᠎ᠠ᠂ ᠭᠡᠬᠦ᠎ᠳᠦ᠎ᠪᠡᠨ ᠯᠢᠼᠧᠨᠽ ᠣᠯᠭᠤᠭᠴᠢ ᠲᠠᠨ᠎ᠢ ᠡᠰᠡᠪᠡᠯ ᠲᠠᠨ᠎ᠤ ᠬᠡᠷᠡᠭᠯᠡᠭᠡ᠎ᠶᠢ ᠵᠥᠪᠰᠢᠶᠡᠷᠡᠬᠦ᠎ᠦᠭᠡᠢ᠃",
+	"wm-license-cc-conditions-share_alike-header": "ᠠᠳᠠᠯᠢᠬᠠᠨ ᠬᠤᠪᠢᠶᠠᠯᠴᠠᠬᠤ",
+	"wm-license-cc-conditions-share_alike-text": "ᠬᠡᠷᠪᠡ ᠲᠠ ᠮᠠᠲ᠋ᠧᠷᠢᠶᠠᠯ᠎ᠢ ᠳᠠᠬᠢᠨ ᠨᠠᠢᠷᠠᠭᠤᠯᠬᠤ᠂ ᠬᠤᠪᠢᠷᠠᠭᠠᠬᠤ ᠡᠰᠡᠪᠡᠯ ᠪᠦᠲᠦᠭᠡᠬᠦ ᠶᠤᠮ ᠪᠣᠯ ᠥᠪᠡᠷ᠎ᠦᠨ ᠬᠤᠪᠢ ᠨᠡᠮᠡᠷᠢ᠎ᠶᠢ ᠡᠬᠡ ᠬᠤᠪᠢ᠎ᠲᠠᠢ [[ccorg:share-your-work/licensing-considerations/compatible-licenses|ᠢᠵᠢᠯ ᠡᠰᠡᠪᠡᠯ ᠨᠡᠢᠴᠡᠵᠦ ᠪᠤᠢ ᠯᠢᠼᠧᠨᠽ]]᠎ᠶᠢᠨ ᠳᠠᠭᠠᠤ ᠲᠦᠭᠡᠭᠡᠬᠦ ᠶᠣᠰᠣᠲᠠᠢ᠃"
 }

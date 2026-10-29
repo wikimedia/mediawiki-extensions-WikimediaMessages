@@ -4,7 +4,8 @@
 			"Jim-by",
 			"Red Winged Duck",
 			"Renessaince",
-			"Wizardist"
+			"Wizardist",
+			"Vlad5250"
 		]
 	},
 	"grouppage-oversight": "{{ns:project}}:Рэвізоры",
@@ -12,5 +13,7 @@
 	"group-oversight-member": "{{GENDER:$1|рэвізор|рэвізорка}}",
 	"hello": "Вітаем",
 	"please-translate": "Калі ласка, дапамажыце перакласьці на вашую мову",
-	"thank-you": "{{GENDER:$1|Дзякуй.}}"
+	"please-translate-short": "Дапамога зь перакладамі",
+	"thank-you": "{{GENDER:$1|Дзякуй.}}",
+	"specialinvestigate-feedback": "Пакінуць водгук"
 }
