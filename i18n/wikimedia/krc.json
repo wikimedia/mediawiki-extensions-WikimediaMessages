@@ -72,7 +72,7 @@
 	"group-event-organizer-member": "{{GENDER:$1|болуу къураучу}}",
 	"grouppage-event-organizer": "{{ns:project}}:Болуу къураучула",
 	"group-eventcoordinator": "Болуу координаторла",
-	"group-eventcoordinator-member": "{{GENDER:$1|боллу координатор}}",
+	"group-eventcoordinator-member": "{{GENDER:$1|болууланы координатору}}",
 	"grouppage-eventcoordinator": "{{ns:project}}:Болуу координаторла",
 	"group-eventparticipant": "Болуугъа къошулуучула",
 	"group-eventparticipant-member": "{{GENDER:$1|болуугъа къошулуучула}}",
