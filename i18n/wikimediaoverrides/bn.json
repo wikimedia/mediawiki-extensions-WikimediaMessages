@@ -7,6 +7,7 @@
 			"Nemo bis",
 			"SaldırganSincap",
 			"Sohom Datta",
+			"Tausheef Hassan",
 			"ZI Jony",
 			"আজিজ",
 			"আফতাবুজ্জামান",
@@ -51,6 +52,10 @@
 	"wikimedia-globalblocking-blockedtext-appeal-user": "বাধাটি নিয়ে আলোচনা করতে দয়া করে [[m:Steward requests/Global|মেটা-উইকিতে পর্যালোচনার জন্য একটি অনুরোধ পোস্ট করুন]]।",
 	"wikimedia-globalblocking-blockedtext-mistake": "আপনি যদি মনে করেন যে আপনাকে ভুলবশত বাধা প্রদান করা হয়েছে, তবে আপনি [[m:Special:MyLanguage/Stewards/Wizard|স্টুয়ার্ডদের বাধাদান উইজার্ডে]] অতিরিক্ত তথ্য এবং নির্দেশাবলী খুঁজে পেতে পারেন।",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "আপনার আইপি ঠিকানাটিকে স্বয়ংক্রিয়ভাবে [[m:Special:MyLanguage/Global blocks|সকল উইকিতে বাধাদান]] করা হয়েছে কারণ এটি অন্য একজন ব্যবহারকারী ব্যবহার করেছিলেন, যাকে $1 বাধাদান করেছিল।",
+	"wikimedia-jsonconfig-license-copyrightwarning": "পরিবর্তনসমূহ প্রকাশের মাধ্যমে আপনি আমাদের [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং অপরিবর্তনীয়ভাবে আপনার অবদান [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] লাইসেন্সের শর্তাবলীর অধীনে প্রকাশ করতে সম্মত হচ্ছেন।",
+	"wikimedia-jsonconfig-license-copyrightwarning-license-unset": "পরিবর্তনসমূহ প্রকাশের মাধ্যমে আপনি আমাদের [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং অপরিবর্তনীয়ভাবে আপনার অবদান <code>license</code> ক্ষেত্রে উল্লেখিত লাইসেন্স অনুযায়ী প্রকাশ করতে সম্মত হচ্ছেন।",
+	"wikimedia-jsonconfig-license-notice": "'''দ্রষ্টব্য:''' আপনি যখন এই পাতাটি সম্পাদনা করছেন, তখন আপনি আমাদের [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং অপরিবর্তনীয়ভাবে আপনার অবদান [{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}] লাইসেন্সের শর্তাবলীর অধীনে প্রকাশ করতে সম্মত হচ্ছেন।",
+	"wikimedia-jsonconfig-license-notice-license-unset": "'''দ্রষ্টব্য:''' আপনি যখন এই পাতাটি সম্পাদনা করছেন, তখন আপনি আমাদের [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use ব্যবহারের শর্তাবলীর] সাথে সম্মত হচ্ছেন এবং অপরিবর্তনীয়ভাবে আপনার অবদান <code>license</code> ক্ষেত্রে উল্লেখিত লাইসেন্স অনুযায়ী প্রকাশ করতে সম্মত হচ্ছেন।",
 	"wikimedia-skin-minerva-donate-banner-message": "এখনই দান করুন",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "উইকিপিডিয়া যদি কোনোভাবে আপনার উপকারে আসে, তবে দান করতে বিবেচনা করুন।",
 	"wikimedia-skin-minerva-donate-banner-subtitle-generic": "এই সাইটটি যদি কোনোভাবে আপনার উপকারে আসে, তবে দান করতে বিবেচনা করুন।"

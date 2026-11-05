@@ -101,6 +101,8 @@
 	"group-steward-member": "{{GENDER:$1|сцюард}}",
 	"group-sysadmin": "Сістэмныя адміністратары",
 	"group-sysadmin-member": "{{GENDER:$1|сістэмны адміністратар|сістэмная адміністратарка}}",
+	"wikilambda-abstractwiki-sidebar-projectchat": "Чат праекту",
+	"wikilambda-abstractwiki-sidebar-createarticle": "Стварыць артыкул",
 	"tag-emoji": "Смайлы",
 	"tag-emoji-description": "Выкарыстоўваецца глабальным фільтрам злоўжывання 110.",
 	"tag-AWB": "АўтаВікіБраўзер",
