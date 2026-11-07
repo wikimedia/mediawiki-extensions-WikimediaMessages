@@ -256,6 +256,7 @@
 	"grouppage-pagemover": "{{doc-group|pagemover|page}}",
 	"group-psi-volunteer-testers": "{{doc-group|psi-volunteer-testers}}\nA global group for volunteers who help the Wikimedia Foundation's Product Safety and Integrity (PSI) department test features before they are released. The rights in this group change as individual tests start and finish; see [[:meta:Special:GlobalGroupPermissions/psi-volunteer-testers|the group's permissions]] for the current set.",
 	"group-psi-volunteer-testers-member": "{{doc-group|psi-volunteer-testers|member}}",
+	"grouppage-psi-volunteer-testers": "{{doc-group|psi-volunteer-testers|page}}",
 	"group-recursive-export": "{{doc-group|recursive-export}}",
 	"group-recursive-export-member": "{{doc-group|recursive-export|member}}",
 	"grouppage-recursive-export": "{{notranslate}}\n{{doc-group|recursive-export|page}}\n{{Global grouppage}}",

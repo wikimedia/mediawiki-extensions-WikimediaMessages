@@ -199,6 +199,7 @@
 	"group-pagemover": "Page movers",
 	"group-pagemover-member": "{{GENDER:$1|page mover}}",
 	"grouppage-pagemover": "{{ns:project}}:Page movers",
+	"grouppage-psi-volunteer-testers": "m:Special:MyLanguage/PSI volunteer testers",
 	"group-psi-volunteer-testers": "PSI volunteer testers",
 	"group-psi-volunteer-testers-member": "{{GENDER:$1|PSI volunteer tester}}",
 	"group-recursive-export": "Recursive export",
