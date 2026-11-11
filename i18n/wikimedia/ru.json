@@ -75,7 +75,8 @@
 			"Vlad5250",
 			"WindEwriX",
 			"Александр Сигачёв",
-			"Умар"
+			"Умар",
+			"Artsiom91"
 		]
 	},
 	"wikimediamessages-desc": "Сообщения, специфичные для Викимедиа",
@@ -260,6 +261,8 @@
 	"group-wmf-researcher-member": "{{GENDER:$1|Исследователь WMF}}",
 	"group-wmf-supportsafety": "Доверие и безопасность Фонда Викимедиа",
 	"group-wmf-supportsafety-member": "{{GENDER:$1|Доверие и безопасность Фонда Викимедиа}}",
+	"wikilambda-abstractwiki-sidebar-projectchat": "Чат проекта",
+	"wikilambda-abstractwiki-sidebar-createarticle": "Создать статью",
 	"tag-emoji": "Эмодзи",
 	"tag-emoji-description": "Используется глобальным фильтром злоупотребления 110.",
 	"tag-AWB": "AutoWikiBrowser",
