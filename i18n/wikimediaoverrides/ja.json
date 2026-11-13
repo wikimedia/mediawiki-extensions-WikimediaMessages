@@ -94,6 +94,7 @@
 	"wikimedia-globalblocking-blockedtext-autoblock-intro": "あなたのIPアドレスは、$1によってブロックされた別の利用者が使用していたため、自動的に[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロックされました]]。",
 	"wikimedia-globalblocking-blockedtext-autoblock-intro-xff": "あなたのリクエストで使用されたプロキシサーバーのうち1つ以上が、 $1によってブロックされた別の利用者によって使用されたため、自動的に[[m:Special:MyLanguage/Global blocks|すべてのウィキでブロックされました]]。",
 	"wikimedia-jsonconfig-license-copyrightwarning": "変更を公開することにより、あなたは私たちの[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に同意し、あなたの貢献を[{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]ライセンスの条件に基づいて公開することに取消不可能な形で同意することになります。",
+	"wikimedia-jsonconfig-license-notice": "'''注:''' 変更を公開することにより、あなたは私たちの[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use 利用規約]に同意し、あなたの投稿を[{{int:jsonconfig-license-url-$1}} {{int:jsonconfig-license-name-$1}}]ライセンスの条件に基づいて公開することに取消不可能な形で同意することになります。",
 	"wikimedia-oathauth-step1-test": "二要素認証に使用するアプリをダウンロードしてください。推奨されるクライアントについては [https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication Help:二要素認証]を参照してください。",
 	"wikimedia-skin-minerva-donate-banner-message": "今すぐ寄付する",
 	"wikimedia-skin-minerva-donate-banner-subtitle": "ウィキペディアがあなたのお役に立てているのなら、ぜひ本日ご寄付をお願いいたします。",
