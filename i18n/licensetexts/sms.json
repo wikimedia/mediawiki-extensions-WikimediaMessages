@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Miilehti",
 			"Tynnoel",
 			"Yupik"
 		]
@@ -17,5 +18,6 @@
 	"wm-license-information-author": "Tuejjeei",
 	"wm-license-information-permission": "Ââʹnnemvuõiggâdvuõtt",
 	"wm-license-information-permission-reusing-text": "Tän teâttõõzz oʹđđestâânnmõš",
-	"wm-license-own-work": "Jiijjâs tuâjj"
+	"wm-license-own-work": "Jiijjâs tuâjj",
+	"wm-license-self-multiple-licenses-select": "Vuäitak vaʹlljeed liseeʹns, koon jiõčč haaʹlääk."
 }
