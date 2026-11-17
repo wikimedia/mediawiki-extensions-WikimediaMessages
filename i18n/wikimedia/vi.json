@@ -39,7 +39,8 @@
 			"Samoasambia",
 			"Nvdtn19",
 			"NgocAnMaster",
-			"Veritas Sapientiae"
+			"Veritas Sapientiae",
+			"HungKhanh0106"
 		]
 	},
 	"wikimediamessages-desc": "Các thông điệp dành cho Wikimedia",
@@ -308,7 +309,7 @@
 	"wikimedia-translationnotifications-signup-legal": "Cung cấp thông tin này có nghĩa là bạn đồng ý rằng Quỹ Wikimedia có thể liên hệ với bạn về các bản dịch cũng như cung cấp cho bạn các thông tin hữu ích về hoạt động của phong trào Wikimedia. Dữ liệu của bạn có thể được lưu trữ tại Hoa Kỳ theo [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy quy định quyền riêng tư].",
 	"upload-more-photos-of-this-monument": "Tải lên thêm hình ảnh đài tưởng niệm này",
 	"createacct-captcha-help-url": "{{ns:Project}}:Yêu cầu tạo tài khoản",
-	"wikimedia-developers": "Lập trình viên",
+	"wikimedia-developers": "Nhà phát triển",
 	"wikimedia-torblock-blocked": "Có vẻ như địa chỉ IP (<strong>$1</strong>) của bạn là một điểm thoát của mạng [https://vi.wikipedia.org/wiki/Tor Tor].\nChúng tôi không cho phép sửa đổi qua Tor nhằm ngăn chặn hành vi lạm dụng.\nĐể biết thêm thông tin và cách xử lý, mời bạn tham khảo quy định toàn cục về việc [https://meta.wikimedia.org/wiki/Special:MyLanguage/No_open_proxies không dùng proxy mở].",
 	"wikimedia-mobile-frontend-terms-url": "https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/vi?uselang=vi",
 	"wikimedia-oauth-privacy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy Chính sách quyền riêng tư]",
@@ -354,7 +355,7 @@
 	"wikimedia-statslink": "Thống kê",
 	"wikimedia-wikistats-label": "Wikistats",
 	"wikimedia-wikistats-tagline": "Thống kê Wikimedia",
-	"wikimedia-cookiestatement": "Tuyên bố về cookie",
+	"wikimedia-cookiestatement": "Chính sách cookie",
 	"ext-quicksurveys-performance-internal-survey-question": "Trang này có tải đủ nhanh không?",
 	"ext-quicksurveys-performance-internal-survey-privacy-policy": "Để tìm hiểu thêm, hãy đọc [https://foundation.wikimedia.org/wiki/Performance_Perception_Survey_Privacy_Statement lời tuyên bố về quyền riêng tư] của cuộc thăm dò ý kiến này.",
 	"wikimedia-switchover-read-only": "Bạn hiện không thể sửa đổi do hệ thống đang được bảo trì. Xin sao lưu nội dung và thử lại sau vài phút.",

@@ -10,7 +10,8 @@
 			"MinecraftAustralia",
 			"Nemo bis",
 			"OchAyeTheNoo",
-			"Varnent"
+			"Varnent",
+			"Monospaced"
 		]
 	},
 	"sitesupport": "Propines",
@@ -30,5 +31,7 @@
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
 	"wikimedia-developers": "Deveelopers",
 	"interlanguage-link-sitename-wikipedia": "Wikipaedia, the free encyclopaedia",
+	"wikimedia-statslink": "Statistics",
+	"wikimedia-cookiestatement": "Cookie statement",
 	"wikimedia-help-translate-prompt": "ant tae help wi owersettins? [$1 Owersett the missing messages]."
 }
