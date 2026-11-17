@@ -4,6 +4,7 @@
 			"Amara-Amaziɣ",
 			"Aslmad mohamed belarhzali",
 			"Brahim-essaidi",
+			"Daoudsfouli",
 			"Hakim1bal",
 			"Lhoussine AIT TAYFST",
 			"Mdb897",
@@ -109,10 +110,12 @@
 	"interlanguage-link-wikipedia": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ",
 	"wikimedia-statslink": "ⵉⵙⵏⵎⴽⵜⴰⵜⵏ",
 	"wikimedia-cookiestatement": "ⵜⴰⵏⵎⵎⴰⵍⵜ ⵏ ⵓⴽⵓⴽⵉ",
+	"wikimedia-legal-safety-contacts": "ⵉⵡⴰⴹⵏ ⵉⵣⵔⴼⴰⵏⵏ ⴷ ⵜⵏⴼⵔⵓⵜ",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "ⵢⴰⵀ",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "ⵓⵀⵓ",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "ⵢⴰⵀ",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "ⵓⵀⵓ",
 	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "ⵢⴰⵀ",
-	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "ⵓⵀⵓ"
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "ⵓⵀⵓ",
+	"wikimedia-2fa-notification-info": "ⵓⴳⴳⴰⵔ ⵏ ⵓⵎⵍⴰⵏ"
 }
