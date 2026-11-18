@@ -10,10 +10,11 @@
 			"MinecraftAustralia",
 			"Nemo bis",
 			"OchAyeTheNoo",
-			"Varnent"
+			"Varnent",
+			"Monospaced"
 		]
 	},
-	"sitesupport": "Propines",
+	"sitesupport": "Donate",
 	"tooltip-n-sitesupport": "Support us",
 	"group-confirmed-member": "{{GENDER:$1|confirmed uiser}}",
 	"group-flood": "Bot uisers",
@@ -28,7 +29,9 @@
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisoorce",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Deveelopers",
+	"wikimedia-developers": "Developers",
 	"interlanguage-link-sitename-wikipedia": "Wikipaedia, the free encyclopaedia",
+	"wikimedia-statslink": "Statistics",
+	"wikimedia-cookiestatement": "Cookie statement",
 	"wikimedia-help-translate-prompt": "ant tae help wi owersettins? [$1 Owersett the missing messages]."
 }
