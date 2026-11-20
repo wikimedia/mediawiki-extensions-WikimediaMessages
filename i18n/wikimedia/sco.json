@@ -10,10 +10,11 @@
 			"MinecraftAustralia",
 			"Nemo bis",
 			"OchAyeTheNoo",
-			"Varnent"
+			"Varnent",
+			"Monospaced"
 		]
 	},
-	"sitesupport": "Propines",
+	"sitesupport": "Donate",
 	"tooltip-n-sitesupport": "Support us",
 	"group-confirmed-member": "{{GENDER:$1|confirmed uiser}}",
 	"group-flood": "Bot uisers",
@@ -21,14 +22,16 @@
 	"group-rollbacker": "Rowbackers",
 	"group-rollbacker-member": "{{GENDER:$1|rollbacker}}",
 	"wikimedia-copyright-footer": "Text is available unner the [https://creativecommons.org/licenses/by-sa/4.0/deed.en Creative Commons Attribution-ShareAlike License];\nadditional terms mey apply.\nSee [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms o Uiss] fur details.",
-	"wikimedia-copyrightwarning": "Bi hainin chynges, ye agree tae the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms o Uiss], an ye irrevocably gree tae release yer contribution unner the [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] an the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYe gree that ae hyperairtin or URL is sufficient attribution unner the Creative Commons license.",
+	"wikimedia-copyrightwarning": "Bi hainin chynges, ye agree tae the [https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use Terms o Use], an ye irrevocably gree tae release yer contribution unner the [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0 License] an the [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL].\nYe gree that a hyperlink or URL is sufficient attribution unner the Creative Commons license.",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0] n [https://www.gnu.org/licenses/fdl.html GFDL]",
 	"wikibase-repo-name": "Wikidata",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisoorce",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
-	"wikimedia-developers": "Deveelopers",
+	"wikimedia-developers": "Developers",
 	"interlanguage-link-sitename-wikipedia": "Wikipaedia, the free encyclopaedia",
+	"wikimedia-statslink": "Statistics",
+	"wikimedia-cookiestatement": "Cookie statement",
 	"wikimedia-help-translate-prompt": "ant tae help wi owersettins? [$1 Owersett the missing messages]."
 }

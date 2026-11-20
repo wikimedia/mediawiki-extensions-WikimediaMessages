@@ -78,7 +78,7 @@
 	"wikimedia-apierror-urlshortener-permissiondenied": "短縮リンクは、meta.wikimedia.org ウィキへの呼び出しによってのみ作成できます。",
 	"wikimedia-mwoauth-form-privacypolicy-link": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ja プライバシー・ポリシー]",
 	"wikimedia-notification-body-oathauth-disable-other": "{{GENDER:$2|あなた}}がこれを申請していない場合は、WMF信頼と安全に連絡してください。",
-	"wikimedia-ipinfo-help-text": "このツールの使用には[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]が適用されます。表示される情報は MaxMind および [https://docs.spur.us/data-types Spur] に由来します。完全に正確ではないかもしれません。",
+	"wikimedia-ipinfo-help-text": "このツールの使用には[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]が適用されます。表示される情報は、MaxMind および [https://docs.spur.us/data-types Spur] から取得されます。完全に正確ではない可能性があります。",
 	"wikimedia-ipinfo-infobox-use-terms": "IP 情報ツールは、MaxMind データベースを使用して、おおよその位置、プロキシ、およびこの IP アドレスを共有しているデバイスの数などの詳細を表示します。有効にする前に、[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP 情報ツールのガイドライン] を確認してください。",
 	"wikimedia-ipinfo-preference-use-agreement": "[https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:IP_Information_tool_guidelines IP情報ツールのガイドライン]に従い、荒らしやその他ウィキメディア財団またはコミュニティの方針に対する違反行為の阻止または調査のためにのみ、このツールを使用することに同意します。",
 	"wikimedia-similareditors-error-default": "何らかの問題が発生し、調査中です。問題が継続するようであれば、 [https://meta.wikimedia.org/wiki/Talk:IP_Editing:_Privacy_Enhancement_and_Abuse_Mitigation/Similar_Editors こちら]にご連絡ください。",
