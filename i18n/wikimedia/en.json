@@ -613,5 +613,6 @@
 	"wikimedia-2fa-notification-header": "Please configure two-factor authentication now",
 	"wikimedia-2fa-notification-body": "Do it before $1 or you'll lose some of your user groups.",
 	"wikimedia-2fa-notification-action": "Set up two-factor authentication",
-	"wikimedia-2fa-notification-info": "More information"
+	"wikimedia-2fa-notification-info": "More information",
+	"oathmanage-helppage": "https://meta.wikimedia.org/wiki/Special:MyLanguage/Help:Two-factor_authentication"
 }
