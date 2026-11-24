@@ -113,6 +113,7 @@
 	"wikimedia-copyrightwarning-ccbysa40only": "Захоўваючы змены, вы згаджаецеся з [https://foundation.wikimedia.org/wiki/Умовы_выкарыстання умовамі выкарыстання], а таксама згаджаецеся на беззваротную публікацыю на ўмовах ліцэнзіі [https://creativecommons.org/licenses/by-sa/4.0/deed.be CC BY-SA 4.0]. Вы згаджаецеся, што гіперспасылка ці URL на адпаведную старонку будзе дастаткова для выканання ўмоваў атрыбуцыі ліцэнзіі Creative Commons.",
 	"wikimedia-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.be Ліцэнзія CC BY-SA 4.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
 	"wikimedia-mobile-license-links": "[https://creativecommons.org/licenses/by-sa/4.0/deed.be CC BY-SA 4.0] і [https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_GNU_Free_Documentation_License GFDL]",
+	"wikifunctions-editing-copyrightwarning-function": "Націскаючы «Апублікаваць», вы згаджаецеся з [//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use умовамі выкарыстання], а таксама згаджаецеся на беззваротную публікацыю на ўмовах [//creativecommons.org/publicdomain/zero/1.0/ ліцензіі Creative Commons CC0].",
 	"wikimedia-mobile-mainpage-title-loggedin": "{{GENDER:$1|Вітаем}}, $1!",
 	"wikibase-repo-name": "Вікіданыя",
 	"wikibase-page-schema-author-name": "Удзельнікі праектаў Вікімедыя",

@@ -8,13 +8,31 @@
 			"Bild-Sprache"
 		]
 	},
+	"wikimediamessages-desc": "Messadis da sistem specifics per projects da la Wikimedia Foundation",
 	"sitesupport": "Donaziuns",
 	"tooltip-n-sitesupport": "Ans sustegna",
+	"wikibase-page-schema-author-name": "Auturs dals projects da Wikimedia",
 	"wikibase-sitelinks-wikinews": "Wikinews",
 	"wikibase-sitelinks-wikiquote": "Wikiquote",
 	"wikibase-sitelinks-wikisource": "Wikisource",
 	"wikibase-sitelinks-wikivoyage": "Wikivoyage",
+	"wikibase-otherprojects-sources": "Wikisource plurilingua",
+	"wikibase-sitelinks-sitename-sourceswiki": "Wikisource plurilingua",
+	"wikimedia-taglines-wikipedia": "L'Enciclopedia libra",
+	"wikimedia-taglines-wiktionary": "Dicziunari liber",
 	"wikimedia-developers": "Sviluppaders",
+	"interlanguage-link-mul": "Ulteriuras linguas",
+	"interlanguage-link-wikipedia": "Vichipedia",
+	"interlanguage-link-sitename-wikipedia": "Vichipedia, l'enciclopedia libra",
 	"wikimedia-statslink": "Statisticas",
-	"wikimedia-cookiestatement": "Indicaziuns davart cookies"
+	"wikimedia-cookiestatement": "Indicaziuns davart cookies",
+	"ext-quicksurveys-tst-internal-survey-answer-positive": "Gea",
+	"ext-quicksurveys-tst-internal-survey-answer-negative": "Na",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "Gea",
+	"ext-quicksurveys-internal-gdi-safety-survey-answer-negative": "Na",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-positive": "Gea",
+	"ext-quicksurveys-automoderator-patroller-workstream-external-answer-negative": "Na",
+	"research-incentive-answer-positive": "Gea",
+	"research-incentive-answer-negative": "Na",
+	"research-incentive-confirm-msg": "Grazia fitgun!"
 }
