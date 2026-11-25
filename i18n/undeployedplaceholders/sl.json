@@ -12,8 +12,19 @@
 	"wikimedia-log-action-filter-usermerge-deleteuser": "Izbris uporabniškega računa",
 	"wikimedia-usermerge-logpage": "Dnevnik spajanja uporabnikov",
 	"wikimedia-usermerge-logpagetext": "To je dnevnik dejanj spajanja uporabnikov.",
+	"wikimedia-lqt-log-name": "Dnevnik nitnih razprav",
+	"wikimedia-lqt-log-header": "Ta dnevnik navaja podrobnosti dejanj, ki so bila opravljena v nitnih razpravah.",
+	"wikimedia-lqt-log-action-move": "je prestavil_a [[$1]] iz [[$2]] v [[$3]] ($4)",
+	"wikimedia-lqt-log-action-split": "je oddelil_a [[$1]] od [[$3]], z novo temo »$2«",
+	"wikimedia-lqt-log-action-merge-across": "je prestavil_a [[$1]] izpod [[$2]] pod [[$3]]",
+	"wikimedia-lqt-log-action-merge-down": "je združil_a [[$1]] pod [[$3]]",
+	"wikimedia-lqt-log-action-subjectedit": "je spremenil_a temo [[$1]] iz »$2« v »$3«",
+	"wikimedia-lqt-log-action-resort": "je spremenil_a vrstni red razvrščanja [[$1]]. Razvrstilni ključ je spremenjen iz $2 v $3",
+	"wikimedia-lqt-log-action-signatureedit": "je spremenil_a podpis [[$1]] iz »$2« v »$3«",
 	"wikimedia-graph-tracking-category": "Strani z grafikoni",
 	"wikimedia-graph-tracking-category-desc": "Stran vključuje značko <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Strani z grafikoni z napakami",
-	"wikimedia-graph-broken-category-desc": "Stran vključuje nepravilno uporabljeno značko <code>&lt;graph&gt;</code>."
+	"wikimedia-graph-broken-category-desc": "Stran vključuje nepravilno uporabljeno značko <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-disabled-category": "Strani z onemogočenimi grafikoni",
+	"wikimedia-graph-disabled-category-desc": "Stran vključuje značko <code>&lt;graph&gt;</code>, ki trenutno ni na voljo ([[phab:T334940|T334940]])."
 }
