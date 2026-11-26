@@ -141,6 +141,8 @@
 	"group-engineer": "Ingenieros",
 	"group-engineer-member": "{{GENDER:$1|ingeniero|ingeniera}}",
 	"grouppage-engineer": "{{ns:project}}:Ingenieros",
+	"group-electionclerk": "Secretarios electorales",
+	"group-electionclerk-member": "secretari{{GENDER:$1|o|a}} electoral",
 	"group-eliminator": "Eliminadores",
 	"group-eliminator-member": "{{GENDER:$1|eliminador|eliminadora}}",
 	"grouppage-eliminator": "{{ns:project}}:Eliminadores",

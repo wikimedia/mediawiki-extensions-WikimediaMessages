@@ -15,5 +15,7 @@
 	"wikimedia-graph-tracking-category": "Strani z grafikoni",
 	"wikimedia-graph-tracking-category-desc": "Stran vključuje značko <code>&lt;graph&gt;</code>.",
 	"wikimedia-graph-broken-category": "Strani z grafikoni z napakami",
-	"wikimedia-graph-broken-category-desc": "Stran vključuje nepravilno uporabljeno značko <code>&lt;graph&gt;</code>."
+	"wikimedia-graph-broken-category-desc": "Stran vključuje nepravilno uporabljeno značko <code>&lt;graph&gt;</code>.",
+	"wikimedia-graph-disabled-category": "Strani z onemogočenimi grafikoni",
+	"wikimedia-graph-disabled-category-desc": "Stran vključuje značko <code>&lt;graph&gt;</code>, ki trenutno ni na voljo ([[phab:T334940|T334940]])."
 }
