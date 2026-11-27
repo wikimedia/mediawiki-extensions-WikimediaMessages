@@ -12,7 +12,7 @@
 			"Daoudsfouli"
 		]
 	},
-	"wikimediamessages-desc": "ⵜⵉⴱⵔⴰⵜⵉⵏ ⵜⵉⵎⵥⵍⴰⵢⵉⵏ ⵏ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
+	"wikimediamessages-desc": "ⵜⵉⴱⵔⴰⵜⵉⵏ ⵉⵥⵍⵉⵏ ⵙ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
 	"sitesupport": "ⴼⴽ ⵉⴷⵔⵉⵎⵏ",
 	"tooltip-n-sitesupport": "ⵏⵏⴰⵍⴰⵜ ⴰⵖ",
 	"specialpages-group-contribution": "ⴰⴷⵔⴰⵡ",
@@ -93,6 +93,7 @@
 	"group-steward-member": "{{GENDER:$1|ⴰⴳⵏⵙⴰⵙ|ⵜⴰⴳⵏⵙⴰⵙⵜ}}",
 	"group-sysadmin": "ⵉⵎⵙⵙⵓⴳⵓⵔⵏ ⵏ ⵓⵏⴳⵔⴰⵡ",
 	"group-translator": "ⵉⵎⵙⵙⵓⵖⵍⵏ",
+	"group-translator-member": "{{GENDER:$1|ⴰⵎⵙⵓⵖⵍ}}",
 	"group-translationadmin": "ⴰⵎⵙⵙⵓⴳⵓⵔ ⵏ ⵓⵙⵓⵖⵍ",
 	"group-translationadmin-member": "{{GENDER:$1|ⴰⵎⵙⵙⵓⴳⵓⵔ ⵏ ⵓⵙⵓⵖⵍ}}",
 	"mulwikisource-sidebar-news": "ⵉⵏⵖⵎⵉⵙⵏ",
@@ -176,6 +177,8 @@
 	"wikimedia-wikistats-tagline": "ⴰⵙⵏⵎⴽⵜⴰ ⵏ ⵡⵉⴽⵉⵎⵉⴷⵢⴰ",
 	"wikimedia-cookiestatement": "ⵜⴰⵏⵎⵎⴰⵍⵜ ⵏ ⵓⴽⵓⴽⵉ",
 	"wikimedia-legal-safety-contacts": "ⵉⵡⴰⴹⵏ ⵉⵣⵔⴼⴰⵏⵏ ⴷ ⵜⵏⴼⵔⵓⵜ",
+	"action-docseditor": "ⵙⵏⴼⵍ ⴰⵏⵜⴰⵎ",
+	"right-docseditor": "ⵙⵏⴼⵍ ⴰⵏⵜⴰⵎ",
 	"ext-quicksurveys-tst-internal-survey-answer-positive": "ⵢⴰⵀ",
 	"ext-quicksurveys-tst-internal-survey-answer-negative": "ⵓⵀⵓ",
 	"ext-quicksurveys-internal-gdi-safety-survey-answer-positive": "ⵢⴰⵀ",
